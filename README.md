@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:47:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501887708312 |
-| Players | 10/15 |
-| Host Name | Юджин Аль-Бахмути |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:47:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501887779571 |
-| Players | 9/10 |
-| Host Name | VAC小子 |
+| Lobby ID | 28566501888104874 |
+| Players | 2/8 |
+| Host Name | . |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:47:55 |
+| Lobby Creation Time | Saturday, December 16, 2023 17:48:16 |
 
 
 |  | epic_boss_fight_nightmare |
