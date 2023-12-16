@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501835246100 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | KiJo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:47:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501847012123 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Panda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:01:15 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501846690991 |
-| Players | 1/8 |
-| Host Name | sq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:00:52 |
+| Lobby ID | 28566501844857902 |
+| Players | 2/8 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:58:38 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501847092851 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Rae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:01:21 |
@@ -76,26 +76,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501844857902 |
-| Players | 3/8 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:58:38 |
+| Lobby ID | 28566501847876366 |
+| Players | 1/8 |
+| Host Name | sq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:02:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501847824244 |
-| Players | 1/15 |
-| Host Name | 100 часов кинг |
+| Lobby ID | 28566501847925159 |
+| Players | 2/15 |
+| Host Name | クロス |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:02:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501847985286 |
+| Players | 3/8 |
+| Host Name | Matve172 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:02:13 |
+| Lobby Creation Time | Saturday, December 16, 2023 17:02:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501847963053 |
+| Players | 1/15 |
+| Host Name | skiffy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:02:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501839581303 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Белый Волк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:52:22 |
