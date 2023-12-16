@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501953660857 |
-| Players | 9/24 |
+| Players | 16/24 |
 | Host Name | 老司机 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:55:46 |
@@ -29,11 +29,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:50:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501954045100 |
-| Players | 1/10 |
-| Host Name | Pyro003 |
+| Lobby ID | 28566501954036189 |
+| Players | 2/8 |
+| Host Name | бомбардирОчка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:56:08 |
 
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:54:46 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501953071908 |
-| Players | 5/10 |
-| Host Name | meme |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:55:12 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501953692658 |
@@ -83,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:55:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501954036189 |
-| Players | 2/8 |
-| Host Name | бомбардирОчка |
+| Lobby ID | 28566501954877263 |
+| Players | 2/10 |
+| Host Name | madman in depressed |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:56:08 |
+| Lobby Creation Time | Saturday, December 16, 2023 18:56:55 |
 
 
 |  | epic_boss_fight_challenger |
@@ -101,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:56:07 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28566501954316797 |
-| Players | 1/10 |
-| Host Name | Wendy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:56:23 |
+| Lobby ID | 28566501954793576 |
+| Players | 1/5 |
+| Host Name | Дмитрий Нагиев |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:56:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566501954796318 |
+| Players | 1/5 |
+| Host Name | 7.35 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:56:51 |
 
 
