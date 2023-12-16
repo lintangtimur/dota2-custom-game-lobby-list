@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501785256200 |
-| Players | 14/15 |
-| Host Name | /-|-\Liquid_M1nd/-|-\ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 15:45:54 |
+| Lobby ID | 28566501786132105 |
+| Players | 1/10 |
+| Host Name | Атаквейшен |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 15:47:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501785716592 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ~its>|F4zersed| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:46:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501783573960 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | DrakoLa |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:43:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501784190095 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | woaaaar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:44:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501783902030 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ПРОКЛЯТИЕ ГАБЕНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:44:14 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501784107857 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 星野爱久爱海 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:44:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501786102674 |
+| Players | 1/24 |
+| Host Name | S |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 15:46:58 |
 
 
