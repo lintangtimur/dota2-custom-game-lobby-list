@@ -29,28 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:50:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501960563794 |
-| Players | 7/8 |
-| Host Name | ваня пират |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:02:20 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501971973862 |
-| Players | 13/15 |
-| Host Name | Eternal_HORNY ( ͡° ͜ʖ ͡°) |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 16, 2023 19:12:41 |
+| Lobby ID | 28566501974818316 |
+| Players | 1/15 |
+| Host Name | L8DF |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:15:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501973955676 |
+| Players | 1/8 |
+| Host Name | SabrosonxD322 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 19:14:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501970538428 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:11:25 |
@@ -65,28 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:08:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501973955676 |
-| Players | 1/8 |
-| Host Name | SabrosonxD322 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 16, 2023 19:14:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501973284047 |
-| Players | 9/10 |
-| Host Name | lovers by choice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:13:51 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501972875084 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | bse4poli |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:13:30 |
