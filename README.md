@@ -22,26 +22,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502114158664 |
-| Players | 4/8 |
-| Host Name | animeshnik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 21:08:28 |
+| Lobby ID | 28566502115117345 |
+| Players | 3/8 |
+| Host Name | много токса = мут |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:09:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502113994849 |
-| Players | 4/8 |
-| Host Name | oAtáNaTos |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 21:08:21 |
+| Lobby ID | 28566502115212903 |
+| Players | 6/8 |
+| Host Name | титан камерамен |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 21:09:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502097902782 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 20:56:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502100567377 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 01 |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 16, 2023 20:58:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502114524525 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Glintoki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:08:44 |
@@ -76,29 +76,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502104039573 |
-| Players | 2/10 |
-| Host Name | Agentsmrt |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 16, 2023 21:00:54 |
+| Lobby ID | 28566502115102850 |
+| Players | 4/10 |
+| Host Name | Гидроластецкая |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 21:09:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502114262730 |
-| Players | 7/10 |
-| Host Name | I.M.Sin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 21:08:33 |
+| Lobby ID | 28566502115290421 |
+| Players | 1/10 |
+| Host Name | technician |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:09:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502114728878 |
-| Players | 1/24 |
+| Lobby ID | 28566502115217391 |
+| Players | 2/24 |
+| Host Name | ZipPo99 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:09:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502115277449 |
+| Players | 1/8 |
 | Host Name | shiraishi urara |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, December 16, 2023 21:08:53 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:09:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566502107224385 |
+| Players | 23/24 |
+| Host Name | Sign the Contract Big Boy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:03:21 |
 
 
 |  | epic_boss_fight_hard |
@@ -117,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | UTюG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:08:46 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28566502115175764 |
+| Players | 1/7 |
+| Host Name | Ефрем Берсерк |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:09:12 |
 
 
