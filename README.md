@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501825829831 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | PIS0000 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:35:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501829068547 |
-| Players | 5/10 |
-| Host Name | Lolita |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:39:44 |
+| Lobby ID | 28566501830415466 |
+| Players | 2/15 |
+| Host Name | Dark[O]ne |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:41:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501829208895 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 16:39:54 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501829253282 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:39:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501830193038 |
+| Players | 2/24 |
+| Host Name | T_T |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 16:41:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501829068547 |
+| Players | 7/10 |
+| Host Name | Lolita |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 16:39:44 |
 
 
 |  | epic_boss_fight_nightmare |
