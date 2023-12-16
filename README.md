@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501799893516 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | ϟƘƦƖןןΣx |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:04:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501807787793 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Madvetu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:14:01 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:16:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501809808930 |
-| Players | 10/15 |
-| Host Name | Meow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:16:31 |
+| Lobby ID | 28566501810117534 |
+| Players | 2/10 |
+| Host Name | Wxinov' |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:16:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | K-pop monster |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:16:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501810117534 |
-| Players | 2/10 |
-| Host Name | Wxinov' |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:16:54 |
 
 
 |  | epic_boss_fight_nightmare |
