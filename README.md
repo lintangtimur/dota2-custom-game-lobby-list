@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501999884040 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:37:20 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502005707054 |
-| Players | 9/10 |
-| Host Name | Infernum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:42:16 |
+| Lobby ID | 28566502006921926 |
+| Players | 2/10 |
+| Host Name | 小 竹 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:43:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502006909933 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | брызги поноса |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:43:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502006921926 |
-| Players | 2/10 |
-| Host Name | 小 竹 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:43:18 |
+| Lobby ID | 28566502007066704 |
+| Players | 2/8 |
+| Host Name | Enemies muted |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:43:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502007076326 |
+| Players | 1/8 |
+| Host Name | каковозик)) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:43:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 9forty |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, December 16, 2023 19:41:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566502007085881 |
+| Players | 3/10 |
+| Host Name | Manhattan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:43:26 |
 
 
