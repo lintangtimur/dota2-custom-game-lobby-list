@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501923218936 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | PUSH TOWER AND DEFEND |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:25:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501906377075 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:08:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501927457643 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Toss a coin to your Witcher |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:30:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501923037625 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Samurai |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 16, 2023 18:25:30 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501927649335 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Finally some |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:30:13 |
