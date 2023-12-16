@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502138045708 |
+| Lobby ID | 28566502138168501 |
 | Players | 1/15 |
-| Host Name | Knov |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 16, 2023 21:26:05 |
+| Host Name | Fireflies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 21:26:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502131202573 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 21:20:58 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502138154781 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | .dione them |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:26:10 |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502138168433 |
-| Players | 2/15 |
-| Host Name | jjtty |
+| Players | 5/15 |
+| Host Name | USPQR |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 21:26:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502138168501 |
-| Players | 1/15 |
-| Host Name | Fireflies |
+| Lobby ID | 28566502138433307 |
+| Players | 3/8 |
+| Host Name | *_* |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 21:26:10 |
+| Lobby Creation Time | Saturday, December 16, 2023 21:26:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zambie |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 16, 2023 21:25:18 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28566502138435090 |
+| Players | 1/7 |
+| Host Name | Higanayami |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:26:22 |
 
 
