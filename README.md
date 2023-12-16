@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501835246100 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | KiJo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:47:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501846693119 |
-| Players | 1/8 |
-| Host Name | -DmD |
+| Lobby ID | 28566501847012123 |
+| Players | 4/10 |
+| Host Name | Panda |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:00:52 |
+| Lobby Creation Time | Saturday, December 16, 2023 17:01:15 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:00:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501844438338 |
-| Players | 1/15 |
-| Host Name | Lord Tolkien |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 16, 2023 16:58:08 |
+| Lobby ID | 28566501847682106 |
+| Players | 1/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:02:02 |
 
 
 |  | ot3_desert_octet |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501846939972 |
-| Players | 14/15 |
-| Host Name | ฿eͥℝsͣeͫℝk♛ |
+| Lobby ID | 28566501847824244 |
+| Players | 1/15 |
+| Host Name | 100 часов кинг |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:01:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501847012123 |
-| Players | 3/10 |
-| Host Name | Panda |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:01:15 |
+| Lobby Creation Time | Saturday, December 16, 2023 17:02:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -112,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28566501847660041 |
-| Players | 2/5 |
-| Host Name | Hyakuya Mikaela |
+| Lobby ID | 28566501847733187 |
+| Players | 1/5 |
+| Host Name | Pedro Gubakol |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:02:01 |
+| Lobby Creation Time | Saturday, December 16, 2023 17:02:06 |
 
 
