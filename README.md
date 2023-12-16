@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502183299346 |
-| Players | 9/10 |
-| Host Name | Vinni |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:00:16 |
+| Lobby ID | 28566502183845887 |
+| Players | 1/24 |
+| Host Name | NZM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:00:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502180864733 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Chisato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 21:58:24 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502183292604 |
-| Players | 3/8 |
-| Host Name | ale?) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 22:00:16 |
+| Lobby ID | 28566502184147138 |
+| Players | 1/8 |
+| Host Name | bumble bee |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:00:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502074539947 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | eL EMBARAZADO |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 16, 2023 20:38:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502176121727 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Yisus |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 21:54:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502173163802 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Josecarlino |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 21:52:27 |
@@ -74,6 +74,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 21:56:09 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566502183598055 |
+| Players | 10/15 |
+| Host Name | blerr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:00:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566502183595566 |
+| Players | 1/15 |
+| Host Name | Сосите ногу |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:00:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566502183634199 |
+| Players | 8/10 |
+| Host Name | ☻ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:00:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566502164059337 |
+| Players | 22/24 |
+| Host Name | Reiz |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:45:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502184272386 |
+| Players | 1/8 |
+| Host Name | Максим-Аганим |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:01:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502177623144 |
@@ -83,15 +128,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 21:55:53 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566502179192768 |
-| Players | 3/5 |
-| Host Name | dynik228 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 21:57:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502183210267 |
@@ -99,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:00:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566502183554584 |
-| Players | 2/5 |
-| Host Name | 我在路上的垃圾里 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 22:00:28 |
 
 
