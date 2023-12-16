@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501841454408 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502070505664 |
-| Players | 13/15 |
-| Host Name | EnotRed |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:35:11 |
+| Lobby ID | 28566502072319308 |
+| Players | 9/15 |
+| Host Name | Sir Dancelot |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:36:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502062503603 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Hipotenusa |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:28:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502068830143 |
-| Players | 8/10 |
-| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:33:52 |
+| Lobby ID | 28566502068636404 |
+| Players | 11/15 |
+| Host Name | Kirizuna |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 20:33:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502064585169 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:30:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502071553599 |
-| Players | 6/8 |
-| Host Name | Young Talent |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:36:00 |
+| Lobby ID | 28566502072208073 |
+| Players | 1/24 |
+| Host Name | RednWhite |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 20:36:31 |
 
 
 |  | ot3_desert_octet |
@@ -113,16 +113,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502072024530 |
-| Players | 7/24 |
+| Players | 19/24 |
 | Host Name | 我来看看怎么个事 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:36:22 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502072461966 |
+| Players | 1/8 |
+| Host Name | quarantaquattro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:36:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566502072559635 |
+| Players | 7/10 |
+| Host Name | しはいのあくま。 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 20:36:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502070945137 |
+| Players | 7/8 |
+| Host Name | KK000 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 20:35:32 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502069778543 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 20:34:37 |
@@ -131,8 +158,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566502069983180 |
-| Players | 2/5 |
-| Host Name | ayam jago |
+| Players | 1/5 |
+| Host Name | hachiko 忠犬八公 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:34:46 |
 
@@ -140,9 +167,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502070445003 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | yyz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:35:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566502072577041 |
+| Players | 1/5 |
+| Host Name | Андрей санстрайк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:36:48 |
 
 
