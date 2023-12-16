@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502234382989 |
-| Players | 7/8 |
-| Host Name | ♡*"__"*renaissance of the image♡ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:39:46 |
+| Lobby ID | 28566502236316177 |
+| Players | 2/8 |
+| Host Name | KAWAZAKI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:41:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502233150746 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | IA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 22:38:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502231876326 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 22:37:43 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502236246898 |
-| Players | 4/15 |
-| Host Name | tilted igrushka otchima |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 22:41:14 |
+| Lobby ID | 28566502236883262 |
+| Players | 5/15 |
+| Host Name | mom said dont make you name aggr |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 22:41:44 |
 
 
 |  | ot3_gardens_duo |
@@ -122,19 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502236055353 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Собака Насти |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 22:41:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502236316177 |
-| Players | 1/8 |
-| Host Name | KAWAZAKI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 22:41:17 |
 
 
 |  | epic_boss_fight_normal |
