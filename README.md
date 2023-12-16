@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502061895239 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | batman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:28:22 |
@@ -92,21 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 20:30:30 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502066433149 |
-| Players | 4/8 |
-| Host Name | чертолет |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:31:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502066442246 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Gabonzo Robot |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:31:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502066627252 |
+| Players | 3/8 |
+| Host Name | ▲ Убийца Акаме |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 20:32:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566502066704376 |
+| Players | 4/5 |
+| Host Name | INTERNET_HERO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:32:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566502066700317 |
+| Players | 1/5 |
+| Host Name | HIKKI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:32:11 |
 
 
