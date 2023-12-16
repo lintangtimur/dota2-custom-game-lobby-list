@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 15:20:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501799893516 |
-| Players | 21/24 |
-| Host Name | ϟƘƦƖןןΣx |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:04:19 |
+| Lobby ID | 28566501815141668 |
+| Players | 3/15 |
+| Host Name | 彬毒 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:22:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501813159304 |
-| Players | 4/8 |
-| Host Name | Luckyman |
+| Lobby ID | 28566501815074911 |
+| Players | 2/15 |
+| Host Name | alina |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:20:38 |
+| Lobby Creation Time | Saturday, December 16, 2023 16:22:53 |
 
 
 |  | ot3_desert_octet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:19:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501815074911 |
-| Players | 1/15 |
-| Host Name | alina |
+| Lobby ID | 28566501815428530 |
+| Players | 2/10 |
+| Host Name | ˜'*X/☠\_₭ΐR8y_/☠\X*'˜ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:22:53 |
+| Lobby Creation Time | Saturday, December 16, 2023 16:23:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501804500089 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 16:10:02 |
