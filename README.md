@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501930168641 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | You get me,fam? |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:32:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501928819688 |
-| Players | 11/15 |
-| Host Name | запрети мне |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:31:24 |
+| Lobby ID | 28566501930556880 |
+| Players | 2/8 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:33:08 |
 
 
 |  | ot3_desert_octet |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:31:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501930556880 |
-| Players | 1/8 |
-| Host Name | BubiBubi |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:33:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501930607527 |
-| Players | 3/8 |
-| Host Name | руина |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:33:11 |
 
 
 |  | epic_boss_fight_nightmare |
