@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501863303347 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:20:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501866478359 |
-| Players | 1/8 |
-| Host Name | mikzo |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:24:09 |
+| Lobby ID | 28566501866619996 |
+| Players | 2/10 |
+| Host Name | u |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:24:20 |
 
 
 |  | ot3_desert_octet |
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:24:20 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501866600497 |
-| Players | 3/10 |
-| Host Name | ye |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:24:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501866619996 |
-| Players | 2/10 |
-| Host Name | u |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:24:20 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501861114895 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | n1ptun蜜 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:17:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501866900739 |
+| Players | 3/8 |
+| Host Name | mikzo |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:24:44 |
 
 
 |  | epic_boss_fight_nightmare |
