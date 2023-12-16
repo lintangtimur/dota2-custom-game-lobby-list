@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502207182712 |
-| Players | 20/24 |
+| Players | 16/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:18:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502207287858 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Avena 3 OSITOS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 22:18:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502207859271 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | чудищ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 22:19:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502211866715 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Yuki Onna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:22:06 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502212159060 |
-| Players | 9/10 |
-| Host Name | <3 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:22:20 |
+| Lobby ID | 28566502214193362 |
+| Players | 1/10 |
+| Host Name | Рядовой арбуз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:23:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -121,53 +121,89 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502212417106 |
-| Players | 9/10 |
-| Host Name | whyforme? |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:22:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566502213049783 |
-| Players | 12/15 |
-| Host Name | Кусь |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:23:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502213314804 |
-| Players | 7/8 |
-| Host Name | B |
+| Lobby ID | 28566502213840281 |
+| Players | 4/10 |
+| Host Name | クレイジー |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 22:23:13 |
+| Lobby Creation Time | Saturday, December 16, 2023 22:23:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502213444829 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | PaN1C |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:23:19 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502213735043 |
+| Players | 1/8 |
+| Host Name | Wriggle, Wriggle Little Fish |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:23:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566502213775217 |
+| Players | 8/15 |
+| Host Name | Tired |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:23:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502213853629 |
+| Players | 1/8 |
+| Host Name | ToughSpirit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:23:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566502214027274 |
+| Players | 1/24 |
+| Host Name | SSK |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:23:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566502214070665 |
+| Players | 2/10 |
+| Host Name | BigMom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:23:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502214193998 |
+| Players | 3/8 |
+| Host Name | Гнида |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:23:53 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566502210545324 |
-| Players | 8/10 |
-| Host Name | miriam |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:21:06 |
+| Lobby ID | 28566502213832853 |
+| Players | 2/10 |
+| Host Name | TEAM CALLER |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:23:36 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566502207621021 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ⌜J7⌟ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:18:50 |
