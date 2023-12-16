@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501892128232 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | acsess |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:52:45 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501888749332 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ogre magi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:48:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501891481223 |
-| Players | 14/15 |
-| Host Name | 37blok |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:52:02 |
+| Lobby ID | 28566501892577926 |
+| Players | 2/10 |
+| Host Name | u |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:53:15 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:50:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501891699637 |
-| Players | 5/15 |
-| Host Name | 9mm |
+| Lobby ID | 28566501892577916 |
+| Players | 1/8 |
+| Host Name | Rizz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:52:17 |
+| Lobby Creation Time | Saturday, December 16, 2023 17:53:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501892134212 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | A- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:52:45 |
@@ -112,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28566501892287601 |
+| Lobby ID | 28566501892594497 |
 | Players | 1/5 |
-| Host Name | ПАМПЕРС |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:52:55 |
+| Host Name | ℡酷樂貓 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:53:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566501892638502 |
+| Players | 1/10 |
+| Host Name | Славный Котик Иут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:53:19 |
 
 
