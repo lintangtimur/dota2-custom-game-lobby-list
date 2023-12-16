@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:19:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501815477377 |
-| Players | 20/24 |
-| Host Name | Rock.Baby.Rock |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:23:22 |
+| Lobby ID | 28566501818965753 |
+| Players | 4/10 |
+| Host Name | Очкомир |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 16:27:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501817817240 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Say my name |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:26:09 |
@@ -68,45 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501818706818 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | Akaneッ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:27:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501816104779 |
-| Players | 7/8 |
-| Host Name | покой |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:24:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501818776655 |
-| Players | 1/8 |
-| Host Name | #idinaxyi MaLo9_ToP |
+| Lobby ID | 28566501818956914 |
+| Players | 4/15 |
+| Host Name | kazeshini |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:27:18 |
+| Lobby Creation Time | Saturday, December 16, 2023 16:27:32 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501804500089 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 16:10:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566501814727058 |
-| Players | 9/10 |
-| Host Name | Limz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:22:30 |
 
 
