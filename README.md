@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501841454408 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502039919196 |
-| Players | 7/15 |
-| Host Name | StepGoSex |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:10:54 |
+| Lobby ID | 28566502040269503 |
+| Players | 1/24 |
+| Host Name | Arkky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:11:11 |
 
 
 |  | ot3_gardens_duo |
@@ -74,48 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 20:10:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502039800989 |
-| Players | 9/10 |
-| Host Name | .dione them |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:10:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502040186524 |
-| Players | 1/8 |
-| Host Name | Vender |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:11:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566502040269503 |
-| Players | 1/24 |
-| Host Name | Arkky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:11:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566502013364012 |
-| Players | 21/24 |
-| Host Name | 御詩詩 |
+| Lobby ID | 28566502040611695 |
+| Players | 1/15 |
+| Host Name | !!!!YOUR FATHER!!!! |
 | Region | INDIA |
-| Lobby Creation Time | Saturday, December 16, 2023 19:48:46 |
+| Lobby Creation Time | Saturday, December 16, 2023 20:11:27 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566502038732551 |
-| Players | 1/10 |
+| Lobby ID | 28566502040546996 |
+| Players | 2/10 |
 | Host Name | Wootmonster |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:09:56 |
+| Lobby Creation Time | Saturday, December 16, 2023 20:11:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566502040558309 |
+| Players | 3/5 |
+| Host Name | [D.S]LF.NIGHTWing |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:11:24 |
 
 
