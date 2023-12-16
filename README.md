@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501878402335 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | te mato pauseo te tecleo y tepeo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 17:37:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501881251906 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | мистер Кумквак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:40:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501881453555 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | A.Olsson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:40:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501876279530 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:35:08 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | potatoboi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:40:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501881808750 |
+| Players | 2/15 |
+| Host Name | каламитас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:41:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501874897830 |
+| Players | 23/24 |
+| Host Name | daed pleier |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:33:34 |
 
 
 |  | epic_boss_fight_nightmare |
