@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501892873798 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | starwalker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:53:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501888749332 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | ogre magi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:48:59 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28566501893086377 |
 | Players | 2/8 |
-| Host Name | Grim sleeper |
+| Host Name | писюн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:53:49 |
 
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BlesTyaska |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:53:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501893419004 |
-| Players | 2/8 |
-| Host Name | Токсичный уголёк |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:54:11 |
 
 
 |  | epic_boss_fight_nightmare |
