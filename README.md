@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501830193038 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | GrandPa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:41:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501864682061 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | RUKASTA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:21:53 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501864477907 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | u dont deserve to win |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:21:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501865040639 |
+| Players | 4/8 |
+| Host Name | ₪=-ŅeỖĶιỖтỖ-=₪ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:22:18 |
 
 
 |  | epic_boss_fight_nightmare |
