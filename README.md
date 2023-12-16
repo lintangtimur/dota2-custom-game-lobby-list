@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501923218936 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | PUSH TOWER AND DEFEND |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:25:41 |
@@ -47,42 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:08:11 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501923550895 |
-| Players | 13/15 |
-| Host Name | predohranitel |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:26:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566501918465525 |
-| Players | 9/24 |
-| Host Name | Space |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:20:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501924025367 |
-| Players | 4/8 |
-| Host Name | Красавчик на аве |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:26:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501924177038 |
-| Players | 7/10 |
-| Host Name | ܓJean-Jacques Jaboune |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:26:41 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501924200072 |
@@ -92,31 +56,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:26:42 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501918465525 |
+| Players | 11/24 |
+| Host Name | Space |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:20:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501924025367 |
+| Players | 5/8 |
+| Host Name | Красавчик на аве |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:26:31 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501924467177 |
-| Players | 1/10 |
-| Host Name | GEORGIY |
+| Lobby ID | 28566501924177038 |
+| Players | 9/10 |
+| Host Name | ܓJean-Jacques Jaboune |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:26:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566501920803218 |
-| Players | 8/10 |
-| Host Name | Белый Волк |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:23:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566501924172418 |
-| Players | 1/10 |
-| Host Name | Izumiiiiiiiiii<3 |
-| Region | DUBAI |
 | Lobby Creation Time | Saturday, December 16, 2023 18:26:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501924689149 |
+| Players | 1/15 |
+| Host Name | Umba Qumba |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:27:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501924669218 |
+| Players | 3/15 |
+| Host Name | sxicnide |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:27:11 |
 
 
 |  | epic_boss_fight_normal |
