@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501928291540 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | X-ART |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:30:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501927660977 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:30:14 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501930168641 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | You get me,fam? |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:32:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501930556880 |
-| Players | 2/8 |
-| Host Name | BubiBubi |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:33:08 |
+| Lobby ID | 28566501931154681 |
+| Players | 1/15 |
+| Host Name | XD.F |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:33:44 |
 
 
 |  | ot3_desert_octet |
@@ -95,28 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501928622469 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:31:12 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501925307866 |
-| Players | 9/10 |
-| Host Name | 1HP |
+| Lobby ID | 28566501931102487 |
+| Players | 5/15 |
+| Host Name | ☭Come$omeAll☭ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:27:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566501927001386 |
-| Players | 5/10 |
-| Host Name | Vells |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:29:33 |
+| Lobby Creation Time | Saturday, December 16, 2023 18:33:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Calabreso |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 18:31:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566501927001386 |
+| Players | 6/10 |
+| Host Name | Vells |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:29:33 |
 
 
