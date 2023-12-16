@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501940883875 |
-| Players | 7/8 |
+| Players | 4/8 |
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 18:43:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501941343890 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | Haode |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:43:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501928582846 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Calabreso |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 18:31:10 |
