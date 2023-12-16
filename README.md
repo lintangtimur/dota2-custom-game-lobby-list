@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501938203400 |
-| Players | 2/15 |
+| Players | 13/15 |
 | Host Name | ルPanacea灯 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:40:45 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501926725564 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:29:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501937677256 |
-| Players | 8/10 |
-| Host Name | Ambal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:40:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501937941468 |
-| Players | 6/8 |
-| Host Name | Барабасжирный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:40:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:39:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501937941468 |
+| Players | 7/8 |
+| Host Name | Барабасжирный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:40:30 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501938220799 |
-| Players | 2/15 |
-| Host Name | ฅ^•ﻌ•^ฅ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:40:46 |
+| Lobby ID | 28566501938755960 |
+| Players | 1/15 |
+| Host Name | [K][N] |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 18:41:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501936255496 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Jack |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:38:49 |
