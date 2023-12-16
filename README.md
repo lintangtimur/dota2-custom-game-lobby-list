@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501992562842 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ЧИПИНКОС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:31:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501986671959 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:25:50 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:29:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501993180047 |
-| Players | 7/15 |
-| Host Name | Madaru4 |
+| Lobby ID | 28566501993631740 |
+| Players | 6/8 |
+| Host Name | Sekira |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:31:34 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:31:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501993453793 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | NAKHAL |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:31:48 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:31:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501989635185 |
-| Players | 9/10 |
-| Host Name | ZomBoy89 |
+| Lobby ID | 28566501993954492 |
+| Players | 2/15 |
+| Host Name | Михал Палыч Терен |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:28:28 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:32:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501991220416 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Amazon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:29:51 |
