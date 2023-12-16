@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501837099189 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | zero iq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:49:24 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501836966860 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | yhwach |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:49:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501837027365 |
-| Players | 5/8 |
-| Host Name | Drink some water please |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:49:19 |
+| Lobby ID | 28566501835796840 |
+| Players | 5/10 |
+| Host Name | cyborg. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 16:47:47 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501836143389 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | noob team |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:48:13 |
