@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501799893516 |
-| Players | 21/24 |
+| Players | 19/24 |
 | Host Name | ϟƘƦƖןןΣx |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:04:19 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501816522264 |
-| Players | 6/8 |
-| Host Name | Бетмен из Бетмена |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:24:37 |
+| Lobby ID | 28566501816104779 |
+| Players | 7/8 |
+| Host Name | покой |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:24:07 |
 
 
 |  | ot3_desert_octet |
@@ -41,37 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501815477377 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Rock.Baby.Rock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:23:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501815507242 |
-| Players | 8/10 |
-| Host Name | Ненавижу Overthrow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:23:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501816104779 |
-| Players | 3/8 |
-| Host Name | покой |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 16:24:07 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501816697453 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Negus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:24:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501816964516 |
+| Players | 3/10 |
+| Host Name | Uchiha |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:25:08 |
 
 
 |  | epic_boss_fight_nightmare |
