@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501856271701 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | 76561198967930393 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:12:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501856685898 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | KOTYENOK RA ENJOYER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:12:35 |
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:12:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501857305356 |
+| Players | 4/8 |
+| Host Name | Ёбырь Гитлера |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:13:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501851127584 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:06:06 |
