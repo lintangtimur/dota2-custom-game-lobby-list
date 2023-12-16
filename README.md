@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501953660857 |
-| Players | 23/24 |
-| Host Name | 老司机 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:55:46 |
+| Lobby ID | 28566501956509124 |
+| Players | 8/24 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:58:29 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501955683831 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Pyrtoper |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 18:57:41 |
@@ -74,30 +74,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:57:18 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501957001983 |
+| Players | 3/15 |
+| Host Name | interdimensional shpongler |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:58:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501956923876 |
+| Players | 1/24 |
+| Host Name | Fre3Dex |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:58:52 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501956241993 |
+| Lobby ID | 28566501957033506 |
 | Players | 1/8 |
 | Host Name | Sweet Bonanza |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:58:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501956252824 |
-| Players | 4/8 |
-| Host Name | Unown |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:58:14 |
+| Lobby Creation Time | Saturday, December 16, 2023 18:58:58 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28566501954032449 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | ۞SoulIce۞ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:56:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566501956699063 |
+| Players | 1/5 |
+| Host Name | thund3rstorm |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:58:39 |
 
 
