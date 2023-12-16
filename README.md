@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501767613652 |
-| Players | 9/10 |
-| Host Name | PvC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 15:23:48 |
+| Lobby ID | 28566501768741385 |
+| Players | 11/15 |
+| Host Name | GodPiece |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 15:25:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501760678262 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | KiJo |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:14:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501767796447 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Somnus~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:24:02 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501764720559 |
-| Players | 7/15 |
-| Host Name | You can't see me |
+| Players | 3/15 |
+| Host Name | VGG.Nuntaku |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 15:20:04 |
 
@@ -50,25 +50,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501767782626 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | fal'Cie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:24:01 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501768933156 |
+| Players | 1/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 15:25:29 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501768741385 |
+| Lobby ID | 28566501768937064 |
 | Players | 2/15 |
-| Host Name | GodPiece |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 16, 2023 15:25:14 |
+| Host Name | 星野爱久爱海 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 15:25:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501769178767 |
+| Players | 2/15 |
+| Host Name | Nobody |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 15:25:48 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501766405566 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | TrX. Aki¤€.Fear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:22:14 |
