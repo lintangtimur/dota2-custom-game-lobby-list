@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:41:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501861511872 |
-| Players | 3/8 |
-| Host Name | Gus |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:18:13 |
+| Lobby ID | 28566501864682061 |
+| Players | 2/10 |
+| Host Name | RUKASTA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:21:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501859815454 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 1NVI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:16:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501863303347 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:20:18 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | u dont deserve to win |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:21:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501864682061 |
-| Players | 2/10 |
-| Host Name | RUKASTA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:21:53 |
 
 
 |  | epic_boss_fight_nightmare |
