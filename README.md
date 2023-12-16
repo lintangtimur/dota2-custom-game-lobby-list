@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:42:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502039800783 |
-| Players | 9/10 |
-| Host Name | fear and loathing in drohobych |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:10:48 |
+| Lobby ID | 28566502040799890 |
+| Players | 7/8 |
+| Host Name | no comment |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:11:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502041548277 |
-| Players | 1/15 |
-| Host Name | 战鹰 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, December 16, 2023 20:12:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502040799890 |
-| Players | 6/8 |
-| Host Name | no comment |
+| Lobby ID | 28566502041576631 |
+| Players | 7/15 |
+| Host Name | adeptus mechanicus |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:11:36 |
+| Lobby Creation Time | Saturday, December 16, 2023 20:12:13 |
 
 
 |  | epic_boss_fight_nightmare |
