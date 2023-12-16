@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502215804239 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | JonaX |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 22:25:08 |
@@ -13,18 +13,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502217757046 |
+| Lobby ID | 28566502220243783 |
 | Players | 1/24 |
-| Host Name | out of time |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, December 16, 2023 22:26:39 |
+| Host Name | Player |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:28:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502218682913 |
-| Players | 5/24 |
-| Host Name | yhwach |
+| Players | 7/24 |
+| Host Name | SILENCE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:27:22 |
 
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 21:56:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502211952054 |
-| Players | 4/10 |
-| Host Name | Пивопитек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 22:22:10 |
+| Lobby ID | 28566502220507253 |
+| Players | 1/8 |
+| Host Name | MrPenis |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:28:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502214787501 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Et3rnauta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 22:24:21 |
@@ -77,63 +77,90 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502208227903 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Rraptor7 |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 16, 2023 22:19:18 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502218645848 |
+| Players | 6/8 |
+| Host Name | 123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:27:20 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502219012586 |
-| Players | 15/15 |
-| Host Name | Голубцы с говном |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 22:27:37 |
+| Lobby ID | 28566502219955668 |
+| Players | 9/15 |
+| Host Name | SYKAed |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:28:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502219511188 |
+| Lobby ID | 28566502219922580 |
 | Players | 4/8 |
-| Host Name | Piti |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, December 16, 2023 22:28:01 |
+| Host Name | Byundiesta |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 22:28:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502219740775 |
-| Players | 3/8 |
-| Host Name | PolskaTermosBoy |
+| Players | 6/8 |
+| Host Name | Jmaster210 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 22:28:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502218960388 |
-| Players | 19/24 |
-| Host Name | Arpa, |
+| Lobby ID | 28566502220624353 |
+| Players | 6/8 |
+| Host Name | Maple |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:27:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566502219932621 |
-| Players | 2/10 |
-| Host Name | Valravn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 22:28:20 |
+| Lobby Creation Time | Saturday, December 16, 2023 22:28:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502218837040 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | zzzz |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 22:27:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566502220047105 |
+| Players | 2/5 |
+| Host Name | ∮Ӥκ∁ӤӃ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:28:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566502220094379 |
+| Players | 6/10 |
+| Host Name | Sea Server Cancer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:28:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566502220442583 |
+| Players | 1/5 |
+| Host Name | TYT Serious |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:28:44 |
 
 
