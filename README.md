@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502220243783 |
-| Players | 2/24 |
+| Players | 8/24 |
 | Host Name | Player |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:28:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502218682913 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | SILENCE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:27:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502220507253 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | MrPenis |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:28:47 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 22:28:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502220687119 |
-| Players | 9/10 |
-| Host Name | robinho |
+| Lobby ID | 28566502221196335 |
+| Players | 2/8 |
+| Host Name | BAYRAKTAR |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:28:56 |
+| Lobby Creation Time | Saturday, December 16, 2023 22:29:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 22:28:20 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502220849239 |
-| Players | 1/8 |
-| Host Name | BAYRAKTAR |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:29:03 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502220847418 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | MercurУ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 22:29:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566502221265013 |
+| Players | 4/10 |
+| Host Name | POTATO MONSTER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 22:29:23 |
 
 
 |  | epic_boss_fight_nightmare |
