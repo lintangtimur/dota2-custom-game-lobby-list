@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501760678262 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | KiJo |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:14:52 |
@@ -38,10 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 15:20:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501764111852 |
+| Players | 14/15 |
+| Host Name | Gay Fish |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 15:19:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501767353970 |
+| Players | 1/15 |
+| Host Name | Masterbin |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 15:23:28 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566501744576551 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Мама ЦМки) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 14:53:51 |
