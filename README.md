@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501821543788 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Boje bombi Belgorod |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:30:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501818420752 |
-| Players | 5/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:26:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501820782364 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Dota psychology apprentice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:29:46 |
