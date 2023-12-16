@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502172873799 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 21:52:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502164059337 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Reiz |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 21:45:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502173163802 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | MASTURBAMAN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 21:52:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502173937399 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | WG.Arian |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:53:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502173852399 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Rayli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:52:58 |
@@ -104,25 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28566502174141181 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | IUPI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:53:12 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28566502174162288 |
-| Players | 2/10 |
-| Host Name | 仁香 |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, December 16, 2023 21:53:13 |
+| Lobby ID | 28566502174309370 |
+| Players | 1/5 |
+| Host Name | Mikasa Acman |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:53:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502174206660 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Andreas Maler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:53:15 |
