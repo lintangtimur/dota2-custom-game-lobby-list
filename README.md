@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501760327175 |
-| Players | 7/24 |
+| Players | 22/24 |
 | Host Name | Duy Ngã Độc Tôn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:14:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501760678262 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:14:52 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501762358923 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | |||||||||||| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:17:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501761988157 |
-| Players | 3/8 |
-| Host Name | Влад Червяков |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 15:16:34 |
+| Lobby ID | 28566501762502494 |
+| Players | 5/10 |
+| Host Name | бомж по жизни |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 15:17:14 |
 
 
 |  | ot3_gardens_duo |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 15:16:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501762502494 |
-| Players | 4/10 |
-| Host Name | бомж по жизни |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 15:17:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -67,10 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566501759846579 |
-| Players | 8/10 |
-| Host Name | . Skye |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 15:13:47 |
+| Lobby ID | 28566501762648708 |
+| Players | 1/10 |
+| Host Name | Белый Волк |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 15:17:26 |
 
 
