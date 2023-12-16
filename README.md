@@ -14,36 +14,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501738881283 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:46:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501737590136 |
-| Players | 7/10 |
-| Host Name | KILL ME IF U CAN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 14:44:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501735529323 |
-| Players | 13/15 |
-| Host Name | aty |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:41:53 |
+| Lobby ID | 28566501740622011 |
+| Players | 1/8 |
+| Host Name | Patrick |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 14:48:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501739642961 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 14:47:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501740503633 |
+| Players | 3/8 |
+| Host Name | Koru |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 14:48:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566501740441758 |
+| Players | 2/5 |
+| Host Name | 5 cm Savage |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 14:48:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566501740499179 |
+| Players | 2/10 |
+| Host Name | neikus |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 14:48:30 |
 
 
