@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501730284064 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | ~MrTriceps~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:34:52 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 14:32:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501732887804 |
-| Players | 5/8 |
-| Host Name | Lost Story |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:38:22 |
+| Lobby ID | 28566501729777662 |
+| Players | 2/15 |
+| Host Name | berti4130 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 14:34:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501733105968 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | kacvj |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 14:38:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501730543578 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Occam's Tome of Knowledge |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 14:35:13 |
@@ -58,37 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501732905227 |
-| Players | 1/8 |
-| Host Name | fade away |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 14:38:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501729777662 |
-| Players | 1/15 |
-| Host Name | berti4130 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:34:11 |
+| Lobby ID | 28566501733486800 |
+| Players | 3/8 |
+| Host Name | YoNi |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 14:39:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501727929647 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Белый Волк |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:31:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566501733324927 |
-| Players | 2/5 |
-| Host Name | вместо тысячи слов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 14:38:56 |
 
 
