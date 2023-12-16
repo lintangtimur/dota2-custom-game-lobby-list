@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502109313392 |
-| Players | 6/10 |
-| Host Name | SANTA CLAUS HOHOHOHO run |
+| Lobby ID | 28566502110020243 |
+| Players | 4/8 |
+| Host Name | Zeiron |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 21:04:55 |
+| Lobby Creation Time | Saturday, December 16, 2023 21:05:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502107224385 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 21:03:21 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 21:05:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502108304658 |
-| Players | 14/15 |
-| Host Name | Suyoko |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 21:04:11 |
+| Lobby ID | 28566502109648271 |
+| Players | 6/24 |
+| Host Name | Piti |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:05:10 |
 
 
 |  | ot3_gardens_duo |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Agentsmrt |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 16, 2023 21:00:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566502109648271 |
-| Players | 8/24 |
-| Host Name | Piti |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 21:05:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502109010463 |
-| Players | 7/8 |
-| Host Name | yomex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 21:04:41 |
 
 
 |  | epic_boss_fight_nightmare |
