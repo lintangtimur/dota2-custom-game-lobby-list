@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501733837150 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | woaaaar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:39:38 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501729777662 |
-| Players | 3/15 |
-| Host Name | berti4130 |
+| Players | 1/15 |
+| Host Name | ping |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:34:11 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501733105968 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | kacvj |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 14:38:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501730543578 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | Occam's Tome of Knowledge |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 14:35:13 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501733486800 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | YoNi |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 14:39:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501734306140 |
+| Players | 2/10 |
+| Host Name | Devil Eyes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 14:40:15 |
 
 
 |  | epic_boss_fight_nightmare |
