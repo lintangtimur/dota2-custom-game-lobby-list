@@ -2,55 +2,46 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501743281544 |
-| Players | 7/8 |
-| Host Name | sfxooz // сухоза |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 14:52:10 |
+| Lobby ID | 28566501745650915 |
+| Players | 8/24 |
+| Host Name | 노루 noru 노루 noru 노루 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 14:55:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501744856931 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | yapas |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:54:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501744488315 |
-| Players | 13/15 |
-| Host Name | mynameisJora |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 14:53:44 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501745342834 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Sopi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:54:52 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566501743620384 |
-| Players | 3/7 |
-| Host Name | GreShnik |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:52:36 |
+| Lobby ID | 28566501745191946 |
+| Players | 1/10 |
+| Host Name | Gandy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 14:54:40 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501743892599 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | !m |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:52:58 |
@@ -63,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WHAT THE FUCK IS THAT!? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 14:53:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566501745191946 |
-| Players | 1/10 |
-| Host Name | Gandy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 14:54:40 |
 
 
