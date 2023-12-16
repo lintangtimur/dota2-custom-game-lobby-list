@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501841454408 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
@@ -103,29 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502093974422 |
-| Players | 3/8 |
-| Host Name | Мистер по пизде |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:53:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566502093593300 |
-| Players | 7/15 |
-| Host Name | Ghost in the Shell |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:52:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566502092823565 |
-| Players | 6/10 |
-| Host Name | Morow0130 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:52:21 |
+| Lobby ID | 28566502094146985 |
+| Players | 4/8 |
+| Host Name | Алиса♡ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 20:53:22 |
 
 
 |  | epic_boss_fight_normal |
