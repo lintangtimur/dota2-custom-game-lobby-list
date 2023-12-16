@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501981387526 |
-| Players | 7/8 |
-| Host Name | e[q[eq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:21:08 |
+| Lobby ID | 28566501978109385 |
+| Players | 6/8 |
+| Host Name | Жаби Жаби |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, December 16, 2023 19:18:11 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501980861833 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | 老司机 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:20:40 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:20:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501982263166 |
-| Players | 3/15 |
-| Host Name | R1CH_淋しい |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:21:55 |
+| Lobby ID | 28566501980076246 |
+| Players | 23/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:19:58 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501981326655 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Sarapan Srinivasan |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 16, 2023 19:21:05 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501982082548 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | я самый крутой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:21:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501978652759 |
+| Players | 23/24 |
+| Host Name | LOKI PRIME |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:18:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501982657162 |
+| Players | 7/24 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:22:16 |
 
 
 |  | epic_boss_fight_nightmare |
