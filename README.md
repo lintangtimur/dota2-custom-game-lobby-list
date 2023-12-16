@@ -38,22 +38,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:47:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501887665862 |
-| Players | 6/8 |
-| Host Name | Хочу зиму 2021 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:47:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501888104874 |
-| Players | 2/8 |
-| Host Name | . |
+| Lobby ID | 28566501888378785 |
+| Players | 5/10 |
+| Host Name | Бугименчик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:48:16 |
+| Lobby Creation Time | Saturday, December 16, 2023 17:48:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501888401738 |
+| Players | 1/10 |
+| Host Name | Старая брылька |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:48:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501888355980 |
+| Players | 6/15 |
+| Host Name | |||||||||||| |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:48:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501888749332 |
+| Players | 1/24 |
+| Host Name | ogre magi |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:48:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501882533085 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | [                         ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:42:07 |
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501887748391 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Muahhh!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:47:53 |
