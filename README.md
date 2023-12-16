@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:43:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501940715385 |
-| Players | 9/15 |
-| Host Name | SAMARABRYANSK |
+| Lobby ID | 28566501941334207 |
+| Players | 4/8 |
+| Host Name | < blank > |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:43:13 |
+| Lobby Creation Time | Saturday, December 16, 2023 18:43:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,40 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:43:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501939764710 |
-| Players | 6/8 |
-| Host Name | UrbanGuerrilla |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:42:17 |
+| Lobby ID | 28566501941343890 |
+| Players | 4/24 |
+| Host Name | Haode |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:43:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501941190573 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | hellokitty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:43:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501941334207 |
-| Players | 4/8 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:43:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566501941343890 |
-| Players | 2/24 |
-| Host Name | Haode |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:43:50 |
 
 
 |  | epic_boss_fight_nightmare |
