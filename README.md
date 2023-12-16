@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502161351685 |
-| Players | 4/8 |
-| Host Name | Сигма чучмек |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, December 16, 2023 21:43:35 |
+| Lobby ID | 28566502152966860 |
+| Players | 22/24 |
+| Host Name | arhikent |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 21:37:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502159966721 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 唐三 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 21:42:33 |
@@ -49,29 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502161213189 |
-| Players | 14/15 |
-| Host Name | Tired |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 21:43:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28566502162145638 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Вот Это Валына |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:44:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502162317128 |
-| Players | 1/10 |
-| Host Name | ёбарь террорист м |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 21:44:18 |
+| Lobby ID | 28566502161401797 |
+| Players | 3/8 |
+| Host Name | Murasakibara |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:43:37 |
 
 
 |  | epic_boss_fight_nightmare |
