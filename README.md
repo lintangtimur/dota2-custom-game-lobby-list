@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501822964733 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Evlogos |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:32:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501823264084 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | ✿GOJO SATORU✿ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:32:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501823339530 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | K-pop monster |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:32:53 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501823476345 |
+| Lobby ID | 28566501823771135 |
 | Players | 1/24 |
 | Host Name | Metall |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:33:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501823646926 |
-| Players | 5/8 |
-| Host Name | Yam [MankerChief] |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 16, 2023 16:33:14 |
+| Lobby Creation Time | Saturday, December 16, 2023 16:33:23 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501822003609 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 猫山王 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:31:16 |
