@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:06:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501852247385 |
-| Players | 9/10 |
-| Host Name | sad |
+| Lobby ID | 28566501852822313 |
+| Players | 13/15 |
+| Host Name | liwl |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:07:26 |
+| Lobby Creation Time | Saturday, December 16, 2023 17:08:06 |
 
 
 |  | ot3_desert_octet |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501853205516 |
-| Players | 2/8 |
-| Host Name | Love |
+| Lobby ID | 28566501853763166 |
+| Players | 4/8 |
+| Host Name | melancholy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:08:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501852822313 |
-| Players | 7/15 |
-| Host Name | liwl |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:08:06 |
+| Lobby Creation Time | Saturday, December 16, 2023 17:09:12 |
 
 
 |  | epic_boss_fight_normal |
