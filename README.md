@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501829068547 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Lolita |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:39:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501829227351 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | GeneraL |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:39:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501829253282 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:39:57 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Immortal™Фрукт) |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:29:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566501829692875 |
+| Players | 1/10 |
+| Host Name | good guy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 16:40:28 |
 
 
