@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501841454408 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
@@ -32,52 +32,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501908958467 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | СЕКС-ПУЛЕМЕТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:10:54 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501909218398 |
-| Players | 6/10 |
-| Host Name | luke nichols |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 16, 2023 18:11:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501906246119 |
-| Players | 7/8 |
-| Host Name | Kucher |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:08:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566501906377075 |
-| Players | 6/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:08:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501910163249 |
-| Players | 4/8 |
-| Host Name | Черная Рыба- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:12:09 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501910219229 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Over Time Kill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:12:13 |
@@ -92,10 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:12:19 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501906377075 |
+| Players | 6/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:08:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501910163249 |
+| Players | 5/8 |
+| Host Name | Черная Рыба- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:12:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501910705062 |
+| Players | 1/8 |
+| Host Name | 92 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:12:43 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501906871359 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Твоя бывшая |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:08:43 |
