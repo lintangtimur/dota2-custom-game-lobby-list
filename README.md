@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:15:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501977206690 |
-| Players | 9/10 |
-| Host Name | ludwig w |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:17:21 |
+| Lobby ID | 28566501978050659 |
+| Players | 1/8 |
+| Host Name | SabrosonxD322 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 19:18:07 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501977710871 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | Glimmer of Hope |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:17:49 |
@@ -83,6 +83,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:18:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501978109385 |
+| Players | 6/8 |
+| Host Name | mkv |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, December 16, 2023 19:18:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501978130096 |
+| Players | 2/10 |
+| Host Name | Divine intervention |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:18:12 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566501973322645 |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501972815283 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:13:27 |
@@ -104,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501977196309 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ♫...Cheese |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 16, 2023 19:17:21 |
