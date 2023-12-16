@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502042461822 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Ah Zai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:12:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502042461083 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | しはいのあくま。 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:12:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502043486186 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | 0,00001 Percent win? |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:13:45 |
@@ -86,16 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502043530409 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | ▲ Убийца Акаме |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 20:13:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502043723483 |
+| Players | 2/8 |
+| Host Name | luke nichols |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 20:13:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566502032164667 |
+| Players | 20/24 |
+| Host Name | Feedytharex |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 20:04:34 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502042108099 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Showed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 20:12:38 |
@@ -103,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566502043564769 |
+| Lobby ID | 28566502044034586 |
 | Players | 1/10 |
-| Host Name | CP |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 16, 2023 20:13:49 |
+| Host Name | GaliLeo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 20:14:10 |
 
 
