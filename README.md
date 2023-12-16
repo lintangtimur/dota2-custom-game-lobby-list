@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501733837150 |
-| Players | 21/24 |
-| Host Name | woaaaar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:39:38 |
+| Lobby ID | 28566501735529323 |
+| Players | 6/15 |
+| Host Name | WolFyKah |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 14:41:53 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501735000915 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | YATOGOROT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 14:41:11 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501734929328 |
-| Players | 6/15 |
-| Host Name | Моржиха |
+| Players | 7/15 |
+| Host Name | KAI |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 14:41:05 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501735564938 |
+| Players | 2/10 |
+| Host Name | Makerka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 14:41:56 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501735411393 |
+| Lobby ID | 28566501735808199 |
 | Players | 1/15 |
-| Host Name | 刷野能有出息？ |
+| Host Name | Tearlament |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:41:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501735529323 |
-| Players | 1/15 |
-| Host Name | WolFyKah |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 14:41:53 |
+| Lobby Creation Time | Saturday, December 16, 2023 14:42:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501735209804 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Heliofant |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 14:41:28 |
