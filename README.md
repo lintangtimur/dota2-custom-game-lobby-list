@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501841454408 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501923218936 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | PUSH TOWER AND DEFEND |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:25:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501906377075 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:08:11 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501925720238 |
-| Players | 14/15 |
-| Host Name | //:absoluteSolver |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:28:14 |
+| Lobby ID | 28566501926468335 |
+| Players | 3/15 |
+| Host Name | Sheerluck Holmes |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:29:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501918465525 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Space |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:20:46 |
@@ -74,20 +74,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:28:42 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501925553198 |
-| Players | 3/10 |
-| Host Name | GaliLeo |
+| Lobby ID | 28566501926522555 |
+| Players | 1/24 |
+| Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:28:04 |
+| Lobby Creation Time | Saturday, December 16, 2023 18:29:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501926595766 |
+| Players | 2/10 |
+| Host Name | Betron |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:29:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501926725564 |
+| Players | 1/24 |
+| Host Name | Satan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 18:29:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501925307866 |
-| Players | 2/10 |
-| Host Name | Medved |
+| Players | 1/10 |
+| Host Name | 1HP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:27:49 |
 
