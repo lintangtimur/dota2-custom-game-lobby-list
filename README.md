@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:08:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501921480125 |
-| Players | 7/8 |
-| Host Name | 𝕺𝕲. 𝕮𝖊𝖘𝖆𝖗 |
+| Lobby ID | 28566501921641594 |
+| Players | 10/15 |
+| Host Name | IZANAMI |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:23:54 |
+| Lobby Creation Time | Saturday, December 16, 2023 18:24:04 |
 
 
 |  | ot3_desert_octet |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:20:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501921641594 |
-| Players | 8/15 |
-| Host Name | IZANAMI |
+| Lobby ID | 28566501921894020 |
+| Players | 4/10 |
+| Host Name | Saj |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:24:04 |
+| Lobby Creation Time | Saturday, December 16, 2023 18:24:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501917150679 |
-| Players | 9/10 |
-| Host Name | Izumiiiiiiiiii<3 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:19:23 |
+| Lobby ID | 28566501921940041 |
+| Players | 1/8 |
+| Host Name | Oreo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 18:24:23 |
 
 
 |  | epic_boss_fight_nightmare |
