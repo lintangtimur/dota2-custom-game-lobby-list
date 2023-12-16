@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502011633675 |
-| Players | 2/15 |
-| Host Name | forer |
+| Players | 1/15 |
+| Host Name | screlia |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 16, 2023 19:47:18 |
 
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:38:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502010016789 |
-| Players | 22/24 |
-| Host Name | CRIMINAL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:45:56 |
+| Lobby ID | 28566502012652413 |
+| Players | 7/15 |
+| Host Name | БАРБИТУРНЫЙ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:48:10 |
 
 
 |  | ot3_desert_octet |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502012072922 |
-| Players | 8/10 |
-| Host Name | Unlimited diarrhea |
+| Lobby ID | 28566502012933413 |
+| Players | 2/10 |
+| Host Name | Мэл Гибсон |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:47:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566502012652413 |
-| Players | 4/15 |
-| Host Name | БАРБИТУРНЫЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:48:10 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:48:24 |
 
 
 |  | epic_boss_fight_nightmare |
