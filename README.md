@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501761693084 |
-| Players | 1/10 |
-| Host Name | "DIEGUIXZN//IS BACK" |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 16, 2023 15:16:11 |
+| Lobby ID | 28566501764254657 |
+| Players | 1/8 |
+| Host Name | shadow fiend romantik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 15:19:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501760678262 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:14:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501764111852 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | my love |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:19:19 |
@@ -32,10 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501764121411 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | snakls |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:19:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566501764220633 |
+| Players | 7/24 |
+| Host Name | Monsiuer LaPadite |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 15:19:27 |
 
 
 |  | epic_boss_fight_normal |
