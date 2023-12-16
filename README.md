@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502123953266 |
-| Players | 8/10 |
-| Host Name | Kill Real Love |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 21:15:37 |
+| Lobby ID | 28566502124896277 |
+| Players | 1/24 |
+| Host Name | www.instumblr.top |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:16:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 21:14:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502122841558 |
-| Players | 3/8 |
-| Host Name | FEED KING |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 21:14:49 |
+| Lobby ID | 28566502125061448 |
+| Players | 1/24 |
+| Host Name | so hard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 21:16:26 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502115937693 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | CHICO FITNESS 69 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 21:09:45 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502124270260 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | scotland |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 21:15:51 |
@@ -103,17 +103,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502124801047 |
-| Players | 1/24 |
-| Host Name | so hard |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 21:16:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28566502124796905 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Chu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 21:16:14 |
