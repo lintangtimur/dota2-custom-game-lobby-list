@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 15:20:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501820125338 |
-| Players | 5/8 |
-| Host Name | Samurai |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 16, 2023 16:28:58 |
+| Lobby ID | 28566501821543788 |
+| Players | 1/10 |
+| Host Name | Boje bombi Belgorod |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 16:30:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:19:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501820899097 |
-| Players | 1/8 |
-| Host Name | LOOSER |
+| Lobby ID | 28566501820782364 |
+| Players | 4/15 |
+| Host Name | Dota psychology apprentice |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:29:55 |
+| Lobby Creation Time | Saturday, December 16, 2023 16:29:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501820356485 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | ДУБ ЧЕРЕЗ ПИВО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:29:15 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:29:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566501820782364 |
-| Players | 3/15 |
-| Host Name | Dota psychology apprentice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:29:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501804500089 |
@@ -83,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:10:02 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566501819301410 |
-| Players | 1/5 |
-| Host Name | nepogreshim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 16:27:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501820695783 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Immortal™Фрукт) |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 16:29:40 |
