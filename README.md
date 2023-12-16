@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501889211283 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | wyecfm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:49:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501889216901 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | дикий пон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:49:31 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501889461181 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Великий Грешник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:49:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566501889915779 |
+| Players | 5/8 |
+| Host Name | Lalalalisa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:50:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501882533085 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | [                         ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:42:07 |
@@ -95,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501887748391 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Muahhh!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:47:53 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28566501889570889 |
-| Players | 1/7 |
-| Host Name | M.A.E.S.T.R.O |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:49:55 |
 
 
