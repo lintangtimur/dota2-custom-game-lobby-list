@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501847092851 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Rae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 17:01:21 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501849142217 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | РУБИЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 17:03:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501848987080 |
-| Players | 1/8 |
-| Host Name | pussy boy |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:03:35 |
+| Lobby ID | 28566501849718276 |
+| Players | 4/10 |
+| Host Name | Красавчик на аве |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 17:04:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501839581303 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Белый Волк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 16:52:22 |
