@@ -86,55 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502253091779 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | погоди погоди |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:54:51 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502250956412 |
-| Players | 7/8 |
-| Host Name | роудислав |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:53:04 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502252642541 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Samfir |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:54:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502253016856 |
-| Players | 1/8 |
-| Host Name | 戀•ᴀssᴀsɪɴ•戀 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 16, 2023 22:54:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566502251689790 |
-| Players | 9/10 |
-| Host Name | Minez |
+| Lobby ID | 28566502253698321 |
+| Players | 1/24 |
+| Host Name | ShiNinG |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:53:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566502252009061 |
-| Players | 2/10 |
-| Host Name | Paser |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 22:53:57 |
+| Lobby Creation Time | Saturday, December 16, 2023 22:55:22 |
 
 
 |  | epic_boss_fight_hard |
@@ -144,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ★曲げ機★ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 22:54:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566502252009061 |
+| Players | 2/10 |
+| Host Name | Paser |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 22:53:57 |
 
 
