@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:41:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566501852420822 |
-| Players | 13/15 |
-| Host Name | xdxd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 17:07:38 |
+| Lobby ID | 28566501851392075 |
+| Players | 2/24 |
+| Host Name | Tempeste |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:06:25 |
 
 
 |  | ot3_gardens_duo |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 17:04:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501850145932 |
-| Players | 17/24 |
-| Host Name | woaaaar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:04:56 |
+| Lobby ID | 28566501852822313 |
+| Players | 4/15 |
+| Host Name | liwl |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 17:08:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501851392075 |
-| Players | 2/24 |
-| Host Name | Tempeste |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 17:06:25 |
+| Lobby ID | 28566501852939338 |
+| Players | 2/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 17:08:14 |
 
 
 |  | epic_boss_fight_normal |
