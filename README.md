@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501974818316 |
-| Players | 11/15 |
-| Host Name | L8DF |
+| Lobby ID | 28566501976889803 |
+| Players | 7/15 |
+| Host Name | لقد طفح الكيل |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:15:14 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:17:05 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501975851996 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | mil |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 16, 2023 19:16:10 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501976369207 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | rue |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 19:16:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566501977103601 |
+| Players | 1/15 |
+| Host Name | nannnad |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 16, 2023 19:17:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566501977131428 |
+| Players | 2/10 |
+| Host Name | pAin of kz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 19:17:18 |
 
 
 |  | epic_boss_fight_normal |
