@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501978652759 |
-| Players | 9/24 |
+| Players | 17/24 |
 | Host Name | Monty Bot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 19:18:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501841454408 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:15:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566501977940646 |
-| Players | 2/8 |
-| Host Name | Мальчик зайчик 12 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:18:01 |
+| Lobby ID | 28566501979735712 |
+| Players | 6/15 |
+| Host Name | Nawe |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 19:19:39 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 19:16:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501978352529 |
-| Players | 7/15 |
-| Host Name | Nup!g0t |
+| Lobby ID | 28566501979880954 |
+| Players | 2/10 |
+| Host Name | 赤司征十郎 |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:18:24 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:19:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,35 +76,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501979282517 |
-| Players | 1/8 |
-| Host Name | МИШАНЯ ПРОВОД |
+| Lobby ID | 28566501979853189 |
+| Players | 3/8 |
+| Host Name | Мальчик зайчик 12 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:19:15 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:19:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501979346372 |
-| Players | 1/15 |
-| Host Name | многокаст |
+| Lobby ID | 28566501979610556 |
+| Players | 2/8 |
+| Host Name | Drakalian the Dragon King |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 19:19:18 |
+| Lobby Creation Time | Saturday, December 16, 2023 19:19:32 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566501973322645 |
-| Players | 3/5 |
-| Host Name | QuietSmoke |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 19:13:53 |
+| Lobby ID | 28566501979764323 |
+| Players | 1/10 |
+| Host Name | Only |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 16, 2023 19:19:40 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501977196309 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | ♫...Cheese |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 16, 2023 19:17:21 |
