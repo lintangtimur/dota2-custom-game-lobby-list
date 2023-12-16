@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502085981273 |
-| Players | 3/8 |
-| Host Name | Absolutный Dolbaeb |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:47:09 |
+| Lobby ID | 28566502090129480 |
+| Players | 1/15 |
+| Host Name | 01 |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 16, 2023 20:50:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502089506505 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | 自我 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 20:49:51 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 20:47:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502082464258 |
-| Players | 23/24 |
-| Host Name | Nerfstyle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:44:28 |
+| Lobby ID | 28566502088447586 |
+| Players | 1/8 |
+| Host Name | FEED KING |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 16, 2023 20:49:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,26 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502088447586 |
-| Players | 1/8 |
-| Host Name | FEED KING |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:49:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566502089564703 |
-| Players | 7/10 |
-| Host Name | Rayli |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:49:53 |
+| Lobby ID | 28566502088805514 |
+| Players | 7/8 |
+| Host Name | Кирюша Аккуратней |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 16, 2023 20:49:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502087400479 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Weedy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:48:14 |
