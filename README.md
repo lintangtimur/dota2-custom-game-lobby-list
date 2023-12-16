@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501927650392 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:30:13 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501936057923 |
-| Players | 13/15 |
-| Host Name | 123 |
+| Players | 12/15 |
+| Host Name | France Hero |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:38:36 |
 
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566501936372470 |
-| Players | 3/10 |
-| Host Name | Rydex |
+| Players | 1/10 |
+| Host Name | Bzoon+H |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:38:56 |
 
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | donald duck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:37:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501935178006 |
-| Players | 5/8 |
-| Host Name | Калдун |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:37:43 |
 
 
 |  | ot3_necropolis_ffa |
