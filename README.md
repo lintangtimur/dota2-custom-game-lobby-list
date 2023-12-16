@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501790387648 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | zeus2014 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 15:52:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566501791521438 |
-| Players | 10/15 |
-| Host Name | Samurai |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 16, 2023 15:53:47 |
+| Lobby ID | 28566501792312951 |
+| Players | 2/8 |
+| Host Name | I know the way to lose |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 16, 2023 15:54:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501791144440 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kris |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 15:53:19 |
@@ -62,15 +62,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/15 |
 | Host Name | Meow |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 15:54:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501792312951 |
-| Players | 1/8 |
-| Host Name | I know the way to lose |
-| Region | USEAST |
 | Lobby Creation Time | Saturday, December 16, 2023 15:54:47 |
 
 
