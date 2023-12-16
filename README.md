@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566501841454408 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 16, 2023 16:54:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502082255526 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Madman |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:44:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502077122451 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:40:20 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 20:38:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502084084472 |
-| Players | 14/15 |
-| Host Name | Nova-47 |
+| Lobby ID | 28566502084702457 |
+| Players | 1/8 |
+| Host Name | ДОЛБАЕБ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:45:42 |
+| Lobby Creation Time | Saturday, December 16, 2023 20:46:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,34 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502082464258 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 20:44:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502084702457 |
-| Players | 1/8 |
-| Host Name | ДОЛБАЕБ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 20:46:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566502084772562 |
-| Players | 3/15 |
-| Host Name | Osiris VI |
+| Lobby ID | 28566502084936329 |
+| Players | 1/24 |
+| Host Name | 小余 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 16, 2023 20:46:13 |
+| Lobby Creation Time | Saturday, December 16, 2023 20:46:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502079964870 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | d1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 20:42:33 |
