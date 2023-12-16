@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566501952391604 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | From Here To Eternity |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 16, 2023 18:54:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566501952299159 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ПТ на дерзость |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:54:27 |
@@ -101,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 16, 2023 18:55:16 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566501953174449 |
-| Players | 5/8 |
-| Host Name | памперс с говном |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 16, 2023 18:55:18 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566501951203528 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | good guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 16, 2023 18:53:24 |
@@ -121,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28566501948132704 |
-| Players | 4/5 |
-| Host Name | God |
+| Lobby ID | 28566501953325354 |
+| Players | 1/5 |
+| Host Name | Wöff |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 16, 2023 18:50:28 |
+| Lobby Creation Time | Saturday, December 16, 2023 18:55:27 |
 
 
