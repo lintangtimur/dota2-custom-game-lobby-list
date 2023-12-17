@@ -11,20 +11,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 20:20:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503299044050 |
-| Players | 6/10 |
-| Host Name | Weizendelfin |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:24:53 |
+| Lobby ID | 28566503301217079 |
+| Players | 7/8 |
+| Host Name | [ Пятий БЭ ] heaven born |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 20:26:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503291236737 |
-| Players | 6/24 |
-| Host Name | Avena 3 Ursitas |
+| Players | 5/24 |
+| Host Name | proplayer de hentai vs frry |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 20:18:13 |
 
@@ -56,58 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 20:25:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503300597519 |
-| Players | 3/15 |
-| Host Name | 𝔸𝕣𝐢𝗲𝒍Q` |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:26:12 |
+| Lobby ID | 28566503301197495 |
+| Players | 5/8 |
+| Host Name | МУСОР |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 20:26:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503295183947 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Sallofos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 20:21:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503298360015 |
-| Players | 7/8 |
-| Host Name | 強奪者 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:24:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503299597056 |
-| Players | 2/8 |
-| Host Name | VainHope |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:25:21 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503300060027 |
-| Players | 13/15 |
-| Host Name | kelso |
+| Lobby ID | 28566503301296320 |
+| Players | 4/15 |
+| Host Name | Non Grata |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:25:45 |
+| Lobby Creation Time | Sunday, December 17, 2023 20:26:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503300767060 |
-| Players | 4/8 |
-| Host Name | Aa to |
+| Lobby ID | 28566503301366637 |
+| Players | 1/10 |
+| Host Name | sisi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:26:21 |
+| Lobby Creation Time | Sunday, December 17, 2023 20:26:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503299189361 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | takina inoue is not my wife |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 20:25:00 |
