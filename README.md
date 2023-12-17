@@ -11,28 +11,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 22:25:36 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503460953760 |
-| Players | 20/24 |
-| Host Name | J |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:31:11 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503465630543 |
-| Players | 2/8 |
-| Host Name | Sasster |
+| Lobby ID | 28566503465339722 |
+| Players | 7/8 |
+| Host Name | dF |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:35:07 |
+| Lobby Creation Time | Sunday, December 17, 2023 22:34:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503466302574 |
+| Players | 3/10 |
+| Host Name | Mog |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:35:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503462617800 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Noelle |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 22:32:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503464930891 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 22:34:32 |
@@ -68,55 +68,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503462890115 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Lin |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 17, 2023 22:32:50 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503464727088 |
-| Players | 7/24 |
-| Host Name | Shenorita |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:34:22 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503464877652 |
-| Players | 10/15 |
-| Host Name | Ниссан Жук |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:34:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503465339722 |
-| Players | 1/8 |
-| Host Name | dF |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:34:53 |
+| Lobby ID | 28566503466312892 |
+| Players | 14/15 |
+| Host Name | darkness空虚 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 22:35:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503465785795 |
-| Players | 2/10 |
-| Host Name | Ch1pso3d |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:35:15 |
+| Lobby ID | 28566503466364923 |
+| Players | 1/10 |
+| Host Name | PATO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 17, 2023 22:35:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503465759679 |
+| Lobby ID | 28566503466616740 |
 | Players | 1/8 |
-| Host Name | gokirus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:35:14 |
+| Host Name | rqrqrqrqrqrqrqrqrqrqrq |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 22:35:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503466648412 |
+| Players | 2/24 |
+| Host Name | losing streak |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 22:35:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503458515511 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Kess Joy |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 17, 2023 22:29:08 |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503463138678 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Camrad_Ivan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 22:33:02 |
