@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503389505989 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Noelle |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 21:33:54 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503390038155 |
-| Players | 2/8 |
-| Host Name | Iodine |
+| Players | 1/8 |
+| Host Name | SIDERAL FRIO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 17, 2023 21:34:18 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503389825934 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | MIDDLE CHILD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 21:34:09 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503392254586 |
-| Players | 6/10 |
-| Host Name | Biborten! |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 21:36:11 |
+| Lobby ID | 28566503393409788 |
+| Players | 5/10 |
+| Host Name | yEbATop_CMEPTu @)!# |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 21:37:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503392420372 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | БИЖКА ЖРУСКО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 21:36:18 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503392490249 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 1k Mycop |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 21:36:22 |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503392618098 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | TBo9I_cMepTb ︻デ 一 - |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 21:36:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503393124193 |
-| Players | 3/8 |
-| Host Name | Happy |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 21:36:51 |
 
 
 |  | epic_boss_fight_nightmare |
