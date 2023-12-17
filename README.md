@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503105072131 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | некрофиля |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 17:23:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503105620926 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Proworg |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:24:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503102091876 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:20:15 |
@@ -67,17 +67,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503099803129 |
-| Players | 7/8 |
-| Host Name | ВидноЗБродів |
+| Lobby ID | 28566503105793054 |
+| Players | 3/8 |
+| Host Name | BygNK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:17:42 |
+| Lobby Creation Time | Sunday, December 17, 2023 17:24:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503105798986 |
+| Players | 9/15 |
+| Host Name | Depraved Opossum |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:24:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503105935231 |
+| Players | 1/8 |
+| Host Name | practice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 17:24:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503106130999 |
+| Players | 1/15 |
+| Host Name | -Nabong- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:24:48 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503102520761 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | DEVIL MAY CUM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:20:44 |
