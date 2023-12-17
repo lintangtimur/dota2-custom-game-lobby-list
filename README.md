@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503785583037 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Enzo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 03:53:34 |
@@ -47,51 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 04:07:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503797239050 |
-| Players | 15/15 |
-| Host Name | kaedehara |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:08:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503797896382 |
-| Players | 1/8 |
-| Host Name | XOROIII |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:09:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503797794182 |
-| Players | 13/15 |
-| Host Name | K... |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:09:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503798069103 |
-| Players | 2/10 |
-| Host Name | Cago |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:09:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503797934077 |
-| Players | 1/10 |
-| Host Name | Beenzntoast |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:09:44 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503797930531 |
@@ -103,11 +58,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503798126717 |
+| Lobby ID | 28566503797896382 |
 | Players | 1/8 |
-| Host Name | GHOST... |
+| Host Name | XOROIII |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:09:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503797934077 |
+| Players | 1/10 |
+| Host Name | Beenzntoast |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 04:09:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503798069103 |
+| Players | 3/10 |
+| Host Name | Cago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:09:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503798163452 |
+| Players | 2/10 |
+| Host Name | watch me die |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:10:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503798188552 |
+| Players | 1/8 |
+| Host Name | xxGodInstincxX |
 | Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 04:09:59 |
+| Lobby Creation Time | Monday, December 18, 2023 04:10:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503798197608 |
+| Players | 11/15 |
+| Host Name | Дима бензодиазеп |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 04:10:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503798239512 |
+| Players | 1/24 |
+| Host Name | Smurfosaurus-Rekt |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 04:10:08 |
 
 
 |  | epic_boss_fight_nightmare |
