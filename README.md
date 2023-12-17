@@ -20,28 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 03:53:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503835894247 |
-| Players | 3/8 |
-| Host Name | her loss |
+| Lobby ID | 28566503836097732 |
+| Players | 5/15 |
+| Host Name | jamil |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:04:36 |
+| Lobby Creation Time | Monday, December 18, 2023 05:04:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503831676980 |
-| Players | 23/24 |
-| Host Name | Mathiasla |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:58:03 |
+| Lobby ID | 28566503833399608 |
+| Players | 9/10 |
+| Host Name | Pyrosmog |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 05:00:45 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503835905812 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mahoraga |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:04:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503834894755 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | R3sist4nce. |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 05:03:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503835915810 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | VolTaGe |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:04:38 |
@@ -69,45 +69,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28566503834290562 |
 | Players | 5/8 |
-| Host Name | Keedo |
+| Host Name | григбосс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:02:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503835360276 |
-| Players | 14/15 |
-| Host Name | LAN |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:03:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503835895541 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | El hombre que murio de pie |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:04:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503833399608 |
-| Players | 7/10 |
-| Host Name | Abuela_Sírveme |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:00:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503836066747 |
-| Players | 4/8 |
-| Host Name | penis po angielsku |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:04:52 |
 
 
 |  | epic_boss_fight_nightmare |
