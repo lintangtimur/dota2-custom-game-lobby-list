@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503018606234 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | sugar blast |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 15:43:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503012947043 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 15:37:13 |
@@ -74,12 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 15:47:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566503021652833 |
-| Players | 10/15 |
-| Host Name | PapaKarlo |
+| Lobby ID | 28566503022145431 |
+| Players | 2/10 |
+| Host Name | Andreas Maler |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:47:30 |
+| Lobby Creation Time | Sunday, December 17, 2023 15:48:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503022134294 |
+| Players | 1/10 |
+| Host Name | OUUUUUUUUUUUUUUU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 15:48:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503022248063 |
+| Players | 1/10 |
+| Host Name | Abril te extraño regresa :c |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 15:48:12 |
 
 
