@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502979703017 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 14:58:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503000918843 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | Dr.Vazilin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 15:22:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503000778930 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ZAZA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 15:22:41 |
@@ -86,27 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503000012400 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 15:21:46 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566502997042833 |
-| Players | 23/24 |
-| Host Name | Carry Bayangan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 15:18:15 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502998851229 |
-| Players | 4/10 |
-| Host Name | ๖ۣۜLRAC |
+| Players | 3/10 |
+| Host Name | AUDIN |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 17, 2023 15:20:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503001325971 |
+| Players | 2/5 |
+| Host Name | Panda |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, December 17, 2023 15:23:21 |
 
 
