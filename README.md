@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503830012827 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 04:55:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503864541388 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Panda |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:53:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503865073170 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Egoista |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:54:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503862475389 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Random_Citizen |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:49:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503864898823 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | MORACLE |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:53:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503865328257 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | scottishfold |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:54:35 |
@@ -112,20 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503865470445 |
-| Players | 14/15 |
-| Host Name | Gasmel |
+| Lobby ID | 28566503865649640 |
+| Players | 6/15 |
+| Host Name | MVP |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:54:50 |
+| Lobby Creation Time | Monday, December 18, 2023 05:55:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503865649640 |
-| Players | 2/15 |
-| Host Name | MVP |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:55:10 |
+| Lobby ID | 28566503865065250 |
+| Players | 14/15 |
+| Host Name | VolTaGe |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 05:54:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503865757377 |
+| Players | 1/15 |
+| Host Name | Stan ♂ Next ♂ Door |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 05:55:22 |
 
 
 |  | epic_boss_fight_hard |
