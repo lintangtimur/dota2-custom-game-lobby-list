@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503883300026 |
-| Players | 1/15 |
-| Host Name | ♪ |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 06:28:56 |
+| Lobby ID | 28566503883345767 |
+| Players | 5/15 |
+| Host Name | Competitive ACNH Player |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 06:29:01 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:26:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503882836780 |
-| Players | 6/8 |
-| Host Name | Guitir |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 06:27:59 |
+| Lobby ID | 28566503883616683 |
+| Players | 2/10 |
+| Host Name | Buğra |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 06:29:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,61 +59,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503883424868 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Desemputol |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 06:29:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503882747381 |
-| Players | 20/24 |
-| Host Name | OTRO TIO DE CHISTIAN |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 06:27:48 |
+| Lobby ID | 28566503883687244 |
+| Players | 2/8 |
+| Host Name | I.G.Y |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 06:29:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503882994878 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:28:19 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503883162411 |
-| Players | 3/10 |
-| Host Name | лёха механик |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:28:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503883345767 |
-| Players | 2/15 |
-| Host Name | Competitive ACNH Player |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 06:29:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503883345596 |
-| Players | 8/15 |
-| Host Name | spirit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 06:29:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503883140148 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | pepega |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 06:28:37 |
