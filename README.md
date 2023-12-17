@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503202575344 |
-| Players | 4/8 |
-| Host Name | VVS |
+| Lobby ID | 28566503202296399 |
+| Players | 6/8 |
+| Host Name | Miyamura |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:01:59 |
+| Lobby Creation Time | Sunday, December 17, 2023 19:01:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503161892343 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Roy Mustang |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 18:23:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503201772126 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 19:01:15 |
@@ -74,22 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 18:50:34 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503200762618 |
+| Players | 14/15 |
+| Host Name | ¿ОБЗОР НА ВИТАМИНКУ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 19:00:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503202808168 |
+| Players | 3/15 |
+| Host Name | synthetic truth |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 19:02:12 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503202180311 |
-| Players | 8/10 |
-| Host Name | Blackout |
+| Lobby ID | 28566503202822078 |
+| Players | 6/10 |
+| Host Name | egoisto |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 19:01:37 |
+| Lobby Creation Time | Sunday, December 17, 2023 19:02:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503202296399 |
-| Players | 2/8 |
-| Host Name | Miyamura |
+| Lobby ID | 28566503202935702 |
+| Players | 2/15 |
+| Host Name | Well Cum |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:01:44 |
+| Lobby Creation Time | Sunday, December 17, 2023 19:02:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Calabreso |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 18:56:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566503201977767 |
-| Players | 1/5 |
-| Host Name | JOINT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:01:26 |
 
 
