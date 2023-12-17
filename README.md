@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 18:44:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503188955306 |
-| Players | 7/8 |
-| Host Name | Frobn |
+| Lobby ID | 28566503189650855 |
+| Players | 5/15 |
+| Host Name | Чел, иди в роблокс |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:49:19 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:49:58 |
 
 
 |  | ot3_gardens_duo |
@@ -74,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 18:49:06 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503189650855 |
-| Players | 3/15 |
-| Host Name | Чел, иди в роблокс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:49:58 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28566503187688593 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | De Bill Harrington |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:48:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503189877689 |
+| Players | 1/10 |
+| Host Name | GAMBIT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 18:50:11 |
 
 
