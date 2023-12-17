@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502801917709 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Mir4iK |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 10:17:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502801118749 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | No cometas el crimen varón |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 10:16:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502802102425 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | Power Ranger Plomo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 10:18:16 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502802183571 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 10:18:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502802766449 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 17, 2023 10:19:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 10:18:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566502802681493 |
-| Players | 1/10 |
-| Host Name | Testicules |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 17, 2023 10:19:22 |
 
 
