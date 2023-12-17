@@ -41,37 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503061798292 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ushia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:34:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503062105232 |
-| Players | 8/15 |
-| Host Name | ~Feainnewedd |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:34:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503062177747 |
-| Players | 2/10 |
-| Host Name | HO HO HO MERRY CHRISTMAS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:34:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503058545017 |
-| Players | 9/10 |
-| Host Name | Kristina |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:30:29 |
 
 
 |  | ot3_gardens_duo |
@@ -81,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sargent_pepper4 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 16:34:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503062177747 |
+| Players | 3/10 |
+| Host Name | HO HO HO MERRY CHRISTMAS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 16:34:45 |
 
 
 |  | epic_boss_fight_nightmare |
