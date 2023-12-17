@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503168742671 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:30:18 |
@@ -50,63 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503175475660 |
-| Players | 3/10 |
-| Host Name | Nematovs |
+| Players | 4/10 |
+| Host Name | ШРЭК |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:36:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503175270226 |
-| Players | 1/24 |
-| Host Name | Зеленый Крокодил |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:36:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503175276827 |
-| Players | 9/15 |
-| Host Name | mayrush313 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:36:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503175601419 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | penis po angielsku |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:36:45 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503174451762 |
-| Players | 3/10 |
-| Host Name | mental health over grades |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 18:35:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503175770851 |
-| Players | 1/10 |
-| Host Name | Batis |
+| Lobby ID | 28566503175276827 |
+| Players | 13/15 |
+| Host Name | mayrush313 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:36:55 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:36:27 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503172659491 |
-| Players | 4/5 |
-| Host Name | берсерк |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 18:33:59 |
+| Lobby ID | 28566503176011149 |
+| Players | 1/24 |
+| Host Name | Зеленый Крокодил |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 18:37:08 |
 
 
