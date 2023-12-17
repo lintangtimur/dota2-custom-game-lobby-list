@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503283414192 |
+| Lobby ID | 28566503284122363 |
 | Players | 5/10 |
-| Host Name | Patron (dog) |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:11:35 |
+| Host Name | 黄瀬レト |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 20:12:11 |
 
 
 |  | ot3_desert_octet |
@@ -50,37 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503283387025 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Клешнявый вилли |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 20:11:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503283617070 |
-| Players | 1/24 |
-| Host Name | Trimurti |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:11:46 |
+| Lobby ID | 28566503283917610 |
+| Players | 4/8 |
+| Host Name | sq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 20:12:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503280462621 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Juice WRLD - Fast |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 20:09:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503283829406 |
-| Players | 4/8 |
-| Host Name | Dyra |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:11:56 |
 
 
 |  | epic_boss_fight_nightmare |
