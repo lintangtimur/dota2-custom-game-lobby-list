@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502850998611 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 17, 2023 11:49:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502972174918 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ThePterodactyl |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 14:49:20 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502939762558 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Pivassic_Pug |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 14:08:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502972786090 |
-| Players | 4/8 |
-| Host Name | серега пират |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 14:50:06 |
+| Lobby ID | 28566502973763449 |
+| Players | 4/10 |
+| Host Name | Super Jinggoy |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 17, 2023 14:51:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502973370566 |
-| Players | 1/24 |
+| Players | 18/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 14:50:49 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 14:51:00 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502966013259 |
-| Players | 7/10 |
-| Host Name | ****** |
+| Lobby ID | 28566502973964332 |
+| Players | 2/10 |
+| Host Name | gato con tabas |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 17, 2023 14:51:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502974052268 |
+| Players | 1/8 |
+| Host Name | Винтовой |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 14:41:43 |
+| Lobby Creation Time | Sunday, December 17, 2023 14:51:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 14:49:54 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28566502973047356 |
-| Players | 1/7 |
-| Host Name | KZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 14:50:25 |
 
 
