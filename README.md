@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503787850960 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | NURAYA |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 03:56:29 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503787511183 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Mr. Qkzoo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 03:56:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503787043967 |
-| Players | 13/15 |
-| Host Name | RED D |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 03:55:26 |
+| Lobby ID | 28566503788092936 |
+| Players | 1/8 |
+| Host Name | ♂️DUNGEON-MASTER♂ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 03:56:47 |
 
 
 |  | ot3_desert_octet |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503788095154 |
-| Players | 8/15 |
-| Host Name | Atomic |
+| Players | 6/15 |
+| Host Name | Расфидовочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 03:56:47 |
 
@@ -90,33 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mojac |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 03:56:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503788116120 |
-| Players | 8/10 |
-| Host Name | винеррр |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 03:56:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503788092936 |
-| Players | 1/8 |
-| Host Name | ♂️DUNGEON-MASTER♂ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 03:56:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503788302832 |
-| Players | 1/8 |
-| Host Name | GKK-128 LAB#992 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 03:57:03 |
 
 
 |  | epic_boss_fight_nightmare |
