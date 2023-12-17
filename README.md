@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503870637869 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | руский?В ПАКЕТ! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:04:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503871888235 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | OneUpM8 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:06:43 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503871977760 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Древнесловянский зажим яйцами |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:06:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503872187180 |
+| Players | 1/8 |
+| Host Name | your dad's pic is on my profile |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 18, 2023 06:07:18 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503872034492 |
-| Players | 7/10 |
-| Host Name | kicia nie moge spać |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:06:59 |
+| Lobby ID | 28566503870809063 |
+| Players | 9/10 |
+| Host Name | Mahoraga |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 06:04:41 |
 
 
 |  | epic_boss_fight_normal |
