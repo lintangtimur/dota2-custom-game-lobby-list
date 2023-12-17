@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503794121628 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Moyorzzz |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 04:04:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503789071114 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | ReiJr1 |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 03:58:03 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503793549861 |
-| Players | 7/8 |
-| Host Name | [E]xtravaganza |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:03:54 |
+| Lobby ID | 28566503794417828 |
+| Players | 1/8 |
+| Host Name | ℬúcaro |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 04:05:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 04:04:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503794086464 |
-| Players | 2/10 |
-| Host Name | hand crushed by a mallet |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:04:36 |
+| Lobby ID | 28566503794380885 |
+| Players | 5/8 |
+| Host Name | muteallchat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:05:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503794379778 |
+| Players | 8/15 |
+| Host Name | A Legendary attempt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:05:00 |
 
 
