@@ -5,52 +5,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503830012827 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | $tr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 04:55:28 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503785583037 |
-| Players | 1/24 |
-| Host Name | Jagindas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 03:53:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503836403999 |
-| Players | 9/15 |
-| Host Name | LOTSO |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 05:05:24 |
+| Lobby ID | 28566503838398315 |
+| Players | 6/15 |
+| Host Name | Black Lagoon |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:08:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503836636396 |
-| Players | 7/10 |
-| Host Name | THE BERPI |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 05:05:46 |
+| Lobby ID | 28566503837663593 |
+| Players | 2/24 |
+| Host Name | CaféComLeite |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 05:07:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503836848322 |
-| Players | 9/10 |
-| Host Name | Mr.Popo |
+| Lobby ID | 28566503838343434 |
+| Players | 1/24 |
+| Host Name | DejameGanarPePipipi |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 05:08:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503837726615 |
+| Players | 1/24 |
+| Host Name | manjiro sano |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:06:06 |
+| Lobby Creation Time | Monday, December 18, 2023 05:07:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503834894755 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | R3sist4nce. |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 05:03:02 |
@@ -59,26 +59,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503836613824 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Supreme Drug Dealer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:05:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503838221908 |
-| Players | 1/24 |
-| Host Name | ★彡[ŁogaภY]彡★ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 05:08:19 |
+| Lobby ID | 28566503838404104 |
+| Players | 1/8 |
+| Host Name | Акула |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:08:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503835895541 |
-| Players | 5/8 |
-| Host Name | El hombre que murio de pie |
+| Players | 3/8 |
+| Host Name | arbien |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:04:36 |
 
@@ -92,39 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:07:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503837460196 |
-| Players | 7/8 |
-| Host Name | 悪 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:07:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503837726615 |
-| Players | 1/24 |
-| Host Name | manjiro sano |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:07:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503837663593 |
-| Players | 2/24 |
-| Host Name | CaféComLeite |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 05:07:26 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503837904930 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | YO PANTRO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:07:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503838433161 |
+| Players | 1/10 |
+| Host Name | пуп |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:08:40 |
 
 
