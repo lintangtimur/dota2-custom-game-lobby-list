@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 17:55:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503147441024 |
-| Players | 6/8 |
-| Host Name | Pomstick |
+| Lobby ID | 28566503148427040 |
+| Players | 9/10 |
+| Host Name | bot<3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:09:11 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:10:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503148043556 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | サイバーサイコシス |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 18:09:48 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 18:07:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503145422414 |
-| Players | 18/24 |
-| Host Name | LUNGTONG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 18:07:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503148236330 |
-| Players | 1/10 |
-| Host Name | Papa$ na bloke |
+| Lobby ID | 28566503148639539 |
+| Players | 3/8 |
+| Host Name | BygNK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:09:59 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:10:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503145538478 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:07:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503145244732 |
-| Players | 7/10 |
-| Host Name | Славный Котик Иут |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:06:57 |
 
 
