@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503851209088 |
-| Players | 12/15 |
-| Host Name | KA LE |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 05:29:37 |
+| Lobby ID | 28566503853115998 |
+| Players | 9/15 |
+| Host Name | K... |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:32:51 |
 
 
 |  | ot3_gardens_duo |
@@ -38,55 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:24:40 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503852660351 |
-| Players | 11/15 |
-| Host Name | spl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:32:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503851292060 |
-| Players | 11/24 |
-| Host Name | pajazlocas |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 05:29:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503853115998 |
-| Players | 2/15 |
-| Host Name | K... |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:32:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503853024314 |
-| Players | 3/10 |
-| Host Name | 17'5 4 7Я4P |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:32:41 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503853075253 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | DejameGanarPePipipi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:32:46 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503851292060 |
+| Players | 10/24 |
+| Host Name | pajazlocas |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 05:29:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503846591518 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | 喜欢短发的女生 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 05:21:46 |
@@ -104,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566503853223737 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | 🌺🌺🌺Kaneki🌺🌺🌺 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:33:03 |
