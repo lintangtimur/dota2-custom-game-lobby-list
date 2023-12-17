@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503848984877 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Salasta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:25:49 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503848864808 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | kartoFlane |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:25:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503848737508 |
-| Players | 7/8 |
-| Host Name | Акула |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:25:23 |
+| Lobby ID | 28566503846344214 |
+| Players | 14/15 |
+| Host Name | RON |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 05:21:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503848973286 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Larry Capija |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:25:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503848310089 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | eternal_tilt ･ᴗ･ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:24:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503848106173 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ◄Dingetjie◄ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:24:19 |
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Javi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:24:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503849079193 |
+| Players | 6/10 |
+| Host Name | 299148ce172bacf8f2b011a9e3d60ea4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:25:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503849119696 |
+| Players | 1/10 |
+| Host Name | :p |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 05:26:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503849128124 |
+| Players | 2/10 |
+| Host Name | Бабулина шанюшка |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:26:04 |
 
 
 |  | epic_boss_fight_nightmare |
