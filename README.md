@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 16:20:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503060036154 |
-| Players | 20/24 |
-| Host Name | Sign the Contract Big Boy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:32:14 |
+| Lobby ID | 28566503064028110 |
+| Players | 7/15 |
+| Host Name | MadaraUchihaRus58 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 16:36:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503064028110 |
-| Players | 3/15 |
-| Host Name | MadaraUchihaRus58 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:36:55 |
+| Lobby ID | 28566503064345702 |
+| Players | 1/15 |
+| Host Name | 已屏蔽 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 16:37:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503062908772 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | DYPLO |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:35:36 |
