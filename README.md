@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503840443220 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:11:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503840367258 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | asdasd |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:11:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503841852790 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | allmute |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:14:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503841550340 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | K... |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:13:33 |
@@ -86,10 +86,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503841823898 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DarkNight |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:13:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503841896043 |
+| Players | 2/10 |
+| Host Name | Fierce Pacifist |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:14:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503841906780 |
+| Players | 1/8 |
+| Host Name | F5 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:14:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503841894329 |
+| Players | 3/15 |
+| Host Name | U VV4NТ D33Z N4T ? [SIUU] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:14:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503841951808 |
+| Players | 1/8 |
+| Host Name | LOVE_yandere |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:14:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503841968981 |
+| Players | 2/15 |
+| Host Name | Hugh Jann Ouncement |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:14:13 |
 
 
 |  | epic_boss_fight_nightmare |
