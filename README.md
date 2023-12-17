@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 04:31:44 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503812946890 |
-| Players | 9/10 |
-| Host Name | :p |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 04:30:18 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503814551662 |
-| Players | 11/15 |
-| Host Name | nectzi |
+| Lobby ID | 28566503814959001 |
+| Players | 2/15 |
+| Host Name | K... |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:32:34 |
+| Lobby Creation Time | Monday, December 18, 2023 04:33:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503813611601 |
+| Players | 3/8 |
+| Host Name | Kenpachi Zaraki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:31:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503813559628 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | usaf,dog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 04:31:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503814902371 |
-| Players | 4/8 |
-| Host Name | мурчи сука |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:33:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503813611601 |
-| Players | 3/8 |
-| Host Name | Kenpachi Zaraki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:31:15 |
 
 
 |  | ot3_necropolis_ffa |
