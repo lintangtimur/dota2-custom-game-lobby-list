@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503445362657 |
-| Players | 5/24 |
+| Players | 2/24 |
 | Host Name | Bapak Bapak Rendem |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 22:18:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503442822011 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | RezNovAli |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 22:16:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503440251443 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SUN ♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 22:14:03 |
@@ -68,46 +68,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503432227861 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Slippy |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 17, 2023 22:07:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503445860207 |
-| Players | 6/10 |
-| Host Name | IVAR THE BONELESS |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:18:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503446314170 |
-| Players | 3/15 |
-| Host Name | Вова adidas |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:18:59 |
+| Lobby ID | 28566503446705109 |
+| Players | 2/8 |
+| Host Name | ShadowStorm |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 17, 2023 22:19:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503446015112 |
-| Players | 3/8 |
-| Host Name | ваня пират |
+| Lobby ID | 28566503447360389 |
+| Players | 1/8 |
+| Host Name | [E]nable |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:18:44 |
+| Lobby Creation Time | Sunday, December 17, 2023 22:19:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503446306729 |
-| Players | 1/15 |
-| Host Name | ObKyReN-_- |
+| Lobby ID | 28566503446997839 |
+| Players | 9/15 |
+| Host Name | Dude |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 22:19:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503447382043 |
+| Players | 1/8 |
+| Host Name | Доброхук Пуджови |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:18:59 |
+| Lobby Creation Time | Sunday, December 17, 2023 22:19:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503447462318 |
+| Players | 2/10 |
+| Host Name | goodbye |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:19:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503447254081 |
+| Players | 1/8 |
+| Host Name | Капитан Воробей |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:19:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503447516326 |
+| Players | 4/8 |
+| Host Name | rusofob |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 22:19:58 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503437216958 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Ging |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 17, 2023 22:11:36 |
@@ -144,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | StRuNgTfSf |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 22:17:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503447041007 |
+| Players | 1/10 |
+| Host Name | Maharaja Lawana |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 17, 2023 22:19:35 |
 
 
