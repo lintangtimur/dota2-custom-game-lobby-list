@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503875783718 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 13 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503894133124 |
-| Players | 22/24 |
-| Host Name | Romano |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 06:51:33 |
+| Lobby ID | 28566503895566672 |
+| Players | 6/8 |
+| Host Name | Alucard |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 06:54:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503895230871 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Versatilius |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:53:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503895143770 |
-| Players | 12/15 |
-| Host Name | Yello |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 06:53:38 |
+| Lobby ID | 28566503895738563 |
+| Players | 1/10 |
+| Host Name | goshiu |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 06:54:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Minoko Idara |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:46:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503892596802 |
-| Players | 9/10 |
-| Host Name | ✪ hi_im_kotstulle |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:48:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503895501263 |
-| Players | 1/10 |
-| Host Name | ChowChow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 06:54:24 |
 
 
