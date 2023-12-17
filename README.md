@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503859896836 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | 83 yo driver |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 05:44:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503861329297 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | DOG FLOW |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:47:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503862765207 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | it is what it is |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:50:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503861612448 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Hanni- |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:47:56 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:50:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503862899806 |
+| Players | 2/10 |
+| Host Name | no wind resistance |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:50:15 |
 
 
 |  | epic_boss_fight_nightmare |
