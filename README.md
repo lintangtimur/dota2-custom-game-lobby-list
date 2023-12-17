@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 17:55:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503145120506 |
-| Players | 1/8 |
-| Host Name | I am Sam |
-| Region | PWUNICOM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:06:50 |
+| Lobby ID | 28566503145078399 |
+| Players | 6/15 |
+| Host Name | EnotRed |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 18:06:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,67 +56,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 18:05:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503144406599 |
-| Players | 1/24 |
-| Host Name | LUNGTONG |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 17, 2023 18:06:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503144214498 |
-| Players | 1/24 |
-| Host Name | so hard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 18:05:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503144311722 |
-| Players | 23/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 18:06:01 |
+| Lobby ID | 28566503145336375 |
+| Players | 5/10 |
+| Host Name | Klaim |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 18:07:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503144220847 |
-| Players | 6/8 |
-| Host Name | Voyager1 |
+| Lobby ID | 28566503145227631 |
+| Players | 1/8 |
+| Host Name | vostanin572 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:05:55 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:06:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503145050050 |
-| Players | 5/15 |
-| Host Name | pomodomo |
+| Lobby ID | 28566503145422414 |
+| Players | 2/24 |
+| Host Name | LUNGTONG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 18:07:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503145509477 |
+| Players | 1/24 |
+| Host Name | so hard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 18:07:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503145504794 |
+| Players | 1/8 |
+| Host Name | Grk |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:06:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503145078399 |
-| Players | 3/15 |
-| Host Name | EnotRed |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 18:06:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503145102883 |
-| Players | 8/10 |
-| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:06:49 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:07:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +108,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DontBeInsulted |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 17, 2023 18:05:12 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28566503145235712 |
+| Players | 1/7 |
+| Host Name | KZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 18:06:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503145244732 |
+| Players | 1/10 |
+| Host Name | Славный Котик Иут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 18:06:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503145538478 |
+| Players | 1/10 |
+| Host Name | rbg |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 18:07:15 |
 
 
