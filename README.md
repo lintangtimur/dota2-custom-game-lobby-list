@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503119533625 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Douma |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 17:39:45 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503131047603 |
-| Players | 3/10 |
-| Host Name | wetwgweghwgh |
+| Lobby ID | 28566503131688970 |
+| Players | 1/10 |
+| Host Name | Тележка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:52:11 |
+| Lobby Creation Time | Sunday, December 17, 2023 17:52:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503129740819 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | ライラック |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:50:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503127277138 |
-| Players | 1/8 |
-| Host Name | Eqqjezzkquz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:48:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503130738623 |
-| Players | 10/15 |
-| Host Name | Kazakhskiy Ugodnik |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 17:51:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503131005743 |
+| Lobby ID | 28566503131676632 |
 | Players | 1/8 |
 | Host Name | Venomancer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:52:09 |
+| Lobby Creation Time | Sunday, December 17, 2023 17:52:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503130618753 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | [V]1NCE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:51:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566503131169854 |
-| Players | 1/5 |
-| Host Name | Задоджил аборт |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:52:19 |
 
 
