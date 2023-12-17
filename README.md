@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503431079286 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 22:06:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503432700169 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Ferguson♥ |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 17, 2023 22:07:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503432228628 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 22:07:34 |
@@ -77,25 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503432098643 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ты Нарекай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 22:07:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503426794618 |
-| Players | 7/10 |
-| Host Name | Big_Cock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:03:10 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503432197501 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Ben Dover |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 22:07:32 |
@@ -103,20 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503431320792 |
-| Players | 8/10 |
-| Host Name | YGY |
+| Lobby ID | 28566503433020573 |
+| Players | 4/10 |
+| Host Name | черный мечник |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:06:50 |
+| Lobby Creation Time | Sunday, December 17, 2023 22:08:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503433139297 |
+| Players | 1/10 |
+| Host Name | TELLUR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:08:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503432667876 |
-| Players | 4/8 |
-| Host Name | dipresion pidor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:07:55 |
+| Lobby ID | 28566503433173993 |
+| Players | 1/8 |
+| Host Name | Rraptor7 |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, December 17, 2023 22:08:20 |
 
 
 |  | epic_boss_fight_nightmare |
