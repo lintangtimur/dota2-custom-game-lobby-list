@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 03:53:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503804216911 |
-| Players | 5/8 |
-| Host Name | ¿? |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 04:18:08 |
+| Lobby ID | 28566503806387731 |
+| Players | 1/10 |
+| Host Name | эщкереер |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 04:21:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503805793269 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Токсичный ворон |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 04:20:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503804538490 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 04:18:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503806080013 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | belosvat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 04:20:38 |
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DJ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 04:12:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503806316063 |
+| Players | 1/10 |
+| Host Name | Pescadero |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 04:20:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503806368938 |
+| Players | 1/8 |
+| Host Name | SIGU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:21:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503804958692 |
+| Players | 15/15 |
+| Host Name | Sou |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:19:08 |
 
 
 |  | epic_boss_fight_nightmare |
