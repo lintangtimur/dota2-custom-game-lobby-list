@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503833399608 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | VolTaGe |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:00:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503834120285 |
-| Players | 5/8 |
-| Host Name | PA solo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:01:51 |
+| Lobby ID | 28566503833054628 |
+| Players | 8/10 |
+| Host Name | COVID - 19 |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 05:00:13 |
 
 
 |  | ot3_gardens_duo |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:01:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503832151883 |
-| Players | 22/24 |
-| Host Name | Reaper  Γ |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 04:58:48 |
+| Lobby ID | 28566503834207154 |
+| Players | 3/15 |
+| Host Name | Chiesel |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:01:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503831676980 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Mathiasla |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 04:58:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503832325445 |
-| Players | 6/24 |
+| Players | 2/24 |
 | Host Name | Ganan los chamos, pierde mi fami |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 04:59:04 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 04:58:36 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503833054628 |
-| Players | 9/10 |
-| Host Name | COVID - 19 |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 05:00:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503830144158 |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YOP |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 04:55:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503831580887 |
-| Players | 9/10 |
-| Host Name | Kay |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:57:54 |
 
 
