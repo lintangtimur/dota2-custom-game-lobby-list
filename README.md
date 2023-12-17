@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503861686807 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | mэнчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:48:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503860876730 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Remy (Chefcito) |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:46:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503860761267 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Dr. Pepino Loco |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:46:24 |
