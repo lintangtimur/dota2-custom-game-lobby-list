@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503895738563 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | goshiu |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:54:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503891496674 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 06:46:04 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503895268473 |
-| Players | 9/10 |
-| Host Name | Cago |
+| Lobby ID | 28566503896233678 |
+| Players | 2/10 |
+| Host Name | ДАЖЕ ЧУРКА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 06:53:54 |
+| Lobby Creation Time | Monday, December 18, 2023 06:55:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503895951105 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | soy serrano, y que? |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:55:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503895828768 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Fmed |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:55:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503896033163 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Nighthawk1021 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:55:33 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503896131275 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | K.D. |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:55:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503896304832 |
+| Players | 6/8 |
+| Host Name | viber |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 06:56:09 |
 
 
 |  | epic_boss_fight_normal |
