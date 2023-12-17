@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503286686990 |
-| Players | 4/8 |
-| Host Name | серега пират |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:14:22 |
+| Lobby ID | 28566503288550050 |
+| Players | 7/8 |
+| Host Name | Grim sleeper |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 20:15:56 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503286617834 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 20:14:19 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503285475678 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Easy Peasy |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 17, 2023 20:13:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503288203285 |
-| Players | 14/15 |
-| Host Name | 彼女から覆われて |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:15:39 |
+| Lobby ID | 28566503288919889 |
+| Players | 1/24 |
+| Host Name | PlusYz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 20:16:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,64 +85,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503288355363 |
-| Players | 4/10 |
-| Host Name | mahito (клубничный) |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 17, 2023 20:15:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503288559469 |
-| Players | 4/10 |
-| Host Name | Ух Aртем ГРОЗНЫЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:15:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503288550050 |
-| Players | 3/8 |
-| Host Name | Grim sleeper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:15:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503288766819 |
-| Players | 3/10 |
-| Host Name | Ksavar? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:16:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503284663670 |
-| Players | 22/24 |
-| Host Name | woaaaar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:12:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503288870799 |
-| Players | 1/15 |
-| Host Name | comend=comend |
+| Lobby ID | 28566503289717861 |
+| Players | 1/10 |
+| Host Name | CreizyPinky |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 17, 2023 20:16:13 |
+| Lobby Creation Time | Sunday, December 17, 2023 20:16:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566503288862793 |
-| Players | 1/10 |
-| Host Name | Just subscribe for Linda H |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, December 17, 2023 20:16:12 |
+| Lobby ID | 28566503288924221 |
+| Players | 2/10 |
+| Host Name | Aria |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 17, 2023 20:16:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503289137007 |
+| Players | 7/10 |
+| Host Name | sonrisa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 20:16:26 |
 
 
