@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503885575894 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | LET ME COOK |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:33:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503886389064 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | RSparrow |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:35:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503887062114 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Jet |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:36:37 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503886073807 |
-| Players | 6/24 |
-| Host Name | Gabdiel564 |
+| Players | 7/24 |
+| Host Name | Rob |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:34:33 |
 
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503887030190 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 06:36:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503887308937 |
-| Players | 4/10 |
-| Host Name | dreams money can buy |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:37:08 |
+| Lobby ID | 28566503887368537 |
+| Players | 2/8 |
+| Host Name | Que bonitos ojos tienes |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 06:37:16 |
 
 
 |  | epic_boss_fight_nightmare |
