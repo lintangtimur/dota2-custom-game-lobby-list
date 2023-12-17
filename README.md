@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503025821667 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | NothingtoDo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 15:52:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503025943518 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | NoOne can do it |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 15:52:36 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503026425620 |
+| Lobby ID | 28566503026582132 |
 | Players | 7/8 |
-| Host Name | данечка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:53:11 |
+| Host Name | VELVA DON'T BAN ME PLS |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 17, 2023 15:53:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503026582132 |
-| Players | 6/8 |
-| Host Name | VELVA DON'T BAN ME PLS |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 17, 2023 15:53:22 |
+| Lobby ID | 28566503026188618 |
+| Players | 3/8 |
+| Host Name | zxcdayn |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 15:52:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503022134294 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | OUUUUUUUUUUUUUUU |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 15:48:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503027012902 |
+| Players | 2/5 |
+| Host Name | The_Saboter |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 15:53:54 |
 
 
