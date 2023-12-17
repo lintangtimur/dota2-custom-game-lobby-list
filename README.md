@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502979703017 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 14:58:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503018606234 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | sugar blast |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 15:43:55 |
@@ -68,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503020543303 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Stalin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 15:46:11 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503021313467 |
+| Players | 1/8 |
+| Host Name | Мистер Пенис |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 15:47:06 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503018397100 |
-| Players | 22/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 15:43:41 |
+| Lobby ID | 28566502921229324 |
+| Players | 23/24 |
+| Host Name | apTeom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 13:41:44 |
 
 
