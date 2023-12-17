@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503203241257 |
-| Players | 7/8 |
-| Host Name | Kärss |
+| Lobby ID | 28566503204493356 |
+| Players | 4/8 |
+| Host Name | NOMAT#MRAZRUST |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:02:36 |
+| Lobby Creation Time | Sunday, December 17, 2023 19:03:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503201772126 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 19:01:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503204671519 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Whoim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 19:03:55 |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503204493356 |
-| Players | 4/8 |
-| Host Name | NOMAT#MRAZRUST |
+| Lobby ID | 28566503204966784 |
+| Players | 1/8 |
+| Host Name | мягкий |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:03:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503202935702 |
-| Players | 11/15 |
-| Host Name | Well Cum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:02:19 |
+| Lobby Creation Time | Sunday, December 17, 2023 19:04:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -97,6 +88,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby ID | 28566503204018478 |
 | Players | 1/10 |
 | Host Name | sonrisa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 19:03:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503204023077 |
+| Players | 9/10 |
+| Host Name | DEVIL MAY CUM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 19:03:19 |
 
