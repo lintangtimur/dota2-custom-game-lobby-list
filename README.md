@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503785583037 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | Holybang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 03:53:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503811061466 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 04:27:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503812946890 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 04:30:18 |
@@ -92,46 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 04:31:10 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503813581206 |
-| Players | 7/8 |
-| Host Name | BomBiTa |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 04:31:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503813611601 |
-| Players | 1/8 |
-| Host Name | Kenpachi Zaraki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:31:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503813636525 |
-| Players | 1/8 |
-| Host Name | PLODOTVOR |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:31:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503813844195 |
-| Players | 1/10 |
-| Host Name | sasa03rus_ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:31:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503813990838 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Hugh Jann Ouncement |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 04:31:46 |
@@ -139,20 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503814126510 |
+| Lobby ID | 28566503813611601 |
 | Players | 2/8 |
-| Host Name | take care of your moms♡ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:31:57 |
+| Host Name | Kenpachi Zaraki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:31:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503814127556 |
-| Players | 5/8 |
-| Host Name | Big4L |
+| Lobby ID | 28566503813844195 |
+| Players | 2/10 |
+| Host Name | sasa03rus_ |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:31:57 |
+| Lobby Creation Time | Monday, December 18, 2023 04:31:34 |
 
 
 |  | epic_boss_fight_nightmare |
