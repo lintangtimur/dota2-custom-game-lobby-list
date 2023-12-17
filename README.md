@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503807575138 |
-| Players | 18/24 |
-| Host Name | †Uchiha Obito† |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 04:22:41 |
+| Lobby ID | 28566503809839824 |
+| Players | 6/8 |
+| Host Name | ПАСПОРТУ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 04:25:51 |
 
 
 |  | ot3_desert_octet |
@@ -23,82 +23,91 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503803851104 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Cap |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 04:17:38 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503808960430 |
+| Players | 5/8 |
+| Host Name | GOBLIN |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 04:24:37 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503807174434 |
-| Players | 12/15 |
-| Host Name | Mac |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 04:22:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503807463600 |
-| Players | 9/10 |
-| Host Name | Jet |
+| Lobby ID | 28566503809597730 |
+| Players | 5/15 |
+| Host Name | Anthropologysali Kaur |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 04:22:32 |
+| Lobby Creation Time | Monday, December 18, 2023 04:25:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503808503564 |
-| Players | 2/10 |
-| Host Name | YO PANTRO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 04:23:59 |
+| Lobby ID | 28566503809666514 |
+| Players | 1/8 |
+| Host Name | Pomstick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:25:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503806748180 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | altair12 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 04:21:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503808657889 |
-| Players | 6/8 |
-| Host Name | Miking |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 04:24:12 |
+| Lobby ID | 28566503809611817 |
+| Players | 11/15 |
+| Host Name | RameSSka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:25:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503808835397 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Madbat |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 04:24:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503809270394 |
-| Players | 3/15 |
-| Host Name | What |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:25:03 |
+| Lobby ID | 28566503809417481 |
+| Players | 9/10 |
+| Host Name | Wawa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:25:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503809911297 |
+| Players | 1/24 |
+| Host Name | espectro |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 04:25:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503808960430 |
-| Players | 4/8 |
-| Host Name | ПАСПОРТУ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:24:37 |
+| Lobby ID | 28566503809805304 |
+| Players | 1/8 |
+| Host Name | William Ereção |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 04:25:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 喜欢短发的女生 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 04:08:56 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503809507105 |
+| Players | 1/5 |
+| Host Name | [Leb] Peterpan |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 04:25:23 |
 
 
