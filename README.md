@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 04:55:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503850392138 |
-| Players | 4/10 |
-| Host Name | 我死了til't |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:28:13 |
+| Lobby ID | 28566503851209088 |
+| Players | 1/15 |
+| Host Name | KA LE |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 05:29:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503850274138 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | tredder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:28:01 |
@@ -41,25 +41,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503850607410 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:28:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503850581091 |
-| Players | 9/15 |
-| Host Name | it is what it is |
+| Lobby ID | 28566503851292060 |
+| Players | 1/24 |
+| Host Name | pajazlocas |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 05:29:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503851084738 |
+| Players | 6/10 |
+| Host Name | PaNdaBLUE❥ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 05:29:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503850392138 |
+| Players | 9/10 |
+| Host Name | 我死了til't |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:28:32 |
+| Lobby Creation Time | Monday, December 18, 2023 05:28:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503851369606 |
+| Players | 2/10 |
+| Host Name | ikaris |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 05:29:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503846591518 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 喜欢短发的女生 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 05:21:46 |
@@ -68,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503847510003 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mia Wazowski |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:23:19 |
@@ -77,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503849198221 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | mel |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:26:10 |
