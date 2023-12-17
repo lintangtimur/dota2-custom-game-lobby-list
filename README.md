@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503716580795 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Kazune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 02:34:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503730035574 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | mrad |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 02:48:49 |
@@ -65,13 +65,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 02:49:29 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503731187137 |
+| Players | 3/24 |
+| Host Name | Vin Benzin (95й) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 02:50:05 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503730691443 |
-| Players | 13/15 |
-| Host Name | Coffi |
+| Lobby ID | 28566503731200744 |
+| Players | 3/15 |
+| Host Name | A.S.S.fire |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 02:50:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503731196587 |
+| Players | 1/15 |
+| Host Name | Капитан Флинт |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 02:50:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503731230251 |
+| Players | 3/8 |
+| Host Name | psychoshizodepressed |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 02:49:32 |
+| Lobby Creation Time | Monday, December 18, 2023 02:50:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503731260354 |
+| Players | 5/10 |
+| Host Name | Slattgang++ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 02:50:10 |
 
 
 |  | epic_boss_fight_nightmare |
