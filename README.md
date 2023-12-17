@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 11:49:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502956846657 |
-| Players | 7/10 |
-| Host Name | Stronger |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 17, 2023 14:30:17 |
+| Lobby ID | 28566502958103751 |
+| Players | 9/15 |
+| Host Name | Trewis 506 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 14:31:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502940107124 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 14:08:30 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502939762558 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Pivassic_Pug |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 14:08:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502957869269 |
-| Players | 5/8 |
-| Host Name | / |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 14:31:33 |
+| Lobby ID | 28566502958699110 |
+| Players | 2/24 |
+| Host Name | Jasmine |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 17, 2023 14:32:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502957531725 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | UP |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 14:31:08 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502958255697 |
+| Lobby ID | 28566502958955716 |
 | Players | 1/15 |
-| Host Name | Mastertinz |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 17, 2023 14:32:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566502958103751 |
-| Players | 1/15 |
-| Host Name | Trewis 506 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 14:31:51 |
+| Host Name | NARUTO UZUMAKI DE KONOHA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 17, 2023 14:32:54 |
 
 
 |  | epic_boss_fight_nightmare |
