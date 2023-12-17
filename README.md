@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503575945440 |
-| Players | 14/15 |
-| Host Name | 1101100110111111101101100101 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 00:13:23 |
+| Lobby ID | 28566503576447316 |
+| Players | 4/8 |
+| Host Name | [UA] Mi |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 00:13:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503575372988 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | [ N O V A ] |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 00:12:50 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 00:03:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503573477521 |
-| Players | 13/15 |
-| Host Name | Rover |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 00:11:03 |
+| Lobby ID | 28566503574777400 |
+| Players | 3/24 |
+| Host Name | Bubblicious |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 00:12:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503575025886 |
-| Players | 7/8 |
-| Host Name | Bajador de Pepa Profesional |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 00:12:31 |
+| Lobby ID | 28566503576385982 |
+| Players | 9/10 |
+| Host Name | Отец-одиночка |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 00:13:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,46 +92,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 00:11:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503571881752 |
-| Players | 7/8 |
-| Host Name | 777 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 00:09:33 |
+| Lobby ID | 28566503576755496 |
+| Players | 1/15 |
+| Host Name | Kwispy |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 00:14:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503576744930 |
+| Players | 6/15 |
+| Host Name | sola |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 00:14:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503576802810 |
+| Players | 1/15 |
+| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 00:14:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503574777400 |
-| Players | 2/24 |
-| Host Name | Bubblicious |
+| Lobby ID | 28566503570259579 |
+| Players | 9/24 |
+| Host Name | Shenorita |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 00:12:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503576447316 |
-| Players | 1/8 |
-| Host Name | [UA] Mi |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 00:13:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503576385982 |
-| Players | 3/10 |
-| Host Name | Отец-одиночка |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 00:13:47 |
+| Lobby Creation Time | Monday, December 18, 2023 00:08:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503568419816 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Belike柠檬ICE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 00:06:19 |
@@ -162,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kristalik13621 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 00:13:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503576805056 |
+| Players | 1/10 |
+| Host Name | zzzz |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 00:14:10 |
 
 
