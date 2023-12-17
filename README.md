@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503877134395 |
-| Players | 6/8 |
-| Host Name | Zen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 06:16:40 |
+| Lobby ID | 28566503875783718 |
+| Players | 2/15 |
+| Host Name | 13 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503876618183 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Centauro Humala |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:15:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503878403765 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | аааааааааааааааа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:19:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503878510423 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | RED D |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:19:20 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:15:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503875783718 |
-| Players | 2/15 |
-| Host Name | 13 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
+| Lobby ID | 28566503879002937 |
+| Players | 2/8 |
+| Host Name | Kuroshimi/D/Shoot |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 06:20:17 |
 
 
 |  | epic_boss_fight_challenger |
