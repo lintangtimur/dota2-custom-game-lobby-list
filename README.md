@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503779638658 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Clasificado |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 03:46:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503779643536 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | антилопа 377 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 03:46:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503779206109 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 20 y.o абсолют v potoke |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 03:45:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503779542314 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | EL DESPERTAR DE JOJOLITO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 03:45:57 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503779096473 |
-| Players | 1/8 |
-| Host Name | Layton |
+| Lobby ID | 28566503779855852 |
+| Players | 2/8 |
+| Host Name | poLeyK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 03:45:23 |
+| Lobby Creation Time | Monday, December 18, 2023 03:46:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503779837826 |
+| Players | 1/8 |
+| Host Name | Miking |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 03:46:19 |
 
 
 |  | epic_boss_fight_nightmare |
