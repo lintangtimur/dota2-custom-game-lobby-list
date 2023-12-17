@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503360655275 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | Уретрофутуризм |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 21:11:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503362092276 |
-| Players | 7/24 |
+| Players | 18/24 |
 | Host Name | MaoGe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 21:12:34 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503361747549 |
-| Players | 8/10 |
-| Host Name | Господин |
+| Lobby ID | 28566503363236266 |
+| Players | 5/10 |
+| Host Name | I FEEL LIKE GOD |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 21:12:18 |
+| Lobby Creation Time | Sunday, December 17, 2023 21:13:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 21:09:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503360895247 |
-| Players | 7/8 |
-| Host Name | Я керри, курва |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 21:11:38 |
+| Lobby ID | 28566503363179735 |
+| Players | 10/15 |
+| Host Name | EK ¦ Fame |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 21:13:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503331763248 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 17, 2023 20:50:31 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 21:13:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503362571892 |
-| Players | 13/15 |
-| Host Name | Elinbarrage |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 21:12:55 |
+| Lobby ID | 28566503363738793 |
+| Players | 2/8 |
+| Host Name | i have no enemies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 21:13:49 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MKL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 21:12:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503363221669 |
+| Players | 1/10 |
+| Host Name | SNG |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 21:13:26 |
 
 
