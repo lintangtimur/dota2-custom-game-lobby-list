@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503830012827 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 04:55:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503855144430 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | кукед фиш |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:36:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503855613810 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MagoDaZona |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:37:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503857594740 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Yatogo Rot 性交 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:40:46 |
@@ -117,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Con Mèo |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:41:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503854921622 |
+| Players | 23/24 |
+| Host Name | RyokoOwO |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 05:36:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503857914211 |
+| Players | 2/15 |
+| Host Name | Fierce Pacifist |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:41:19 |
 
 
 |  | epic_boss_fight_nightmare |
