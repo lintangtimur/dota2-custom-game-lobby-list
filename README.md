@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503791401968 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 04:01:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503785583037 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Enzo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 03:53:34 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 03:59:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503786261209 |
-| Players | 5/10 |
-| Host Name | NtelOnt |
+| Lobby ID | 28566503792800945 |
+| Players | 2/15 |
+| Host Name | K... |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 03:54:26 |
+| Lobby Creation Time | Monday, December 18, 2023 04:02:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503792603856 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Snobias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 04:02:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503792645606 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Я В МУТЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 04:02:43 |
@@ -85,17 +85,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503792216760 |
-| Players | 13/15 |
-| Host Name | Razor |
+| Lobby ID | 28566503789797287 |
+| Players | 14/15 |
+| Host Name | XIAO8 |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 03:59:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503792878826 |
+| Players | 2/10 |
+| Host Name | Kellen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:02:09 |
+| Lobby Creation Time | Monday, December 18, 2023 04:03:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503792901627 |
+| Players | 6/8 |
+| Host Name | k9nyMAN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:03:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503787705630 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 03:56:17 |
