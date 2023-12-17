@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503044688589 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Mety |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:14:18 |
@@ -41,45 +41,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503052984114 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | mibibkrakov |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:23:52 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503052698448 |
-| Players | 11/15 |
-| Host Name | 123 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:23:31 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503053277644 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Bobo |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:24:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503051131420 |
-| Players | 9/10 |
-| Host Name | 卩丂ㄚ匚卄ㄖ卩卂ㄒҜ卂 |
+| Lobby ID | 28566503053754021 |
+| Players | 2/15 |
+| Host Name | qardzony |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:21:40 |
+| Lobby Creation Time | Sunday, December 17, 2023 16:24:48 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503053245707 |
-| Players | 1/5 |
-| Host Name | Горячий ФемБой |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:24:11 |
+| Lobby ID | 28566503053897630 |
+| Players | 1/15 |
+| Host Name | Hasbullah |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 16:24:58 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28566503053875139 |
+| Players | 1/7 |
+| Host Name | ♕♥Mr. Чечня♥♕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 16:24:57 |
 
 
