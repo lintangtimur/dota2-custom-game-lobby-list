@@ -22,29 +22,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502908932617 |
+| Lobby ID | 28566502909519273 |
 | Players | 2/10 |
-| Host Name | YokoNeitor .l.PELADA ARMY .l. |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 17, 2023 13:24:01 |
+| Host Name | qwe |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 13:24:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502904097001 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 13:16:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502905978056 |
-| Players | 6/8 |
-| Host Name | Evlogos |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 13:19:43 |
+| Lobby ID | 28566502909329902 |
+| Players | 5/10 |
+| Host Name | Juan El Narco .l.PELADA ARMY.l. |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 17, 2023 13:24:36 |
 
 
 |  | ot3_gardens_duo |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502908504423 |
-| Players | 7/8 |
-| Host Name | CHILINGUS |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 17, 2023 13:23:25 |
+| Lobby ID | 28566502909381961 |
+| Players | 3/8 |
+| Host Name | mode: clown |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 13:24:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502908858514 |
-| Players | 9/24 |
+| Players | 20/24 |
 | Host Name | 小百合 平野 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 13:23:55 |
@@ -86,37 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502909302454 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ^^!¬¬ (Si cancila) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 13:24:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566502909329902 |
-| Players | 2/10 |
-| Host Name | Juan El Narco .l.PELADA ARMY.l. |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 17, 2023 13:24:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566502909381961 |
-| Players | 2/8 |
-| Host Name | mode: clown |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 13:24:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566502909519273 |
-| Players | 2/10 |
-| Host Name | qwe |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 13:24:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502909565126 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Stars |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 13:24:56 |
