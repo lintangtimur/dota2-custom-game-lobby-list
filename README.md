@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503081126540 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Our Existence Is Pointless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:56:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503077276013 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | БОНДИД-Джамшут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:52:06 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28566503079768540 |
 | Players | 2/24 |
-| Host Name | fish |
+| Host Name | Black Raven |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:55:02 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503080726793 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | жеска руиню |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:56:08 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503081395121 |
+| Lobby ID | 28566503081491981 |
 | Players | 2/8 |
-| Host Name | NGPI. pussy boy |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:56:55 |
+| Host Name | Unthinkable |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 16:57:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503077431626 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | VURP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:52:17 |
