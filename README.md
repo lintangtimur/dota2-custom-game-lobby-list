@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503044688589 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Mety |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:14:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503044233255 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | MurDay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:13:48 |
@@ -50,70 +50,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503040665452 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ANDREW MAGE |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 17, 2023 16:09:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503043185334 |
-| Players | 23/24 |
-| Host Name | jnikko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:12:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503044126952 |
-| Players | 8/10 |
-| Host Name | Akina |
+| Lobby ID | 28566503045950622 |
+| Players | 3/8 |
+| Host Name | MrPenis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:13:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503043815851 |
-| Players | 2/10 |
-| Host Name | SleepLess |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:13:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503039985974 |
-| Players | 2/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:08:59 |
+| Lobby Creation Time | Sunday, December 17, 2023 16:15:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503045032976 |
-| Players | 13/15 |
-| Host Name | Я - ДА, ТЫ - НЕТ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:14:41 |
+| Lobby ID | 28566503045721723 |
+| Players | 3/15 |
+| Host Name | piece duck wall knee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 16:15:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503045448442 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | mybad |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:15:10 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503039985974 |
+| Players | 3/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 16:08:59 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566503039990797 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | JOINT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:08:59 |
