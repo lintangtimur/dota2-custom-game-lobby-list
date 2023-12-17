@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503683058013 |
-| Players | 7/15 |
-| Host Name | Kūjō |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 01:58:52 |
+| Lobby ID | 28566503683912476 |
+| Players | 4/15 |
+| Host Name | Animeshn1k |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 01:59:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503683199830 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | пидорас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 01:59:01 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503677421117 |
-| Players | 22/24 |
-| Host Name | Romano |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 01:53:01 |
+| Lobby ID | 28566503682191699 |
+| Players | 10/24 |
+| Host Name | shz_SERN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 01:57:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503679736879 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MAC MANI QUISPE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 01:55:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503682651660 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | серега |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 01:58:26 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503683465208 |
-| Players | 5/8 |
-| Host Name | Баба Яга |
+| Lobby ID | 28566503683608660 |
+| Players | 4/8 |
+| Host Name | pos5 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 01:59:17 |
+| Lobby Creation Time | Monday, December 18, 2023 01:59:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503681375376 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Señor de la noche |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 01:57:06 |
@@ -103,47 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503683404499 |
-| Players | 6/10 |
-| Host Name | 8172932349283821012912813 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 01:59:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503682191699 |
-| Players | 9/24 |
-| Host Name | shz_SERN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 01:57:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503681156318 |
-| Players | 7/10 |
-| Host Name | Bo Mee Lay |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 01:56:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28566503683358276 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | olkftrylk |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 01:59:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503683448058 |
-| Players | 2/8 |
-| Host Name | МАЛОЙ228CSGORUN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 01:59:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Snow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 01:57:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566503683023710 |
-| Players | 1/5 |
-| Host Name | box2x2 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 01:58:50 |
 
 
 |  | epic_boss_fight_nightmare |
