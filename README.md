@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503119533625 |
-| Players | 13/15 |
-| Host Name | ₮Ʉ₲Ø |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 17, 2023 17:39:45 |
+| Lobby ID | 28566503133495931 |
+| Players | 4/8 |
+| Host Name | niX |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 17:54:50 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503129993325 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:51:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503120914356 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | UncleVit0 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:41:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503133195510 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | 76561198204787636 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 17:54:30 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503133495931 |
-| Players | 2/8 |
-| Host Name | бета тест соли |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:54:50 |
+| Lobby ID | 28566503133930819 |
+| Players | 1/8 |
+| Host Name | LOKI |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:55:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Andreas Maler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 17:53:53 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28566503133629163 |
-| Players | 1/7 |
-| Host Name | пельмень |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:54:58 |
 
 
