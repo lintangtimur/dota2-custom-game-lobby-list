@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502845987470 |
-| Players | 1/24 |
-| Host Name | Larry Capija |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 17, 2023 11:40:15 |
+| Lobby ID | 28566502846821836 |
+| Players | 2/10 |
+| Host Name | sp_flame |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 17, 2023 11:41:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502846077568 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | ZдраVствуй СалоРе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 11:40:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502845938515 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | NaVi'Miracle- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 11:40:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502844316550 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | M142 HIMARS |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 17, 2023 11:37:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502845173617 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | xo♥ASR♥xo(Komizar) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 11:38:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502845853915 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | El Maldito Tedy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 11:40:00 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502845955186 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 11:40:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502846285618 |
-| Players | 1/15 |
-| Host Name | 小飞棍 |
-| Region | Unknown |
-| Lobby Creation Time | Sunday, December 17, 2023 11:40:47 |
+| Lobby ID | 28566502846831567 |
+| Players | 3/8 |
+| Host Name | churka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 11:41:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502846982698 |
+| Players | 1/8 |
+| Host Name | 芳心纵火犯 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Sunday, December 17, 2023 11:42:01 |
 
 
 |  | epic_boss_fight_normal |
