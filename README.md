@@ -13,26 +13,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503683912476 |
-| Players | 4/15 |
-| Host Name | Animeshn1k |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 01:59:45 |
+| Lobby ID | 28566503684252558 |
+| Players | 1/15 |
+| Host Name | intothebottle |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 02:00:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503683199830 |
-| Players | 4/8 |
-| Host Name | пидорас |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 01:59:01 |
+| Lobby ID | 28566503684139676 |
+| Players | 1/8 |
+| Host Name | N•R] Shaker.PMA:) |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 01:59:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503682191699 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | shz_SERN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 01:57:58 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 01:54:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503679736879 |
-| Players | 9/10 |
-| Host Name | MAC MANI QUISPE |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 01:55:24 |
+| Lobby ID | 28566503684326421 |
+| Players | 6/15 |
+| Host Name | el eblan1sto |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 02:00:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503683608660 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | pos5 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 01:59:26 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503681375376 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Señor de la noche |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 01:57:06 |
@@ -110,21 +110,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 01:59:10 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503684026943 |
+| Players | 6/24 |
+| Host Name | Mode easy |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 01:59:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503684117600 |
+| Players | 7/10 |
+| Host Name | JJJJJ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 01:59:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503684103833 |
+| Players | 5/24 |
+| Host Name | Чушпан |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 01:59:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503683710112 |
+| Players | 1/8 |
+| Host Name | cringe |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 01:59:32 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503681515086 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Snow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 01:57:15 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503684047742 |
+| Players | 1/5 |
+| Host Name | NOUR |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 01:59:53 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566503683326220 |
-| Players | 1/10 |
-| Host Name | Su_won |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 01:59:09 |
+| Lobby ID | 28566503684536473 |
+| Players | 2/10 |
+| Host Name | Panda |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, December 18, 2023 02:00:24 |
 
 
