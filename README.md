@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503851209088 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | KA LE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:29:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503851529500 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | El do Rado |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:30:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503848310089 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | eternal_tilt ･ᴗ･ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:24:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503851292060 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | pajazlocas |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 05:29:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503851918803 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | SOY STEVEN Y SOY MOSTACERO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:30:51 |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:30:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503851969284 |
+| Players | 2/8 |
+| Host Name | Sempach |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:30:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503852002671 |
+| Players | 3/15 |
+| Host Name | Come On Larvae Let's Go Party |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 05:30:59 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503846591518 |
@@ -86,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503847510003 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Mia Wazowski |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:23:19 |
