@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503838343434 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | DejameGanarPePipipi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:08:31 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:07:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503834894755 |
-| Players | 13/15 |
-| Host Name | R3sist4nce. |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 05:03:02 |
+| Lobby ID | 28566503838650898 |
+| Players | 4/10 |
+| Host Name | Ao |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:09:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503836613824 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Supreme Drug Dealer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:05:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503835895541 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | arbien |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:04:36 |
