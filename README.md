@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503826541117 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Jet |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 04:50:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503824584569 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | NAKIEL |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 04:47:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503826422887 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | MoonOnMySide |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 04:50:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503824459391 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | El berraco de berracos |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 04:47:06 |
@@ -85,20 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503825736043 |
-| Players | 9/10 |
-| Host Name | Kellen |
+| Lobby ID | 28566503826794974 |
+| Players | 10/10 |
+| Host Name | milk with knives |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:49:01 |
+| Lobby Creation Time | Monday, December 18, 2023 04:50:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503824140628 |
-| Players | 23/24 |
-| Host Name | TiltedGuy |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 04:46:38 |
+| Lobby ID | 28566503826741542 |
+| Players | 11/15 |
+| Host Name | Backstroke Buba |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 04:50:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503826817679 |
+| Players | 3/8 |
+| Host Name | jooje torsh nadarim |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 04:50:39 |
 
 
 |  | epic_boss_fight_nightmare |
