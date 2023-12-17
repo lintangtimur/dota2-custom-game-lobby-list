@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503883345767 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:29:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503883616683 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Buğra |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:29:34 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:25:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503883162411 |
-| Players | 1/10 |
-| Host Name | NazikTazik228 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:28:39 |
+| Lobby ID | 28566503883898496 |
+| Players | 2/15 |
+| Host Name | Fructose 1-6 bisphosphate |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 18, 2023 06:30:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503882994878 |
-| Players | 7/10 |
-| Host Name | Run Yo Pockets |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 06:28:19 |
+| Lobby ID | 28566503883974040 |
+| Players | 1/10 |
+| Host Name | mvs |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 06:30:18 |
 
 
 |  | ot3_gardens_duo |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | лёха механик |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:30:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503883935533 |
+| Players | 1/10 |
+| Host Name | Лютый_Даун |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 06:30:14 |
 
 
 |  | epic_boss_fight_nightmare |
