@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503119533625 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Douma |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 17:39:45 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 11:49:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503128527868 |
-| Players | 7/15 |
-| Host Name | gussigang666 |
+| Lobby ID | 28566503129093271 |
+| Players | 1/8 |
+| Host Name | бытие |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:49:29 |
+| Lobby Creation Time | Sunday, December 17, 2023 17:50:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503125461219 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:46:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503127500217 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | YoNi |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 17:48:21 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503128991983 |
-| Players | 1/15 |
-| Host Name | tom.pzdc |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 17, 2023 17:49:59 |
+| Lobby ID | 28566503129331068 |
+| Players | 2/15 |
+| Host Name | Раздал Стиля |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 17:50:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503128861447 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:49:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503128998060 |
-| Players | 5/10 |
-| Host Name | [D.S]LF.NIGHTWing |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:49:59 |
 
 
