@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503171327864 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | ebal tvoy rot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 18:32:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503168391351 |
-| Players | 22/24 |
-| Host Name | LUNGTONG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 18:29:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503171419683 |
-| Players | 4/8 |
-| Host Name | Кирилл Бледный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:32:49 |
 
 
 |  | ot3_desert_octet |
@@ -76,46 +58,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503171512287 |
-| Players | 7/10 |
-| Host Name | Сочный русал |
+| Lobby ID | 28566503172278134 |
+| Players | 3/10 |
+| Host Name | IIiIIiII |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 18:33:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503172405764 |
+| Players | 6/8 |
+| Host Name | JAMALI |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 18:32:54 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:33:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503171635380 |
-| Players | 1/24 |
-| Host Name | DICE_JM |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 18:33:01 |
+| Lobby ID | 28566503168391351 |
+| Players | 23/24 |
+| Host Name | LUNGTONG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 18:29:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503171771453 |
-| Players | 1/8 |
-| Host Name | jopa333123123 |
+| Lobby ID | 28566503172010521 |
+| Players | 6/8 |
+| Host Name | Krico |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:33:09 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:33:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503171840420 |
+| Lobby ID | 28566503172599075 |
 | Players | 2/8 |
-| Host Name | In Essense |
+| Host Name | Snobias |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:33:13 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:33:55 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503170345988 |
-| Players | 7/10 |
-| Host Name | JOJO- |
+| Lobby ID | 28566503165976759 |
+| Players | 14/15 |
+| Host Name | алистер кроули 100 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:31:47 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:27:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503172548332 |
+| Players | 1/5 |
+| Host Name | Crime |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 18:33:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503172659491 |
+| Players | 1/5 |
+| Host Name | MASONUHA |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 18:33:59 |
 
 
