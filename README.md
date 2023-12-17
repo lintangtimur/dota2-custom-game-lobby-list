@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502921229324 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | apTeom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 13:41:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503014690449 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | 10 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 15:39:17 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 15:37:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503014349801 |
-| Players | 8/10 |
-| Host Name | MERRY CHRISTMAS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:38:52 |
+| Lobby ID | 28566503015079661 |
+| Players | 2/24 |
+| Host Name | X |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 15:39:44 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 15:39:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503015079661 |
-| Players | 1/24 |
-| Host Name | fona_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 15:39:44 |
+| Lobby ID | 28566503015472756 |
+| Players | 3/10 |
+| Host Name | ПАППАРДЕЛЛЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 15:40:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503013442129 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | PsycoPomp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 15:37:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503015372384 |
+| Players | 2/5 |
+| Host Name | 颯太佐野 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 15:40:05 |
 
 
