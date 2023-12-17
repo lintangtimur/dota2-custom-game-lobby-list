@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503881410644 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Dirty Deedz |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:25:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503882084083 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | DOTA 3 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 06:26:28 |
