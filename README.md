@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503060658340 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | wildfirezg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:32:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503070571686 |
-| Players | 14/15 |
+| Players | 10/15 |
 | Host Name | :(@Neoxa |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 16:44:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503075032270 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | уильям уильямсон |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:49:31 |
@@ -74,10 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 16:49:34 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503075767331 |
+| Players | 1/8 |
+| Host Name | この世界には 人の運命 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 16:50:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503075777522 |
+| Players | 6/8 |
+| Host Name | P1NK ez |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 16:50:23 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503073081530 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | XD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:47:17 |
