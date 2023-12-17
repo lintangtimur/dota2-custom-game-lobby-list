@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 04:55:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503837460196 |
-| Players | 5/8 |
-| Host Name | АНДРЕЙ ЯКОВЛЕВ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:07:06 |
+| Lobby ID | 28566503839248106 |
+| Players | 2/15 |
+| Host Name | Ric Flair |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 05:09:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503838878655 |
-| Players | 13/15 |
-| Host Name | spl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:09:22 |
+| Lobby ID | 28566503839242322 |
+| Players | 4/15 |
+| Host Name | tlllvul |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 05:09:57 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503837726615 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:07:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503839070360 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Hatred |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:09:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503838404104 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Акула |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:08:37 |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503835895541 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | arbien |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:04:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503839242322 |
-| Players | 2/15 |
-| Host Name | tlllvul |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 05:09:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503839248106 |
-| Players | 1/15 |
-| Host Name | Ric Flair |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:09:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503839328589 |
-| Players | 1/10 |
-| Host Name | 4k |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 05:10:06 |
 
 
 |  | epic_boss_fight_nightmare |
