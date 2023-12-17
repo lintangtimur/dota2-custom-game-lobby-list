@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503885905388 |
-| Players | 6/8 |
-| Host Name | слышу тёплый звон |
+| Lobby ID | 28566503886749640 |
+| Players | 1/8 |
+| Host Name | 626 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 06:34:12 |
+| Lobby Creation Time | Monday, December 18, 2023 06:35:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503886414583 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Desemputol |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 06:35:15 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 06:35:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503886724424 |
-| Players | 3/8 |
-| Host Name | Que bonitos ojos tienes |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 06:35:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503886749640 |
-| Players | 1/8 |
-| Host Name | 626 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 06:35:58 |
 
 
 |  | epic_boss_fight_nightmare |
