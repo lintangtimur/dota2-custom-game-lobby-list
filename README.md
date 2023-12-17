@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503049113085 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Я предал Христа |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:19:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503049846292 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | PEPE EL GRILLO *-* |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 16:20:11 |
@@ -49,47 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503049969278 |
-| Players | 6/8 |
-| Host Name | папа гетто |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:20:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503048671920 |
-| Players | 13/24 |
-| Host Name | DraelgNaI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:18:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28566503043185602 |
-| Players | 5/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:12:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503048949258 |
-| Players | 10/15 |
-| Host Name | Loot Goblin |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:19:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503050018827 |
-| Players | 1/15 |
-| Host Name | 已屏蔽 |
+| Lobby ID | 28566503048671920 |
+| Players | 18/24 |
+| Host Name | DraelgNaI |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:20:23 |
+| Lobby Creation Time | Sunday, December 17, 2023 16:18:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503050479347 |
+| Players | 1/15 |
+| Host Name | Ctg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 16:20:55 |
 
 
 |  | epic_boss_fight_nightmare |
