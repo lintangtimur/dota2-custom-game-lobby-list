@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503635352285 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | あなたの名字は |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 01:10:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503638246761 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Не успел сказать |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 01:13:38 |
@@ -45,42 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 猫又 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 01:10:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503638353909 |
-| Players | 7/10 |
-| Host Name | Rupicola |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 01:13:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503637242897 |
-| Players | 7/8 |
-| Host Name | [МЫ]зь |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 01:12:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503638276711 |
-| Players | 2/10 |
-| Host Name | Soul无名 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 01:13:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503638399088 |
-| Players | 4/15 |
-| Host Name | tilted? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 01:13:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,10 +65,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 01:13:47 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503638276711 |
+| Players | 4/10 |
+| Host Name | Soul无名 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 01:13:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503638855197 |
+| Players | 2/10 |
+| Host Name | Guitir |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 01:14:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503638634139 |
+| Players | 1/10 |
+| Host Name | EgelatoR the Kingpin |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 18, 2023 01:14:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503638680328 |
+| Players | 6/8 |
+| Host Name | /ad?/Ad//??da//??? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 01:14:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503638700491 |
+| Players | 2/24 |
+| Host Name | PMA |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 01:14:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503638353909 |
+| Players | 9/10 |
+| Host Name | Rupicola |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 01:13:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503638748335 |
+| Players | 2/24 |
+| Host Name | The Rat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 01:14:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503633871075 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Scherazade |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 01:09:22 |
@@ -113,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566503635189224 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | 阎王 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 01:10:39 |
@@ -122,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503638148080 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Wootmonster |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 01:13:33 |
