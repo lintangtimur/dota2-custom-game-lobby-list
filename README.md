@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 17:23:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503105082510 |
-| Players | 11/15 |
-| Host Name | U- |
+| Lobby ID | 28566503105620926 |
+| Players | 1/24 |
+| Host Name | Proworg |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 17:23:36 |
+| Lobby Creation Time | Sunday, December 17, 2023 17:24:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503094174908 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:11:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503102091876 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:20:15 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DEVIL MAY CUM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:20:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503105563531 |
+| Players | 1/10 |
+| Host Name | Minaku |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:24:09 |
 
 
