@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503257916225 |
-| Players | 6/8 |
+| Players | 8/8 |
 | Host Name | ya fue algoritmos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 19:49:59 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503269413458 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Alberik |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 19:59:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503260828589 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Pos 69 or grief |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 17, 2023 19:52:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503270706589 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Rick & Clancy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 20:00:50 |
@@ -67,28 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503272379908 |
-| Players | 2/8 |
-| Host Name | Ichigo Kurasaki |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:02:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503272243877 |
-| Players | 1/24 |
-| Host Name | Genie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:02:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503272354029 |
-| Players | 3/10 |
-| Host Name | устал |
+| Lobby ID | 28566503273151642 |
+| Players | 1/8 |
+| Host Name | volshebniy69 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:02:13 |
+| Lobby Creation Time | Sunday, December 17, 2023 20:02:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503272797511 |
+| Players | 9/15 |
+| Host Name | Redasko |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 20:02:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503272907323 |
+| Players | 3/10 |
+| Host Name | Mr. BnN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 20:02:41 |
 
 
