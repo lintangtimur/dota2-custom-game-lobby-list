@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503766835816 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ⅅαn₲hɛℓℓ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 03:30:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503767191159 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | [B8j] Low Skill |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 03:31:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503765666513 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Первая кровь |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 03:29:34 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 03:29:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503765226746 |
-| Players | 1/10 |
-| Host Name | KaTheDirector |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 18, 2023 03:29:09 |
+| Lobby ID | 28566503767034838 |
+| Players | 7/8 |
+| Host Name | просто я |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 03:30:54 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503767232415 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | 黒い剣士 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 03:31:06 |
@@ -104,17 +104,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503762640326 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | 黑暗殺手 [グ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 03:26:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503767417009 |
+| Players | 1/10 |
+| Host Name | Kael |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 03:31:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503767429589 |
+| Players | 1/8 |
+| Host Name | HG.Garou |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 03:31:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503767434921 |
+| Players | 1/8 |
+| Host Name | XYIGMA |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 03:31:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503761761955 |
 | Players | 4/10 |
-| Host Name | Горобчик Русофоб |
+| Host Name | iphone113011 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 03:25:13 |
 
