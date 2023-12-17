@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503280302408 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | Gay Fish |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 20:08:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503274266174 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | TroubleMaker |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 17, 2023 20:03:49 |
@@ -58,29 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503278321624 |
-| Players | 1/8 |
-| Host Name | El hombre que murio de pie |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 17, 2023 20:07:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503280269601 |
+| Lobby ID | 28566503280634608 |
 | Players | 3/8 |
-| Host Name | SenSey |
+| Host Name | Джузо |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:08:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503280336198 |
-| Players | 1/8 |
-| Host Name | Барындылдан |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:08:58 |
+| Lobby Creation Time | Sunday, December 17, 2023 20:09:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 強奪者 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 20:08:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503280336198 |
+| Players | 3/8 |
+| Host Name | Барындылдан |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 20:08:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503280462621 |
+| Players | 4/24 |
+| Host Name | Juice WRLD - Fast |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 20:09:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503280522694 |
+| Players | 2/8 |
+| Host Name | wewe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 20:09:08 |
 
 
 |  | epic_boss_fight_nightmare |
