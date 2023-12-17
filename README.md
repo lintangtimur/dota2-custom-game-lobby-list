@@ -20,60 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 11:49:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503097367793 |
-| Players | 10/15 |
-| Host Name | meeto meeto meeto :3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:15:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503097690683 |
-| Players | 4/8 |
-| Host Name | CRYING EMOBOY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:15:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503094174908 |
-| Players | 1/8 |
-| Host Name | Hi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 17:11:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503096739406 |
-| Players | 7/8 |
-| Host Name | acsess |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 17:14:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503091673630 |
-| Players | 14/24 |
-| Host Name | Buu |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 17:08:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503095675921 |
-| Players | 23/24 |
-| Host Name | DY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 17:13:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503098310661 |
@@ -86,10 +32,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503098600925 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | [E]nable |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:16:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503094174908 |
+| Players | 2/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:11:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503098777008 |
+| Players | 1/8 |
+| Host Name | EzaeZ1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 17:16:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503091673630 |
+| Players | 13/24 |
+| Host Name | Buu |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:08:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503098974770 |
+| Players | 1/24 |
+| Host Name | Triki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:16:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503098953104 |
+| Players | 2/15 |
+| Host Name | Мазохизм |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 17:16:45 |
 
 
 |  | epic_boss_fight_nightmare |
