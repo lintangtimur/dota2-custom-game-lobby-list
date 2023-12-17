@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503848310089 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | eternal_tilt ･ᴗ･ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:24:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503850607410 |
-| Players | 13/15 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:28:35 |
+| Lobby ID | 28566503851369606 |
+| Players | 4/10 |
+| Host Name | ikaris |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 05:29:54 |
 
 
 |  | ot3_desert_octet |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503851084738 |
-| Players | 6/10 |
-| Host Name | PaNdaBLUE❥ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:29:24 |
+| Lobby ID | 28566503851462942 |
+| Players | 2/10 |
+| Host Name | Hanni- |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:30:03 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:28:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503851369606 |
-| Players | 2/10 |
-| Host Name | ikaris |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 05:29:54 |
+| Lobby ID | 28566503851444093 |
+| Players | 5/8 |
+| Host Name | Кик Бутовски |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:30:01 |
 
 
 |  | epic_boss_fight_nightmare |
