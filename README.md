@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503855210475 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ......25............ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:36:32 |
@@ -41,81 +41,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503853906381 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 05:34:14 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503855483173 |
-| Players | 5/10 |
-| Host Name | bullwinkle |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:37:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503855144430 |
-| Players | 2/24 |
-| Host Name | Tom |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:36:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503855288762 |
-| Players | 6/8 |
-| Host Name | pendal` |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:36:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503855613810 |
-| Players | 1/10 |
-| Host Name | merenge |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 05:37:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503855613845 |
-| Players | 3/15 |
-| Host Name | Місс Вінниця 2023 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:37:15 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503855623173 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Alucard |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:37:16 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503853223737 |
-| Players | 3/5 |
-| Host Name | 🌺🌺🌺Kaneki🌺🌺🌺 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:33:03 |
+| Lobby ID | 28566503855144430 |
+| Players | 4/24 |
+| Host Name | Tom |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:36:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503849198221 |
-| Players | 9/10 |
-| Host Name | mel |
+| Lobby ID | 28566503855895773 |
+| Players | 2/15 |
+| Host Name | Alex Trebec |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:26:10 |
+| Lobby Creation Time | Monday, December 18, 2023 05:37:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503855613810 |
+| Players | 2/10 |
+| Host Name | merenge |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 05:37:15 |
 
 
