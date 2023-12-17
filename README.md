@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503118029772 |
+| Lobby ID | 28566503119533625 |
 | Players | 2/15 |
-| Host Name | ПИЗДА ЕНОТУ |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 17, 2023 17:38:06 |
+| Host Name | OLIVER LM |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 17, 2023 17:39:45 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503116784021 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | NOMAT#MRAZRUST |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 17:36:43 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 17:34:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503118827791 |
-| Players | 5/8 |
-| Host Name | SlugLife |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:38:58 |
+| Lobby ID | 28566503119347479 |
+| Players | 1/24 |
+| Host Name | Triki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:39:32 |
 
 
 |  | ot3_gardens_duo |
@@ -65,39 +65,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 17:38:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503118815371 |
-| Players | 5/15 |
-| Host Name | CLimaXX |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 17:38:57 |
+| Lobby ID | 28566503119109933 |
+| Players | 13/24 |
+| Host Name | DESPAPITO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:39:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503118928638 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | PvC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 17:39:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503119109933 |
-| Players | 3/24 |
-| Host Name | DoTunBoy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 17:39:17 |
+| Lobby ID | 28566503119645964 |
+| Players | 4/8 |
+| Host Name | Вадик 3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 17:39:52 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566503119124511 |
-| Players | 1/5 |
-| Host Name | Demiz |
+| Lobby ID | 28566503119185409 |
+| Players | 3/10 |
+| Host Name | Minaku |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 17:39:18 |
+| Lobby Creation Time | Sunday, December 17, 2023 17:39:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503119515958 |
+| Players | 2/10 |
+| Host Name | Shinigami |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:39:43 |
 
 
