@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503368809057 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 21:17:43 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 21:14:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503370404554 |
-| Players | 7/8 |
-| Host Name | Чушпан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 21:18:57 |
+| Lobby ID | 28566503373139667 |
+| Players | 4/15 |
+| Host Name | Tk.Ar      ㄨ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 21:21:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503367518143 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Mi orejitas flores |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 21:16:44 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503365521413 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Artem Margiela |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 21:15:12 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 21:17:33 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503370450455 |
-| Players | 13/15 |
-| Host Name | In L♥ve With a Fat Pikachu =3 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 17, 2023 21:18:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503369249109 |
@@ -130,17 +121,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503371802876 |
-| Players | 7/10 |
-| Host Name | raider71 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 21:20:02 |
+| Lobby ID | 28566503373157090 |
+| Players | 3/10 |
+| Host Name | DDoS |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 21:21:05 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28566503364902091 |
-| Players | 4/7 |
+| Players | 6/7 |
 | Host Name | Velikiy Waaagh! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 21:14:44 |
@@ -158,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503366127140 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Waster |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 17, 2023 21:15:40 |
