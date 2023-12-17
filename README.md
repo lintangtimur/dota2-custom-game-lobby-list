@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502868701827 |
-| Players | 2/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 12:19:53 |
+| Lobby ID | 28566502897205991 |
+| Players | 1/10 |
+| Host Name | ЯДВІГАМатьВашу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 13:06:15 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502895668710 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Iroha- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 13:03:50 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502893100220 |
-| Players | 6/15 |
-| Host Name | YA C БOГAMИ COВET DERZHY |
+| Players | 12/15 |
+| Host Name | маратик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 12:59:44 |
 
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 13:01:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502893608122 |
-| Players | 14/15 |
-| Host Name | Stan ♂ Next ♂ Door |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 17, 2023 13:00:34 |
+| Lobby ID | 28566502897360654 |
+| Players | 2/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 13:06:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502894114181 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 13:01:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502896697915 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | NEGIBATOR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 13:05:27 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502893221424 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Deonex |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 12:59:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502895273732 |
-| Players | 9/10 |
-| Host Name | УДАЛИ ДОТУ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 13:03:13 |
+| Lobby ID | 28566502897116988 |
+| Players | 1/24 |
+| Host Name | Dj cucaracha |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 17, 2023 13:06:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502896678042 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Destroger jan |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 13:05:25 |
@@ -103,19 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502896870400 |
+| Lobby ID | 28566502897504152 |
 | Players | 1/8 |
-| Host Name | Revenkill |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 17, 2023 13:05:43 |
+| Host Name | BirdBob |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 17, 2023 13:06:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502895942038 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | DEVIL MAY CUM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 13:04:15 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566502897316670 |
+| Players | 1/5 |
+| Host Name | СлаДкиЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 13:06:26 |
 
 
