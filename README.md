@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503082927755 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | SleepLess |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:58:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503084707332 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | T.T |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:00:43 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503082159194 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 17, 2023 16:57:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503084303484 |
-| Players | 5/15 |
-| Host Name | EnotRed |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 17:00:16 |
+| Lobby ID | 28566503085241597 |
+| Players | 1/8 |
+| Host Name | MurDay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 17:01:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503081318849 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Neil |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 16:56:49 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LOCDOC ;D |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 16:58:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503085137124 |
+| Players | 1/24 |
+| Host Name | Nobody know BREAKDOWN btr than m |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:01:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503085284368 |
+| Players | 5/8 |
+| Host Name | JT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 17:01:21 |
 
 
 |  | epic_boss_fight_nightmare |
