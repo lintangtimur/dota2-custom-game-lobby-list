@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503877134395 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Zen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:16:40 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503876618183 |
-| Players | 4/24 |
-| Host Name | Crispy Bacon |
+| Players | 5/24 |
+| Host Name | Centauro Humala |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:15:40 |
 
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503878403765 |
-| Players | 7/15 |
-| Host Name | KoMeS |
+| Players | 6/15 |
+| Host Name | аааааааааааааааа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:19:07 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503878510423 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | RED D |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:19:20 |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503878010769 |
-| Players | 7/10 |
-| Host Name | Cago |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 06:18:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503877546612 |
-| Players | 1/8 |
-| Host Name | hola tonotos |
+| Lobby ID | 28566503878865219 |
+| Players | 1/10 |
+| Host Name | PATO |
 | Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 06:17:28 |
+| Lobby Creation Time | Monday, December 18, 2023 06:20:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503876493482 |
+| Players | 13/15 |
+| Host Name | Sushi Devourer |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 18, 2023 06:15:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 13 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503876493482 |
-| Players | 14/15 |
-| Host Name | Sushi Devourer |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 06:15:25 |
 
 
 |  | epic_boss_fight_challenger |
