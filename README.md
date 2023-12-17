@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503897480223 |
-| Players | 6/15 |
-| Host Name | JoeSuavo |
+| Players | 10/15 |
+| Host Name | Белые зубы |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:58:41 |
 
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503897571720 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BLACK_DRAGON123 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:58:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503897665750 |
+| Players | 2/10 |
+| Host Name | shadle~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 06:59:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503897716667 |
+| Players | 1/15 |
+| Host Name | JoeSuavo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 06:59:11 |
 
 
 |  | epic_boss_fight_normal |
