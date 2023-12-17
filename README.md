@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503260538054 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | Gaben Prophet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 19:52:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503260899838 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | пипин короткий |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 19:52:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503257916225 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ya fue algoritmos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 19:49:59 |
@@ -47,10 +47,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 19:50:09 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503262591235 |
+| Players | 8/15 |
+| Host Name | Las Noches |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 19:53:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503262914033 |
+| Players | 1/15 |
+| Host Name | 夜空中最亮的逗逼星 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 19:54:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503262962227 |
+| Players | 1/8 |
+| Host Name | melancholy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 19:54:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503262984257 |
+| Players | 1/8 |
+| Host Name | мистер Кумквак |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 19:54:15 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503261078601 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Sigma player |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 19:52:39 |
