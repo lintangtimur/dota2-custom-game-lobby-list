@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503873172863 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Laserpacer909 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:09:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503862075367 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | мурчи сука |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:48:47 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503872429678 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | aorta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:07:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503872749416 |
-| Players | 6/10 |
-| Host Name | JIMMY (NO MERCY) |
+| Lobby ID | 28566503873638811 |
+| Players | 1/8 |
+| Host Name | RezNovAli |
 | Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 06:08:24 |
+| Lobby Creation Time | Monday, December 18, 2023 06:10:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503869736496 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | ReiJr1 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:02:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503872861807 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ryuodan academy student |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:08:37 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503873166294 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | gokereezz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:09:13 |
