@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502921229324 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | apTeom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 13:41:44 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 15:21:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503010032443 |
-| Players | 8/10 |
-| Host Name | Менеджер WILDBERRIES |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:33:44 |
+| Lobby ID | 28566503012038253 |
+| Players | 3/24 |
+| Host Name | Superman Pans |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 15:36:08 |
 
 
 |  | ot3_gardens_duo |
@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 15:31:16 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503011834644 |
-| Players | 3/8 |
-| Host Name | Фростморн |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:35:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503011107083 |
-| Players | 1/24 |
-| Host Name | Superman Pans |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 15:35:02 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503010421357 |
-| Players | 14/15 |
-| Host Name | Arxidevil |
+| Lobby ID | 28566503012091103 |
+| Players | 1/15 |
+| Host Name | Feltea |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:34:12 |
+| Lobby Creation Time | Sunday, December 17, 2023 15:36:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -101,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 15:29:41 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28566503011866719 |
-| Players | 1/5 |
-| Host Name | THE REAPERMUERT  DARK |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 15:35:56 |
+| Lobby ID | 28566503011733914 |
+| Players | 2/7 |
+| Host Name | Zephyrus "Zepp" Zeppelin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 15:35:46 |
 
 
