@@ -2,73 +2,82 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503805787032 |
-| Players | 2/8 |
-| Host Name | noertti |
+| Lobby ID | 28566503806668546 |
+| Players | 8/15 |
+| Host Name | yardboy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:20:15 |
+| Lobby Creation Time | Monday, December 18, 2023 04:21:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503785583037 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Leman Russ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 03:53:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503806368938 |
-| Players | 1/8 |
-| Host Name | SIGU |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:21:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503805793269 |
-| Players | 8/10 |
-| Host Name | Токсичный ворон |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:20:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503804538490 |
-| Players | 12/24 |
-| Host Name | Larry Capija |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 04:18:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503804958692 |
-| Players | 14/15 |
-| Host Name | Sou |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:19:08 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503806316063 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Pescadero |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 04:20:58 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503806569046 |
+| Players | 4/10 |
+| Host Name | эщкереер |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 04:21:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503804538490 |
+| Players | 20/24 |
+| Host Name | Larry Capija |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 04:18:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503806550241 |
+| Players | 1/8 |
+| Host Name | ●☆J0J0☆● |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 04:21:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503806748180 |
+| Players | 4/15 |
+| Host Name | Williams |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 04:21:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503806749820 |
+| Players | 7/8 |
+| Host Name | DinoMuz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 04:21:33 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503797329673 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | 喜欢短发的女生 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 04:08:56 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503803439816 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Kay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 04:17:04 |
