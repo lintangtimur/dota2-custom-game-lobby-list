@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503417813049 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Drone Ligth |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 21:55:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503331763248 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 17, 2023 20:50:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503417994117 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ЦАРЬ ЖОПА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 21:56:03 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503418284758 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Chris |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 21:56:16 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 21:56:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503412531819 |
-| Players | 9/10 |
-| Host Name | Cloyn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 21:51:44 |
+| Lobby ID | 28566503419198455 |
+| Players | 1/24 |
+| Host Name | bajando pepa |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 17, 2023 21:57:00 |
 
 
 |  | ot3_desert_octet |
@@ -140,19 +140,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503419146302 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Sh1zoid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 21:56:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503419198455 |
-| Players | 1/24 |
-| Host Name | bajando pepa |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 17, 2023 21:57:00 |
 
 
 |  | epic_boss_fight_nightmare |
