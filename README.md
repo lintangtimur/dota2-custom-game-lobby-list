@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503250559544 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Джузо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 19:43:50 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 19:42:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503251249122 |
-| Players | 5/8 |
-| Host Name | 7.7.7 |
+| Lobby ID | 28566503252090941 |
+| Players | 5/15 |
+| Host Name | дед матьего МОРОZ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:44:25 |
+| Lobby Creation Time | Sunday, December 17, 2023 19:45:07 |
 
 
 |  | ot3_desert_octet |
@@ -38,57 +38,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 19:42:35 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503250909343 |
-| Players | 9/10 |
-| Host Name | true sigma |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 19:44:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503251560221 |
-| Players | 1/15 |
-| Host Name | EZ_TRIZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:44:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503251401092 |
-| Players | 8/15 |
-| Host Name | 悲しい |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:44:32 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503251758253 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | su1c1dequarkkk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 19:44:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503251792842 |
-| Players | 3/8 |
-| Host Name | quasar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:44:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566503245357617 |
-| Players | 8/10 |
-| Host Name | 不狂菜狗子 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 19:39:28 |
+| Lobby ID | 28566503251985063 |
+| Players | 1/10 |
+| Host Name | Robert |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 17, 2023 19:45:02 |
 
 
