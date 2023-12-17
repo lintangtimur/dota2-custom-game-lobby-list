@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503126972516 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Chlamydia trachomatis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 17:47:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503125461219 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:46:09 |
@@ -56,31 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 17:41:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503126668174 |
-| Players | 9/10 |
-| Host Name | RaFXander |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:47:27 |
+| Lobby ID | 28566503127500217 |
+| Players | 2/8 |
+| Host Name | YoNi |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 17, 2023 17:48:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503127152608 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | SeGray |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 17:47:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503127357253 |
-| Players | 1/8 |
-| Host Name | vostanin572 |
+| Lobby ID | 28566503125414958 |
+| Players | 7/10 |
+| Host Name | RAVANDO DE TAUNTO BASED |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:48:12 |
+| Lobby Creation Time | Sunday, December 17, 2023 17:46:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eqqjezzkquz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 17:48:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503125414958 |
-| Players | 6/10 |
-| Host Name | RAVANDO DE TAUNTO BASED |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:46:06 |
 
 
 |  | epic_boss_fight_nightmare |
