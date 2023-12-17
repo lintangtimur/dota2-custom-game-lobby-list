@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503859322588 |
-| Players | 4/15 |
-| Host Name | 1stVo1 |
+| Players | 5/15 |
+| Host Name | Flomi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:43:50 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503859181861 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | ioshua |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:43:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503859367537 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | "JAGUAR" |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:43:55 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kga Dotas 3k |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:44:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503858196782 |
+| Players | 9/10 |
+| Host Name | Boba Fett |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:41:49 |
 
 
 |  | epic_boss_fight_nightmare |
