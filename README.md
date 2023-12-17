@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503018516528 |
-| Players | 2/24 |
+| Players | 15/24 |
 | Host Name | 雨墨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 15:43:49 |
@@ -65,30 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 15:37:13 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503021781018 |
+| Players | 1/10 |
+| Host Name | OG-RYD-1999 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 17, 2023 15:47:39 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503020543303 |
-| Players | 12/15 |
-| Host Name | Stalin |
+| Lobby ID | 28566503021652833 |
+| Players | 10/15 |
+| Host Name | PapaKarlo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:46:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503021313467 |
-| Players | 1/8 |
-| Host Name | Мистер Пенис |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 15:47:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566502921229324 |
-| Players | 23/24 |
-| Host Name | apTeom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 13:41:44 |
+| Lobby Creation Time | Sunday, December 17, 2023 15:47:30 |
 
 
