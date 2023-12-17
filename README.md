@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503875783718 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | 13 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503891496674 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 06:46:04 |
@@ -32,88 +32,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503895951876 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | It's poshooooo ! |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 06:55:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503896993439 |
-| Players | 7/15 |
-| Host Name | merho |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:57:37 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503896922472 |
-| Players | 1/24 |
-| Host Name | Space |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:57:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503897179537 |
-| Players | 4/10 |
-| Host Name | Golly |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 06:58:01 |
+| Lobby ID | 28566503897406396 |
+| Players | 2/24 |
+| Host Name | Do you feel? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 06:58:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503896814198 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Gringo karl |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:57:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503896885544 |
-| Players | 5/8 |
-| Host Name | Zen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 06:57:23 |
+| Lobby ID | 28566503897480223 |
+| Players | 6/15 |
+| Host Name | JoeSuavo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 06:58:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503897041227 |
-| Players | 1/10 |
-| Host Name | GREED |
+| Lobby ID | 28566503897571720 |
+| Players | 2/10 |
+| Host Name | BLACK_DRAGON123 |
 | Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 06:57:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503897258379 |
-| Players | 3/15 |
-| Host Name | ARQUADE |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 06:58:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503897264227 |
-| Players | 1/15 |
-| Host Name | RICK |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 06:58:12 |
+| Lobby Creation Time | Monday, December 18, 2023 06:58:52 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566503891767268 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Minoko Idara |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:46:38 |
