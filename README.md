@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503060658340 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Мойша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:32:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503049846292 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Masterbin |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 16:20:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503064631291 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | LOOSER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:37:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503063774396 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Баба Люда |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:36:37 |
@@ -77,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503065541149 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | noob |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:38:40 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503062908772 |
-| Players | 8/10 |
-| Host Name | DYPLO |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:35:36 |
+| Lobby ID | 28566503065827838 |
+| Players | 4/15 |
+| Host Name | асёу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 16:39:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503065935453 |
+| Players | 1/8 |
+| Host Name | MurDay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 16:39:08 |
 
 
