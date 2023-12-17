@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503732961313 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | SSS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 02:52:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503743908632 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 03:04:29 |
@@ -40,26 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503745267833 |
-| Players | 5/8 |
-| Host Name | DinoMuz |
+| Lobby ID | 28566503745277453 |
+| Players | 3/8 |
+| Host Name | Texas |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 03:06:03 |
+| Lobby Creation Time | Monday, December 18, 2023 03:06:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503745225547 |
-| Players | 5/10 |
-| Host Name | Weizendelfin |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 03:06:00 |
+| Lobby ID | 28566503744240608 |
+| Players | 6/10 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 03:04:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503743422964 |
-| Players | 6/24 |
+| Players | 15/24 |
 | Host Name | Mi10s |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 03:03:56 |
@@ -76,38 +76,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503745312678 |
-| Players | 1/10 |
-| Host Name | kuskadeee! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 03:06:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503744240608 |
-| Players | 2/10 |
-| Host Name | Jet |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 03:04:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28566503743099511 |
 | Players | 9/10 |
-| Host Name | ccg |
+| Host Name | TOP 1 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 03:03:34 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503745800233 |
+| Players | 5/10 |
+| Host Name | my friend is a moviestar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 03:06:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503745831808 |
+| Players | 2/8 |
+| Host Name | lezunchik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 03:06:42 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503745464595 |
-| Players | 6/15 |
-| Host Name | 領域展開 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 03:06:17 |
+| Lobby ID | 28566503745935098 |
+| Players | 3/15 |
+| Host Name | В тюрьме до титан |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 03:06:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503742288345 |
+| Players | 9/10 |
+| Host Name | no incoming chat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 03:02:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503744759385 |
+| Players | 9/10 |
+| Host Name | До сих пор ищу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 03:05:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503746003435 |
+| Players | 1/8 |
+| Host Name | Batousai:3 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 03:06:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,9 +149,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503744672930 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | [MTL]Yoshi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 03:05:23 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28566503745726850 |
+| Players | 1/7 |
+| Host Name | 矶木洋一 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 03:06:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503745879889 |
+| Players | 1/10 |
+| Host Name | Kay |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 03:06:45 |
 
 
