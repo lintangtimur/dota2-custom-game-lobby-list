@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503787057775 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | Riki |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 03:55:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503789071114 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | :V |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 03:58:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503789725922 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Ellen nwn |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 03:58:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503791245764 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ХАРОШ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 04:00:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503790359856 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | OTRO TIO DE CHISTIAN |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 03:59:44 |
@@ -119,22 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 04:00:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503791457421 |
-| Players | 4/8 |
-| Host Name | Понтелеймон |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 04:01:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503791461637 |
-| Players | 5/8 |
-| Host Name | Eddie Mercury |
+| Lobby ID | 28566503791476745 |
+| Players | 2/10 |
+| Host Name | thinkin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:01:11 |
+| Lobby Creation Time | Monday, December 18, 2023 04:01:12 |
 
 
 |  | epic_boss_fight_nightmare |
