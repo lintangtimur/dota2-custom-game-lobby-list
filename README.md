@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503512901543 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Saurman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 23:15:38 |
@@ -47,46 +47,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 22:25:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503514580099 |
-| Players | 22/24 |
-| Host Name | MATA CHOLOS |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 17, 2023 23:17:05 |
+| Lobby ID | 28566503518156862 |
+| Players | 3/8 |
+| Host Name | Na ko1enu |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 23:20:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503517165731 |
-| Players | 14/15 |
-| Host Name | Doom |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 23:19:21 |
+| Lobby ID | 28566503518027646 |
+| Players | 1/15 |
+| Host Name | Mastur Beast |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 23:20:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503510821897 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ☼LoRd BuRiZa ThE KyAloN☼ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 23:13:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503510088188 |
-| Players | 2/15 |
-| Host Name | G |
+| Lobby ID | 28566503517565321 |
+| Players | 8/10 |
+| Host Name | 451 |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 23:13:11 |
+| Lobby Creation Time | Sunday, December 17, 2023 23:19:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503517011748 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | AnythingToSay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 23:19:13 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503517658262 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Pomstick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 23:19:47 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503516962510 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Ss |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 23:19:10 |
@@ -119,31 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 23:19:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503517565321 |
-| Players | 2/10 |
-| Host Name | 451 |
+| Lobby ID | 28566503518174490 |
+| Players | 4/8 |
+| Host Name | twitch.tv/white_prince_by |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 23:19:42 |
+| Lobby Creation Time | Sunday, December 17, 2023 23:20:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503517839694 |
-| Players | 4/8 |
-| Host Name | ТВАРЬ) |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 17, 2023 23:19:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503517846027 |
-| Players | 4/8 |
-| Host Name | uhateme? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 23:19:57 |
+| Lobby ID | 28566503515741051 |
+| Players | 12/15 |
+| Host Name | WITCHER |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 23:18:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -171,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | посейдот |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 23:17:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503518040052 |
+| Players | 2/10 |
+| Host Name | Jin Kazama |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 23:20:08 |
 
 
