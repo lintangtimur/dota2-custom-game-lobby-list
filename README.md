@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503893690777 |
-| Players | 11/15 |
-| Host Name | VolTaGe |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 06:50:39 |
+| Lobby ID | 28566503894133124 |
+| Players | 1/24 |
+| Host Name | Romano |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 06:51:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503893687856 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ASESINO DE GORDAS |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:50:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503894037279 |
-| Players | 1/10 |
+| Players | 8/10 |
 | Host Name | Huesitos |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 06:51:21 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503893803187 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ☺ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:50:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503894184190 |
+| Players | 11/15 |
+| Host Name | Laserpacer909 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 06:51:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503894192932 |
+| Players | 1/24 |
+| Host Name | MadOne |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 06:51:40 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503892596802 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ✪ hi_im_kotstulle |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:48:21 |
