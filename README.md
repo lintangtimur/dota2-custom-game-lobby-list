@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503837726615 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:07:32 |
@@ -68,18 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503843347841 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | /// |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:16:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503843658635 |
-| Players | 2/10 |
-| Host Name | создатель секса |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:16:58 |
+| Lobby ID | 28566503843743556 |
+| Players | 6/8 |
+| Host Name | Puchetta_Mode |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 05:17:06 |
 
 
