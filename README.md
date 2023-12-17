@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503869212566 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | EL DESPERTAR DE JOJOLITO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 06:01:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503868155098 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 05:59:47 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:00:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503859896836 |
-| Players | 7/8 |
-| Host Name | FaelZika |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 05:44:51 |
+| Lobby ID | 28566503869475819 |
+| Players | 1/10 |
+| Host Name | лёха механик |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 06:02:12 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503867825067 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Fisumbr |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:59:10 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503868893805 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Cspiteri |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:01:09 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503869036376 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | ВЕСЁЛЫЙ РОДЖЕР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:01:24 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503869062184 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | http1ce |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:01:27 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503869129563 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | промокод студент |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:01:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503868205665 |
-| Players | 9/10 |
-| Host Name | tbgk7 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:59:52 |
+| Lobby ID | 28566503869446527 |
+| Players | 1/8 |
+| Host Name | F5 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 06:02:08 |
 
 
 |  | epic_boss_fight_hard |
@@ -146,24 +146,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:47:42 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503868110618 |
-| Players | 1/10 |
-| Host Name | DANTE SPARTA |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 05:59:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503868265819 |
-| Players | 3/10 |
-| Host Name | ElChacha |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:59:59 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566503868881295 |
@@ -171,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Minoko Idara |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:01:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503868265819 |
+| Players | 4/10 |
+| Host Name | ElChacha |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:59:59 |
 
 
