@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503057013227 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | WhiteDeath |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:28:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503049846292 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | PEPE EL GRILLO *-* |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 16:20:11 |
@@ -49,10 +49,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503057314166 |
+| Lobby ID | 28566503057310937 |
 | Players | 1/15 |
-| Host Name | 已屏蔽 |
-| Region | SINGAPORE |
+| Host Name | Oggos(cZ) |
+| Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:29:03 |
 
 
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 16:29:03 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503054522904 |
-| Players | 4/5 |
-| Host Name | doxa |
+| Lobby ID | 28566503057323599 |
+| Players | 3/15 |
+| Host Name | БАБУИН МАГОМАДОВ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 16:29:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503057326384 |
+| Players | 2/15 |
+| Host Name | Nezgo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:25:43 |
+| Lobby Creation Time | Sunday, December 17, 2023 16:29:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Waster |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 17, 2023 16:26:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503057003775 |
-| Players | 1/10 |
-| Host Name | sigma |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:28:41 |
 
 
