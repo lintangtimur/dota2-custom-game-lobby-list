@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503839242322 |
-| Players | 14/15 |
+| Players | 11/15 |
 | Host Name | tlllvul |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:09:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503840055833 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Takedown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:11:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503839893175 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Big Mama (yulezz) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:10:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503836613824 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Supreme Drug Dealer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:05:44 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:11:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503838404104 |
-| Players | 7/8 |
-| Host Name | Акула |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:08:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503840512491 |
-| Players | 3/8 |
-| Host Name | C1RU3L/| |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 05:11:56 |
+| Lobby ID | 28566503840538871 |
+| Players | 2/10 |
+| Host Name | Gerzson12 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:11:58 |
 
 
 |  | epic_boss_fight_nightmare |
