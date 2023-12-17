@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503831751719 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Sebasxd123:·3 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 04:58:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503833288804 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | vicjug |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:00:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503832151883 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Reaper  Γ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 04:58:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503831676980 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Mathiasla |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 04:58:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503833678954 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Fikho |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:01:10 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503832325445 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Ganan los chamos, pierde mi fami |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 04:59:04 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503829935865 |
+| Players | 23/24 |
+| Host Name | CHICO FITNESS 69 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 04:55:21 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503833675723 |
-| Players | 6/10 |
-| Host Name | Zen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:01:10 |
+| Lobby ID | 28566503833765232 |
+| Players | 2/10 |
+| Host Name | LesS |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 05:01:18 |
 
 
 |  | epic_boss_fight_nightmare |
