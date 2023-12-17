@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503039462247 |
-| Players | 1/24 |
-| Host Name | Blaidd |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 17, 2023 16:08:23 |
+| Lobby ID | 28566503041020032 |
+| Players | 6/10 |
+| Host Name | save me |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 16:10:10 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503041365116 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Гатс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:10:35 |
@@ -65,55 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 16:08:59 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503040520269 |
-| Players | 13/15 |
-| Host Name | КЧАУ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:09:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503041022944 |
-| Players | 6/8 |
-| Host Name | АДИДАС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:10:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503041020032 |
-| Players | 5/10 |
-| Host Name | save me |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:10:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503041164014 |
-| Players | 1/15 |
-| Host Name | sape2195 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, December 17, 2023 16:10:20 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503041191961 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | AKRHO ni Bai! pasagad dha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:10:22 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503041022944 |
+| Players | 7/8 |
+| Host Name | АДИДАС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 16:10:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503038820320 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Белый Волк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:07:39 |
