@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503873172863 |
-| Players | 14/15 |
-| Host Name | Laserpacer909 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 06:09:13 |
+| Lobby ID | 28566503873957441 |
+| Players | 1/8 |
+| Host Name | Theo |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 06:10:42 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503873100123 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | INFINITY |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:09:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503869736496 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | ReiJr1 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:02:40 |
@@ -56,13 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:08:08 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503874110350 |
+| Players | 2/10 |
+| Host Name | Hanni- |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 06:10:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503874114332 |
+| Players | 2/15 |
+| Host Name | Enki |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 06:10:59 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503873957441 |
-| Players | 2/8 |
-| Host Name | Theo |
+| Lobby ID | 28566503874170995 |
+| Players | 4/8 |
+| Host Name | HH |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:10:42 |
+| Lobby Creation Time | Monday, December 18, 2023 06:11:05 |
 
 
 |  | epic_boss_fight_nightmare |
