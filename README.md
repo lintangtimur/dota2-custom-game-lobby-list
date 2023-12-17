@@ -20,40 +20,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:48:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503867203989 |
-| Players | 8/10 |
-| Host Name | snayderex |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 05:58:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503867705027 |
-| Players | 4/10 |
-| Host Name | Ragna- |
+| Lobby ID | 28566503868063549 |
+| Players | 1/24 |
+| Host Name | ВЕСЁЛЫЙ РОДЖЕР |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:58:57 |
+| Lobby Creation Time | Monday, December 18, 2023 05:59:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503868155098 |
+| Players | 2/15 |
+| Host Name | arp |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 05:59:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503866605905 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Kanas |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:56:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503867178829 |
-| Players | 10/15 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:57:58 |
+| Lobby ID | 28566503868205665 |
+| Players | 4/10 |
+| Host Name | tbgk7 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:59:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503867652247 |
-| Players | 3/8 |
-| Host Name | 아니 중국어 |
+| Players | 6/8 |
+| Host Name | snowpain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:58:50 |
 
@@ -94,28 +94,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503867841194 |
-| Players | 3/15 |
-| Host Name | Jerry Be Nice |
+| Lobby ID | 28566503868228802 |
+| Players | 1/15 |
+| Host Name | ac7 |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:59:12 |
+| Lobby Creation Time | Monday, December 18, 2023 05:59:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503867030888 |
-| Players | 14/15 |
-| Host Name | Komar Evgeniy |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:57:41 |
+| Lobby ID | 28566503868217148 |
+| Players | 1/15 |
+| Host Name | ホグワーツ no Moto |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:59:54 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28566503861475139 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | RYOGA |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:47:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503868110618 |
+| Players | 1/10 |
+| Host Name | DANTE SPARTA |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 05:59:42 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28566503868205964 |
+| Players | 1/7 |
+| Host Name | La wawita sagaz y perpicaz |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 05:59:52 |
 
 
