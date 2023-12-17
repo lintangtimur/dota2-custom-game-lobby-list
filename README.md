@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502902644512 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | dDeneuve |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 13:14:43 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502903404923 |
-| Players | 4/8 |
-| Host Name | CHPOKIИΛTORR |
+| Players | 1/8 |
+| Host Name | S T O N E H E A R T ( 668 ) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 13:15:50 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502902282804 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 17, 2023 13:14:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502903682924 |
-| Players | 14/24 |
+| Players | 22/24 |
 | Host Name | PMA player |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 13:16:14 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502902021051 |
-| Players | 7/10 |
-| Host Name | Desire |
+| Players | 2/10 |
+| Host Name | Griffith |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 13:13:46 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502904041586 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | Okay |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 13:16:46 |
@@ -95,18 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502904097001 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 13:16:51 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502903914080 |
-| Players | 3/5 |
-| Host Name | Zeppelin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 13:16:35 |
+| Lobby ID | 28566502904326447 |
+| Players | 6/10 |
+| Host Name | アリババ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 13:17:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566502904532308 |
+| Players | 5/15 |
+| Host Name | el choro de pizzas breed |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, December 17, 2023 13:17:31 |
 
 
