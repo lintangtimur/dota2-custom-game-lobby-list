@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503894133124 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Romano |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:51:33 |
@@ -41,52 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503895268473 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Cago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:53:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503894456134 |
-| Players | 4/8 |
-| Host Name | El whiskas |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 06:52:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503895143770 |
-| Players | 7/15 |
-| Host Name | Yello |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 06:53:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503895320439 |
-| Players | 1/24 |
-| Host Name | 17'5 4 7Я4P |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:54:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503895245581 |
-| Players | 3/10 |
-| Host Name | xpapaya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 06:53:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503895230871 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Versatilius |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:53:49 |
@@ -94,11 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
+| Lobby ID | 28566503895143770 |
+| Players | 10/15 |
+| Host Name | Yello |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 06:53:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
 | Lobby ID | 28566503895255443 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Interpol |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:53:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503895245581 |
+| Players | 7/10 |
+| Host Name | xpapaya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 06:53:51 |
 
 
 |  | epic_boss_fight_normal |
