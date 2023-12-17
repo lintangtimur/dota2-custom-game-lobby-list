@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503029364325 |
-| Players | 18/24 |
-| Host Name | ~MrTriceps~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 15:56:45 |
+| Lobby ID | 28566503031707287 |
+| Players | 1/10 |
+| Host Name | как же он силён |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 15:59:31 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503030938017 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | . |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 15:58:37 |
@@ -49,29 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503030440755 |
+| Lobby ID | 28566503031620880 |
 | Players | 5/8 |
-| Host Name | أشكر أنا مبارك أن |
+| Host Name | mybad |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:58:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503030496077 |
-| Players | 7/24 |
-| Host Name | Хрю-хрю |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:58:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503030503457 |
-| Players | 8/10 |
-| Host Name | HO HO HO MERRY CHRISTMAS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:58:06 |
+| Lobby Creation Time | Sunday, December 17, 2023 15:59:25 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503022134294 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | OUUUUUUUUUUUUUUU |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 15:48:04 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28566503030951666 |
-| Players | 1/7 |
-| Host Name | Dester |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:58:38 |
 
 
