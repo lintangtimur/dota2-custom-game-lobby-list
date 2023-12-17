@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503889175750 |
-| Players | 7/8 |
-| Host Name | tv/Lexaofficial |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 06:41:08 |
+| Lobby ID | 28566503890309755 |
+| Players | 18/24 |
+| Host Name | MAIDERINO |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 06:43:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:38:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503890918950 |
-| Players | 6/8 |
-| Host Name | Puchetta_Mode |
+| Lobby ID | 28566503891243502 |
+| Players | 8/15 |
+| Host Name | Jerry Be Nice |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 06:45:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503890831003 |
+| Players | 9/10 |
+| Host Name | Raven |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 06:44:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503887570742 |
-| Players | 23/24 |
-| Host Name | BlueBluesB@nd |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 06:37:42 |
+| Lobby Creation Time | Monday, December 18, 2023 06:44:39 |
 
 
 |  | ot3_desert_octet |
@@ -68,63 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503889486463 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Somnus丶Magad |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:41:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503890473427 |
-| Players | 9/10 |
-| Host Name | Dimon831 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:43:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503890309755 |
-| Players | 12/24 |
-| Host Name | MAIDERINO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 06:43:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503890307950 |
-| Players | 1/8 |
-| Host Name | Chris |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 06:43:32 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503890778966 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | ComendPLS |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:44:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503890831003 |
-| Players | 4/10 |
-| Host Name | Raven |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 06:44:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503891134683 |
-| Players | 1/15 |
-| Host Name | Which Doctor |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 06:45:17 |
 
 
