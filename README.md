@@ -38,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:24:40 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503848973286 |
-| Players | 21/24 |
-| Host Name | Larry Capija |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:25:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503850581091 |
-| Players | 7/15 |
-| Host Name | it is what it is |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:28:32 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503850607410 |
@@ -63,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:28:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503850581091 |
+| Players | 9/15 |
+| Host Name | it is what it is |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:28:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503850931692 |
+| Players | 4/10 |
+| Host Name | BigBoyAbuDhabi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:29:08 |
 
 
 |  | epic_boss_fight_nightmare |
