@@ -65,22 +65,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 14:24:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502953961432 |
-| Players | 7/10 |
-| Host Name | Nunca Debute CTM |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 17, 2023 14:26:38 |
+| Lobby ID | 28566502955716174 |
+| Players | 2/15 |
+| Host Name | всем похуй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 14:28:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502954319911 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | MarcoSL |115 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 14:27:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502955230052 |
+| Players | 5/8 |
+| Host Name | YATOGOROT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 14:28:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566502955128561 |
+| Players | 1/8 |
+| Host Name | Chris |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 17, 2023 14:28:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LALALALA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 14:08:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566502955307380 |
+| Players | 1/10 |
+| Host Name | Zack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 14:28:21 |
 
 
 |  | epic_boss_fight_nightmare |
