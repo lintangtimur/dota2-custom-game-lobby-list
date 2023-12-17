@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503431079286 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 22:06:38 |
@@ -41,61 +41,88 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503422181909 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 21:59:26 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503432700169 |
+| Players | 2/10 |
+| Host Name | Ferguson♥ |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 17, 2023 22:07:57 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503429098876 |
-| Players | 17/24 |
-| Host Name | ☠ Kira Yoshikage☢ |
+| Lobby ID | 28566503432228628 |
+| Players | 1/24 |
+| Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:05:02 |
+| Lobby Creation Time | Sunday, December 17, 2023 22:07:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503432227861 |
+| Players | 2/15 |
+| Host Name | Slippy |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, December 17, 2023 22:07:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503431772864 |
-| Players | 7/8 |
-| Host Name | 我来看看怎么个事 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:07:12 |
+| Lobby ID | 28566503432098643 |
+| Players | 3/8 |
+| Host Name | Ты Нарекай |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:07:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503426794618 |
+| Players | 7/10 |
+| Host Name | Big_Cock |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:03:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503431678460 |
-| Players | 7/15 |
-| Host Name | estriper |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:07:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503432007540 |
-| Players | 1/15 |
+| Lobby ID | 28566503432197501 |
+| Players | 9/15 |
 | Host Name | Ben Dover |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:07:23 |
+| Lobby Creation Time | Sunday, December 17, 2023 22:07:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503431320792 |
+| Players | 8/10 |
+| Host Name | YGY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:06:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503432014744 |
-| Players | 1/8 |
-| Host Name | TTYY |
+| Lobby ID | 28566503432667876 |
+| Players | 4/8 |
+| Host Name | dipresion pidor |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:07:24 |
+| Lobby Creation Time | Sunday, December 17, 2023 22:07:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503430944809 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Anya Kawaii~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 22:06:32 |
