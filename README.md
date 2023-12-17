@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 22:25:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503466719352 |
-| Players | 5/8 |
-| Host Name | ToughSpirit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:36:03 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503466302574 |
-| Players | 4/10 |
-| Host Name | Mog |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 22:35:42 |
+| Lobby ID | 28566503467038626 |
+| Players | 8/10 |
+| Host Name | Infinite Tsukuyomi |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 22:36:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503467214007 |
+| Players | 14/15 |
+| Host Name | PLODOTVOR |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 22:36:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503462748699 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 22:32:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503462890115 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Lin |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 17, 2023 22:32:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503466648412 |
-| Players | 3/24 |
+| Players | 9/24 |
 | Host Name | losing streak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 22:35:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503466364923 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | PATO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 22:35:45 |
@@ -110,13 +110,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 22:36:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503467222123 |
+| Players | 6/8 |
+| Host Name | ваня пират |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:36:28 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503467038626 |
-| Players | 1/10 |
-| Host Name | Infinite Tsukuyomi |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:36:19 |
+| Lobby ID | 28566503467659334 |
+| Players | 3/10 |
+| Host Name | ✪sonder |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:36:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503467730206 |
+| Players | 1/15 |
+| Host Name | Кадет школы AMORа |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:36:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503467742596 |
+| Players | 5/10 |
+| Host Name | VINO BANDIT |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, December 17, 2023 22:36:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,9 +167,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566503464863557 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | ♥ThE^_^eNd_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 22:34:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503467174835 |
+| Players | 4/10 |
+| Host Name | Tpycbl_CJleTeJlu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:36:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503467613867 |
+| Players | 1/10 |
+| Host Name | RААААААААА 333 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:36:48 |
 
 
