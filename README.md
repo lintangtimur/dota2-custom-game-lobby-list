@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503203108675 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | THUGGIN EVERYDAY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 19:02:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503203241257 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 19:02:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503201772126 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 19:01:15 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503190285048 |
-| Players | 7/8 |
-| Host Name | AriBri<3 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 17, 2023 18:50:34 |
+| Lobby ID | 28566503203591949 |
+| Players | 5/8 |
+| Host Name | aboba |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 19:02:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503202935702 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Well Cum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 19:02:19 |
@@ -94,28 +94,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503203246342 |
-| Players | 6/8 |
-| Host Name | aster |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 19:02:36 |
+| Lobby ID | 28566503203912898 |
+| Players | 3/8 |
+| Host Name | quasar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 19:03:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503203591949 |
-| Players | 5/8 |
-| Host Name | aboba |
+| Lobby ID | 28566503203988757 |
+| Players | 6/8 |
+| Host Name | the_king_of_bananas |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 17, 2023 19:03:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503204008664 |
+| Players | 3/8 |
+| Host Name | Stich |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:02:55 |
+| Lobby Creation Time | Sunday, December 17, 2023 19:03:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503196513703 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Calabreso |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 18:56:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503203893615 |
+| Players | 1/5 |
+| Host Name | JOINT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 19:03:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503204023077 |
+| Players | 1/10 |
+| Host Name | DEVIL MAY CUM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 19:03:19 |
 
 
