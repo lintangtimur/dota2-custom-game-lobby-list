@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502907676574 |
-| Players | 10/24 |
-| Host Name | 永远不要提前开香槟 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 13:22:13 |
+| Lobby ID | 28566502908791208 |
+| Players | 6/8 |
+| Host Name | Megamel™ |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 17, 2023 13:23:49 |
 
 
 |  | ot3_desert_octet |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 11:49:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502905756362 |
-| Players | 14/15 |
-| Host Name | Legao |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 17, 2023 13:19:23 |
+| Lobby ID | 28566502906332628 |
+| Players | 6/10 |
+| Host Name | Www |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 13:20:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502904097001 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 13:16:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502905978056 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Evlogos |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 13:19:43 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502907930055 |
-| Players | 2/15 |
-| Host Name | KindOfMagik |
+| Lobby ID | 28566502908440568 |
+| Players | 8/15 |
+| Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 13:22:35 |
+| Lobby Creation Time | Sunday, December 17, 2023 13:23:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502906332628 |
-| Players | 4/10 |
-| Host Name | Www |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 13:20:15 |
+| Lobby ID | 28566502908504423 |
+| Players | 2/8 |
+| Host Name | CHILINGUS |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 17, 2023 13:23:25 |
 
 
 |  | epic_boss_fight_nightmare |
