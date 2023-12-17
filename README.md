@@ -41,37 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503109326004 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 17:28:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503110104633 |
-| Players | 13/15 |
-| Host Name | 7\ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:29:15 |
+| Lobby ID | 28566503110754262 |
+| Players | 6/24 |
+| Host Name | BUTUH DANA CEPAT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:29:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503109686128 |
-| Players | 8/10 |
-| Host Name | Sargent_pepper4 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 17, 2023 17:28:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503110674133 |
-| Players | 1/24 |
-| Host Name | Sam wood |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 17:29:54 |
+| Lobby ID | 28566503110985232 |
+| Players | 2/10 |
+| Host Name | сын тайской women |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, December 17, 2023 17:30:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566503109939954 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Гнев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 17:29:04 |
