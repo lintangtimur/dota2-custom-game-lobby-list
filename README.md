@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502902644512 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | dDeneuve |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 13:14:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502903404923 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | CHPOKIИΛTORR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 13:15:50 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502902282804 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 17, 2023 13:14:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502902460841 |
-| Players | 10/15 |
-| Host Name | Shomas Telby |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 13:14:26 |
+| Lobby ID | 28566502903682924 |
+| Players | 14/24 |
+| Host Name | PMA player |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 13:16:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502897360654 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 13:06:30 |
@@ -77,18 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502903412359 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | yessir |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 13:15:50 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566502900080304 |
-| Players | 9/10 |
-| Host Name | 喜欢短发的女生 |
+| Lobby ID | 28566502904041586 |
+| Players | 6/15 |
+| Host Name | Okay |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 13:16:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566502904097001 |
+| Players | 1/24 |
+| Host Name | BKBB |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 17, 2023 13:16:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566502903914080 |
+| Players | 3/5 |
+| Host Name | Zeppelin |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 13:10:48 |
+| Lobby Creation Time | Sunday, December 17, 2023 13:16:35 |
 
 
