@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503194656232 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Snobias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 18:54:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503195087799 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | Maxibabs |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:55:03 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503192944169 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | 13 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:53:03 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503194810979 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Clev |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:54:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503195634205 |
-| Players | 5/10 |
-| Host Name | BESTO FRENDO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:55:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503195068805 |
-| Players | 13/15 |
-| Host Name | KEKCNKxD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:55:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -130,11 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503195834284 |
-| Players | 4/10 |
-| Host Name | SenKote |
+| Lobby ID | 28566503196363415 |
+| Players | 6/10 |
+| Host Name | whore |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:55:45 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:56:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503196462309 |
+| Players | 2/10 |
+| Host Name | Быдло Ебучее |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 18:56:20 |
 
 
 |  | epic_boss_fight_normal |
