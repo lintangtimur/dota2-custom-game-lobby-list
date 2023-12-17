@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503850024067 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Hugh Jann Ouncement |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:27:35 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503848148312 |
-| Players | 7/8 |
-| Host Name | Javi |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 05:24:23 |
+| Lobby ID | 28566503850274138 |
+| Players | 3/8 |
+| Host Name | tredder |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:28:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503848973286 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Larry Capija |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:25:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503848310089 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | eternal_tilt ･ᴗ･ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:24:40 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503849909172 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | - |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:27:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503850274138 |
-| Players | 3/8 |
-| Host Name | tredder |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:28:01 |
 
 
 |  | epic_boss_fight_nightmare |
