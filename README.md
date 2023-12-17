@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503827764476 |
-| Players | 12/15 |
+| Players | 10/15 |
 | Host Name | ASYCEM |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 04:52:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503828244704 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | asd |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 04:52:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503826504867 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | DRAGONBACKgiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 04:50:11 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503828156320 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Lower |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 04:52:37 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503828196828 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | шизик(НГОЛО КАНТЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 04:52:40 |
@@ -135,6 +135,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | дядя попа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 04:53:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503824440120 |
+| Players | 7/8 |
+| Host Name | Doofy |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 04:47:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503828601058 |
+| Players | 2/15 |
+| Host Name | ShamWow |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 04:53:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503828615555 |
+| Players | 6/8 |
+| Host Name | I'mS oFuckiNg B ad |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 04:53:19 |
 
 
 |  | epic_boss_fight_nightmare |
