@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503847499514 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Sparrowhawk |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:23:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503845520325 |
-| Players | 9/10 |
-| Host Name | snayderex |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 05:20:00 |
+| Lobby ID | 28566503847962911 |
+| Players | 1/8 |
+| Host Name | Smaturn |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:24:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503847854942 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | XAM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:23:53 |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503846877797 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Eduardo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:22:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503847678568 |
-| Players | 1/8 |
-| Host Name | 76561198254294132 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:23:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503847962911 |
-| Players | 1/8 |
-| Host Name | Smaturn |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:24:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503847974201 |
-| Players | 1/15 |
-| Host Name | Ciclone |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 05:24:05 |
 
 
 |  | epic_boss_fight_nightmare |
