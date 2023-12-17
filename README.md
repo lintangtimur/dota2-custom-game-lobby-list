@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503849119696 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | :p |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:26:03 |
@@ -23,55 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503848148312 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Javi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:24:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503849457752 |
-| Players | 12/15 |
-| Host Name | nightingale |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:26:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503848973286 |
-| Players | 5/24 |
-| Host Name | Larry Capija |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:25:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503848310089 |
-| Players | 5/24 |
-| Host Name | eternal_tilt ･ᴗ･ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:24:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503848106173 |
-| Players | 18/24 |
-| Host Name | ◄Dingetjie◄ |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 05:24:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503849442123 |
-| Players | 1/15 |
-| Host Name | Kamicase(bsb) |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 05:26:35 |
 
 
 |  | ot3_gardens_duo |
@@ -81,6 +36,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:26:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503848973286 |
+| Players | 6/24 |
+| Host Name | Larry Capija |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 05:25:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503848310089 |
+| Players | 4/24 |
+| Host Name | eternal_tilt ･ᴗ･ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:24:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503848106173 |
+| Players | 17/24 |
+| Host Name | ◄Dingetjie◄ |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 05:24:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503849442123 |
+| Players | 2/15 |
+| Host Name | Kamicase(bsb) |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 05:26:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503849691655 |
+| Players | 2/15 |
+| Host Name | TesterLina |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:27:01 |
 
 
 |  | epic_boss_fight_nightmare |
