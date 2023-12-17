@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503894133124 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Romano |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:51:33 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503893827811 |
-| Players | 1/8 |
-| Host Name | Silvester VStallovoy |
+| Lobby ID | 28566503894424705 |
+| Players | 5/8 |
+| Host Name | John Wick |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:50:56 |
+| Lobby Creation Time | Monday, December 18, 2023 06:52:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503893687856 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | ASESINO DE GORDAS |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:50:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503894456134 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | El whiskas |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:52:10 |
@@ -59,19 +59,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503894192932 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | MadOne |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:51:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503894424705 |
-| Players | 7/8 |
-| Host Name | Alucard |
+| Lobby ID | 28566503894550987 |
+| Players | 3/10 |
+| Host Name | Gampi |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 06:52:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503894584546 |
+| Players | 9/15 |
+| Host Name | MVP |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:52:07 |
+| Lobby Creation Time | Monday, December 18, 2023 06:52:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503894684528 |
+| Players | 1/10 |
+| Host Name | MataCholas |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 06:52:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503894746062 |
+| Players | 3/10 |
+| Host Name | MEMPHISCULT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 06:52:46 |
 
 
 |  | epic_boss_fight_normal |
