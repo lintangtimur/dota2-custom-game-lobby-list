@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503220609500 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | qwerty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 19:18:17 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503220430608 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Juice WRLD - Fast |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 19:18:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503219885439 |
-| Players | 4/8 |
-| Host Name | CARRY OR JUNGLE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:17:38 |
+| Lobby ID | 28566503221035670 |
+| Players | 1/10 |
+| Host Name | Agentsmrt |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 17, 2023 19:18:39 |
 
 
 |  | ot3_desert_octet |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503221225389 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | rurinaLL (no text ty *****) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 19:18:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503221035670 |
-| Players | 1/10 |
-| Host Name | Agentsmrt |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 17, 2023 19:18:39 |
+| Lobby ID | 28566503221564654 |
+| Players | 3/8 |
+| Host Name | Тесак |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 19:19:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Старый ЭР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 19:14:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503221512298 |
+| Players | 1/10 |
+| Host Name | GWAPO RA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 19:19:05 |
 
 
