@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503864754299 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ikaris |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:53:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503862475389 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Random_Citizen |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:49:30 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503864898823 |
-| Players | 3/8 |
-| Host Name | MORACLE |
+| Players | 2/8 |
+| Host Name | SOS |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:53:48 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503865328257 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | scottishfold |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:54:35 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503865460221 |
-| Players | 1/8 |
-| Host Name | LostWri |
+| Players | 3/8 |
+| Host Name | Арангутанг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:54:49 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503865649640 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | MVP |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:55:10 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503866051192 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | mel |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:55:54 |
