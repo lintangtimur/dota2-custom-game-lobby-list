@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 17:55:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503145509477 |
-| Players | 1/24 |
-| Host Name | so hard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 18:07:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503147172036 |
-| Players | 6/10 |
-| Host Name | Sherlock Bean |
+| Lobby ID | 28566503147441024 |
+| Players | 6/8 |
+| Host Name | Pomstick |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:08:55 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:09:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503148043556 |
+| Players | 6/15 |
+| Host Name | サイバーサイコシス |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 18:09:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,28 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503145422414 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | LUNGTONG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:07:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503147441024 |
-| Players | 1/8 |
-| Host Name | Pomstick |
+| Lobby ID | 28566503148236330 |
+| Players | 1/10 |
+| Host Name | Papa$ na bloke |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:09:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503147453995 |
-| Players | 5/15 |
-| Host Name | vorFull HD 1080p |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:09:12 |
+| Lobby Creation Time | Sunday, December 17, 2023 18:09:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503145538478 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:07:15 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503145244732 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 18:06:57 |
