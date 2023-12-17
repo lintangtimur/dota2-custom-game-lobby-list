@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503855971320 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:37:54 |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:42:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503857748237 |
-| Players | 12/15 |
-| Host Name | Con Mèo |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:41:02 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503855613810 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503856486548 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | YOLOOOOOOOOOOOOO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 05:38:49 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503856896191 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ElChacha |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:39:32 |
