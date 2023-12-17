@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503275140310 |
-| Players | 7/24 |
+| Players | 15/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 20:04:33 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503269413458 |
-| Players | 4/10 |
-| Host Name | Alberik |
+| Players | 2/10 |
+| Host Name | Josecarlino |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 19:59:43 |
 
@@ -40,42 +40,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503276547405 |
-| Players | 7/8 |
-| Host Name | Daiifery |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:05:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503276053330 |
-| Players | 9/10 |
-| Host Name | ape_together_stronk |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:05:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503276964864 |
-| Players | 1/10 |
-| Host Name | СОЛЕВАР |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:06:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503274699743 |
-| Players | 2/24 |
-| Host Name | jinjibixian |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:04:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28566503274894738 |
 | Players | 1/8 |
 | Host Name | blank |
@@ -83,49 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 20:04:21 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503274727645 |
-| Players | 3/8 |
-| Host Name | sоrеаl. New Generation |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:04:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503276842107 |
-| Players | 6/8 |
-| Host Name | bloody magnolias garden'' |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:06:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503277096051 |
-| Players | 4/8 |
-| Host Name | Лямбда-12 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 20:06:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503275647821 |
-| Players | 14/15 |
-| Host Name | Ντίνος |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 20:05:00 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503277103446 |
+| Lobby ID | 28566503274699743 |
 | Players | 1/24 |
-| Host Name | 这波不亏 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, December 17, 2023 20:06:14 |
+| Host Name | yuyu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 20:04:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503277828491 |
+| Players | 5/10 |
+| Host Name | xXSmokedXx |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 20:06:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503278009240 |
+| Players | 3/8 |
+| Host Name | Sphinx |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 17, 2023 20:07:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503276150705 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Ginger or Ni...r? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 20:05:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503277936671 |
+| Players | 1/5 |
+| Host Name | Thao Meow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 20:06:56 |
 
 
