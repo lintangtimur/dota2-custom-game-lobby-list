@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503842744069 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:15:28 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:17:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503843440950 |
-| Players | 14/15 |
-| Host Name | Scrub, career felon |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:16:37 |
+| Lobby ID | 28566503844435765 |
+| Players | 2/24 |
+| Host Name | sanorctmr |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 05:18:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503843279293 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Douma |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:16:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503844073306 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | They Call Me Matrix |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:17:39 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:17:43 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503844353244 |
-| Players | 3/8 |
-| Host Name | GhosTNeal |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 05:18:07 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503844313284 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Axten |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:18:03 |
@@ -112,10 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503844384610 |
+| Lobby ID | 28566503844485557 |
 | Players | 1/8 |
-| Host Name | pulsarxfhell |
+| Host Name | prostate |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:18:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503844491577 |
+| Players | 1/24 |
+| Host Name | o.O |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 05:18:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503844507772 |
+| Players | 2/10 |
+| Host Name | klakier |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:18:10 |
+| Lobby Creation Time | Monday, December 18, 2023 05:18:22 |
 
 
