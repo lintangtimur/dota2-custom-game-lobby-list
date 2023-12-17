@@ -20,28 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:48:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503874114332 |
-| Players | 14/15 |
-| Host Name | Enki |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 06:10:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503875674878 |
-| Players | 1/8 |
-| Host Name | дурнуватий бобік |
+| Lobby ID | 28566503875795590 |
+| Players | 2/8 |
+| Host Name | Miguelyuyi |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 06:14:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503875606704 |
+| Players | 9/15 |
+| Host Name | Noro |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:13:51 |
+| Lobby Creation Time | Monday, December 18, 2023 06:13:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503874357022 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 06:11:25 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503875606704 |
-| Players | 2/15 |
-| Host Name | Noro |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:13:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503875658179 |
+| Lobby ID | 28566503875783718 |
 | Players | 1/15 |
-| Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 06:13:49 |
+| Host Name | 13 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
 
 
 |  | epic_boss_fight_nightmare |
