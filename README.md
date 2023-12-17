@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503864754299 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ikaris |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:53:33 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:54:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503864541388 |
-| Players | 22/24 |
-| Host Name | Panda |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 05:53:10 |
+| Lobby ID | 28566503865757377 |
+| Players | 5/15 |
+| Host Name | Stan ♂ Next ♂ Door |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 05:55:22 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503865260117 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | PaNdaBLUE❥ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:54:28 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503865073170 |
-| Players | 8/15 |
-| Host Name | Egoista |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 05:54:07 |
+| Lobby ID | 28566503865988006 |
+| Players | 3/15 |
+| Host Name | VolTaGe |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 05:55:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503862475389 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | Random_Citizen |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:49:30 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503859896836 |
-| Players | 5/8 |
-| Host Name | Gonza |
+| Players | 6/8 |
+| Host Name | tdistribution |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 05:44:51 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503865328257 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | scottishfold |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:54:35 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503865649640 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | MVP |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:55:10 |
@@ -121,28 +121,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503865065250 |
-| Players | 14/15 |
-| Host Name | VolTaGe |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:54:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503865757377 |
-| Players | 1/15 |
-| Host Name | Stan ♂ Next ♂ Door |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 05:55:22 |
+| Lobby ID | 28566503865817467 |
+| Players | 2/15 |
+| Host Name | K... |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 05:55:28 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28566503861475139 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | RYOGA |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:47:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503866051192 |
+| Players | 1/10 |
+| Host Name | mel |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 05:55:54 |
 
 
