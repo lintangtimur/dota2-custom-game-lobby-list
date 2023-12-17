@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503085811686 |
-| Players | 3/8 |
-| Host Name | NOMAT#MRAZRUST |
+| Lobby ID | 28566503102047677 |
+| Players | 11/15 |
+| Host Name | ☆ VAZ ☆ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:01:56 |
+| Lobby Creation Time | Sunday, December 17, 2023 17:20:12 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503099212255 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | 失误过人 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:17:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503101800040 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Agentsmrt |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 17, 2023 17:19:55 |
@@ -47,33 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 17:11:26 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503100987868 |
-| Players | 9/10 |
-| Host Name | Akina |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:19:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503101619797 |
-| Players | 7/8 |
-| Host Name | QAKHARLY |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 17:19:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503102047677 |
-| Players | 2/15 |
-| Host Name | ☆ VAZ ☆ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:20:12 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503102091876 |
@@ -81,5 +54,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:20:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503102455772 |
+| Players | 6/8 |
+| Host Name | Ozon-gozon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 17:20:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503102460574 |
+| Players | 4/10 |
+| Host Name | дота для ебанатов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 17:20:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503102520761 |
+| Players | 1/10 |
+| Host Name | DEVIL MAY CUM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:20:44 |
 
 
