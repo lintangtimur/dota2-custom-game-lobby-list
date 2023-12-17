@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503880105707 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | lOOfy120fps |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:22:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503880842357 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | NoVa/NeNet< |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:23:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503880594047 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | It's poshooooo ! |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 06:23:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503881328959 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | YA C БOГAMИ COВET DERZHY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:24:56 |
@@ -90,5 +90,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Theo |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:24:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503881410644 |
+| Players | 1/15 |
+| Host Name | Dirty Deedz |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 06:25:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503881477769 |
+| Players | 1/8 |
+| Host Name | grinder |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 06:25:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503881471751 |
+| Players | 3/5 |
+| Host Name | Nagi Seishiro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 06:25:13 |
 
 
