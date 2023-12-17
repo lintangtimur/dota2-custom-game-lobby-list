@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503096985681 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Bear&Proud |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:14:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503096739406 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | acsess |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:14:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503091673630 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:08:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503095675921 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | DY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 17:13:07 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503097022996 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Кузя Лакомкин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 17:14:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503095865266 |
-| Players | 9/10 |
-| Host Name | IIiIIiII |
+| Lobby ID | 28566503097367793 |
+| Players | 2/15 |
+| Host Name | meeto meeto meeto :3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 17:13:20 |
+| Lobby Creation Time | Sunday, December 17, 2023 17:15:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503097579434 |
+| Players | 1/15 |
+| Host Name | Mrazcy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 17:15:14 |
 
 
 |  | epic_boss_fight_nightmare |
