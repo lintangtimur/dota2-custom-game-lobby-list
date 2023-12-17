@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503771438014 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Mandingo Bunnington |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 03:35:55 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503767695956 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Huesitos |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 03:31:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503771244397 |
-| Players | 7/8 |
-| Host Name | WaKanDa |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 03:35:40 |
+| Lobby ID | 28566503771509143 |
+| Players | 3/24 |
+| Host Name | J. Smirnoff |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 03:36:00 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503771409315 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SIDERAL FRIO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 03:35:52 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503771483163 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | sojj |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 03:35:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503771478962 |
-| Players | 1/15 |
-| Host Name | DannyJHF |
-| Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 03:35:58 |
 
 
