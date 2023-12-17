@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:29:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503852369989 |
-| Players | 9/10 |
-| Host Name | Huesitos |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 05:31:35 |
+| Lobby ID | 28566503854324606 |
+| Players | 2/15 |
+| Host Name | baoeq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 05:34:58 |
 
 
 |  | ot3_gardens_duo |
@@ -50,34 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503854332751 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Barack no mana |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:34:59 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503854324606 |
-| Players | 1/15 |
-| Host Name | baoeq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:34:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503854355033 |
-| Players | 5/8 |
-| Host Name | scared of girl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:35:01 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566503853223737 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | 🌺🌺🌺Kaneki🌺🌺🌺 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:33:03 |
