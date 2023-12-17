@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503436055882 |
-| Players | 9/15 |
-| Host Name | vitalyarazzo |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 17, 2023 22:10:40 |
+| Lobby ID | 28566503436364352 |
+| Players | 2/15 |
+| Host Name | Raclure de chiotte |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 22:10:56 |
 
 
 |  | ot3_gardens_duo |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503434241623 |
+| Lobby ID | 28566503436767420 |
 | Players | 1/8 |
-| Host Name | Rraptor7 |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, December 17, 2023 22:09:12 |
+| Host Name | ---- |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 17, 2023 22:11:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503435913868 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | CUMандир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 22:10:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503432228628 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 22:07:34 |
@@ -86,46 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503435769711 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | silly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 22:10:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503436007278 |
-| Players | 5/10 |
-| Host Name | Ералаш prime |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:10:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503436160293 |
-| Players | 1/8 |
-| Host Name | Demonic Fox |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:10:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503436237860 |
-| Players | 1/15 |
-| Host Name | TH3 3ND |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:10:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503436293165 |
-| Players | 1/8 |
-| Host Name | negrosPidarasos |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:10:52 |
 
 
 |  | ot3_desert_octet |
@@ -137,13 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 22:10:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503436364352 |
-| Players | 2/15 |
-| Host Name | Raclure de chiotte |
+| Lobby ID | 28566503436160293 |
+| Players | 4/8 |
+| Host Name | Demonic Fox |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 22:10:56 |
+| Lobby Creation Time | Sunday, December 17, 2023 22:10:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503434723052 |
+| Players | 7/8 |
+| Host Name | doggy style |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:09:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503436816218 |
+| Players | 3/8 |
+| Host Name | ТВИКС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 22:11:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -167,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503436271353 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ℻✡Run |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 22:10:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503436337644 |
-| Players | 1/10 |
-| Host Name | St.Loust |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 17, 2023 22:10:54 |
 
 
