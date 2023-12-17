@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502802505141 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ALT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 10:19:02 |
@@ -22,29 +22,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502802766449 |
+| Lobby ID | 28566502803233450 |
 | Players | 2/8 |
-| Host Name | isn't like holding to the center |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 17, 2023 10:19:32 |
+| Host Name | segaxxL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 10:20:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566502802102425 |
-| Players | 21/24 |
-| Host Name | Power Ranger Plomo |
+| Lobby ID | 28566502803375047 |
+| Players | 3/8 |
+| Host Name | Estudia Sonso |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 17, 2023 10:18:16 |
+| Lobby Creation Time | Sunday, December 17, 2023 10:20:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566502802108981 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | NO ME ESTORBEN VAGINAS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 10:18:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566502803170646 |
+| Players | 5/15 |
+| Host Name | 200 IQ Player |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 10:20:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566502803167925 |
+| Players | 1/15 |
+| Host Name | rsny |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 10:20:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566502803498092 |
+| Players | 3/24 |
+| Host Name | Score |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 17, 2023 10:20:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566502803534325 |
+| Players | 1/15 |
+| Host Name | service |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 10:21:01 |
 
 
 |  | epic_boss_fight_nightmare |
