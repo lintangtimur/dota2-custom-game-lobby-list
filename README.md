@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503036056481 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:04:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502979703017 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 14:58:37 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 15:51:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503038366895 |
-| Players | 13/15 |
-| Host Name | брызги поноса |
+| Lobby ID | 28566503038764309 |
+| Players | 7/8 |
+| Host Name | Relax |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:07:08 |
+| Lobby Creation Time | Sunday, December 17, 2023 16:07:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503038388342 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ATEZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:07:09 |
@@ -65,37 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 16:02:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503038764309 |
-| Players | 5/8 |
-| Host Name | Relax |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:07:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503038417664 |
-| Players | 7/10 |
-| Host Name | Soos |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:07:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566503038549642 |
-| Players | 1/5 |
-| Host Name | Romix |
+| Lobby ID | 28566503039305469 |
+| Players | 3/15 |
+| Host Name | Hailrake |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:07:20 |
+| Lobby Creation Time | Sunday, December 17, 2023 16:08:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503038820320 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Белый Волк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:07:39 |
