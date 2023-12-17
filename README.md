@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503383071101 |
-| Players | 2/8 |
-| Host Name | .no lose |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 21:28:49 |
+| Lobby ID | 28566503383822695 |
+| Players | 1/8 |
+| Host Name | the чечня на связи |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 21:29:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503382595814 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 21:28:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503331763248 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 17, 2023 20:50:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503383612939 |
-| Players | 2/15 |
+| Players | 12/15 |
 | Host Name | CynoRx |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 21:29:15 |
@@ -76,19 +76,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503383595634 |
-| Players | 4/8 |
-| Host Name | silly |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 21:29:15 |
+| Lobby ID | 28566503384468044 |
+| Players | 1/8 |
+| Host Name | Factory Director (D1) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 21:29:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503380733727 |
-| Players | 3/10 |
-| Host Name | Anya Kawaii~ |
+| Lobby ID | 28566503383659923 |
+| Players | 9/10 |
+| Host Name | Budushee za Nami777 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 21:29:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503384210067 |
+| Players | 9/10 |
+| Host Name | YGABYGA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 21:29:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503384463307 |
+| Players | 6/10 |
+| Host Name | KObe |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 17, 2023 21:29:56 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503384560529 |
+| Players | 1/5 |
+| Host Name | Heen |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 21:26:58 |
+| Lobby Creation Time | Sunday, December 17, 2023 21:30:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503384536408 |
+| Players | 1/5 |
+| Host Name | TREANTOTOKYO |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 17, 2023 21:30:00 |
 
 
