@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503883974040 |
-| Players | 5/10 |
-| Host Name | Рома мефедрон |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:30:18 |
+| Lobby ID | 28566503885363173 |
+| Players | 1/8 |
+| Host Name | Fmed |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 06:33:05 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503884452508 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Teddy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:31:16 |
@@ -67,15 +67,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503884373567 |
-| Players | 8/10 |
-| Host Name | Tio Chuchu *0* 2.0 |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 06:31:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28566503885008778 |
 | Players | 3/10 |
 | Host Name | ►▼RygByck▼◄ |
@@ -83,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:32:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503885258851 |
-| Players | 1/15 |
-| Host Name | Barry Allen ⚡ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 06:32:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503885363173 |
-| Players | 1/8 |
-| Host Name | Fmed |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 06:33:05 |
+| Lobby ID | 28566503885497567 |
+| Players | 2/8 |
+| Host Name | MoodY_GooD! |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 06:33:22 |
 
 
 |  | epic_boss_fight_nightmare |
