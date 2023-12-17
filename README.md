@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503145835627 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | ϟƘƦƖןןΣx |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:07:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503153920964 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Murzabood |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:15:40 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503147019776 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:08:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503143874767 |
-| Players | 2/8 |
-| Host Name | M O T I V A T I O N |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 17, 2023 18:05:35 |
+| Lobby ID | 28566503154807339 |
+| Players | 3/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 18:16:33 |
 
 
 |  | ot3_desert_octet |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 18:15:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503150587789 |
-| Players | 14/15 |
-| Host Name | Empty Set |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 18:12:21 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503154445084 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | чемпійон |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:16:12 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503145538478 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 18:07:15 |
