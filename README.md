@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566502966054519 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | lonely^ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 14:41:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502964452520 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 14:39:46 |
@@ -68,37 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502963443723 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | zenutro |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 17, 2023 14:38:31 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566502965999091 |
-| Players | 21/24 |
-| Host Name | Haode |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 14:41:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566502965863730 |
-| Players | 11/15 |
-| Host Name | Badjuju228 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 14:41:31 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566502966969192 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | niotartnecnoC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 14:42:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566502967056871 |
+| Players | 6/24 |
+| Host Name | Invaders Must Die |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 14:43:01 |
 
 
 |  | epic_boss_fight_nightmare |
