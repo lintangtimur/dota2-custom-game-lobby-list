@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502921229324 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | apTeom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 13:41:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566502979703017 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | RiftBreaker |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 17, 2023 14:58:37 |
@@ -42,18 +42,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28566503014644122 |
 | Players | 3/8 |
-| Host Name | Sathanus |
+| Host Name | YoNi |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 17, 2023 15:39:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503016068292 |
-| Players | 12/15 |
-| Host Name | АРАМ ЗАМБАК |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 15:40:55 |
+| Lobby ID | 28566503016307453 |
+| Players | 5/8 |
+| Host Name | Angel-a |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 15:41:12 |
 
 
 |  | ot3_gardens_duo |
@@ -65,39 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 15:37:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503016307453 |
-| Players | 3/8 |
-| Host Name | Angel-a |
+| Lobby ID | 28566503017449732 |
+| Players | 7/15 |
+| Host Name | ГенаЦидармян |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:41:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503016413582 |
-| Players | 7/10 |
-| Host Name | Дима Ескорт |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 15:41:20 |
+| Lobby Creation Time | Sunday, December 17, 2023 15:42:34 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503016381111 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Zack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 15:41:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566503016886768 |
-| Players | 2/5 |
-| Host Name | 颯太佐野 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 15:41:54 |
 
 
