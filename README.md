@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503858683743 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | SIDERAL FRIO |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:42:41 |
@@ -40,29 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503859322588 |
-| Players | 14/15 |
-| Host Name | Flomi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:43:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28566503859867404 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | .҉ Ķ҉ᾄ҉ẓ҉ᾄ҉ᶆ҉ᾄ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:44:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503859942667 |
-| Players | 4/8 |
+| Lobby ID | 28566503860037732 |
+| Players | 4/10 |
 | Host Name | Salasta |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:44:56 |
+| Lobby Creation Time | Monday, December 18, 2023 05:45:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503860058624 |
+| Players | 3/24 |
+| Host Name | Yuta Okkotsu |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 05:45:09 |
 
 
 |  | epic_boss_fight_nightmare |
