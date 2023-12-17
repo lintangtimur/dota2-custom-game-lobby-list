@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 05:03:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503836438228 |
-| Players | 11/15 |
-| Host Name | All_Muted |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:05:28 |
+| Lobby ID | 28566503832151883 |
+| Players | 23/24 |
+| Host Name | Reaper  Γ |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 04:58:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503831676980 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | Mathiasla |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 04:58:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503836473554 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | 《»Ƭℯmקℯѕ†«》 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 05:05:31 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503836636396 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | THE BERPI |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:05:46 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503836708607 |
-| Players | 2/10 |
-| Host Name | ;( |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 05:05:53 |
+| Lobby ID | 28566503836848322 |
+| Players | 4/10 |
+| Host Name | Mr.Popo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 05:06:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,23 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bendjomi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 05:05:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503832151883 |
-| Players | 23/24 |
-| Host Name | Reaper  Γ |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 04:58:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503830144158 |
-| Players | 9/10 |
-| Host Name | YOP |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 04:55:41 |
 
 
