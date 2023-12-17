@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503784898393 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | FloweryShirtGuy |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 03:52:41 |
@@ -38,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 03:51:51 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503783264248 |
-| Players | 14/15 |
-| Host Name | DGL |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 03:50:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503783426592 |
-| Players | 20/24 |
-| Host Name | vip3r |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 03:50:52 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503784783226 |
@@ -63,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CHUPE DE CONCHAS NEGRAS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 03:52:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503785369429 |
+| Players | 3/8 |
+| Host Name | shadle~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 03:53:17 |
 
 
 |  | epic_boss_fight_nightmare |
