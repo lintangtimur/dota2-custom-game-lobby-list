@@ -22,20 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503222323641 |
-| Players | 10/15 |
-| Host Name | A.D.E.D |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 19:19:48 |
+| Lobby ID | 28566503223018497 |
+| Players | 6/15 |
+| Host Name | Well Cum |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 19:20:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503222649937 |
-| Players | 4/10 |
-| Host Name | . |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 19:20:04 |
+| Lobby ID | 28566503223147052 |
+| Players | 11/24 |
+| Host Name | woaaaar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 19:20:30 |
 
 
 |  | ot3_gardens_duo |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503221074663 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | X-ART |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 19:18:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503222364983 |
-| Players | 6/8 |
-| Host Name | blblb |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:19:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503222882860 |
-| Players | 2/24 |
-| Host Name | 히라이 모모 |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 17, 2023 19:20:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 19:20:18 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503221750742 |
-| Players | 3/5 |
-| Host Name | Ебу жопой |
+| Lobby ID | 28566503223469784 |
+| Players | 1/8 |
+| Host Name | Hxrxkiller |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 19:19:17 |
+| Lobby Creation Time | Sunday, December 17, 2023 19:20:46 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503221872615 |
-| Players | 1/5 |
-| Host Name | GWAPO RA |
+| Lobby ID | 28566503223589382 |
+| Players | 1/24 |
+| Host Name | drntmanh |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 19:19:24 |
+| Lobby Creation Time | Sunday, December 17, 2023 19:20:52 |
 
 
 |  | epic_boss_fight_nightmare |
