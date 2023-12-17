@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 04:30:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503825273531 |
-| Players | 14/15 |
-| Host Name | Gomitas |
+| Lobby ID | 28566503826541117 |
+| Players | 1/10 |
+| Host Name | Jet |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 04:48:20 |
+| Lobby Creation Time | Monday, December 18, 2023 04:50:14 |
 
 
 |  | ot3_gardens_duo |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503826422887 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | MoonOnMySide |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 04:50:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503824440120 |
-| Players | 7/8 |
-| Host Name | >.< |
+| Lobby ID | 28566503826504867 |
+| Players | 1/24 |
+| Host Name | DRAGONBACKgiordota.com |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 04:47:05 |
+| Lobby Creation Time | Monday, December 18, 2023 04:50:11 |
 
 
 |  | ot3_gardens_duo |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 04:47:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503826466974 |
-| Players | 3/8 |
-| Host Name | dmoncode |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 04:50:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503826467599 |
-| Players | 4/8 |
-| Host Name | кал энжел |
+| Lobby ID | 28566503825736043 |
+| Players | 9/10 |
+| Host Name | Kellen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:50:07 |
+| Lobby Creation Time | Monday, December 18, 2023 04:49:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503824140628 |
+| Players | 23/24 |
+| Host Name | TiltedGuy |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 04:46:38 |
 
 
 |  | epic_boss_fight_nightmare |
