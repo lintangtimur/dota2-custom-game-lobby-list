@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503036940039 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | niX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:05:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503036201367 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | Атаквейшен |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:04:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503036000481 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | A.XVI_973 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 17, 2023 16:04:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503034487402 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | ne elektrik - nexyi lezt' |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:02:42 |
@@ -68,36 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503036056481 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 16:04:30 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503037439865 |
-| Players | 5/15 |
-| Host Name | Namaesana |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 17, 2023 16:06:04 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28566503027877666 |
+| Lobby ID | 28566503038004117 |
 | Players | 1/5 |
-| Host Name | Public Enamy |
+| Host Name | Romix |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 15:54:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566503037241458 |
-| Players | 1/5 |
-| Host Name | CocountCream |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 16:05:50 |
+| Lobby Creation Time | Sunday, December 17, 2023 16:06:43 |
 
 
