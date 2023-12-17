@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503881410644 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Dirty Deedz |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:25:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503880842357 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | NoVa/NeNet< |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:23:56 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503881560109 |
-| Players | 8/10 |
-| Host Name | Thawne |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:25:23 |
+| Lobby ID | 28566503881883638 |
+| Players | 1/10 |
+| Host Name | Baz1S |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 06:26:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503881885199 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Летчик Зигзаг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:26:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503880594047 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | It's poshooooo ! |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 06:23:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503881589306 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Nolwyn |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:25:27 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | кукед фиш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:25:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503881883638 |
-| Players | 1/10 |
-| Host Name | Baz1S |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 06:26:03 |
 
 
