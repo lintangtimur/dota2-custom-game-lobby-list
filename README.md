@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503876618183 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Centauro Humala |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:15:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503879273793 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | water inside me |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:20:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503879193269 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Jerry Be Nice |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:20:39 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503879126732 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | elzobie |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:20:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503879275498 |
-| Players | 1/8 |
-| Host Name | NAPAS |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:20:49 |
+| Lobby ID | 28566503879341861 |
+| Players | 3/15 |
+| Host Name | ‡Hanamichi Sakuragi‡ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 06:20:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | //HYDRA |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:20:48 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28566503878416686 |
-| Players | 4/7 |
-| Host Name | Fuckyeah |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:19:09 |
 
 
