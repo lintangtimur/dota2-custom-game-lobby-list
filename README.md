@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566502915797786 |
-| Players | 1/10 |
-| Host Name | Radiance |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, December 17, 2023 13:33:54 |
+| Lobby ID | 28566502914125188 |
+| Players | 20/24 |
+| Host Name | Sukuna |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 17, 2023 13:31:32 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 11:49:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502913861373 |
-| Players | 19/24 |
-| Host Name | chlnpx |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 17, 2023 13:31:09 |
+| Lobby ID | 28566502915712114 |
+| Players | 9/10 |
+| Host Name | токсичный уголек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 17, 2023 13:33:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,39 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 17, 2023 13:32:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566502914125188 |
-| Players | 18/24 |
-| Host Name | Sukuna |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 17, 2023 13:31:32 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566502915712114 |
-| Players | 8/10 |
-| Host Name | токсичный уголек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 13:33:47 |
+| Lobby ID | 28566502910540092 |
+| Players | 9/10 |
+| Host Name | es un papucho |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 17, 2023 13:26:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566502914137669 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Shubarashii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 17, 2023 13:31:33 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28566502909249601 |
-| Players | 9/10 |
-| Host Name | Викинг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 17, 2023 13:24:29 |
+| Lobby ID | 28566502917033164 |
+| Players | 1/5 |
+| Host Name | Mundus |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 17, 2023 13:35:41 |
 
 
