@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503895566672 |
-| Players | 6/8 |
-| Host Name | Alucard |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 06:54:33 |
+| Lobby ID | 28566503895738563 |
+| Players | 1/10 |
+| Host Name | goshiu |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 06:54:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503895037330 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | -qwerty |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 06:53:24 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503895230871 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Versatilius |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 06:53:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503895738563 |
-| Players | 1/10 |
-| Host Name | goshiu |
+| Lobby ID | 28566503895828768 |
+| Players | 1/8 |
+| Host Name | Fmed |
 | Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 06:54:55 |
+| Lobby Creation Time | Monday, December 18, 2023 06:55:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Minoko Idara |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:46:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566503895801166 |
+| Players | 2/10 |
+| Host Name | rarikrarie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 06:55:03 |
 
 
