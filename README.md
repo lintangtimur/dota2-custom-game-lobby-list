@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503848306377 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Mr.Popo |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:24:39 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503848172615 |
-| Players | 2/8 |
-| Host Name | F5 |
+| Lobby ID | 28566503848520636 |
+| Players | 3/8 |
+| Host Name | nosdug |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:24:26 |
+| Lobby Creation Time | Monday, December 18, 2023 05:25:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503847691161 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Husk1One™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:23:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503848310089 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | eternal_tilt ･ᴗ･ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:24:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503848106173 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ◄Dingetjie◄ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 05:24:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503848401988 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 05:24:49 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503848386421 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | сухарь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 05:24:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503848520636 |
-| Players | 3/8 |
-| Host Name | nosdug |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 05:25:01 |
 
 
 |  | epic_boss_fight_nightmare |
