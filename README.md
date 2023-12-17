@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 03:53:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503829846610 |
-| Players | 12/15 |
-| Host Name | Mouches Volantes |
+| Lobby ID | 28566503831057891 |
+| Players | 7/8 |
+| Host Name | mizarik |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:55:13 |
+| Lobby Creation Time | Monday, December 18, 2023 04:57:05 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503830303829 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Más Narnia |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 04:55:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503829916555 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 04:55:19 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503829935865 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | CHICO FITNESS 69 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 04:55:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503830714637 |
-| Players | 1/8 |
-| Host Name | SHOD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:56:33 |
+| Lobby ID | 28566503830909815 |
+| Players | 3/10 |
+| Host Name | Rias Gremory |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 04:56:51 |
 
 
 |  | ot3_gardens_duo |
@@ -81,33 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 04:55:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503830833489 |
-| Players | 6/8 |
-| Host Name | Микроавтобус |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 04:56:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503830909815 |
-| Players | 2/10 |
-| Host Name | Rias Gremory |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 04:56:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503830001270 |
-| Players | 14/15 |
-| Host Name | K... |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 04:55:27 |
 
 
 |  | epic_boss_fight_nightmare |
