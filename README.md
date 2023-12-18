@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504141952058 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 佳佳 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:33:05 |
@@ -38,19 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 15:39:06 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504145367335 |
-| Players | 13/15 |
-| Host Name | СПАСИБО ПАПАША |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:39:04 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504140178107 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | batman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:30:00 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504142218022 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | KiJo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:33:34 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504145610984 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Nuke Employee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:39:29 |
