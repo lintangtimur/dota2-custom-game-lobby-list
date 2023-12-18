@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504021468679 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 11:34:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504017226105 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | [sms] ツ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 11:26:08 |
@@ -74,10 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 11:38:50 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504025894859 |
+| Players | 1/8 |
+| Host Name | Rap Божий |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 11:44:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566504025895985 |
+| Players | 5/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 11:44:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504025907388 |
+| Players | 5/8 |
+| Host Name | bkardi |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 11:44:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504025660378 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:43:41 |
