@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503903293269 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | ✪ EsuJon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:11:15 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503903301903 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ☺ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 07:11:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503902591977 |
-| Players | 7/8 |
-| Host Name | grinder |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 07:09:43 |
+| Lobby ID | 28566503903689889 |
+| Players | 1/24 |
+| Host Name | Potatoes gonna potate! |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 07:12:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,32 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KANOKON H |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:11:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503900457231 |
-| Players | 21/24 |
-| Host Name | Chocolatada de sideral |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 07:05:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503902883970 |
-| Players | 14/15 |
-| Host Name | NeDix! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 07:10:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503903689889 |
-| Players | 1/24 |
-| Host Name | Potatoes gonna potate! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 07:12:03 |
 
 
