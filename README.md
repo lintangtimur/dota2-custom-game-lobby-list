@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504032009662 |
-| Players | 14/15 |
-| Host Name | Копьё Аллаха |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 11:57:12 |
+| Lobby ID | 28566504034146548 |
+| Players | 1/15 |
+| Host Name | Chawas Shelby |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 12:01:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:01:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504033171179 |
-| Players | 8/10 |
-| Host Name | mao tse doom |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:59:43 |
+| Lobby ID | 28566504034255634 |
+| Players | 1/24 |
+| Host Name | 'Suthep Thaugsuban |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 12:02:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504032998528 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | TIMON |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 11:59:21 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504033529395 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | 9mm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:00:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504034089243 |
-| Players | 6/8 |
-| Host Name | Dios Padre |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 12:01:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504034146548 |
-| Players | 1/15 |
-| Host Name | Chawas Shelby |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 12:01:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nirvana |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:45:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566504034278688 |
+| Players | 1/10 |
+| Host Name | Numd |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 12:02:03 |
 
 
