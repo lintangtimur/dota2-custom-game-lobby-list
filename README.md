@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504140178107 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Thanatos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:30:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504147442718 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | gfsfgs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:42:40 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504147716698 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Дрочислав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:43:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504147729921 |
+| Players | 1/15 |
+| Host Name | no_fame |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 15:43:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nuke Employee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:39:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566504147723580 |
-| Players | 1/5 |
-| Host Name | noob team |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 15:43:10 |
 
 
