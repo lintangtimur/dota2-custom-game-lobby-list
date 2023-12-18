@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504073032647 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 13:23:22 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504081168397 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | ☭Fuck Bluehole Inc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 13:39:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504081255509 |
-| Players | 4/8 |
-| Host Name | 「Etc_Answer」 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 13:40:09 |
 
 
 |  | ot3_gardens_duo |
@@ -96,7 +87,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28566504081139897 |
 | Players | 1/10 |
-| Host Name | ¸¸♬·¯·♩¸¸♪·¯·♫ |
+| Host Name | DreameR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 13:39:55 |
 
