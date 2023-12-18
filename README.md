@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503932411998 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | lina paucar |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:17:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503931363904 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:14:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503932134604 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | UpDaTeR® |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:16:31 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503932559573 |
-| Players | 3/8 |
-| Host Name | Big Mama (yulezz) |
+| Players | 4/8 |
+| Host Name | WhatsWrongWithDOGA2/VOLVO? |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 08:17:30 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503928218567 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:07:38 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Xavidra |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:18:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503926956867 |
-| Players | 23/24 |
-| Host Name | ™Slim Shady® |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 08:04:40 |
 
 
