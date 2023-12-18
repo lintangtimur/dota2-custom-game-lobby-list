@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504171814624 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Юра салярка |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 16:24:27 |
@@ -56,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 16:26:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504170436543 |
-| Players | 23/24 |
-| Host Name | .. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 16:22:11 |
+| Lobby ID | 28566504173472684 |
+| Players | 3/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 16:27:09 |
 
 
