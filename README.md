@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504045047665 |
-| Players | 3/10 |
-| Host Name | Yedolf Westler |
+| Players | 1/10 |
+| Host Name | ᶰᵒᵗʰᶤᶰᵍᶰᵉˢˢ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:24:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504045311924 |
-| Players | 7/8 |
-| Host Name | 雨の中で生まれた |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 12:25:21 |
+| Lobby ID | 28566504046179245 |
+| Players | 2/15 |
+| Host Name | XoD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 12:27:12 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504046036288 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Hasta que el b/ga sea campeon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 12:26:54 |
