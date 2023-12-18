@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504023212627 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | Hahm |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:38:30 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504023443614 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | LET ME COOK |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:38:59 |
