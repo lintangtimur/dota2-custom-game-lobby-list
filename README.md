@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503906130595 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:17:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503906148659 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Грига гамак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 07:17:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503903689889 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:12:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503905450718 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | 平 -  E=MC2 - 平 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:15:50 |
@@ -65,21 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 07:18:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503906771713 |
-| Players | 1/15 |
-| Host Name | JoeSuavo |
+| Lobby ID | 28566503906922544 |
+| Players | 2/10 |
+| Host Name | Aggressive Koala |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 07:18:44 |
+| Lobby Creation Time | Monday, December 18, 2023 07:19:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503906817502 |
-| Players | 2/15 |
-| Host Name | 光2.0 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 07:18:50 |
+| Lobby ID | 28566503906907595 |
+| Players | 1/10 |
+| Host Name | _Vanlon_ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 07:19:02 |
 
 
