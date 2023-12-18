@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 10:11:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503978474228 |
-| Players | 2/8 |
-| Host Name | 281-330-8004 |
+| Lobby ID | 28566503983273038 |
+| Players | 2/10 |
+| Host Name | aea |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:01:23 |
+| Lobby Creation Time | Monday, December 18, 2023 10:11:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503981368355 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:07:45 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 10:08:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503976891310 |
-| Players | 22/24 |
-| Host Name | Silver~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 09:57:51 |
+| Lobby ID | 28566503983196638 |
+| Players | 6/8 |
+| Host Name | Marcello |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:11:45 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503982984278 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 戀•ᴀssᴀsɪɴ•戀 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:11:18 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | marcelin |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:11:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503983196638 |
-| Players | 5/8 |
-| Host Name | Marcello |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:11:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503983273038 |
-| Players | 2/10 |
-| Host Name | aea |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:11:55 |
 
 
 |  | epic_boss_fight_nightmare |
