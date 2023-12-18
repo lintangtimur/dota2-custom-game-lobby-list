@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504062276102 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Fireflies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:01:17 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 13:01:06 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504062565316 |
-| Players | 1/10 |
-| Host Name | MadaraUchihaRus58 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 13:01:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504062586534 |
@@ -81,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥ ради нее ♥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:01:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504062715503 |
+| Players | 2/10 |
+| Host Name | Arthas Menethil |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 13:02:11 |
 
 
 |  | epic_boss_fight_nightmare |
