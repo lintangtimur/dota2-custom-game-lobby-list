@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503875783718 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 13 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503920441427 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | BR@ND |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:49:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503900107703 |
-| Players | 1/24 |
-| Host Name | MADARA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 07:04:18 |
+| Lobby ID | 28566503921115127 |
+| Players | 2/15 |
+| Host Name | lina paucar |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:51:07 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503917045920 |
-| Players | 14/24 |
+| Players | 11/24 |
 | Host Name | zxc csgetto.app |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:41:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503920529065 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | danye west |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:49:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503920587498 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Veni, Vidi, Vici |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:49:56 |
