@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 15:35:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504158489696 |
-| Players | 13/15 |
-| Host Name | Ave Dominus Nox |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 16:01:52 |
+| Lobby ID | 28566504161520558 |
+| Players | 2/24 |
+| Host Name | 123 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 16:07:12 |
 
 
 |  | ot3_gardens_duo |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CerberuS |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 16:04:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504161482441 |
-| Players | 4/8 |
-| Host Name | 4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:07:08 |
 
 
 |  | epic_boss_fight_nightmare |
