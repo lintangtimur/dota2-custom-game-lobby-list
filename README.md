@@ -32,9 +32,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504127106148 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | lone wolf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:06:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504127276176 |
+| Players | 2/10 |
+| Host Name | Я постораюсь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 15:07:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504127281643 |
+| Players | 5/15 |
+| Host Name | бакс бани |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 15:07:17 |
 
 
