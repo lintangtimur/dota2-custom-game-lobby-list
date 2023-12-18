@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504171814624 |
-| Players | 14/15 |
-| Host Name | Юра салярка |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 16:24:27 |
+| Lobby ID | 28566504173472684 |
+| Players | 4/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 16:27:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [TEMKA] SLY :3 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 16:26:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504173472684 |
-| Players | 3/15 |
-| Host Name | nattyboons |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 16:27:09 |
 
 
