@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503939124429 |
-| Players | 17/24 |
+| Players | 23/24 |
 | Host Name | [ N O V A ] |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:32:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503939460906 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | /,.4gabasf/,5das1as1,./31d |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 08:33:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503939728734 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | void el contructor |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:34:02 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503939745688 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | FAN DE EG DEL 2015😡 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:34:04 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | spectr csgorun.run |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 08:34:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503940122493 |
+| Players | 4/15 |
+| Host Name | elford |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 08:34:58 |
 
 
