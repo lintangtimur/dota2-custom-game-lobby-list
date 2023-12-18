@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504373162341 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | 123w |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 20:25:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504360466186 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Anj0 `-!FRD!-` |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 20:13:52 |
@@ -68,46 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504379519631 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | NORAN |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 20:30:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504378338381 |
-| Players | 20/24 |
-| Host Name | 能文能武 长相十分阳光 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 20:29:35 |
+| Lobby ID | 28566504380592238 |
+| Players | 2/10 |
+| Host Name | spermaroshana |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 20:31:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504379426186 |
+| Lobby ID | 28566504380519901 |
 | Players | 4/8 |
-| Host Name | shadow cock <3 |
+| Host Name | myk |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 20:30:32 |
+| Lobby Creation Time | Monday, December 18, 2023 20:31:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504379331667 |
-| Players | 3/15 |
-| Host Name | ТоликЧёрный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 20:30:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504379750726 |
-| Players | 1/15 |
-| Host Name | Heisenberg |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 20:30:49 |
+| Lobby ID | 28566504380356060 |
+| Players | 1/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 20:31:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Stoffelicious |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 20:28:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566504380589828 |
+| Players | 2/5 |
+| Host Name | M.unsa |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 18, 2023 20:31:32 |
 
 
