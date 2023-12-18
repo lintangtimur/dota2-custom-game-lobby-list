@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504073032647 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 13:23:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504072505175 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 13:22:17 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504074390244 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | lets_fight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:26:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504074461312 |
-| Players | 6/10 |
-| Host Name | Not Game |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 13:26:17 |
+| Lobby ID | 28566504075056286 |
+| Players | 1/24 |
+| Host Name | Pixelated Pussy |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 18, 2023 13:27:31 |
 
 
 |  | ot3_desert_octet |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 13:26:38 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504074939076 |
-| Players | 2/15 |
-| Host Name | Block |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 13:27:16 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504074939325 |
@@ -101,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 13:27:16 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504075100488 |
+| Players | 5/15 |
+| Host Name | major freya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 13:27:36 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504073859510 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 13:25:03 |
@@ -112,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566504074580499 |
+| Lobby ID | 28566504075043188 |
 | Players | 1/10 |
 | Host Name | TuRoNs | RUS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 13:26:32 |
+| Lobby Creation Time | Monday, December 18, 2023 13:27:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566504075312054 |
+| Players | 1/5 |
+| Host Name | TAMIYA MINI 4WD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 13:28:02 |
 
 
