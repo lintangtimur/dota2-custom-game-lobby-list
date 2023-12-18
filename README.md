@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504017986940 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Ayudame a dejar el vicio ;-; |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:27:44 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504018176131 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:28:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504018574493 |
+| Players | 1/15 |
+| Host Name | Scrub, career felon |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 11:28:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Izumiiiiiiiiii<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:27:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566504009263382 |
-| Players | 9/10 |
-| Host Name | Szostak |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 11:09:07 |
 
 
