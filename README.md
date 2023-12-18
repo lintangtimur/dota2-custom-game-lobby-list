@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503984196915 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | GASLIGHTING |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:13:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503985570886 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:17:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503986721750 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | TatTOO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:19:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503986859859 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | GREYRAT016 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:19:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503986746892 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:19:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503986766740 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | El Maldito Tedy |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:19:42 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503986781585 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Feed Control |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:19:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503986807544 |
-| Players | 4/8 |
-| Host Name | ᴍ ɪ ɴ ᴀ ᴛ ᴏ :3 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:19:47 |
 
 
 |  | epic_boss_fight_nightmare |
