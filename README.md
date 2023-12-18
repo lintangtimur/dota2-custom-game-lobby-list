@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504058703918 |
-| Players | 6/10 |
-| Host Name | Mata Homosexuales |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 12:53:54 |
+| Lobby ID | 28566504055896965 |
+| Players | 20/24 |
+| Host Name | Rock.Baby.Rock |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 12:48:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,20 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504055896965 |
-| Players | 19/24 |
-| Host Name | Rock.Baby.Rock |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 12:48:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566504056284386 |
-| Players | 22/24 |
-| Host Name | æ Haku æ |
+| Lobby ID | 28566504059339184 |
+| Players | 1/24 |
+| Host Name | Jomax-sam |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 12:48:51 |
+| Lobby Creation Time | Monday, December 18, 2023 12:55:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | yyz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:54:55 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28566504059329970 |
+| Players | 1/7 |
+| Host Name | skintomato |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 12:55:13 |
 
 
