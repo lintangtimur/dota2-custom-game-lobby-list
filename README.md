@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503928218567 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:07:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503934035747 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | ZXSMJ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:20:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503935278711 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:23:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503935381902 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | fedea_ctmr |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:24:00 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 08:24:09 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503933986914 |
+| Players | 23/24 |
+| Host Name | shagggy |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 08:20:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503935022491 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | lerman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:23:08 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503935241152 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Tsurenai |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 08:23:39 |
