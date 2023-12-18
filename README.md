@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:04:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504034255634 |
-| Players | 23/24 |
-| Host Name | 'Suthep Thaugsuban |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 12:02:00 |
+| Lobby ID | 28566504036218204 |
+| Players | 6/10 |
+| Host Name | НЕПОНЯТЫЙ НЕ Я |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 12:06:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504035159504 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 热水？渣男? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:03:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504035154557 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | граф де Генерат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:03:53 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:05:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504036261701 |
+| Players | 1/15 |
+| Host Name | A kid who lost his dreamS ! |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 18, 2023 12:06:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504034278688 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504035563470 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | voga |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:04:45 |
