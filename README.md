@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503997495140 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | I don`t care |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 10:43:28 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503996722203 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | tu culo es mi palacio |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:41:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503997561017 |
-| Players | 11/15 |
-| Host Name | Castling Pos 5 |
+| Lobby ID | 28566503996983070 |
+| Players | 7/24 |
+| Host Name | SuperChef |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 10:43:36 |
+| Lobby Creation Time | Monday, December 18, 2023 10:42:19 |
 
 
 |  | ot3_desert_octet |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503997675803 |
-| Players | 2/10 |
-| Host Name | LEON.' |
+| Players | 3/10 |
+| Host Name | Soulwarrior |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:43:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503996983070 |
-| Players | 8/24 |
-| Host Name | SuperChef |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 10:42:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503995387440 |
-| Players | 7/8 |
-| Host Name | Mi Chibolo Tete |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:38:49 |
 
 
 |  | epic_boss_fight_nightmare |
