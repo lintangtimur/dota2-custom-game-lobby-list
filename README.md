@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504109486851 |
-| Players | 5/24 |
-| Host Name | AJINOMEN PICANTEgiordota.com |
+| Players | 1/24 |
+| Host Name | fred |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 14:35:06 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504115893784 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | sonic |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 14:46:52 |
