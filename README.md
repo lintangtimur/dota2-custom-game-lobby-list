@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 07:58:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503920537224 |
-| Players | 22/24 |
-| Host Name | ™Slim Shady® |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 07:49:50 |
+| Lobby ID | 28566503924276672 |
+| Players | 12/15 |
+| Host Name | Eminencia -⚡ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:58:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503925314296 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Gampi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:00:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503925266474 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | аааааааааааааааа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 08:00:43 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:00:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503924276672 |
-| Players | 12/15 |
-| Host Name | Eminencia -⚡ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:58:24 |
 
 
 |  | epic_boss_fight_nightmare |
