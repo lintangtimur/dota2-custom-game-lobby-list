@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504034343172 |
-| Players | 9/10 |
-| Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 12:02:11 |
+| Lobby ID | 28566504035234771 |
+| Players | 1/10 |
+| Host Name | Ray |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 12:04:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Explosive Shot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:03:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504035234771 |
-| Players | 1/10 |
-| Host Name | Ray |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 12:04:04 |
 
 
 |  | epic_boss_fight_nightmare |
