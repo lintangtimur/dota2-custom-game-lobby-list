@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504086221720 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 13:50:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504092546920 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ЄXѺҬӉЄГӍіС |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 14:02:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504092510145 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Komm, süßer Tod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:02:41 |
@@ -74,12 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 14:05:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504094383966 |
+| Players | 1/8 |
+| Host Name | Кирюша Гвоздодер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 14:06:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504093696576 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | QWASZX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:04:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566504094368090 |
+| Players | 1/10 |
+| Host Name | SET |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 14:06:18 |
 
 
