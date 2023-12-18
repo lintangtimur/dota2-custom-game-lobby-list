@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504130754118 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | YoNi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 15:13:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504129380956 |
-| Players | 7/8 |
-| Host Name | Odinn |
+| Lobby ID | 28566504131071474 |
+| Players | 2/10 |
+| Host Name | Adorableあざ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:10:58 |
+| Lobby Creation Time | Monday, December 18, 2023 15:13:56 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504130615987 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | kura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:13:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504131071474 |
-| Players | 2/10 |
-| Host Name | Adorableあざ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:13:56 |
 
 
 |  | epic_boss_fight_nightmare |
