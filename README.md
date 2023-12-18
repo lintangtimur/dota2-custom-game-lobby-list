@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504164879347 |
-| Players | 1/10 |
-| Host Name | FILIPINAS SAD :c |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 16:12:47 |
+| Lobby ID | 28566504164290349 |
+| Players | 8/10 |
+| Host Name | МОРМЫШКА |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 16:11:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504165174543 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | SIGU |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 16:13:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504164716920 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Haktaru |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 16:12:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504163816147 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Setinder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 16:11:01 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 16:13:45 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504165718503 |
+| Players | 2/8 |
+| Host Name | Sakata Gintoki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 16:14:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504160349729 |
@@ -99,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bankai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:11:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566504165694004 |
+| Players | 1/5 |
+| Host Name | F13 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 16:14:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566504165726958 |
+| Players | 2/5 |
+| Host Name | Medjas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 16:14:12 |
 
 
