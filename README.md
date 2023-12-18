@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504143164700 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 15:35:13 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Leoric |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 16:08:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504159405965 |
-| Players | 14/15 |
-| Host Name | Conq |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 16:03:29 |
 
 
 |  | epic_boss_fight_nightmare |
