@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504095954489 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:09:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504097719105 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 알렉산드라 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 14:12:48 |
