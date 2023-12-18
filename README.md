@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503971557003 |
-| Players | 2/8 |
-| Host Name | 🅻🅾󠁳⁧⁧🆂🆃 |
+| Players | 4/8 |
+| Host Name | ABOBA BOY |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:46:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503971484033 |
-| Players | 12/15 |
-| Host Name | Tokio |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:45:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503973374642 |
-| Players | 1/10 |
-| Host Name | fedea_ctmr |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:50:04 |
 
 
 |  | ot3_gardens_duo |
@@ -54,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | анапамастер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 09:50:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503973374642 |
+| Players | 2/10 |
+| Host Name | fedea_ctmr |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 09:50:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503973482579 |
+| Players | 5/15 |
+| Host Name | PEGAME Y ESCUPEME |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 09:50:19 |
 
 
 |  | epic_boss_fight_nightmare |
