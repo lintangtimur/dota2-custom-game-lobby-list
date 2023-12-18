@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503919197440 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 07:46:47 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503919992893 |
-| Players | 7/10 |
-| Host Name | 타타형 |
+| Players | 6/10 |
+| Host Name | love yours |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:48:36 |
 
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Veni, Vidi, Vici |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:49:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503920703495 |
+| Players | 8/15 |
+| Host Name | Glue Sommelier |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 07:50:12 |
 
 
 |  | epic_boss_fight_nightmare |
