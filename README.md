@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 14:57:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504128636921 |
-| Players | 3/24 |
-| Host Name | 一度もない † |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 15:09:39 |
+| Lobby ID | 28566504129694059 |
+| Players | 2/10 |
+| Host Name | Карман-Травоман |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 15:11:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504129380956 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Odinn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:10:58 |
@@ -36,6 +36,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:06:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504129632316 |
+| Players | 1/15 |
+| Host Name | КОН ЧИ в меня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 15:11:23 |
 
 
 |  | epic_boss_fight_nightmare |
