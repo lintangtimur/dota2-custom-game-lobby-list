@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504094003320 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Misfortunes Enjoyer |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 14:05:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504096789202 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | полотенце |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 14:10:58 |
