@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 15:35:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504171515716 |
-| Players | 1/15 |
-| Host Name | Юра салярка |
+| Lobby ID | 28566504171556618 |
+| Players | 7/8 |
+| Host Name | лесной клещ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:23:57 |
+| Lobby Creation Time | Monday, December 18, 2023 16:24:01 |
 
 
 |  | ot3_desert_octet |
@@ -36,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | .. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:22:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504171556618 |
-| Players | 3/8 |
-| Host Name | лесной клещ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:24:01 |
 
 
 |  | epic_boss_fight_nightmare |
