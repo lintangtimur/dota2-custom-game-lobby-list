@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504059419100 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | YO ERICK JUANITO DE LA SISE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:55:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504059339184 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | gaston |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:55:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504060176550 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | vova CR7 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 12:56:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504060470978 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | 我爱伊芙琳娜 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 12:57:34 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:57:38 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504060523793 |
-| Players | 1/10 |
-| Host Name | Sleersy<3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 12:57:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504060528030 |
-| Players | 2/15 |
-| Host Name | SnuSnu |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 12:57:41 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504059885646 |
@@ -108,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | IA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:56:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504060528030 |
+| Players | 5/15 |
+| Host Name | SnuSnu |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 12:57:41 |
 
 
 |  | epic_boss_fight_nightmare |
