@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504008206639 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Lulala |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:06:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504010037594 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Emotional Damage |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 11:10:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504004848491 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Konch |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:59:28 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Szostak |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 11:09:07 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28566504010658234 |
+| Players | 1/7 |
+| Host Name | asta-labista-bebe |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 11:12:08 |
 
 
