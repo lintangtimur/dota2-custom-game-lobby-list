@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504089390392 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:56:32 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vells |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 13:57:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566504091076671 |
-| Players | 1/5 |
-| Host Name | Duckdeaths |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 13:59:52 |
 
 
