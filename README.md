@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504140178107 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Thanatos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:30:00 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 15:42:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504147673735 |
-| Players | 4/8 |
-| Host Name | Theinvincibleabsolutmotherfucker |
+| Lobby ID | 28566504147716698 |
+| Players | 14/15 |
+| Host Name | Дрочислав |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:43:05 |
+| Lobby Creation Time | Monday, December 18, 2023 15:43:10 |
 
 
 |  | ot3_desert_octet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:43:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504147716698 |
-| Players | 12/15 |
-| Host Name | Дрочислав |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:43:10 |
 
 
 |  | epic_boss_fight_nightmare |
