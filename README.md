@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503953003888 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:04:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503955803846 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | 76561198384951661 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:10:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503952513184 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | CDA- |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:03:18 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503955878318 |
-| Players | 6/24 |
-| Host Name | 地獄 |
+| Players | 2/24 |
+| Host Name | Billy the puppet |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:11:01 |
 
