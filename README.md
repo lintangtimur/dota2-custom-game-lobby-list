@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504017578913 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Heisen |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 11:26:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504017226105 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 11:26:08 |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 11:22:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504017682676 |
-| Players | 1/15 |
+| Lobby ID | 28566504017724349 |
+| Players | 1/10 |
+| Host Name | loving sonic <3 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 11:27:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504017769845 |
+| Players | 1/8 |
 | Host Name | El Zambo |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:27:06 |
+| Lobby Creation Time | Monday, December 18, 2023 11:27:16 |
 
 
 |  | epic_boss_fight_challenger |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Szostak |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 11:09:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566504015058299 |
-| Players | 9/10 |
-| Host Name | 喜欢短发的女生 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 11:21:31 |
 
 
