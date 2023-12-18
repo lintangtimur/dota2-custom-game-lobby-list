@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:46:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503898024385 |
-| Players | 7/8 |
-| Host Name | TRY TO BE THE BEST |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 06:59:51 |
+| Lobby ID | 28566503898150027 |
+| Players | 3/15 |
+| Host Name | jakou |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 07:00:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503897406396 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Do you feel? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 06:58:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503898272521 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Centauro Humala |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 07:00:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503898498323 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Lezginka Time™ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:00:53 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BLACK_DRAGON123 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 06:59:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503898150027 |
-| Players | 4/15 |
-| Host Name | jakou |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 07:00:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | rarikrarie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 06:55:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503898615407 |
+| Players | 3/5 |
+| Host Name | Krizeld lmL |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 07:01:08 |
 
 
