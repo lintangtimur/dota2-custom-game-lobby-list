@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503955369771 |
-| Players | 7/8 |
-| Host Name | Tokio |
+| Lobby ID | 28566503956093494 |
+| Players | 6/24 |
+| Host Name | 地獄 |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:09:50 |
+| Lobby Creation Time | Monday, December 18, 2023 09:11:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503953003888 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:04:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503948969844 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Elerne |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 08:55:15 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503955803846 |
-| Players | 5/15 |
-| Host Name | 76561198384951661 |
+| Players | 10/15 |
+| Host Name | GuS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:10:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503952513184 |
-| Players | 17/24 |
-| Host Name | CDA- |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 09:03:18 |
+| Lobby ID | 28566503955878318 |
+| Players | 1/24 |
+| Host Name | Billy the puppet |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 09:11:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503955671905 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | PIGMAN |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:10:33 |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503955729180 |
-| Players | 2/8 |
-| Host Name | فلادينير أغويلار سانشيز |
+| Lobby ID | 28566503955369771 |
+| Players | 7/8 |
+| Host Name | Roboteling |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:10:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503955878318 |
-| Players | 2/24 |
-| Host Name | Billy the puppet |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:11:01 |
+| Lobby Creation Time | Monday, December 18, 2023 09:09:50 |
 
 
 |  | epic_boss_fight_nightmare |
