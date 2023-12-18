@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504129632316 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | КОН ЧИ в меня |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:11:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504129380956 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Odinn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:10:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504127408938 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | KiJo |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 15:07:30 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:10:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566504129852319 |
-| Players | 1/5 |
-| Host Name | Агент Габена |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:11:45 |
 
 
