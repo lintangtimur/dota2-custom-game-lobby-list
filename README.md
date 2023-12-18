@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504174187991 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | God Mother |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:28:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504174311021 |
-| Players | 9/10 |
-| Host Name | Timmy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:28:32 |
 
 
 |  | epic_boss_fight_normal |
