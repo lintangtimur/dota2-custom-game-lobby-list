@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504143164700 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 15:35:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504154481373 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | what's happening |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:54:57 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Axe Тайсон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:54:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504155218391 |
-| Players | 4/8 |
-| Host Name | POWR |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 15:56:14 |
 
 
 |  | ot3_gardens_duo |
