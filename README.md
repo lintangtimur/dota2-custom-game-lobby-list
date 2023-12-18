@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 09:57:51 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503978182819 |
-| Players | 1/15 |
-| Host Name | fucking mickey |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 18, 2023 10:00:45 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503978164752 |
@@ -63,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:00:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503977130135 |
+| Players | 9/10 |
+| Host Name | rage mode |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 09:58:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503978352444 |
+| Players | 4/8 |
+| Host Name | Marttince |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:01:07 |
 
 
 |  | epic_boss_fight_challenger |
