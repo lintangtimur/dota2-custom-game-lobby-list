@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504109401096 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | MVRiCK- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:34:56 |
@@ -27,6 +27,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ghost Grave |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 14:37:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504111658273 |
+| Players | 1/15 |
+| Host Name | ScandaL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 14:39:08 |
 
 
 |  | epic_boss_fight_nightmare |
