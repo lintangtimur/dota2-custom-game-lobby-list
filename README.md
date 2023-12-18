@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503995058269 |
-| Players | 10/15 |
-| Host Name | Es un Elissir xD |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:38:06 |
+| Lobby ID | 28566503994725107 |
+| Players | 9/15 |
+| Host Name | папа_тут |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 10:37:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503994838416 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:37:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503991573618 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Kumiiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 10:30:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503994980425 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | S... |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:37:55 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503995105586 |
-| Players | 2/10 |
-| Host Name | orel 96.0 FM |
+| Players | 1/10 |
+| Host Name | плесень |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 10:38:12 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503995387440 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | WAJU LUJAN CARRION |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:38:49 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503995395573 |
-| Players | 6/24 |
+| Players | 15/24 |
 | Host Name | number one |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:38:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503995743243 |
+| Players | 3/8 |
+| Host Name | tu culo es mi palacio |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:39:36 |
 
 
 |  | epic_boss_fight_nightmare |
