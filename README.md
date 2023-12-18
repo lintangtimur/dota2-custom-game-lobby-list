@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28566504176730336 |
 | Players | 3/24 |
-| Host Name | ryan |
+| Host Name | ^^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:32:26 |
 
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504177113155 |
-| Players | 2/8 |
-| Host Name | Venua EpicLoot.in |
+| Players | 4/8 |
+| Host Name | Eqis |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 16:33:04 |
 
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lmfaowhocares™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:32:22 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28566504177097179 |
-| Players | 1/7 |
-| Host Name | SMASH KINGZ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 16:33:02 |
 
 
