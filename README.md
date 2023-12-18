@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 14:05:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504095674462 |
-| Players | 2/10 |
-| Host Name | xelA |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 14:08:51 |
+| Lobby ID | 28566504095720936 |
+| Players | 2/8 |
+| Host Name | ДОЕДАЛА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 14:08:57 |
 
 
 |  | epic_boss_fight_nightmare |
