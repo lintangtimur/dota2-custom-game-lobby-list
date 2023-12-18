@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504141952058 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | 佳佳 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:33:05 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 15:37:53 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566504140178107 |
-| Players | 23/24 |
-| Host Name | batman |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 15:30:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504144789548 |
-| Players | 4/15 |
-| Host Name | AJINOMEN PICANTEgiordota.com |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 15:38:03 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504144792173 |
@@ -90,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | пиздолиз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:38:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504144789548 |
+| Players | 3/15 |
+| Host Name | AJINOMEN PICANTEgiordota.com |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 15:38:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504144921924 |
+| Players | 1/15 |
+| Host Name | Cronus |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 15:38:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504141174692 |
+| Players | 14/15 |
+| Host Name | Feanor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 15:31:44 |
 
 
 |  | epic_boss_fight_nightmare |
