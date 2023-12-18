@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504072198382 |
-| Players | 3/15 |
-| Host Name | Nate Diaz |
+| Players | 2/15 |
+| Host Name | -Hg- Lelouch |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 13:21:41 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504072505175 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 13:22:17 |
@@ -38,19 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:19:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504072272403 |
-| Players | 14/15 |
-| Host Name | ХУŃ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 13:21:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504072794844 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | FCD.4F |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:22:53 |
@@ -58,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504073868741 |
-| Players | 1/15 |
-| Host Name | LehChanCullins |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 13:25:05 |
+| Lobby ID | 28566504074215805 |
+| Players | 5/15 |
+| Host Name | EnQQy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 13:25:47 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504073859510 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 13:25:03 |
