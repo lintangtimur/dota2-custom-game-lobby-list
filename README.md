@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504073032647 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 13:23:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504072198382 |
-| Players | 7/15 |
+| Players | 4/15 |
 | Host Name | Nate Diaz |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 13:21:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504072505175 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 13:22:17 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:19:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504072741619 |
-| Players | 9/10 |
-| Host Name | Arthas Menethil |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 13:22:46 |
+| Lobby ID | 28566504072272403 |
+| Players | 14/15 |
+| Host Name | ХУŃ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 13:21:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,28 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504072272403 |
-| Players | 12/15 |
-| Host Name | ХУŃ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 13:21:50 |
+| Lobby ID | 28566504073748729 |
+| Players | 1/15 |
+| Host Name | LehChanCullins |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 18, 2023 13:24:50 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504065419181 |
-| Players | 9/10 |
-| Host Name | Вася on the track |
+| Lobby ID | 28566504073751380 |
+| Players | 1/15 |
+| Host Name | BubbleTea |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, December 18, 2023 13:24:50 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28566504073764411 |
+| Players | 1/7 |
+| Host Name | Великий Xi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 13:07:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566504071541395 |
-| Players | 8/10 |
-| Host Name | Worr |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 13:20:20 |
+| Lobby Creation Time | Monday, December 18, 2023 13:24:52 |
 
 
