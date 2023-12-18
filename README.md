@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28566504090930752 |
 | Players | 4/10 |
-| Host Name | фанат сереги пира |
+| Host Name | TOMYK' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:59:35 |
 
@@ -41,16 +41,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504090318896 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Pasuk |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:58:22 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504091373205 |
+| Players | 4/8 |
+| Host Name | Я предал Христа |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 14:00:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504091463977 |
+| Players | 1/8 |
+| Host Name | Bajador de Pepa Profesional |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 14:00:38 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504089390392 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:56:32 |
