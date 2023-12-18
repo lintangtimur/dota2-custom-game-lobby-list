@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503960402567 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ×͜× |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 09:21:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503961492036 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | El MATT PERS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:23:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503958971913 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 09:17:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503962012046 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | DUKETO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:24:45 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503960593419 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | OrangeF_sH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:21:32 |
@@ -113,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503962336363 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | don.№1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 09:25:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503962445782 |
-| Players | 1/10 |
-| Host Name | Во мне котлета |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 09:25:43 |
 
 
