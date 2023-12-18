@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503992576017 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | FÁCIL |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:32:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503993007296 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | MinOs_Rulz |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:33:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503991834576 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:30:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503991797365 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | 【真紅】 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:30:54 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tensa Zangetsu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 10:35:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503994153064 |
+| Players | 5/8 |
+| Host Name | Enki |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:36:05 |
 
 
 |  | epic_boss_fight_nightmare |
