@@ -29,49 +29,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 15:58:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504154184731 |
-| Players | 20/24 |
-| Host Name | Bobe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 15:54:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504155981033 |
-| Players | 7/8 |
-| Host Name | пиздолиз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:57:33 |
+| Lobby ID | 28566504156829674 |
+| Players | 9/15 |
+| Host Name | Hoonicorn |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 15:59:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504156703543 |
 | Players | 3/10 |
-| Host Name | (9(( |
+| Host Name | Вася Залупкин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:58:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504156829674 |
-| Players | 5/15 |
-| Host Name | Hoonicorn |
+| Lobby ID | 28566504157390853 |
+| Players | 3/8 |
+| Host Name | MohnachRe banditcamp.com |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 15:59:00 |
+| Lobby Creation Time | Monday, December 18, 2023 15:59:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504156828749 |
-| Players | 1/15 |
-| Host Name | Fourkeststryfiretsukuomi |
+| Lobby ID | 28566504157397561 |
+| Players | 2/8 |
+| Host Name | йоу |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:59:00 |
+| Lobby Creation Time | Monday, December 18, 2023 15:59:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ZaZu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:54:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566504157260323 |
+| Players | 1/10 |
+| Host Name | Worr |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 15:59:44 |
 
 
