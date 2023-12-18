@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504008206639 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Lulala |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:06:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504006808636 |
-| Players | 23/24 |
-| Host Name | BEZDARNOST |
+| Lobby ID | 28566504008748070 |
+| Players | 1/15 |
+| Host Name | EL HOMBRE SIDA !! |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 11:03:45 |
+| Lobby Creation Time | Monday, December 18, 2023 11:07:58 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504002260342 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Vez Larkinson.. |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 10:53:45 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504007993289 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Sutensei (Depressed) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 11:06:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504002105403 |
-| Players | 22/24 |
-| Host Name | Taweret |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 10:53:24 |
+| Lobby ID | 28566504008270979 |
+| Players | 5/8 |
+| Host Name | ¿? |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 11:06:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,31 +92,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 11:06:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504008270979 |
-| Players | 4/8 |
-| Host Name | ¿? |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:06:56 |
+| Lobby ID | 28566504008870309 |
+| Players | 2/10 |
+| Host Name | alucard |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 11:08:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566504008874678 |
+| Players | 4/24 |
+| Host Name | SuperChef |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 11:08:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504008725212 |
+| Lobby ID | 28566504008867405 |
 | Players | 1/10 |
-| Host Name | alucard |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 11:07:55 |
+| Host Name | Soulwarrior |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 11:08:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504008748070 |
-| Players | 1/15 |
-| Host Name | EL HOMBRE SIDA !! |
+| Lobby ID | 28566504008876218 |
+| Players | 3/8 |
+| Host Name | M142 HIMARS |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 11:07:58 |
+| Lobby Creation Time | Monday, December 18, 2023 11:08:15 |
 
 
 |  | epic_boss_fight_nightmare |
