@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504055896965 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Rock.Baby.Rock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:48:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504056284386 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | æ Haku æ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:48:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504057232786 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Krypton |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 12:50:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504056701247 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | LET ME COOK |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 12:49:44 |
