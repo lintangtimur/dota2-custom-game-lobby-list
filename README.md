@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503909881705 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | who's |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:25:39 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503908333162 |
-| Players | 23/24 |
-| Host Name | Toodiesel |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 07:22:11 |
+| Lobby ID | 28566503910927444 |
+| Players | 3/24 |
+| Host Name | Power Ranger Plomo |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:28:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | major freya |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:27:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503910887243 |
+| Players | 1/24 |
+| Host Name | Vito |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:27:56 |
 
 
