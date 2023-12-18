@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503918452033 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | JIMMY (NO MERCY) |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:45:06 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503917636578 |
-| Players | 14/24 |
-| Host Name | JUEGO COMO QUIERO HJDPEERA |
+| Players | 16/24 |
+| Host Name | Comrade José |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:43:14 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503918695400 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | CyberJesus |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:45:39 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sadpk |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:45:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503918876955 |
+| Players | 1/5 |
+| Host Name | pinguinul26.TTV |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 07:46:04 |
 
 
