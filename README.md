@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504059901059 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 12:56:23 |
@@ -77,28 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504061113978 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | (QuiT)Chicken_Murderer |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 12:58:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504061409540 |
-| Players | 7/8 |
-| Host Name | ?LuCkY_F0R_EvER? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 12:59:30 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504061600916 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Barikkel |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 12:59:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504061792492 |
+| Players | 1/8 |
+| Host Name | Быдло |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 18, 2023 13:00:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Numd |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:00:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566504061805238 |
+| Players | 2/10 |
+| Host Name | 丸子大魔王. |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Monday, December 18, 2023 13:00:19 |
 
 
