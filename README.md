@@ -47,40 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 11:15:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504005785088 |
-| Players | 23/24 |
-| Host Name | El Maldito Tedy |
+| Lobby ID | 28566504012970040 |
+| Players | 3/10 |
+| Host Name | Angel |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:01:31 |
+| Lobby Creation Time | Monday, December 18, 2023 11:17:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504012481474 |
-| Players | 10/15 |
-| Host Name | McDi |
+| Players | 13/15 |
+| Host Name | Beer Master |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 11:16:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504012787944 |
-| Players | 1/8 |
-| Host Name | el MACHO |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 11:16:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504012970040 |
-| Players | 1/10 |
-| Host Name | Angel |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:17:05 |
 
 
 |  | epic_boss_fight_challenger |
