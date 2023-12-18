@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503875783718 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | 13 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503928218567 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | ZZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:07:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503944982013 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:46:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503944450375 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Lipnoss |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:44:58 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | فلادينير أغويلار سانشيز |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:46:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503944350124 |
-| Players | 7/8 |
-| Host Name | sunt vigilantes |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 08:44:44 |
 
 
 |  | epic_boss_fight_nightmare |
