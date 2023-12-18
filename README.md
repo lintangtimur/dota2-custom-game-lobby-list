@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503966272103 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | >.< |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:34:07 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503962088290 |
-| Players | 3/8 |
-| Host Name | Oppenheimer |
+| Players | 2/8 |
+| Host Name | paracetamol |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:24:55 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503966064734 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | mantisoficial |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 09:33:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503966072331 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Shasther |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:33:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503966188386 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:33:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503966540205 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Interpol |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 09:34:44 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 09:34:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503966634674 |
-| Players | 3/8 |
-| Host Name | BABUINO |
+| Lobby ID | 28566503966644563 |
+| Players | 2/10 |
+| Host Name | RUSMoon |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 09:34:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503963340545 |
+| Players | 23/24 |
+| Host Name | Perro chusco |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:34:57 |
+| Lobby Creation Time | Monday, December 18, 2023 09:27:41 |
 
 
 |  | epic_boss_fight_nightmare |
