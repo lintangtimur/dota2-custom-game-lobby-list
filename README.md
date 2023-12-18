@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504091463977 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Bajador de Pepa Profesional |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 14:00:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504086221720 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 13:50:16 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 14:03:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504092998015 |
-| Players | 2/10 |
-| Host Name | Q |
+| Lobby ID | 28566504093268602 |
+| Players | 3/8 |
+| Host Name | MILES |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 14:03:38 |
+| Lobby Creation Time | Monday, December 18, 2023 14:04:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504089988863 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Vells |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 13:57:43 |
