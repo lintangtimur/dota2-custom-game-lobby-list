@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503909956347 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | AdmiralButters |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:25:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503909927593 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Sleyer666 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:25:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503909412360 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | El Yuki |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:24:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503909881705 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | who's |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:25:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503908333162 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Toodiesel |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:22:11 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503907844583 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | #VOLTA CHIMVOC - CHIMBAS NO DS |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 07:21:06 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503910495984 |
+| Players | 5/10 |
+| Host Name | Bitch, I'm Already Dead |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 07:27:04 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503910474838 |
-| Players | 2/8 |
-| Host Name | ShadowStorm |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:27:00 |
+| Lobby ID | 28566503910498214 |
+| Players | 3/8 |
+| Host Name | Scotford |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 07:27:04 |
 
 
 |  | epic_boss_fight_nightmare |
