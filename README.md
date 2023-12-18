@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504073032647 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 13:23:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504080773408 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Ky6a³♫ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:39:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504077730305 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | cascanueces2012 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 13:32:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504080199275 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Cago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:37:57 |
