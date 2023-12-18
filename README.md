@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504036533438 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | gato con tabas |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:06:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504036741976 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Krypton |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 12:07:15 |
