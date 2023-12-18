@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504045033469 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | mel |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:24:45 |
@@ -58,18 +58,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504045311924 |
-| Players | 7/8 |
-| Host Name | 雨の中で生まれた |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 12:25:21 |
+| Lobby ID | 28566504046597368 |
+| Players | 6/8 |
+| Host Name | Krypton |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 12:28:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504046036288 |
-| Players | 5/15 |
-| Host Name | Hasta que el b/ga sea campeon |
+| Players | 4/15 |
+| Host Name | ТАТАРИАНЕЦ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 12:26:54 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504045723498 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Watermelon Sugar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:26:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504045746463 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:26:17 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504046286262 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | again lost time |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:27:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504046597368 |
-| Players | 6/8 |
-| Host Name | Krypton |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 12:28:06 |
 
 
 |  | epic_boss_fight_nightmare |
