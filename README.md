@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 08:07:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503941318935 |
-| Players | 9/10 |
-| Host Name | »Rewrite] |
+| Lobby ID | 28566503941728416 |
+| Players | 2/8 |
+| Host Name | POISON |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:37:44 |
+| Lobby Creation Time | Monday, December 18, 2023 08:38:42 |
 
 
 |  | ot3_desert_octet |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Саня Белый prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 08:38:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503941728416 |
-| Players | 2/8 |
-| Host Name | POISON |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:38:42 |
 
 
 |  | epic_boss_fight_nightmare |
