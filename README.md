@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503959724201 |
-| Players | 14/15 |
-| Host Name | Zer0 |
+| Lobby ID | 28566503961230691 |
+| Players | 7/15 |
+| Host Name | PEGAME Y ESCUPEME |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:19:36 |
+| Lobby Creation Time | Monday, December 18, 2023 09:22:58 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503958318147 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | viejafobico |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 09:16:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503960397823 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Mr.MiM |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 09:21:06 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503960402567 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ×͜× |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 09:21:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503961168958 |
-| Players | 2/8 |
-| Host Name | Arrombamento |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 09:22:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503961230691 |
-| Players | 5/15 |
-| Host Name | PEGAME Y ESCUPEME |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:22:58 |
 
 
 |  | epic_boss_fight_nightmare |
