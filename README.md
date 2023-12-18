@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 09:51:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503971077814 |
-| Players | 23/24 |
-| Host Name | ไอ้หมวก4 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 09:44:59 |
+| Lobby ID | 28566503974767808 |
+| Players | 5/8 |
+| Host Name | LordValdomero |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 09:53:05 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503973390112 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | анапамастер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 09:50:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503973374642 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | fedea_ctmr |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:50:04 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 09:53:01 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503974767808 |
-| Players | 5/8 |
-| Host Name | LordValdomero |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 09:53:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503971995068 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 1-2-3-4-5 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:47:02 |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | =( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 09:42:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566503974794848 |
-| Players | 2/5 |
-| Host Name | qhzzz |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 09:53:09 |
 
 
