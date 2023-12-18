@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504041923303 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | Sband_Mirand |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:18:03 |
@@ -22,18 +22,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504042690493 |
-| Players | 4/15 |
-| Host Name | Neko |
+| Lobby ID | 28566504042914342 |
+| Players | 3/15 |
+| Host Name | Draken |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 12:19:42 |
+| Lobby Creation Time | Monday, December 18, 2023 12:20:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504041445728 |
-| Players | 5/15 |
-| Host Name | 别杀了！别杀了！！ |
+| Players | 1/15 |
+| Host Name | GG |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 12:17:06 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504040580590 |
-| Players | 14/24 |
+| Players | 11/24 |
 | Host Name | Coninho Brazuca |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 12:15:18 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:16:23 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504042637666 |
-| Players | 3/15 |
-| Host Name | .neff |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 12:19:35 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504042565590 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | yujiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:19:26 |
@@ -85,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504042914342 |
-| Players | 3/15 |
-| Host Name | Draken |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 12:20:11 |
+| Lobby ID | 28566504043236444 |
+| Players | 1/15 |
+| Host Name |  |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 12:20:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504040124297 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Aria |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 12:14:21 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:12:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566504043217454 |
+| Players | 1/10 |
+| Host Name | 年轻人不气盛叫年轻人吗 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, December 18, 2023 12:20:51 |
 
 
