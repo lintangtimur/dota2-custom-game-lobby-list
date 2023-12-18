@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:19:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504092546920 |
-| Players | 12/15 |
-| Host Name | ЄXѺҬӉЄГӍіС |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 14:02:45 |
+| Lobby ID | 28566504094383966 |
+| Players | 1/8 |
+| Host Name | это второй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 14:06:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504092510145 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Komm, süßer Tod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:02:41 |
@@ -68,36 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504094107275 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:05:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504094383966 |
-| Players | 1/8 |
-| Host Name | Кирюша Гвоздодер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 14:06:20 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566504093696576 |
-| Players | 8/10 |
-| Host Name | QWASZX |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 14:04:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566504094368090 |
+| Lobby ID | 28566504094575869 |
 | Players | 1/10 |
 | Host Name | SET |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 14:06:18 |
+| Lobby Creation Time | Monday, December 18, 2023 14:06:43 |
 
 
