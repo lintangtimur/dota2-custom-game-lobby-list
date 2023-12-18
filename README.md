@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504086221720 |
-| Players | 6/8 |
-| Host Name | Chris |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 13:50:16 |
+| Lobby ID | 28566504091463977 |
+| Players | 7/8 |
+| Host Name | Bajador de Pepa Profesional |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 14:00:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504098702372 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | ABOBA BOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:14:44 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 14:12:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504091463977 |
-| Players | 7/8 |
-| Host Name | Bajador de Pepa Profesional |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 14:00:38 |
+| Lobby ID | 28566504099934015 |
+| Players | 6/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 14:17:06 |
 
 
 |  | epic_boss_fight_nightmare |
