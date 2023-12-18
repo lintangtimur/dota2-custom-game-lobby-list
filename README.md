@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503928218567 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | ZZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:07:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503947472211 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | MoonRay |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:51:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503944960168 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | . |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 08:46:07 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 泰米尔语 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 08:51:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503947477963 |
-| Players | 19/24 |
-| Host Name | John Pork |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:51:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503947125152 |
-| Players | 6/10 |
-| Host Name | SALAMANDER_KING |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 08:51:01 |
 
 
 |  | epic_boss_fight_nightmare |
