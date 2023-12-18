@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504021020212 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | .I.PELADA ARMY.I. |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 11:33:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504021547125 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:35:03 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 11:38:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504022179393 |
-| Players | 7/8 |
-| Host Name | Dereck Zoolander. |
+| Lobby ID | 28566504025055552 |
+| Players | 2/10 |
+| Host Name | Misho |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:36:21 |
+| Lobby Creation Time | Monday, December 18, 2023 11:42:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504023309949 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Jin |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:38:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504023370560 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Hecker |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 11:38:50 |
@@ -77,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504024033098 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | McDi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 11:40:16 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504022873861 |
-| Players | 7/10 |
-| Host Name | Daee |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 11:37:47 |
+| Lobby ID | 28566504025292641 |
+| Players | 1/8 |
+| Host Name | Я предал Христа |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 11:42:54 |
 
 
