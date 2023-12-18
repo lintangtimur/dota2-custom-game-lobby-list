@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504022277363 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ewyang |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 11:36:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504017934303 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 20 y.o абсолют v potoke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 11:27:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504022179393 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:36:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504022469273 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Art Vandelay |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 11:36:57 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504021167215 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | myclauss! |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:34:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504022433535 |
-| Players | 1/15 |
-| Host Name | TRY TO BE THE BEST |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 11:36:52 |
 
 
 |  | epic_boss_fight_nightmare |
