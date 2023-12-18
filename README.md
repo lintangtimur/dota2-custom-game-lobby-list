@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 15:35:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504165461535 |
-| Players | 9/10 |
-| Host Name | Kano |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:13:45 |
+| Lobby ID | 28566504166676297 |
+| Players | 1/15 |
+| Host Name | Julian Cenidoza (Bisakol Slayer) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 16:15:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504166107758 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | 11111111111111111111111111111111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 16:14:51 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Бэйк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 16:15:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504166676297 |
-| Players | 1/15 |
-| Host Name | Julian Cenidoza (Bisakol Slayer) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 16:15:48 |
 
 
 |  | epic_boss_fight_nightmare |
