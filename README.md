@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504002877337 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | th@n@tos |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:55:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504003330768 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:56:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504000742009 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | sape2195 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, December 18, 2023 10:50:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504003058462 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 10:55:30 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 10:55:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504003059520 |
-| Players | 2/15 |
-| Host Name | 巴韭特 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 10:55:30 |
+| Lobby ID | 28566504003345977 |
+| Players | 1/8 |
+| Host Name | BABYBARA |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:56:08 |
 
 
 |  | ot3_desert_octet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 10:55:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504003345977 |
-| Players | 1/8 |
-| Host Name | BABYBARA |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:56:08 |
+| Lobby ID | 28566504003445464 |
+| Players | 2/10 |
+| Host Name | rage mode |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 10:56:21 |
 
 
 |  | epic_boss_fight_nightmare |
