@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503941652343 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Solo juego con pingones |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:38:31 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 08:28:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503941151086 |
-| Players | 14/15 |
-| Host Name | poopman (FORTNITE) |
+| Lobby ID | 28566503942391892 |
+| Players | 2/10 |
+| Host Name | Full-Time Griefer |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 08:37:20 |
+| Lobby Creation Time | Monday, December 18, 2023 08:40:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503941321019 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Dam |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 08:37:45 |
@@ -101,10 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 08:39:58 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503941318935 |
+| Players | 9/10 |
+| Host Name | »Rewrite] |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 08:37:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503942412780 |
+| Players | 1/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 08:40:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503940899230 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Mi Betchi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 08:36:45 |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503942252256 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CokCokCokCokCok |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:39:54 |
