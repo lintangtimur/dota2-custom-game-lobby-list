@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503903689889 |
-| Players | 23/24 |
-| Host Name | Potatoes gonna potate! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 07:12:03 |
+| Lobby ID | 28566503907844583 |
+| Players | 2/24 |
+| Host Name | #VOLTA CHIMVOC - CHIMBAS NO DS |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 07:21:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503907490065 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | За Орду!!! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:20:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503907765497 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | No life |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:20:55 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 平 -  E=MC2 - 平 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:15:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503907860926 |
+| Players | 2/10 |
+| Host Name | pok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 07:21:08 |
 
 
 |  | epic_boss_fight_nightmare |
