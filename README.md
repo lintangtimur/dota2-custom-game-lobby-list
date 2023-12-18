@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503926956867 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 08:04:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503931363904 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:14:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503932134604 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:16:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503931212836 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Полосатый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 08:14:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503932066371 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Red-Eyes Black Dragon |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:16:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503928218567 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:07:38 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lina paucar |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:17:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503932514180 |
+| Players | 4/10 |
+| Host Name | Janix |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 08:17:24 |
 
 
