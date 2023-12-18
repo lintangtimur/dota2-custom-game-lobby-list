@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504043599435 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | mr darkness |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 12:21:39 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:19:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504050301397 |
-| Players | 13/15 |
-| Host Name | 我爱伊芙琳娜 |
+| Lobby ID | 28566504051209957 |
+| Players | 1/10 |
+| Host Name | Пиносол |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 12:36:02 |
+| Lobby Creation Time | Monday, December 18, 2023 12:38:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504050690107 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:36:52 |
@@ -117,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jalan el leoncito |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:37:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504051209957 |
-| Players | 1/10 |
-| Host Name | Пиносол |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 12:38:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566504051236416 |
-| Players | 1/5 |
-| Host Name | atopic |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 12:38:04 |
 
 
