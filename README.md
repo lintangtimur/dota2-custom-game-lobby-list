@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504317776574 |
-| Players | 2/8 |
-| Host Name | Pinaikot, nilaro, pinasayaw |
+| Players | 1/8 |
+| Host Name | kyasu |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 19:34:06 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504316919441 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | ga |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 19:33:14 |
@@ -31,46 +31,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504313962071 |
-| Players | 6/8 |
-| Host Name | Teikos` |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 19:30:20 |
+| Lobby ID | 28566504319149786 |
+| Players | 4/8 |
+| Host Name | Евген |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 19:35:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504315693457 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | FeelMyPain |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 19:32:02 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504318191490 |
-| Players | 13/15 |
-| Host Name | dissembler |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 19:34:31 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504318473947 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | СОЛЕВАР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 19:34:48 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504318546049 |
-| Players | 1/5 |
+| Lobby ID | 28566504318761839 |
+| Players | 10/24 |
+| Host Name | 大炮 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 19:35:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504319287794 |
+| Players | 11/15 |
+| Host Name | ishach`e |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 19:35:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566504319543448 |
+| Players | 1/10 |
 | Host Name | АНАЛЬНАЯ ЖИЖА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 19:34:53 |
+| Lobby Creation Time | Monday, December 18, 2023 19:35:54 |
 
 
