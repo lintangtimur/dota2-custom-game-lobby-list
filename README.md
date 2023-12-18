@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504035159504 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 热水？渣男? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:03:54 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | A kid who lost his dreamS ! |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 18, 2023 12:06:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504036741976 |
+| Players | 4/8 |
+| Host Name | Krypton |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 12:07:15 |
 
 
 |  | epic_boss_fight_nightmare |
