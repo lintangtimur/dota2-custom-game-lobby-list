@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503928218567 |
-| Players | 9/24 |
+| Players | 6/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:07:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503937038325 |
-| Players | 13/24 |
-| Host Name | Avena 3 Ursitas |
+| Lobby ID | 28566503937662557 |
+| Players | 5/10 |
+| Host Name | TOGA |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:27:52 |
+| Lobby Creation Time | Monday, December 18, 2023 08:29:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503937306235 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:28:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503936578693 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Yume |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 08:26:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503937215489 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Papituuu |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 08:28:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503937322511 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 08:28:33 |
@@ -76,10 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503937662557 |
-| Players | 2/10 |
-| Host Name | TOGA |
+| Lobby ID | 28566503937817428 |
+| Players | 1/10 |
+| Host Name | Error.On.Fire.xD |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 08:29:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503937824859 |
+| Players | 3/24 |
+| Host Name | ZENAKU |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:29:20 |
+| Lobby Creation Time | Monday, December 18, 2023 08:29:43 |
 
 
