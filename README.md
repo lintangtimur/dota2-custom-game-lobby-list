@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503976659453 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | El MATT PERS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:57:20 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503976248127 |
-| Players | 5/8 |
-| Host Name | BenDeR |
+| Players | 4/8 |
+| Host Name | KW |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:56:25 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503976683580 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | NANDITO (U) GRONE TLV ROJINEGRO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:57:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503976891310 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Potato-sama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:57:51 |
