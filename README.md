@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504095954489 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:09:23 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504097662471 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | hikikomori |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:12:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504098378501 |
+| Players | 1/15 |
+| Host Name | 9mm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 14:14:05 |
 
 
 |  | epic_boss_fight_nightmare |
