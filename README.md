@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504079310091 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | PIDROгидар |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:36:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504077254880 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Surprize mother farker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 13:31:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504080199275 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | балдымалдыбар |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:37:57 |
