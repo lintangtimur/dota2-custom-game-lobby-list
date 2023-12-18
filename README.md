@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504026081004 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | 8 |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 11:44:35 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504027816827 |
-| Players | 1/15 |
-| Host Name | Deth_Man |
+| Players | 2/15 |
+| Host Name | Luis Toto Caputo |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 11:48:18 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504023078088 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:38:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504026827397 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Абдур |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 11:46:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504027168619 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | PinguinoParador |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:46:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504027908035 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | LET ME COOK |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 11:48:30 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504027779066 |
-| Players | 21/24 |
-| Host Name | ✪ @CJ sAvi0r |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:48:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504028249788 |
-| Players | 1/8 |
-| Host Name | Серуми |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 11:49:14 |
+| Lobby ID | 28566504028438105 |
+| Players | 1/24 |
+| Host Name | BladeBlack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 11:49:38 |
 
 
 |  | epic_boss_fight_nightmare |
