@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503983273038 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | aea |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:11:55 |
@@ -47,46 +47,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 10:11:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503983992091 |
-| Players | 2/8 |
-| Host Name | ไอ้หมวก4 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 10:13:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503983738037 |
-| Players | 4/24 |
-| Host Name | Top Knot.Maeghan |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 10:12:57 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503983969618 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | drownecro23 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:13:29 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503983738037 |
+| Players | 3/24 |
+| Host Name | Top Knot.Maeghan |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 18, 2023 10:12:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503984174984 |
+| Players | 1/15 |
+| Host Name | <Булочка с маком> |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 10:13:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503984176510 |
+| Players | 1/15 |
+| Host Name | cliché |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:13:55 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503984129986 |
-| Players | 4/8 |
-| Host Name | NONOSATORU |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:13:48 |
+| Lobby ID | 28566503984196915 |
+| Players | 1/8 |
+| Host Name | ◥►-◄◤ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 10:13:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503984220493 |
+| Players | 2/24 |
+| Host Name | ไอ้หมวก4 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 10:14:01 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566503983845922 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Привет,Андрей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 10:13:12 |
