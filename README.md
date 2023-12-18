@@ -14,73 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503928218567 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ^^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:07:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503943713768 |
-| Players | 6/8 |
-| Host Name | Lanaya |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 08:43:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503943240946 |
-| Players | 4/10 |
-| Host Name | BUTI SITO-LINDO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:42:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503943827878 |
-| Players | 6/10 |
-| Host Name | RUSMoon |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 08:43:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503942412780 |
-| Players | 19/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:40:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503937322511 |
-| Players | 2/24 |
-| Host Name | Potatoes gonna potate! |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 08:28:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503942989084 |
-| Players | 5/15 |
-| Host Name | Tokio |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:41:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503942391892 |
-| Players | 4/10 |
-| Host Name | Full-Time Griefer |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 08:40:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,6 +27,78 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | UP |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:43:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503943240946 |
+| Players | 9/10 |
+| Host Name | BUTI SITO-LINDO |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 08:42:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503943827878 |
+| Players | 7/10 |
+| Host Name | RUSMoon |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 08:43:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503942412780 |
+| Players | 23/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 08:40:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503937322511 |
+| Players | 1/24 |
+| Host Name | Potatoes gonna potate! |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 08:28:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503944268761 |
+| Players | 4/8 |
+| Host Name | Tokio |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 08:44:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503942391892 |
+| Players | 2/10 |
+| Host Name | Full-Time Griefer |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 08:40:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503944271437 |
+| Players | 2/10 |
+| Host Name | STEW |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 08:44:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503944350124 |
+| Players | 2/8 |
+| Host Name | sunt vigilantes |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 08:44:44 |
 
 
 |  | epic_boss_fight_nightmare |
