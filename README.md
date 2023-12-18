@@ -22,38 +22,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504147092254 |
-| Players | 4/8 |
-| Host Name | 4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:42:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504146168077 |
-| Players | 8/15 |
-| Host Name | Oger |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 15:40:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28566504146638672 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | джунгарик̸ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:41:17 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504146168077 |
+| Players | 11/15 |
+| Host Name | Oger |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 15:40:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504147236003 |
+| Players | 2/10 |
+| Host Name | niotartnecnoC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 15:42:19 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504147142443 |
+| Lobby ID | 28566504147311823 |
 | Players | 1/24 |
 | Host Name | 27 YEAR STILL VIRGIN |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 15:42:09 |
+| Lobby Creation Time | Monday, December 18, 2023 15:42:26 |
 
 
 |  | epic_boss_fight_nightmare |
