@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503951656883 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:01:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503952311093 |
-| Players | 1/15 |
-| Host Name | Zhak |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 09:02:51 |
+| Lobby ID | 28566503952436521 |
+| Players | 2/24 |
+| Host Name | Leite |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 09:03:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503944046003 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:44:03 |
@@ -58,19 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566503950242173 |
-| Players | 8/10 |
-| Host Name | Mi Betchi |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 08:58:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28566503951191534 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Во мне котлета |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 09:00:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503952449703 |
+| Players | 1/5 |
+| Host Name | Nenex1993 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 09:03:09 |
 
 
