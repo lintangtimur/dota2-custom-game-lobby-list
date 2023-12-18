@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503978474228 |
-| Players | 6/8 |
-| Host Name | Marcello |
+| Players | 2/8 |
+| Host Name | 281-330-8004 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:01:23 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503981368355 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:07:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503981708884 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Versatilius |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:08:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503976891310 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:57:51 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503981887348 |
-| Players | 9/10 |
-| Host Name | orel 96.0 FM |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 10:08:54 |
+| Lobby ID | 28566503983017368 |
+| Players | 2/10 |
+| Host Name | el humilde |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:11:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503982238328 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Trell |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:09:40 |
@@ -68,27 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503982984278 |
-| Players | 5/8 |
-| Host Name | Spɩɗɘʀɱʌŋ |
+| Players | 4/8 |
+| Host Name | 戀•ᴀssᴀsɪɴ•戀 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:11:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503983119018 |
+| Players | 3/10 |
+| Host Name | marcelin |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 10:11:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503983196638 |
+| Players | 5/8 |
+| Host Name | Marcello |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:11:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503983273038 |
+| Players | 2/10 |
+| Host Name | aea |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:11:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503982582609 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Han Jee-han  한 지한 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 10:10:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566503982973000 |
-| Players | 1/5 |
-| Host Name | RUDE |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 10:11:16 |
 
 
