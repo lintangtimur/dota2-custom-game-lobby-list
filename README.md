@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503925266474 |
-| Players | 14/15 |
-| Host Name | аааааааааааааааа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 08:00:43 |
+| Lobby ID | 28566503926292275 |
+| Players | 1/15 |
+| Host Name | TONY PARRY |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 08:03:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503926150757 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Madaru4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 08:02:46 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gampi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:03:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503926292275 |
-| Players | 1/15 |
-| Host Name | TONY PARRY |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:03:06 |
 
 
 |  | epic_boss_fight_nightmare |
