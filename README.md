@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504141174692 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Feanor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:31:44 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504142762776 |
-| Players | 2/8 |
-| Host Name | Kak tak |
+| Players | 1/8 |
+| Host Name | ятоксик+критик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:34:30 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504141734041 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Strong Woman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:32:42 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KiJo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:33:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566504142233923 |
-| Players | 2/5 |
-| Host Name | НЕТ ЧТО-ЛИ ? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:33:35 |
 
 
