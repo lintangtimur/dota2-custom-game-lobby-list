@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504016683541 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | mEMORY |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:24:58 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504013893449 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Berserk Mode |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 11:19:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504015445702 |
-| Players | 7/8 |
-| Host Name | Tai Lung |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 11:22:19 |
+| Lobby ID | 28566504017226105 |
+| Players | 1/24 |
+| Host Name | Dayman, Fighter of the Nightman |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 11:26:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504015151650 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | .hippo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 11:21:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504016346943 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | .: XV :.. |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:24:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504013417970 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Scrreeww |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:18:02 |
