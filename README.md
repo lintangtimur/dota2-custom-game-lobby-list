@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504008206639 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Lulala |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:06:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504010037594 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Emotional Damage |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 11:10:50 |
