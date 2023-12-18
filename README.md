@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504055896965 |
-| Players | 21/24 |
-| Host Name | Rock.Baby.Rock |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 12:48:02 |
+| Lobby ID | 28566504059930344 |
+| Players | 1/8 |
+| Host Name | QueFueMano? |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 12:56:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504059419100 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | YO ERICK JUANITO DE LA SISE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:55:24 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504059339184 |
-| Players | 3/24 |
-| Host Name | Jomax-sam |
+| Players | 4/24 |
+| Host Name | gaston |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:55:14 |
 
@@ -45,6 +45,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 12:19:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504059885646 |
+| Players | 3/8 |
+| Host Name | IA |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 12:56:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566504059901059 |
+| Players | 1/24 |
+| Host Name | BKBB |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 12:56:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504060176550 |
+| Players | 1/8 |
+| Host Name | vova CR7 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 12:56:57 |
 
 
 |  | epic_boss_fight_nightmare |
