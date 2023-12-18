@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504130754118 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | YoNi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 15:13:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504131071474 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Adorableあざ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:13:56 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504130615987 |
-| Players | 9/15 |
-| Host Name | kura |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:13:08 |
+| Lobby ID | 28566504131629157 |
+| Players | 1/15 |
+| Host Name | Lord Tolkien |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 15:14:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504127408938 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | KiJo |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 15:07:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504128811691 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 山上徹也 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:09:58 |
@@ -76,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28566504129162815 |
+| Lobby ID | 28566504131473824 |
 | Players | 1/5 |
-| Host Name | ShELkaCh |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 15:10:35 |
+| Host Name | IDGAF |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 15:14:39 |
 
 
