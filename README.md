@@ -22,47 +22,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504157904542 |
-| Players | 9/15 |
-| Host Name | JS |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 16:00:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504157952635 |
-| Players | 3/8 |
-| Host Name | AJINOMEN PICANTEgiordota.com |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 16:00:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504157841157 |
-| Players | 3/8 |
-| Host Name | Xellest |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:00:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504158260580 |
-| Players | 1/8 |
-| Host Name | Drakalian the Dragon King |
+| Lobby ID | 28566504158489696 |
+| Players | 2/15 |
+| Host Name | Cronus |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 16:01:28 |
+| Lobby Creation Time | Monday, December 18, 2023 16:01:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504158247613 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Boy's a liar |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 16:01:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504158422745 |
+| Players | 3/8 |
+| Host Name | last dance |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 16:01:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504157575912 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Worr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:00:17 |
