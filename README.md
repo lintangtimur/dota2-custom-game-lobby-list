@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504036741976 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Krypton |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 12:07:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504034893523 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | viejafobico |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:03:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504036533438 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | gato con tabas |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:06:49 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:02:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504036073192 |
-| Players | 1/8 |
-| Host Name | ABOBA BOY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 12:05:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504036261701 |
-| Players | 1/15 |
-| Host Name | A kid who lost his dreamS ! |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 18, 2023 12:06:14 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504037176106 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504037319699 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:08:29 |
