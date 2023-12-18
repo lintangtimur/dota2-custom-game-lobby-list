@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503964862733 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | D ø a |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:31:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503963022331 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:26:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503963340545 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Perro chusco |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:27:41 |
@@ -83,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 09:32:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503964693622 |
-| Players | 8/10 |
-| Host Name | FAN DE EG DEL 2015😡 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:30:41 |
+| Lobby ID | 28566503965743316 |
+| Players | 1/8 |
+| Host Name | Kawazaki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 09:32:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28566503960593419 |
-| Players | 8/10 |
-| Host Name | OrangeF_sH |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 09:21:32 |
+| Lobby ID | 28566503965775808 |
+| Players | 3/5 |
+| Host Name | Jumping Jerry |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 18, 2023 09:33:01 |
 
 
