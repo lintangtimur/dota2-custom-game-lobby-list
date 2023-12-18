@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504119780838 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Silky Johnson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:53:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504120234706 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | oniqzone- |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 14:54:42 |
@@ -56,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 14:55:59 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504117890928 |
-| Players | 8/10 |
-| Host Name | biubiubiup |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 14:50:31 |
+| Lobby ID | 28566504121105388 |
+| Players | 1/8 |
+| Host Name | Bajador de Pepa Profesional |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 14:56:16 |
 
 
