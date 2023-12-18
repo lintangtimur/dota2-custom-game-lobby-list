@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504175660672 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | .neff |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 16:30:43 |
@@ -31,29 +31,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504175774175 |
-| Players | 1/8 |
-| Host Name | Haishon |
+| Lobby ID | 28566504176120321 |
+| Players | 2/8 |
+| Host Name | SIGU |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:30:54 |
+| Lobby Creation Time | Monday, December 18, 2023 16:31:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504174187991 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | God Mother |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:28:20 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504176268205 |
+| Players | 1/15 |
+| Host Name | Haktaru |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 16:31:42 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504176120321 |
-| Players | 1/8 |
-| Host Name | SIGU |
+| Lobby ID | 28566504176314809 |
+| Players | 4/8 |
+| Host Name | viper не говорят yeei |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:31:28 |
+| Lobby Creation Time | Monday, December 18, 2023 16:31:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504174349853 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | DEVIL MAY CUM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:28:36 |
