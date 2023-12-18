@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504119780838 |
-| Players | 3/24 |
-| Host Name | lone wolf |
+| Players | 2/24 |
+| Host Name | Silky Johnson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:53:54 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504119273585 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Streetstazi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:52:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504120031770 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Haktaru |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 14:54:21 |
