@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503916459028 |
-| Players | 8/15 |
-| Host Name | el comunismo |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:40:34 |
+| Lobby ID | 28566503917071448 |
+| Players | 1/15 |
+| Host Name | the fall of the usher house |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 07:41:56 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503916285389 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Cpt. Moist Panties |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:40:09 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zxc csgetto.app |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:41:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503917071448 |
-| Players | 1/15 |
-| Host Name | the fall of the usher house |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 07:41:56 |
 
 
 |  | epic_boss_fight_nightmare |
