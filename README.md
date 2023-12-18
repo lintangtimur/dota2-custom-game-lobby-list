@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504059419100 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | YO ERICK JUANITO DE LA SISE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:55:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504061113978 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | (QuiT)Chicken_Murderer |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 12:58:54 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:19:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504060528030 |
-| Players | 14/15 |
-| Host Name | SnuSnu |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 12:57:41 |
+| Lobby ID | 28566504062193669 |
+| Players | 2/10 |
+| Host Name | Saigo |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 13:01:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504062185271 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Chisato |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 13:01:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504062193669 |
-| Players | 2/10 |
-| Host Name | Saigo |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 13:01:07 |
+| Lobby ID | 28566504062276102 |
+| Players | 1/15 |
+| Host Name | Fireflies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 13:01:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | yyz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:54:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566504061675298 |
-| Players | 1/10 |
-| Host Name | Numd |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 13:00:03 |
 
 
