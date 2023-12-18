@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504181607459 |
-| Players | 7/8 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:40:31 |
+| Lobby ID | 28566504182259533 |
+| Players | 4/8 |
+| Host Name | YoNi |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 16:41:34 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504182085063 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | 恶魔女孩爱杀人 * |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 16:41:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504180103896 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Sunflower |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:38:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504179735509 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Dodong The Great |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 16:37:30 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ПСИХОПАТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 16:41:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504182259533 |
-| Players | 2/8 |
-| Host Name | YoNi |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 16:41:34 |
 
 
 |  | epic_boss_fight_nightmare |
