@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 14:47:52 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504116632842 |
+| Players | 1/10 |
+| Host Name | Stronger |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 14:48:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504110110079 |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:44:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566504116697891 |
+| Players | 4/10 |
+| Host Name | 博士Egoist |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, December 18, 2023 14:48:21 |
 
 
