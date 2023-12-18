@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504102259023 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | derp. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 14:21:35 |
@@ -31,37 +31,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504101555572 |
-| Players | 7/8 |
-| Host Name | DP_secrets |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 14:20:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28566504102336647 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | cocoq |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 14:21:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566504103142000 |
-| Players | 1/15 |
-| Host Name | Ichiban |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 14:23:17 |
+| Lobby ID | 28566504101500326 |
+| Players | 5/10 |
+| Host Name | PRIZMAN📿 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 14:20:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566504101500326 |
-| Players | 4/10 |
-| Host Name | PRIZMAN📿 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 14:20:08 |
+| Lobby ID | 28566504103258301 |
+| Players | 1/10 |
+| Host Name | I'M GAY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 14:23:30 |
 
 
