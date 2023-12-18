@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503977130135 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:58:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503975288745 |
-| Players | 22/24 |
-| Host Name | elektro |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 09:54:16 |
+| Lobby ID | 28566503977683101 |
+| Players | 2/8 |
+| Host Name | AVENA 3 URSITAS |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 18, 2023 09:59:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503976891310 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Potato-sama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:57:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503976683580 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | NANDITO (U) GRONE TLV ROJINEGRO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:57:23 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 09:59:27 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503977683101 |
-| Players | 2/8 |
-| Host Name | AVENA 3 URSITAS |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 09:59:37 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28566503976011330 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503977679575 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 山上徹也 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:59:36 |
