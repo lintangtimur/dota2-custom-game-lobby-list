@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504013852244 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | ✪ @CJ sAvi0r |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:18:58 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 11:19:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504014116628 |
-| Players | 9/10 |
-| Host Name | wild dodge戦死 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 11:19:32 |
+| Lobby ID | 28566504014665482 |
+| Players | 5/8 |
+| Host Name | BABYBARA |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 11:20:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504014750534 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Opciones |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:20:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504013712859 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | kaorimiyazono |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 11:18:40 |
@@ -68,25 +68,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504013417970 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Scrreeww |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:18:02 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504015432848 |
+| Players | 1/10 |
+| Host Name | ndchikin |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 11:22:17 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504014665482 |
-| Players | 4/8 |
-| Host Name | BABYBARA |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:20:42 |
+| Lobby ID | 28566504015445702 |
+| Players | 1/8 |
+| Host Name |  |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 11:22:19 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28566504010658234 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | asta-labista-bebe |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 11:12:08 |
