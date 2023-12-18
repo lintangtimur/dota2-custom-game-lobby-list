@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 14:23:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504102336647 |
-| Players | 7/8 |
-| Host Name | cocoq |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 14:21:44 |
+| Lobby ID | 28566504104070180 |
+| Players | 1/15 |
+| Host Name | Я КАЛЕНДАРЬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 14:25:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -45,23 +45,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:20:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566504103258301 |
-| Players | 1/10 |
-| Host Name | I'M GAY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 14:23:30 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566504103970086 |
-| Players | 1/5 |
-| Host Name | DaNU,_^-^ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 14:24:53 |
 
 
