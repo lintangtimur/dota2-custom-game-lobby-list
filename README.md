@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503998472118 |
-| Players | 9/10 |
-| Host Name | KAIBIGANG PUSA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 10:45:36 |
+| Lobby ID | 28566503997495140 |
+| Players | 5/8 |
+| Host Name | cherrypizza |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 10:43:28 |
 
 
 |  | ot3_gardens_duo |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 10:43:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503996983070 |
-| Players | 21/24 |
-| Host Name | SuperChef |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 10:42:19 |
+| Lobby ID | 28566503998701951 |
+| Players | 1/8 |
+| Host Name | El doctorcito |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:46:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503998125061 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:44:51 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503998218710 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 10:45:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503997495140 |
-| Players | 5/8 |
-| Host Name | cherrypizza |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 10:43:28 |
 
 
 |  | epic_boss_fight_nightmare |
