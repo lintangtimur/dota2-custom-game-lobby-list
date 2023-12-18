@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504013852244 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | ✪ @CJ sAvi0r |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:18:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504013893449 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Berserk Mode |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 11:19:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504015151650 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | .hippo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 11:21:43 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504014750534 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Opciones |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:20:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504013712859 |
-| Players | 14/15 |
-| Host Name | kaorimiyazono |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 11:18:40 |
+| Lobby ID | 28566504015666468 |
+| Players | 2/8 |
+| Host Name | J h a n |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 11:22:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504015551932 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | -[Xius |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:22:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504015666468 |
-| Players | 2/8 |
-| Host Name | J h a n |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:22:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504014116628 |
-| Players | 9/10 |
-| Host Name | 𩠑 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 11:19:32 |
 
 
 |  | epic_boss_fight_challenger |
