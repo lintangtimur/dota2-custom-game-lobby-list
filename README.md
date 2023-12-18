@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503974202781 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 09:51:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503974960680 |
-| Players | 23/24 |
-| Host Name | BR@ND |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:53:32 |
+| Lobby ID | 28566503976248127 |
+| Players | 3/8 |
+| Host Name | BenDeR |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 09:56:25 |
 
 
 |  | ot3_gardens_duo |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503975338320 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Squeebs |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:54:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503975886379 |
-| Players | 6/8 |
-| Host Name | PEGAME Y ESCUPEME |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:55:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -67,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503976202059 |
+| Lobby ID | 28566503976462702 |
 | Players | 2/10 |
-| Host Name | PrietoAzabache |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 09:56:19 |
+| Host Name | Darkness |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 09:56:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -83,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 09:47:02 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566503975282062 |
-| Players | 1/10 |
-| Host Name | neblatyu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 09:54:15 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28566503976011330 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Во мне котлета |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 09:55:53 |
