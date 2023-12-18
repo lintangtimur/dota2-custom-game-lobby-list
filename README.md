@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503987626291 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Reaper  Γ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 10:21:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503991337239 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Captain Feed |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:29:51 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503991329151 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SamusPlay |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:29:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503991468908 |
+| Players | 1/24 |
+| Host Name | genepool |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 10:30:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503991474807 |
+| Players | 1/8 |
+| Host Name | second |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 18, 2023 10:30:10 |
 
 
 |  | epic_boss_fight_nightmare |
