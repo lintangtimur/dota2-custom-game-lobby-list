@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504149445132 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Monkey Queen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:46:14 |
@@ -41,25 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504149503079 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | EternaLGreeD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:46:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504149141100 |
-| Players | 3/8 |
-| Host Name | asasd |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 15:45:42 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504149580910 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | EgelatoR the Kingpin |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 15:46:27 |
