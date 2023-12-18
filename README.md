@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504140178107 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Thanatos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:30:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504147442718 |
-| Players | 5/8 |
-| Host Name | gfsfgs |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:42:40 |
+| Lobby ID | 28566504148418427 |
+| Players | 7/15 |
+| Host Name | TITO |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 15:44:25 |
 
 
 |  | ot3_desert_octet |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:43:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504148418427 |
-| Players | 2/15 |
-| Host Name | TITO |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 15:44:25 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566504142218022 |
-| Players | 9/10 |
-| Host Name | KiJo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:33:34 |
 
 
 |  | epic_boss_fight_nightmare |
