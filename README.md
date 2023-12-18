@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503981397941 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | D4RKY1$U$ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:07:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503981173395 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | WAWITA DE 20 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:07:20 |
@@ -41,28 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503976891310 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:57:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503979569418 |
-| Players | 6/8 |
-| Host Name | Sad Clown((( |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 10:03:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503980888661 |
-| Players | 14/15 |
-| Host Name | Jungeeeeeeee |
+| Lobby ID | 28566503981887348 |
+| Players | 1/10 |
+| Host Name | корейская шл.ха и |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 10:06:42 |
+| Lobby Creation Time | Monday, December 18, 2023 10:08:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,6 +63,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -_- |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:08:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503981698342 |
+| Players | 2/15 |
+| Host Name | СЕМЕЙНЫЙ АЛЬБОМ |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 18, 2023 10:08:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503981708884 |
+| Players | 4/15 |
+| Host Name | Versatilius |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 10:08:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503981842480 |
+| Players | 2/15 |
+| Host Name | Mora |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:08:48 |
 
 
 |  | epic_boss_fight_challenger |
