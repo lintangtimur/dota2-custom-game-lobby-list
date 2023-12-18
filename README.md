@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503928663190 |
-| Players | 5/24 |
+| Players | 2/24 |
 | Host Name | Countess of Lyon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 08:08:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503929593366 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | chiefGui |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 08:10:52 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503929728213 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Nah, I'd win |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:11:09 |
