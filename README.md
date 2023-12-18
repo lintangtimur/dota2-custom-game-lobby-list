@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503969146948 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:40:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503963022331 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:26:59 |
@@ -65,28 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 09:44:10 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503969529260 |
-| Players | 23/24 |
-| Host Name | \ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:41:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503970326548 |
-| Players | 7/8 |
-| Host Name | Prophet |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 09:43:16 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503968564220 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Onesie Party |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:39:16 |
