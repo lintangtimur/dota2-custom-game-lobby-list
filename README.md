@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504072198382 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Nate Diaz |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 13:21:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504072794844 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | FCD.4F |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:22:53 |
@@ -58,28 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504073748729 |
+| Lobby ID | 28566504073868741 |
 | Players | 1/15 |
 | Host Name | LehChanCullins |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 13:24:50 |
+| Lobby Creation Time | Monday, December 18, 2023 13:25:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566504073751380 |
-| Players | 1/15 |
-| Host Name | BubbleTea |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, December 18, 2023 13:24:50 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28566504073764411 |
-| Players | 1/7 |
-| Host Name | Великий Xi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 13:24:52 |
+| Lobby ID | 28566504073859510 |
+| Players | 1/10 |
+| Host Name | Sea Server Cancer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 13:25:03 |
 
 
