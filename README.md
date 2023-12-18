@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504065139989 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Legendary Raccoon |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:07:12 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504042742046 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | ніхто |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 12:19:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504062193669 |
-| Players | 1/10 |
-| Host Name | 𝘈𝘊 |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 13:01:07 |
+| Lobby ID | 28566504063750364 |
+| Players | 8/24 |
+| Host Name | Monty |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 13:04:21 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504064224463 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Hari Seldon |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:05:20 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 13:03:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566504063750364 |
-| Players | 8/24 |
-| Host Name | Monty |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 13:04:21 |
 
 
 |  | epic_boss_fight_nightmare |
