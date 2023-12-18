@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504013413725 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | IA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:18:02 |
@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28566504013893449 |
 | Players | 2/8 |
-| Host Name | yujiro |
+| Host Name | 000 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 11:19:03 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504013712859 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | kaorimiyazono |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 11:18:40 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504013852244 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | ✪ @CJ sAvi0r |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:18:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504013966325 |
+| Players | 2/8 |
+| Host Name | Juan El Narco .l.PELADA ARMY.l. |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 18, 2023 11:19:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566504010893865 |
+| Players | 23/24 |
+| Host Name | dongu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 11:12:37 |
 
 
 |  | epic_boss_fight_challenger |
