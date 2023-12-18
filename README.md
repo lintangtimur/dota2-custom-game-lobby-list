@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504030010090 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 𩠑 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 11:52:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504029831834 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Saigo |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 11:52:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504030874409 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:54:45 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 8 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:54:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504029546001 |
+| Players | 15/15 |
+| Host Name | John  James Rambo |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 11:51:58 |
 
 
 |  | epic_boss_fight_nightmare |
