@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 14:57:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504136671627 |
-| Players | 13/15 |
-| Host Name | Haktaru |
+| Lobby ID | 28566504137526538 |
+| Players | 1/10 |
+| Host Name | Leoric |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 15:23:50 |
+| Lobby Creation Time | Monday, December 18, 2023 15:25:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,10 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 15:25:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504137584390 |
+| Players | 1/15 |
+| Host Name | Fireflies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 15:25:26 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504128865450 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:10:03 |
