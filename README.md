@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503992605474 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | herp 105.4 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:32:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503991797365 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | 【真紅】 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:30:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503992973256 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | jimmy butler haircut of dota |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:33:27 |
