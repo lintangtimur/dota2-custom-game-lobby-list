@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503984220493 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | ไอ้หมวก4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 10:14:01 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503984196915 |
-| Players | 2/8 |
-| Host Name | ◥►-◄◤ |
+| Players | 3/8 |
+| Host Name | GASLIGHTING |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:13:57 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503984174984 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | 9v1 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:13:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503985521899 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Rael8a |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:16:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503985237288 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | Ratamanche |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:16:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503984622671 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Potmarrow |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:14:54 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503985570886 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:17:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503985898179 |
+| Players | 2/8 |
+| Host Name | Peruvian |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:17:45 |
 
 
 |  | epic_boss_fight_nightmare |
