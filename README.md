@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504114371413 |
-| Players | 7/10 |
-| Host Name | ШРЭК |
+| Lobby ID | 28566504115533237 |
+| Players | 2/10 |
+| Host Name | penumbra |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 14:44:05 |
+| Lobby Creation Time | Monday, December 18, 2023 14:46:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504115419758 |
-| Players | 3/24 |
-| Host Name | Lulala |
+| Players | 5/24 |
+| Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:46:00 |
 
