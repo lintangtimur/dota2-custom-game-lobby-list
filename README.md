@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504454439762 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 21:34:14 |
@@ -20,31 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 21:43:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504459796215 |
-| Players | 16/24 |
-| Host Name | equilibrium |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 21:38:53 |
+| Lobby ID | 28566504466782992 |
+| Players | 1/15 |
+| Host Name | Moccio望 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 21:44:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504444431537 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Gigachad thundercock |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 18, 2023 21:25:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504465560057 |
-| Players | 2/10 |
-| Host Name | NimEdel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 21:43:49 |
+| Lobby ID | 28566504466341590 |
+| Players | 1/24 |
+| Host Name | so hard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 21:44:29 |
 
 
 |  | ot3_gardens_duo |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504465030414 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Potato |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 21:43:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504465305027 |
-| Players | 6/8 |
-| Host Name | Tr1ckSSSt3r |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 21:43:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504465171524 |
-| Players | 3/15 |
-| Host Name | He'ershingenmosiken |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 21:43:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,6 +81,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pinaikot, nilaro, pinasayaw |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 21:43:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504465171524 |
+| Players | 11/15 |
+| Host Name | He'ershingenmosiken |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 21:43:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566504463129915 |
+| Players | 20/24 |
+| Host Name | TheBlindShibaInuSexyah |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 21:41:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504466454254 |
+| Players | 8/15 |
+| Host Name | AILOS3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 21:44:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504466480561 |
+| Players | 3/8 |
+| Host Name | Shiro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 21:44:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504466772691 |
+| Players | 2/10 |
+| Host Name | Aelful |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 21:44:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504465652962 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | CUM AND GO AND CUM AGAIN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 21:43:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566504465721225 |
-| Players | 1/5 |
-| Host Name | ℻✡Run |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 21:43:58 |
 
 
