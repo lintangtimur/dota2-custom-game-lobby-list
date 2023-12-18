@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504158489696 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Ave Dominus Nox |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 16:01:52 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CerberuS |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 16:04:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504161482441 |
+| Players | 4/8 |
+| Host Name | 4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 16:07:08 |
 
 
 |  | epic_boss_fight_nightmare |
