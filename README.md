@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503992576017 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | FÁCIL |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:32:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503991834576 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:30:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503991797365 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 【真紅】 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:30:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503992944251 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:33:23 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jimmy butler haircut of dota |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:33:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503991818373 |
+| Players | 14/15 |
+| Host Name | Cosmic |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 10:30:57 |
 
 
 |  | epic_boss_fight_nightmare |
