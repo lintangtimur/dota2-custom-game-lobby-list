@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504043616341 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | чудище numb the pain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:21:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504043347810 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | :x |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:21:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504041103344 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Rai Almighty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:16:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504043236444 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | only 1 pos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:20:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504043347185 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 离手鸳鸯刀 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:21:07 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:12:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566504043857527 |
+| Players | 1/5 |
+| Host Name | mariaxel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 12:22:12 |
 
 
