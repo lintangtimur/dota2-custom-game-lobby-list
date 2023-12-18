@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503970578174 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | toxic |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 09:43:51 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503969146948 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:40:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503971113632 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Tayron Fly |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:45:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503971211851 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Cerdo Comunista |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:45:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503971077814 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | ไอ้หมวก4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:44:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503971275819 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | TOGA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:45:25 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Declarix |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:45:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503963022331 |
+| Players | 21/24 |
+| Host Name | 暴走的小喵 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 09:26:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503971557003 |
+| Players | 1/8 |
+| Host Name | 🅻🅾󠁳⁧⁧🆂🆃 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 09:46:04 |
 
 
 |  | epic_boss_fight_nightmare |
