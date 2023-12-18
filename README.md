@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504163835648 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:11:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504164290349 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | МОРМЫШКА |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 16:11:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504164716920 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Haktaru |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 16:12:31 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504165461535 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Kano |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 16:13:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504165718503 |
-| Players | 2/8 |
-| Host Name | Sakata Gintoki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 16:14:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504163840259 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Bankai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:11:04 |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | F13 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 16:14:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566504165726958 |
-| Players | 2/5 |
-| Host Name | Medjas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 16:14:12 |
 
 
