@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504179848263 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 夢 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 16:37:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504178927137 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Moon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 16:36:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504180103896 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Sunflower |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:38:05 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504179735509 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Dodong The Great |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 16:37:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504180582667 |
-| Players | 12/15 |
-| Host Name | Negaivecreep_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:38:52 |
 
 
 |  | ot3_desert_octet |
@@ -63,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:39:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504181131020 |
+| Players | 6/15 |
+| Host Name | Андрей санстрайк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 16:39:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504180494450 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | MKL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:38:43 |
