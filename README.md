@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504041474657 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | John Pork |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:17:09 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504041923303 |
-| Players | 4/10 |
-| Host Name | Sband_Mirand |
+| Players | 3/10 |
+| Host Name | Duuuuh |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:18:03 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504042742046 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 12:19:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504041103344 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Rai Almighty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:16:23 |
@@ -67,18 +67,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504042565590 |
-| Players | 2/8 |
-| Host Name | yujiro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 12:19:26 |
+| Lobby ID | 28566504043401904 |
+| Players | 1/8 |
+| Host Name | Sband_Mirand |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 12:21:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504043236444 |
-| Players | 2/15 |
-| Host Name | blxssxd |
+| Players | 1/15 |
+| Host Name | $P0MAN$ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:20:53 |
 
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504043284643 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Jutirer |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:20:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504043347810 |
+| Players | 3/15 |
+| Host Name | :x |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 12:21:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504043347185 |
+| Players | 1/8 |
+| Host Name | 离手鸳鸯刀 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 12:21:07 |
 
 
 |  | epic_boss_fight_nightmare |
