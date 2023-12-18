@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504008874678 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 11:08:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504009192653 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ezzzzzzz |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:08:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504006496381 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | GATO KCHONDO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:03:04 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504009681288 |
-| Players | 1/15 |
-| Host Name | Яна Мефе |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 11:10:02 |
+| Lobby ID | 28566504009709701 |
+| Players | 3/15 |
+| Host Name | tu culo es mi palacio |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 11:10:06 |
 
 
 |  | ot3_gardens_duo |
@@ -95,28 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504009541082 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Chawas Shelby |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:09:44 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504009776711 |
+| Players | 1/15 |
+| Host Name | Яна Мефе |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 11:10:15 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504009706636 |
+| Lobby ID | 28566504009777105 |
 | Players | 1/10 |
 | Host Name | alucard |
 | Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 11:10:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504009709701 |
-| Players | 3/15 |
-| Host Name | tu culo es mi palacio |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:10:06 |
+| Lobby Creation Time | Monday, December 18, 2023 11:10:15 |
 
 
 |  | epic_boss_fight_nightmare |
