@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503928866115 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Scotford |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:09:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503929074737 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Glue Sommelier |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:09:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503928642506 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:08:37 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503928195719 |
-| Players | 23/24 |
-| Host Name | SCUERO EL TERROR DE ILABAYA |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:07:35 |
+| Lobby ID | 28566503928663190 |
+| Players | 4/24 |
+| Host Name | Countess of Lyon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 08:08:40 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 08:07:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503928663190 |
-| Players | 1/24 |
-| Host Name | Countess of Lyon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 08:08:40 |
+| Lobby ID | 28566503929279975 |
+| Players | 1/10 |
+| Host Name | BUTI SITO-LINDO |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 08:10:08 |
 
 
 |  | epic_boss_fight_nightmare |
