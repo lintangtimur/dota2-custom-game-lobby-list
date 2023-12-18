@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504021468679 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 11:34:53 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 11:52:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504030285795 |
-| Players | 1/15 |
-| Host Name | Hayashi |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:53:30 |
+| Lobby ID | 28566504030579333 |
+| Players | 1/8 |
+| Host Name | love |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 11:54:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504030092510 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | MODO PICANTE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:53:06 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Brice |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:53:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504030635383 |
+| Players | 1/8 |
+| Host Name | Cavendish |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 11:54:14 |
 
 
 |  | epic_boss_fight_nightmare |
