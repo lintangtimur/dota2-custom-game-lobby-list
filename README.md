@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503980283846 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | CHILINGUS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:05:22 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 09:57:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503979609642 |
-| Players | 2/10 |
-| Host Name | Казнил бы каждого |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 10:03:53 |
+| Lobby ID | 28566503979569418 |
+| Players | 6/8 |
+| Host Name | Sad Clown((( |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 18, 2023 10:03:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503979935221 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mr.Popo |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:04:35 |
@@ -71,15 +71,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 5/8 |
 | Host Name | SHOD |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 10:03:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503979569418 |
-| Players | 6/8 |
-| Host Name | Sad Clown((( |
-| Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 10:03:47 |
 
 
