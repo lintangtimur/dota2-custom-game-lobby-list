@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 11:30:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504015666468 |
-| Players | 2/8 |
-| Host Name | J h a n |
+| Lobby ID | 28566504018298029 |
+| Players | 9/10 |
+| Host Name | Bae |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:22:46 |
+| Lobby Creation Time | Monday, December 18, 2023 11:28:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504019113471 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | sdot |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 11:30:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504019853444 |
-| Players | 1/15 |
-| Host Name | ewyang |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 11:31:35 |
+| Lobby ID | 28566504020062189 |
+| Players | 4/10 |
+| Host Name | Desemputol |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 11:32:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504017986940 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Ayudame a dejar el vicio ;-; |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:27:44 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504018176131 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:28:08 |
@@ -113,28 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504019767351 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 9mm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 11:31:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504018298029 |
-| Players | 9/10 |
-| Host Name | Bae |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:28:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504020017836 |
-| Players | 1/8 |
-| Host Name | 18/12/22 <3 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:31:54 |
 
 
 |  | epic_boss_fight_nightmare |
