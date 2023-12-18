@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 15:16:43 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566504132828424 |
+| Players | 1/24 |
+| Host Name | Yuki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 15:17:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504127408938 |
@@ -54,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:10:03 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28566504132755348 |
-| Players | 3/7 |
-| Host Name | Mr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:16:57 |
 
 
