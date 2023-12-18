@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504109401096 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | MVRiCK- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:34:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504111658273 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | ScandaL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:39:08 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | =( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:36:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566504112254013 |
-| Players | 1/5 |
-| Host Name | TwerkMachine |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 14:40:13 |
 
 
