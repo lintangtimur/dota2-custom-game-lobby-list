@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503907860926 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | pok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 07:21:08 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503903043777 |
-| Players | 14/15 |
-| Host Name | Piroco |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 07:10:44 |
+| Lobby ID | 28566503908425452 |
+| Players | 12/15 |
+| Host Name | Walking Дед |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 07:22:23 |
 
 
 |  | ot3_gardens_duo |
@@ -92,10 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 07:22:16 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503908524438 |
+| Players | 3/15 |
+| Host Name | Scrub, career felon |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 07:22:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503908614006 |
+| Players | 2/8 |
+| Host Name | Taero |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 07:22:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503907829038 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | TE FIDEO LA LIF |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:21:04 |
