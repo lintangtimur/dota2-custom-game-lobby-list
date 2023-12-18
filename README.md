@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504071136922 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | El Perforador de Culos |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 13:19:29 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 13:18:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504071329237 |
-| Players | 1/10 |
+| Lobby ID | 28566504071413255 |
+| Players | 1/24 |
 | Host Name | 我姓陈，吃人陈！ |
 | Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, December 18, 2023 13:19:53 |
+| Lobby Creation Time | Monday, December 18, 2023 13:20:04 |
 
 
 |  | epic_boss_fight_nightmare |
