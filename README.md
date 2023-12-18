@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504037881731 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | ✪ @CJ sAvi0r |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:09:40 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504039001282 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:12:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566504039079421 |
-| Players | 1/24 |
-| Host Name | Black Octopus |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 12:12:11 |
 
 
 |  | epic_boss_fight_nightmare |
