@@ -11,20 +11,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503920703495 |
-| Players | 12/15 |
-| Host Name | Glue Sommelier |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 07:50:12 |
+| Lobby ID | 28566503920441427 |
+| Players | 12/24 |
+| Host Name | BR@ND |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:49:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503900107703 |
-| Players | 2/24 |
-| Host Name | Shooting Star |
+| Players | 1/24 |
+| Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 07:04:18 |
 
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 07:41:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503920194155 |
-| Players | 6/8 |
-| Host Name | Janix |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:49:03 |
+| Lobby ID | 28566503920537224 |
+| Players | 1/24 |
+| Host Name | ™Slim Shady® |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 07:49:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503920529065 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | danye west |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:49:49 |
@@ -76,35 +76,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503919992893 |
-| Players | 9/10 |
-| Host Name | love yours |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:48:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503920441427 |
-| Players | 9/24 |
-| Host Name | BR@ND |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:49:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503920537224 |
-| Players | 2/24 |
-| Host Name | ™Slim Shady® |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 07:49:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28566503920587498 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Veni, Vidi, Vici |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:49:56 |
