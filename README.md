@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504178668339 |
-| Players | 6/8 |
-| Host Name | Airstrikes* |
+| Lobby ID | 28566504179388319 |
+| Players | 2/8 |
+| Host Name | prime |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:35:45 |
+| Lobby Creation Time | Monday, December 18, 2023 16:36:56 |
 
 
 |  | ot3_desert_octet |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504176730336 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | ^^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:32:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504179295235 |
-| Players | 4/10 |
-| Host Name | silent masya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:36:47 |
+| Lobby ID | 28566504179384222 |
+| Players | 4/15 |
+| Host Name | abdefgh |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 16:36:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 16:36:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504179388319 |
-| Players | 2/8 |
-| Host Name | prime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:36:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504179384222 |
-| Players | 4/15 |
-| Host Name | abdefgh |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 16:36:56 |
 
 
 |  | epic_boss_fight_nightmare |
