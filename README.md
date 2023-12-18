@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503971077814 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | ไอ้หมวก4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:44:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503971557003 |
-| Players | 5/8 |
-| Host Name | ABOBA BOY |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 09:46:04 |
+| Lobby ID | 28566503974453216 |
+| Players | 4/10 |
+| Host Name | Juan El Narco .l.PELADA ARMY.l. |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 18, 2023 09:52:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503973390112 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | анапамастер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 09:50:06 |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 09:50:19 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503973828625 |
-| Players | 15/24 |
-| Host Name | ™PMA™ 萧瑟 PSG - LGD |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:51:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503974399189 |
-| Players | 1/15 |
-| Host Name | DICE |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 09:52:16 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503974428832 |
@@ -81,6 +63,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | +502_Xavix117 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:52:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503974399189 |
+| Players | 9/15 |
+| Host Name | DICE |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 09:52:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503974707716 |
+| Players | 3/8 |
+| Host Name | SEHUMILLA:0 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 09:52:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503974714481 |
+| Players | 4/8 |
+| Host Name | Just Monika |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 09:52:58 |
 
 
 |  | epic_boss_fight_nightmare |
