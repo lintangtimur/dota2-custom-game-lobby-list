@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503875783718 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 13 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503913841168 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Sigma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 07:34:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503913695165 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | a |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:34:19 |
@@ -47,31 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 07:37:30 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503915394134 |
-| Players | 1/8 |
-| Host Name | 雨の中で生まれた |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 07:38:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503914731133 |
-| Players | 12/15 |
-| Host Name | CheesusRice™ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 07:36:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503915081988 |
-| Players | 3/8 |
-| Host Name | ,Chessman |
+| Lobby ID | 28566503915510823 |
+| Players | 1/15 |
+| Host Name | un dota mas y me voy |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:37:23 |
+| Lobby Creation Time | Monday, December 18, 2023 07:38:20 |
 
 
 |  | ot3_gardens_duo |
@@ -85,11 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503915376686 |
+| Lobby ID | 28566503915081988 |
+| Players | 4/8 |
+| Host Name | ,Chessman |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:37:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503915506755 |
+| Players | 2/15 |
+| Host Name | Zatet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 07:38:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503915530462 |
 | Players | 1/8 |
 | Host Name | Daniel (35FPS)-(ping 150) |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, December 18, 2023 07:38:02 |
+| Lobby Creation Time | Monday, December 18, 2023 07:38:23 |
 
 
 |  | epic_boss_fight_nightmare |
