@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503984196915 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ◥►-◄◤ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:13:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503983969618 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | drownecro23 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:13:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503984220493 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ไอ้หมวก4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 10:14:01 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503981368355 |
-| Players | 23/24 |
+| Players | 20/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:07:45 |
