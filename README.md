@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504083275255 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | again lost time |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:44:16 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504082926585 |
+| Lobby ID | 28566504083912970 |
 | Players | 1/15 |
-| Host Name | ►JØ$Ë.狼 GoDota2.com giordo |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 13:43:34 |
+| Host Name | Нафотомоядевушка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 13:45:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -79,15 +79,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby ID | 28566504083913541 |
 | Players | 3/15 |
 | Host Name | kura |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 13:45:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504083912970 |
-| Players | 1/15 |
-| Host Name | Нафотомоядевушка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:45:34 |
 
