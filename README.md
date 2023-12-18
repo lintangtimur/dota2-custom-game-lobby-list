@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503913695165 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | a |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:34:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503914910072 |
-| Players | 1/8 |
-| Host Name | 151th |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 07:37:00 |
+| Lobby ID | 28566503914962440 |
+| Players | 1/10 |
+| Host Name | <ALETHEIA> |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:37:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503914616669 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Sinnerman |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:36:22 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CheesusRice™ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:36:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503914971755 |
+| Players | 1/8 |
+| Host Name | Madaru4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 07:37:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503911871596 |
+| Players | 23/24 |
+| Host Name | Nothingtoxic |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 07:30:15 |
 
 
 |  | epic_boss_fight_nightmare |
