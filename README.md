@@ -29,24 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 16:32:26 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504176965776 |
-| Players | 3/10 |
-| Host Name | AMMO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 16:32:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504176268205 |
-| Players | 9/15 |
-| Host Name | Haktaru |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 16:31:42 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504176993363 |
@@ -54,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Blaidd |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 16:32:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504176268205 |
+| Players | 10/15 |
+| Host Name | Haktaru |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 16:31:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504177113155 |
+| Players | 2/8 |
+| Host Name | Venua EpicLoot.in |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 16:33:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504176686359 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | lmfaowhocares™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:32:22 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28566504177097179 |
+| Players | 1/7 |
+| Host Name | SMASH KINGZ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 16:33:02 |
 
 
