@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504048202136 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Saigo |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 12:31:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504043599435 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | mr darkness |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 12:21:39 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ILAVE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:32:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504049511948 |
+| Players | 2/10 |
+| Host Name | [OFF] Boss of this GYM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 12:34:18 |
 
 
 |  | epic_boss_fight_nightmare |
