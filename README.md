@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503971077814 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | ไอ้หมวก4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:44:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503973374642 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | fedea_ctmr |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:50:04 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503973828625 |
-| Players | 1/24 |
-| Host Name | ASDASDAS |
+| Players | 3/24 |
+| Host Name | ™PMA™ 萧瑟 PSG - LGD |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:51:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503973919322 |
+| Players | 4/8 |
+| Host Name | А У МЕНЯ ЗИМА В СЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 09:51:15 |
 
 
 |  | epic_boss_fight_nightmare |
