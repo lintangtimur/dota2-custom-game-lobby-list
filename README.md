@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503875783718 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | 13 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503945419568 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:47:08 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503945979716 |
-| Players | 7/10 |
-| Host Name | ᴜɴᴊʙɢ ᴘᴀʀᴀᴅᴏx |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:48:25 |
+| Lobby ID | 28566503946227946 |
+| Players | 6/10 |
+| Host Name | ☺ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 08:48:59 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503944350124 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | sunt vigilantes |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:44:44 |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503946227946 |
-| Players | 4/10 |
-| Host Name | ☺ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 08:48:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503946309647 |
-| Players | 1/24 |
-| Host Name | Talento Nada |
+| Lobby ID | 28566503946401381 |
+| Players | 1/10 |
+| Host Name | sdhij9okpmara15 |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:49:10 |
+| Lobby Creation Time | Monday, December 18, 2023 08:49:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503946407241 |
+| Players | 1/15 |
+| Host Name | psykofarmaka&danskvand |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 08:49:23 |
 
 
 |  | epic_boss_fight_nightmare |
