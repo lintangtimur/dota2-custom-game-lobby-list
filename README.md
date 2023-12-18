@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 10:55:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504001447404 |
-| Players | 9/10 |
-| Host Name | -[Xius |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:51:59 |
+| Lobby ID | 28566504003330768 |
+| Players | 2/24 |
+| Host Name | elektro |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 10:56:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504003058462 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 10:55:30 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ǝʞıN |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:55:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504003345977 |
+| Players | 1/8 |
+| Host Name | BABYBARA |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:56:08 |
 
 
 |  | epic_boss_fight_nightmare |
