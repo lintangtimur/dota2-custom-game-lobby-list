@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504141174692 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Feanor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:31:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504142762776 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ятоксик+критик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:34:30 |
@@ -50,16 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504137479076 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:25:15 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566504143164700 |
+| Players | 1/24 |
+| Host Name | swap commends |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 15:35:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504141734041 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Strong Woman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:32:42 |
