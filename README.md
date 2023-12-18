@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503988201857 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Kawazaki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 10:22:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503986859859 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | GREYRAT016 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:19:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503987762296 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:21:53 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503987877644 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | elektro |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:22:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503988223914 |
-| Players | 1/8 |
-| Host Name | Ella ya es feliz conmigo◕_◕ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 10:22:54 |
 
 
 |  | epic_boss_fight_nightmare |
