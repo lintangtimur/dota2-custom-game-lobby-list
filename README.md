@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:24:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504043481868 |
-| Players | 14/15 |
-| Host Name | smtg here |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 12:21:24 |
+| Lobby ID | 28566504045311924 |
+| Players | 5/8 |
+| Host Name | 雨の中で生まれた |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 12:25:21 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504043236444 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | In Jesus Mode |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:20:53 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lotus(A fleeting character) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:21:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504045311924 |
-| Players | 4/8 |
-| Host Name | 雨の中で生まれた |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 12:25:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566504045483319 |
-| Players | 1/24 |
-| Host Name | Watermelon Sugar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 12:25:43 |
 
 
 |  | epic_boss_fight_nightmare |
