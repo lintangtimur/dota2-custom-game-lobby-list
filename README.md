@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503994725107 |
-| Players | 9/15 |
+| Players | 5/15 |
 | Host Name | папа_тут |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:37:21 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503995387440 |
-| Players | 2/8 |
-| Host Name | WAJU LUJAN CARRION |
+| Lobby ID | 28566503995743243 |
+| Players | 4/8 |
+| Host Name | tu culo es mi palacio |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:38:49 |
+| Lobby Creation Time | Monday, December 18, 2023 10:39:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503995395573 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | number one |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:38:50 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503995743243 |
-| Players | 4/8 |
-| Host Name | tu culo es mi palacio |
+| Lobby ID | 28566503995387440 |
+| Players | 1/8 |
+| Host Name | Mi Chibolo Tete |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:39:36 |
+| Lobby Creation Time | Monday, December 18, 2023 10:38:49 |
 
 
 |  | epic_boss_fight_nightmare |
