@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504268311298 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | คนชอบหีย์ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 18:42:01 |
@@ -23,52 +23,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504316919441 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ga |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 19:33:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504325169908 |
-| Players | 11/15 |
-| Host Name | Wenern |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 19:41:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566504324329496 |
-| Players | 21/24 |
-| Host Name | fal'Cie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 19:40:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504325612286 |
-| Players | 3/10 |
-| Host Name | ryan gosling |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 19:41:49 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504325667110 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Genesis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 19:41:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504326243939 |
+| Players | 12/15 |
+| Host Name | Nova |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 19:42:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504323072891 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | mmr donor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 19:39:23 |
