@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503994838416 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:37:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503991573618 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Kumiiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 10:30:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503995925792 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | еблантус |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 10:40:00 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mi Chibolo Tete |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:38:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503996440240 |
+| Players | 1/24 |
+| Host Name | Ganan los chamos, pierde mi fami |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:41:08 |
 
 
 |  | epic_boss_fight_nightmare |
