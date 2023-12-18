@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504004373262 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 20 y.o абсолют v potoke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 10:58:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504004917598 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Vito |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:59:37 |
