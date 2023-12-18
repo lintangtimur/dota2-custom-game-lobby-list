@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504119780838 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Silky Johnson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:53:54 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504119273585 |
-| Players | 7/8 |
-| Host Name | Streetstazi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 14:52:59 |
+| Lobby ID | 28566504120270459 |
+| Players | 1/8 |
+| Host Name | Chris |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 18, 2023 14:54:46 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 14:52:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504120031770 |
-| Players | 10/15 |
-| Host Name | Haktaru |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 14:54:21 |
+| Lobby ID | 28566504120549802 |
+| Players | 1/8 |
+| Host Name | 13 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 14:55:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504120270459 |
+| Lobby ID | 28566504120534719 |
 | Players | 1/8 |
-| Host Name | Chris |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 14:54:46 |
+| Host Name | Lil Chicha |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 14:55:14 |
 
 
 |  | epic_boss_fight_nightmare |
