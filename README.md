@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503899067622 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | BISCUIT OLIVA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:02:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503898024385 |
-| Players | 7/8 |
+| Players | 4/8 |
 | Host Name | 0-100KM/H |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 06:59:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503898685526 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Hopeful Men (GPRD) |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 07:01:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503899884314 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | KUNKEN |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:03:49 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503899894456 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | sasha |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:03:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503899971304 |
-| Players | 4/8 |
-| Host Name | HH |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 07:04:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TRY TO BE THE BEST |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:04:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566503898615407 |
-| Players | 2/5 |
-| Host Name | Krizeld lmL |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 07:01:08 |
 
 
