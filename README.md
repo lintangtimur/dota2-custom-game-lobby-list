@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503959724201 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Zer0 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:19:36 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503960640884 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:21:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503875783718 |
-| Players | 1/15 |
-| Host Name | sape2195 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
+| Lobby ID | 28566503960625193 |
+| Players | 3/10 |
+| Host Name | ------ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 09:21:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503958318147 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | viejafobico |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 18, 2023 09:16:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503960397823 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | utgdcyrsd8 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 09:21:06 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503960402567 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ×͜× |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 09:21:06 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503960880147 |
+| Players | 1/24 |
+| Host Name | гнида |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 09:22:09 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503960625193 |
-| Players | 2/10 |
-| Host Name | ------ |
+| Lobby ID | 28566503960289310 |
+| Players | 9/10 |
+| Host Name | El Dotero de la Profecia Peruana |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 09:21:36 |
+| Lobby Creation Time | Monday, December 18, 2023 09:20:52 |
 
 
 |  | epic_boss_fight_nightmare |
