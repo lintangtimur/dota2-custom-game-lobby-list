@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504181507998 |
-| Players | 1/15 |
-| Host Name | Dr. Jimmy Brungus |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, December 18, 2023 16:40:22 |
+| Lobby ID | 28566504182085063 |
+| Players | 4/15 |
+| Host Name | 恶魔女孩爱杀人 * |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 16:41:17 |
 
 
 |  | ot3_desert_octet |
@@ -56,10 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 16:39:20 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504182162712 |
+| Players | 3/8 |
+| Host Name | супер скуф |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 16:41:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504181491314 |
+| Players | 14/15 |
+| Host Name | In Vigoss we trust! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 16:40:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504175137020 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 16:29:52 |
@@ -72,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MKL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 16:38:43 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28566504182043567 |
-| Players | 3/7 |
-| Host Name | Bilguunv |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 16:41:13 |
 
 
