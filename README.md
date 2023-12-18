@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 08:07:38 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503937662557 |
-| Players | 7/10 |
-| Host Name | TOGA |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:29:20 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503937306235 |
-| Players | 7/8 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 08:28:31 |
+| Lobby ID | 28566503938033990 |
+| Players | 1/8 |
+| Host Name | 痛苦与黑暗 |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 08:30:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503937817428 |
+| Players | 2/10 |
+| Host Name | Error.On.Fire.xD |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 08:29:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,34 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503937322511 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 08:28:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503937627692 |
-| Players | 1/10 |
-| Host Name | Krueger |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 18, 2023 08:29:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503937817428 |
-| Players | 1/10 |
-| Host Name | Error.On.Fire.xD |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 08:29:42 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503937824859 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | ZENAKU |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:29:43 |
