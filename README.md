@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504081168397 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ☭Fuck Bluehole Inc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 13:39:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504081957696 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | aaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 13:41:35 |
@@ -56,12 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 13:41:37 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504082249009 |
+| Players | 1/8 |
+| Host Name | kisoe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 13:42:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566504080400200 |
+| Lobby ID | 28566504082228391 |
 | Players | 1/10 |
 | Host Name | SET |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 13:38:22 |
+| Lobby Creation Time | Monday, December 18, 2023 13:42:08 |
 
 
