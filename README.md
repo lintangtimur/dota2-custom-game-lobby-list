@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503981397941 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | D4RKY1$U$ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:07:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503981173395 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | WAWITA DE 20 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:07:20 |
@@ -59,46 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503980888661 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Jungeeeeeeee |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:06:42 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503979579809 |
-| Players | 23/24 |
-| Host Name | Master 2.0 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:03:49 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503981542155 |
-| Players | 6/8 |
-| Host Name | LordValdomero |
+| Lobby ID | 28566503981576656 |
+| Players | 1/8 |
+| Host Name | -_- |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:08:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503981551258 |
-| Players | 1/15 |
-| Host Name | Bulach4 |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 10:08:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503981547570 |
-| Players | 2/15 |
-| Host Name | Ss |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:08:09 |
+| Lobby Creation Time | Monday, December 18, 2023 10:08:13 |
 
 
 |  | epic_boss_fight_challenger |
@@ -108,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Во мне котлета |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 09:55:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566503981628543 |
+| Players | 1/5 |
+| Host Name | extazZz |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 18, 2023 10:08:20 |
 
 
