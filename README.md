@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503981397941 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | D4RKY1$U$ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:07:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503981173395 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | WAWITA DE 20 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:07:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503976891310 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:57:51 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503981887348 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | корейская шл.ха и |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:08:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503981576656 |
-| Players | 1/8 |
-| Host Name | -_- |
+| Lobby ID | 28566503981842480 |
+| Players | 3/15 |
+| Host Name | Mora |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:08:13 |
+| Lobby Creation Time | Monday, December 18, 2023 10:08:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503981708884 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Versatilius |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:08:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503981842480 |
-| Players | 2/15 |
-| Host Name | Mora |
+| Lobby ID | 28566503981982765 |
+| Players | 2/10 |
+| Host Name | APOLO |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:08:48 |
+| Lobby Creation Time | Monday, December 18, 2023 10:09:07 |
 
 
 |  | epic_boss_fight_challenger |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28566503981628543 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | extazZz |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 10:08:20 |
