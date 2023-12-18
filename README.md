@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504021468679 |
-| Players | 4/24 |
+| Players | 1/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 11:34:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504017226105 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | [sms] ツ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 11:26:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504025292641 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Я предал Христа |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 11:42:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504023078088 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Gromm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:38:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504025722620 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | kaorimiyazono |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 11:43:49 |
@@ -59,54 +59,90 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504025413095 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | LET ME COOK |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:43:09 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504023370560 |
-| Players | 9/10 |
-| Host Name | Hecker |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 11:38:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504025894859 |
-| Players | 1/8 |
-| Host Name | Rap Божий |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 11:44:11 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504025895985 |
-| Players | 5/24 |
+| Players | 14/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:44:12 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504025952413 |
+| Players | 1/15 |
+| Host Name | DirtySmokee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 11:44:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504026081004 |
+| Players | 2/10 |
+| Host Name | pistolei |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 11:44:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566504026056289 |
+| Players | 2/24 |
+| Host Name | Yo Pantro |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 11:44:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504026075410 |
+| Players | 6/15 |
+| Host Name | Rap Божий |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 11:44:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504025055552 |
+| Players | 7/10 |
+| Host Name | Misho |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 11:42:25 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504025907388 |
-| Players | 5/8 |
-| Host Name | bkardi |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:44:13 |
+| Lobby ID | 28566504026173971 |
+| Players | 1/8 |
+| Host Name | HadesS |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 11:44:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566504021547125 |
+| Players | 23/24 |
+| Host Name | Violet Evergarden |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 11:35:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566504025660378 |
-| Players | 5/10 |
-| Host Name | Sea Server Cancer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 11:43:41 |
+| Lobby ID | 28566504026050786 |
+| Players | 2/10 |
+| Host Name | Makoto Shishio |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 11:44:31 |
 
 
