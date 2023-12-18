@@ -67,20 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504021942807 |
-| Players | 8/10 |
-| Host Name | "Butters" |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 11:35:52 |
+| Lobby ID | 28566504021020212 |
+| Players | 10/10 |
+| Host Name | Juan El Narco .l.PELADA ARMY.l. |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 18, 2023 11:33:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504022678624 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | TRY TO BE THE BEST |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 11:37:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504023078088 |
+| Players | 1/8 |
+| Host Name | Gromm |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 11:38:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504022873861 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Daee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 11:37:47 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566504023030689 |
-| Players | 1/5 |
-| Host Name | zebatic |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 11:38:07 |
 
 
