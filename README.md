@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503946438282 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Dares |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:49:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503947125152 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:51:01 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:50:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503947259288 |
+| Players | 4/15 |
+| Host Name | аааааааааааааааа |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 08:51:19 |
 
 
 |  | epic_boss_fight_nightmare |
