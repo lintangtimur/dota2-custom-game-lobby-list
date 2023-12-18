@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504316919441 |
-| Players | 12/15 |
-| Host Name | ga |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 19:33:14 |
+| Lobby ID | 28566504334426631 |
+| Players | 9/10 |
+| Host Name | SOYWEEK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 19:50:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504333829321 |
-| Players | 4/24 |
+| Players | 13/24 |
 | Host Name | 辽北地区文斗状元 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 19:49:38 |
@@ -22,29 +22,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504332797938 |
-| Players | 1/8 |
-| Host Name | mirada seductora* |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 19:48:40 |
+| Lobby ID | 28566504334413211 |
+| Players | 5/8 |
+| Host Name | Gulman554 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 19:50:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504333664915 |
-| Players | 6/15 |
-| Host Name | ecspromt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 19:49:28 |
+| Lobby ID | 28566504335097326 |
+| Players | 1/15 |
+| Host Name | 今日凌波.明日香!!! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 19:50:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504333205613 |
-| Players | 4/8 |
-| Host Name | чин чан чон чи |
+| Lobby ID | 28566504334591064 |
+| Players | 3/10 |
+| Host Name | .... |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 19:49:02 |
+| Lobby Creation Time | Monday, December 18, 2023 19:50:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504333610367 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Da Wae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 19:49:25 |
