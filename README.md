@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504311827533 |
-| Players | 7/8 |
-| Host Name | Megamel™ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 19:28:12 |
+| Lobby ID | 28566504314095389 |
+| Players | 9/24 |
+| Host Name | Eren Yeager |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 19:30:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,28 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504313246760 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Pinaikot, nilaro, pinasayaw |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 19:29:37 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504314094276 |
+| Players | 5/10 |
+| Host Name | Left Right Goodnight |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 19:30:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504307417824 |
-| Players | 4/8 |
-| Host Name | Lucy Pearl |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 19:23:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566504307900193 |
-| Players | 22/24 |
-| Host Name | Evol |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 19:24:18 |
+| Lobby ID | 28566504313791510 |
+| Players | 5/8 |
+| Host Name | REYSKYWALKER! |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 19:30:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,30 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 19:29:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504313405438 |
-| Players | 5/10 |
-| Host Name | I FEEL LIKE GOD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 19:29:47 |
+| Lobby ID | 28566504313962071 |
+| Players | 2/8 |
+| Host Name | eggsandwich |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 19:30:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504313442237 |
-| Players | 6/8 |
-| Host Name | 狂热激战A-Rev.3 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, December 18, 2023 19:29:49 |
+| Lobby ID | 28566504314466712 |
+| Players | 3/8 |
+| Host Name | P1NK ez |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 19:30:50 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504313066000 |
-| Players | 7/10 |
-| Host Name | Kendrick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 19:29:26 |
+| Lobby ID | 28566504314468612 |
+| Players | 4/15 |
+| Host Name | Gg_btw |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 19:30:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504314584702 |
+| Players | 1/15 |
+| Host Name | IBM 5100 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 19:30:57 |
 
 
