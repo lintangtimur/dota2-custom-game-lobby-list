@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504111658273 |
-| Players | 14/15 |
-| Host Name | ScandaL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 14:39:08 |
+| Lobby ID | 28566504112740504 |
+| Players | 4/15 |
+| Host Name | саня ОФИС |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 14:41:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504112454668 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Madvetu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:40:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504112740504 |
-| Players | 2/15 |
-| Host Name | саня ОФИС |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 14:41:06 |
 
 
 |  | epic_boss_fight_nightmare |
