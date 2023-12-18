@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504004261203 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Ella ya es feliz conmigo◕_◕ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:58:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504002920969 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Sushi Devourer |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:55:12 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504003683256 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | IDFK |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:56:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504004341775 |
+| Players | 2/10 |
+| Host Name | ~~RubRub~~ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:58:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504002719015 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 10:54:46 |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hoo Lee Sheet |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:56:52 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28566504004378569 |
+| Players | 2/7 |
+| Host Name | Bipolarbear |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 18, 2023 10:58:24 |
 
 
