@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 20:16:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504373039741 |
-| Players | 3/8 |
-| Host Name | В какой я игре? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 20:25:00 |
+| Lobby ID | 28566504374802823 |
+| Players | 1/24 |
+| Host Name | イシャ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 20:26:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504373162341 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SIDERAL FRIO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 20:25:06 |
@@ -41,108 +41,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504360466186 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Anj0 `-!FRD!-` |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 20:13:52 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504370688949 |
-| Players | 6/8 |
-| Host Name | 狂热激战A-Rev.3 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, December 18, 2023 20:22:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566504371854063 |
-| Players | 17/24 |
-| Host Name | Sukuna |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 20:23:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504373431354 |
-| Players | 1/10 |
-| Host Name | JHOANO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 20:25:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504373592397 |
-| Players | 5/10 |
-| Host Name | EX зав склада |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 20:25:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504373617152 |
-| Players | 8/15 |
-| Host Name | Jhek |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 20:25:29 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504373768414 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Reiz |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 20:25:37 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504374486421 |
+| Players | 8/15 |
+| Host Name | demiurge |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 20:26:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504375237240 |
+| Players | 1/8 |
+| Host Name | n1ce |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 20:26:54 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504373830150 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 20:25:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504371636090 |
-| Players | 14/15 |
-| Host Name | % |
+| Lobby ID | 28566504374798070 |
+| Players | 9/10 |
+| Host Name | WestBang |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 20:23:46 |
+| Lobby Creation Time | Monday, December 18, 2023 20:26:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504374058484 |
-| Players | 1/15 |
-| Host Name | n0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 20:25:52 |
+| Lobby ID | 28566504375045203 |
+| Players | 5/24 |
+| Host Name | 노루 noru 노루 noru 노루 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 20:26:44 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28566504374069517 |
-| Players | 1/5 |
-| Host Name | noob team |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 18, 2023 20:25:53 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28566504374062039 |
-| Players | 1/7 |
-| Host Name | Козловских Макс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 20:25:53 |
+| Lobby ID | 28566504374092075 |
+| Players | 8/10 |
+| Host Name | 600 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 20:25:54 |
 
 
