@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 10:01:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503979848601 |
-| Players | 9/10 |
-| Host Name | 알렉산드라 |
+| Lobby ID | 28566503979579809 |
+| Players | 12/24 |
+| Host Name | Master 2.0 |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:04:24 |
+| Lobby Creation Time | Monday, December 18, 2023 10:03:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503976891310 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Potato-sama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:57:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503979935221 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Mr.Popo |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:04:35 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sad Clown((( |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 10:03:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503979579809 |
-| Players | 12/24 |
-| Host Name | Master 2.0 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:03:49 |
 
 
 |  | epic_boss_fight_challenger |
