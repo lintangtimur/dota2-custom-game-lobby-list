@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 10:40:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503996769015 |
-| Players | 7/8 |
-| Host Name | корейская шл.ха и |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 10:41:50 |
+| Lobby ID | 28566503996722203 |
+| Players | 8/15 |
+| Host Name | tu culo es mi palacio |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:41:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503996440240 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | Ganan los chamos, pierde mi fami |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:41:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503991573618 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Kumiiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 10:30:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503995925792 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | еблантус |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 10:40:00 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mi Chibolo Tete |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:38:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503996722203 |
-| Players | 7/15 |
-| Host Name | tu culo es mi palacio |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:41:44 |
 
 
 |  | epic_boss_fight_nightmare |
