@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503950231370 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Yves Saint Laurent |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:58:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503950171479 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | papa amarrilla |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:58:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503950036142 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | El Gotto Cuba |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:57:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503944046003 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:44:03 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503950242173 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mi Betchi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:58:10 |
