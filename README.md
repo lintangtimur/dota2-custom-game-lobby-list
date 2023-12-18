@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503981708884 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Versatilius |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:08:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503976891310 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 09:57:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503981887348 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | orel 96.0 FM |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:08:54 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503982238328 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Trell |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:09:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503982984278 |
+| Players | 5/8 |
+| Host Name | Spɩɗɘʀɱʌŋ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:11:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28566503982551617 |
+| Lobby ID | 28566503982973000 |
 | Players | 1/5 |
 | Host Name | RUDE |
 | Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 10:10:22 |
+| Lobby Creation Time | Monday, December 18, 2023 10:11:16 |
 
 
