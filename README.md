@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503989238978 |
-| Players | 14/15 |
-| Host Name | Sushi Devourer |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 10:25:10 |
+| Lobby ID | 28566503990471394 |
+| Players | 3/8 |
+| Host Name | Lz_Coli |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:27:55 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503990371008 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | EL 13 POLVOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:27:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503987888863 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | Avena 3 OSITOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:22:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503990330044 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | VISHTACK BORN |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:27:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503990458842 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 3rto0er& |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 10:27:53 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503990459297 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Juan El Narco .l.PELADA ARMY.l. |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 10:27:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503990471394 |
-| Players | 3/8 |
-| Host Name | Lz_Coli |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:27:55 |
 
 
 |  | epic_boss_fight_nightmare |
