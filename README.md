@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503901732308 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 07:07:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503904191621 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Переливыч ммров |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 07:13:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503904783351 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Viejo Dotero |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:14:23 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503903989571 |
-| Players | 1/8 |
-| Host Name | agustavpro |
+| Lobby ID | 28566503905073582 |
+| Players | 4/8 |
+| Host Name | DeVS |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:12:41 |
+| Lobby Creation Time | Monday, December 18, 2023 07:15:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:14:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503905092332 |
+| Players | 2/8 |
+| Host Name | ShadowStorm |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:15:04 |
 
 
