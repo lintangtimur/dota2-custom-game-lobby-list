@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503900107703 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 07:04:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503919446544 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | El Gotto Cuba |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:47:21 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503919011814 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Полосатый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 07:46:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503919775266 |
-| Players | 1/8 |
-| Host Name | flux |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 07:48:06 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503919421377 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:47:18 |
