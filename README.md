@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503954411267 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:07:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503948969844 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Elerne |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 08:55:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503953323324 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Jin |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:05:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503954481840 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Spamming 1 hero = Go Report me |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:07:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503953003888 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:04:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503954936471 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Kuzya Lakomkin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 09:08:50 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 13 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503952436521 |
+| Players | 23/24 |
+| Host Name | Fry-Chance |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 09:03:08 |
 
 
 |  | epic_boss_fight_nightmare |
