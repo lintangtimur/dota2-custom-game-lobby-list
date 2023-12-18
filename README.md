@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504149445132 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Cheetos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:46:14 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504149580910 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | EgelatoR the Kingpin |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 15:46:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504149503079 |
-| Players | 4/8 |
-| Host Name | EternaLGreeD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:46:19 |
+| Lobby ID | 28566504150225731 |
+| Players | 1/15 |
+| Host Name | Haktaru |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 15:47:34 |
 
 
 |  | ot3_gardens_duo |
@@ -54,6 +54,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EL EJECUTOR |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 15:47:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566504150344056 |
+| Players | 2/24 |
+| Host Name | based |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 15:47:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504150380022 |
+| Players | 3/8 |
+| Host Name | Drakalian the Dragon King |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 15:47:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504149503079 |
+| Players | 7/8 |
+| Host Name | EternaLGreeD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 15:46:19 |
 
 
 |  | epic_boss_fight_nightmare |
