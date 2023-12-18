@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504239523716 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 18:06:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504256593868 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | я...ТАЛАНТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 18:28:03 |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504256904456 |
-| Players | 7/15 |
-| Host Name | Дауби Даубиев |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 18:28:26 |
+| Lobby ID | 28566504257759266 |
+| Players | 1/15 |
+| Host Name | 凉月丷 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 18:29:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566504257035643 |
-| Players | 2/10 |
-| Host Name | chunga changa prime |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 18:28:35 |
+| Lobby ID | 28566504257403208 |
+| Players | 2/24 |
+| Host Name | ^.^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 18:29:02 |
 
 
 |  | ot3_gardens_duo |
@@ -65,21 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 18:28:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504255523025 |
-| Players | 8/10 |
-| Host Name | CommanderKids |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 18:26:46 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28566504257349175 |
-| Players | 2/7 |
-| Host Name | Кадзуя Мишима |
+| Lobby ID | 28566504257772314 |
+| Players | 7/15 |
+| Host Name | M1kasa Sayouri |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 18:28:58 |
+| Lobby Creation Time | Monday, December 18, 2023 18:29:28 |
 
 
