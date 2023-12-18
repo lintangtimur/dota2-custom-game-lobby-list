@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503999060794 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 10:46:53 |
@@ -32,18 +32,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503998125061 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 10:44:51 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503998674801 |
+| Lobby ID | 28566503999231438 |
 | Players | 1/10 |
-| Host Name | Poseidon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 10:46:02 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 10:47:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503999274899 |
+| Players | 1/24 |
+| Host Name | Coninho Brazuca |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 10:47:21 |
 
 
