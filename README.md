@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504072505175 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 13:22:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504072794844 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | FCD.4F |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:22:53 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ХУŃ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:21:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504073042592 |
-| Players | 3/10 |
-| Host Name | Samu28 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 13:23:23 |
 
 
 |  | epic_boss_fight_nightmare |
