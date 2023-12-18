@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504059419100 |
-| Players | 8/15 |
+| Players | 4/15 |
 | Host Name | YO ERICK JUANITO DE LA SISE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:55:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504059901059 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 12:56:23 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504060176550 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | vova CR7 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 12:56:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504060296513 |
+| Players | 2/10 |
+| Host Name | Торгую на Futures 100x |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 12:57:12 |
 
 
 |  | epic_boss_fight_nightmare |
