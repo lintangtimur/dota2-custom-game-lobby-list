@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504092510145 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Komm, süßer Tod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:02:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504094107275 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:05:47 |
