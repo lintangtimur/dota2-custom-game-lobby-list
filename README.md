@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503917896208 |
-| Players | 9/10 |
-| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 07:43:49 |
+| Lobby ID | 28566503918072640 |
+| Players | 6/8 |
+| Host Name | DealtrenS |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 07:44:13 |
 
 
 |  | ot3_desert_octet |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503918072405 |
-| Players | 1/15 |
-| Host Name | jimmy butler haircut of dota |
+| Players | 3/15 |
+| Host Name | ork |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:44:13 |
 
@@ -50,18 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503917636578 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | JUEGO COMO QUIERO HJDPEERA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:43:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503918072640 |
-| Players | 5/8 |
-| Host Name | DealtrenS |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 07:44:13 |
 
 
