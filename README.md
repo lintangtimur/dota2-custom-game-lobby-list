@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504121420353 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ПСИХОПАТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:56:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504121524666 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:57:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504122640287 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Fugufug |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 14:59:05 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504123046526 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Kulebyaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:59:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566504123332953 |
+| Players | 2/10 |
+| Host Name | † Gloxinia † |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 15:00:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Deep Rock Miner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:58:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566504123314164 |
+| Players | 1/10 |
+| Host Name | クリシャ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 15:00:18 |
 
 
