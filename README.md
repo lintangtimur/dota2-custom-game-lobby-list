@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504069315910 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | masu nguyen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 13:15:42 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504072272371 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Боба |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:21:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504072265392 |
-| Players | 1/8 |
-| Host Name | женя |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 13:21:49 |
+| Lobby ID | 28566504072379753 |
+| Players | 1/10 |
+| Host Name | Пиносол |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 18, 2023 13:22:02 |
 
 
 |  | ot3_jungle_quintet |
