@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504048202136 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Saigo |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 12:31:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504048750875 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Lucifer- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:32:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504048227927 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | pacp.ec |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 12:31:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504042742046 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 12:19:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504048141048 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Canrise |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:31:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504048565925 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ILAVE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:32:16 |
@@ -67,11 +67,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566504049511948 |
+| Lobby ID | 28566504049587543 |
 | Players | 2/10 |
-| Host Name | [OFF] Boss of this GYM |
+| Host Name | Сквази мабзабза |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 12:34:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566504049575680 |
+| Players | 6/24 |
+| Host Name | リル・レキャム・プー |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 12:34:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504049736650 |
+| Players | 1/8 |
+| Host Name | Трахался |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 12:34:18 |
+| Lobby Creation Time | Monday, December 18, 2023 12:34:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504049778013 |
+| Players | 1/8 |
+| Host Name | Dereck Zoolander. |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 12:34:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504049786209 |
+| Players | 1/8 |
+| Host Name | El Perforador de Culos |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 12:34:55 |
 
 
 |  | epic_boss_fight_nightmare |
