@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503910498214 |
-| Players | 7/8 |
-| Host Name | Scotford |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 07:27:04 |
+| Lobby ID | 28566503911791441 |
+| Players | 1/24 |
+| Host Name | 사랑해 나연 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:30:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503900107703 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 07:04:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503911269908 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | DOTISTA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:28:50 |
@@ -49,10 +49,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503911791441 |
+| Lobby ID | 28566503911871596 |
 | Players | 1/24 |
-| Host Name | 사랑해 나연 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:30:04 |
+| Host Name | Nothingtoxic |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 07:30:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503911913173 |
+| Players | 5/8 |
+| Host Name | DYD-ShabLKobba |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 07:30:21 |
 
 
