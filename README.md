@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 15:35:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504155517092 |
-| Players | 8/10 |
-| Host Name | POWR |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 15:56:44 |
+| Lobby ID | 28566504155703689 |
+| Players | 10/15 |
+| Host Name | KAWAZAKI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 15:57:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504154184731 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Bobe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 15:54:26 |
@@ -47,21 +47,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 15:56:14 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504155981033 |
+| Players | 4/8 |
+| Host Name | пиздолиз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 15:57:33 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504155703689 |
-| Players | 8/15 |
-| Host Name | KAWAZAKI |
+| Lobby ID | 28566504156059725 |
+| Players | 6/15 |
+| Host Name | POWR |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 18, 2023 15:57:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504156076334 |
+| Players | 2/8 |
+| Host Name | йоу |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:57:04 |
+| Lobby Creation Time | Monday, December 18, 2023 15:57:43 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504154071639 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | ZaZu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:54:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566504156060843 |
+| Players | 2/10 |
+| Host Name | oppixoppixfruit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 15:57:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28566504156173323 |
+| Players | 1/5 |
+| Host Name | Laglikk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 15:57:53 |
 
 
