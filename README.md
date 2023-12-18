@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504053616774 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | TIMON |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 12:43:11 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504055896965 |
-| Players | 2/24 |
-| Host Name | 기다려 |
+| Players | 5/24 |
+| Host Name | Rock.Baby.Rock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:48:02 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504053403244 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:42:43 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mojac |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 12:47:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566504055900754 |
-| Players | 3/10 |
-| Host Name | Jaribee |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 12:48:02 |
 
 
 |  | epic_boss_fight_nightmare |
