@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504035612358 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | kaorimiyazono |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 12:04:52 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504037881731 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | ✪ @CJ sAvi0r |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 12:09:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504035159504 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 热水？渣男? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 12:03:54 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 12:06:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504037988448 |
-| Players | 1/15 |
-| Host Name | 라다메스 |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 12:09:54 |
+| Lobby ID | 28566504038145181 |
+| Players | 2/8 |
+| Host Name | don ratone |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 12:10:14 |
 
 
 |  | epic_boss_fight_nightmare |
