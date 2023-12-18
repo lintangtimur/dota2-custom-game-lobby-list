@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504148418427 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | TITO |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 15:44:25 |
