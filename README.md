@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504065891166 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | CAGO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 13:08:43 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566504055654770 |
-| Players | 1/8 |
-| Host Name | Para kang halaman |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 18, 2023 12:47:31 |
+| Lobby ID | 28566504063263201 |
+| Players | 7/8 |
+| Host Name | Resusss |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 13:03:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504066286947 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Haktaru |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:09:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504042742046 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | ніхто |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 12:19:49 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Solowind |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:10:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504063263201 |
-| Players | 7/8 |
-| Host Name | Resusss |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 13:03:19 |
 
 
 |  | epic_boss_fight_nightmare |
