@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504029831834 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Saigo |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 11:52:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504031195681 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 20 y.o абсолют v potoke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 11:55:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504032117663 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Toffy La Realeza |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:57:26 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 11:54:26 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504032394177 |
+| Players | 1/15 |
+| Host Name | 9mm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 11:58:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566504026340458 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | nirvana |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 11:45:09 |
