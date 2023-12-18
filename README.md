@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503911791441 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 사랑해 나연 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:30:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503911976134 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Шеденков Виктор Е |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 07:30:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503911922806 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Zzzzzzz... |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:30:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503911991483 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ME LEDER |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:30:32 |
@@ -94,10 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503912161642 |
+| Lobby ID | 28566503912213128 |
 | Players | 1/10 |
-| Host Name | PMA MODE 24/7 |
+| Host Name | Run Yo Pockets |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 07:31:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503912218850 |
+| Players | 6/10 |
+| Host Name | EMBARAZAME Y ABANDONAME |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:30:55 |
+| Lobby Creation Time | Monday, December 18, 2023 07:31:03 |
 
 
