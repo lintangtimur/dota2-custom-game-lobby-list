@@ -11,58 +11,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503923611149 |
-| Players | 5/8 |
-| Host Name | eppa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 07:56:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503923232809 |
-| Players | 8/10 |
-| Host Name | CORRALITO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:55:58 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503920537224 |
+| Lobby ID | 28566503923970487 |
 | Players | 1/24 |
-| Host Name | ™Slim Shady® |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 07:49:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503922638933 |
-| Players | 6/10 |
-| Host Name | Buğra |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 07:54:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503923830716 |
-| Players | 2/8 |
-| Host Name | baboon |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 07:57:22 |
+| Host Name | MODO ELDEN LORD |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:57:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503923830450 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | (ramonfreak) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:57:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503920537224 |
+| Players | 10/24 |
+| Host Name | ™Slim Shady® |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 07:49:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566503924081265 |
+| Players | 2/8 |
+| Host Name | PieroGodd |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:57:56 |
 
 
 |  | epic_boss_fight_nightmare |
