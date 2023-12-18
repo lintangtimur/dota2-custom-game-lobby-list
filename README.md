@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504104781089 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | eggsandwich |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 14:26:25 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:28:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566504106126997 |
+| Players | 1/10 |
+| Host Name | Mawen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 14:28:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566504106141992 |
+| Players | 2/10 |
+| Host Name | 76561198280975407 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 14:28:57 |
 
 
