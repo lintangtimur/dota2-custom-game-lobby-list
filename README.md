@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 10:13:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503986781585 |
-| Players | 14/15 |
-| Host Name | Feed Control |
+| Lobby ID | 28566503986766740 |
+| Players | 17/24 |
+| Host Name | El Maldito Tedy |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:19:44 |
+| Lobby Creation Time | Monday, December 18, 2023 10:19:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503986746892 |
-| Players | 14/15 |
-| Host Name | Midnight |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 10:19:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503986766740 |
-| Players | 9/24 |
-| Host Name | El Maldito Tedy |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:19:42 |
+| Lobby ID | 28566503987382509 |
+| Players | 1/15 |
+| Host Name | Cosmic |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 18, 2023 10:21:03 |
 
 
 |  | epic_boss_fight_nightmare |
