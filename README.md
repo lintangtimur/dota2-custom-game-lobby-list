@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503941728416 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Destroyer |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:38:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503942056934 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 08:39:27 |
@@ -41,73 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503941652343 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | Solo juego con pingones |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 08:38:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503937215489 |
-| Players | 14/15 |
-| Host Name | SKY 3.0 |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 18, 2023 08:28:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503937322511 |
-| Players | 2/24 |
-| Host Name | <Cyborgix> |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 08:28:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503942391892 |
-| Players | 2/10 |
-| Host Name | Full-Time Griefer |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 08:40:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503941321019 |
-| Players | 7/10 |
-| Host Name | Dam |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 08:37:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503941554309 |
-| Players | 2/10 |
-| Host Name | Саня Белый prime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 08:38:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503942279042 |
-| Players | 4/8 |
-| Host Name | real GOAT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 08:39:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28566503941318935 |
-| Players | 9/10 |
-| Host Name | »Rewrite] |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:37:44 |
 
 
 |  | ot3_desert_octet |
@@ -119,10 +56,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 08:40:16 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28566503937322511 |
+| Players | 2/24 |
+| Host Name | <Cyborgix> |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 08:28:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503942503310 |
+| Players | 5/15 |
+| Host Name | ВОТОНЯ 雨 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 08:40:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503942614655 |
+| Players | 1/15 |
+| Host Name | El duderino |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 08:40:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28566503941554309 |
+| Players | 8/10 |
+| Host Name | Саня Белый prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 08:38:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503940899230 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Mi Betchi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 08:36:45 |
@@ -131,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503942252256 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | CokCokCokCokCok |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:39:54 |
