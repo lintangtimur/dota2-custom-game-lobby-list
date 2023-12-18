@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503913372859 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Dr Hans Muller Santa Cruz |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:33:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503911871596 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | Nothingtoxic |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 07:30:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503913118235 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | q сок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 07:33:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503912834502 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | el pakaszzzzzzzzzzzz |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:32:24 |
