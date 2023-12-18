@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503952822153 |
-| Players | 14/15 |
-| Host Name | maria.alexandra |
+| Lobby ID | 28566503953263501 |
+| Players | 4/10 |
+| Host Name | LITTLE PUDGE |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 09:03:59 |
+| Lobby Creation Time | Monday, December 18, 2023 09:05:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503928218567 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 08:07:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503952436521 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Fry-Chance |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 09:03:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503953169803 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:04:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503952513184 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | CDA- |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 09:03:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503953005122 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 09:04:25 |
@@ -85,20 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566503950651558 |
-| Players | 13/15 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 08:59:06 |
+| Lobby ID | 28566503875783718 |
+| Players | 11/15 |
+| Host Name | 13 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 18, 2023 06:14:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503953263501 |
-| Players | 1/10 |
-| Host Name | LITTLE PUDGE |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 09:05:01 |
+| Lobby ID | 28566503953323324 |
+| Players | 1/24 |
+| Host Name | Jin |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 09:05:09 |
 
 
 |  | epic_boss_fight_nightmare |
