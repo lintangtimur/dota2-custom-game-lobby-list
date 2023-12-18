@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503937817428 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Error.On.Fire.xD |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 08:29:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503938214050 |
-| Players | 13/15 |
-| Host Name | Art Vandelay |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 08:30:38 |
+| Lobby ID | 28566503938899974 |
+| Players | 1/8 |
+| Host Name | Throw down your fears |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 18, 2023 08:32:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503937824859 |
-| Players | 21/24 |
-| Host Name | ZENAKU |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 08:29:43 |
+| Lobby ID | 28566503938820851 |
+| Players | 1/24 |
+| Host Name | T.S.MOHAX |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 18, 2023 08:31:56 |
 
 
 |  | ot3_gardens_duo |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 08:30:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503938820851 |
-| Players | 1/24 |
-| Host Name | T.S.MOHAX |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 18, 2023 08:31:56 |
 
 
