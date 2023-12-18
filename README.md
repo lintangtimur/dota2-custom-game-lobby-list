@@ -14,34 +14,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503921487014 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | #VOLTA CHIMVOC - CHIMBAS NO DS |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 18, 2023 07:51:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566503921115127 |
-| Players | 12/15 |
-| Host Name | lina paucar |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:51:07 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503919543591 |
+| Lobby ID | 28566503921610770 |
 | Players | 1/24 |
-| Host Name | walang gana |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 07:47:34 |
+| Host Name | :D |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:52:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566503921462730 |
+| Players | 7/15 |
+| Host Name | Sleyer666 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:51:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503917045920 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | zxc csgetto.app |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 07:41:53 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 07:51:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503921462730 |
-| Players | 5/15 |
-| Host Name | Sleyer666 |
+| Lobby ID | 28566503921667343 |
+| Players | 1/8 |
+| Host Name | Z Locoxd Z |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:51:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503921610770 |
-| Players | 1/24 |
-| Host Name | :D |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:52:12 |
+| Lobby Creation Time | Monday, December 18, 2023 07:52:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | VURP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 07:47:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28566503921601656 |
-| Players | 1/5 |
-| Host Name | Buwsta |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 18, 2023 07:52:11 |
 
 
