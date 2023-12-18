@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504063479707 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 13:03:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504066580999 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Solowind |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:10:07 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 13:04:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504067490596 |
-| Players | 2/15 |
-| Host Name | анлак |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 13:11:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504067514205 |
@@ -72,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 13:12:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28566504067604579 |
+| Players | 2/15 |
+| Host Name | анлак |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 13:12:13 |
 
 
 |  | epic_boss_fight_nightmare |
