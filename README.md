@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504108744402 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | N!cK Machiavelli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 14:33:42 |
@@ -63,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | magnus did nothing wrong |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 14:36:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28566504110076864 |
+| Players | 1/8 |
+| Host Name | VIKING |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 18, 2023 14:36:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28566504110110079 |
+| Players | 1/10 |
+| Host Name | =( |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 14:36:17 |
 
 
