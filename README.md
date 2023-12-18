@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504063479707 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 13:03:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566504066286947 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Haktaru |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:09:31 |
@@ -50,55 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566504063750364 |
-| Players | 13/24 |
+| Players | 20/24 |
 | Host Name | Monty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 18, 2023 13:04:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504062185271 |
-| Players | 2/24 |
-| Host Name | Chisato |
+| Lobby ID | 28566504066663770 |
+| Players | 1/15 |
+| Host Name | Romano |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 13:01:06 |
+| Lobby Creation Time | Monday, December 18, 2023 13:10:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28566504066534452 |
-| Players | 1/10 |
-| Host Name | inyourdream |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 13:10:01 |
+| Lobby ID | 28566504064483309 |
+| Players | 12/15 |
+| Host Name | Misfortunes Enjoyer |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 13:05:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504066580999 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Solowind |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 18, 2023 13:10:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28566504066630941 |
-| Players | 1/15 |
-| Host Name | CHEFCITO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 13:10:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28566504064660865 |
-| Players | 9/10 |
-| Host Name | Lei |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 13:06:14 |
 
 
 |  | epic_boss_fight_nightmare |
