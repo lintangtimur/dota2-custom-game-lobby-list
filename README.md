@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503978164752 |
-| Players | 8/10 |
-| Host Name | CameraMan |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 10:00:42 |
+| Lobby ID | 28566503979609642 |
+| Players | 2/10 |
+| Host Name | Казнил бы каждого |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 18, 2023 10:03:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28566503979534270 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Art Vandelay |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 10:03:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503979570518 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SHOD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 10:03:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566503979569418 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Sad Clown((( |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 18, 2023 10:03:47 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28566503979609642 |
-| Players | 2/10 |
-| Host Name | Казнил бы каждого |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 10:03:53 |
+| Lobby ID | 28566503979688240 |
+| Players | 1/10 |
+| Host Name | Kael |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 18, 2023 10:04:03 |
 
 
 |  | epic_boss_fight_challenger |
