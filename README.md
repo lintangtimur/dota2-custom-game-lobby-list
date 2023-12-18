@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28566504156551718 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | резиновый сухарь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:58:32 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566504156703543 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Вася Залупкин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 15:58:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504157390853 |
-| Players | 3/8 |
-| Host Name | MohnachRe banditcamp.com |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 15:59:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566504157397561 |
-| Players | 2/8 |
-| Host Name | йоу |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 15:59:58 |
 
 
 |  | epic_boss_fight_nightmare |
