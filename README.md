@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 07:04:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28566503919264298 |
-| Players | 14/15 |
-| Host Name | ‡Hanamichi Sakuragi‡ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:46:56 |
+| Lobby ID | 28566503919543591 |
+| Players | 1/24 |
+| Host Name | walang gana |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 18, 2023 07:47:34 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 18, 2023 07:41:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503919161868 |
-| Players | 12/15 |
-| Host Name | kejsi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 18, 2023 07:46:42 |
+| Lobby ID | 28566503919446544 |
+| Players | 6/8 |
+| Host Name | El Gotto Cuba |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 18, 2023 07:47:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28566503919011814 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Полосатый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 18, 2023 07:46:22 |
@@ -67,44 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28566503918721360 |
-| Players | 6/8 |
-| Host Name | Sadpk |
+| Lobby ID | 28566503919775266 |
+| Players | 1/8 |
+| Host Name | flux |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 18, 2023 07:45:42 |
+| Lobby Creation Time | Monday, December 18, 2023 07:48:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28566503919421377 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 18, 2023 07:47:18 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28566503919446544 |
-| Players | 5/8 |
-| Host Name | El Gotto Cuba |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 18, 2023 07:47:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28566503919543591 |
-| Players | 1/24 |
-| Host Name | walang gana |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 18, 2023 07:47:34 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28566503919446603 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | rocksteady |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 18, 2023 07:47:21 |
