@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28570797289751986 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | lil dozhd |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 19, 2023 18:57:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28570797299855698 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Laaaaaaaaag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 19, 2023 19:08:17 |
@@ -40,38 +40,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28570797299988633 |
-| Players | 4/15 |
-| Host Name | XII0IV |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:08:26 |
+| Lobby ID | 28570797301100516 |
+| Players | 3/15 |
+| Host Name | Я - ДА, ТЫ - НЕТ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 19, 2023 19:09:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28570797285887839 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 19, 2023 18:52:45 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28570797301231820 |
+| Players | 1/15 |
+| Host Name | погоди погоди |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 19, 2023 19:09:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28570797300630286 |
+| Players | 9/10 |
+| Host Name | токсичный уголек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 19, 2023 19:09:08 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28570797300289530 |
-| Players | 3/8 |
-| Host Name | Typhoon |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:08:45 |
+| Lobby ID | 28570797301350709 |
+| Players | 4/8 |
+| Host Name | Джон Шпєрма |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 19, 2023 19:09:55 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28570797299184105 |
-| Players | 3/10 |
-| Host Name | Akaza |
+| Lobby ID | 28570797301102891 |
+| Players | 1/5 |
+| Host Name | Yun-The Pro |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:07:33 |
+| Lobby Creation Time | Tuesday, December 19, 2023 19:09:39 |
 
 
 |  | epic_boss_fight_nightmare |
