@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28570797333938012 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | baldik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 19, 2023 19:43:11 |
@@ -32,37 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28570797336635204 |
-| Players | 8/24 |
+| Players | 17/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 19, 2023 19:45:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28570797335923637 |
-| Players | 2/8 |
-| Host Name | uhateme? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:45:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28570797338283266 |
-| Players | 3/10 |
-| Host Name | сигаретный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:47:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28570797338424303 |
-| Players | 3/8 |
-| Host Name | Ящер |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:47:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,19 +49,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28570797338736580 |
-| Players | 3/15 |
-| Host Name | Dakanarびてき |
+| Lobby ID | 28570797339687180 |
+| Players | 6/15 |
+| Host Name | 4urin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:47:46 |
+| Lobby Creation Time | Tuesday, December 19, 2023 19:48:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28570797339886673 |
+| Players | 3/8 |
+| Host Name | F |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 19, 2023 19:48:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28570797340045037 |
+| Players | 1/10 |
+| Host Name | Gus |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 19, 2023 19:49:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28570797336100059 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Lie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 19, 2023 19:45:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28570797339419720 |
+| Players | 4/10 |
+| Host Name | Ḿ₳ńtîḟî |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 19, 2023 19:48:25 |
 
 
