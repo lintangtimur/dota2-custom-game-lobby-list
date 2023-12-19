@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28570797299855698 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | Laaaaaaaaag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 19, 2023 19:08:17 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 19, 2023 19:08:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28570797301231820 |
-| Players | 11/15 |
-| Host Name | погоди погоди |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:09:48 |
+| Lobby ID | 28570797302228861 |
+| Players | 2/8 |
+| Host Name | napazit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 19, 2023 19:10:55 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28570797302137408 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | desperation in my eyes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 19, 2023 19:10:48 |
@@ -67,73 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28570797302137384 |
-| Players | 2/15 |
-| Host Name | クレイジーパンダ |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:10:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28570797302150925 |
-| Players | 4/10 |
-| Host Name | искупление |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:10:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28570797302228861 |
-| Players | 1/8 |
-| Host Name | napazit |
+| Lobby ID | 28570797302700559 |
+| Players | 4/15 |
+| Host Name | ฅ^•ﻌ•^ฅ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:10:55 |
+| Lobby Creation Time | Tuesday, December 19, 2023 19:11:26 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28570797300401902 |
-| Players | 1/5 |
-| Host Name | Гнев |
+| Lobby ID | 28570797303187474 |
+| Players | 1/24 |
+| Host Name | Девственица |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:08:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28570797300217900 |
-| Players | 8/10 |
-| Host Name | PushTheTempo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:08:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28570797301650158 |
-| Players | 7/10 |
-| Host Name | Mawen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:10:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28570797299184105 |
-| Players | 9/10 |
-| Host Name | Akaza |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:07:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28570797302153271 |
-| Players | 1/10 |
-| Host Name | momo&peach princess |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 19, 2023 19:10:49 |
+| Lobby Creation Time | Tuesday, December 19, 2023 19:11:58 |
 
 
