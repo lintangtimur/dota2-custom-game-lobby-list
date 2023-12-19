@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28570797484359621 |
-| Players | 5/10 |
-| Host Name | KAWASAKI |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 19, 2023 21:55:42 |
+| Lobby ID | 28570797483198291 |
+| Players | 12/15 |
+| Host Name | N o V a |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 19, 2023 21:54:39 |
 
 
 |  | ot3_desert_octet |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28570797453061868 |
-| Players | 12/15 |
-| Host Name | ☭ Cb. Daciolo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 19, 2023 21:28:35 |
+| Lobby ID | 28570797485391795 |
+| Players | 10/15 |
+| Host Name | GreenBolt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 19, 2023 21:56:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 19, 2023 21:44:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28570797483846475 |
-| Players | 11/15 |
-| Host Name | Levi Ackerman |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 19, 2023 21:55:14 |
+| Lobby ID | 28570797484527276 |
+| Players | 5/8 |
+| Host Name | я руинер бтв |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 19, 2023 21:55:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28570797484580396 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Soulwarrior |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 19, 2023 21:55:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28570797452938810 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Erased. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 19, 2023 21:28:29 |
@@ -86,34 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28570797482963026 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | AleqThunder |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 19, 2023 21:54:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28570797483198291 |
-| Players | 8/15 |
-| Host Name | N o V a |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 19, 2023 21:54:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28570797484527276 |
-| Players | 1/8 |
-| Host Name | я руинер бтв |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 19, 2023 21:55:51 |
+| Lobby ID | 28570797479512470 |
+| Players | 23/24 |
+| Host Name | Eye |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 19, 2023 21:51:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28570797481842371 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | РУСЛАН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 19, 2023 21:53:28 |
@@ -131,27 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28570797482610344 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | (￣▽￣) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 19, 2023 21:54:08 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28570797484604140 |
-| Players | 3/7 |
-| Host Name | вяigнт |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 19, 2023 21:55:55 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28570797484644871 |
-| Players | 1/5 |
-| Host Name | WALL-E |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 19, 2023 21:55:57 |
+| Lobby ID | 28570797484664318 |
+| Players | 3/5 |
+| Host Name | Гнев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 19, 2023 21:55:59 |
 
 
