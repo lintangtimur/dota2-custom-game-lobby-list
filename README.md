@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28570797591071576 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | CPP |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 19, 2023 23:34:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28570797587636658 |
-| Players | 23/24 |
-| Host Name | 432one.. 0 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 19, 2023 23:31:29 |
+| Lobby ID | 28570797594827727 |
+| Players | 2/10 |
+| Host Name | Tony |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 19, 2023 23:38:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28570797593365664 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | МОРИАРТИ(КРАШНУЛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 19, 2023 23:37:04 |
@@ -49,71 +49,62 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28570797592630215 |
-| Players | 22/24 |
-| Host Name | BUTUH DANA CEPAT |
+| Lobby ID | 28570797594509339 |
+| Players | 12/24 |
+| Host Name | Duy Ngã Độc Tôn |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 19, 2023 23:36:21 |
+| Lobby Creation Time | Tuesday, December 19, 2023 23:38:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28570797594030938 |
-| Players | 9/15 |
-| Host Name | Hao |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 19, 2023 23:37:43 |
+| Lobby ID | 28570797594546913 |
+| Players | 2/24 |
+| Host Name | zx. |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, December 19, 2023 23:38:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28570797593587294 |
+| Lobby ID | 28570797594899790 |
 | Players | 9/10 |
-| Host Name | Percique |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 19, 2023 23:37:17 |
+| Host Name | temip |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 19, 2023 23:38:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28570797593253431 |
-| Players | 1/24 |
-| Host Name | Vegan Boy |
+| Players | 5/24 |
+| Host Name | Zeoleur |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 19, 2023 23:36:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28570797593388780 |
-| Players | 7/8 |
-| Host Name | Oreo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 19, 2023 23:37:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28570797594223778 |
-| Players | 3/15 |
-| Host Name | Don't run! |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 19, 2023 23:37:54 |
+| Lobby ID | 28570797594868555 |
+| Players | 14/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 19, 2023 23:38:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28570797594304059 |
+| Lobby ID | 28570797595233725 |
 | Players | 1/8 |
-| Host Name | believ |
+| Host Name | the great longin |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 19, 2023 23:37:59 |
+| Lobby Creation Time | Tuesday, December 19, 2023 23:38:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28570797584786920 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | PUDGE¿ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 19, 2023 23:28:43 |
@@ -128,12 +119,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 19, 2023 23:35:28 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28570797594987935 |
+| Players | 1/7 |
+| Host Name | Сасаки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 19, 2023 23:38:39 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28570797592605553 |
-| Players | 3/5 |
-| Host Name | Я чашка |
+| Lobby ID | 28570797594965464 |
+| Players | 1/5 |
+| Host Name | -500 |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 19, 2023 23:36:20 |
+| Lobby Creation Time | Tuesday, December 19, 2023 23:38:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28570797595106224 |
+| Players | 1/10 |
+| Host Name | SakalFTW |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 19, 2023 23:38:46 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28570797595235671 |
+| Players | 1/5 |
+| Host Name | USDKLVASEGHJKFRVLVMOWE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 19, 2023 23:38:53 |
 
 
