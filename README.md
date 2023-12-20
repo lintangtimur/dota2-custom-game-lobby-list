@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177981125012 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:35:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178009360426 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | шнайпер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:16:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178006755410 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Папа своей мамы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:12:52 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178009049484 |
-| Players | 1/10 |
-| Host Name | takerusan |
+| Players | 5/10 |
+| Host Name | i win always alone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:16:04 |
 
@@ -68,9 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178009479475 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | AWSdevil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:16:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178009891959 |
+| Players | 2/15 |
+| Host Name | Happy Ghoul(^_^) |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:17:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28572178009640167 |
+| Players | 5/10 |
+| Host Name | Twice |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:16:54 |
 
 
