@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 16:49:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572177952662571 |
-| Players | 21/24 |
-| Host Name | ym |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:49:01 |
+| Lobby ID | 28572177954006583 |
+| Players | 8/15 |
+| Host Name | General |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 16:51:17 |
 
 
 |  | ot3_desert_octet |
@@ -38,22 +38,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 16:48:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572177953485026 |
-| Players | 6/10 |
-| Host Name | Remor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:50:24 |
+| Lobby ID | 28572177954232408 |
+| Players | 6/24 |
+| Host Name | T.T |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 16:51:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28572177954121448 |
+| Players | 3/24 |
+| Host Name | 4 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 20, 2023 16:51:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572177954400338 |
+| Players | 1/15 |
+| Host Name | 1 dmg |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 16:51:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28572177948761473 |
-| Players | 9/10 |
-| Host Name | Данька овердоз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:42:15 |
+| Lobby ID | 28572177953732698 |
+| Players | 5/10 |
+| Host Name | крутой228 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 16:50:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -85,19 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28572177953732698 |
+| Lobby ID | 28572177954060032 |
 | Players | 2/10 |
-| Host Name | крутой228 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:50:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28572177953959241 |
-| Players | 2/5 |
-| Host Name | Zoya, ya konchau |
+| Host Name | Черная смерть |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:51:12 |
+| Lobby Creation Time | Wednesday, December 20, 2023 16:51:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28572177948761473 |
+| Players | 7/10 |
+| Host Name | Данька овердоз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 16:42:15 |
 
 
