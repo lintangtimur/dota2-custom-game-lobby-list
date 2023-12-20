@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 17:07:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178025725198 |
-| Players | 11/15 |
-| Host Name | zxc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:37:59 |
+| Lobby ID | 28572178026586748 |
+| Players | 3/10 |
+| Host Name | ANAKONDA |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:39:04 |
 
 
 |  | ot3_desert_octet |
@@ -41,10 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178026170148 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Endsieg |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:38:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178026723528 |
+| Players | 1/15 |
+| Host Name | Demon of the sword |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:39:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178026740200 |
+| Players | 1/15 |
+| Host Name | Dark[O]ne |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:39:16 |
 
 
 |  | epic_boss_fight_normal |
