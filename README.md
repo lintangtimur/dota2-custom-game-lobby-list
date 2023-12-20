@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178000859088 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | а минусы будут? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:04:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178000586404 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Rock.Baby.Rock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:04:18 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178000108477 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | You will die |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:03:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572178000962896 |
-| Players | 1/15 |
-| Host Name | ควยมาดิ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:04:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572178000910791 |
-| Players | 11/15 |
-| Host Name | KELL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:04:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 18:04:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178001202057 |
-| Players | 2/10 |
-| Host Name | PLYSHKA |
+| Lobby ID | 28572178001503717 |
+| Players | 3/15 |
+| Host Name | smthg |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:05:10 |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:05:35 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28572177998672786 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | I am your death |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:01:34 |
