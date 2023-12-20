@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572177928228968 |
-| Players | 10/15 |
-| Host Name | Dekant |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:06:17 |
+| Lobby ID | 28572177929017829 |
+| Players | 3/15 |
+| Host Name | dazai |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 20, 2023 16:07:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177928857129 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | jb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:07:24 |
@@ -65,30 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 16:07:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572177929017829 |
-| Players | 2/15 |
-| Host Name | dazai |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:07:41 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572177926059568 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | ****** |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:02:29 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28572177929058320 |
-| Players | 1/7 |
-| Host Name | Fake Slim Shady |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:07:45 |
 
 
