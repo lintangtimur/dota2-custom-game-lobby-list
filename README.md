@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178300881739 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Hopeful Men (GPRD) |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:07:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178307966486 |
-| Players | 1/15 |
-| Host Name | JR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 23:14:00 |
+| Lobby ID | 28572178307857906 |
+| Players | 3/8 |
+| Host Name | 7 |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 20, 2023 23:13:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178230670551 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:59:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178303594901 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | When eres dani |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:09:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178307146289 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Fy |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:13:13 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178307785040 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Potato-sama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:13:49 |
@@ -104,25 +104,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178307918294 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | enemy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:13:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178307857906 |
-| Players | 3/8 |
-| Host Name | 7 |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, December 20, 2023 23:13:54 |
+| Lobby ID | 28572178307147483 |
+| Players | 9/10 |
+| Host Name | æksiəˈmætɪk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 23:13:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178308322470 |
+| Players | 1/15 |
+| Host Name | A |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 20, 2023 23:14:21 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28572178304742831 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | Karien |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:10:50 |
