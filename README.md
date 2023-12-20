@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177923467265 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | чемпион |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:57:43 |
@@ -59,28 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177922666545 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 1948esport4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:56:17 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572177922951377 |
-| Players | 14/15 |
-| Host Name | FRWL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:56:48 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177923129137 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | GENE- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:57:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572177924159412 |
+| Players | 2/15 |
+| Host Name | Pepehands |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:58:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572177924327134 |
+| Players | 1/15 |
+| Host Name | Diamond Fish sauce |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:59:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bender |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:56:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28572177924258958 |
+| Players | 1/5 |
+| Host Name | t0r4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:59:09 |
 
 
