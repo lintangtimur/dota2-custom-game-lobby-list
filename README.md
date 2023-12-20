@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 15:44:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572177916664268 |
-| Players | 11/15 |
-| Host Name | погоди погоди |
+| Lobby ID | 28572177917373363 |
+| Players | 3/10 |
+| Host Name | Nekzzy |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:45:34 |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:46:53 |
 
 
 |  | ot3_desert_octet |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 雨墨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:45:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28572177917373363 |
-| Players | 2/10 |
-| Host Name | Nekzzy |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:46:53 |
 
 
 |  | epic_boss_fight_nightmare |
