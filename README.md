@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178137550050 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | The not to be named one |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:35:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178129344220 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Tom |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:27:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178128822535 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | HIM™ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:27:24 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178070893777 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:30:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178137209813 |
-| Players | 4/8 |
-| Host Name | Demonic Fox |
+| Lobby ID | 28572178137790420 |
+| Players | 14/15 |
+| Host Name | Filli |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:35:08 |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:35:40 |
 
 
 |  | ot3_desert_octet |
@@ -74,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 20:35:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178137513384 |
-| Players | 4/10 |
-| Host Name | Barney |
+| Lobby ID | 28572178138454918 |
+| Players | 1/8 |
+| Host Name | Mister_⚷_Grinch |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:35:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572178137790420 |
-| Players | 6/15 |
-| Host Name | Filli |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:35:40 |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:36:16 |
 
 
