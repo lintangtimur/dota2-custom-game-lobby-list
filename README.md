@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28572177933917526 |
 | Players | 3/24 |
-| Host Name | Teigu |
+| Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:16:22 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177903828437 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | . |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:22:11 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572177940125225 |
-| Players | 7/15 |
-| Host Name | 1 dmg |
+| Lobby ID | 28572177940718332 |
+| Players | 1/15 |
+| Host Name | ЄXѺҬӉЄГӍіС |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:27:13 |
+| Lobby Creation Time | Wednesday, December 20, 2023 16:28:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177938959390 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | T.T |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:25:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177940615792 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Axe Тайсон |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:28:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177940630600 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 無関心 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:28:07 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:24:57 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28572177940680578 |
-| Players | 1/5 |
-| Host Name | kele |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:28:12 |
 
 
