@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178058917767 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Бархатная бензоп |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:17:13 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178058554432 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | HUGE |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:16:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178059607276 |
+| Players | 1/15 |
+| Host Name | Only Dota=) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:17:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178059871854 |
+| Players | 1/10 |
+| Host Name | :D |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:18:17 |
 
 
 |  | epic_boss_fight_nightmare |
