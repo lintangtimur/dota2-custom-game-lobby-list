@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178286748968 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Чесночный ранч |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:53:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178281432914 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Gonza |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:47:51 |
@@ -49,18 +49,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572178281782552 |
-| Players | 20/24 |
-| Host Name | sabrina suzuki |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 22:48:12 |
+| Lobby ID | 28572178273731093 |
+| Players | 23/24 |
+| Host Name | Romano |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:40:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178287453103 |
-| Players | 3/15 |
-| Host Name | luck in my *** |
+| Players | 1/15 |
+| Host Name | FloweryShirtGuy |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:53:51 |
 
@@ -81,6 +81,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tomoya Uryuu |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:53:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178287588253 |
+| Players | 5/15 |
+| Host Name | лил бейби |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:53:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178287710041 |
+| Players | 4/8 |
+| Host Name | Azər Babaev |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:54:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178287846303 |
+| Players | 4/8 |
+| Host Name | yuta |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:54:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178287235076 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Lin Yushia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:53:38 |
