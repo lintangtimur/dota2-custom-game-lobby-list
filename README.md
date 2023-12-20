@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178028567887 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | 76561198204787636 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:41:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178028381488 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | AbossZz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:41:19 |
@@ -67,26 +67,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178028974035 |
-| Players | 1/8 |
-| Host Name | คนชอบหีย์ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:42:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28572178028984104 |
-| Players | 2/10 |
-| Host Name | winrate 0% |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:42:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28572178028986947 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Matye Bal |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:42:04 |
