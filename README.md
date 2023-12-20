@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178214068530 |
-| Players | 9/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:44:28 |
+| Lobby ID | 28572178223605832 |
+| Players | 4/8 |
+| Host Name | all mute |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:53:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178222475870 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ECHO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:52:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178223009370 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | AckermanN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:52:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178217300817 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 사랑해 나연 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:47:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178223046722 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | legenda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:52:42 |
@@ -63,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kiritogod |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:50:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178223501622 |
+| Players | 2/15 |
+| Host Name | ammak |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:53:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178223584388 |
+| Players | 2/10 |
+| Host Name | DstrTop1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:53:12 |
 
 
