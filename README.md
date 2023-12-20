@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178118239188 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | GrandPa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:17:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178122141093 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Игорь (Артём) |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:21:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178122605062 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Hanni- |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:21:36 |
@@ -68,16 +68,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178122990530 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:21:57 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178123181005 |
+| Players | 1/10 |
+| Host Name | Ramon Ventura |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:22:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178123310237 |
+| Players | 1/8 |
+| Host Name | Jacque Fresco fan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:22:15 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178119319356 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Belike柠檬ICE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:18:27 |
@@ -86,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178114545176 |
-| Players | 2/10 |
-| Host Name | Yatoro |
+| Players | 1/10 |
+| Host Name | Гнев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:13:48 |
 
