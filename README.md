@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177911932025 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | era |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:37:03 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 15:39:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572177913330018 |
-| Players | 11/15 |
-| Host Name | El mirón de sasquatch |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:39:30 |
+| Lobby ID | 28572177914060992 |
+| Players | 1/8 |
+| Host Name | TH.herald.TH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:40:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177913321538 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Max of Tarask |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:39:29 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 15:40:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572177914060992 |
-| Players | 1/8 |
-| Host Name | TH.herald.TH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:40:47 |
+| Lobby ID | 28572177914301961 |
+| Players | 1/15 |
+| Host Name | Jhek |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:41:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572177914009604 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Mayarasamee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:40:42 |
