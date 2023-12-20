@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 16:56:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572177978972980 |
-| Players | 7/8 |
-| Host Name | Destr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:32:03 |
+| Lobby ID | 28572177979678339 |
+| Players | 12/24 |
+| Host Name | Winter Night |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:33:08 |
 
 
 |  | ot3_gardens_duo |
@@ -65,31 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 17:28:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572177979873881 |
-| Players | 10/15 |
-| Host Name | 1 dmg |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:33:26 |
+| Lobby ID | 28572177980297918 |
+| Players | 2/8 |
+| Host Name | Закусь азота |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:34:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177980071714 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | гузлик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:33:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572177979678339 |
-| Players | 10/24 |
-| Host Name | Winter Night |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:33:08 |
+| Lobby ID | 28572177980385621 |
+| Players | 1/15 |
+| Host Name | nuh uh |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:34:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Anti-Creep |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:30:51 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28572177980225523 |
+| Players | 1/7 |
+| Host Name | OMGOMG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:33:58 |
 
 
