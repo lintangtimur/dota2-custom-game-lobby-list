@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177882851587 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 14:43:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572177887239076 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | За жетонами |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 20, 2023 14:51:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177887366354 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ТРУБОЕБ ВИТАЛЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 14:51:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177888065501 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Bot G |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 14:53:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572177888387263 |
-| Players | 1/15 |
+| Players | 12/15 |
 | Host Name | Летчик Зигзаг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 14:53:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177888423058 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Иван Курапов |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 14:53:45 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28572177886549075 |
-| Players | 8/10 |
-| Host Name | Smufff |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 14:50:14 |
+| Lobby ID | 28572177888730278 |
+| Players | 5/10 |
+| Host Name | планы на вечер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 14:54:20 |
 
 
 |  | epic_boss_fight_nightmare |
