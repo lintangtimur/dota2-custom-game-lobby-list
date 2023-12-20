@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178000586404 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Rock.Baby.Rock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:04:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178000108477 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | You will die |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:03:38 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178000910791 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | KELL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:04:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572178000972853 |
-| Players | 3/8 |
-| Host Name | Mary was crazy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:04:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 18:04:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178001087106 |
-| Players | 1/24 |
-| Host Name | Rediska |
+| Lobby ID | 28572178001202057 |
+| Players | 2/10 |
+| Host Name | PLYSHKA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:05:00 |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:05:10 |
 
 
 |  | epic_boss_fight_normal |
