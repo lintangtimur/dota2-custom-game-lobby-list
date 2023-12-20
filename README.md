@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177974394559 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ээDotaтэгжшаадгүшд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:24:48 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 16:56:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572177977682359 |
-| Players | 5/10 |
-| Host Name | Laff3y |
+| Lobby ID | 28572177978783744 |
+| Players | 3/15 |
+| Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:29:59 |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:31:45 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177976618222 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:28:17 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177977596415 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | i want to score my own goals |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:29:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572177975582544 |
-| Players | 14/15 |
-| Host Name | twitch.tv/lone_strider |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:26:41 |
+| Lobby ID | 28572177978559174 |
+| Players | 4/8 |
+| Host Name | СДЕЛАНО В РОССИИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:31:24 |
 
 
 |  | epic_boss_fight_nightmare |
