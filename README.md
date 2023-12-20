@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178160524475 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | s0nata |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:56:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178160600233 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | uglysenk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:56:33 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 20:56:33 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178161252945 |
+| Players | 1/15 |
+| Host Name | pingu |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:57:08 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178161158907 |
-| Players | 1/8 |
-| Host Name | 3aika |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:57:03 |
+| Lobby ID | 28572178161345029 |
+| Players | 3/8 |
+| Host Name | РАДИО МАСТЕР |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:57:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,8 +140,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178157317914 |
-| Players | 3/10 |
-| Host Name | Пила-струна |
+| Players | 1/10 |
+| Host Name | Victim PornHub |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:53:34 |
 
