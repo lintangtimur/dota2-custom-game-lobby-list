@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177895340217 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | ᵖʳᵒᵘᵈᵒᶠᵐʸᵖᵒˢ1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:06:55 |
@@ -41,61 +41,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177923750134 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Марко Ройс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:58:14 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28572177923467265 |
-| Players | 8/10 |
-| Host Name | чемпион |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:57:43 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572177922666545 |
+| Lobby ID | 28572177924513986 |
 | Players | 4/8 |
-| Host Name | 1948esport4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:56:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28572177923129137 |
-| Players | 13/24 |
-| Host Name | GENE- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:57:06 |
+| Host Name | Muninn |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:59:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572177924159412 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | Pepehands |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:58:58 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28572177924689543 |
+| Players | 1/24 |
+| Host Name | Ondloy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:59:57 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572177924327134 |
+| Lobby ID | 28572177924695502 |
 | Players | 1/15 |
-| Host Name | Diamond Fish sauce |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:59:17 |
+| Host Name | 独穿悲喜 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:59:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572177923033950 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | AHAXOPET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:56:56 |
@@ -112,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28572177924258958 |
+| Lobby ID | 28572177924715927 |
 | Players | 1/5 |
-| Host Name | t0r4 |
+| Host Name | Ан Цзин |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:59:09 |
+| Lobby Creation Time | Wednesday, December 20, 2023 16:00:01 |
 
 
