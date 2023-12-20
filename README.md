@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177974394559 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ээDotaтэгжшаадгүшд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:24:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177957231786 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | MADARA |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:56:40 |
@@ -41,37 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177981329571 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | pewpewpew |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:35:39 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572177980845264 |
-| Players | 7/8 |
-| Host Name | Buxan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:34:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572177981071350 |
-| Players | 13/15 |
-| Host Name | Generator |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:35:16 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572177980622645 |
-| Players | 2/10 |
-| Host Name | Baby Rat Princess |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:34:34 |
+| Lobby ID | 28572177981434970 |
+| Players | 1/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:35:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 17:35:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572177981434970 |
-| Players | 1/10 |
-| Host Name | BubiBubi |
+| Lobby ID | 28572177981545947 |
+| Players | 6/24 |
+| Host Name | Ruunzayndae |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:36:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572177981667678 |
+| Players | 2/8 |
+| Host Name | Stoyakovskiy |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:35:49 |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:36:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28572177981646170 |
+| Players | 1/24 |
+| Host Name | noob 2.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:36:09 |
 
 
 |  | epic_boss_fight_nightmare |
