@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177974394559 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | ээDotaтэгжшаадгүшд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:24:48 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177957231786 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | MADARA |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:56:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572177981329571 |
-| Players | 8/10 |
-| Host Name | pewpewpew |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:35:39 |
+| Lobby ID | 28572177981841975 |
+| Players | 1/24 |
+| Host Name | Blue-Code |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:36:27 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177981434970 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:35:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177981545947 |
-| Players | 6/24 |
+| Players | 14/24 |
 | Host Name | Ruunzayndae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:36:00 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177981667678 |
-| Players | 2/8 |
-| Host Name | Stoyakovskiy |
+| Players | 3/8 |
+| Host Name | Jmaster210 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:36:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28572177981646170 |
-| Players | 1/24 |
-| Host Name | noob 2.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:36:09 |
 
 
 |  | epic_boss_fight_nightmare |
