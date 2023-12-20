@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178037072752 |
-| Players | 7/15 |
-| Host Name | smailyxa |
+| Lobby ID | 28572178037747953 |
+| Players | 4/15 |
+| Host Name | Deicide |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:52:01 |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:52:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178037006725 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | . |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:51:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178035859389 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | HUGE |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:50:36 |
@@ -56,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 18:41:18 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28572178037432301 |
+| Players | 3/24 |
+| Host Name | XiaoBaiii |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:52:26 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178034772489 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Twice |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:49:19 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178036330157 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Lt. Wade Jackson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:51:09 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aoasss |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:50:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28572178037789994 |
+| Players | 1/5 |
+| Host Name | Wolf22 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:52:52 |
 
 
