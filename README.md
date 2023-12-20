@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178160630895 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:56:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178156574465 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | BARCO CAMARONERO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:52:53 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 20:56:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178161518575 |
-| Players | 9/15 |
-| Host Name | big shmunk |
+| Lobby ID | 28572178162232634 |
+| Players | 3/8 |
+| Host Name | :) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:57:23 |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:58:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178160610151 |
-| Players | 7/8 |
-| Host Name | Saksa |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:56:34 |
+| Lobby ID | 28572178162256811 |
+| Players | 5/8 |
+| Host Name | VINO BANDIT |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:58:02 |
 
 
 |  | ot3_gardens_duo |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:57:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28572178161828221 |
-| Players | 6/10 |
-| Host Name | NoLucky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:57:39 |
 
 
 |  | epic_boss_fight_nightmare |
