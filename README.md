@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178090559601 |
-| Players | 8/10 |
-| Host Name | De1mar |
+| Lobby ID | 28572178092284043 |
+| Players | 5/8 |
+| Host Name | Kelvis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:50:22 |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:52:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178091462835 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Just One More | POS 13 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:51:17 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gazdratjopi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:51:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572178092238659 |
-| Players | 2/8 |
-| Host Name | Барон Жорик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:52:03 |
 
 
