@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572177959012474 |
-| Players | 13/15 |
-| Host Name | merho |
+| Lobby ID | 28572177960009282 |
+| Players | 5/15 |
+| Host Name | OldWayne |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:59:46 |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:01:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177957655730 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:57:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177959174731 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | AFK |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:00:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177959456232 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | P4eL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:00:33 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572177959553788 |
-| Players | 1/24 |
-| Host Name | Danger Line |
+| Lobby ID | 28572177960197313 |
+| Players | 2/24 |
+| Host Name | MADARA |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:00:44 |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:01:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572177960260252 |
+| Players | 1/8 |
+| Host Name | all alone |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:01:56 |
 
 
 |  | epic_boss_fight_normal |
@@ -85,26 +94,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28572177951269050 |
-| Players | 3/10 |
-| Host Name | Zero Two |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:46:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28572177957050977 |
-| Players | 9/10 |
-| Host Name | Aior |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:56:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28572177957915591 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | AOmine |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:57:50 |
