@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28572178071249310 |
 | Players | 7/15 |
-| Host Name | Und3rC0ntr0l |
+| Host Name | Lester de Molester |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:30:35 |
 
@@ -29,42 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 15:22:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572178071436985 |
-| Players | 3/8 |
-| Host Name | PEPERO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:30:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28572178070268977 |
-| Players | 22/24 |
-| Host Name | OK-joker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:29:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572178071042627 |
-| Players | 1/8 |
-| Host Name | ( |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:30:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28572178070945357 |
-| Players | 3/10 |
-| Host Name | #DFined |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:30:15 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178070893777 |
@@ -74,12 +38,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 19:30:12 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28572178070268977 |
+| Players | 23/24 |
+| Host Name | OK-joker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:29:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178071042627 |
+| Players | 3/8 |
+| Host Name | ( |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:30:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178070945357 |
+| Players | 5/10 |
+| Host Name | #DFined |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:30:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178071774390 |
+| Players | 4/8 |
+| Host Name | _EGASH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:31:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28572178064483803 |
-| Players | 1/10 |
+| Lobby ID | 28572178071647948 |
+| Players | 3/10 |
 | Host Name | Neravel |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:23:17 |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:31:01 |
 
 
