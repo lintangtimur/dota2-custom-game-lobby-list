@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178070893777 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:30:12 |
@@ -29,28 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 15:22:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178099191626 |
-| Players | 5/8 |
-| Host Name | w;gojasl;ekfgw[0 |
+| Lobby ID | 28572178100907923 |
+| Players | 2/15 |
+| Host Name | BelkaRevelka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:58:56 |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:00:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178098511015 |
-| Players | 1/10 |
-| Host Name | SrGato |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:58:15 |
+| Lobby ID | 28572178098917834 |
+| Players | 11/15 |
+| Host Name | HUGE |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:58:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178098970529 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | 你説的都對餒 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:58:42 |
@@ -59,27 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178099954541 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Эрнесто Мавроди |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:59:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178098917834 |
-| Players | 4/15 |
-| Host Name | HUGE |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:58:39 |
+| Lobby ID | 28572178100776954 |
+| Players | 1/10 |
+| Host Name | SrGato |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:00:31 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178097775168 |
-| Players | 9/10 |
-| Host Name | Danielicious |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:57:31 |
+| Lobby ID | 28572178100994392 |
+| Players | 1/8 |
+| Host Name | sss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:00:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28572178100682153 |
+| Players | 1/5 |
+| Host Name | inadequate |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:00:25 |
 
 
