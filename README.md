@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177936166200 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | .. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:20:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572177936436722 |
-| Players | 5/8 |
-| Host Name | Muninn |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:20:46 |
+| Lobby ID | 28572177936574872 |
+| Players | 6/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 16:21:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177936511093 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | хи-хи-ха-ха |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:20:54 |
