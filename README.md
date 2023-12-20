@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572177912441985 |
-| Players | 6/8 |
-| Host Name | SugarCroiss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:37:57 |
+| Lobby ID | 28572177913015480 |
+| Players | 1/8 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:38:57 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572177912958716 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | on samiy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:38:51 |
@@ -59,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572177912229996 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:37:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28572177905665748 |
-| Players | 8/10 |
-| Host Name | Kina |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:25:30 |
 
 
