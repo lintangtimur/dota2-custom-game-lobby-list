@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178165519296 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ]:v |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:00:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178177117015 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | BLiNK |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:11:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178174898586 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Crunchypopo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:09:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178168448004 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Sopita |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:03:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178177241231 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Bms.Frizising |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:11:27 |
@@ -103,26 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178177748849 |
+| Lobby ID | 28572178177980458 |
 | Players | 2/8 |
-| Host Name | Ludvig Van Dam |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:11:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28572178175674581 |
-| Players | 9/10 |
-| Host Name | shayken1337[4:20] |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:10:04 |
+| Host Name | MJ the G |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:12:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178177894677 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Hakai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:12:02 |
