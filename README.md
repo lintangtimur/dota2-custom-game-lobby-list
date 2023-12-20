@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178274661128 |
-| Players | 4/10 |
-| Host Name | Ебу Ногой |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 22:41:17 |
+| Lobby ID | 28572178274961026 |
+| Players | 1/8 |
+| Host Name | Insanire. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:41:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178269466390 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | LIGHTWEIGHT BABY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:36:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178262551229 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | Axe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:29:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178272410531 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | TheShederx |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:39:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178230670551 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:59:43 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178274650131 |
+| Lobby ID | 28572178274726051 |
 | Players | 4/8 |
-| Host Name | 8man |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 22:41:16 |
+| Host Name | Drive |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:41:21 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178272853813 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Spongibek Al-Bobar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:39:32 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178272959670 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | opZZesion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:39:38 |
@@ -104,37 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178274491465 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:41:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178274726051 |
-| Players | 1/8 |
-| Host Name | Drive |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 22:41:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28572178274330940 |
-| Players | 1/5 |
-| Host Name | Hunt Hoe-Down |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, December 20, 2023 22:40:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28572178274545435 |
-| Players | 2/10 |
-| Host Name | Knowledge |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 22:41:10 |
+| Lobby ID | 28572178275071057 |
+| Players | 5/10 |
+| Host Name | LHPixel |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:41:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vegabone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:41:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28572178274545435 |
+| Players | 3/10 |
+| Host Name | Knowledge |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:41:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28572178275227961 |
+| Players | 1/5 |
+| Host Name | Hunt Hoe-Down |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:41:50 |
 
 
