@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178288047481 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | коля железяка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:54:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178286228029 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Shorthair |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:52:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178289099700 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Neabura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:55:29 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178287243801 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Tomoya Uryuu |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:53:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178288930698 |
-| Players | 1/10 |
-| Host Name | SNUS SNUS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 20, 2023 22:55:19 |
+| Lobby ID | 28572178289453314 |
+| Players | 5/8 |
+| Host Name | 85.RAVAR.85 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:55:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178280362188 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Bruce |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:46:48 |
@@ -83,20 +83,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 22:47:51 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178289764924 |
+| Players | 1/10 |
+| Host Name | SNUS SNUS |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:56:10 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178289453314 |
+| Lobby ID | 28572178289797899 |
 | Players | 2/8 |
-| Host Name | 85.RAVAR.85 |
+| Host Name | Jakkou |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 22:55:51 |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:56:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178289861408 |
+| Players | 3/15 |
+| Host Name | noTWOslashes |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:56:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178287235076 |
-| Players | 5/10 |
-| Host Name | Lin Yushia |
+| Players | 7/10 |
+| Host Name | ᠌ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:53:38 |
 
@@ -117,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ＯＳＡＫＡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:51:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28572178286258160 |
-| Players | 9/10 |
-| Host Name | 「Neบroภ」 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 20, 2023 22:52:41 |
 
 
