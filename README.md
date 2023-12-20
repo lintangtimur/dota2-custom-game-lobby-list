@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178349395172 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | GATO KCHONDO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:56:28 |
@@ -31,20 +31,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178354359074 |
+| Lobby ID | 28572178354768065 |
 | Players | 10/15 |
-| Host Name | O_o |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 00:01:42 |
+| Host Name | IsenGurD |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 00:02:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178349564416 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:56:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178354556077 |
+| Players | 3/8 |
+| Host Name | M_C |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 00:01:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178353940285 |
+| Players | 9/10 |
+| Host Name | gay-mer_Daniel |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 00:01:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178354903441 |
+| Players | 2/10 |
+| Host Name | sioma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 00:02:16 |
 
 
 |  | epic_boss_fight_challenger |
@@ -76,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28572178354504101 |
+| Lobby ID | 28572178354805905 |
 | Players | 1/5 |
 | Host Name | THE ONE |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 00:01:50 |
+| Lobby Creation Time | Thursday, December 21, 2023 00:02:09 |
 
 
