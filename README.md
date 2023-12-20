@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178173416292 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Cpt. Burning Ass |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:08:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178174421204 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | курю рифе |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:08:57 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 21:03:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178172605026 |
-| Players | 7/8 |
-| Host Name | Костя Громов |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:07:19 |
+| Lobby ID | 28572178174560326 |
+| Players | 6/10 |
+| Host Name | rage mode |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:09:04 |
 
 
 |  | ot3_desert_octet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 21:04:38 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178167237978 |
-| Players | 9/10 |
-| Host Name | Medved |
+| Lobby ID | 28572178173278610 |
+| Players | 8/10 |
+| Host Name | ➳ᴹᴿ PrOcSiK ꔪＯP |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:02:30 |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:07:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | (￣▽￣) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:08:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28572178174722954 |
+| Players | 1/5 |
+| Host Name | BANNED.天赋egoisto` |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:09:12 |
 
 
