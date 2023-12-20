@@ -29,42 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 15:22:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572178014862468 |
-| Players | 2/8 |
-| Host Name | ☃ ♛ NoGameNoLife ♛ ☃ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:23:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28572178014328976 |
-| Players | 9/10 |
-| Host Name | Whoim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:23:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28572178014003072 |
-| Players | 22/24 |
-| Host Name | Fabian! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:22:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572178014598220 |
-| Players | 2/15 |
-| Host Name | combowombotop |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:23:31 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178014792486 |
@@ -72,6 +36,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:23:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178014598220 |
+| Players | 7/15 |
+| Host Name | combowombotop |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:23:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178015116512 |
+| Players | 1/8 |
+| Host Name | ROCK HARD |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:24:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178015165717 |
+| Players | 1/10 |
+| Host Name | ДРУГАЛЁК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:24:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178014561168 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:23:28 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28572178014895525 |
-| Players | 2/7 |
-| Host Name | ФУРИЁБ ЛЕСНОЙ |
+| Lobby ID | 28572178014934826 |
+| Players | 1/5 |
+| Host Name | I am your death |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:23:56 |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:23:58 |
 
 
