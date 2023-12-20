@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 16:29:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572177943410047 |
-| Players | 18/24 |
-| Host Name | Smoke weed every Day |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:33:06 |
+| Lobby ID | 28572177946358818 |
+| Players | 2/8 |
+| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 16:38:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177903828437 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | . |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:22:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177942671998 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:31:50 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | standin.idk™ |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:38:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572177946358818 |
-| Players | 2/8 |
-| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:38:10 |
 
 
 |  | epic_boss_fight_nightmare |
