@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178058865321 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | ㅋㅎㅋㅎ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:17:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178061382405 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Sir Grey [RUS] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:19:55 |
@@ -76,19 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178061400795 |
-| Players | 1/10 |
-| Host Name | Köftehor |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:19:57 |
+| Lobby ID | 28572178061429604 |
+| Players | 9/10 |
+| Host Name | Джанго |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:19:59 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178059113923 |
-| Players | 8/10 |
-| Host Name | Just subscribe for Linda H |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:17:26 |
+| Lobby ID | 28572178061592218 |
+| Players | 2/8 |
+| Host Name | Brewmaster |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:20:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178061713063 |
+| Players | 2/10 |
+| Host Name | KaTheDirector |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:20:17 |
 
 
