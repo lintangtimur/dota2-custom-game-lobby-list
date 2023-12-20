@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178130803998 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Pibbs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:29:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178131326300 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | ok0_o |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:29:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178130875105 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | ¿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:29:18 |
@@ -86,16 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178131281214 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Sicario |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:29:41 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178131799861 |
+| Players | 1/8 |
+| Host Name | colder than corpse |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:30:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178131799615 |
+| Players | 2/15 |
+| Host Name | OveD009 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:30:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178131058948 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | The teammate U didn't ask for |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:29:28 |
@@ -104,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178131441425 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Вася on the track |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:29:50 |
