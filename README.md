@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178018491863 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Mesh |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:28:38 |
@@ -74,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 18:31:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178020302520 |
-| Players | 15/15 |
-| Host Name | Zoloft |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:31:05 |
+| Lobby ID | 28572178022568952 |
+| Players | 5/10 |
+| Host Name | Щербачев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:34:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178022572977 |
+| Players | 3/8 |
+| Host Name | kn9z |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:34:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178022576802 |
+| Players | 1/8 |
+| Host Name | яна салях |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:34:01 |
 
 
 |  | epic_boss_fight_hard |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝘾𝙖𝙩𝙨𝙪𝙢𝙞 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:25:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28572178022822181 |
+| Players | 1/5 |
+| Host Name | Crime |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:34:20 |
 
 
