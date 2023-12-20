@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178280362188 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | SpliNteR |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:46:48 |
@@ -77,16 +77,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178295861243 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | WinderFox_Gamer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:02:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178298861469 |
+| Players | 3/8 |
+| Host Name | Ｍｕｄｌｌｏ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 23:05:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178298959222 |
+| Players | 5/15 |
+| Host Name | Dolche milf |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 23:05:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178295401017 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | NooBMaSTeR69 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:01:42 |
