@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178051529278 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Kira sempai <3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:08:54 |
@@ -23,55 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177903828437 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | . |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:22:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572178050744171 |
-| Players | 6/8 |
-| Host Name | кожанный шланг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:08:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572178052670006 |
-| Players | 8/15 |
-| Host Name | пшл_т |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:10:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28572178048359954 |
-| Players | 6/24 |
-| Host Name | Jane |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:05:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28572178051805974 |
-| Players | 23/24 |
-| Host Name | Interesting_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:09:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28572178052268943 |
-| Players | 6/10 |
-| Host Name | #DFined |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:09:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,22 +38,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 19:10:13 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178052670006 |
+| Players | 14/15 |
+| Host Name | пшл_т |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:10:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28572178048359954 |
+| Players | 8/24 |
+| Host Name | Jane |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:05:18 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178051667195 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | 冂口山庄入 廾丹乂丫订 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:09:03 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28572178053105480 |
+| Players | 7/24 |
+| Host Name | 安德鲁森图书馆管理员 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:10:39 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178052812622 |
-| Players | 5/8 |
-| Host Name | ЭШ_ЭЩ |
+| Lobby ID | 28572178053197172 |
+| Players | 3/8 |
+| Host Name | чучмек |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:10:19 |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:10:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178053376245 |
+| Players | 2/15 |
+| Host Name | не пошлая молли |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:10:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -112,17 +103,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28572178051930235 |
-| Players | 9/10 |
-| Host Name | Lt. Wade Jackson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:09:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28572178052079759 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | (￣▽￣) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:09:31 |
@@ -130,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28572178052833864 |
-| Players | 1/5 |
+| Lobby ID | 28572178053377242 |
+| Players | 3/5 |
 | Host Name | CJ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:10:21 |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:10:57 |
 
 
