@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177903828437 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | . |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:22:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178058074338 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | last pick or feed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:16:15 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 19:05:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572178057667637 |
-| Players | 14/15 |
-| Host Name | Северный Человек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:15:47 |
+| Lobby ID | 28572178058865321 |
+| Players | 7/24 |
+| Host Name | ㅋㅎㅋㅎ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:17:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,30 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 19:16:48 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572178058173324 |
-| Players | 5/8 |
-| Host Name | COLECTOR:^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:16:22 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178058340290 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Drakenus |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:16:33 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178055741007 |
-| Players | 8/10 |
-| Host Name | No china |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:13:34 |
+| Lobby ID | 28572178058917767 |
+| Players | 3/15 |
+| Host Name | Бархатная бензоп |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:17:13 |
 
 
