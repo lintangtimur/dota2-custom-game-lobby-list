@@ -29,49 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 15:22:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28572178012180860 |
-| Players | 9/10 |
-| Host Name | Медвоблядь из Пскова |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:20:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28572178012397546 |
-| Players | 19/24 |
-| Host Name | minmin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:20:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572178012228295 |
-| Players | 7/8 |
-| Host Name | voidwalk |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:20:23 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178013571669 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Ghost 7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:22:10 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572178010580060 |
-| Players | 8/10 |
-| Host Name | rbg |
+| Lobby ID | 28572178014111174 |
+| Players | 2/24 |
+| Host Name | леха снежок |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:22:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28572178014003072 |
+| Players | 7/24 |
+| Host Name | Fabian! |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:18:11 |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:22:44 |
 
 
 |  | epic_boss_fight_nightmare |
