@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177968056172 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:14:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177957231786 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | ВАРЯГ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:56:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572177970100405 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | Салопроповедник |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:18:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177970325896 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | AFK |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:18:24 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lotus(A fleeting character) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:18:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572177970689934 |
+| Players | 1/8 |
+| Host Name | Sherlock |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:18:58 |
 
 
 |  | epic_boss_fight_nightmare |
