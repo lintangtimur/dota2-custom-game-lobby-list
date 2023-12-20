@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178132806506 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | denitrox |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:31:06 |
@@ -38,65 +38,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 20:27:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572178134767492 |
-| Players | 2/8 |
-| Host Name | winter curse |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:32:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28572178070893777 |
-| Players | 12/24 |
-| Host Name | PARC |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:30:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572178135194374 |
-| Players | 5/8 |
-| Host Name | VINO BANDIT |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:33:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28572178133485993 |
-| Players | 21/24 |
-| Host Name | 。。。。 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:31:43 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178135165425 |
-| Players | 1/10 |
-| Host Name | Отчаяние Тьмы |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:33:16 |
+| Lobby ID | 28572178135645524 |
+| Players | 3/10 |
+| Host Name | Кацапоріз |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:33:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178135156658 |
-| Players | 1/8 |
-| Host Name | todd chavez |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:33:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28572178135263709 |
-| Players | 2/8 |
-| Host Name | ⎛⎝الهامستر FAIL |
+| Lobby ID | 28572178135259882 |
+| Players | 10/15 |
+| Host Name | брэд спид |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:33:22 |
 
@@ -104,9 +59,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178135241534 |
-| Players | 1/8 |
-| Host Name | DIR nouther |
+| Players | 5/8 |
+| Host Name | __ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:33:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178135734191 |
+| Players | 1/10 |
+| Host Name | todd chavez |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:33:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178135646235 |
+| Players | 2/10 |
+| Host Name | SleepLess |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:33:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178135817503 |
+| Players | 2/10 |
+| Host Name | Alarien |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:33:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28572178135712438 |
+| Players | 1/10 |
+| Host Name | อู้วววว นักเก็ตปลา |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:33:46 |
 
 
