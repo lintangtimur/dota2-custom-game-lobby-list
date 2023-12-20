@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178120021917 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | ICHZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:19:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178120459914 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Airy Gal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:19:32 |
@@ -65,31 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 20:18:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178120092327 |
-| Players | 11/15 |
-| Host Name | 2х2™ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:19:11 |
+| Lobby ID | 28572178121058850 |
+| Players | 3/10 |
+| Host Name | Dota zwei |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:20:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178119667997 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | olegarc Чпокарь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:18:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178121058850 |
-| Players | 2/10 |
-| Host Name | Dota zwei |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 20:20:07 |
+| Lobby ID | 28572178121326741 |
+| Players | 1/15 |
+| Host Name | Khorinmaru ❤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 20:20:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178114545176 |
-| Players | 5/10 |
-| Host Name | Dogs meat |
+| Players | 3/10 |
+| Host Name | Dobro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 20:13:48 |
 
