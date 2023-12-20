@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177984228942 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:40:02 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177993480688 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Zoro |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:53:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572177993801980 |
-| Players | 9/10 |
-| Host Name | twilight princess |
+| Lobby ID | 28572177994103924 |
+| Players | 4/15 |
+| Host Name | Shade1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:54:27 |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:54:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572177991809010 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | kapysta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:51:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572177994103924 |
-| Players | 1/15 |
-| Host Name | Shade1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:54:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572177994177038 |
-| Players | 1/15 |
-| Host Name | 【太空梦】 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:54:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 17:50:40 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28572177994136604 |
-| Players | 1/5 |
-| Host Name | kamazotaj |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 17:54:55 |
+| Lobby ID | 28572177994434409 |
+| Players | 1/10 |
+| Host Name | MagnusCarlsen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 17:55:21 |
 
 
