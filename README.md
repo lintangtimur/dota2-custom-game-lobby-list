@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 19:06:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572178027362694 |
-| Players | 2/8 |
-| Host Name | Mac |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:40:03 |
+| Lobby ID | 28572178051167692 |
+| Players | 1/24 |
+| Host Name | 花前月下》基友多多 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:08:30 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178050744171 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | кожанный шланг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:08:00 |
@@ -56,46 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 19:05:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178050473616 |
-| Players | 3/8 |
-| Host Name | тот самый |
+| Lobby ID | 28572178051128590 |
+| Players | 12/15 |
+| Host Name | dawinchik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:07:42 |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:08:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178050294888 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | colder than corpse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:07:30 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572178050364826 |
-| Players | 13/15 |
-| Host Name | dotahub |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:07:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28572178050523208 |
-| Players | 4/10 |
-| Host Name | 666 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:07:45 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178050470624 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Черная смерть |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:07:42 |
