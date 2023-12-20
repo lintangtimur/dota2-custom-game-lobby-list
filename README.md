@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178270901945 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | overdose  |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:37:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178271146949 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Жан клод ван дам терминатор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:37:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178267795006 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | JHOANO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:34:43 |
@@ -77,25 +77,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178270768167 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | G O M E R |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:37:33 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572178269881796 |
-| Players | 9/10 |
-| Host Name | UY Scuti |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, December 20, 2023 22:36:42 |
+| Lobby ID | 28572178262551229 |
+| Players | 23/24 |
+| Host Name | Instantaneous Death//OT3.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:29:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178271426995 |
+| Players | 2/10 |
+| Host Name | YALNIZKURT42!! |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 22:38:11 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28572178265747764 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | あなたは売春婦の息子 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 22:32:46 |
