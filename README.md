@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178049345174 |
-| Players | 2/8 |
-| Host Name | gokirus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:06:26 |
+| Lobby ID | 28572178055227444 |
+| Players | 5/15 |
+| Host Name | Deicide |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:13:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178052728376 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:10:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178053105480 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | 安德鲁森图书馆管理员 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:10:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178048359954 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Jane |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:05:18 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178054906666 |
-| Players | 1/10 |
-| Host Name | JoyBoy |
+| Players | 6/10 |
+| Host Name | rainbow dash |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 19:12:39 |
 
@@ -74,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 19:07:42 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28572178055341274 |
+| Players | 1/5 |
+| Host Name | 灵犀一指 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:13:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28572178055200637 |
+| Lobby ID | 28572178055451544 |
 | Players | 1/10 |
-| Host Name | 仔仔 |
+| Host Name | 君不见葳蕤圣光 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 19:12:58 |
+| Lobby Creation Time | Wednesday, December 20, 2023 19:13:15 |
 
 
