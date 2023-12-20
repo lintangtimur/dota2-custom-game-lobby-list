@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177981125012 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 17:35:21 |
@@ -23,34 +23,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177903828437 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | . |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:22:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178018900600 |
-| Players | 6/8 |
-| Host Name | ( |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:29:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28572178018784739 |
-| Players | 3/10 |
-| Host Name | Unlimited diarrhea |
+| Lobby ID | 28572178019890556 |
+| Players | 12/15 |
+| Host Name | be fiend. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:29:01 |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:30:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28572178019972540 |
+| Players | 6/24 |
+| Host Name | Diamond Fish sauce |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:30:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178018940389 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | KomtingKons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:29:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178018491863 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Mesh |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:28:38 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:29:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572178019635852 |
-| Players | 2/15 |
-| Host Name | Вкус отца |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:30:11 |
 
 
 |  | epic_boss_fight_hard |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:28:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28572178020213573 |
+| Players | 1/5 |
+| Host Name | ЗАЦЕНЗУРЕНО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:30:58 |
 
 
