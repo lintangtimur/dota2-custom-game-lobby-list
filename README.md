@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178213399183 |
-| Players | 2/15 |
-| Host Name | sangatsunophantasia |
+| Players | 1/15 |
+| Host Name | Potato |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:43:52 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178210926984 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | ★彡[ŁogaภY]彡★ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:41:39 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178214726398 |
-| Players | 4/15 |
-| Host Name | ТВАРЬ |
+| Players | 12/15 |
+| Host Name | Yami |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:45:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178214102217 |
+| Lobby ID | 28572178215092207 |
 | Players | 6/8 |
-| Host Name | THE NIGHT TRAIN |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:44:30 |
+| Host Name | Fredikum |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:45:23 |
 
 
 |  | ot3_gardens_duo |
@@ -85,19 +85,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572178213659700 |
-| Players | 14/24 |
-| Host Name | Don't Touch My Ass |
+| Lobby ID | 28572178215501858 |
+| Players | 4/24 |
+| Host Name | <3 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:44:06 |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:45:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178215536547 |
+| Players | 3/15 |
+| Host Name | KiW3^ |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:45:47 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28572178208007984 |
-| Players | 6/10 |
-| Host Name | Radisson |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:39:02 |
+| Lobby ID | 28572178214978852 |
+| Players | 1/10 |
+| Host Name | sonrisa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:45:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28572178215340867 |
+| Players | 1/10 |
+| Host Name | GreShnik |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:45:37 |
 
 
