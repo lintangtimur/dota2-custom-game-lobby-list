@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177903828437 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | . |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:22:11 |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 18:28:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178017484619 |
-| Players | 10/15 |
-| Host Name | Time2fight |
+| Lobby ID | 28572178016092753 |
+| Players | 7/8 |
+| Host Name | ЛЁВА ТРИ ТЫЩИ ДЕМОН |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:27:18 |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:25:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28572178018491863 |
+| Players | 3/24 |
+| Host Name | Mesh |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:28:38 |
 
 
 |  | epic_boss_fight_hard |
