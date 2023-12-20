@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177919309677 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:50:19 |
@@ -32,28 +32,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177903828437 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | . |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:22:11 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572177917664929 |
-| Players | 13/15 |
-| Host Name | Aku |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:47:25 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177919510054 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Dendi 360p |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:50:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572177919771820 |
+| Players | 2/15 |
+| Host Name | 915 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:51:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572177919779842 |
+| Players | 1/15 |
+| Host Name | ็Ilose |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:51:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572177919827285 |
+| Players | 1/15 |
+| Host Name | shadow |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:51:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572177919838211 |
+| Players | 1/8 |
+| Host Name | Гейоргий Добросл |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:51:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Limz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:48:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28572177919391836 |
-| Players | 1/5 |
-| Host Name | 5 cm Savage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:50:28 |
 
 
