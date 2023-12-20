@@ -32,34 +32,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178001503717 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | smthg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:05:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28572178000586404 |
-| Players | 21/24 |
-| Host Name | Rock.Baby.Rock |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:04:18 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178001047736 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | AFK |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:04:57 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28572178002165181 |
+| Players | 4/24 |
+| Host Name | Man NOT HOT ! never HoT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:06:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178002211594 |
+| Players | 9/10 |
+| Host Name | .dione them |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:06:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178002493159 |
+| Players | 1/8 |
+| Host Name | ROCK HARD |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:06:58 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28572177998672786 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | I am your death |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:01:34 |
@@ -68,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178001876796 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 咬人猫 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:06:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28572178002413630 |
+| Players | 2/10 |
+| Host Name | OUUUUUUUUUUUUUUU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:06:52 |
 
 
