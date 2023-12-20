@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178224881491 |
-| Players | 5/8 |
-| Host Name | CM Axl |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:54:23 |
+| Lobby ID | 28572178220208115 |
+| Players | 8/15 |
+| Host Name | Kiritogod |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:50:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178222475870 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | ECHO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:52:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178224091158 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Kick.com/lumaid |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:53:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178217300817 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 사랑해 나연 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:47:23 |
@@ -58,37 +58,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178220208115 |
-| Players | 8/15 |
-| Host Name | Kiritogod |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:50:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572178225295041 |
-| Players | 8/15 |
-| Host Name | ЧИПИ ЧИПИ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:54:46 |
+| Lobby ID | 28572178225738998 |
+| Players | 4/15 |
+| Host Name | Ядерный черкаш |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:55:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178225012555 |
-| Players | 1/8 |
-| Host Name | ʚ樱岛麻衣丶冬栀夏棠ɞ |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:54:30 |
+| Lobby ID | 28572178225818352 |
+| Players | 3/8 |
+| Host Name | NMA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:55:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178225807492 |
+| Players | 2/8 |
+| Host Name | backrooms escaper |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:55:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178224533535 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:54:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28572178225832727 |
+| Players | 5/10 |
+| Host Name | Jin Kazama |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:55:16 |
 
 
