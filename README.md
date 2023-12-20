@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572177934903201 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Feedachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:18:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177933917526 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Teigu |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:16:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177903828437 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | . |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:22:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177936166200 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | .. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:20:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572177936511093 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | хи-хи-ха-ха |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:20:54 |
@@ -67,18 +67,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572177936007433 |
-| Players | 4/8 |
-| Host Name | Yblu_DOG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 16:20:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28572177937035282 |
 | Players | 1/8 |
-| Host Name | tv/karnitin3 |
+| Host Name | Kak tak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 16:21:49 |
 
