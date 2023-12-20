@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178197092334 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | yuduoyu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:29:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178202272006 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | NimEdel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:33:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178198766145 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | cristian123 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:30:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178198452146 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | 爱要弹蛋蛋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:30:31 |
@@ -85,28 +85,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178201662262 |
-| Players | 7/8 |
-| Host Name | Muichiro |
+| Lobby ID | 28572178202252310 |
+| Players | 3/8 |
+| Host Name | Георгий - герой ге |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:33:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178202754068 |
+| Players | 3/15 |
+| Host Name | What? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:33:23 |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:34:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178197760179 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Ghee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:29:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28572178199780140 |
-| Players | 9/10 |
-| Host Name | hurt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:31:42 |
 
 
