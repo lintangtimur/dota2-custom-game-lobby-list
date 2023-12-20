@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 15:44:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572177916894027 |
-| Players | 5/8 |
-| Host Name | круглик |
+| Lobby ID | 28572177916664268 |
+| Players | 11/15 |
+| Host Name | погоди погоди |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:46:00 |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:45:34 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572177915915844 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:44:08 |
@@ -50,54 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572177916569824 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | 雨墨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:45:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572177916289938 |
-| Players | 8/15 |
-| Host Name | Nocomments.no |
+| Lobby ID | 28572177917373363 |
+| Players | 2/10 |
+| Host Name | Nekzzy |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:44:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28572177916664268 |
-| Players | 1/15 |
-| Host Name | погоди погоди |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:45:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28572177914009604 |
-| Players | 9/10 |
-| Host Name | Mayarasamee |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:40:42 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28572177914761436 |
-| Players | 1/5 |
-| Host Name | 5 cm Savage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 15:42:01 |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:46:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572177916300885 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Anti-Creep |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 15:44:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28572177917409702 |
+| Players | 1/5 |
+| Host Name | 5 cm Savage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 15:46:57 |
 
 
