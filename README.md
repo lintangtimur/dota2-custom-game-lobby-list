@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178031075875 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | CrowHead |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:44:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28572178031752783 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | abdefgh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:45:35 |
@@ -86,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178031839704 |
-| Players | 1/8 |
-| Host Name | Alucard |
+| Players | 2/8 |
+| Host Name | Vesemir |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 18:45:42 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178029982873 |
-| Players | 6/10 |
-| Host Name | Just subscribe for Linda H |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 18:43:19 |
+| Lobby ID | 28572178032269366 |
+| Players | 4/10 |
+| Host Name | Gans Bocharov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:46:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28572178032305575 |
+| Players | 1/10 |
+| Host Name | Whoim |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 18:46:17 |
 
 
