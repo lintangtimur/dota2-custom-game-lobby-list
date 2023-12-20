@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178206863860 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ---- |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:38:01 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 21:31:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178206640980 |
-| Players | 7/8 |
-| Host Name | круглик |
+| Lobby ID | 28572178209134157 |
+| Players | 12/15 |
+| Host Name | Mouches Volantes |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:37:49 |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:40:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572178207499562 |
-| Players | 23/24 |
-| Host Name | bro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:38:35 |
+| Lobby ID | 28572178209210092 |
+| Players | 3/24 |
+| Host Name | SWAP COMEND |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:40:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178208221207 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | pnzsvns |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:39:13 |
@@ -76,46 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28572178207842022 |
-| Players | 9/10 |
-| Host Name | Can hear the silence |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:38:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28572178208866923 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ABOBA BOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:39:48 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28572178207285431 |
-| Players | 3/5 |
-| Host Name | Паша Гидрожаба |
+| Lobby ID | 28572178208007984 |
+| Players | 2/10 |
+| Host Name | Radisson |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:38:24 |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:39:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178207612462 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | noah- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:38:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28572178208007984 |
-| Players | 3/10 |
-| Host Name | Radisson |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:39:02 |
 
 
