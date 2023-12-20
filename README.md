@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178338935864 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | deepest |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:45:30 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178341685753 |
-| Players | 9/15 |
-| Host Name | SUPREME# [16] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 23:48:23 |
+| Lobby ID | 28572178342343168 |
+| Players | 7/15 |
+| Host Name | burn |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 20, 2023 23:49:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28572178340697569 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | kimuez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:47:20 |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 23:47:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28572178342489725 |
+| Players | 1/8 |
+| Host Name | Bajador de Pepa Profesional |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 20, 2023 23:49:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28572178342494766 |
+| Players | 1/15 |
+| Host Name | DTU.Shroud |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 20, 2023 23:49:14 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28572178340925905 |
@@ -81,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✪D1N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 20, 2023 23:47:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28572178342518557 |
+| Players | 1/5 |
+| Host Name | Ӿ|₲Ɽł₥ⱤɆ₳₱ɆⱤ̷͔̜̯͓̣̮͐̚͝ͅ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 20, 2023 23:49:16 |
 
 
