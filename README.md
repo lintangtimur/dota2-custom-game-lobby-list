@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28572178175335696 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | fodac |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:09:45 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 20:55:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28572178184499955 |
-| Players | 6/8 |
-| Host Name | Shinobi |
+| Lobby ID | 28572178186059536 |
+| Players | 2/15 |
+| Host Name | vinega_doppio |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:17:55 |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:19:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28572178183041158 |
-| Players | 20/24 |
-| Host Name | Chisato |
+| Lobby ID | 28572178185963267 |
+| Players | 1/24 |
+| Host Name | ℍ𝕒𝕡𝕡𝕪 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:16:36 |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:19:15 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28572178185480349 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Njio <3 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:18:48 |
@@ -101,28 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 20, 2023 21:16:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28572178185417799 |
-| Players | 4/15 |
-| Host Name | Насрал в тапок)))) |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:18:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28572178178710059 |
-| Players | 9/10 |
-| Host Name | Camrad_Ivan |
+| Lobby ID | 28572178184499955 |
+| Players | 7/8 |
+| Host Name | Shinobi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 20, 2023 21:12:45 |
+| Lobby Creation Time | Wednesday, December 20, 2023 21:17:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28572178184755463 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Mayarasamee |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 20, 2023 21:18:09 |
