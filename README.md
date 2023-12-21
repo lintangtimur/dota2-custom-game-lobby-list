@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660227364185 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | In Jesus Mode |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 10:57:11 |
@@ -50,18 +50,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660228560518 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Talento Nada |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 10:59:51 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660228730049 |
+| Players | 2/10 |
+| Host Name | S4D |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 11:00:13 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660228661043 |
+| Lobby ID | 28573660228705603 |
 | Players | 1/8 |
-| Host Name | Megumin's |
+| Host Name | ---- |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 11:00:04 |
+| Lobby Creation Time | Thursday, December 21, 2023 11:00:10 |
 
 
