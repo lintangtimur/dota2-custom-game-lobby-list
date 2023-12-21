@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 20:29:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660614954512 |
-| Players | 14/15 |
-| Host Name | Dankek |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 21:00:22 |
+| Lobby ID | 28573660614923088 |
+| Players | 5/8 |
+| Host Name | 76561198074501855 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 21:00:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660612327216 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | uyScuti |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 20:57:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660612973016 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Superman Pans |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:58:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660615604442 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 21:00:59 |
@@ -83,30 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 20:59:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660614923088 |
-| Players | 3/8 |
-| Host Name | 76561198074501855 |
+| Lobby ID | 28573660614683046 |
+| Players | 6/10 |
+| Host Name | Makoto Shishio |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:00:21 |
+| Lobby Creation Time | Thursday, December 21, 2023 21:00:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28573660615434683 |
-| Players | 5/8 |
-| Host Name | ААААААААА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:00:49 |
+| Lobby ID | 28573660615801269 |
+| Players | 1/5 |
+| Host Name | GRAND.FEEDER |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 21:01:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660614683046 |
-| Players | 5/10 |
-| Host Name | Makoto Shishio |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:00:08 |
+| Lobby ID | 28573660615815195 |
+| Players | 1/10 |
+| Host Name | 爱抓双马尾 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 21:01:10 |
 
 
