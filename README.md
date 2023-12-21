@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660549435320 |
-| Players | 4/8 |
-| Host Name | 疼痛 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:58:45 |
+| Lobby ID | 28573660549729951 |
+| Players | 6/15 |
+| Host Name | PC |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 19:59:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 19:58:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660548695849 |
-| Players | 14/24 |
-| Host Name | Enzo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:58:01 |
+| Lobby ID | 28573660550662475 |
+| Players | 2/8 |
+| Host Name | Cago |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:59:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,48 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 19:58:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28573660549399384 |
-| Players | 11/15 |
-| Host Name | all goes to good |
+| Lobby ID | 28573660550506267 |
+| Players | 2/5 |
+| Host Name | петр живет в лесу |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:58:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660549601887 |
-| Players | 6/10 |
-| Host Name | SameShit |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:58:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660549729951 |
-| Players | 1/15 |
-| Host Name | PC |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 19:59:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660549895610 |
-| Players | 3/10 |
-| Host Name | Банан Жёлтый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:59:12 |
+| Lobby Creation Time | Thursday, December 21, 2023 19:59:49 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28573660547773660 |
-| Players | 3/5 |
-| Host Name | Kenn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:57:06 |
+| Lobby ID | 28573660550741072 |
+| Players | 1/5 |
+| Host Name | GMS (V POWER) |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 21, 2023 20:00:03 |
 
 
