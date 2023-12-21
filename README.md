@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660289742819 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Lance |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 13:13:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660291424713 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Северный Человек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 13:16:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660289982858 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | umi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 13:13:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660291156341 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | kyt23 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 13:16:12 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660291624172 |
-| Players | 1/10 |
-| Host Name | Sigma |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 13:17:11 |
+| Lobby ID | 28573660291870377 |
+| Players | 2/10 |
+| Host Name | Alpaccino |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 13:17:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | danetacion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 13:17:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660291871434 |
+| Players | 1/5 |
+| Host Name | 弑神 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Thursday, December 21, 2023 13:17:43 |
 
 
