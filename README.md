@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660241389155 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 11:28:18 |
@@ -92,10 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 11:28:57 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660241812693 |
+| Players | 1/15 |
+| Host Name | yasin |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 11:29:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660241808299 |
+| Players | 1/15 |
+| Host Name | borderwing |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Thursday, December 21, 2023 11:29:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660240510132 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Puta Madre |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:26:26 |
