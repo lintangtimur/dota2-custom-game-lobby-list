@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660366239597 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | J |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:43:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660367653378 |
-| Players | 14/15 |
-| Host Name | OverBigDick люблю жестко |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 15:45:44 |
+| Lobby ID | 28573660368496600 |
+| Players | 1/8 |
+| Host Name | МИХАИЛ ПОПКОВ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 21, 2023 15:47:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660358313896 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 15:28:51 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660367473634 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | БоМж на ПЛЯЖЕ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:45:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660366963504 |
-| Players | 7/8 |
-| Host Name | oh shit, a rat. |
+| Lobby ID | 28573660368932172 |
+| Players | 9/10 |
+| Host Name | too old to argue |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 15:48:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660369055173 |
+| Players | 2/15 |
+| Host Name | Philipp86 |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:44:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660368496600 |
-| Players | 1/8 |
-| Host Name | МИХАИЛ ПОПКОВ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 21, 2023 15:47:14 |
+| Lobby Creation Time | Thursday, December 21, 2023 15:48:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Soos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:47:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660369100588 |
+| Players | 1/5 |
+| Host Name | Suratung |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 15:48:18 |
 
 
