@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660811569113 |
-| Players | 8/10 |
-| Host Name | Denji |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 00:10:25 |
+| Lobby ID | 28573660812312336 |
+| Players | 4/10 |
+| Host Name | Flower |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 00:11:12 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660808418871 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Ulrich |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 00:07:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660812014256 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | собачка Diablo_13 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 00:10:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660809482284 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Kaneki~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 00:08:14 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 00:08:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660812152210 |
-| Players | 1/15 |
-| Host Name | mLoi |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 00:11:02 |
+| Lobby ID | 28573660812248552 |
+| Players | 1/8 |
+| Host Name | Muerto en Vida |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 00:11:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660810970847 |
+| Players | 9/10 |
+| Host Name | MGNCITYSHUFFLE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 00:09:47 |
 
 
 |  | epic_boss_fight_nightmare |
