@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660332311627 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Oluwa Mark |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:39:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660326801894 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 14:29:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660333400726 |
-| Players | 5/24 |
+| Players | 11/24 |
 | Host Name | Sky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 14:41:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660333414567 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | 󠀡󠀡 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 14:41:59 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660333424729 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | F0rGot10 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 14:42:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660333599834 |
+| Players | 2/10 |
+| Host Name | El doctorcito |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 14:42:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660333594217 |
+| Players | 3/8 |
+| Host Name | neee |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 14:42:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660329842214 |
+| Players | 23/24 |
+| Host Name | ^^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 14:35:04 |
 
 
 |  | epic_boss_fight_nightmare |
