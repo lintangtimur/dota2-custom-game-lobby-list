@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660693266202 |
-| Players | 7/10 |
-| Host Name | Boy's a liar |
+| Lobby ID | 28573660694053577 |
+| Players | 2/10 |
+| Host Name | Ho, ho, u found me)) |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:11:00 |
+| Lobby Creation Time | Thursday, December 21, 2023 22:11:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660694100717 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | NukeSyz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:11:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660693784375 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Тотальный фид |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:11:30 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Noterdam |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:10:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660694053577 |
-| Players | 2/10 |
-| Host Name | Ho, ho, u found me)) |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:11:45 |
 
 
 |  | epic_boss_fight_nightmare |
