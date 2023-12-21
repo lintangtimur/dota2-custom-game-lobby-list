@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660426053158 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:25:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660426091147 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 17:25:44 |
@@ -51,27 +51,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28573660426182761 |
 | Players | 6/15 |
-| Host Name | K(-)МШоТ |
+| Host Name | Be_Nice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:25:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660426225226 |
-| Players | 1/10 |
-| Host Name | loock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:25:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660426267050 |
-| Players | 1/8 |
-| Host Name | Matmaz |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:26:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660425709089 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | BugSplat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:25:09 |
