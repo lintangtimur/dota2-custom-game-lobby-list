@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660668360324 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | Cemka |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 21:48:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660671853536 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Короче ... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:52:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660670084686 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | D4RKY1$U$ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 21:50:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660668337677 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ✪stingytown |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 21:48:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660671765899 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Kazune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 21:52:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660665984887 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | SIRIUS-BLACK |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 21:46:24 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | _Kishochek_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:52:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660672230022 |
+| Players | 2/8 |
+| Host Name | БЕЗДЕЛЬЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 21:52:26 |
 
 
 |  | epic_boss_fight_nightmare |
