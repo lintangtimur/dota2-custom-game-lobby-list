@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660828074912 |
-| Players | 1/15 |
-| Host Name | you belong with me |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Friday, December 22, 2023 00:28:14 |
+| Lobby ID | 28573660826277910 |
+| Players | 9/10 |
+| Host Name | я танцую на костях |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 00:26:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660826814008 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | J |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 00:26:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660827505907 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Pink |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 00:27:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660827473584 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | chopa chipopa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 00:27:35 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 00:28:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660826277910 |
-| Players | 5/10 |
-| Host Name | я танцую на костях |
+| Lobby ID | 28573660828213213 |
+| Players | 3/8 |
+| Host Name | Ayanami Ray |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 00:28:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660828245651 |
+| Players | 4/8 |
+| Host Name | ЧЕРЕВИЧКИ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 00:26:17 |
+| Lobby Creation Time | Friday, December 22, 2023 00:28:25 |
 
 
 |  | epic_boss_fight_nightmare |
