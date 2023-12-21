@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660345734187 |
-| Players | 1/10 |
-| Host Name | 6dog |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 15:05:40 |
+| Lobby ID | 28573660344886494 |
+| Players | 3/10 |
+| Host Name | katsuragi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 15:04:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660343674245 |
-| Players | 8/10 |
+| Players | 5/10 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 15:01:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660347880615 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Пожилой Дюшес |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:09:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660347847444 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | R4gnar |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:09:33 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660347337966 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | MankoS~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:08:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660344886494 |
-| Players | 2/10 |
-| Host Name | katsuragi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 15:04:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660344625034 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Sukeru-san |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:03:35 |
