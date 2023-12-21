@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 00:01:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660800067809 |
-| Players | 4/8 |
-| Host Name | 雷神 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 23:58:17 |
+| Lobby ID | 28573660808695369 |
+| Players | 7/15 |
+| Host Name | Sanya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 00:07:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660805414517 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Alkazed |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 00:03:57 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 00:04:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660804801924 |
-| Players | 23/24 |
-| Host Name | Chisato |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 00:03:18 |
+| Lobby ID | 28573660808691554 |
+| Players | 2/10 |
+| Host Name | I'm so sorry, but |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 00:07:24 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660807459993 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SODA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 00:06:07 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | _Kishochek_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 00:06:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660808077784 |
-| Players | 9/15 |
-| Host Name | Don't run! |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 00:06:46 |
 
 
 |  | epic_boss_fight_nightmare |
