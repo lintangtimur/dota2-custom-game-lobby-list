@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660246468903 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | Sid, el indomable :v |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 11:39:19 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 11:40:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660244973792 |
-| Players | 11/15 |
-| Host Name | asd |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 11:36:03 |
+| Lobby ID | 28573660247625574 |
+| Players | 1/8 |
+| Host Name | novak |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 11:41:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660246250134 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 11:38:51 |
@@ -59,25 +59,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660247195773 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | chelik |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:40:54 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660247620328 |
+| Players | 1/24 |
+| Host Name | social -> no incoming chat |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 11:41:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660244462055 |
-| Players | 6/10 |
-| Host Name | PRIZMAN📿 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 11:34:56 |
+| Lobby ID | 28573660247178638 |
+| Players | 2/10 |
+| Host Name | mANGO mAN |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 21, 2023 11:40:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660247315559 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:41:10 |
