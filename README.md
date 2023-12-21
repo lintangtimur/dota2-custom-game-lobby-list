@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660805955909 |
-| Players | 5/10 |
-| Host Name | Dimacool999 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 00:04:31 |
+| Lobby ID | 28573660806593034 |
+| Players | 4/8 |
+| Host Name | ДẸỖНтическаяLOGIC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 00:05:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660806355619 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Wukash |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 00:04:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660805414517 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Alkazed |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 00:03:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660805663935 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Pink |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 00:04:13 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660806465554 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Jokerge |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 00:05:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660804904282 |
-| Players | 14/15 |
-| Host Name | CMERTNIK |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 00:03:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660806593034 |
-| Players | 2/8 |
-| Host Name | ДẸỖНтическаяLOGIC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 00:05:12 |
 
 
 |  | epic_boss_fight_nightmare |
