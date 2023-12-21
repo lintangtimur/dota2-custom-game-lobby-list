@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660379960036 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Fekita |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:53 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660561467515 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Mark |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:10:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660562129845 |
-| Players | 2/10 |
-| Host Name | собакамедведькошка |
+| Lobby ID | 28573660562894819 |
+| Players | 1/24 |
+| Host Name | Фюрер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:11:13 |
+| Lobby Creation Time | Thursday, December 21, 2023 20:11:57 |
 
 
 |  | ot3_desert_octet |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660562109991 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Qwimbit |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:11:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660562677191 |
-| Players | 4/8 |
-| Host Name | Daniel Fayz |
+| Lobby ID | 28573660563190442 |
+| Players | 2/15 |
+| Host Name | Friend |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:11:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660562894819 |
-| Players | 1/24 |
-| Host Name | Фюрер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:11:57 |
+| Lobby Creation Time | Thursday, December 21, 2023 20:12:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Claire |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:11:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28573660562945526 |
-| Players | 1/5 |
-| Host Name | Wolf22 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:12:00 |
 
 
