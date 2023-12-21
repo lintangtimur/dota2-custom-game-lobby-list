@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 15:25:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660347980250 |
-| Players | 3/8 |
-| Host Name | ЭТО ВТОРОЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 15:09:48 |
+| Lobby ID | 28573660357043710 |
+| Players | 8/24 |
+| Host Name | 1212121212 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 15:26:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660356257505 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | WhiteDeath |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 15:25:07 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660356858284 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | тест мышки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 15:26:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660357043710 |
-| Players | 6/24 |
-| Host Name | 1212121212 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:26:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660353374298 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | планы на вечер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 15:19:38 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660355907799 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Hey What Happened |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:24:28 |
