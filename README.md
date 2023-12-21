@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660379960036 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Fekita |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660437069760 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Man NOT HOT ! never HoT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:42:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660415662829 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 21, 2023 17:09:01 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660438857508 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Shadow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:45:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660438642392 |
-| Players | 7/10 |
-| Host Name | HUGE |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 21, 2023 17:44:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,31 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 17:45:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660438183080 |
-| Players | 14/15 |
-| Host Name | Winnie the Pooh |
+| Lobby ID | 28573660439448792 |
+| Players | 3/10 |
+| Host Name | BIG DICK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:44:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660439267717 |
-| Players | 3/8 |
-| Host Name | Уничтожитель Спе |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:45:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660435108999 |
-| Players | 9/10 |
-| Host Name | Hyper- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:39:39 |
+| Lobby Creation Time | Thursday, December 21, 2023 17:46:09 |
 
 
 |  | epic_boss_fight_nightmare |
