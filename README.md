@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 19:02:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660514253466 |
-| Players | 1/10 |
-| Host Name | Чупапио |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:22:09 |
+| Lobby ID | 28573660514326234 |
+| Players | 1/24 |
+| Host Name | Yuku |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:22:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660513863556 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | HAPPY NEW YEAR! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:21:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660513796577 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Перчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:21:37 |
@@ -83,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 19:21:18 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660514326234 |
-| Players | 1/24 |
-| Host Name | Yuku |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:22:14 |
+| Lobby ID | 28573660512472067 |
+| Players | 9/10 |
+| Host Name | Данька овердоз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 19:20:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660512472067 |
-| Players | 6/10 |
-| Host Name | Данька овердоз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:20:08 |
+| Lobby ID | 28573660514492172 |
+| Players | 1/10 |
+| Host Name | <<<generosbili>>> |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:22:25 |
 
 
