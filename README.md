@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660332479163 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | молоденькая |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 14:40:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660345958406 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Wake Up To Reality |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 15:06:05 |
@@ -59,10 +59,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660346115364 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Nevermore |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 15:06:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660346461647 |
+| Players | 1/8 |
+| Host Name | разрывной |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 15:07:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660344886494 |
+| Players | 9/10 |
+| Host Name | katsuragi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 15:04:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660346568646 |
+| Players | 2/10 |
+| Host Name | RizZ愛 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 15:07:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660344630094 |
+| Players | 13/15 |
+| Host Name | BLiNK |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 15:03:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660344625034 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Sukeru-san |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:03:35 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28573660346073242 |
-| Players | 1/5 |
-| Host Name | Lucky_fun |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:06:17 |
 
 
