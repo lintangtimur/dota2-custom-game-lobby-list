@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660326801894 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 14:29:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660322035765 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:19:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660326818178 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Pussy Destroyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 14:29:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660325550055 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Abril te extraño regresa :c |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 14:26:44 |
