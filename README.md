@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660272706979 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Jake GyllenHalberd |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:36:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660252654780 |
-| Players | 5/15 |
+| Players | 2/15 |
 | Host Name | 구문룡 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660273385449 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Clinkz Eastwood |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:37:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660274058021 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | SexyLips |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:39:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660272154069 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Aker- |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:35:06 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660274350745 |
-| Players | 2/15 |
-| Host Name | Canrise |
+| Players | 4/15 |
+| Host Name | ТРЕНЕР NAVI 2011 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:39:48 |
 
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660273494774 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | danetacion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:37:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660270579813 |
-| Players | 9/10 |
-| Host Name | Black Dragon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 12:31:52 |
 
 
