@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660592832981 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Miller |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:40:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660602498130 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Matye Bal |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:48:59 |
@@ -74,28 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 20:49:06 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660602889603 |
+| Players | 6/8 |
+| Host Name | 狂热激战A-Rev.3 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Thursday, December 21, 2023 20:49:20 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660601975385 |
-| Players | 8/10 |
-| Host Name | халапеньо |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 20:48:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660602347218 |
-| Players | 1/15 |
-| Host Name | Smiths |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 21, 2023 20:48:51 |
+| Lobby ID | 28573660599970706 |
+| Players | 9/10 |
+| Host Name | ZXCФембой |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:46:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660602118883 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | ANTANGA MO ./. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:48:38 |
@@ -108,5 +108,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Guardian |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:48:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660602776983 |
+| Players | 2/15 |
+| Host Name | lovely liar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:49:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28573660602771804 |
+| Players | 1/10 |
+| Host Name | I'm Sexy I know it |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 21, 2023 20:49:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28573660602865989 |
+| Players | 1/10 |
+| Host Name | Hakai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:49:19 |
 
 
