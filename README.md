@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660314931641 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | УБИВАШКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 14:05:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660314319788 |
-| Players | 2/24 |
-| Host Name | Machiatto |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 14:04:32 |
+| Lobby ID | 28573660315031646 |
+| Players | 1/8 |
+| Host Name | Kuroshimi/D/Shoot |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 14:05:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660314004884 |
-| Players | 9/10 |
-| Host Name | Саня Белый prime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 14:03:59 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660313746955 |
@@ -45,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OG.HELLO?! |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:03:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660315031646 |
-| Players | 1/8 |
-| Host Name | Kuroshimi/D/Shoot |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 14:05:47 |
 
 
 |  | epic_boss_fight_nightmare |
