@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660614035285 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | purity |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:59:32 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660612804820 |
-| Players | 3/8 |
-| Host Name | BARMULDA |
+| Lobby ID | 28573660614389886 |
+| Players | 7/8 |
+| Host Name | graveyard |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:58:26 |
+| Lobby Creation Time | Thursday, December 21, 2023 20:59:52 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660612973016 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Superman Pans |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:58:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660614355491 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Jabay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:59:50 |
@@ -103,28 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660614389886 |
-| Players | 5/8 |
-| Host Name | graveyard |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:59:52 |
+| Lobby ID | 28573660614784844 |
+| Players | 1/8 |
+| Host Name | movistar siempre contigo |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, December 21, 2023 21:00:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660609375017 |
-| Players | 1/10 |
+| Lobby ID | 28573660614683046 |
+| Players | 3/10 |
 | Host Name | Makoto Shishio |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:55:19 |
+| Lobby Creation Time | Thursday, December 21, 2023 21:00:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660614593280 |
+| Lobby ID | 28573660614817214 |
 | Players | 1/10 |
-| Host Name | the lupa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:00:03 |
+| Host Name | ☻↔☻ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 21:00:15 |
 
 
