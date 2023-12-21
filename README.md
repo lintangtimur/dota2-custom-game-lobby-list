@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660465831243 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Nando Lorris |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:23:34 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660468894075 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | 疼痛 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:27:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660468693722 |
-| Players | 14/15 |
-| Host Name | Игорь (Артём) |
+| Lobby ID | 28573660468204124 |
+| Players | 4/10 |
+| Host Name | imnaked |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:27:21 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:26:43 |
 
 
 |  | ot3_gardens_duo |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:27:17 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660468204124 |
-| Players | 3/10 |
-| Host Name | imnaked |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:26:43 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660466637355 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | tsukiyomi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:24:38 |
@@ -99,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:25:39 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28573660469311873 |
-| Players | 2/5 |
-| Host Name | Цирилла Фиона Эле |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:28:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660469376673 |
-| Players | 3/10 |
-| Host Name | Dreamer- |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 21, 2023 18:28:14 |
 
 
