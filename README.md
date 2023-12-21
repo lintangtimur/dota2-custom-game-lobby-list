@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660358798277 |
-| Players | 14/15 |
-| Host Name | 猟師 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 15:29:44 |
+| Lobby ID | 28573660359382375 |
+| Players | 4/10 |
+| Host Name | Axel |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 15:30:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660357043710 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 1212121212 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:26:33 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 15:28:51 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660359382375 |
-| Players | 2/10 |
-| Host Name | Axel |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:30:48 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660359433371 |
-| Players | 1/8 |
+| Lobby ID | 28573660359572881 |
+| Players | 2/8 |
 | Host Name | Poseidon |
 | Region | DUBAI |
-| Lobby Creation Time | Thursday, December 21, 2023 15:30:54 |
+| Lobby Creation Time | Thursday, December 21, 2023 15:31:09 |
 
 
 |  | epic_boss_fight_nightmare |
