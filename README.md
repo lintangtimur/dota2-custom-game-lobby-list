@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660497132661 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Кирюша Яторович |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:02:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660498055171 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Man NOT HOT ! never HoT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:03:58 |
@@ -40,11 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660498321664 |
+| Lobby ID | 28573660498412489 |
 | Players | 1/8 |
+| Host Name | mmjkee |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:04:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660498424684 |
+| Players | 3/10 |
 | Host Name | ДОБРО |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:04:17 |
+| Lobby Creation Time | Thursday, December 21, 2023 19:04:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660498454650 |
+| Players | 2/15 |
+| Host Name | you belong with me |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:04:26 |
 
 
 |  | epic_boss_fight_normal |
@@ -59,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660494337287 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Asmodeus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:59:35 |
