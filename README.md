@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660440119212 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ЧУШПАН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:47:08 |
@@ -41,19 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660443303296 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Power Pooch |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:51:52 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660443396398 |
+| Players | 1/8 |
+| Host Name | Flam |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 17:52:01 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660443347895 |
-| Players | 1/24 |
-| Host Name | 'K |
+| Lobby ID | 28573660443415084 |
+| Players | 5/24 |
+| Host Name | Mr.Banana |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:51:57 |
+| Lobby Creation Time | Thursday, December 21, 2023 17:52:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -67,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660439668147 |
-| Players | 9/10 |
-| Host Name | solution |
+| Lobby ID | 28573660443470479 |
+| Players | 3/10 |
+| Host Name | Kowaci |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:46:28 |
+| Lobby Creation Time | Thursday, December 21, 2023 17:52:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Radisson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:51:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660438464914 |
-| Players | 9/10 |
-| Host Name | fun|GrayShark |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:44:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660443352828 |
-| Players | 3/10 |
-| Host Name | Quantum Leap |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:51:57 |
 
 
