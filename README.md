@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660767774107 |
-| Players | 6/8 |
-| Host Name | WHAT XUXA FUE |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 23:24:27 |
+| Lobby ID | 28573660769416194 |
+| Players | 10/24 |
+| Host Name | .com |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 23:26:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660767017267 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Scuber2007 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 23:23:40 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 23:18:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660769020999 |
-| Players | 8/10 |
-| Host Name | hlcxhlxcD(((((((((((( |
+| Lobby ID | 28573660769765982 |
+| Players | 14/15 |
+| Host Name | Iraya |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 23:25:46 |
+| Lobby Creation Time | Thursday, December 21, 2023 23:26:32 |
 
 
 |  | ot3_desert_octet |
@@ -67,47 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660769373696 |
+| Lobby ID | 28573660770189552 |
 | Players | 3/8 |
-| Host Name | ВАЛЕРА-ЕБЁТ) |
+| Host Name | ДЕНЬ NAMASA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 23:26:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660769278020 |
-| Players | 12/15 |
-| Host Name | solo_way |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 23:26:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660766793315 |
-| Players | 4/10 |
-| Host Name | РАКОВЫЙ БАРЕБУХ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 23:23:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660769416194 |
-| Players | 3/24 |
-| Host Name | .com |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 23:26:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28573660766917085 |
-| Players | 1/5 |
-| Host Name | Трусики админа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 23:23:34 |
+| Lobby Creation Time | Thursday, December 21, 2023 23:26:58 |
 
 
 |  | epic_boss_fight_nightmare |
