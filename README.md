@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660551600578 |
-| Players | 2/24 |
-| Host Name | BaGyiGwaySi |
+| Players | 5/24 |
+| Host Name | 软绵绵 |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 21, 2023 20:00:55 |
 
@@ -40,55 +40,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660551582780 |
-| Players | 2/15 |
-| Host Name | Zhutoro |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, December 21, 2023 20:00:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660551552339 |
-| Players | 1/10 |
-| Host Name | Чупапио |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:00:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660551652011 |
-| Players | 2/24 |
-| Host Name | Мозгляк |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:00:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28573660551682198 |
-| Players | 1/15 |
+| Players | 11/15 |
 | Host Name | бойся своего мира |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:00:59 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660551552339 |
+| Players | 9/10 |
+| Host Name | Чупапио |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:00:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660551777289 |
+| Players | 4/8 |
+| Host Name | Matye Bal |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:01:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660551983111 |
+| Players | 3/24 |
+| Host Name | J |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:01:17 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28573660550506267 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | петр живет в лесу |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:59:49 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28573660551648965 |
-| Players | 3/7 |
-| Host Name | hacker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:00:58 |
 
 
