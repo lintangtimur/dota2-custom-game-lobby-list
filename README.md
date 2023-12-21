@@ -38,39 +38,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 17:23:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660425036448 |
-| Players | 10/15 |
-| Host Name | Tokyou |
+| Lobby ID | 28573660425655697 |
+| Players | 1/8 |
+| Host Name | waterlaw |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:24:06 |
+| Lobby Creation Time | Thursday, December 21, 2023 17:25:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660425514852 |
-| Players | 6/10 |
-| Host Name | trash teammate |
+| Players | 9/10 |
+| Host Name | solar crest enjoyer |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:24:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660425577124 |
+| Lobby ID | 28573660425804383 |
 | Players | 1/15 |
-| Host Name | 弥生美月 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Thursday, December 21, 2023 17:24:56 |
+| Host Name | 4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 17:25:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660425214086 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Mr. Krabs |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:24:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28573660425709089 |
+| Players | 1/10 |
+| Host Name | BugSplat |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 17:25:09 |
 
 
