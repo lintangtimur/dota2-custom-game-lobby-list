@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660435689750 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | Meh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:40:31 |
@@ -23,37 +23,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660415662829 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 21, 2023 17:09:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660436444283 |
-| Players | 1/15 |
-| Host Name | ez |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 21, 2023 17:41:39 |
+| Lobby ID | 28573660436612282 |
+| Players | 6/10 |
+| Host Name | 阿拉伯打嗝香 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 17:41:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660436477751 |
-| Players | 2/15 |
+| Players | 11/15 |
 | Host Name | Tears |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:41:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660436612282 |
-| Players | 2/10 |
-| Host Name | 阿拉伯打嗝香 |
+| Lobby ID | 28573660436753511 |
+| Players | 2/8 |
+| Host Name | KinT.Anduin |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:41:54 |
+| Lobby Creation Time | Thursday, December 21, 2023 17:42:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -76,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28573660436449473 |
+| Lobby ID | 28573660436865049 |
 | Players | 1/5 |
 | Host Name | TORNADOOOOOOOOOOOOOOOOOOO |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 21, 2023 17:41:40 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 17:42:17 |
 
 
