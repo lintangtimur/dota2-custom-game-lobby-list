@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660715495642 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | WinderFox_Gamer |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 22:32:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660715676556 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Why Always ME ? |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 22:32:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660717582877 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:34:30 |
@@ -68,46 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660718973052 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | ☻ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:35:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660714023949 |
-| Players | 23/24 |
-| Host Name | evo |
+| Lobby ID | 28573660718995362 |
+| Players | 4/8 |
+| Host Name | Arcane Blink |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 22:31:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660718649203 |
-| Players | 5/15 |
-| Host Name | CroCoDilDa |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:35:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660718683220 |
-| Players | 9/10 |
-| Host Name | Томас |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:35:35 |
+| Lobby Creation Time | Thursday, December 21, 2023 22:35:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660718995362 |
+| Lobby ID | 28573660719369947 |
 | Players | 2/8 |
 | Host Name | _LoNeR_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 22:35:53 |
+| Lobby Creation Time | Thursday, December 21, 2023 22:36:16 |
 
 
 |  | epic_boss_fight_nightmare |
