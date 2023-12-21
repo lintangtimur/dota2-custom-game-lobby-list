@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660259301611 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Haode |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:07:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660256151950 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | scripted |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 21, 2023 12:00:36 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660260936052 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Aker- |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:10:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660262993870 |
+| Players | 2/15 |
+| Host Name | Jaylaps Brozingis |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 12:15:17 |
 
 
 |  | epic_boss_fight_challenger |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:05:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660260558997 |
-| Players | 8/10 |
-| Host Name | InYourDick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 12:10:07 |
 
 
