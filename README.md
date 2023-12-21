@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660500043748 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Bubblicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:06:16 |
@@ -49,28 +49,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660502090001 |
-| Players | 7/8 |
-| Host Name | 626 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:08:36 |
+| Lobby ID | 28573660502609802 |
+| Players | 2/8 |
+| Host Name | enemy |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:09:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660501738580 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Shawn Oakman |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:08:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660501730616 |
-| Players | 9/10 |
-| Host Name | СУДАРЬ |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:08:12 |
 
 
@@ -81,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | динь динь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:08:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660502609802 |
-| Players | 2/8 |
-| Host Name | enemy |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:09:12 |
 
 
 |  | epic_boss_fight_nightmare |
