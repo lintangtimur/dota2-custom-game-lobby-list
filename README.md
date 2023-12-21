@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660704540569 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Kazune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:21:45 |
@@ -38,46 +38,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 22:22:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660699457681 |
-| Players | 22/24 |
-| Host Name | Я ебанутый на голову, скорость у |
+| Lobby ID | 28573660706851801 |
+| Players | 2/10 |
+| Host Name | を求めて ♡ |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:16:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660706801961 |
-| Players | 1/24 |
-| Host Name | Darksider |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, December 21, 2023 22:24:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660706457052 |
-| Players | 10/15 |
-| Host Name | AAA111 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 22:23:40 |
+| Lobby Creation Time | Thursday, December 21, 2023 22:24:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660706670437 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Пивная Сиська |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:23:53 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660706457052 |
+| Players | 12/15 |
+| Host Name | AAA111 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 22:23:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660706991748 |
+| Players | 2/24 |
+| Host Name | Vitu |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 22:24:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660706541824 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Bold ni Wally |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:23:45 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DvD |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:23:55 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28573660706933563 |
+| Players | 1/7 |
+| Host Name | Анальная тушенка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 22:24:08 |
 
 
