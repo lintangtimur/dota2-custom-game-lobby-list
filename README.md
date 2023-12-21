@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660487523209 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Addictife |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:51:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660487442300 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:51:07 |
@@ -49,18 +49,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660487106665 |
-| Players | 14/15 |
-| Host Name | Unknown |
+| Lobby ID | 28573660488041124 |
+| Players | 3/15 |
+| Host Name | SavagE -iwnl- |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:50:41 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:51:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660484246624 |
-| Players | 3/15 |
-| Host Name | 13.07.2024 |
+| Players | 11/15 |
+| Host Name | [ТаЕж] КусьКусь |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 21, 2023 18:47:09 |
 
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660487814529 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | herman Shatz |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:51:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660488041124 |
-| Players | 1/15 |
-| Host Name | SavagE -iwnl- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:51:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660482669528 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Kess Joy |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:45:11 |
@@ -99,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | >OnLy LoVe< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:51:17 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28573660487691589 |
-| Players | 2/7 |
-| Host Name | Wayne |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:51:26 |
 
 
 |  | epic_boss_fight_challenger |
