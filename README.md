@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 12:06:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660256298666 |
-| Players | 23/24 |
-| Host Name | goldfeesh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 12:00:56 |
+| Lobby ID | 28573660259050808 |
+| Players | 2/8 |
+| Host Name | Dereck Zoolander. |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 12:06:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660258455507 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | asantoloþ |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:05:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660259050808 |
-| Players | 1/8 |
-| Host Name | Dereck Zoolander. |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 12:06:55 |
 
 
 |  | epic_boss_fight_challenger |
