@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660380675474 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | LoneWolf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 16:09:08 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660378607971 |
-| Players | 8/15 |
+| Players | 5/15 |
 | Host Name | Света Букина |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 21, 2023 16:05:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660383298577 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | abdefgh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 16:13:46 |
@@ -68,10 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660383504294 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | жду 7.36 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 16:14:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660383713964 |
+| Players | 2/15 |
+| Host Name | Kulebyaka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 16:14:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660383859305 |
+| Players | 1/10 |
+| Host Name | Ramazan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 16:14:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660383962365 |
+| Players | 3/8 |
+| Host Name | Mr. Negi Generation 6 |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 21, 2023 16:14:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660383565185 |
-| Players | 1/10 |
-| Host Name | Nekard |
+| Players | 2/10 |
+| Host Name | Mochipon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 16:14:14 |
 
