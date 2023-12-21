@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 17:47:08 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660446236610 |
-| Players | 13/15 |
-| Host Name | Ama_ma |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:56:14 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660439747829 |
@@ -36,33 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | melancholy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:46:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660446481248 |
-| Players | 4/15 |
-| Host Name | Roronoa T. Zoro |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 17:56:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660446412485 |
-| Players | 5/8 |
-| Host Name | Skeeeeda |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:56:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660446668650 |
-| Players | 6/10 |
-| Host Name | GhasT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:56:51 |
 
 
 |  | epic_boss_fight_nightmare |
