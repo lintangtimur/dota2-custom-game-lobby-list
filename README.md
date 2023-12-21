@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660379960036 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | Fekita |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:53 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 19:45:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660538128569 |
-| Players | 9/15 |
-| Host Name | Kiwiszn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:47:32 |
+| Lobby ID | 28573660538614321 |
+| Players | 3/10 |
+| Host Name | Дима Ескорт |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:48:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660537558693 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Winter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:46:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660537494223 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Nolinalik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:46:53 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660524475751 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | ЕБАЛО ЛЮБОПЫТНОЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:33:18 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660516538040 |
-| Players | 3/10 |
-| Host Name | Anti-Creep |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:24:43 |
+| Lobby ID | 28573660538473829 |
+| Players | 9/24 |
+| Host Name | Monsiuer LaPadite |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:47:54 |
 
 
 |  | epic_boss_fight_nightmare |
