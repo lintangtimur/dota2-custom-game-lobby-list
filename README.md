@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660336418989 |
-| Players | 6/8 |
-| Host Name | я пизду лизал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 14:47:46 |
+| Lobby ID | 28573660336622514 |
+| Players | 4/10 |
+| Host Name | Blackpink |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 14:48:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660334537301 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Dence |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 14:44:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660336547763 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | BillyAne |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 14:48:01 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660336603491 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Norinco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 14:48:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660336622514 |
-| Players | 4/10 |
-| Host Name | Blackpink |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 14:48:09 |
 
 
 |  | epic_boss_fight_nightmare |
