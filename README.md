@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660543582241 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | AVG_Solar Grhmj.EnormousDong |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:52:54 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660543910063 |
-| Players | 4/8 |
-| Host Name | aterasaonelove |
+| Players | 1/8 |
+| Host Name | Q |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:53:14 |
 
@@ -59,18 +59,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660543699647 |
-| Players | 3/8 |
-| Host Name | Airos - MUTANT |
+| Players | 4/8 |
+| Host Name | Гэрри |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:53:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660544078733 |
+| Players | 1/15 |
+| Host Name | Starkiller |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 19:53:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660544080309 |
+| Players | 2/10 |
+| Host Name | бухачьё |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 19:53:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660544129231 |
+| Players | 1/10 |
+| Host Name | sanTa fe |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 19:53:27 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660540883304 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 山上徹也 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:50:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28573660538044705 |
+| Players | 9/10 |
+| Host Name | ward whore rubber |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:47:27 |
 
 
