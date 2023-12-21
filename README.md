@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660462372336 |
-| Players | 2/15 |
-| Host Name | Batoon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:18:48 |
+| Lobby ID | 28573660461626854 |
+| Players | 12/15 |
+| Host Name | ЧВК ПУкаНъъ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 18:17:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660457125294 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | LOKI PRIME |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:11:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660462314169 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | СТРОИТЕЛЬ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:18:43 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Evil Hagrid |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:18:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660462680282 |
+| Players | 3/24 |
+| Host Name | Smurfosaurus-Rekt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 18:19:13 |
 
 
 |  | epic_boss_fight_nightmare |
