@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660441623770 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | сука(я) |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:49:21 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660441472929 |
+| Lobby ID | 28573660439448792 |
 | Players | 9/10 |
-| Host Name | Papi Culo |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:49:08 |
+| Host Name | BIG DICK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 17:46:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660439535822 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Phat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:46:16 |
@@ -77,25 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660441535504 |
-| Players | 2/8 |
-| Host Name | ГОРА С ХУЯ |
+| Players | 1/8 |
+| Host Name | Kak tak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:49:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660439448792 |
-| Players | 7/10 |
-| Host Name | BIG DICK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:46:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660438464914 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | fun|GrayShark |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:44:41 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ็ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:46:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660442223404 |
+| Players | 1/5 |
+| Host Name | Слово пацана |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 17:50:14 |
 
 
