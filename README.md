@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 12:37:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660272706979 |
-| Players | 17/24 |
-| Host Name | Jake GyllenHalberd |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 12:36:16 |
+| Lobby ID | 28573660273385449 |
+| Players | 14/15 |
+| Host Name | Clinkz Eastwood |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 12:37:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660273855071 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:38:43 |
@@ -68,27 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660275273606 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Imbecility & Courage♉ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:41:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660275839267 |
+| Players | 1/8 |
+| Host Name | Ari |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 12:43:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660275681914 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | TORNADOOOOOOOOOOOOOOOOOOO |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 21, 2023 12:42:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660273494774 |
-| Players | 8/10 |
-| Host Name | danetacion |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 12:37:57 |
 
 
