@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660413728213 |
-| Players | 2/8 |
-| Host Name | Kak tak |
+| Players | 3/8 |
+| Host Name | Gaming |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:05:54 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660410771298 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:01:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660413692285 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | valarmorghulis |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:05:51 |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 17:05:52 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660413690672 |
-| Players | 1/15 |
-| Host Name | Federall |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:05:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660413929517 |
-| Players | 4/8 |
-| Host Name | оPuppeyт |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:06:14 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660414042500 |
@@ -83,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 17:06:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660413507211 |
-| Players | 7/10 |
-| Host Name | Paradiddle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:05:32 |
+| Lobby ID | 28573660414403707 |
+| Players | 1/8 |
+| Host Name | McZaur BP2022.cc |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 17:07:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660413713946 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Слово пацана |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:05:53 |
