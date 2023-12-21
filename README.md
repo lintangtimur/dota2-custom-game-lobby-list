@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660580393289 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Безумный Паша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:28:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660581017449 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Escaped |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:29:14 |
@@ -65,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 20:27:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660581243678 |
+| Players | 1/8 |
+| Host Name | Крокодилдо |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:29:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660581247668 |
+| Players | 1/10 |
+| Host Name | V |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:29:27 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660579829555 |
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660580202123 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Vells |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:28:29 |
