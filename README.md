@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660802780831 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | NookLe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 00:01:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660800673664 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 阿拉伯打嗝香 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 23:58:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660801421459 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Silvan |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:59:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660800804437 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | J |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:59:04 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660802568758 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Mato dois e ainda me escapo!!! |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 00:00:57 |
@@ -131,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660792193974 |
-| Players | 3/10 |
-| Host Name | CAM |
+| Players | 2/10 |
+| Host Name | Soda popinski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:49:49 |
 
@@ -149,9 +149,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660800947422 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ДЕВОЧКА ИЗ АНИМЕ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:59:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660803105526 |
+| Players | 1/5 |
+| Host Name | CAM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 00:01:32 |
 
 
