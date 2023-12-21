@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 16:06:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660379052683 |
-| Players | 1/24 |
-| Host Name | Slighty ass |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 16:06:17 |
+| Lobby ID | 28573660379103789 |
+| Players | 6/8 |
+| Host Name | одинокая анимешница Аня Ролтон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 16:06:22 |
 
 
 |  | epic_boss_fight_nightmare |
