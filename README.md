@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660293976838 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Jake GyllenHalberd |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 13:22:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660295059578 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Киборг убийца |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 13:24:45 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Garplaf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 13:26:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28573660296116129 |
-| Players | 2/5 |
-| Host Name | 范伟打天下！ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 21, 2023 13:27:00 |
 
 
