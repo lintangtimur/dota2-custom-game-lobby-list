@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660401715569 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 16:45:40 |
@@ -49,20 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660402234852 |
-| Players | 7/8 |
-| Host Name | 1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 16:46:33 |
+| Lobby ID | 28573660402839850 |
+| Players | 4/8 |
+| Host Name | nusuntgacijur~ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 16:47:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660402594487 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | egoist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 16:47:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660403010978 |
+| Players | 1/15 |
+| Host Name | Bloodseeker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 16:47:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Knowledge |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 21, 2023 16:43:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660402790310 |
-| Players | 2/10 |
-| Host Name | Krekerker31 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 16:47:29 |
 
 
