@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660228885983 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Decadance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 11:00:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660229096230 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 11:01:03 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660220268368 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | sarcastic mr know it all |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 10:41:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660229606807 |
-| Players | 13/15 |
-| Host Name | YO ERICK JUANITO DE LA SISE |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 11:02:13 |
+| Lobby ID | 28573660230461947 |
+| Players | 2/10 |
+| Host Name | Remington Jones |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 11:04:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660230387746 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | адидас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 11:03:57 |
