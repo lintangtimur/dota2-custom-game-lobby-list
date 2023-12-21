@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660273158794 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | 88..9 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:37:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660283237461 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | pisyapopakaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 12:59:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660281078012 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Subutai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:54:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660283470907 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | raton |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:59:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660284494907 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | El chipirón enrojao |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 13:02:08 |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660283197650 |
-| Players | 5/15 |
-| Host Name | andre.dz |
+| Players | 3/15 |
+| Host Name | Cptn.Canuck |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:59:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660283816185 |
-| Players | 6/10 |
-| Host Name | CORRALITO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 13:00:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660283696787 |
-| Players | 22/24 |
-| Host Name | Incradiator |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 13:00:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660284001615 |
-| Players | 8/10 |
-| Host Name | Angel_Kasteil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 13:01:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,22 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 13:03:13 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660285425237 |
+| Players | 4/8 |
+| Host Name | xdxdxd |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 13:04:08 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660281680789 |
-| Players | 5/10 |
-| Host Name | CASTILLISTA DE PRIMERA VUELTA |
+| Players | 2/10 |
+| Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:56:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660285425237 |
-| Players | 1/8 |
-| Host Name | xdxdxd |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 13:04:08 |
+| Lobby ID | 28573660285770680 |
+| Players | 1/10 |
+| Host Name | мастер деная слав |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 13:04:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660283391070 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:59:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660285843499 |
+| Players | 1/5 |
+| Host Name | 范伟打天下！ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 21, 2023 13:05:01 |
 
 
