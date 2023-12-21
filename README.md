@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660388282517 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | Yao Kamutoherovato |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 16:22:41 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 16:21:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660387873157 |
-| Players | 3/24 |
-| Host Name | budagold |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 16:21:55 |
+| Lobby ID | 28573660388421312 |
+| Players | 2/10 |
+| Host Name | Гульсина |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 16:22:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660379170520 |
-| Players | 13/15 |
-| Host Name | 0-0 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 21, 2023 16:06:30 |
+| Lobby ID | 28573660388445362 |
+| Players | 5/8 |
+| Host Name | Sashok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 16:22:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Вася on the track |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:35:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28573660388411650 |
-| Players | 1/5 |
-| Host Name | konoha virus |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 21, 2023 16:22:55 |
 
 
