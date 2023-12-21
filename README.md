@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660372437021 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 15:54:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660370569323 |
-| Players | 21/24 |
+| Players | 19/24 |
 | Host Name | VEG4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:51:00 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Вася on the track |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:35:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28573660372248058 |
-| Players | 3/5 |
-| Host Name | 失败的man |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:54:10 |
 
 
 |  | epic_boss_fight_nightmare |
