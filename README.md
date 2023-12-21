@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660638475817 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Miller |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:21:28 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660641408868 |
-| Players | 18/24 |
-| Host Name | Quesadilla |
+| Players | 20/24 |
+| Host Name | แง้ววววววววว |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 21:24:11 |
 
@@ -68,27 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660644617945 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 911 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 21:27:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660641758352 |
-| Players | 8/15 |
-| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 21:24:30 |
+| Lobby ID | 28573660645224998 |
+| Players | 6/10 |
+| Host Name | Maganahi |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 21:27:39 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28573660644581878 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | Balalaika |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:27:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28573660645193900 |
+| Players | 2/10 |
+| Host Name | Neizen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 21:27:37 |
 
 
