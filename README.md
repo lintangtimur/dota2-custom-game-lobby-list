@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660317829136 |
-| Players | 23/24 |
-| Host Name | chill doto |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 14:11:18 |
+| Lobby ID | 28573660320341437 |
+| Players | 1/8 |
+| Host Name | The Manjares |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 14:16:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660318211129 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | no comment |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 14:12:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660319952246 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Barikkel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 14:15:22 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Stronger |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:15:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660320341437 |
-| Players | 3/8 |
-| Host Name | The Manjares |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 14:16:09 |
 
 
 |  | epic_boss_fight_nightmare |
