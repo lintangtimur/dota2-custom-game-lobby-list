@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660818877145 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 00:18:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660820169396 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | овальчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 00:19:35 |
@@ -38,28 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 00:19:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660820425283 |
-| Players | 3/15 |
-| Host Name | Player1^^ DAMNMIGOD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 00:19:51 |
+| Lobby ID | 28573660820558564 |
+| Players | 1/8 |
+| Host Name | blank |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 00:20:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660820144541 |
-| Players | 7/10 |
-| Host Name | manizaeem12 |
+| Lobby ID | 28573660820394950 |
+| Players | 5/8 |
+| Host Name | Viedeshiz |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 00:19:33 |
+| Lobby Creation Time | Friday, December 22, 2023 00:19:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660820281069 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Jossss |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 00:19:42 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660820318590 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Ltpw01 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 00:19:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660820803022 |
+| Players | 3/10 |
+| Host Name | WahaBeat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 00:20:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660820847084 |
+| Players | 1/24 |
+| Host Name | XinQuy |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 00:20:18 |
 
 
 |  | epic_boss_fight_nightmare |
