@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660465831243 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Nando Lorris |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:23:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660467215268 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Flam |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:25:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660467262641 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | 33 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:25:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660467495710 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | H43 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:25:46 |
