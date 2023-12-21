@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660392673483 |
-| Players | 23/24 |
-| Host Name | OG uZok |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 16:30:18 |
+| Lobby ID | 28573660396721317 |
+| Players | 1/15 |
+| Host Name | cant |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 16:37:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660395654867 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 16:35:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660379960036 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:53 |
@@ -50,16 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660393482075 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 16:31:41 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660396815905 |
+| Players | 1/24 |
+| Host Name | Whis |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, December 21, 2023 16:37:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660394901813 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Вася on the track |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 16:34:08 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660395923082 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Side Effect |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 21, 2023 16:35:52 |
