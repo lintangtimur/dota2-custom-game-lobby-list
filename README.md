@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660491016894 |
-| Players | 5/8 |
-| Host Name | S E T |
+| Lobby ID | 28573660491729868 |
+| Players | 6/10 |
+| Host Name | Вован Адидасов |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:55:34 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:56:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660491502777 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Werewolf.GR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:56:10 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660490910972 |
-| Players | 23/24 |
-| Host Name | 123456 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:55:26 |
+| Lobby ID | 28573660488758820 |
+| Players | 7/24 |
+| Host Name | Smurfosaurus-Rekt |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 18:52:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:54:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660488758820 |
-| Players | 5/24 |
-| Host Name | Smurfosaurus-Rekt |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:52:48 |
+| Lobby ID | 28573660492004178 |
+| Players | 2/8 |
+| Host Name | данек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 18:56:46 |
 
 
 |  | epic_boss_fight_challenger |
@@ -76,17 +76,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660487580927 |
-| Players | 7/10 |
-| Host Name | >OnLy LoVe< |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:51:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28573660488598233 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Someone |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:52:36 |
