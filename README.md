@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660283197650 |
-| Players | 9/15 |
-| Host Name | yeadog |
+| Players | 6/15 |
+| Host Name | andre.dz |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:59:19 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660283696787 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 13:00:23 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Angel_Kasteil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 13:01:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660284372445 |
-| Players | 2/8 |
-| Host Name | супер скуф |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 13:01:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660284800041 |
-| Players | 1/15 |
-| Host Name | Popeye Big Burger |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 21, 2023 13:02:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:59:43 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28573660284920671 |
+| Players | 1/7 |
+| Host Name | Galearcher |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 13:03:03 |
 
 
