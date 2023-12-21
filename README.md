@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660272706979 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Jake GyllenHalberd |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:36:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660273385449 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Clinkz Eastwood |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:37:43 |
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 12:39:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660272154069 |
-| Players | 7/8 |
-| Host Name | Aker- |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 12:35:06 |
+| Lobby ID | 28573660274372654 |
+| Players | 2/10 |
+| Host Name | d0kk |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 12:39:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660274350745 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | ТРЕНЕР NAVI 2011 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:39:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660274372654 |
-| Players | 1/10 |
-| Host Name | d0kk |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 12:39:51 |
 
 
 |  | epic_boss_fight_normal |
