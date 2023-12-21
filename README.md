@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660351242998 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | locotto |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 15:15:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660363088540 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Aniki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:37:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660252654780 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | todd chavez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660361795668 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:35:11 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 15:36:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660363422748 |
-| Players | 11/15 |
-| Host Name | 100 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 15:38:07 |
+| Lobby ID | 28573660363758153 |
+| Players | 4/8 |
+| Host Name | C12H17N2O4P |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 21, 2023 15:38:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 15:38:12 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660363667939 |
+| Players | 1/8 |
+| Host Name | Escaped |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 21, 2023 15:38:33 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660329878623 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Вася on the track |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:35:09 |
