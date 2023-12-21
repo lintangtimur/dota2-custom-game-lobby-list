@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660509793986 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | ЯПСИХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:17:13 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660509804161 |
-| Players | 10/15 |
-| Host Name | Itachi |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:17:13 |
+| Lobby ID | 28573660509815345 |
+| Players | 11/15 |
+| Host Name | Shalom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 19:17:14 |
 
 
 |  | ot3_desert_octet |
@@ -85,19 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660509815345 |
+| Lobby ID | 28573660510363900 |
 | Players | 1/15 |
-| Host Name | Shalom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:17:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660507713335 |
-| Players | 7/10 |
-| Host Name | Eddie.Lin |
+| Host Name | 快要出来了 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:14:55 |
+| Lobby Creation Time | Thursday, December 21, 2023 19:17:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660510371426 |
+| Players | 1/5 |
+| Host Name | Kenn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:17:51 |
 
 
