@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660372854846 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | |NotTheTeacher| |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 21, 2023 15:55:15 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660252654780 |
-| Players | 4/15 |
+| Players | 1/15 |
 | Host Name | todd chavez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660374083831 |
-| Players | 10/15 |
-| Host Name | MikHo |
+| Lobby ID | 28573660374449113 |
+| Players | 4/10 |
+| Host Name | dota 2 amateur |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 15:57:28 |
+| Lobby Creation Time | Thursday, December 21, 2023 15:58:06 |
 
 
 |  | ot3_gardens_duo |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660374385648 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Nuterez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:57:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660374449113 |
-| Players | 3/10 |
-| Host Name | dota 2 amateur |
+| Lobby ID | 28573660374849850 |
+| Players | 2/15 |
+| Host Name | noxx? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 15:58:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660374534672 |
-| Players | 1/8 |
-| Host Name | лапатасьйон |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:58:15 |
+| Lobby Creation Time | Thursday, December 21, 2023 15:58:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Вася on the track |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:35:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28573660374629408 |
+| Players | 1/10 |
+| Host Name | Vainglory |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 15:58:25 |
 
 
