@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660496593830 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | no la dejes, no asi |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 19:02:16 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 19:19:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660511739431 |
-| Players | 6/8 |
-| Host Name | ivoxygen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:19:20 |
+| Lobby ID | 28573660512483401 |
+| Players | 5/10 |
+| Host Name | Aem<3 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:20:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660509904130 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Rae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:17:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660512331257 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Marabola |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:19:59 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:20:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660512483401 |
-| Players | 3/10 |
-| Host Name | Aem<3 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:20:09 |
 
 
 |  | epic_boss_fight_nightmare |
