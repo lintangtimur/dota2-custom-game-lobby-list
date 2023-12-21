@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660506871382 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Glimlach |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:13:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660512483401 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Aem<3 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:20:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660509904130 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Rae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:17:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660512331257 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Marabola |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:19:59 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 19:20:03 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660512792965 |
+| Players | 3/8 |
+| Host Name | pzlxphnlh |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 19:20:30 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660512295852 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | sonrisa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:19:57 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660512472067 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Данька овердоз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:20:08 |
