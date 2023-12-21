@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660426053158 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:25:41 |
@@ -29,58 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 17:09:01 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660429253305 |
-| Players | 5/15 |
-| Host Name | loose vagina energy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:30:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660429872655 |
-| Players | 14/15 |
-| Host Name | An |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:31:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660429952695 |
-| Players | 1/24 |
-| Host Name | Ohayo! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:31:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660430517615 |
-| Players | 7/8 |
-| Host Name | chunga changa prime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:32:36 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660429962040 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:31:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660430475406 |
-| Players | 3/10 |
-| Host Name | Aem<3 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:32:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,6 +45,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | He'ershingenmosiken |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 17:31:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660430475406 |
+| Players | 5/10 |
+| Host Name | Aem<3 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 17:32:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660430882259 |
+| Players | 4/15 |
+| Host Name | BTV HINDOT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 17:33:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660430892692 |
+| Players | 3/15 |
+| Host Name | Don't run! |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 17:33:11 |
 
 
 |  | epic_boss_fight_nightmare |
