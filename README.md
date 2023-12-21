@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660240264925 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 11:25:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660241389155 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 11:28:18 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660237852211 |
-| Players | 7/24 |
-| Host Name | WoodyPlant |
+| Players | 12/24 |
+| Host Name | AzianStrider |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 11:20:22 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660241151836 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Maestro Shifu |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 11:27:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660240828675 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | GreenR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:27:06 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660241812693 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | yasin |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:29:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660241808299 |
-| Players | 1/15 |
-| Host Name | borderwing |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Thursday, December 21, 2023 11:29:12 |
+| Lobby ID | 28573660242162794 |
+| Players | 1/10 |
+| Host Name | Casio |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 11:29:57 |
 
 
 |  | epic_boss_fight_nightmare |
