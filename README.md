@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660348993105 |
-| Players | 1/15 |
-| Host Name | BETA |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 15:11:39 |
+| Lobby ID | 28573660347337966 |
+| Players | 19/24 |
+| Host Name | MankoS~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 15:08:38 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660343674245 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 15:01:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660332479163 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | молоденькая |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 14:40:09 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660348793022 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:11:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660347337966 |
-| Players | 18/24 |
-| Host Name | MankoS~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:08:38 |
+| Lobby ID | 28573660349510545 |
+| Players | 4/8 |
+| Host Name | бабку на ветер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 15:12:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 14:35:09 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660349380189 |
-| Players | 1/5 |
+| Lobby ID | 28573660349422197 |
+| Players | 1/10 |
 | Host Name | nyThanh |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:12:20 |
+| Lobby Creation Time | Thursday, December 21, 2023 15:12:25 |
 
 
