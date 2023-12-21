@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 11:44:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660251001131 |
+| Players | 1/8 |
+| Host Name | WHAT XUXA FUE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 11:49:11 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28573660248327947 |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660250211258 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:47:28 |
