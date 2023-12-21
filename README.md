@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660460714643 |
-| Players | 9/10 |
-| Host Name | Ковырялка1 |
+| Lobby ID | 28573660461987352 |
+| Players | 7/10 |
+| Host Name | dinosaurs hid |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:16:33 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:18:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660461626854 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ЧВК ПУкаНъъ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:17:47 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 报告魔王：请求撸管！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:16:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28573660462070714 |
+| Players | 1/10 |
+| Host Name | Radisson |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 18:18:24 |
 
 
