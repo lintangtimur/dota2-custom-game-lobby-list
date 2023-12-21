@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660317829136 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 14:11:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660252654780 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | todd chavez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660315874115 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | OG.HELLO?! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:07:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660317673452 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Eternal Ares |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 14:11:00 |
@@ -49,28 +49,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660317819521 |
-| Players | 13/15 |
-| Host Name | Panda |
+| Lobby ID | 28573660318862426 |
+| Players | 1/15 |
+| Host Name | egir37 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 14:11:17 |
+| Lobby Creation Time | Thursday, December 21, 2023 14:13:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660318556496 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 安娜 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 14:12:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28573660318672543 |
-| Players | 1/5 |
-| Host Name | OPPA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 14:12:57 |
 
 
