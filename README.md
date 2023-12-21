@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 20:33:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660585126588 |
-| Players | 22/24 |
-| Host Name | ym |
+| Lobby ID | 28573660585748794 |
+| Players | 1/15 |
+| Host Name | Midnights |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 20:33:04 |
+| Lobby Creation Time | Thursday, December 21, 2023 20:33:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660379960036 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | Sopita |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:53 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660585563242 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | FICHA |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:33:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660585549136 |
-| Players | 12/15 |
-| Host Name | Просто я Kira |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:33:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660585748794 |
-| Players | 1/15 |
-| Host Name | Midnights |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 20:33:38 |
+| Lobby ID | 28573660586641472 |
+| Players | 4/8 |
+| Host Name | where are you ,my small girl |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:34:27 |
 
 
 |  | epic_boss_fight_nightmare |
