@@ -38,33 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:26:18 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660478287367 |
-| Players | 10/15 |
-| Host Name | Lancelot |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:39:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660478429425 |
-| Players | 7/10 |
-| Host Name | MaTaNGo_O |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:39:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660478586847 |
-| Players | 4/8 |
-| Host Name | Champion all muted |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:40:03 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660478714938 |
@@ -74,12 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:40:13 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660479044935 |
-| Players | 1/10 |
+| Lobby ID | 28573660479067436 |
+| Players | 1/8 |
+| Host Name | pnzsvns |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 18:40:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660478586847 |
+| Players | 6/8 |
+| Host Name | Champion all muted |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 18:40:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660479173338 |
+| Players | 1/5 |
 | Host Name | SUSi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:40:38 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:40:48 |
 
 
