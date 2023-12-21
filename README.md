@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660551600578 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | 软绵绵 |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 21, 2023 20:00:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660552341590 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | 安德鲁森图书馆管理员 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:01:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660552213606 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | динь динь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:01:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660553592856 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Gay Fish |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:02:52 |
@@ -101,12 +101,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 20:03:10 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660554041299 |
+| Players | 1/24 |
+| Host Name | Azalea |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:03:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660554095734 |
+| Players | 6/10 |
+| Host Name | SameShit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:03:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660554074629 |
+| Players | 1/8 |
+| Host Name | all mute |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:03:21 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28573660553747564 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | петр живет в лесу |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:03:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28573660554078835 |
+| Players | 1/10 |
+| Host Name | big tits anime enjoyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:03:21 |
 
 
