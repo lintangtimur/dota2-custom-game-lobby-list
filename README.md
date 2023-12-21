@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 20:50:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660603235343 |
-| Players | 14/15 |
-| Host Name | JannkeD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:49:39 |
+| Lobby ID | 28573660604790099 |
+| Players | 3/10 |
+| Host Name | АНТОХА ДЕКОЙ ЕБАШУ ЛЕВОЙ РУКОЙ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:51:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,42 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 20:42:57 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660604427575 |
-| Players | 1/24 |
-| Host Name | E |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 20:50:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660604103470 |
-| Players | 11/24 |
-| Host Name | batman |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 20:50:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660604153965 |
-| Players | 9/10 |
-| Host Name | пупок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:50:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660604629042 |
-| Players | 2/8 |
-| Host Name | Catacluzm |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 20:50:56 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660604761900 |
@@ -101,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 20:51:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660602776983 |
-| Players | 14/15 |
-| Host Name | lovely liar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:49:14 |
+| Lobby ID | 28573660604103470 |
+| Players | 13/24 |
+| Host Name | batman |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:50:27 |
 
 
 |  | epic_boss_fight_nightmare |
