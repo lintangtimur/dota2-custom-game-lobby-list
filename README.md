@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660694053577 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ho, ho, u found me)) |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:11:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660693096387 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | bagnu brusgiatu |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 22:10:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660689482984 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | мaиgø |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 21, 2023 22:07:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660693396069 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | jzcz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:11:07 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660693784375 |
-| Players | 7/8 |
-| Host Name | Тотальный фид |
+| Lobby ID | 28573660692615974 |
+| Players | 1/8 |
+| Host Name | Noterdam |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 22:11:30 |
+| Lobby Creation Time | Thursday, December 21, 2023 22:10:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eu sou poeta e ñ aprendi a amar |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 21, 2023 22:10:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660692615974 |
-| Players | 1/8 |
-| Host Name | Noterdam |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 22:10:23 |
 
 
 |  | epic_boss_fight_nightmare |
