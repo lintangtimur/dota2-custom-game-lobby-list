@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660707621332 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | K+- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:24:49 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 22:27:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660715179806 |
-| Players | 12/15 |
-| Host Name | Уже пишу заяву |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 22:32:09 |
+| Lobby ID | 28573660716547441 |
+| Players | 1/24 |
+| Host Name | RGM |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 21, 2023 22:33:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660712416911 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | SedMan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 22:29:27 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660714023949 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | evo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:31:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660716282220 |
-| Players | 6/10 |
-| Host Name | 「ゴウセル |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:33:14 |
+| Lobby ID | 28573660716462039 |
+| Players | 7/15 |
+| Host Name | мистер зверь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 22:33:24 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | noah- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:32:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28573660716339058 |
-| Players | 1/5 |
-| Host Name | Terryl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 22:33:17 |
 
 
