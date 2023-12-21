@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660252654780 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | todd chavez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660350655960 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 15:14:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660350387705 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | idcmmriplay4fun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 15:14:08 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | провокация |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 15:14:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660350962581 |
+| Players | 4/8 |
+| Host Name | Mercedes-Benz GLE-класс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 15:15:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nyThanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:12:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28573660350863642 |
-| Players | 1/5 |
-| Host Name | ArLekiN |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:15:01 |
 
 
