@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660504850495 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | BTV HINDOT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:11:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660506871382 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Glimlach |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:13:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660507995305 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Missing you happiness |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:15:14 |
@@ -68,27 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660508834053 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Jelezka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:16:10 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660509348762 |
+| Players | 1/24 |
+| Host Name | Wukash |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:16:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660509235355 |
+| Players | 3/8 |
+| Host Name | #колбасаменяет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 19:16:36 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660507713335 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Eddie.Lin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:14:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660508861215 |
-| Players | 1/10 |
-| Host Name | Гнев |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:16:12 |
 
 
