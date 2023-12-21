@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660406452704 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | furasshu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 16:53:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660406279833 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Flowers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 16:53:31 |
@@ -50,27 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660405852318 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Суглинок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 16:52:46 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660405406105 |
-| Players | 8/10 |
-| Host Name | Vainglory |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 16:51:58 |
+| Lobby ID | 28573660406786771 |
+| Players | 10/15 |
+| Host Name | Boris |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 16:54:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660405357333 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | [                         ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 16:51:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660407130567 |
+| Players | 1/5 |
+| Host Name | TORNADOOOOOOOOOOOOOOOOOOO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 16:54:57 |
 
 
