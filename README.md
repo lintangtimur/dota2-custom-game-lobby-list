@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660627937391 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | TONY PARRY |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 21:12:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660636545975 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | John Does |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 21:19:43 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660636200845 |
-| Players | 6/8 |
-| Host Name | HankeR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:19:25 |
+| Lobby ID | 28573660634071881 |
+| Players | 4/8 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 21:17:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 21:15:38 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660635541452 |
-| Players | 8/10 |
-| Host Name | LARVELL JONES |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:18:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660634071881 |
-| Players | 2/8 |
-| Host Name | BigKing Assault Mode |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 21:17:31 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660636833333 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | _Shm0n_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:19:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660637013359 |
+| Players | 1/10 |
+| Host Name | ЕМЕЛЯ ДИЛДОНОВ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 21:20:09 |
 
 
 |  | epic_boss_fight_hard |
