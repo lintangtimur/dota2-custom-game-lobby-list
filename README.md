@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660478287367 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Lancelot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:39:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660478586847 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Champion all muted |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:40:03 |
@@ -68,36 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660478714938 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:40:13 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660478904963 |
-| Players | 1/15 |
-| Host Name | Back2Basic |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:40:28 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660477700783 |
-| Players | 9/10 |
-| Host Name | 男人哭吧哭吧不是罪>.< |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:38:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660478897819 |
+| Lobby ID | 28573660479044935 |
 | Players | 1/10 |
 | Host Name | SUSi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:40:27 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:40:38 |
 
 
