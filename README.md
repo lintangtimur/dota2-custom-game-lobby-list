@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660388890426 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | роудислав |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 16:23:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660388718223 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | its been 12 years |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 16:23:29 |
@@ -103,19 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660388814678 |
-| Players | 1/10 |
-| Host Name | Yatoro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 16:23:39 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28573660388940353 |
 | Players | 1/10 |
 | Host Name | планы на вечер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 16:23:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660389135909 |
+| Players | 1/5 |
+| Host Name | Aimer-|` |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 16:24:12 |
 
 
