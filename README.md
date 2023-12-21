@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660276980990 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | LEDER DE LEDERES. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:45:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660252654780 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | 구문룡 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
@@ -32,43 +32,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660276094953 |
-| Players | 14/24 |
+| Players | 22/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:43:39 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660276759625 |
-| Players | 1/24 |
-| Host Name | ≈ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 12:45:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660276581039 |
-| Players | 5/8 |
-| Host Name | Fashion Pizza |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 21, 2023 12:44:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660276563476 |
-| Players | 1/10 |
-| Host Name | брюс ли |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 12:44:40 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660277243573 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Frozen |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:46:10 |
@@ -77,10 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660276992552 |
-| Players | 2/8 |
-| Host Name | тварь номер раз |
+| Players | 3/8 |
+| Host Name | провокация |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 12:45:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660276563476 |
+| Players | 2/10 |
+| Host Name | брюс ли |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 12:44:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660277372289 |
+| Players | 2/24 |
+| Host Name | Nero Scarlet |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 12:46:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660277442611 |
+| Players | 1/10 |
+| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 12:46:36 |
 
 
 |  | epic_boss_fight_nightmare |
