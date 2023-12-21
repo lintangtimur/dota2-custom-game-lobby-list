@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660426053158 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | swap commends |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:25:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660426611482 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Rick & Clancy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:26:33 |
@@ -49,56 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660428281680 |
-| Players | 2/8 |
-| Host Name | Mathieu Bal |
+| Lobby ID | 28573660428483726 |
+| Players | 4/8 |
+| Host Name | idcmmriplay4fun |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:29:08 |
+| Lobby Creation Time | Thursday, December 21, 2023 17:29:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660427889433 |
-| Players | 7/8 |
-| Host Name | ПЕРДОЛЕТОЧКА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:28:31 |
+| Lobby ID | 28573660428478095 |
+| Players | 4/10 |
+| Host Name | 100% report conversion |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 17:29:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660428318380 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | Ksiu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:29:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660425214086 |
-| Players | 9/10 |
-| Host Name | Mr. Krabs |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:24:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660426758328 |
-| Players | 1/10 |
-| Host Name | ( °Д°) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:26:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660426873031 |
-| Players | 9/10 |
-| Host Name | Soos |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:26:57 |
 
 
 |  | epic_boss_fight_normal |
