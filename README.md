@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660354996186 |
-| Players | 1/15 |
-| Host Name | < |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Thursday, December 21, 2023 15:22:46 |
+| Lobby ID | 28573660355468772 |
+| Players | 4/8 |
+| Host Name | Dill |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 15:23:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660354847407 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Haktaru |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:22:28 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 15:23:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660355468772 |
-| Players | 2/8 |
-| Host Name | Dill |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 15:23:40 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660329878623 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660353290778 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ChatGPT andrewfhg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:19:29 |
