@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660312175198 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:00:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660312251824 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 0 emotions? onl;y words |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 14:00:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660252654780 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | todd chavez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660309450102 |
-| Players | 22/24 |
-| Host Name | foreskin necromancer |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 13:54:48 |
+| Lobby ID | 28573660312656670 |
+| Players | 1/24 |
+| Host Name | Auna |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 14:01:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | M142 HIMARS |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:01:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660312578086 |
+| Players | 2/24 |
+| Host Name | Dr. Strange |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, December 21, 2023 14:01:08 |
 
 
 |  | epic_boss_fight_nightmare |
