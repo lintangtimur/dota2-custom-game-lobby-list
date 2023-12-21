@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660686275563 |
-| Players | 4/8 |
-| Host Name | Your Daddy |
+| Lobby ID | 28573660686712926 |
+| Players | 1/8 |
+| Host Name | kn9z |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:04:34 |
+| Lobby Creation Time | Thursday, December 21, 2023 22:04:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660686209533 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | StarrkCoyote |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 22:04:31 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660686560834 |
-| Players | 9/15 |
-| Host Name | Azazanext |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:04:49 |
+| Lobby ID | 28573660686937247 |
+| Players | 11/15 |
+| Host Name | [DD] Дet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 22:05:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660686472210 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Eu sou poeta e ñ aprendi a amar |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 21, 2023 22:04:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660686169710 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Babushka_Betman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:04:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660686053714 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Cago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:04:23 |
@@ -94,10 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660686712926 |
-| Players | 4/8 |
+| Lobby ID | 28573660687092732 |
+| Players | 1/8 |
+| Host Name | flow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 22:05:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660687165010 |
+| Players | 3/8 |
 | Host Name | watsnekst? |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:04:56 |
+| Lobby Creation Time | Thursday, December 21, 2023 22:05:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28573660686856305 |
+| Players | 1/10 |
+| Host Name | Bold ni Wally |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 22:05:04 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28573660687071851 |
+| Players | 1/7 |
+| Host Name | lulz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 22:05:15 |
 
 
