@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660264970994 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Kenjisakura |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:19:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660264885124 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:19:23 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660264752094 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | BOk |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:19:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660265409330 |
-| Players | 2/8 |
-| Host Name | Lil Chicha |
+| Lobby ID | 28573660265859825 |
+| Players | 1/15 |
+| Host Name | Sex_HUnter |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 12:20:32 |
+| Lobby Creation Time | Thursday, December 21, 2023 12:21:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660264873935 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:19:21 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 12:19:32 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660265897610 |
+| Players | 2/8 |
+| Host Name | Lil Chicha |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 12:21:41 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660265684385 |
+| Lobby ID | 28573660265891108 |
 | Players | 1/15 |
-| Host Name | Lustucru |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 12:21:11 |
+| Host Name | Devod |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 12:21:40 |
 
 
 |  | epic_boss_fight_challenger |
