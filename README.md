@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660232807326 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Angry Bird Enjoyer |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 11:09:16 |
@@ -110,6 +110,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 11:10:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660233637904 |
+| Players | 5/8 |
+| Host Name | clown master |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 11:11:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660230386087 |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KOLO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:03:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660233645761 |
+| Players | 2/5 |
+| Host Name | g4rrid0 |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, December 21, 2023 11:11:05 |
 
 
