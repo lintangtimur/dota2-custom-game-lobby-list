@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660831719146 |
-| Players | 1/10 |
+| Players | 9/10 |
 | Host Name | Анатолий |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 00:32:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660828893555 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | El Cuervo (CRISTINIANDO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 00:29:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660831701861 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | ❅ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 00:32:10 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28573660829539077 |
 | Players | 5/24 |
-| Host Name | NezukoChannnnn |
+| Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 00:29:49 |
 
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660831374873 |
-| Players | 7/8 |
-| Host Name | Zoda |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 22, 2023 00:31:48 |
+| Lobby ID | 28573660831921623 |
+| Players | 4/8 |
+| Host Name | Jeehee Δ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 00:32:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660831086516 |
-| Players | 2/8 |
-| Host Name | no fear |
+| Lobby ID | 28573660831787259 |
+| Players | 3/8 |
+| Host Name | ЗаПутина |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 00:31:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660831777404 |
-| Players | 1/8 |
-| Host Name | CHUEQUITO!!! IS BACK |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 00:32:14 |
+| Lobby Creation Time | Friday, December 22, 2023 00:32:15 |
 
 
 |  | epic_boss_fight_nightmare |
