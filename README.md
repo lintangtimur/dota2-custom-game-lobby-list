@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 13:33:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660298604824 |
-| Players | 1/24 |
-| Host Name | BABY-ROSH (AL) |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 13:32:13 |
+| Lobby ID | 28573660299300866 |
+| Players | 2/8 |
+| Host Name | "I A'M Z E U S" |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 13:33:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660252654780 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | todd chavez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
@@ -38,13 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 13:25:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660298306454 |
-| Players | 1/8 |
-| Host Name | . |
+| Lobby ID | 28573660299331493 |
+| Players | 2/15 |
+| Host Name | SIYOGA ☼ AGARIC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 13:33:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660299192783 |
+| Players | 1/24 |
+| Host Name | BABY-ROSH (AL) |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 13:31:36 |
+| Lobby Creation Time | Thursday, December 21, 2023 13:33:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660297795903 |
+| Players | 3/10 |
+| Host Name | Mhanuel-liA- |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 13:30:31 |
 
 
 |  | epic_boss_fight_nightmare |
