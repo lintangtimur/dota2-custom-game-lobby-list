@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660324851551 |
-| Players | 7/8 |
-| Host Name | Te voy a cagar la party |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 14:25:21 |
+| Lobby ID | 28573660325764712 |
+| Players | 12/24 |
+| Host Name | appreciate life |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 14:27:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660326801894 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 14:29:09 |
@@ -38,31 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 14:32:06 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660322035765 |
-| Players | 23/24 |
-| Host Name | MAGA |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 14:19:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660325764712 |
-| Players | 11/24 |
-| Host Name | appreciate life |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 14:27:08 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660328058098 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Юра салярка |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 14:31:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660328522974 |
+| Players | 9/10 |
+| Host Name | снюсотерапия |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 14:32:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660328717232 |
+| Players | 1/8 |
+| Host Name | polina |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 14:32:54 |
 
 
 |  | epic_boss_fight_normal |
