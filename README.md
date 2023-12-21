@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660627937391 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | TONY PARRY |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 21:12:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660636545975 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | John Does |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 21:19:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660634071881 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 21:17:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660636833333 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | _Shm0n_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:19:59 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660637013359 |
-| Players | 1/10 |
-| Host Name | ЕМЕЛЯ ДИЛДОНОВ |
+| Lobby ID | 28573660637269294 |
+| Players | 2/10 |
+| Host Name | я н диpeктo ьpо я бoз |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:20:09 |
+| Lobby Creation Time | Thursday, December 21, 2023 21:20:23 |
 
 
 |  | epic_boss_fight_hard |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660636505251 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Gustavo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 21:19:41 |
