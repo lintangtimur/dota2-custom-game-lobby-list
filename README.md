@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660351242998 |
-| Players | 3/24 |
-| Host Name | Peter Bot |
+| Players | 2/24 |
+| Host Name | locotto |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 15:15:43 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660360685658 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | 6dog |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 15:33:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660358313896 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 15:28:51 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660361734856 |
-| Players | 9/10 |
-| Host Name | Сакура Бобра |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 15:35:04 |
+| Lobby ID | 28573660361795668 |
+| Players | 1/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 15:35:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 15:36:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660361795668 |
-| Players | 1/10 |
-| Host Name | BubiBubi |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:35:11 |
+| Lobby ID | 28573660362404213 |
+| Players | 1/24 |
+| Host Name | Series |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 15:36:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660362500558 |
+| Players | 2/8 |
+| Host Name | хач |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 21, 2023 15:36:28 |
 
 
 |  | epic_boss_fight_nightmare |
