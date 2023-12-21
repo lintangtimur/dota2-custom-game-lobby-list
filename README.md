@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660295523359 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 13:25:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660299331493 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | SIYOGA ☼ AGARIC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 13:33:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660299192783 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 13:33:28 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660297795903 |
-| Players | 3/10 |
-| Host Name | Mhanuel-liA- |
+| Players | 1/10 |
+| Host Name | iDoony |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 13:30:31 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660295085532 |
-| Players | 2/10 |
-| Host Name | Maharaja Lawana |
+| Lobby ID | 28573660299455854 |
+| Players | 3/8 |
+| Host Name | M142 HIMARS |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 13:24:48 |
+| Lobby Creation Time | Thursday, December 21, 2023 13:34:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660299509283 |
+| Players | 5/8 |
+| Host Name | ALLAHU AKBAR |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 13:34:09 |
 
 
 |  | epic_boss_fight_nightmare |
