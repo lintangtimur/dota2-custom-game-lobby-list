@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660240108932 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | シャロShalo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 11:25:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660239893198 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | miss 2B |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 11:25:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660240246874 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Toji |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 11:25:51 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660240277506 |
+| Lobby ID | 28573660240393851 |
 | Players | 1/10 |
-| Host Name | Tiny Trumpet! |
+| Host Name | Habemus Swag |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 11:25:55 |
+| Lobby Creation Time | Thursday, December 21, 2023 11:26:10 |
 
 
