@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660642963170 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | MoonDS3 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 21:25:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660634131328 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 21:17:34 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660648574424 |
-| Players | 1/8 |
-| Host Name | Dreamer |
+| Players | 3/8 |
+| Host Name | 1999 |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 21, 2023 21:30:40 |
 
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 21:28:19 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660648343156 |
+| Players | 5/10 |
+| Host Name | сукаишак |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 21:30:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660647741521 |
-| Players | 8/8 |
-| Host Name | Tour de tete |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:29:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660648447334 |
-| Players | 1/15 |
-| Host Name | He'ershingenmosiken |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 21:30:33 |
+| Lobby ID | 28573660649044784 |
+| Players | 2/8 |
+| Host Name | ne v potoke |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 21:31:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,34 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660648150411 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | tomuro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:30:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660648343156 |
-| Players | 4/10 |
-| Host Name | сукаишак |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:30:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660648879750 |
-| Players | 5/8 |
-| Host Name | (=|Dhu Arse|=) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:30:57 |
+| Lobby ID | 28573660649040618 |
+| Players | 1/24 |
+| Host Name | Intan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 21:31:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660648191732 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 𝕄𝕒𝕪𝔻𝕒𝕪 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:30:20 |
