@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660472094627 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | CNN fake news |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:31:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660471923327 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Yami |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:31:32 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:32:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660472451380 |
-| Players | 1/24 |
-| Host Name | GrandPa |
+| Lobby ID | 28573660471071701 |
+| Players | 9/10 |
+| Host Name | scam cult |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:32:14 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:30:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660472642164 |
+| Players | 1/15 |
+| Host Name | tjbo1m |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 21, 2023 18:32:28 |
 
 
 |  | epic_boss_fight_nightmare |
