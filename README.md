@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660352413904 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 安德鲁森图书馆管理员 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:17:52 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 15:09:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660354847407 |
-| Players | 13/15 |
-| Host Name | Haktaru |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:22:28 |
+| Lobby ID | 28573660355449232 |
+| Players | 2/10 |
+| Host Name | БИБИСОРО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 15:23:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 15:23:32 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660355449232 |
-| Players | 2/10 |
-| Host Name | БИБИСОРО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 15:23:37 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660329878623 |
@@ -90,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Вася on the track |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:35:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28573660353290778 |
-| Players | 9/10 |
-| Host Name | ChatGPT andrewfhg |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:19:29 |
 
 
 |  | epic_boss_fight_nightmare |
