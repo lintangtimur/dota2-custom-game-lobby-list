@@ -29,22 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 17:59:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660448892732 |
-| Players | 8/10 |
-| Host Name | qwertzuiop |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:00:04 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660447702923 |
-| Players | 14/15 |
-| Host Name | I can do it |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:58:21 |
+| Lobby ID | 28573660449634332 |
+| Players | 8/15 |
+| Host Name | Iraya |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 18:01:08 |
 
 
 |  | ot3_gardens_duo |
@@ -54,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | angelgetback |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:00:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660447186393 |
-| Players | 9/10 |
-| Host Name | сигаретный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:57:36 |
 
 
 |  | epic_boss_fight_nightmare |
