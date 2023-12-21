@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660272706979 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | Jake GyllenHalberd |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:36:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660273855071 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:38:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660275326017 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Harley |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:41:58 |
@@ -59,54 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660274058021 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | SexyLips |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:39:09 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660274372654 |
-| Players | 6/10 |
-| Host Name | d0kk |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 12:39:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660275273606 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Imbecility & Courage♉ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:41:51 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660274086003 |
-| Players | 2/5 |
-| Host Name | Fnatik_[Fanatik] |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 12:39:13 |
+| Lobby ID | 28573660275681914 |
+| Players | 1/10 |
+| Host Name | TORNADOOOOOOOOOOOOOOOOOOO |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 21, 2023 12:42:45 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660273494774 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | danetacion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:37:57 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28573660275512584 |
-| Players | 1/7 |
-| Host Name | Forest |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 12:42:22 |
 
 
