@@ -38,48 +38,75 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 20:25:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660579517546 |
-| Players | 8/10 |
-| Host Name | АНТОХА ДЕКОЙ ЕБАШУ ЛЕВОЙ РУКОЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 20:27:50 |
+| Lobby ID | 28573660579716853 |
+| Players | 14/15 |
+| Host Name | Kulebyaka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:28:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660565503793 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Glimlach |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:14:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660579578649 |
-| Players | 6/8 |
-| Host Name | q |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:27:53 |
+| Lobby ID | 28573660579714262 |
+| Players | 1/15 |
+| Host Name | неумехапелемеха |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:28:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660579592444 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:27:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660579819027 |
+| Players | 1/8 |
+| Host Name | animeshnik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:28:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660579865550 |
+| Players | 3/10 |
+| Host Name | Lethe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:28:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660579683419 |
-| Players | 3/10 |
-| Host Name | Saito |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 21, 2023 20:27:59 |
+| Lobby ID | 28573660579829555 |
+| Players | 4/10 |
+| Host Name | BUSHIDO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:28:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660579857858 |
+| Players | 1/5 |
+| Host Name | TORNADOOOOOOOOOOOOOOOOOOO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:28:09 |
 
 
