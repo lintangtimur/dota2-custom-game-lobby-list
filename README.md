@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660535464175 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | MrPredator135 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:44:47 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 19:43:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660534797917 |
-| Players | 7/8 |
-| Host Name | minet?🥀 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:44:06 |
+| Lobby ID | 28573660535978708 |
+| Players | 1/15 |
+| Host Name | cant |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 19:45:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660524475751 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | ЕБАЛО ЛЮБОПЫТНОЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:33:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660535767095 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Kwee "Kaypang" Ceng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:45:06 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660535780421 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | 177UUU17 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:45:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660535760742 |
-| Players | 1/15 |
-| Host Name | мудрый дуб |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:45:06 |
 
 
 |  | ot3_desert_octet |
