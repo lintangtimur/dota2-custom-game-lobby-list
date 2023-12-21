@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660371417736 |
-| Players | 7/8 |
-| Host Name | 撒尿和他媽的 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 15:52:37 |
+| Lobby ID | 28573660372235816 |
+| Players | 3/8 |
+| Host Name | Listen , i'am gonna crush you |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 21, 2023 15:54:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 15:53:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660372235816 |
-| Players | 1/8 |
-| Host Name | Listen , i'am gonna crush you |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 21, 2023 15:54:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660329878623 |
@@ -113,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28573660372248058 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | 失败的man |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:54:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28573660372313680 |
+| Players | 3/10 |
+| Host Name | rbg |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 15:54:17 |
 
 
