@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660443309435 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Bichon Frise |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:51:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660443890098 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Flam |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:52:48 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.Banana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:52:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660444233833 |
+| Players | 2/15 |
+| Host Name | LuddeKudde |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 17:53:19 |
 
 
 |  | epic_boss_fight_normal |
