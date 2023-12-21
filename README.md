@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660302625573 |
-| Players | 10/15 |
-| Host Name | InsaneChaos |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 13:40:39 |
+| Lobby ID | 28573660303568777 |
+| Players | 1/10 |
+| Host Name | waiting for death |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 13:42:36 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660303342969 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ressentiment |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 13:42:08 |
@@ -41,16 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660302367656 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Lance |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 13:40:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660303654330 |
+| Players | 2/8 |
+| Host Name | О ХАЭРО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 13:42:47 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660302394841 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 13:40:10 |
