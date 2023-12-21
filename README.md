@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660276980990 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | LEDER DE LEDERES. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:45:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660276094953 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:43:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660276581039 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Fashion Pizza |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:44:42 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 12:44:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660276900796 |
-| Players | 5/10 |
-| Host Name | Niño Pericote |
+| Lobby ID | 28573660277243573 |
+| Players | 2/8 |
+| Host Name | Frozen |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 12:45:24 |
+| Lobby Creation Time | Thursday, December 21, 2023 12:46:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660276992552 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | тварь номер раз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 12:45:36 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660276611534 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:44:46 |
