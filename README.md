@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 14:36:13 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660330855521 |
+| Players | 3/8 |
+| Host Name | сигма |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 14:37:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660331007007 |
+| Players | 1/24 |
+| Host Name | молоденькая |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 14:37:20 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28573660327667618 |
