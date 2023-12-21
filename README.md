@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660612861470 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Ostapi |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:58:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660629863456 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | SAD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:13:46 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 21:12:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660629503104 |
-| Players | 22/24 |
-| Host Name | PartofmyW |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 21:13:27 |
+| Lobby ID | 28573660630517040 |
+| Players | 2/10 |
+| Host Name | эгоист(якрут) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 21:14:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Guardian |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 21:14:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660630628919 |
+| Players | 1/8 |
+| Host Name | Bagaev |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 21:14:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660630661035 |
+| Players | 1/8 |
+| Host Name | серега пират |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 21:14:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28573660627875676 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Wolf22 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:12:00 |
