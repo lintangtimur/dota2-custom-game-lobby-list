@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660448486189 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Nothing Phone 2 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:59:29 |
@@ -38,37 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:03:12 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660449373410 |
-| Players | 7/10 |
-| Host Name | angelgetback |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:00:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660450247136 |
-| Players | 15/15 |
-| Host Name | BLUB° |
+| Lobby ID | 28573660451186573 |
+| Players | 5/15 |
+| Host Name | _Shm0n_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:02:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660450101366 |
-| Players | 6/8 |
-| Host Name | eternalcursed |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:01:48 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:03:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660450826574 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Токсичный ворон |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:02:51 |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660451113934 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | boiko2112 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:03:15 |
