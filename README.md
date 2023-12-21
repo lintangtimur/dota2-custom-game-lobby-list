@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660306309184 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | сигма |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 13:48:12 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660303094426 |
-| Players | 3/8 |
-| Host Name | SWIFTIE desde la CUNA |
+| Players | 2/8 |
+| Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 13:41:37 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660307175914 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Sigma |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 13:49:59 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660306050751 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Monty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 13:47:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660306777267 |
-| Players | 14/15 |
-| Host Name | ТРЕНЕР NAVI 2011 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 13:49:09 |
+| Lobby ID | 28573660307720084 |
+| Players | 1/10 |
+| Host Name | НЕПОНЯТЫЙ НЕ Я |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 13:51:10 |
 
 
 |  | epic_boss_fight_challenger |
