@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660245939733 |
-| Players | 8/10 |
-| Host Name | Trickster |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 11:38:10 |
+| Lobby ID | 28573660246791025 |
+| Players | 1/10 |
+| Host Name | Pichuleitor |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 11:40:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660245742093 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | !Ar3s! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 11:37:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660244749452 |
-| Players | 6/8 |
-| Host Name | +502_Xavix117 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 11:35:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660243120488 |
-| Players | 19/24 |
-| Host Name | MD. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 11:32:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 11:38:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660246732190 |
-| Players | 5/8 |
-| Host Name | WarMime |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 11:39:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28573660245985189 |
-| Players | 2/5 |
-| Host Name | Dr. Sexo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 11:38:16 |
 
 
 |  | epic_boss_fight_nightmare |
