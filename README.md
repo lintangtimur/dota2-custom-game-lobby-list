@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660504850495 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | BTV HINDOT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:11:44 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 19:12:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660505018886 |
-| Players | 13/15 |
-| Host Name | PIVNAYA SIS'KA |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:11:56 |
+| Lobby ID | 28573660507033087 |
+| Players | 2/10 |
+| Host Name | YouTube: Tihon_in_on |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 19:14:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,12 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 19:13:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660506968382 |
+| Players | 1/15 |
+| Host Name | 小牛马 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:14:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660502866690 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Вася on the track |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:09:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660507116087 |
+| Players | 1/5 |
+| Host Name | . Richelieu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:14:16 |
 
 
