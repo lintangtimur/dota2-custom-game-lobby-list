@@ -11,51 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660505018886 |
-| Players | 14/15 |
-| Host Name | PIVNAYA SIS'KA |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:11:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660496593830 |
-| Players | 2/8 |
-| Host Name | no la dejes, no asi |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 19:02:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660504833014 |
-| Players | 9/10 |
-| Host Name | imnaked |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:11:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660498812465 |
-| Players | 1/8 |
-| Host Name | Сосик - Отсосик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:04:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660503602030 |
-| Players | 22/24 |
-| Host Name | ded |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:10:20 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660504850495 |
@@ -67,20 +22,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
+| Lobby ID | 28573660496593830 |
+| Players | 2/8 |
+| Host Name | no la dejes, no asi |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 19:02:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
 | Lobby ID | 28573660505210849 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Delirium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:12:09 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660505112169 |
-| Players | 1/5 |
-| Host Name | shnelechka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 19:12:02 |
+| Lobby ID | 28573660498812465 |
+| Players | 1/8 |
+| Host Name | Сосик - Отсосик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 19:04:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660505393631 |
+| Players | 1/15 |
+| Host Name | robasti |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:12:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660505386911 |
+| Players | 2/10 |
+| Host Name | O.0.o.G.a.w.R.o.0.O |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 19:12:21 |
 
 
 |  | epic_boss_fight_nightmare |
