@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660278984903 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | -qwerty |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:50:02 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660280881161 |
+| Lobby ID | 28573660281436689 |
 | Players | 1/8 |
 | Host Name | роудислав |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 12:54:21 |
+| Lobby Creation Time | Thursday, December 21, 2023 12:55:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660281097442 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | let`s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 12:54:48 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660281237517 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ROMPECULOS DEL 2019 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 12:55:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660279078073 |
-| Players | 7/8 |
-| Host Name | umi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 12:50:15 |
 
 
 |  | ot3_desert_octet |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | бародкин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 12:52:56 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28573660281609448 |
+| Players | 1/7 |
+| Host Name | Kiokasuyetsu |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 12:55:54 |
 
 
