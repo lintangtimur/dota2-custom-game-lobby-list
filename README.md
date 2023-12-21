@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660227364185 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | In Jesus Mode |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 10:57:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660226616788 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | One |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 10:55:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660227483468 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Vladimir Cerron |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 10:57:27 |
@@ -59,9 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660227192043 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Tengo Hacks |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 10:56:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660227944274 |
+| Players | 1/15 |
+| Host Name | Megumin's |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 10:58:28 |
 
 
