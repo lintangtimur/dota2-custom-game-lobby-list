@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:47:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660484218670 |
-| Players | 8/10 |
-| Host Name | каблучара |
+| Lobby ID | 28573660485082551 |
+| Players | 1/8 |
+| Host Name | ure my enemy |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:47:07 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:48:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660484246624 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | HUGE |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 21, 2023 18:47:09 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:47:23 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660482902001 |
-| Players | 9/10 |
-| Host Name | Вова Адидас |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:45:29 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660482669528 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Kess Joy |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:45:11 |
