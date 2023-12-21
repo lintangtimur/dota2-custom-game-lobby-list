@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660786804590 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | SNADY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 23:44:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660790151317 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | VIVA LA LIBERTAD CARAJO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 23:47:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660789486654 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:46:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660792190476 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | Pizzabuddet.dk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 23:49:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660792271537 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Antares mode: |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 23:49:54 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660792193974 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Amazon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:49:49 |
