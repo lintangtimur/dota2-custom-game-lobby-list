@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660366239597 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | J |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:43:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660367653378 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | OverBigDick люблю жестко |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 15:45:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660252654780 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | todd chavez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660358313896 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 15:28:51 |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 15:45:25 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660366992636 |
-| Players | 9/10 |
-| Host Name | МАЛИНА МЁД |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 15:44:34 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660366963504 |
@@ -67,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660368024871 |
-| Players | 2/10 |
-| Host Name | [ I'm Batman ] |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 21, 2023 15:46:24 |
+| Lobby ID | 28573660366992636 |
+| Players | 8/10 |
+| Host Name | radja |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 15:44:34 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660329878623 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Вася on the track |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 14:35:09 |
