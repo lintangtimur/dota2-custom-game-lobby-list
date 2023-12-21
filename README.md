@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660440119212 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | ЧУШПАН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:47:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660447353571 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Airag |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:57:51 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660447117485 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | CoraLine |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:57:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660447317720 |
-| Players | 1/8 |
-| Host Name | Be polite |
+| Lobby ID | 28573660447702923 |
+| Players | 9/15 |
+| Host Name | I can do it |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:57:47 |
+| Lobby Creation Time | Thursday, December 21, 2023 17:58:21 |
 
 
 |  | ot3_gardens_duo |
@@ -58,35 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660447234028 |
-| Players | 1/8 |
-| Host Name | KinT.Anduin |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:57:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660447710288 |
-| Players | 1/8 |
-| Host Name | Kovitoko |
+| Lobby ID | 28573660448120850 |
+| Players | 3/8 |
+| Host Name | Texas |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:58:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660447702923 |
-| Players | 1/15 |
-| Host Name | I can do it |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:58:21 |
+| Lobby Creation Time | Thursday, December 21, 2023 17:58:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660443918877 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Radisson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:52:51 |
