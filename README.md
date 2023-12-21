@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660573244650 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | Push Back |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:21:51 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660573662358 |
-| Players | 9/10 |
-| Host Name | xXSmokedXx |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 20:22:16 |
+| Lobby ID | 28573660574575858 |
+| Players | 2/10 |
+| Host Name | Morale# |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:23:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660573948693 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | SHADOWANTUZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:22:33 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Marabola |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:23:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660574575858 |
-| Players | 2/10 |
-| Host Name | Morale# |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:23:10 |
 
 
 |  | epic_boss_fight_nightmare |
