@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660229380253 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ---- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 11:01:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660228885983 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Decadance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 11:00:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660220268368 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | sarcastic mr know it all |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 10:41:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660228560518 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Midas |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 10:59:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660229436461 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 11:01:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660229606807 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | YO ERICK JUANITO DE LA SISE |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 11:02:13 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660229030577 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:00:54 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28573660229893298 |
+| Players | 2/7 |
+| Host Name | Kiokasuyetsu |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 11:02:51 |
 
 
