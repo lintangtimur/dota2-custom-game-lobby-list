@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660379960036 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Fekita |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660478483995 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Akina |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:39:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660476564630 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | WIYD |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:37:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660478714938 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:40:13 |
@@ -49,26 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660479067436 |
-| Players | 1/8 |
-| Host Name | pnzsvns |
+| Lobby ID | 28573660479541785 |
+| Players | 2/8 |
+| Host Name | падох |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:40:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660478586847 |
-| Players | 6/8 |
-| Host Name | Champion all muted |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:40:03 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:41:16 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28573660479173338 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | SUSi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:40:48 |
