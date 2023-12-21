@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660713206235 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | maria.alexandra |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 22:30:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660712416911 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | SedMan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 22:29:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660713046165 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | RGM |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 21, 2023 22:30:04 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660713598254 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | i have no enemies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:30:37 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660713607798 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ruined image |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:30:37 |
@@ -128,22 +128,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 22:30:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660713746288 |
-| Players | 2/8 |
-| Host Name | OGur4k |
+| Lobby ID | 28573660714023949 |
+| Players | 1/24 |
+| Host Name | evo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 22:30:45 |
+| Lobby Creation Time | Thursday, December 21, 2023 22:31:02 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660706699776 |
-| Players | 8/10 |
-| Host Name | DvD |
+| Lobby ID | 28573660714059828 |
+| Players | 4/15 |
+| Host Name | Чудо-овощ |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:23:55 |
+| Lobby Creation Time | Thursday, December 21, 2023 22:31:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660714226089 |
+| Players | 1/5 |
+| Host Name | picL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 22:31:13 |
 
 
 |  | epic_boss_fight_nightmare |
