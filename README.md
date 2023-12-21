@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660655479343 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | :) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:36:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660662415509 |
-| Players | 1/24 |
-| Host Name | ★彡[ŁogaภY]彡★ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 21:43:10 |
+| Lobby ID | 28573660663519118 |
+| Players | 2/10 |
+| Host Name | Ho, ho, u found me)) |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 21:44:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660633327844 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | pepe |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 21, 2023 21:16:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660634131328 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 21:17:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660656866214 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Hola |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 21:38:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660661294413 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | HankeR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:42:08 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660662956946 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | all mute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:43:39 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660658517324 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 21:39:39 |
@@ -128,10 +128,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 21:43:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660663356206 |
+| Players | 5/10 |
+| Host Name | Devi7 NinJa |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 21:44:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660663345593 |
+| Players | 2/8 |
+| Host Name | время ебнуть человека |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 21:44:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660663402863 |
+| Players | 2/8 |
+| Host Name | Frukt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 21:44:04 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28573660660649920 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | Mr.Smile |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 21:41:34 |
@@ -140,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660662565971 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Urek Mazino |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 21, 2023 21:43:18 |
@@ -148,10 +175,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28573660663251829 |
+| Lobby ID | 28573660663667451 |
 | Players | 1/5 |
-| Host Name | MAXWELL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:43:56 |
+| Host Name | GMS (V POWER) |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 21, 2023 21:44:18 |
 
 
