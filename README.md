@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660788698545 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | I duckinf hatw you |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:46:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660788541070 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Неонацист |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 23:45:59 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660788515239 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Wpkep |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:45:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660786861647 |
-| Players | 10/10 |
-| Host Name | the looney psychopath |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 23:44:13 |
+| Lobby ID | 28573660788722803 |
+| Players | 2/24 |
+| Host Name | VIVA LA LIBERTAD CARAJO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 23:46:10 |
 
 
 |  | ot3_gardens_duo |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Доминет-Де-Коко |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 23:45:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660788722803 |
-| Players | 1/24 |
-| Host Name | VIVA LA LIBERTAD CARAJO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 23:46:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660788734101 |
-| Players | 1/8 |
-| Host Name | Rousseau |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 23:46:11 |
 
 
 |  | epic_boss_fight_normal |
