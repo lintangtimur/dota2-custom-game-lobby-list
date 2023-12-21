@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660289742819 |
-| Players | 21/24 |
-| Host Name | Lance |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 13:13:17 |
+| Lobby ID | 28573660292162002 |
+| Players | 1/8 |
+| Host Name | Alpaccino |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 13:18:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660291610607 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | danetacion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 13:17:09 |
