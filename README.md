@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660253790110 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 11:55:30 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 11:57:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660254613156 |
-| Players | 3/5 |
-| Host Name | cloak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 11:57:17 |
+| Lobby ID | 28573660254916360 |
+| Players | 1/8 |
+| Host Name | ☠丂HۣۜะĨ尺Oۣۜ≈☣ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 11:57:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | G |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:57:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660255071610 |
+| Players | 1/5 |
+| Host Name | cloak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 11:58:17 |
 
 
