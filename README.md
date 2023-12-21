@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660386505742 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | искупление |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 16:19:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660378607971 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | просто сапорт |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 21, 2023 16:05:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660382366994 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | PilsZ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 16:12:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660379170520 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | RuslanTu |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 21, 2023 16:06:30 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660386480428 |
-| Players | 11/15 |
-| Host Name | схавал 2 чупика |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 16:19:21 |
+| Lobby ID | 28573660386905012 |
+| Players | 3/15 |
+| Host Name | Medick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 16:20:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660386617211 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ender_Wanderer |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 16:19:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660385024849 |
-| Players | 9/10 |
-| Host Name | Ramazan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 16:16:47 |
 
 
 |  | epic_boss_fight_nightmare |
