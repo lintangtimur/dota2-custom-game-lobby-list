@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660255600230 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | MIRAGE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 11:59:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660255713582 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | =774rus= |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:59:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660252654780 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | 구문룡 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660256209034 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:00:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660256298666 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | goldfeesh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:00:56 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 12:01:24 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660257255105 |
+| Players | 3/24 |
+| Host Name | γηΩσ/בר-אבא |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 12:03:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660256197840 |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TORNADOOOOOOOOOOOOOOOOOOO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:00:42 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28573660257276264 |
+| Players | 2/7 |
+| Host Name | Kiokasuyetsu |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 12:03:05 |
 
 
