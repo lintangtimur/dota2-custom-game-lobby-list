@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:56:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660491502777 |
-| Players | 12/15 |
-| Host Name | Werewolf.GR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:56:10 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660487442300 |
-| Players | 6/8 |
-| Host Name | Hi |
+| Lobby ID | 28573660492004178 |
+| Players | 5/8 |
+| Host Name | данек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 18:56:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660492362516 |
+| Players | 8/24 |
+| Host Name | Abodo |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:51:07 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:57:13 |
 
 
 |  | ot3_desert_octet |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:54:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660492004178 |
-| Players | 4/8 |
-| Host Name | данек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:56:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660492362516 |
-| Players | 1/24 |
-| Host Name | Abodo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:57:13 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28573660487888665 |
@@ -90,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Someone |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:52:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660492429590 |
+| Players | 1/5 |
+| Host Name | Wolf22 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 18:57:17 |
 
 
