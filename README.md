@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660500321070 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Sorry for what? |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:06:35 |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 19:07:06 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660498412489 |
+| Players | 7/8 |
+| Host Name | angelhood |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:04:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660501048897 |
+| Players | 1/15 |
+| Host Name | Nazgul [IceWorm] |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 19:07:25 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28573660492429590 |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mrllano |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:05:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660500896415 |
+| Players | 1/5 |
+| Host Name | ТаПоЧеК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 19:07:15 |
 
 
