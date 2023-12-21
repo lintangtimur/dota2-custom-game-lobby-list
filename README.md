@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660379960036 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Fekita |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660472094627 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | CNN fake news |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:31:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660473025462 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | zzz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:32:58 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660473212299 |
-| Players | 1/8 |
-| Host Name | Porn in Black |
+| Lobby ID | 28573660473230877 |
+| Players | 3/8 |
+| Host Name | мне похуй похуй |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:33:12 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:33:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660473332091 |
+| Players | 3/8 |
+| Host Name | Отец |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 18:33:22 |
 
 
 |  | epic_boss_fight_nightmare |
