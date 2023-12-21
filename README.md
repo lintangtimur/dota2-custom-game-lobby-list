@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660736418246 |
-| Players | 7/8 |
-| Host Name | JHOANO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 22:53:11 |
+| Lobby ID | 28573660741544474 |
+| Players | 1/10 |
+| Host Name | rei |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 22:58:17 |
 
 
 |  | ot3_gardens_duo |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 22:55:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660738929269 |
-| Players | 14/15 |
-| Host Name | ★彡iＫⓐＲㄖş 彡★ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 22:55:42 |
+| Lobby ID | 28573660741317434 |
+| Players | 3/10 |
+| Host Name | Gouda |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 22:58:04 |
 
 
 |  | ot3_desert_octet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 22:52:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660740174739 |
-| Players | 8/10 |
-| Host Name | Alarien |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 22:56:57 |
+| Lobby ID | 28573660741317207 |
+| Players | 7/8 |
+| Host Name | welcum |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 22:58:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660741149367 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Logen |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:57:54 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ГенаЦидармян |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:57:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660741187573 |
-| Players | 1/15 |
-| Host Name | CryLove |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:57:56 |
 
 
 |  | epic_boss_fight_normal |
