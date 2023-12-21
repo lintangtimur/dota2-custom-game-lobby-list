@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660696580660 |
-| Players | 2/24 |
+| Players | 10/24 |
 | Host Name | Midoriya_0225 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:14:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660692909383 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Nimetal |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 21, 2023 22:10:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660696829580 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 22:14:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660689482984 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | NoW |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 21, 2023 22:07:27 |
@@ -59,46 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660697063228 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Docteur |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:14:34 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660696498090 |
-| Players | 1/24 |
-| Host Name | Tommy Shelby |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Thursday, December 21, 2023 22:14:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28573660697447894 |
-| Players | 5/10 |
-| Host Name | monkey D.Poufi |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:14:56 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660697499466 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | omel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:14:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660696756746 |
-| Players | 3/24 |
-| Host Name | 猫の水 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 22:14:17 |
+| Lobby ID | 28573660697447894 |
+| Players | 8/10 |
+| Host Name | monkey D.Poufi |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 22:14:56 |
 
 
 |  | epic_boss_fight_nightmare |
