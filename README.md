@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660309997179 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Blind Guardian |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 13:55:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660309328415 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Plucky |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 13:54:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660310015116 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Lil Chicha |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 13:55:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660309986856 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 13:55:53 |
