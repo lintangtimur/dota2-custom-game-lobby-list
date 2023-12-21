@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660358497342 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Mr Seczo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 15:29:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660361256902 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | เทพกว่างกิ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:34:13 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660361636034 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Endsieg |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 15:34:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660361674008 |
-| Players | 1/8 |
-| Host Name | Te voy a cagar la party |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 15:34:58 |
+| Lobby ID | 28573660361734856 |
+| Players | 5/10 |
+| Host Name | Сакура Бобра |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 15:35:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660361795668 |
+| Players | 1/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 15:35:11 |
 
 
 |  | epic_boss_fight_nightmare |
