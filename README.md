@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660736908264 |
-| Players | 10/15 |
-| Host Name | Mr.Aaaaa1 |
+| Lobby ID | 28573660737871512 |
+| Players | 13/15 |
+| Host Name | Amigo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 22:53:42 |
+| Lobby Creation Time | Thursday, December 21, 2023 22:54:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660737560201 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | MisterTwister |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:54:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660727974813 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 21, 2023 22:44:42 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660736670532 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | ym |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:53:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660734411515 |
-| Players | 13/15 |
-| Host Name | Lion el Messi |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 22:51:06 |
+| Lobby ID | 28573660737904602 |
+| Players | 1/10 |
+| Host Name | Wa  ge |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 21, 2023 22:54:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660737950714 |
+| Players | 2/10 |
+| Host Name | ts developer |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 22:54:44 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660737552270 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Lu Bu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 22:54:20 |
