@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660587483078 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | El hombre que supero el sida |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 20:35:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660585563242 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | FICHA |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:33:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660565614690 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ЭТО ВТОРОЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:14:33 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660585947639 |
-| Players | 14/15 |
-| Host Name | uyScuti |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 20:33:50 |
+| Lobby ID | 28573660591093781 |
+| Players | 1/15 |
+| Host Name | 肥仔 |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 21, 2023 20:38:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660590151896 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | NikSun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:37:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660590681063 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | Ronnie Coleman MAH N**** |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:38:10 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660590596772 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | rafalyambo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:38:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660591163778 |
+| Players | 4/10 |
+| Host Name | Потный пудж |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:38:36 |
 
 
 |  | epic_boss_fight_nightmare |
