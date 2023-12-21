@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660283237461 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | pisyapopakaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 12:59:24 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660281078012 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Subutai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:54:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660282450119 |
-| Players | 9/10 |
-| Host Name | 솔지 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 12:57:42 |
+| Lobby ID | 28573660283470907 |
+| Players | 2/24 |
+| Host Name | raton |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 12:59:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660281943460 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Tribunal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 12:56:37 |
@@ -76,29 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660282046937 |
-| Players | 23/24 |
-| Host Name | DUKETO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 12:56:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660283470907 |
-| Players | 1/24 |
-| Host Name | raton |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 21, 2023 12:59:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28573660283696787 |
-| Players | 1/24 |
+| Players | 9/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 13:00:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660283211501 |
+| Players | 4/8 |
+| Host Name | лесной житель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 12:59:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660283816185 |
+| Players | 1/10 |
+| Host Name | CORRALITO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 13:00:38 |
 
 
 |  | epic_boss_fight_nightmare |
