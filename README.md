@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660283237461 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | pisyapopakaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 12:59:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660283816185 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 13:00:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660283696787 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 13:00:23 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Angel_Kasteil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 13:01:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660284998646 |
+| Players | 2/8 |
+| Host Name | YABLAN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 13:03:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660281680789 |
+| Players | 9/10 |
+| Host Name | MIEROS |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 12:56:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660283391070 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 12:59:43 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28573660284920671 |
-| Players | 1/7 |
-| Host Name | Galearcher |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 13:03:03 |
 
 
