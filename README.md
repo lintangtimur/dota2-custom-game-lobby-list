@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660767774107 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | WHAT XUXA FUE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 23:24:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660767017267 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Scuber2007 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 23:23:40 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660762409481 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Nimetal |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 21, 2023 23:18:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660768687505 |
-| Players | 2/15 |
-| Host Name | PARLIAMENT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 23:25:25 |
+| Lobby ID | 28573660769020999 |
+| Players | 4/10 |
+| Host Name | hlcxhlxcD(((((((((((( |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 23:25:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660761196624 |
-| Players | 12/24 |
+| Players | 5/24 |
 | Host Name | GrandPa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 23:17:37 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660768689038 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Catacluzm |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:25:25 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660769278020 |
+| Players | 2/15 |
+| Host Name | solo_way |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 23:26:02 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660768748314 |
-| Players | 1/10 |
-| Host Name | Gilderoy Fickthart |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 23:25:28 |
+| Lobby ID | 28573660766793315 |
+| Players | 5/10 |
+| Host Name | РАКОВЫЙ БАРЕБУХ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 23:23:26 |
 
 
 |  | epic_boss_fight_normal |
