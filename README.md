@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660306556652 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Саня Белый prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 13:48:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660306050751 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Monty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 13:47:41 |
@@ -50,18 +50,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660306777267 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | ТРЕНЕР NAVI 2011 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 13:49:09 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28573660302656217 |
-| Players | 9/10 |
-| Host Name | Danielicious |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 13:40:43 |
+| Lobby ID | 28573660306815597 |
+| Players | 1/7 |
+| Host Name | Pavi |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 13:49:14 |
 
 
