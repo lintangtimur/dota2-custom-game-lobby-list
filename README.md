@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660261245772 |
-| Players | 13/15 |
-| Host Name | Mishka |
+| Lobby ID | 28573660262139309 |
+| Players | 2/10 |
+| Host Name | Angel_Kasteil |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 12:11:37 |
+| Lobby Creation Time | Thursday, December 21, 2023 12:13:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660256151950 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | scripted |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 21, 2023 12:00:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660260563770 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Incradiator |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 21, 2023 12:10:08 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 12:10:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660262139309 |
-| Players | 1/10 |
-| Host Name | Angel_Kasteil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 12:13:32 |
+| Lobby ID | 28573660262478729 |
+| Players | 1/15 |
+| Host Name | 24 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 12:14:11 |
 
 
 |  | epic_boss_fight_challenger |
