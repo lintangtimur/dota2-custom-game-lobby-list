@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660378607971 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Света Букина |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 21, 2023 16:05:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660379757989 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | danetacion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:31 |
