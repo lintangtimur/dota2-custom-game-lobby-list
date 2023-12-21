@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660426611482 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Rick & Clancy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:26:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660427240052 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Yes[O]ne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:27:31 |
@@ -65,10 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 17:27:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660427630108 |
+| Players | 8/15 |
+| Host Name | Jorjor Well |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 17:28:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660427742723 |
+| Players | 1/15 |
+| Host Name | 赢了就别bb了 |
+| Region | Unknown |
+| Lobby Creation Time | Thursday, December 21, 2023 17:28:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660425214086 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Mr. Krabs |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:24:22 |
@@ -86,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660426873031 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Soos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:26:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660427738310 |
+| Players | 1/5 |
+| Host Name | Руслик Суслик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 17:28:17 |
 
 
