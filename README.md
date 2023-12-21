@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660493707979 |
-| Players | 8/10 |
-| Host Name | Hardtokill22 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:58:50 |
+| Lobby ID | 28573660493805437 |
+| Players | 6/8 |
+| Host Name | пудж в сапогах |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 18:58:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660493938254 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | gemdem |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:59:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660488758820 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Smurfosaurus-Rekt |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:52:48 |
@@ -49,29 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660493303418 |
-| Players | 7/8 |
-| Host Name | 1 pos egoist... |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:58:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660493805437 |
-| Players | 5/8 |
-| Host Name | пудж в сапогах |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:58:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660494697109 |
+| Lobby ID | 28573660494891431 |
 | Players | 1/8 |
 | Host Name | Шадоуфид |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:00:00 |
+| Lobby Creation Time | Thursday, December 21, 2023 19:00:14 |
 
 
 |  | epic_boss_fight_normal |
