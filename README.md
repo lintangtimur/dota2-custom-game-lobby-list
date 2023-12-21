@@ -29,31 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 11:53:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660313746955 |
-| Players | 1/24 |
-| Host Name | OG.HELLO?! |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 21, 2023 14:03:30 |
+| Lobby ID | 28573660315653311 |
+| Players | 3/10 |
+| Host Name | DJжей жаба |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 14:07:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660315430919 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | John Does |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 14:06:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660315653311 |
-| Players | 1/10 |
-| Host Name | DJжей жаба |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 14:07:01 |
+| Lobby ID | 28573660315816259 |
+| Players | 1/8 |
+| Host Name | пупуня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 14:07:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Otep |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 14:04:15 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28573660315564377 |
-| Players | 2/7 |
-| Host Name | ChatGPT andrewfhg |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 14:06:51 |
 
 
