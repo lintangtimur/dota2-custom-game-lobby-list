@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660551600578 |
-| Players | 5/24 |
-| Host Name | 软绵绵 |
+| Players | 3/24 |
+| Host Name | BaGyiGwaySi |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 21, 2023 20:00:55 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660552341590 |
-| Players | 13/24 |
+| Players | 22/24 |
 | Host Name | 安德鲁森图书馆管理员 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:01:38 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660552213606 |
-| Players | 6/10 |
-| Host Name | динь динь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:01:31 |
+| Lobby ID | 28573660554095734 |
+| Players | 7/10 |
+| Host Name | SameShit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:03:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660553592856 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Gay Fish |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:02:52 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660553728975 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Winter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:03:00 |
@@ -101,37 +101,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 20:03:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660554041299 |
-| Players | 1/24 |
-| Host Name | Azalea |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 20:03:19 |
+| Lobby ID | 28573660554288194 |
+| Players | 7/8 |
+| Host Name | EVian |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:03:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660554095734 |
-| Players | 6/10 |
-| Host Name | SameShit |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 20:03:22 |
+| Lobby ID | 28573660554557361 |
+| Players | 4/10 |
+| Host Name | ДẸỖНтическаяLOGIC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 20:03:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660554074629 |
-| Players | 1/8 |
-| Host Name | all mute |
+| Lobby ID | 28573660553559564 |
+| Players | 5/8 |
+| Host Name | Keedo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 20:03:21 |
+| Lobby Creation Time | Thursday, December 21, 2023 20:02:50 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28573660553747564 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | петр живет в лесу |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:03:01 |
@@ -140,9 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660554078835 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | big tits anime enjoyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:03:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660550506267 |
+| Players | 1/5 |
+| Host Name | VoMaVikS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 19:59:49 |
 
 
