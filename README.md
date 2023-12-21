@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660797836829 |
-| Players | 5/8 |
-| Host Name | . |
+| Lobby ID | 28573660798056582 |
+| Players | 3/8 |
+| Host Name | Viedeshiz |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 23:55:54 |
+| Lobby Creation Time | Thursday, December 21, 2023 23:56:08 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660795704646 |
-| Players | 13/15 |
+| Players | 10/15 |
 | Host Name | allmute |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 23:53:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660795481919 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:53:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660797281905 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | TITANESCO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 23:55:19 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 23:55:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660797632843 |
-| Players | 6/15 |
-| Host Name | tomuro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 23:55:42 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660794626433 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Vells |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:52:27 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660796024081 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Rafa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:53:58 |
