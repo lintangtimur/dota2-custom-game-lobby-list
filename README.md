@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660682240659 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Miller |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:01:07 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 22:01:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660684380572 |
-| Players | 13/15 |
-| Host Name | bobr-dobr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 22:02:57 |
+| Lobby ID | 28573660684891519 |
+| Players | 1/8 |
+| Host Name | sina |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 22:03:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660671765899 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | MaoGe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 21:52:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660678792718 |
-| Players | 1/24 |
-| Host Name | RednWhite |
+| Lobby ID | 28573660684550833 |
+| Players | 1/15 |
+| Host Name | Ken LEEEEEEEEE |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 21:58:11 |
+| Lobby Creation Time | Thursday, December 21, 2023 22:03:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,27 +104,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660684047443 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Бухая фея |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 22:02:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660684550833 |
-| Players | 1/15 |
-| Host Name | Ken LEEEEEEEEE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 22:03:06 |
+| Lobby ID | 28573660679249620 |
+| Players | 9/10 |
+| Host Name | Twice |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 21:58:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28573660679249620 |
-| Players | 8/10 |
-| Host Name | Twice |
+| Lobby ID | 28573660684896459 |
+| Players | 1/10 |
+| Host Name | 时琦 狂三 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 22:03:23 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28573660684958172 |
+| Players | 4/7 |
+| Host Name | ПЕРРИ ХУЕСОС |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 21:58:35 |
+| Lobby Creation Time | Thursday, December 21, 2023 22:03:26 |
 
 
