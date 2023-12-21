@@ -47,42 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:26:18 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660465831243 |
-| Players | 22/24 |
-| Host Name | Yuku |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:23:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660469786476 |
-| Players | 9/24 |
-| Host Name | The not to be named one |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:28:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660470174082 |
-| Players | 3/8 |
-| Host Name | pendal` |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:29:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660470343112 |
-| Players | 7/15 |
-| Host Name | MarvelJohn |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:29:29 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660470592872 |
@@ -92,10 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:29:49 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660469786476 |
+| Players | 11/24 |
+| Host Name | The not to be named one |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 21, 2023 18:28:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660470174082 |
+| Players | 4/8 |
+| Host Name | pendal` |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 18:29:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660470343112 |
+| Players | 11/15 |
+| Host Name | MarvelJohn |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 18:29:29 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660466637355 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | tsukiyomi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:24:38 |
