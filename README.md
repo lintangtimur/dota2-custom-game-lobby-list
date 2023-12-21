@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660370251999 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | DIKAYA DIVIZIYA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 15:50:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660368732301 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ドラゴン |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 15:47:39 |
