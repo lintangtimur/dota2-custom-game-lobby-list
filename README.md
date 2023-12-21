@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660463456154 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | 热性与你的妈妈 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 18:20:17 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660463844049 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Extra Chromosome Haver |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:20:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660464044126 |
-| Players | 8/15 |
-| Host Name | Shanks |
+| Lobby ID | 28573660464951993 |
+| Players | 1/8 |
+| Host Name | cryzz0n ♥ runer |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:21:05 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:22:21 |
 
 
 |  | epic_boss_fight_nightmare |
