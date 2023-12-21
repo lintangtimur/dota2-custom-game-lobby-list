@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660493707979 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Hardtokill22 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:58:50 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660492362516 |
-| Players | 23/24 |
-| Host Name | Abodo |
+| Lobby ID | 28573660493596011 |
+| Players | 1/24 |
+| Host Name | YouKnowMyName |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:57:13 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:58:42 |
 
 
 |  | ot3_desert_octet |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 18:58:21 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660493805437 |
+| Players | 1/8 |
+| Host Name | пудж в сапогах |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 18:58:57 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28573660493297213 |
-| Players | 14/15 |
-| Host Name | ПИВЗАВОД |
+| Lobby ID | 28573660493938254 |
+| Players | 2/15 |
+| Host Name | Gamma |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 18:58:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660493596011 |
-| Players | 1/24 |
-| Host Name | YouKnowMyName |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 18:58:42 |
+| Lobby Creation Time | Thursday, December 21, 2023 18:59:06 |
 
 
 |  | epic_boss_fight_challenger |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660492912352 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 青椒小新 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 18:57:52 |
