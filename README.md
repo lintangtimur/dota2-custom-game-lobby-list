@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660802568758 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Mato dois e ainda me escapo!!! |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 00:00:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660801421459 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Silvan |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:59:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660800804437 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | J |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 23:59:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660803578559 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Andromeda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 00:02:02 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660803623220 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Clare |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 00:02:04 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660803818366 |
-| Players | 1/10 |
-| Host Name | Ебучие пироги |
+| Lobby ID | 28573660803981722 |
+| Players | 2/10 |
+| Host Name | ДОЛБАЕБ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 00:02:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660803979171 |
+| Players | 2/10 |
+| Host Name | zeroWN3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 00:02:16 |
+| Lobby Creation Time | Friday, December 22, 2023 00:02:26 |
 
 
 |  | epic_boss_fight_normal |
