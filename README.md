@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660633327844 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Zion T zioN |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 21, 2023 21:16:51 |
@@ -49,42 +49,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660644069590 |
-| Players | 8/10 |
-| Host Name | токсичный уголек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:26:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28573660641408868 |
-| Players | 13/24 |
-| Host Name | Quesadilla |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 21:24:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660643787424 |
-| Players | 12/15 |
-| Host Name | Дрочеслав |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 21:26:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660641758352 |
-| Players | 2/15 |
-| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 21, 2023 21:24:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28573660644364636 |
 | Players | 1/10 |
 | Host Name | CIEL |
@@ -92,12 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 21, 2023 21:26:52 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28573660644197215 |
-| Players | 1/10 |
-| Host Name | Random |
+| Lobby ID | 28573660641408868 |
+| Players | 18/24 |
+| Host Name | Quesadilla |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 21:26:43 |
+| Lobby Creation Time | Thursday, December 21, 2023 21:24:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28573660644617945 |
+| Players | 2/8 |
+| Host Name | 911 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 21:27:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660641758352 |
+| Players | 8/15 |
+| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 21, 2023 21:24:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660644581878 |
+| Players | 3/5 |
+| Host Name | Balalaika |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 21:27:04 |
 
 
