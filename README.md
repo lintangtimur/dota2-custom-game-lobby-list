@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660306556652 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Саня Белый prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 13:48:42 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660306777267 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | ТРЕНЕР NAVI 2011 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 21, 2023 13:49:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28573660307175914 |
+| Players | 4/10 |
+| Host Name | Sigma |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 21, 2023 13:49:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28573660307284081 |
+| Players | 5/24 |
+| Host Name | Big Fancy Ben |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 21, 2023 13:50:13 |
 
 
 |  | epic_boss_fight_hard |
