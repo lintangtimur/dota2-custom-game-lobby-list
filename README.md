@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660521392503 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Aloha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:29:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660519988540 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Virtual Insanity |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:28:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660521088680 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | -_- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 19:29:39 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660521482811 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | Tears |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 19:30:05 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28573660519557080 |
-| Players | 14/15 |
-| Host Name | Жопка пчелки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:28:01 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28573660521548377 |
+| Lobby ID | 28573660522055676 |
 | Players | 4/10 |
-| Host Name | мусора бляди |
+| Host Name | Хручело Мяучело |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 19:30:09 |
+| Lobby Creation Time | Thursday, December 21, 2023 19:30:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 19:29:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28573660522142397 |
+| Players | 1/5 |
+| Host Name | KaMiKaDzA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 21, 2023 19:30:47 |
 
 
