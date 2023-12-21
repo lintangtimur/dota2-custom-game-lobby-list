@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660379960036 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Fekita |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 16:07:53 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660551600578 |
-| Players | 2/24 |
-| Host Name | J |
+| Players | 1/24 |
+| Host Name | BOT Grant |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 21, 2023 20:00:55 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660553559564 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Keedo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:02:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28573660554557361 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ДẸỖНтическаяLOGIC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:03:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660552224461 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Toy En TsuSsI Vieja :v |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 21, 2023 20:01:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660553728975 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | Winter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:03:00 |
@@ -95,27 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660553885817 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | xd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 20:03:10 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28573660555185915 |
+| Players | 3/15 |
+| Host Name | Чупа-ПУпсик |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 20:04:27 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28573660554078835 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | big tits anime enjoyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 20:03:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28573660555057537 |
-| Players | 1/5 |
-| Host Name | Lesson1.. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 21, 2023 20:04:20 |
 
 
