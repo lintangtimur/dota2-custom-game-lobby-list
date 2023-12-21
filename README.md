@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28573660439747829 |
-| Players | 4/8 |
-| Host Name | melancholy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 21, 2023 17:46:35 |
+| Lobby ID | 28573660447353571 |
+| Players | 1/8 |
+| Host Name | Airag |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 21, 2023 17:57:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28573660447117485 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | CoraLine |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 21, 2023 17:57:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28573660447100328 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | yellow earth |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:57:29 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28573660447317720 |
-| Players | 4/8 |
-| Host Name | Kovitoko |
+| Players | 2/8 |
+| Host Name | geradosl0_0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 21, 2023 17:57:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28573660447353571 |
-| Players | 2/8 |
-| Host Name | сомнительно но окэй |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 21, 2023 17:57:51 |
 
 
 |  | epic_boss_fight_nightmare |
