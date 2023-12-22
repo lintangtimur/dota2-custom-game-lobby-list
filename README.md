@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939846162451 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Desire |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 23:51:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939847991829 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | MEF.kz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:53:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939846300699 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Vez Larkinson.. |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 23:51:36 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939847764645 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Take my body |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:53:01 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 23:52:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939847831168 |
-| Players | 8/10 |
-| Host Name | Avaci |
+| Lobby ID | 28574939847865248 |
+| Players | 13/15 |
+| Host Name | БАРА БЕРЕ БЕРЕ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:53:05 |
+| Lobby Creation Time | Friday, December 22, 2023 23:53:07 |
 
 
 |  | ot3_desert_octet |
@@ -146,22 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 23:48:39 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939847865248 |
-| Players | 10/15 |
-| Host Name | БАРА БЕРЕ БЕРЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:53:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939847976058 |
+| Lobby ID | 28574939848172779 |
 | Players | 1/8 |
-| Host Name | WOLVERINE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:53:14 |
+| Host Name | POPULAR FORCE |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 23:53:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -176,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939847368447 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Jeman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 23:52:38 |
