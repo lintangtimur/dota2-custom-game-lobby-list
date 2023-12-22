@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939541825330 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Slove |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:05:40 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939541592182 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Замир Безгеев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:05:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939542291608 |
+| Players | 4/8 |
+| Host Name | viper не говорят yeei |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 19:06:12 |
 
 
 |  | epic_boss_fight_nightmare |
