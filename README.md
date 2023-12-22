@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939942473184 |
-| Players | 8/10 |
+| Players | 10/10 |
 | Host Name | -Akashi- |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:29:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939938468661 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | 中年手残 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:24:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939946072540 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | the most successful person 2024 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:32:53 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939946380582 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Mituz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:33:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939946510635 |
+| Players | 3/15 |
+| Host Name | Містер Сідр |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 01:33:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939946609496 |
+| Players | 1/10 |
+| Host Name | крутой_сигма_киля |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:33:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -103,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28574939946378943 |
+| Lobby ID | 28574939946607140 |
 | Players | 1/5 |
 | Host Name | OnlyDizzy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:33:13 |
+| Lobby Creation Time | Saturday, December 23, 2023 01:33:28 |
 
 
