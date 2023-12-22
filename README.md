@@ -23,19 +23,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939391236383 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Extension Cord |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:14:11 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939392286443 |
+| Players | 2/8 |
+| Host Name | s |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 15:16:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939392312509 |
+| Players | 1/8 |
+| Host Name | MALEBEL TYT?? |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 15:16:10 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939392091291 |
+| Lobby ID | 28574939392374885 |
 | Players | 1/15 |
-| Host Name | bored |
+| Host Name | HAROSH |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:15:45 |
+| Lobby Creation Time | Friday, December 22, 2023 15:16:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -50,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939390166462 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:12:17 |
@@ -59,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939391361761 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | B E E T T L E J U I C E |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 15:14:25 |
@@ -72,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Neverrain |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 15:15:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939392167392 |
-| Players | 1/5 |
-| Host Name | armpoa9297 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:15:54 |
 
 
