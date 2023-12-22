@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939284896062 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | TorukMaktó |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:38:37 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939284227410 |
-| Players | 1/10 |
-| Host Name | tchitchinadze1 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 11:37:12 |
+| Lobby ID | 28574939285090584 |
+| Players | 6/15 |
+| Host Name | <3 добренькая <3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 11:39:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939283726415 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:36:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939283612478 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:35:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939284399276 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | GargleGoyle |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 11:37:33 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 11:38:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939285090584 |
-| Players | 2/15 |
-| Host Name | <3 добренькая <3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 11:39:01 |
+| Lobby ID | 28574939285485169 |
+| Players | 1/10 |
+| Host Name | tchitchinadze1 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 11:39:54 |
 
 
 |  | epic_boss_fight_nightmare |
