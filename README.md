@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939279102575 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Destroger jan |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:26:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939279432182 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Dani| |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:27:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939279765198 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | jake69 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 11:27:41 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939279326400 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | N8 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:26:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939280121427 |
-| Players | 2/15 |
-| Host Name | ABØL |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 22, 2023 11:28:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939279828980 |
-| Players | 2/10 |
-| Host Name | Lobotomite |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 11:27:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 11:27:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939278237102 |
-| Players | 9/10 |
-| Host Name | shadow wizard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 11:24:22 |
+| Lobby ID | 28574939279828980 |
+| Players | 3/10 |
+| Host Name | Lobotomite |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 11:27:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939280219308 |
+| Players | 3/15 |
+| Host Name | ABØL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 11:28:37 |
 
 
