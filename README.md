@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 12:27:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939307210841 |
-| Players | 13/15 |
-| Host Name | Mr.Bass |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 12:26:39 |
+| Lobby ID | 28574939307536006 |
+| Players | 3/24 |
+| Host Name | Bo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 12:27:18 |
 
 
 |  | ot3_gardens_duo |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939307160565 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | O Pai |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:26:33 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939307536006 |
-| Players | 3/24 |
-| Host Name | Bo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 12:27:18 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939307875593 |
-| Players | 1/15 |
-| Host Name | Mã$ţ€řkîłł£ř |
+| Lobby ID | 28574939307955557 |
+| Players | 2/15 |
+| Host Name | ZolockG |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 12:27:59 |
+| Lobby Creation Time | Friday, December 22, 2023 12:28:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Neizen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:27:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939307873025 |
-| Players | 1/5 |
-| Host Name | Frozenfost |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, December 22, 2023 12:27:59 |
 
 
