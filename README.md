@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939381011175 |
-| Players | 4/15 |
-| Host Name | (M.E)Я прощаю тебя |
+| Players | 3/15 |
+| Host Name | Marie currier |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 14:55:41 |
 
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939381663946 |
-| Players | 9/10 |
-| Host Name | memory banks |
+| Lobby ID | 28574939382786484 |
+| Players | 6/8 |
+| Host Name | клитор |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:56:55 |
+| Lobby Creation Time | Friday, December 22, 2023 14:58:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939382376086 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | karma |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:58:12 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939382759851 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Madvetu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:58:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939382786484 |
-| Players | 5/8 |
-| Host Name | клитор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:58:57 |
+| Lobby ID | 28574939383148226 |
+| Players | 3/10 |
+| Host Name | rafzZ~ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 14:59:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Asmodeus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:58:43 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939376737861 |
+| Players | 7/10 |
+| Host Name | Neizen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 14:47:29 |
 
 
