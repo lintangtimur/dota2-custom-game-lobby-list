@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939789365367 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:57:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939790539067 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Keyser Soze |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:59:02 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939790465144 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Драматург |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:58:58 |
@@ -128,13 +128,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:54:45 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939790147707 |
-| Players | 1/5 |
-| Host Name | Tarzani✪ |
+| Lobby ID | 28574939790942107 |
+| Players | 1/8 |
+| Host Name | krutoi |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 22:59:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939791000892 |
+| Players | 1/24 |
+| Host Name | Kazune |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 22:59:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939790502881 |
+| Players | 1/10 |
+| Host Name | ✬✯✮$ⅉ︎₲ℳ︎₳☃ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:58:40 |
+| Lobby Creation Time | Friday, December 22, 2023 22:59:00 |
 
 
 |  | epic_boss_fight_challenger |
@@ -158,18 +176,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939789651484 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Marjon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:58:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939790502881 |
-| Players | 1/10 |
-| Host Name | ✬✯✮$ⅉ︎₲ℳ︎₳☃ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:59:00 |
 
 
