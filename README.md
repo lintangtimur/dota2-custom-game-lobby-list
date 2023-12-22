@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939493293741 |
-| Players | 13/15 |
-| Host Name | ТОКСИЧНЫЙ УГОЛЕК |
+| Lobby ID | 28574939492922225 |
+| Players | 8/10 |
+| Host Name | BubiBubi |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 18:02:55 |
+| Lobby Creation Time | Friday, December 22, 2023 18:02:24 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939490198969 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Golden Path Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:58:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939493049182 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | bobr-dobr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:02:35 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:03:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939492922225 |
-| Players | 9/10 |
-| Host Name | BubiBubi |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 18:02:24 |
+| Lobby ID | 28574939494588425 |
+| Players | 5/15 |
+| Host Name | Kiwiszn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:04:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:57:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939494713757 |
+| Players | 1/5 |
+| Host Name | ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:04:55 |
 
 
