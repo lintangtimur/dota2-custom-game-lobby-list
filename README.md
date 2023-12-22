@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939496093377 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | Meetlok |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:06:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939493047810 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Mety |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:02:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939495844313 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:06:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939495823951 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Don't run! |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:06:28 |
@@ -56,40 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:06:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939496014484 |
-| Players | 3/8 |
-| Host Name | АДСКИЙ САТАНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:06:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939496033104 |
-| Players | 1/8 |
-| Host Name | скер скер скер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:06:45 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939496087583 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | 神说天堂满了你去地狱 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:06:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939495193368 |
-| Players | 9/10 |
-| Host Name | Гопстоп228play |
+| Lobby ID | 28574939495352853 |
+| Players | 14/15 |
+| Host Name | Дрочеслав |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:05:35 |
+| Lobby Creation Time | Friday, December 22, 2023 18:05:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939496456614 |
+| Players | 1/8 |
+| Host Name | 克里斯佩尔 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:07:20 |
 
 
 |  | epic_boss_fight_nightmare |
