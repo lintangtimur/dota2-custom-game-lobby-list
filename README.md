@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939459515054 |
-| Players | 5/8 |
-| Host Name | Papapa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:11:55 |
+| Lobby ID | 28574939459824095 |
+| Players | 1/8 |
+| Host Name | Cpt Karl |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, December 22, 2023 17:12:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939459461426 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | зЕЛЕНЬ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:11:50 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939459777014 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Bashkort malay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:12:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939459871495 |
+| Players | 2/8 |
+| Host Name | LKO MR |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 17:12:29 |
 
 
 |  | epic_boss_fight_challenger |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939459020738 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ladno smazon molodou |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:11:07 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939459226122 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Thuthitha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:11:27 |
