@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939489862560 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | highbrow |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 17:58:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939490198969 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Golden Path Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:58:32 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939490747902 |
-| Players | 14/15 |
-| Host Name | Samaritan |
+| Lobby ID | 28574939491460059 |
+| Players | 2/15 |
+| Host Name | Berserk Mode |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:59:19 |
+| Lobby Creation Time | Friday, December 22, 2023 18:00:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:00:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939491460059 |
-| Players | 2/15 |
-| Host Name | Berserk Mode |
+| Lobby ID | 28574939491529611 |
+| Players | 2/10 |
+| Host Name | LIGHTWEIGHT BABY |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:00:20 |
+| Lobby Creation Time | Friday, December 22, 2023 18:00:26 |
 
 
 |  | epic_boss_fight_challenger |
