@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939864333392 |
-| Players | 2/8 |
-| Host Name | เสี่ยโอ โกเยอรมัน |
+| Players | 1/8 |
+| Host Name | Theerapitak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 00:09:15 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939856688455 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Stunodevoli |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 00:01:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939864941145 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | ЛДД |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 00:09:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939864589553 |
-| Players | 6/8 |
+| Players | 2/8 |
 | Host Name | AsapGod |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:09:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939864002632 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | MAPACHE_$INC0LA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 00:08:56 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939862139677 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | cada vez mas disociado |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 00:07:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939861471574 |
-| Players | 5/8 |
-| Host Name | Faier_endr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:06:28 |
+| Lobby ID | 28574939865596700 |
+| Players | 1/10 |
+| Host Name | Tofu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 00:10:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,21 +128,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 00:10:09 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939863464589 |
-| Players | 1/5 |
-| Host Name | Hunt Hoe-Down |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, December 23, 2023 00:08:25 |
+| Lobby ID | 28574939865454021 |
+| Players | 2/10 |
+| Host Name | Hombre chambeador |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 00:10:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939865483767 |
+| Players | 4/10 |
+| Host Name | lost |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 00:10:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939865514140 |
+| Players | 2/10 |
+| Host Name | mrrahimgoddamn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 00:10:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939865529993 |
+| Players | 1/15 |
+| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 00:10:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939865602194 |
+| Players | 2/15 |
+| Host Name | luckerock |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 00:10:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939865605074 |
+| Players | 4/8 |
+| Host Name | NAIS |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 00:10:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939857372946 |
-| Players | 9/10 |
-| Host Name | GreShnik |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 00:02:30 |
+| Lobby ID | 28574939865609934 |
+| Players | 2/10 |
+| Host Name | (￣▽￣) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 00:10:30 |
 
 
