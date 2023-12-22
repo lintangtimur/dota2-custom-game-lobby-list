@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939367838082 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Бешкетник |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:30:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939366473472 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | bielerc99 |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 14:28:10 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939367597907 |
-| Players | 10/15 |
-| Host Name | 󠀡󠀡Norton |
+| Players | 3/15 |
+| Host Name | Trylner |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 14:30:18 |
 
@@ -59,18 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939367711368 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Ayesha♥♥♥ |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 14:30:31 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939367984486 |
-| Players | 1/5 |
-| Host Name | Танк Т-1000-7 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:31:01 |
+| Lobby ID | 28574939368022364 |
+| Players | 1/24 |
+| Host Name | ไอ้หมวก4 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 14:31:05 |
 
 
