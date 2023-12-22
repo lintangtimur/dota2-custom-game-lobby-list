@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939748927612 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Гомо гомо зек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:20:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939740289911 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Elrich |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 22:13:11 |
@@ -92,33 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:18:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939746924821 |
-| Players | 7/8 |
-| Host Name | ЭТО ВТОРОЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:19:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939745834447 |
-| Players | 8/10 |
-| Host Name | MGNCITYSHUFFLE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:18:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939749100514 |
-| Players | 2/15 |
-| Host Name | PARLIAMENT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:20:59 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939749120406 |
@@ -128,10 +101,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:21:00 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939745834447 |
+| Players | 8/10 |
+| Host Name | Чипсоед |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:18:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939749100514 |
+| Players | 11/15 |
+| Host Name | PARLIAMENT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:20:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939749285898 |
+| Players | 2/10 |
+| Host Name | El vengador fantasma 3 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 22:21:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939748256387 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 悲しい |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:20:14 |
