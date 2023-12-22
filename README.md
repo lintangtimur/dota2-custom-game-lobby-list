@@ -2,31 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939425503434 |
-| Players | 7/8 |
-| Host Name | Грига гамак |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:14:52 |
+| Lobby ID | 28574939426354570 |
+| Players | 2/24 |
+| Host Name | September 11th |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 16:16:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939425998898 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | Gucci |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 16:15:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939425684803 |
-| Players | 9/10 |
-| Host Name | HO HO HO MERRY CHRISTMAS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:15:11 |
 
 
 |  | epic_boss_fight_challenger |
@@ -54,14 +45,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:13:42 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939426044381 |
-| Players | 2/5 |
-| Host Name | qin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 16:15:48 |
 
 
