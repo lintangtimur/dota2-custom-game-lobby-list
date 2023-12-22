@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939484112509 |
-| Players | 23/24 |
-| Host Name | huh |
+| Lobby ID | 28574939486649517 |
+| Players | 8/24 |
+| Host Name | Sperm. |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 17:49:40 |
+| Lobby Creation Time | Friday, December 22, 2023 17:53:20 |
 
 
 |  | ot3_gardens_duo |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939484898302 |
-| Players | 7/8 |
-| Host Name | A63z9Ha |
+| Lobby ID | 28574939486827002 |
+| Players | 5/8 |
+| Host Name | CAESAR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:50:48 |
+| Lobby Creation Time | Friday, December 22, 2023 17:53:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,46 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939485792757 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Buxan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:52:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939484866120 |
-| Players | 4/8 |
-| Host Name | Avadamus |
+| Lobby ID | 28574939486742358 |
+| Players | 3/10 |
+| Host Name | 释放你的灵魂 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:50:45 |
+| Lobby Creation Time | Friday, December 22, 2023 17:53:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939485088087 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | MaleVegan |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 17:51:05 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939485057283 |
-| Players | 9/15 |
-| Host Name | combowombotop |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 17:51:02 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939486486551 |
-| Players | 1/10 |
-| Host Name | 释放你的灵魂 |
+| Lobby ID | 28574939487020559 |
+| Players | 6/10 |
+| Host Name | . |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:53:06 |
+| Lobby Creation Time | Friday, December 22, 2023 17:53:53 |
 
 
 |  | epic_boss_fight_challenger |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939485164722 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Брат своего Брата |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:51:11 |
@@ -104,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939485235596 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | kØs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:51:17 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28574939486493500 |
-| Players | 1/7 |
-| Host Name | _MilfHunter_ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 17:53:06 |
 
 
