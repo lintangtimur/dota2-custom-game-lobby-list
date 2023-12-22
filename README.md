@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939403330747 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | посмотреть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:36:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939403375146 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | URAGAN HOKAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:36:06 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939400978430 |
-| Players | 3/10 |
-| Host Name | Nyanko |
+| Players | 2/10 |
+| Host Name | .G |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 15:31:52 |
 
