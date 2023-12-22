@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939283447437 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 11:35:33 |
@@ -47,37 +47,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 11:35:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939282239566 |
-| Players | 7/8 |
-| Host Name | COCO BASILE |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:32:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939283592192 |
-| Players | 1/15 |
-| Host Name | - # 尺 闩 工 乙 口 尺 # -. 问 ズ 问 尺 闩 √ |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 22, 2023 11:35:52 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939283687449 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Z3RO~×͜× |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:36:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939283592192 |
+| Players | 4/15 |
+| Host Name | - # 尺 闩 工 乙 口 尺 # -. 问 ズ 问 尺 闩 √ |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 22, 2023 11:35:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939284227410 |
+| Players | 1/10 |
+| Host Name | tchitchinadze1 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 11:37:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939283319297 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:35:17 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939283172550 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | cao ni ma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 11:34:58 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939283941367 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | nirvana |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:36:36 |
