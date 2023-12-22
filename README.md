@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939855335342 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | 0,00001 Percent win? |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 00:00:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939855098755 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Bjuckler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:00:17 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939855263950 |
-| Players | 2/24 |
+| Players | 7/24 |
 | Host Name | asaka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 00:00:27 |
@@ -140,9 +140,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939854757541 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ¸¸♬·¯·♩¸¸♪·¯·♫ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 23:59:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939856021180 |
+| Players | 1/5 |
+| Host Name | razengan2601 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 00:01:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939856067592 |
+| Players | 1/5 |
+| Host Name | Arvad; |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 00:01:14 |
 
 
