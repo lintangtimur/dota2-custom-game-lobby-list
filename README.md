@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939231854850 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | MrSuperman|002| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 09:41:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939231718700 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 09:41:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939229040181 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Reaper  Γ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 22, 2023 09:35:04 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | feedeoporplacer, no pordiversión |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 09:42:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939232550589 |
+| Players | 3/15 |
+| Host Name | Pero eres o no eres? |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 09:43:00 |
 
 
 |  | epic_boss_fight_normal |
