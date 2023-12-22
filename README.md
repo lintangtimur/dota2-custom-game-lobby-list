@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939315002287 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | 21mtd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:43:03 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939316540345 |
-| Players | 7/8 |
-| Host Name | Ядреный писюн |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 12:46:19 |
+| Lobby ID | 28574939318175369 |
+| Players | 2/24 |
+| Host Name | Grim |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:49:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 12:44:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939314767642 |
-| Players | 14/15 |
-| Host Name | maku |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 12:42:34 |
+| Lobby ID | 28574939318236625 |
+| Players | 4/10 |
+| Host Name | Maestro Shifu |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 12:49:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939318046939 |
-| Players | 1/15 |
-| Host Name | ’Mr . Big |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 22, 2023 12:49:26 |
+| Lobby ID | 28574939318238102 |
+| Players | 3/15 |
+| Host Name | twitch.tv/lvsques 🏳️‍🌈 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 12:49:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:49:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939318121627 |
+| Players | 1/10 |
+| Host Name | Hixl |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 12:49:36 |
 
 
