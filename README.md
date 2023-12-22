@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:40:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939638097026 |
-| Players | 10/15 |
-| Host Name | Et si on s'embrasse? |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 20:43:26 |
+| Lobby ID | 28574939638854330 |
+| Players | 5/10 |
+| Host Name | Kubuś Puchatek |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 20:44:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939632872653 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 20:38:40 |
@@ -74,10 +74,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:42:04 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939638875036 |
+| Players | 5/8 |
+| Host Name | STEPA RIZZLER GYATT OHIO |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 20:44:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939602053291 |
+| Players | 23/24 |
+| Host Name | "&" |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 20:09:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939639052884 |
+| Players | 1/15 |
+| Host Name | ✪Deffx |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 20:44:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939635440521 |
+| Players | 14/15 |
+| Host Name | JluMoH4ik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 20:41:02 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939638803411 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | deniz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:44:04 |
