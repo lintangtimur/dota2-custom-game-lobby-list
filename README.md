@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939907503698 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | victoredu8998 godota2.com |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 00:52:32 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 00:50:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939905306128 |
-| Players | 1/15 |
-| Host Name | Ahappypuppy |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 23, 2023 00:50:17 |
+| Lobby ID | 28574939908122560 |
+| Players | 2/24 |
+| Host Name | wasonbeat. |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 00:53:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939907003594 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | 458969 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 00:52:01 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939907500357 |
-| Players | 8/10 |
-| Host Name | Dora the explorer |
+| Lobby ID | 28574939908263329 |
+| Players | 3/10 |
+| Host Name | lost |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:52:32 |
+| Lobby Creation Time | Saturday, December 23, 2023 00:53:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939907966955 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Maito Gai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:53:01 |
@@ -103,29 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939908001476 |
-| Players | 5/8 |
-| Host Name | all mute(обиделся) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:53:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28574939908057282 |
 | Players | 6/8 |
 | Host Name | ХУБА-БУБА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:53:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939908122560 |
-| Players | 1/24 |
-| Host Name | wasonbeat. |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 00:53:11 |
 
 
 |  | epic_boss_fight_nightmare |
