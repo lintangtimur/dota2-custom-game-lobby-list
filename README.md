@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939919751547 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:05:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939919744583 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ГОЙДА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:05:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939920212596 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | !@#$ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:05:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939919630462 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | 》》JhonnyAp《《 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:05:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939920046833 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ♥Roxy♥.[D2N] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:05:35 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939919525570 |
-| Players | 11/15 |
-| Host Name | God Of Shit |
+| Lobby ID | 28574939920608215 |
+| Players | 4/15 |
+| Host Name | Ваня mana drain |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:05:03 |
+| Lobby Creation Time | Saturday, December 23, 2023 01:06:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939920656923 |
+| Players | 1/8 |
+| Host Name | Санта banditcamp.com |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:06:13 |
 
 
 |  | epic_boss_fight_nightmare |
