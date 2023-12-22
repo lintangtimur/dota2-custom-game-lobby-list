@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939565800852 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | SNADY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:32:36 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939567160204 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Hektisch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:34:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939569174455 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:36:12 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 19:36:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939567718263 |
-| Players | 4/8 |
-| Host Name | Проебал мид 0/15/2 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:34:38 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939569379834 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Dream |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:36:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939569516750 |
+| Players | 1/24 |
+| Host Name | DonFredonN |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 22, 2023 19:36:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -74,39 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 19:28:24 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939566257094 |
-| Players | 1/5 |
-| Host Name | せいかつ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:33:05 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939566379166 |
-| Players | 3/10 |
-| Host Name | Пионер |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 19:33:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939567657801 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Tw0M4d |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:34:35 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939566379166 |
+| Players | 4/10 |
+| Host Name | Пионер |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 19:33:13 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28574939569373054 |
+| Lobby ID | 28574939569449530 |
 | Players | 1/5 |
-| Host Name | Тайно Дернул |
+| Host Name | せいかつ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:36:25 |
+| Lobby Creation Time | Friday, December 22, 2023 19:36:30 |
 
 
