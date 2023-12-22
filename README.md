@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939328531295 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | yepyep |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:11:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939330026325 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | Rofl Chick-Fil-A Copter |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 13:14:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939328998949 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:12:37 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | роудислав |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 13:16:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939324719301 |
+| Players | 7/8 |
+| Host Name | ХИХАНЬКИ ДА ХАХАНЬКИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 13:03:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939330775005 |
+| Players | 1/15 |
+| Host Name | Nemro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 13:16:13 |
 
 
 |  | epic_boss_fight_nightmare |
