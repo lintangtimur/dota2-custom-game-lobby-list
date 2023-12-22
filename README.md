@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939522227543 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | siPdRE-NmA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:41:38 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939521819528 |
-| Players | 1/24 |
-| Host Name | Chipi Chapa Dubi Daba Boom |
+| Lobby ID | 28574939521676115 |
+| Players | 12/24 |
+| Host Name | efrdsfsdf |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 18:41:06 |
+| Lobby Creation Time | Friday, December 22, 2023 18:40:56 |
 
 
 |  | ot3_desert_octet |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939522287928 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | PSG.LGBT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:41:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939521676115 |
-| Players | 10/24 |
-| Host Name | efrdsfsdf |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 18:40:56 |
 
 
 |  | epic_boss_fight_nightmare |
