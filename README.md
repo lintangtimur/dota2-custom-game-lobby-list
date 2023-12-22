@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939426354570 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Chris P. Bacon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:16:20 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:22:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939430032933 |
-| Players | 7/8 |
-| Host Name | kusatori* |
+| Lobby ID | 28574939430602288 |
+| Players | 6/15 |
+| Host Name | Mr.Cock |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:22:40 |
+| Lobby Creation Time | Friday, December 22, 2023 16:23:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,28 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:22:23 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939430602288 |
-| Players | 5/15 |
-| Host Name | Mr.Cock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:23:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939430869846 |
-| Players | 1/8 |
-| Host Name | Jazz |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 16:24:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939419040859 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | PushTheTempo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:03:48 |
