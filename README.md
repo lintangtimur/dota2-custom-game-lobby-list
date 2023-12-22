@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939300876629 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | You Killed Kenny! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:12:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939301392083 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | GargleGoyle |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 12:13:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939301318743 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Шкилет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:13:45 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FILIPINAS SAD :c |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:12:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939300213948 |
-| Players | 9/10 |
-| Host Name | 大哥打野音信全无 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 12:11:24 |
 
 
