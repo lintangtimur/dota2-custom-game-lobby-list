@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939301293846 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Hani |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:13:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939300876629 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | You Killed Kenny! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:12:50 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939300967765 |
-| Players | 3/8 |
-| Host Name | BigBillzGetPaid |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 12:13:02 |
+| Lobby ID | 28574939301392083 |
+| Players | 5/8 |
+| Host Name | GargleGoyle |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 22, 2023 12:13:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939301318743 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Шкилет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:13:45 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939297422222 |
-| Players | 23/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 12:05:35 |
+| Lobby ID | 28574939301421218 |
+| Players | 2/24 |
+| Host Name | peruano promedio |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:13:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939300719326 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | FILIPINAS SAD :c |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:12:29 |
