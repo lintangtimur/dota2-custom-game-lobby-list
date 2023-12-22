@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939301392083 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | GargleGoyle |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 12:13:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939301318743 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Шкилет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:13:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939301421218 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | peruano promedio |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:13:58 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:14:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939297422222 |
-| Players | 23/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 12:05:35 |
 
 
