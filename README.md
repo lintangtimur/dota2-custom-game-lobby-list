@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939449862540 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 16:56:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939449824893 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:56:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939456755665 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Gay Fish |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:07:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939456794099 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:07:33 |
@@ -67,19 +67,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939457321520 |
+| Lobby ID | 28574939457495694 |
 | Players | 1/10 |
-| Host Name | дурочка |
+| Host Name | SSH |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:08:23 |
+| Lobby Creation Time | Friday, December 22, 2023 17:08:40 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939457295037 |
-| Players | 1/5 |
-| Host Name | Nhất Tao Luôn |
+| Lobby ID | 28574939457568622 |
+| Players | 2/8 |
+| Host Name | lanki 52 tv/zerotwonice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:08:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939457648168 |
+| Players | 3/8 |
+| Host Name | GiftedMamba |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 17:08:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939454257111 |
+| Players | 9/10 |
+| Host Name | WinterStephano<3 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 17:08:21 |
+| Lobby Creation Time | Friday, December 22, 2023 17:03:30 |
 
 
