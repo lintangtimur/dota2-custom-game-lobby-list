@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939379327575 |
-| Players | 3/8 |
-| Host Name | Grimlord |
+| Players | 1/8 |
+| Host Name | no stress challenge |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:52:22 |
 
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939378410062 |
-| Players | 5/8 |
-| Host Name | wh1tn3s_OPOSYM |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:50:38 |
+| Lobby ID | 28574939379429869 |
+| Players | 3/8 |
+| Host Name | ARDILLA 3.0 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 14:52:34 |
 
 
 |  | ot3_gardens_duo |
@@ -41,34 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939378899010 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | VERSACE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:51:33 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939379342800 |
-| Players | 14/15 |
-| Host Name | bAdfish |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:52:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939379429869 |
-| Players | 3/8 |
-| Host Name | ARDILLA 3.0 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 14:52:34 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939379584576 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | dinero |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:52:52 |
