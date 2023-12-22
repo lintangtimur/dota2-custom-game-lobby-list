@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939530213861 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:51:38 |
@@ -40,47 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939555248584 |
-| Players | 7/8 |
-| Host Name | E.N.D |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 19:20:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939550061598 |
-| Players | 3/24 |
-| Host Name | Space |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 19:15:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939547572909 |
-| Players | 1/24 |
-| Host Name | low priority |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 19:12:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939545642703 |
-| Players | 23/24 |
-| Host Name | Satan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 19:10:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28574939555622748 |
 | Players | 1/8 |
 | Host Name | сигаретный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:21:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939550061598 |
+| Players | 6/24 |
+| Host Name | Space |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 19:15:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28574939553835957 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | dom |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 22, 2023 19:19:18 |
@@ -108,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clarkoof |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:21:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939556283496 |
+| Players | 1/10 |
+| Host Name | Sea Server Cancer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 19:22:03 |
 
 
