@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 15:06:20 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939387344024 |
-| Players | 7/10 |
-| Host Name | TIGR ZVERINYI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:07:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939387724729 |
-| Players | 4/15 |
-| Host Name | шальные мысли |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:07:49 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939387833495 |
@@ -72,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wh1tn3s_OPOSYM |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 15:08:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939387724729 |
+| Players | 6/15 |
+| Host Name | шальные мысли |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 15:07:49 |
 
 
 |  | epic_boss_fight_normal |
