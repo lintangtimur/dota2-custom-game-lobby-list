@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939259159042 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:42:31 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 10:34:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939258391359 |
-| Players | 7/8 |
-| Host Name | cored1nation |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 10:40:48 |
+| Lobby ID | 28574939257683009 |
+| Players | 10/24 |
+| Host Name | FÁCIL |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 10:39:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939258791688 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | maseto |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:41:42 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939257683009 |
-| Players | 10/24 |
-| Host Name | FÁCIL |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 10:39:13 |
+| Lobby ID | 28574939259405285 |
+| Players | 2/24 |
+| Host Name | peruano promedio |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 10:43:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939257255678 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | My heaven |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 10:38:16 |
