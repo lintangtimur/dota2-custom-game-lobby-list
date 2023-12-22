@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939449862540 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 16:56:12 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:56:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939456755665 |
-| Players | 13/15 |
-| Host Name | Gay Fish |
+| Lobby ID | 28574939457648168 |
+| Players | 5/8 |
+| Host Name | GiftedMamba |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 17:07:29 |
+| Lobby Creation Time | Friday, December 22, 2023 17:08:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939456794099 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:07:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939457000404 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:07:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939457495694 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | SSH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:08:40 |
@@ -83,21 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 17:08:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939457648168 |
-| Players | 3/8 |
-| Host Name | GiftedMamba |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 17:08:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939454257111 |
-| Players | 9/10 |
-| Host Name | WinterStephano<3 |
+| Lobby ID | 28574939457800902 |
+| Players | 1/10 |
+| Host Name | yyz |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 17:03:30 |
+| Lobby Creation Time | Friday, December 22, 2023 17:09:10 |
 
 
