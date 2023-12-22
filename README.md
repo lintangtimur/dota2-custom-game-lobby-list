@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939273899273 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | BB |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 11:14:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939275454782 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | AFK |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:18:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939275381142 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:17:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939273401615 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:13:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939275812283 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ball w/o you |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:18:55 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 11:19:10 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939275964435 |
+| Players | 1/15 |
+| Host Name | не умею играть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 11:19:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939275006961 |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 11:17:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939275992021 |
+| Players | 5/10 |
+| Host Name | Suc |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 11:19:18 |
 
 
