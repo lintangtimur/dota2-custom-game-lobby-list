@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939449862540 |
-| Players | 3/8 |
-| Host Name | грамотный |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 22, 2023 16:56:12 |
+| Lobby ID | 28574939462065413 |
+| Players | 1/8 |
+| Host Name | 克里斯佩尔 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:15:57 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939460919257 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:14:07 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HOLO костя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:14:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939461310374 |
-| Players | 6/8 |
-| Host Name | Colours |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, December 22, 2023 17:14:45 |
 
 
 |  | epic_boss_fight_challenger |
