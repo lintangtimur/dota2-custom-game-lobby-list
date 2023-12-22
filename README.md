@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939289302694 |
-| Players | 2/15 |
-| Host Name | balls |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 11:48:02 |
+| Lobby ID | 28574939289336523 |
+| Players | 1/10 |
+| Host Name | FILIPINAS SAD :c |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 11:48:07 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939287738340 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:44:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939287860700 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Dark Monn |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:45:01 |
