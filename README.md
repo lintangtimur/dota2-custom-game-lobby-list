@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939565800852 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | SNADY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:32:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939567160204 |
-| Players | 23/24 |
-| Host Name | Hektisch |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 19:34:02 |
+| Lobby ID | 28574939569935019 |
+| Players | 1/8 |
+| Host Name | БОНДИД-Джамшут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 19:37:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939569379834 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Dream |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:36:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939569516750 |
-| Players | 1/24 |
-| Host Name | DonFredonN |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, December 22, 2023 19:36:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939569935019 |
-| Players | 1/8 |
-| Host Name | БОНДИД-Джамшут |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:37:01 |
 
 
 |  | ot3_desert_octet |
@@ -81,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Plastic Pop can |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:36:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939570405397 |
+| Players | 1/10 |
+| Host Name | DonFredonN |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 22, 2023 19:37:31 |
 
 
 |  | epic_boss_fight_nightmare |
