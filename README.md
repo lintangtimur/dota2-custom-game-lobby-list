@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939292890565 |
-| Players | 13/15 |
-| Host Name | G O D |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:55:59 |
+| Lobby ID | 28574939293479829 |
+| Players | 7/15 |
+| Host Name | Андрій Садовий |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 11:57:14 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939293425839 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ДАЛБОНГ ИВГРОБ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 11:57:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939293479829 |
-| Players | 6/15 |
-| Host Name | Андрій Садовий |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 11:57:14 |
+| Lobby ID | 28574939294008005 |
+| Players | 2/10 |
+| Host Name | EBO |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 11:58:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TORNADOOOOOOOOOOOOOOOOOOO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:56:31 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939294018146 |
+| Players | 1/10 |
+| Host Name | Любимые дрова |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 11:58:21 |
 
 
