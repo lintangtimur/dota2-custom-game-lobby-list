@@ -32,10 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939485088087 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | SKY Cyborg |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 17:51:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939487778132 |
+| Players | 2/8 |
+| Host Name | Prays-dead inside |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:55:02 |
 
 
 |  | epic_boss_fight_challenger |
@@ -63,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lmfaowhocares™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:54:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939487868232 |
+| Players | 1/5 |
+| Host Name | BombasterS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:55:10 |
 
 
