@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939331879220 |
-| Players | 23/24 |
-| Host Name | Norinco |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 13:18:30 |
+| Lobby ID | 28574939333596656 |
+| Players | 1/15 |
+| Host Name | SDMastery© |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 13:22:05 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 13:20:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939333596656 |
-| Players | 1/15 |
-| Host Name | SDMastery© |
+| Lobby ID | 28574939333767527 |
+| Players | 3/24 |
+| Host Name | NederLandS26 |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 13:22:05 |
+| Lobby Creation Time | Friday, December 22, 2023 13:22:27 |
 
 
 |  | epic_boss_fight_nightmare |
