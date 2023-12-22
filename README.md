@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939364464147 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | kaorimiyazono |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 14:24:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939365375772 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | wake up, u dreaming |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:26:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939362556362 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | [Oz_GT] |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 14:20:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939363405985 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Mediumrurr |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 14:22:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939365136436 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:25:36 |
@@ -67,19 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939365501402 |
-| Players | 7/10 |
-| Host Name | SimpleJust 🇺🇦 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:26:19 |
+| Lobby ID | 28574939366319859 |
+| Players | 2/10 |
+| Host Name | https://www.twitch.tv/goodvil |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 14:27:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939365681167 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | FEITAN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:26:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939366322790 |
+| Players | 1/10 |
+| Host Name | Ainz Ooal Gown |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 14:27:52 |
 
 
