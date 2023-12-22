@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939947408472 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Mia Khalifa.Onlyfans✪ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:34:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939942513050 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | go susti de algoritmos |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:29:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939948924870 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | GUCCI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:35:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939949501663 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | la espada hyorinmaru |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:36:33 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939949606733 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | SCP-ROOM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:36:39 |
@@ -110,6 +110,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 01:36:00 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939944275619 |
+| Players | 14/15 |
+| Host Name | E'NOT●̮̮̃♕▲✪ ◙ ™ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 01:30:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939950034793 |
+| Players | 2/8 |
+| Host Name | a. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:37:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939950137818 |
+| Players | 3/8 |
+| Host Name | АДИДАС СРЕДНИЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:37:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939948132723 |
@@ -117,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 私を倒せるのは私だけ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:35:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939950126131 |
+| Players | 1/5 |
+| Host Name | ДЕВОЧКА ИЗ АНИМЕ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 01:37:12 |
 
 
