@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939496093377 |
-| Players | 9/10 |
-| Host Name | Meetlok |
-| Region | EUROPE |
+| Lobby ID | 28574939496087583 |
+| Players | 11/24 |
+| Host Name | 神说天堂满了你去地狱 |
+| Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:06:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939493047810 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Mety |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:02:35 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 17:56:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939495844313 |
-| Players | 14/15 |
-| Host Name | не умею играть |
+| Lobby ID | 28574939496456614 |
+| Players | 6/8 |
+| Host Name | 克里斯佩尔 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:06:29 |
+| Lobby Creation Time | Friday, December 22, 2023 18:07:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939495823951 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Don't run! |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:06:28 |
@@ -54,33 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✪ AA |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 18:06:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939496087583 |
-| Players | 10/24 |
-| Host Name | 神说天堂满了你去地狱 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 18:06:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939496456614 |
-| Players | 4/8 |
-| Host Name | 克里斯佩尔 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:07:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939495718758 |
-| Players | 12/15 |
-| Host Name | Alcoholocaust |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 18:06:19 |
 
 
 |  | epic_boss_fight_nightmare |
