@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939407587753 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | GRiZ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 15:43:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939412281282 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Dodong The Great |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:51:45 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.Smile |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:52:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939413182532 |
+| Players | 2/5 |
+| Host Name | Руслик Суслик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 15:53:22 |
 
 
