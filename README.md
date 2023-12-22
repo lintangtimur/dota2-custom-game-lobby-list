@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939396074671 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 15:22:58 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 15:29:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939399936181 |
-| Players | 1/10 |
-| Host Name | играю 2 пальцами |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:30:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939399939435 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | SUF |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:30:01 |
