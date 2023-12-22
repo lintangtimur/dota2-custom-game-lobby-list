@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939455685471 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Pomousa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:05:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939454739840 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | 啪！一个Ori |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:04:17 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 17:05:35 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939455333919 |
-| Players | 11/15 |
-| Host Name | неумехапелемеха |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:05:14 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939455348847 |
@@ -83,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 17:05:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939455844421 |
-| Players | 2/8 |
-| Host Name | Matve172 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:06:03 |
+| Lobby ID | 28574939455957393 |
+| Players | 1/15 |
+| Host Name | MADARA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 17:06:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939454257111 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | WinterStephano<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:03:30 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939455640395 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | -->ModezY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:05:43 |
