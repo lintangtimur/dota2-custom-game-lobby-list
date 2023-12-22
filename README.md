@@ -2,49 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939463777740 |
-| Players | 8/10 |
-| Host Name | Ventarno |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:18:39 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939458572069 |
-| Players | 1/15 |
-| Host Name | 🅴 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 17:10:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939459685858 |
-| Players | 2/24 |
-| Host Name | Первая кровь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:12:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939463641497 |
-| Players | 6/8 |
-| Host Name | V-kid |
+| Lobby ID | 28574939464695538 |
+| Players | 5/15 |
+| Host Name | dd.broo |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 17:18:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939463675249 |
-| Players | 14/15 |
-| Host Name | Dominus |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 17:18:29 |
+| Lobby Creation Time | Friday, December 22, 2023 17:20:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cpt Karl |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, December 22, 2023 17:19:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939459685858 |
+| Players | 2/24 |
+| Host Name | Первая кровь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:12:12 |
 
 
 |  | ot3_desert_octet |
