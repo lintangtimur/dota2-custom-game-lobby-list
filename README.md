@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939283447437 |
-| Players | 13/15 |
-| Host Name | не умею играть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 11:35:33 |
+| Lobby ID | 28574939284896062 |
+| Players | 5/15 |
+| Host Name | TorukMaktó |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 11:38:37 |
 
 
 |  | ot3_desert_octet |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939283119953 |
-| Players | 6/10 |
-| Host Name | :) |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:34:51 |
+| Lobby ID | 28574939284227410 |
+| Players | 1/10 |
+| Host Name | tchitchinadze1 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 11:37:12 |
 
 
 |  | ot3_desert_octet |
@@ -41,37 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939283612478 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:35:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939282359701 |
-| Players | 23/24 |
-| Host Name | Abet |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:33:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939283592192 |
-| Players | 13/15 |
-| Host Name | - # 尺 闩 工 乙 口 尺 # -. 问 ズ 问 尺 闩 √ |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 22, 2023 11:35:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939284227410 |
-| Players | 1/10 |
-| Host Name | tchitchinadze1 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 11:37:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GargleGoyle |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 11:37:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939285044281 |
+| Players | 1/10 |
+| Host Name | tocosh |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 11:38:56 |
 
 
 |  | epic_boss_fight_nightmare |
