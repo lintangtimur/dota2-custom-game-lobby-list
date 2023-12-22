@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939400100164 |
-| Players | 4/10 |
-| Host Name | rafzZ~ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 15:30:18 |
+| Lobby ID | 28574939399618577 |
+| Players | 4/8 |
+| Host Name | cored1nation |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 15:29:27 |
 
 
 |  | ot3_desert_octet |
@@ -56,21 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 15:22:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939399618577 |
-| Players | 4/8 |
-| Host Name | cored1nation |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:29:27 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939400579850 |
-| Players | 1/10 |
-| Host Name | KaranoKS |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 15:31:09 |
+| Lobby ID | 28574939400658607 |
+| Players | 3/10 |
+| Host Name | A.Olsson |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 15:31:18 |
 
 
