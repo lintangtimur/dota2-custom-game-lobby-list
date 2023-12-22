@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28574939369443442 |
 | Players | 2/15 |
-| Host Name | PARLIAMENT |
+| Host Name | t |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:33:47 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939363405985 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Mediumrurr |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 14:22:04 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:31:36 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939369638376 |
+| Players | 4/8 |
+| Host Name | Бабушка Стрея |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 14:34:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939368174062 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:31:22 |
