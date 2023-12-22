@@ -23,37 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939361575334 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:18:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939359612494 |
-| Players | 9/10 |
-| Host Name | under the Influence |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:14:40 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939360726900 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | moruxD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:16:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939361552281 |
-| Players | 1/15 |
-| Host Name | PH=HIGH EGO LOW IQ |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 22, 2023 14:18:26 |
+| Lobby ID | 28574939362033879 |
+| Players | 1/8 |
+| Host Name | Karoshi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 14:19:23 |
 
 
 |  | epic_boss_fight_nightmare |
