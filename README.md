@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939809771138 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | ꃥꈤꊐ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:16:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939807911500 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | GloveBox |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 23:15:07 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939810064744 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | ???% |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 23:17:07 |
@@ -126,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Japan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:17:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939810215578 |
+| Players | 5/10 |
+| Host Name | 925, burn me my medallion |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:17:15 |
 
 
 |  | epic_boss_fight_nightmare |
