@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28574939344789300 |
 | Players | 2/15 |
-| Host Name | Dance Macabre |
+| Host Name | Fi_jek |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:45:16 |
 
@@ -50,43 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939344713259 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:45:06 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939343246459 |
-| Players | 6/10 |
-| Host Name | 𩠑 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 13:42:06 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939345025538 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | daive |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:45:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939345122250 |
-| Players | 1/8 |
-| Host Name | clown master |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 13:45:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939343722471 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Wang Taupik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:43:04 |
