@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939416411076 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | 綾小路 清隆 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 15:59:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939415870277 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 大哥打野音信全无 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:58:14 |
