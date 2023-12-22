@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939661003831 |
-| Players | 3/8 |
-| Host Name | 𒉭ʙᴇʀsᴇʀᴋ𒉭 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:04:06 |
+| Lobby ID | 28574939660911473 |
+| Players | 3/24 |
+| Host Name | VanzrayGx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 21:04:01 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939550735484 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Skipeth-lolz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939660514985 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 维戈斯主要雨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:03:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939651438765 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | hanswurst |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:55:34 |
@@ -83,39 +83,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 21:03:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939661058478 |
+| Players | 3/15 |
+| Host Name | TARGARYEN/ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 21:04:09 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939660911473 |
-| Players | 2/24 |
-| Host Name | VanzrayGx |
+| Lobby ID | 28574939661107749 |
+| Players | 1/24 |
+| Host Name | ghoraps |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 21:04:01 |
+| Lobby Creation Time | Friday, December 22, 2023 21:04:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939659958849 |
+| Players | 11/15 |
+| Host Name | AZRAEL 00 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 21:03:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939660962499 |
-| Players | 6/8 |
-| Host Name | qecrvyhimouawe |
+| Lobby ID | 28574939661221754 |
+| Players | 1/8 |
+| Host Name | 123 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:04:04 |
+| Lobby Creation Time | Friday, December 22, 2023 21:04:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939660502881 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 21:03:40 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28574939650845253 |
-| Players | 6/7 |
-| Host Name | Karien |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 20:55:01 |
 
 
