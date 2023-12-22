@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939526591923 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | meow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:47:08 |
@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939528799965 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | лунка бобра |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:49:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939528030278 |
-| Players | 9/10 |
-| Host Name | swabu dibu pap |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:48:56 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:50:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939529023668 |
-| Players | 1/8 |
-| Host Name | slomal ebalo dedy |
+| Lobby ID | 28574939529086731 |
+| Players | 3/10 |
+| Host Name | Malice |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:50:10 |
+| Lobby Creation Time | Friday, December 22, 2023 18:50:15 |
 
 
 |  | epic_boss_fight_normal |
