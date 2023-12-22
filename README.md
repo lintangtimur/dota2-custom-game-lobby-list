@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939395113964 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Psycho |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 15:21:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939396133647 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | $ilent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:23:04 |
