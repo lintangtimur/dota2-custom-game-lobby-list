@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939592978956 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 20:00:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939593459817 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 20:01:12 |
@@ -83,48 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:02:52 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939594607301 |
-| Players | 9/10 |
-| Host Name | bALON |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 20:02:20 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939595493247 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Kpo/\uk_B_KpoBaTu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:03:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939595537815 |
-| Players | 1/8 |
-| Host Name | ruby3000 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 20:03:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939595554137 |
-| Players | 2/8 |
-| Host Name | immortal drain |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 20:03:15 |
+| Lobby ID | 28574939595741161 |
+| Players | 2/10 |
+| Host Name | Ltpw01 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 20:03:26 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939595369475 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ам ням |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 20:03:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939595716017 |
+| Players | 1/10 |
+| Host Name | How to AWP? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 20:03:25 |
 
 
