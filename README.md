@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939873051390 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Calpy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:17:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939869456717 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ♫♫♫♫♫♫ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 00:14:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939871409592 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Explosive Shot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 00:16:09 |
@@ -58,20 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939869895041 |
-| Players | 22/24 |
-| Host Name | Krol |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:14:40 |
+| Lobby ID | 28574939873522648 |
+| Players | 1/24 |
+| Host Name | Bruce |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 00:18:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939873444698 |
+| Players | 1/15 |
+| Host Name | dR.Eagle |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 00:18:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939873375890 |
+| Lobby ID | 28574939873575662 |
 | Players | 2/8 |
 | Host Name | NURAYA |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 00:18:06 |
+| Lobby Creation Time | Saturday, December 23, 2023 00:18:17 |
 
 
 |  | epic_boss_fight_nightmare |
