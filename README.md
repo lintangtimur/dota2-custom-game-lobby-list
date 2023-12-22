@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939854546416 |
-| Players | 6/8 |
-| Host Name | Mokojins |
+| Lobby ID | 28574939854932218 |
+| Players | 2/8 |
+| Host Name | либо ты либо тебя |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:59:45 |
+| Lobby Creation Time | Saturday, December 23, 2023 00:00:07 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939853226844 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 23:58:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939853238194 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | "†YoNhACoffIN†"†RAmPaSSO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 23:58:28 |
@@ -83,6 +83,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 23:52:24 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939854835599 |
+| Players | 4/8 |
+| Host Name | ponos |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 00:00:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939854869441 |
+| Players | 5/8 |
+| Host Name | ОЛЕГ МОНГОЛ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 00:00:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939853656428 |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | razengan2601 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:59:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939854757541 |
+| Players | 1/10 |
+| Host Name | ¸¸♬·¯·♩¸¸♪·¯·♫ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 23:59:57 |
 
 
