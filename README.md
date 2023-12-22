@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236522941 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
@@ -29,49 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 11:04:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939268709950 |
-| Players | 7/8 |
-| Host Name | Penecito |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:03:48 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939271791425 |
-| Players | 1/15 |
-| Host Name | 瞬 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 11:10:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939270711801 |
-| Players | 14/15 |
-| Host Name | SoyVIvo |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:08:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939271457570 |
-| Players | 5/8 |
-| Host Name | Tokio |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:09:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939268532090 |
-| Players | 12/15 |
-| Host Name | R3sist4nce. |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 22, 2023 11:03:25 |
+| Lobby ID | 28574939271947672 |
+| Players | 4/15 |
+| Host Name | Monkey D Luffy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 11:10:38 |
 
 
 |  | ot3_desert_octet |
@@ -86,16 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939271753156 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | aaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:10:13 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939271457570 |
+| Players | 6/8 |
+| Host Name | Tokio |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 11:09:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939272077650 |
+| Players | 1/8 |
+| Host Name | El Pejerrete |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 11:10:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939271792858 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | shadow wizard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:10:18 |
