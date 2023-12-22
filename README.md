@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939448238281 |
-| Players | 1/10 |
-| Host Name | 征服者Sayonara999<3 |
+| Lobby ID | 28574939448427186 |
+| Players | 1/8 |
+| Host Name | Сладкий Бубалех |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:53:25 |
+| Lobby Creation Time | Friday, December 22, 2023 16:53:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:52:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939447639122 |
-| Players | 1/10 |
-| Host Name | ... |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 16:52:25 |
+| Lobby ID | 28574939448467559 |
+| Players | 1/15 |
+| Host Name | FoReVeR |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 16:53:49 |
 
 
 |  | ot3_gardens_duo |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:52:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939447652661 |
-| Players | 14/15 |
-| Host Name | Dominus |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 16:52:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939448427186 |
-| Players | 1/8 |
-| Host Name | Сладкий Бубалех |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:53:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939448467559 |
-| Players | 1/15 |
-| Host Name | FoReVeR |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 22, 2023 16:53:49 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939447458788 |
@@ -99,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tommy Shelby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:52:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939448559104 |
+| Players | 1/10 |
+| Host Name | I ATE NOTHING |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 16:53:58 |
 
 
