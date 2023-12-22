@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939337503696 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:30:19 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939337292261 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Apollinem |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:29:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939337345660 |
-| Players | 13/15 |
-| Host Name | Yami |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 13:29:59 |
+| Lobby ID | 28574939337375495 |
+| Players | 2/8 |
+| Host Name | Madafacar |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 13:30:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939334541235 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Огромный байк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:24:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939337862858 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 21mtd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:31:03 |
@@ -65,28 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 13:24:16 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939337375495 |
-| Players | 2/8 |
-| Host Name | Madafacar |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 13:30:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939338319299 |
-| Players | 1/15 |
-| Host Name | PH=HIGH EGO LOW IQ |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 22, 2023 13:31:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939337460998 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ็ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:30:14 |
