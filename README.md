@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939697217076 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | L@ZoVi4 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 21:35:19 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939642040303 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 20:47:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939705422134 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Yomayokaktak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:42:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939705933331 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | harduck1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:42:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939705943510 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Odinn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:42:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939706125251 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Phantacy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 21:43:02 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | IMBAKOU |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 21:43:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939706721225 |
+| Players | 1/10 |
+| Host Name | блять я не могу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 21:43:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939706439043 |
+| Players | 2/8 |
+| Host Name | FAKA MAKAKA |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 21:43:19 |
 
 
 |  | epic_boss_fight_nightmare |
