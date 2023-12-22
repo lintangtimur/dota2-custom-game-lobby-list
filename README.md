@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939740033239 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Kazune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:12:57 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939741218423 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | MSD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:13:59 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939740200331 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | *_*3 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 22:13:06 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939741057887 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | S@V0naROLL@ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:13:51 |
@@ -140,19 +140,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939741219151 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ARTOURИТЕТ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 22:13:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939741454965 |
-| Players | 4/8 |
-| Host Name | Маша БКБ Няша |
+| Lobby ID | 28574939741551132 |
+| Players | 1/10 |
+| Host Name | молчание бурят |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:14:12 |
+| Lobby Creation Time | Friday, December 22, 2023 22:14:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939741654789 |
+| Players | 6/10 |
+| Host Name | Jesus Pines |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:14:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939741655897 |
+| Players | 1/10 |
+| Host Name | Pescadero |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 22:14:22 |
 
 
 |  | epic_boss_fight_nightmare |
