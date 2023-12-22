@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939354192611 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Mr.Bass |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 14:04:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939353897265 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 簡單的遊戲 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:03:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939354509126 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | miko |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 14:04:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939355933631 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Коля Коляска |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:07:31 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:01:00 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939356161051 |
-| Players | 1/5 |
+| Lobby ID | 28574939356199513 |
+| Players | 2/10 |
 | Host Name | ^_^ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:07:58 |
+| Lobby Creation Time | Friday, December 22, 2023 14:08:02 |
 
 
