@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939530213861 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:51:38 |
@@ -29,39 +29,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:59:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939535860382 |
-| Players | 9/10 |
-| Host Name | ПОЕЛ ГОВНА |
+| Lobby ID | 28574939536634293 |
+| Players | 4/15 |
+| Host Name | khiyar sedam kon |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 18:58:39 |
+| Lobby Creation Time | Friday, December 22, 2023 18:59:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939536012327 |
-| Players | 2/8 |
-| Host Name | Kirusha |
+| Players | 3/8 |
+| Host Name | slow4yi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:58:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939536187709 |
-| Players | 1/24 |
-| Host Name | đời là bể khổ khi bạn là Fan MU |
+| Lobby ID | 28574939536550161 |
+| Players | 7/24 |
+| Host Name | Albion  Playerღ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 18:59:03 |
+| Lobby Creation Time | Friday, December 22, 2023 18:59:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939536755312 |
+| Players | 6/10 |
+| Host Name | GiGa Shd |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 18:59:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939536931323 |
+| Players | 1/24 |
+| Host Name | bastard =) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:59:56 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939529965252 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | I am your death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:51:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939536592836 |
+| Players | 3/10 |
+| Host Name | DayDreamer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 18:59:32 |
 
 
