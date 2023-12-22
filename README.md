@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939434589109 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Evol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:30:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939429949557 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | we need more bullets |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 22, 2023 16:22:31 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939435561559 |
-| Players | 5/8 |
+| Lobby ID | 28574939435673087 |
+| Players | 3/8 |
 | Host Name | эволюция органов местного управл |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:32:15 |
+| Lobby Creation Time | Friday, December 22, 2023 16:32:27 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ethan™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:31:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939435524854 |
-| Players | 1/5 |
-| Host Name | фисташки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:32:12 |
 
 
