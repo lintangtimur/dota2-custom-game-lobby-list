@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939622761886 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | caesar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:29:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939617372970 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 'Suthep Thaugsuban |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 20:24:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939622189434 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Безумный Паша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:28:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939602053291 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | "&" |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 20:09:36 |
@@ -68,25 +68,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939622782293 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Sanyo |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 20:29:19 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939620738089 |
-| Players | 9/10 |
-| Host Name | КМС a.k.a. кто пиздел?! |
+| Lobby ID | 28574939622965809 |
+| Players | 3/8 |
+| Host Name | Бегущий_по_Доте |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 20:27:24 |
+| Lobby Creation Time | Friday, December 22, 2023 20:29:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939622974427 |
+| Players | 1/15 |
+| Host Name | 𝓪𝓲𝓶𝒆𝓻 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 20:29:30 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939621406031 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Ginger or Ni...r? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 20:28:01 |
