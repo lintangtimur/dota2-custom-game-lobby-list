@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939310502199 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | si me matas me ajilo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:33:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939308535434 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | asd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:29:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939307536006 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Bo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:27:18 |
@@ -50,34 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939310446370 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | BOSS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:33:25 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939310598659 |
-| Players | 1/15 |
-| Host Name | RªgÑªªr ♣ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 12:33:45 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939310670500 |
+| Lobby ID | 28574939310720747 |
 | Players | 1/24 |
 | Host Name | ZZZZZZZZ |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 12:33:54 |
+| Lobby Creation Time | Friday, December 22, 2023 12:34:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939307502243 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Neizen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:27:14 |
