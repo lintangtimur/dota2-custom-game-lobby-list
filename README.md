@@ -29,6 +29,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:52:11 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939449824893 |
+| Players | 1/24 |
+| Host Name | Первая кровь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 16:56:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939449862540 |
+| Players | 1/8 |
+| Host Name | Chris |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 22, 2023 16:56:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939449897155 |
+| Players | 3/8 |
+| Host Name | эволюция органов местного управл |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 16:56:16 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939447458788 |
