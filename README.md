@@ -41,25 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939439159198 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Bo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:38:19 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939442998571 |
-| Players | 8/15 |
-| Host Name | Руссо Швайне |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:44:43 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939442021969 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 雨の中で生まれた |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 16:43:05 |
@@ -67,10 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28574939443202788 |
+| Lobby ID | 28574939443273116 |
 | Players | 1/5 |
 | Host Name | JAHSEH |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 16:45:03 |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 22, 2023 16:45:10 |
 
 
