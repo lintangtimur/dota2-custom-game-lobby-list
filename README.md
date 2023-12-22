@@ -32,10 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939354509126 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | miko |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 14:04:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939358981658 |
+| Players | 1/8 |
+| Host Name | daun_2003 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 14:13:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939359001021 |
+| Players | 1/10 |
+| Host Name | сдох от передоза |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 14:13:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939358897903 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | BABAYAGA |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 22, 2023 14:13:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939358997355 |
+| Players | 1/5 |
+| Host Name | Teemo:)Breeder |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 14:13:28 |
 
 
