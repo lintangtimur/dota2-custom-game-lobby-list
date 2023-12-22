@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:51:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939530387394 |
-| Players | 1/15 |
-| Host Name | Yar Assist |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 22, 2023 18:51:51 |
+| Lobby ID | 28574939531361091 |
+| Players | 1/8 |
+| Host Name | сигаретный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:53:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939531034498 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Sferov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:52:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939531310658 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Porek |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:52:59 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939531314480 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | сh1k1ks |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:53:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939531361091 |
-| Players | 1/8 |
-| Host Name | сигаретный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:53:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:51:20 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939531466791 |
-| Players | 1/7 |
-| Host Name | Мr_Fаx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:53:11 |
+| Lobby ID | 28574939531487019 |
+| Players | 1/10 |
+| Host Name | 谜兔 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 18:53:13 |
 
 
