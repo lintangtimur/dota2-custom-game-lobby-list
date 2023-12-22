@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939358629913 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | S'chizO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:12:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939359612494 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | under the Influence |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:14:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939360726900 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | moruxD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:16:50 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939360765664 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Kucher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:16:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939360910659 |
-| Players | 3/8 |
-| Host Name | Hog Rider |
+| Lobby ID | 28574939359010779 |
+| Players | 13/15 |
+| Host Name | unleashed |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:17:11 |
+| Lobby Creation Time | Friday, December 22, 2023 14:13:29 |
 
 
 |  | epic_boss_fight_nightmare |
