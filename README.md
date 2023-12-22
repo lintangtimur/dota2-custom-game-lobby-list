@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939638854330 |
-| Players | 9/10 |
-| Host Name | Kubuś Puchatek |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 20:44:07 |
+| Lobby ID | 28574939640083188 |
+| Players | 2/10 |
+| Host Name | сосиска в тесте |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 20:45:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939602053291 |
-| Players | 23/24 |
-| Host Name | "&" |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 20:09:36 |
+| Lobby ID | 28574939640005835 |
+| Players | 7/15 |
+| Host Name | TΛNCTUM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 20:45:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939632872653 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 20:38:40 |
@@ -92,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:45:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939640005835 |
-| Players | 1/15 |
-| Host Name | TΛNCTUM |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 20:45:10 |
+| Lobby ID | 28574939640261475 |
+| Players | 1/8 |
+| Host Name | ROCK HARD |
+| Region | INDIA |
+| Lobby Creation Time | Friday, December 22, 2023 20:45:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939640138074 |
+| Players | 1/5 |
+| Host Name | Kyza |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 20:45:17 |
 
 
