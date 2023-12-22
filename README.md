@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939443085082 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Estudiar Part time es lo mio |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 16:44:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939445584313 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | коля железяка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:48:57 |
@@ -41,18 +41,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939443625019 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Mun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:45:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939446162746 |
-| Players | 1/10 |
-| Host Name | Вертик |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 16:49:55 |
+| Lobby ID | 28574939446241644 |
+| Players | 4/15 |
+| Host Name | KUBAICU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 16:50:03 |
 
 
