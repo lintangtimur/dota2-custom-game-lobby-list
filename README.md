@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939448427186 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Oswaldo Gonzalo Herrera Martíne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:53:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939447812594 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | SleepLess |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 16:52:42 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | S'ai |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 16:54:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939449184663 |
+| Players | 1/10 |
+| Host Name | Good |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 16:55:04 |
 
 
