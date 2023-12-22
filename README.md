@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939434561837 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Гнилая груша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:30:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939434844515 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | MrZlobr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:31:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939435233056 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Mety |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 16:31:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939430439213 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Артём Камшотович |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 16:23:23 |
