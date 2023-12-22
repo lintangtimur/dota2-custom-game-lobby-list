@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939523069787 |
-| Players | 8/10 |
-| Host Name | LIGHTWEIGHT BABY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:42:42 |
+| Lobby ID | 28574939524523325 |
+| Players | 2/10 |
+| Host Name | You get me,fam? |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 18:44:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939522983828 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | MaleVegan |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 18:42:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939524345615 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Лари |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:44:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939499916513 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Mety |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:12:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939524133630 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Brut da Pak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:44:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939521938805 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Tw0M4d |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:41:15 |
