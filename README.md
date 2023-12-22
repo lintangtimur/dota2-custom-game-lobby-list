@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28574939886215990 |
 | Players | 2/10 |
-| Host Name | Трах Хуяфула |
+| Host Name | DAEMON |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 00:30:57 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939882735180 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | 神说天堂满了你去地狱 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 00:27:28 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939885472965 |
-| Players | 3/8 |
-| Host Name | Tin Ling |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 00:30:13 |
+| Lobby ID | 28574939886502326 |
+| Players | 1/8 |
+| Host Name | after death |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 00:31:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939886290481 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | ビールは神 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:31:02 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939881696345 |
-| Players | 9/10 |
-| Host Name | A |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 00:26:25 |
+| Lobby ID | 28574939886531717 |
+| Players | 4/8 |
+| Host Name | mode:tonyhawk301 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 00:31:16 |
 
 
 |  | epic_boss_fight_nightmare |
