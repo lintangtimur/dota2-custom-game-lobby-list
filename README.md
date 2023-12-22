@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236522941 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939375654064 |
-| Players | 2/10 |
-| Host Name | НЕПОНЯТЫЙ НЕ Я |
+| Players | 1/10 |
+| Host Name | 'K |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:45:31 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939376111468 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Chris P. Bacon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:46:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939375956970 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | гнида |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:46:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939376036870 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | La Pixiris |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 14:46:13 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939376605656 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | backback |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:47:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939376737861 |
+| Players | 1/10 |
+| Host Name | Neizen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 14:47:29 |
 
 
