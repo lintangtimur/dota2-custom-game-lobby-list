@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939551895528 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | :/ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:17:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939552294345 |
-| Players | 7/8 |
-| Host Name | Ящер |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 19:17:35 |
+| Lobby ID | 28574939552715106 |
+| Players | 3/10 |
+| Host Name | autist i |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 19:18:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939550893418 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Plastic Pop can |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:16:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939550061598 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Mety |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 19:15:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939547572909 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | "&" |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 19:12:17 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939548542967 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | CUM AND GO AND CUM AGAIN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:13:23 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:16:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939552262170 |
-| Players | 1/10 |
-| Host Name | Кузя(RuMod) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:17:33 |
 
 
