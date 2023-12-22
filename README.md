@@ -29,28 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:28:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939366319859 |
-| Players | 9/10 |
-| Host Name | https://www.twitch.tv/goodvil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:27:52 |
+| Lobby ID | 28574939367307084 |
+| Players | 3/8 |
+| Host Name | Endsieg |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 14:29:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939362556362 |
-| Players | 21/24 |
-| Host Name | [Oz_GT] |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 14:20:24 |
+| Lobby ID | 28574939366831574 |
+| Players | 11/15 |
+| Host Name | VOIDXII |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 14:28:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939363405985 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Mediumrurr |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 14:22:04 |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939366831574 |
-| Players | 7/15 |
-| Host Name | VOIDXII |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:28:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939367307084 |
-| Players | 1/8 |
-| Host Name | Endsieg |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:29:46 |
+| Lobby ID | 28574939367597907 |
+| Players | 3/15 |
+| Host Name | 󠀡󠀡Norton |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 22, 2023 14:30:18 |
 
 
 |  | epic_boss_fight_nightmare |
