@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939469985175 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | ку ку |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:28:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939469785243 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Snolled |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:28:11 |
@@ -41,18 +41,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939470024253 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Pinkie Pie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:28:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28574939470324902 |
-| Players | 3/8 |
-| Host Name | игиловец |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:29:00 |
+| Lobby ID | 28574939470398304 |
+| Players | 1/7 |
+| Host Name | Molahx47 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 17:29:07 |
 
 
