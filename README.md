@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939231854850 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | MrSuperman|002| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 09:41:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939231718700 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 09:41:07 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939232288417 |
-| Players | 1/10 |
-| Host Name | LEDI BAG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 09:42:24 |
+| Lobby ID | 28574939232190500 |
+| Players | 2/10 |
+| Host Name | feedeoporplacer, no pordiversión |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 09:42:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939229885327 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 09:36:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939229040181 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Reaper  Γ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 22, 2023 09:35:04 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:41:36 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939232190500 |
-| Players | 2/10 |
-| Host Name | feedeoporplacer, no pordiversión |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 09:42:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939232550589 |
+| Lobby ID | 28574939232726341 |
 | Players | 3/15 |
 | Host Name | Pero eres o no eres? |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 09:43:00 |
+| Lobby Creation Time | Friday, December 22, 2023 09:43:24 |
 
 
 |  | epic_boss_fight_normal |
