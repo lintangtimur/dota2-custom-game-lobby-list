@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939418683928 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dill |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:03:11 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:03:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939418759533 |
-| Players | 12/15 |
-| Host Name | Али |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:03:19 |
 
 
 |  | ot3_gardens_duo |
