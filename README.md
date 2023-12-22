@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939618029028 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | ᶜᵒᵒˡᵐᵉⁿᵏᵃ  <777 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 20:24:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939617372970 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | 'Suthep Thaugsuban |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 20:24:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939619101385 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Лишь я один достоин... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:25:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939616302209 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Дима Жигуль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:23:08 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939618553123 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Miracle- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:25:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939616639256 |
-| Players | 13/15 |
-| Host Name | Eqis |
+| Lobby ID | 28574939619350888 |
+| Players | 1/10 |
+| Host Name | llll |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 20:23:27 |
+| Lobby Creation Time | Friday, December 22, 2023 20:26:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939619380986 |
+| Players | 1/10 |
+| Host Name | HUGE |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 22, 2023 20:26:07 |
 
 
 |  | epic_boss_fight_nightmare |
