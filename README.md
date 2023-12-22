@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939265421664 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 30 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:56:33 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939263674573 |
-| Players | 9/24 |
-| Host Name | tianyi3498 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 10:52:24 |
+| Lobby ID | 28574939265457008 |
+| Players | 5/24 |
+| Host Name | MODO SAD |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 10:56:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939264332398 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 10:54:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939265081477 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:55:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939265325202 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Helmsman |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:56:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939265321936 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Denchik |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 10:56:20 |
@@ -67,17 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939265457008 |
-| Players | 1/24 |
-| Host Name | MODO SAD |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:56:38 |
+| Lobby ID | 28574939263674573 |
+| Players | 9/24 |
+| Host Name | tianyi3498 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 10:52:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939265699450 |
+| Players | 2/10 |
+| Host Name | 4:30 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 10:57:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939262810419 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 10:50:28 |
