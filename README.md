@@ -29,31 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:50:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939377350823 |
-| Players | 13/15 |
-| Host Name | Mr. SOVA |
+| Lobby ID | 28574939378653133 |
+| Players | 3/10 |
+| Host Name | SimpleJust 🇺🇦 |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:48:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939378502249 |
-| Players | 5/8 |
-| Host Name | dinero |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:50:49 |
+| Lobby Creation Time | Friday, December 22, 2023 14:51:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939378580412 |
-| Players | 2/24 |
+| Lobby ID | 28574939378733290 |
+| Players | 1/24 |
 | Host Name | Jesus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:50:57 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 14:51:14 |
 
 
 |  | epic_boss_fight_nightmare |
