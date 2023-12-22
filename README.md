@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939308065513 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Loquendo (2010) |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:28:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939308535434 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | asd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:29:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939307536006 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Bo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:27:18 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:28:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939308904113 |
+| Players | 1/15 |
+| Host Name | hpg* |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 12:30:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939308933569 |
+| Players | 1/8 |
+| Host Name | MODE SERIO CTMRE GAAA |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:30:12 |
 
 
 |  | epic_boss_fight_nightmare |
