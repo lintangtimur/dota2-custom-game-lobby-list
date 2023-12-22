@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:23:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939622782293 |
-| Players | 8/10 |
-| Host Name | Sanyo |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 20:29:19 |
+| Lobby ID | 28574939623358175 |
+| Players | 1/24 |
+| Host Name | СиськиКраба |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 20:29:51 |
 
 
 |  | epic_boss_fight_nightmare |
