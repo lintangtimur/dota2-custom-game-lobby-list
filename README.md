@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939274573802 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | MrSuperman|002| |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 11:16:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939275381142 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:17:59 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Grieving Soul |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 11:16:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939275454782 |
+| Players | 1/8 |
+| Host Name | AFK |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 11:18:08 |
 
 
 |  | epic_boss_fight_nightmare |
