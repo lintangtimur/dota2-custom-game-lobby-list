@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939392481305 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Stronger |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 15:16:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939391236383 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Extension Cord |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:14:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939392286443 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:16:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939392312509 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | MALEBEL TYT?? |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 15:16:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939392374885 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | HAROSH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:16:16 |
