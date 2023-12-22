@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939302905184 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Bo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:17:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939305687121 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Sasaum |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:23:13 |
@@ -41,27 +41,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939306347357 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Takashi |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 12:24:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939306229171 |
-| Players | 7/8 |
-| Host Name | моя мама муререрта |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 22, 2023 12:24:29 |
+| Lobby ID | 28574939307160565 |
+| Players | 1/24 |
+| Host Name | O Pai |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 12:26:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939307037301 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Soulwarrior |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:26:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939307210841 |
+| Players | 2/15 |
+| Host Name | Mr.Bass |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:26:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939307216528 |
+| Players | 1/15 |
+| Host Name | не умею играть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 12:26:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939307236807 |
+| Players | 1/10 |
+| Host Name | Neizen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 12:26:42 |
 
 
