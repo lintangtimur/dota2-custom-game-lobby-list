@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939475683729 |
-| Players | 5/8 |
-| Host Name | Mynni |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 17:37:08 |
+| Lobby ID | 28574939477644482 |
+| Players | 5/15 |
+| Host Name | Skibidi Absolute |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:40:05 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939476862397 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:38:54 |
@@ -42,18 +42,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28574939477014524 |
 | Players | 6/10 |
-| Host Name | Hovra |
+| Host Name | (турбовоин) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:39:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939477234862 |
-| Players | 13/15 |
-| Host Name | Летчик Зигзаг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:39:28 |
 
 
 |  | epic_boss_fight_nightmare |
