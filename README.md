@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939258980302 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | asd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 10:42:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939259159042 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:42:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939259405285 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | peruano promedio |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:43:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939258791688 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Elerne |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:41:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939256913854 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ☠ Kira Yoshikage☢ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 10:37:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939259631887 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | rizza |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 10:43:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939257255678 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | My heaven |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 10:38:16 |
