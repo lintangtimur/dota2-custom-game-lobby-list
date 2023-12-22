@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939263177007 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | cielo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:51:17 |
@@ -38,67 +38,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 10:54:01 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939262887670 |
-| Players | 14/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 10:50:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939263127023 |
-| Players | 4/15 |
-| Host Name | Silvano |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:51:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939262299976 |
-| Players | 12/15 |
-| Host Name | MdpGhost |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 10:49:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939263674573 |
-| Players | 8/24 |
-| Host Name | tianyi3498 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 10:52:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939264195473 |
-| Players | 5/24 |
-| Host Name | TiltedGuy |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:53:41 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939264386295 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Port Patterson |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:54:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939264453059 |
-| Players | 3/8 |
-| Host Name | BadBunny |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 10:54:19 |
+| Lobby ID | 28574939264195473 |
+| Players | 7/24 |
+| Host Name | TiltedGuy |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 10:53:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939264700448 |
+| Players | 2/15 |
+| Host Name | NOSEEEEE |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 10:54:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939263674573 |
+| Players | 7/24 |
+| Host Name | tianyi3498 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 10:52:24 |
 
 
 |  | epic_boss_fight_nightmare |
