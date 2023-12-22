@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939517990450 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | リムルテンペスト |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:36:14 |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28574939517951413 |
 | Players | 4/24 |
-| Host Name | 1nvoken |
+| Host Name | Kiddo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:36:11 |
 
@@ -58,35 +58,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939518403727 |
-| Players | 2/8 |
-| Host Name | I`m |
+| Lobby ID | 28574939518684547 |
+| Players | 1/8 |
+| Host Name | Tokyo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:36:45 |
+| Lobby Creation Time | Friday, December 22, 2023 18:37:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28574939518537467 |
-| Players | 1/15 |
-| Host Name | boring |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 18:36:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939514500613 |
-| Players | 9/10 |
-| Host Name | Makoto Shishio |
+| Lobby ID | 28574939512163264 |
+| Players | 1/7 |
+| Host Name | _ЗаЙка_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:31:41 |
+| Lobby Creation Time | Friday, December 22, 2023 18:28:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939517300289 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 仔仔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:35:20 |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | УБИЙЦА МАЗАФАКАААААА |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 18:35:57 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28574939512163264 |
-| Players | 2/7 |
-| Host Name | _ЗаЙка_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:28:39 |
 
 
