@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939358629913 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | S'chizO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:12:46 |
@@ -18,24 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939359010779 |
-| Players | 13/15 |
-| Host Name | unleashed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:13:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939359647385 |
-| Players | 7/8 |
-| Host Name | why? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:14:44 |
 
 
 |  | ot3_gardens_duo |
@@ -51,9 +33,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28574939359612494 |
 | Players | 3/10 |
-| Host Name | Сосок_улитки |
+| Host Name | under the Influence |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:14:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939360726900 |
+| Players | 3/15 |
+| Host Name | moruxD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 14:16:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939360765664 |
+| Players | 3/8 |
+| Host Name | Kucher |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 14:16:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939360827617 |
+| Players | 5/8 |
+| Host Name | TU VIEJA LA PALO SECO |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 14:17:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939358889092 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:13:17 |
