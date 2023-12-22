@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939642040303 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | EUCHI MANO XD |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 20:47:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939782043163 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Chris P. Bacon |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 22, 2023 22:51:03 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939799988166 |
-| Players | 1/8 |
-| Host Name | Al1bi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:07:45 |
+| Lobby ID | 28574939800391784 |
+| Players | 4/15 |
+| Host Name | Jackie Chan |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 23:08:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939794504245 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 23:02:42 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939800052243 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | ✪K |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 23:07:49 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939800418615 |
+| Players | 3/10 |
+| Host Name | Search |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:08:10 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939800021532 |
-| Players | 4/8 |
-| Host Name | luckerock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:07:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939799590432 |
-| Players | 7/15 |
-| Host Name | Здраво |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:07:23 |
+| Lobby ID | 28574939798122870 |
+| Players | 5/8 |
+| Host Name | I want and must win-cloudy |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 23:06:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,42 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mode:Великий уксус |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:05:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939798673997 |
-| Players | 7/10 |
-| Host Name | Dead_Dragon |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 23:06:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939798122870 |
-| Players | 3/8 |
-| Host Name | I want and must win-cloudy |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 23:06:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939799994024 |
-| Players | 1/8 |
-| Host Name | КОЛБАСЁР |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:07:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939800145283 |
-| Players | 1/15 |
-| Host Name | 绝命猫 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 23:07:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -155,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 23:01:41 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28574939800181113 |
-| Players | 1/7 |
-| Host Name | алиса |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:07:56 |
+| Lobby ID | 28574939800480465 |
+| Players | 1/5 |
+| Host Name | Hunt Hoe-Down |
+| Region | INDIA |
+| Lobby Creation Time | Friday, December 22, 2023 23:08:13 |
 
 
