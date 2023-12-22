@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939395113964 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Psycho |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 15:21:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939397625252 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | BOBRA JA PIERDOLę JAKIE BYDLE |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 15:25:55 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939397834051 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | squirrel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:26:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939398406103 |
-| Players | 2/10 |
-| Host Name | Lucky |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 22, 2023 15:27:18 |
 
 
 |  | epic_boss_fight_nightmare |
