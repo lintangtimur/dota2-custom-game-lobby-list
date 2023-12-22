@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939490502121 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | emptinessりdead outsideスfeeli |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:58:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939490198969 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Golden Path Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:58:32 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939490017989 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 🕷 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:58:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939490082997 |
-| Players | 10/15 |
-| Host Name | Wit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:58:22 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 17:58:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939490452191 |
-| Players | 4/8 |
-| Host Name | blood rain嵐 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:58:53 |
+| Lobby ID | 28574939490679744 |
+| Players | 1/15 |
+| Host Name | 牛德华 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 17:59:13 |
 
 
 |  | epic_boss_fight_challenger |
