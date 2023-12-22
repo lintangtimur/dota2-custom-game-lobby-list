@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939347668747 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:50:59 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939348264337 |
+| Lobby ID | 28574939348797299 |
 | Players | 1/8 |
 | Host Name | Dill |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 13:52:11 |
+| Lobby Creation Time | Friday, December 22, 2023 13:53:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:50:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939348762807 |
+| Players | 1/5 |
+| Host Name | BABAYAGA |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 22, 2023 13:53:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939348820233 |
+| Players | 1/5 |
+| Host Name | мефедроновый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 13:53:20 |
 
 
