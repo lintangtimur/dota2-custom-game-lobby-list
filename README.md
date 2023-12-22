@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939699650045 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | L'ost |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 21:37:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939706125251 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | !Jamata |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 21:43:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939706912410 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | apocalypse |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 21:43:44 |
@@ -68,36 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939700632948 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Azn |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 21:38:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939705943510 |
-| Players | 14/15 |
-| Host Name | Odinn |
+| Lobby ID | 28574939707192694 |
+| Players | 7/8 |
+| Host Name | truly humble under god |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:42:53 |
+| Lobby Creation Time | Friday, December 22, 2023 21:43:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939706999672 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Gus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:43:48 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939707118988 |
-| Players | 1/5 |
-| Host Name | babe ojek |
+| Lobby ID | 28574939707495711 |
+| Players | 2/15 |
+| Host Name | My4enie |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 21:44:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939707182504 |
+| Players | 2/10 |
+| Host Name | Deiymos™ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 21:43:55 |
+| Lobby Creation Time | Friday, December 22, 2023 21:43:58 |
 
 
