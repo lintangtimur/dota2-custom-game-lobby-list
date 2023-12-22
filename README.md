@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939551507405 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | F12 | Neoxa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:16:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939548329890 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | batman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:13:08 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 19:10:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939551221914 |
-| Players | 14/15 |
-| Host Name | LEVI |
+| Lobby ID | 28574939550926062 |
+| Players | 6/10 |
+| Host Name | K0MaP |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:16:23 |
+| Lobby Creation Time | Friday, December 22, 2023 19:16:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pubo999 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939550926062 |
-| Players | 5/10 |
-| Host Name | K0MaP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:16:04 |
 
 
 |  | epic_boss_fight_hard |
