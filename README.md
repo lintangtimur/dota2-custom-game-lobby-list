@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939244088933 |
-| Players | 1/15 |
-| Host Name | ☛ babysmoker ( ° ͜ʖ͡°) ∩☻☻☻ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 10:08:56 |
+| Lobby ID | 28574939244657744 |
+| Players | 2/8 |
+| Host Name | Legendary Raccoon |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 10:10:12 |
 
 
 |  | ot3_gardens_duo |
@@ -49,29 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939244545678 |
-| Players | 10/15 |
-| Host Name | feedeoporplacer, no pordiversión |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:09:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28574939244774972 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Xibalba |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:10:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939244657744 |
-| Players | 3/8 |
-| Host Name | Legendary Raccoon |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 10:10:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939242779097 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:06:10 |
