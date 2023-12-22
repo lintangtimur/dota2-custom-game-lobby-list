@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939268287803 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | nicanica |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 11:02:52 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 11:04:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939268022517 |
-| Players | 22/24 |
-| Host Name | AJINOMEN PICANTEgiordota.com |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:02:17 |
+| Lobby ID | 28574939269136102 |
+| Players | 1/15 |
+| Host Name | NeDix! |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 11:04:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939268629055 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:03:38 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dont Be Sad :< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:04:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939269136102 |
-| Players | 1/15 |
-| Host Name | NeDix! |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 11:04:44 |
 
 
 |  | epic_boss_fight_nightmare |
