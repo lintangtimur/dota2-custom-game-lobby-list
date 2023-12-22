@@ -38,33 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:56:09 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939458403587 |
-| Players | 2/10 |
-| Host Name | ПЕРФОРАТОР2281337PRO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:10:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939456794099 |
-| Players | 13/24 |
-| Host Name | S |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 17:07:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939458279771 |
-| Players | 1/8 |
-| Host Name | Winter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:09:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939458198412 |
@@ -74,30 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 17:09:48 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939456794099 |
+| Players | 12/24 |
+| Host Name | S |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 17:07:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939458484564 |
-| Players | 5/8 |
-| Host Name | dyrachyo mode |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 17:10:16 |
+| Lobby ID | 28574939458279771 |
+| Players | 6/8 |
+| Host Name | Winter |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:09:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939457800902 |
-| Players | 1/10 |
-| Host Name | WAMN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 17:09:10 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28574939458487368 |
-| Players | 2/7 |
-| Host Name | Quavo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 17:10:16 |
+| Lobby ID | 28574939458572069 |
+| Players | 1/15 |
+| Host Name | 🅴 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 17:10:24 |
 
 
