@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236522941 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939322317082 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | clown master |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:58:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939322338266 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Donquixote Doflamingo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:58:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939324017612 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:02:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939323524997 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Angel |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:01:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939324432039 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | faint |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 13:03:09 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Makoto Shishio |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 12:49:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939324447796 |
-| Players | 1/5 |
-| Host Name | Kenn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 13:03:11 |
 
 
