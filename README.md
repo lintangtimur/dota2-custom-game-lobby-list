@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939642040303 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 20:47:02 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939766341025 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:36:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939772233929 |
-| Players | 7/15 |
-| Host Name | URO |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 22:41:59 |
+| Lobby ID | 28574939772557613 |
+| Players | 1/24 |
+| Host Name | †Uchiha Obito† |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 22:42:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939767476568 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Tima世界的 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:37:38 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939771878525 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Dotinha - Neoxa |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 22:41:39 |
@@ -122,19 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939772460151 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | DGL |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 22:42:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939772557613 |
-| Players | 1/24 |
-| Host Name | †Uchiha Obito† |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 22:42:17 |
+| Lobby ID | 28574939772710688 |
+| Players | 5/15 |
+| Host Name | RA707 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:42:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939772743433 |
+| Players | 5/8 |
+| Host Name | раб божий |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 22:42:27 |
 
 
 |  | epic_boss_fight_nightmare |
