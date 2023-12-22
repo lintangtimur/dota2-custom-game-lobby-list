@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939233239087 |
-| Players | 13/15 |
-| Host Name | BOTI Tobi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 09:44:34 |
+| Lobby ID | 28574939233474878 |
+| Players | 1/15 |
+| Host Name | Haktaru |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 09:45:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939233242383 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | DealtrenS |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 09:44:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939232190500 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | feedeoporplacer, no pordiversión |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 09:42:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939229885327 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 09:36:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939229040181 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Reaper  Γ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 22, 2023 09:35:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939233446516 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ✪gabi♥♥♥angie✪ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 09:45:02 |
