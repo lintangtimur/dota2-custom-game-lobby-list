@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939772316940 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:42:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939766341025 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:36:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939772557613 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | †Uchiha Obito† |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 22:42:17 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939771361719 |
-| Players | 9/10 |
-| Host Name | Everything love is |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 22:41:11 |
+| Lobby ID | 28574939773254557 |
+| Players | 4/10 |
+| Host Name | av213238 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:42:55 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939772952139 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | JHOANO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 22:42:38 |
@@ -112,44 +112,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939771977409 |
-| Players | 7/8 |
-| Host Name | sukuna prime |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 22, 2023 22:41:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939773134080 |
-| Players | 6/10 |
-| Host Name | раб божий |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 22:42:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939773165852 |
-| Players | 5/15 |
-| Host Name | Baobab |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:42:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939773038165 |
-| Players | 2/10 |
-| Host Name | Stepileemur |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:42:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28574939773272419 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | RUSMoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:42:56 |
@@ -157,11 +121,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939773254557 |
-| Players | 2/10 |
-| Host Name | av213238 |
+| Lobby ID | 28574939770110233 |
+| Players | 9/10 |
+| Host Name | Чипсоед |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:42:55 |
+| Lobby Creation Time | Friday, December 22, 2023 22:40:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939773165852 |
+| Players | 9/15 |
+| Host Name | Baobab |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:42:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939773612594 |
+| Players | 3/10 |
+| Host Name | CubaN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:43:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -180,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | =( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:43:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939773602513 |
+| Players | 1/10 |
+| Host Name | Gentlesiree |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 22:43:14 |
 
 
