@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939343650998 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Gollum999 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 13:42:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939354192611 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Mr.Bass |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 14:04:07 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 13:54:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939353687714 |
-| Players | 12/15 |
-| Host Name | Rofl Chick-Fil-A Copter |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 14:03:07 |
+| Lobby ID | 28574939354294851 |
+| Players | 1/8 |
+| Host Name | DIente de sable |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 14:04:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939353897265 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 簡單的遊戲 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:03:32 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Владелец |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:04:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939354262185 |
-| Players | 1/15 |
-| Host Name | ’Mr . Big |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 22, 2023 14:04:15 |
 
 
 |  | epic_boss_fight_nightmare |
