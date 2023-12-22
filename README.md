@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939421453331 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | Rock.Baby.Rock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:07:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939423141482 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | bwc |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 16:10:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939422761872 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | _PoLkOvNiK_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:10:13 |
@@ -36,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | learning curve |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 16:11:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939423404350 |
-| Players | 13/15 |
-| Host Name | Vanished |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:11:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939422221792 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | TORNADOOOOOOOOOOOOOOOOOOO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:09:17 |
