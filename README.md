@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939347937378 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:51:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939348268809 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | PIDROгидар |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 13:52:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939348181016 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Балдежный Пердеж |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:52:01 |
@@ -68,10 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939348797299 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dill |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:53:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939348877448 |
+| Players | 1/15 |
+| Host Name | JustChaaaoooS♕ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 13:53:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939348886240 |
+| Players | 1/10 |
+| Host Name | CORRALITO |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 22, 2023 13:53:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939348946258 |
+| Players | 3/8 |
+| Host Name | Егор Перфоратор |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 13:53:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,27 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939347324079 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:50:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939348762807 |
-| Players | 1/5 |
-| Host Name | BABAYAGA |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 22, 2023 13:53:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939348820233 |
-| Players | 1/5 |
-| Host Name | мефедроновый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 13:53:20 |
 
 
