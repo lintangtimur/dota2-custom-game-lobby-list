@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939301318743 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | Шкилет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:13:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939301421218 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | peruano promedio |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:13:58 |
@@ -68,9 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939300719326 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | FILIPINAS SAD :c |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:12:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939301854130 |
+| Players | 1/24 |
+| Host Name | ✿迅猛小老虎 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 12:14:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939297422222 |
+| Players | 23/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 12:05:35 |
 
 
