@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939397983697 |
-| Players | 1/15 |
-| Host Name | Arthas |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 15:26:33 |
+| Lobby ID | 28574939397772990 |
+| Players | 11/15 |
+| Host Name | Kulebyaka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 15:26:11 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939397997767 |
-| Players | 2/10 |
-| Host Name | gokirus |
+| Lobby ID | 28574939397950685 |
+| Players | 1/8 |
+| Host Name | 626 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:26:35 |
+| Lobby Creation Time | Friday, December 22, 2023 15:26:30 |
 
 
 |  | ot3_desert_octet |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939397834051 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | squirrel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:26:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939397772990 |
-| Players | 6/15 |
-| Host Name | Kulebyaka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:26:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939397950685 |
-| Players | 1/8 |
-| Host Name | 626 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:26:30 |
+| Lobby ID | 28574939398406103 |
+| Players | 2/10 |
+| Host Name | Lucky |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 15:27:18 |
 
 
 |  | epic_boss_fight_nightmare |
