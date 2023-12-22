@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939938314529 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 01:24:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939942513050 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | go susti de algoritmos |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:29:06 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939945157922 |
-| Players | 13/15 |
-| Host Name | шерстяной кот |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 01:31:55 |
+| Lobby ID | 28574939945948450 |
+| Players | 12/15 |
+| Host Name | Da Butchar |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 01:32:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939938468661 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 中年手残 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:24:45 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 01:31:21 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939942854503 |
-| Players | 23/24 |
-| Host Name | Soy El Corazon De Las Tinieblas |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 01:29:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939946072540 |
-| Players | 2/10 |
-| Host Name | the most successful person 2024 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:32:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939946100836 |
-| Players | 1/10 |
-| Host Name | домкаромка |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 01:32:55 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939945910041 |
@@ -101,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 01:32:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939945948450 |
-| Players | 1/15 |
-| Host Name | Da Butchar |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 01:32:46 |
+| Lobby ID | 28574939946072540 |
+| Players | 7/10 |
+| Host Name | the most successful person 2024 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:32:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939946380582 |
+| Players | 1/8 |
+| Host Name | Mituz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:33:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CLSMCSMII |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:28:22 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939946378943 |
+| Players | 1/5 |
+| Host Name | OnlyDizzy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:33:13 |
 
 
