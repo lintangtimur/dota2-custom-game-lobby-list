@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939673199796 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | на попей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:14:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939669023011 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | БалдыМалдыБар |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:11:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939668495140 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Feedytharex |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 21:10:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939667543897 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 21:09:51 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 21:14:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939673409424 |
-| Players | 1/8 |
-| Host Name | giant space crab |
+| Lobby ID | 28574939673620026 |
+| Players | 2/10 |
+| Host Name | El Yoba Desperado |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:14:59 |
+| Lobby Creation Time | Friday, December 22, 2023 21:15:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939673217696 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Skorbsss |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 21:14:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939673665944 |
+| Players | 1/8 |
+| Host Name | 你妈妈是个妓女 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 21:15:12 |
 
 
 |  | epic_boss_fight_nightmare |
