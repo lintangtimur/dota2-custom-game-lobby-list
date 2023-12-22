@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28574939333968223 |
 | Players | 1/24 |
-| Host Name | huh?.Sweetener |
+| Host Name | huh |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 13:22:54 |
 
@@ -20,28 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939332869422 |
-| Players | 5/8 |
-| Host Name | Kaydo亚瑟 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 13:20:33 |
+| Lobby ID | 28574939334371638 |
+| Players | 2/10 |
+| Host Name | Аналитик Титек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 13:23:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939332084120 |
-| Players | 6/15 |
-| Host Name | BirdBob |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 22, 2023 13:18:56 |
+| Lobby ID | 28574939334331429 |
+| Players | 3/15 |
+| Host Name | WoW |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 13:23:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939333887066 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Pachacutec |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:22:43 |
@@ -50,37 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939333767527 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | NederLandS26 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:22:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939334038206 |
-| Players | 1/10 |
-| Host Name | Я псих ебаный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 13:23:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939331879220 |
-| Players | 23/24 |
-| Host Name | Norinco |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 13:18:30 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939334160011 |
+| Lobby ID | 28574939334415040 |
 | Players | 1/15 |
-| Host Name | The Captain |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 22, 2023 13:23:19 |
+| Host Name | lickmysloppyflaps |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, December 22, 2023 13:23:55 |
 
 
 |  | epic_boss_fight_nightmare |
