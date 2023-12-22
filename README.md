@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939257844521 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | YA C БOГAMИ COВET DERZHY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 10:39:35 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236522941 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939258172955 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | jake69 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:40:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939256913854 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ☠ Kira Yoshikage☢ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 10:37:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939257681943 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | .Zabdiel Danko |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:39:13 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939258391359 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | cored1nation |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 10:40:48 |
