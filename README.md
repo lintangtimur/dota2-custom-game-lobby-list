@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939283447437 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 11:35:33 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 11:34:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939281067087 |
-| Players | 8/10 |
-| Host Name | НЕПОНЯТЫЙ НЕ Я |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 11:30:26 |
+| Lobby ID | 28574939283726415 |
+| Players | 6/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 11:36:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939283612478 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:35:54 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939283592192 |
-| Players | 2/15 |
-| Host Name | MIA KHALIFA |
+| Players | 1/15 |
+| Host Name | - # 尺 闩 工 乙 口 尺 # -. 问 ズ 问 尺 闩 √ |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 11:35:52 |
 
@@ -74,28 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 11:36:04 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939283726415 |
-| Players | 6/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 11:36:09 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939283744303 |
-| Players | 2/8 |
-| Host Name | Evoroni |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 11:36:11 |
+| Lobby ID | 28574939283838115 |
+| Players | 4/8 |
+| Host Name | van1ty |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 11:36:23 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939283319297 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:35:17 |
