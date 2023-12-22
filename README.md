@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939930862966 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | yessir |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:16:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939931585184 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | CHVP|Pro100 рак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:17:31 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 01:16:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939932030792 |
-| Players | 14/15 |
-| Host Name | ОКнутые люди |
+| Lobby ID | 28574939932504181 |
+| Players | 4/10 |
+| Host Name | Артем Черногорск |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:17:58 |
+| Lobby Creation Time | Saturday, December 23, 2023 01:18:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939932378181 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Anakin Panakin |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:18:20 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939932501126 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | арбуз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:18:28 |
@@ -114,24 +114,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28574939923688989 |
 | Players | 23/24 |
-| Host Name | PUPPEY-SAMA |
+| Host Name | TONTIN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:09:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939932504181 |
-| Players | 2/10 |
-| Host Name | Артем Черногорск |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:18:28 |
+| Lobby ID | 28574939932722677 |
+| Players | 1/8 |
+| Host Name | Punisher PMA |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 01:18:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939931462197 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SNG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:17:23 |
