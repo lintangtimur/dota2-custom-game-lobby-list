@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939358629913 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | S'chizO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:12:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939359612494 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | under the Influence |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:14:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939360765664 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Kucher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:16:55 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939360827617 |
-| Players | 5/8 |
-| Host Name | TU VIEJA LA PALO SECO |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 14:17:02 |
+| Lobby ID | 28574939360910659 |
+| Players | 3/8 |
+| Host Name | Hog Rider |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 14:17:11 |
 
 
 |  | epic_boss_fight_nightmare |
