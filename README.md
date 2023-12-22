@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939602053291 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | "&" |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 20:09:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939625061942 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Wukash |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 20:31:27 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:31:49 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939623218907 |
-| Players | 9/10 |
-| Host Name | MiKE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 20:29:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939625523522 |
+| Lobby ID | 28574939625798696 |
 | Players | 1/10 |
-| Host Name | Moon Knight |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 20:31:53 |
+| Host Name | ELLA NO TE AMA ENTIENDELO |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 20:32:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BRAZZERS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:31:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939625523522 |
+| Players | 1/10 |
+| Host Name | Moon Knight |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 20:31:53 |
 
 
