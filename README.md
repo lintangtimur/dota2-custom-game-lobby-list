@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939469112479 |
-| Players | 8/10 |
-| Host Name | ПИНДРКИНДР |
+| Lobby ID | 28574939469488812 |
+| Players | 8/15 |
+| Host Name | Jhek |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 17:27:09 |
+| Lobby Creation Time | Friday, December 22, 2023 17:27:44 |
 
 
 |  | ot3_desert_octet |
@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939469491520 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ¨Ç_-Gonza-_-4 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:27:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939469488812 |
-| Players | 6/15 |
-| Host Name | Jhek |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 17:27:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939467460407 |
-| Players | 23/24 |
-| Host Name | Loki Laufeyson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 17:24:30 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,18 +50,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939468474759 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | HOLO костя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:26:09 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28574939469605151 |
-| Players | 1/10 |
-| Host Name | lineage2.90 |
+| Lobby ID | 28574939469717443 |
+| Players | 1/7 |
+| Host Name | Unlucky |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:27:54 |
+| Lobby Creation Time | Friday, December 22, 2023 17:28:04 |
 
 
