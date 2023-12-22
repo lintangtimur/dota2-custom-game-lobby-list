@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 15:40:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939405422980 |
-| Players | 6/10 |
-| Host Name | WanderingSage |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 15:39:40 |
+| Lobby ID | 28574939404930596 |
+| Players | 2/8 |
+| Host Name | Nekat aja |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 15:38:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939405403519 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | VERSACE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:39:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939405513983 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Просто я Kira |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:39:49 |
@@ -40,11 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939404930596 |
-| Players | 2/8 |
-| Host Name | Nekat aja |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 15:38:48 |
+| Lobby ID | 28574939406569627 |
+| Players | 4/8 |
+| Host Name | æksiəˈmætɪk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 15:41:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939406708431 |
+| Players | 1/10 |
+| Host Name | ШРЭК |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 15:41:57 |
 
 
 |  | epic_boss_fight_nightmare |
