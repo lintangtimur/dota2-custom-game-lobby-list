@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939748133318 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | FinalBlow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:20:08 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:16:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939738713984 |
-| Players | 23/24 |
-| Host Name | †Uchiha Obito† |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 22:11:48 |
+| Lobby ID | 28574939747824452 |
+| Players | 7/10 |
+| Host Name | Like |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 22:19:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939745988762 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ROCK HARD |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 22, 2023 22:18:13 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939746924821 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ЭТО ВТОРОЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:19:03 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Senpai |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 22:16:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939747824452 |
-| Players | 3/10 |
-| Host Name | Like |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 22:19:51 |
 
 
 |  | ot3_gardens_duo |
@@ -153,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 悲しい |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:20:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939748309097 |
-| Players | 1/5 |
-| Host Name | Kioko81 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 22:20:17 |
 
 
