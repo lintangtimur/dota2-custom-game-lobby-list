@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939746267176 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | туалет крутится |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:18:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939753728343 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | 01010101001111 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 22:25:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939750464891 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | R1V3RZ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 22:22:12 |
@@ -95,25 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939754217719 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | ArtoftheStateAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:25:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939753673914 |
-| Players | 6/8 |
-| Host Name | Senpai |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 22:25:08 |
+| Lobby ID | 28574939754647584 |
+| Players | 10/15 |
+| Host Name | papi dirty |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 22:26:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939752546994 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | yeri mua :V la q trae los ... |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 22:24:05 |
@@ -137,13 +137,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:25:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939754647584 |
-| Players | 1/15 |
-| Host Name | papi dirty |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 22:26:02 |
+| Lobby ID | 28574939754726929 |
+| Players | 1/8 |
+| Host Name | Freddy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:26:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939754857697 |
+| Players | 3/8 |
+| Host Name | g.O.d |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 22, 2023 22:26:14 |
 
 
 |  | epic_boss_fight_nightmare |
