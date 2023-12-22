@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939302905184 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Bo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:17:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939304404348 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Crimson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:20:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939304206084 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | AFK |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:19:57 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939303827820 |
-| Players | 3/8 |
-| Host Name | cored1nation |
+| Players | 2/8 |
+| Host Name | Bapef |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:19:09 |
 
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 12:20:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939304688508 |
-| Players | 1/10 |
-| Host Name | whosyourdaddy |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 22, 2023 12:21:00 |
+| Lobby ID | 28574939304971705 |
+| Players | 7/8 |
+| Host Name | !! MoTo-MoTo !! |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:21:36 |
 
 
 |  | ot3_desert_octet |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Con Mèo |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 12:21:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939300719326 |
+| Players | 14/15 |
+| Host Name | FILIPINAS SAD :c |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:12:29 |
 
 
