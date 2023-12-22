@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939892140698 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | a fallen angel? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:36:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939891750793 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Eqqjezzkquz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:36:31 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939888976895 |
-| Players | 2/8 |
-| Host Name | [NOOBZ]for[FUN] |
+| Players | 1/8 |
+| Host Name | Corgi 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 00:33:44 |
 
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939892164456 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Geb Milson |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 00:36:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939891649784 |
-| Players | 7/8 |
-| Host Name | peruvian is back |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 00:36:25 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939890134159 |
-| Players | 8/10 |
-| Host Name | Иван Ящерица |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:34:53 |
+| Lobby ID | 28574939892269390 |
+| Players | 10/15 |
+| Host Name | Superdeterminist |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 00:37:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CLUE* |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 23, 2023 00:34:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939892405040 |
+| Players | 4/10 |
+| Host Name | W |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 00:37:10 |
 
 
