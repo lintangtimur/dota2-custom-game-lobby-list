@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939661569085 |
-| Players | 14/15 |
-| Host Name | 𝓪𝓲𝓶𝒆𝓻 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 21:04:36 |
+| Lobby ID | 28574939672374262 |
+| Players | 6/10 |
+| Host Name | Deiidream |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 21:14:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939642040303 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 20:47:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939670433791 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 21:12:23 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939672111096 |
-| Players | 4/8 |
-| Host Name | ABOBA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:13:50 |
+| Lobby ID | 28574939672285018 |
+| Players | 5/8 |
+| Host Name | Ferguson♥ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 21:13:59 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939671829354 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Colpaxe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:13:35 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939671906902 |
-| Players | 7/15 |
-| Host Name | Fungus the Bogeyman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:13:39 |
+| Lobby ID | 28574939672624486 |
+| Players | 1/15 |
+| Host Name | VOKA |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 21:14:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939670955787 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:12:50 |
