@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 19:30:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939564181387 |
-| Players | 6/10 |
-| Host Name | скибиди туалет |
+| Lobby ID | 28574939564567111 |
+| Players | 8/15 |
+| Host Name | fredogr |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 19:30:51 |
+| Lobby Creation Time | Friday, December 22, 2023 19:31:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939563648503 |
-| Players | 6/8 |
-| Host Name | denusar |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 19:30:16 |
+| Lobby ID | 28574939565251336 |
+| Players | 1/15 |
+| Host Name | 1102 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 19:32:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939561932974 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | JapaKama |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 19:28:24 |
@@ -50,18 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939564460267 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | BAZZIGAR |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 22, 2023 19:31:09 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28574939564568423 |
-| Players | 2/7 |
-| Host Name | zxc ДЖИГИД TV |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 19:31:16 |
 
 
