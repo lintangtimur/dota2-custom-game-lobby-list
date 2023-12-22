@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939846162451 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Desire |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 23:51:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939847259425 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 23:52:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939847898965 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | #DFined |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 23:53:09 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 23:50:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939848330485 |
-| Players | 8/15 |
-| Host Name | emoipbvj42o |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 23:53:35 |
+| Lobby ID | 28574939848322085 |
+| Players | 5/24 |
+| Host Name | Amado |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 23:53:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939848172779 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 23:53:25 |
@@ -122,37 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939847131322 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | wildfirezg |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 23:52:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939848436527 |
-| Players | 6/8 |
-| Host Name | я буду мстить |
+| Lobby ID | 28574939848884325 |
+| Players | 5/15 |
+| Host Name | Ake |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:53:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939848322085 |
-| Players | 4/24 |
-| Host Name | Amado |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 23:53:34 |
+| Lobby Creation Time | Friday, December 22, 2023 23:54:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939848787099 |
-| Players | 4/8 |
-| Host Name | WOLVERINE |
+| Lobby ID | 28574939848959769 |
+| Players | 1/8 |
+| Host Name | Тёма |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:54:03 |
+| Lobby Creation Time | Friday, December 22, 2023 23:54:13 |
 
 
 |  | epic_boss_fight_nightmare |
