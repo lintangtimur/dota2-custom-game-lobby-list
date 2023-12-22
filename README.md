@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939455556755 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | MALEBEL TYT?? |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:05:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939456761157 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | люблю кузочку |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:07:30 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939456755665 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Gay Fish |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:07:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939456794099 |
+| Players | 2/24 |
+| Host Name | S |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 17:07:33 |
 
 
 |  | epic_boss_fight_nightmare |
