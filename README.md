@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939550735484 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Skipeth-lolz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939688144574 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Kazune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 21:27:29 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939690681688 |
-| Players | 6/8 |
-| Host Name | Arcane Blink |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:29:40 |
+| Lobby ID | 28574939691225721 |
+| Players | 1/8 |
+| Host Name | CAMARADA CAPIBARA |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 21:30:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939691255437 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | MGNCITYSHUFFLE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:30:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939690624746 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Jag |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:29:37 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939691225721 |
+| Lobby ID | 28574939691612463 |
+| Players | 2/8 |
+| Host Name | L.L |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 21:30:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939691609771 |
 | Players | 1/8 |
-| Host Name | CAMARADA CAPIBARA |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 21:30:08 |
+| Host Name | похотливый тестомес |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 21:30:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 男人哭吧哭吧不是罪>.< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 21:27:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939691470933 |
+| Players | 1/5 |
+| Host Name | FAITH |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 21:30:21 |
 
 
