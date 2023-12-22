@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939495347724 |
-| Players | 1/15 |
-| Host Name | MIDNIGHT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:05:48 |
+| Lobby ID | 28574939495017471 |
+| Players | 5/8 |
+| Host Name | 417 ~:c |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 18:05:20 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:05:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939495352853 |
-| Players | 7/15 |
-| Host Name | Дрочеслав |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:05:48 |
+| Lobby ID | 28574939495629596 |
+| Players | 1/10 |
+| Host Name | ✪ AA |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 22, 2023 18:06:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | STICKY PLEMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:05:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939495654749 |
+| Players | 2/10 |
+| Host Name | Hentai? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:06:14 |
 
 
