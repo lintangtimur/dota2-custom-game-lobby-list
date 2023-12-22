@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939364688732 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Jim |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:24:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236522941 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939362556362 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Zanzibar |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 14:20:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939364351023 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | посмотреть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:23:59 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939364015306 |
-| Players | 1/8 |
-| Host Name | ultradrochun1 |
+| Lobby ID | 28574939364876151 |
+| Players | 7/8 |
+| Host Name | dinero |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:23:18 |
+| Lobby Creation Time | Friday, December 22, 2023 14:25:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,12 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:24:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939364968636 |
+| Players | 1/10 |
+| Host Name | WIZARD |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 22, 2023 14:25:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939362490002 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | PushTheTempo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:20:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939364815783 |
+| Players | 1/5 |
+| Host Name | PopSmoke |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 14:24:57 |
 
 
