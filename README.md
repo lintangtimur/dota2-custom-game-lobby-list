@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236522941 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939260323467 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Блядь ебаная |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 10:45:06 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 10:39:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939260620319 |
-| Players | 14/15 |
-| Host Name | SoyVIvo |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:45:45 |
+| Lobby ID | 28574939261413398 |
+| Players | 4/24 |
+| Host Name | DraelgNaI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 10:47:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939260683869 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | DRAGONBACK |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:45:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939260775687 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | why always me? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 10:46:05 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | stardust_ion |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 10:47:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939261413398 |
-| Players | 3/24 |
-| Host Name | DraelgNaI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 10:47:24 |
 
 
 |  | epic_boss_fight_nightmare |
