@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:12:07 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939516786439 |
-| Players | 5/10 |
-| Host Name | Solowind |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 18:34:40 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939516952060 |
@@ -56,6 +47,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:34:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939517203033 |
+| Players | 1/10 |
+| Host Name | MOVIDABUAAAAAAAA |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 18:35:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939514500613 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Makoto Shishio |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:31:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939517160028 |
+| Players | 1/5 |
+| Host Name | l |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:35:10 |
 
 
