@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:38:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939441602804 |
-| Players | 7/8 |
-| Host Name | Дауби Даубиев |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 16:42:23 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939441687309 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | АНТОХА ДЕКОЙ ЕБАШУ ЛЕВОЙ РУКОЙ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 16:42:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939441934616 |
+| Players | 5/8 |
+| Host Name | Bashkort malay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 16:42:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939440839442 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | BladerEgor |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:41:07 |
