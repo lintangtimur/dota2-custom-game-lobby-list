@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236522941 |
-| Players | 5/24 |
+| Players | 2/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939364464147 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | kaorimiyazono |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 14:24:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939364526917 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | ЄXѺҬӉЄГӍіС |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:24:21 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:22:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939364351023 |
-| Players | 14/15 |
-| Host Name | посмотреть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:23:59 |
+| Lobby ID | 28574939365136436 |
+| Players | 5/24 |
+| Host Name | Fabian! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 14:25:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PushTheTempo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:20:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939364815783 |
-| Players | 1/5 |
-| Host Name | PopSmoke |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:24:57 |
 
 
