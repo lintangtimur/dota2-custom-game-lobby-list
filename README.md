@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939923688989 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | PUPPEY-SAMA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:09:18 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939925192130 |
-| Players | 6/24 |
-| Host Name | Solace |
+| Players | 5/24 |
+| Host Name | The Last Element_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:10:52 |
 
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939923562453 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Midnight pulse is scuffed lethal |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:09:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939927341225 |
-| Players | 14/15 |
-| Host Name | Panzerjäger Tiger Elefant |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:13:06 |
+| Lobby ID | 28574939927665942 |
+| Players | 3/10 |
+| Host Name | FrankSaurios |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 01:13:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 01:08:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939927605997 |
-| Players | 4/10 |
-| Host Name | Лёха Доедалус |
+| Lobby ID | 28574939927888969 |
+| Players | 9/15 |
+| Host Name | Брахислав |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:13:23 |
+| Lobby Creation Time | Saturday, December 23, 2023 01:13:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939927489465 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | неформал лээ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:13:15 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939927658090 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:13:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939927680808 |
-| Players | 6/8 |
-| Host Name | СЫН ШИФТА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:13:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,19 +119,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 01:13:28 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939928186206 |
+| Players | 5/8 |
+| Host Name | Вова Адидас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:13:58 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939927665942 |
-| Players | 1/10 |
-| Host Name | FrankSaurios |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 01:13:26 |
+| Lobby ID | 28574939927086947 |
+| Players | 9/10 |
+| Host Name | Rayli |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:12:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939920351881 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | DontBeInsulted |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:05:54 |
@@ -162,23 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sora_no |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:07:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939925117866 |
-| Players | 2/10 |
-| Host Name | FGC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:10:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939923823863 |
-| Players | 3/5 |
-| Host Name | PANDA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:09:27 |
 
 
