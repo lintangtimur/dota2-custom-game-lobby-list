@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939804387240 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Xunse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 23:11:51 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939808754325 |
-| Players | 7/10 |
-| Host Name | MY NAME IS DARK NOT F |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 23:15:54 |
+| Lobby ID | 28574939809250693 |
+| Players | 2/10 |
+| Host Name | ddd25 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:16:22 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 23:01:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939808658733 |
-| Players | 4/8 |
-| Host Name | shadow fiend romantik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:15:49 |
+| Lobby ID | 28574939809135034 |
+| Players | 3/24 |
+| Host Name | TitinN |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 23:16:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939807911500 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | GloveBox |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 23:15:07 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939809121926 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | 口內射精 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:16:14 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939809135034 |
+| Lobby ID | 28574939809286787 |
 | Players | 2/24 |
-| Host Name | TitinN |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 23:16:15 |
+| Host Name | CtrlX |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:16:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ℻✡Run |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:13:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939809398954 |
+| Players | 1/10 |
+| Host Name | || Puppet™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 23:16:30 |
 
 
