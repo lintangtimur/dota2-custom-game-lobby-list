@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939722200449 |
-| Players | 7/8 |
-| Host Name | Justice Cyrax |
+| Lobby ID | 28574939722850725 |
+| Players | 5/8 |
+| Host Name | flipfromroof |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:57:16 |
+| Lobby Creation Time | Friday, December 22, 2023 21:57:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939721568074 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | xiaozhuzhu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 21:56:43 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939722662346 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Panzerjäger Tiger Elefant |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:57:41 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939720854668 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | грёбаные монголы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:56:04 |
@@ -149,19 +149,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939722703137 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | maksem4567 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:57:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939722850725 |
-| Players | 5/8 |
-| Host Name | flipfromroof |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:57:51 |
 
 
 |  | epic_boss_fight_challenger |
