@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939257266924 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | ABØL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 10:38:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939257515595 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | DGL |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:38:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939257124162 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | El vago de la Sunat |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:37:59 |
@@ -50,34 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939256816732 |
-| Players | 7/8 |
+| Players | 4/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:37:19 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939257362443 |
-| Players | 1/10 |
-| Host Name | tchitchinadze1 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 10:38:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939256562903 |
-| Players | 2/8 |
-| Host Name | pos 1 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 10:36:47 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939256913854 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ☠ Kira Yoshikage☢ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 10:37:32 |
@@ -85,19 +67,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939257544374 |
-| Players | 3/8 |
-| Host Name | Rinツ |
+| Lobby ID | 28574939256562903 |
+| Players | 7/8 |
+| Host Name | pos 1 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 10:36:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939257683009 |
+| Players | 1/24 |
+| Host Name | FÁCIL |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 10:39:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939257681943 |
+| Players | 2/24 |
+| Host Name | .Zabdiel Danko |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:38:55 |
+| Lobby Creation Time | Friday, December 22, 2023 10:39:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939257711109 |
+| Players | 1/10 |
+| Host Name | `ÐieHÃRÐ´ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 10:39:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939257255678 |
 | Players | 2/10 |
-| Host Name | Integration By Parts |
+| Host Name | At0miX$naKe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 10:38:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939257603748 |
+| Players | 1/10 |
+| Host Name | brook ブルック |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 10:39:03 |
 
 
