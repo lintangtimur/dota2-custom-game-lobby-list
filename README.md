@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:09:57 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939354598781 |
-| Players | 14/15 |
-| Host Name | ’Mr . Big |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:04:55 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939354509126 |
@@ -83,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:08:02 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939357866009 |
-| Players | 1/5 |
+| Lobby ID | 28574939357901088 |
+| Players | 1/10 |
 | Host Name | Limoncika |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:11:16 |
+| Lobby Creation Time | Friday, December 22, 2023 14:11:20 |
 
 
