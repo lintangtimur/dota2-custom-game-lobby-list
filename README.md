@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939297537808 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | FeeZy |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 12:05:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939297252556 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ElBromas |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:05:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939296518285 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | NIkol@s) |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:03:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939297338403 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | щпилиолох |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 12:05:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939297422222 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Eggtarts |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:05:35 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939297724394 |
-| Players | 2/10 |
-| Host Name | Matt馬特 |
+| Players | 4/10 |
+| Host Name | Perrolol |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:06:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939297724890 |
-| Players | 5/15 |
-| Host Name | L |
+| Lobby ID | 28574939297807309 |
+| Players | 1/10 |
+| Host Name | 霊 |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 12:06:14 |
+| Lobby Creation Time | Friday, December 22, 2023 12:06:24 |
 
 
 |  | epic_boss_fight_challenger |
