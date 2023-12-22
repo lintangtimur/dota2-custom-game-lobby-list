@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939602053291 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | "&" |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 20:09:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939625061942 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Wukash |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 20:31:27 |
@@ -86,10 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939629610277 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | кадыров пид |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 20:35:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939629624396 |
+| Players | 2/8 |
+| Host Name | SI TAN SOLO PUDIERA ESCRIBIR TMR |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 20:35:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939626554591 |
+| Players | 23/24 |
+| Host Name | RagingBurgers |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 20:32:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939629717450 |
+| Players | 5/8 |
+| Host Name | 木棉-PAC |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 20:35:46 |
 
 
 |  | epic_boss_fight_nightmare |
