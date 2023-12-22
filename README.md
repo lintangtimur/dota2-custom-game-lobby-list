@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939287648645 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Mr. Bean Bean |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:44:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939288909355 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ball w/o you |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:47:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939288076687 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Shinigami |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:45:29 |
