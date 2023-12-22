@@ -31,29 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939536634293 |
-| Players | 11/15 |
-| Host Name | khiyar sedam kon |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 18:59:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939536012327 |
-| Players | 7/8 |
-| Host Name | slow4yi |
+| Lobby ID | 28574939537235094 |
+| Players | 6/15 |
+| Host Name | s6xs6xs6x |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:58:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939536550161 |
-| Players | 8/24 |
-| Host Name | Albion  Playerღ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 18:59:29 |
+| Lobby Creation Time | Friday, December 22, 2023 19:00:18 |
 
 
 |  | ot3_desert_octet |
@@ -65,10 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:59:56 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939536550161 |
+| Players | 8/24 |
+| Host Name | Albion  Playerღ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 18:59:29 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939536592836 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:59:32 |
