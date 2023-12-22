@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939853450158 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Viejo Dotero |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 23:58:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939855339111 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | piensa pe chato |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 00:00:31 |
@@ -77,16 +77,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939855335342 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | 0,00001 Percent win? |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 00:00:31 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939856688455 |
+| Players | 1/24 |
+| Host Name | Stunodevoli |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 00:01:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939855263950 |
+| Players | 10/24 |
+| Host Name | asaka |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 00:00:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939856320085 |
+| Players | 12/15 |
+| Host Name | Смайл фейс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 00:01:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939855098755 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Bjuckler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:00:17 |
@@ -94,38 +121,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939855263950 |
-| Players | 7/24 |
-| Host Name | asaka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 00:00:27 |
+| Lobby ID | 28574939856503470 |
+| Players | 1/24 |
+| Host Name | Dong |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 00:01:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939856561149 |
+| Players | 2/15 |
+| Host Name | God Of Shit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 00:01:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939855307368 |
-| Players | 9/10 |
-| Host Name | Балдежный Пердеж |
+| Lobby ID | 28574939856836016 |
+| Players | 2/10 |
+| Host Name | cанта клаус |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:00:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939855699495 |
-| Players | 4/8 |
-| Host Name | ssstuuterrr |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, December 23, 2023 00:00:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939853656428 |
-| Players | 9/10 |
-| Host Name | xsilenser |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:58:53 |
+| Lobby Creation Time | Saturday, December 23, 2023 00:01:58 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,32 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hunt Hoe-Down |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 23, 2023 00:00:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939854757541 |
-| Players | 5/10 |
-| Host Name | ¸¸♬·¯·♩¸¸♪·¯·♫ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 23:59:57 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939856021180 |
-| Players | 1/5 |
-| Host Name | razengan2601 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:01:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939856067592 |
-| Players | 1/5 |
-| Host Name | Arvad; |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 00:01:14 |
 
 
