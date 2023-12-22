@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939478064504 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Jackie Chan |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 17:40:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939468272346 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Rezhik |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:25:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939476862397 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:38:54 |
@@ -45,5 +45,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | СЛОВО ПИРОЖКА |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:41:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939479012540 |
+| Players | 1/10 |
+| Host Name | HɅKɅRI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 17:42:08 |
 
 
