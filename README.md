@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939933072667 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | BP - 14 RG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:19:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939932291870 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 01:18:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939929321993 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | wasonbeat. |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:15:09 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939932501126 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | арбуз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:18:28 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939932961367 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | чучмек |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:18:57 |
@@ -135,6 +135,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kirraa- |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:19:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939933086703 |
+| Players | 1/10 |
+| Host Name | 76561199099226542 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:19:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939931559446 |
+| Players | 6/8 |
+| Host Name | lalo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:17:30 |
 
 
 |  | epic_boss_fight_nightmare |
