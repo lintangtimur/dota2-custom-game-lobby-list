@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939407458377 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | In Vigoss we trust! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:43:16 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939407663254 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Biborten! |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 15:43:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939404753837 |
-| Players | 14/15 |
-| Host Name | BringWoodAndOil |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 15:38:29 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939406401508 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 11 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:41:24 |
