@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939338904156 |
-| Players | 1/15 |
-| Host Name | WOODY |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 13:33:12 |
+| Lobby ID | 28574939338768962 |
+| Players | 2/24 |
+| Host Name | ㅋㅎㅋㅎ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 13:32:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939337862858 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 21mtd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:31:03 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HIM™ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:32:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939338768962 |
-| Players | 2/24 |
-| Host Name | ㅋㅎㅋㅎ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 13:32:55 |
 
 
 |  | epic_boss_fight_nightmare |
