@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939355003579 |
-| Players | 19/24 |
-| Host Name | 旺哥 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:05:42 |
+| Lobby ID | 28574939354598781 |
+| Players | 13/15 |
+| Host Name | ’Mr . Big |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 14:04:55 |
 
 
 |  | ot3_desert_octet |
@@ -23,37 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939358136438 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ПИДАРАС СТАРШИЙ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:11:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939355418118 |
-| Players | 9/10 |
-| Host Name | Soulwarrior |
+| Lobby ID | 28574939354509126 |
+| Players | 16/24 |
+| Host Name | miko |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 14:06:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939358050296 |
-| Players | 6/8 |
-| Host Name | Endsieg |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:11:37 |
+| Lobby Creation Time | Friday, December 22, 2023 14:04:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939354509126 |
-| Players | 14/24 |
-| Host Name | miko |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 14:04:44 |
+| Lobby ID | 28574939358629913 |
+| Players | 2/24 |
+| Host Name | Anjogs |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 14:12:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:48:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939358692937 |
+| Players | 1/5 |
+| Host Name | BABAYAGA |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 22, 2023 14:12:54 |
 
 
