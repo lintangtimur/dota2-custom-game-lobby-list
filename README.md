@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939496087583 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 神说天堂满了你去地狱 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:06:50 |
@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28574939498958372 |
 | Players | 2/10 |
-| Host Name | супный день алабая |
+| Host Name | biggest lul you ever saw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:10:47 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939498773462 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | bzm - bratva zameniaet miracla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:10:32 |
@@ -45,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gg |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 18:10:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939499096827 |
+| Players | 1/8 |
+| Host Name | ¨Ç_-Gonza-_-4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:10:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939499188247 |
+| Players | 2/15 |
+| Host Name | Gμa祭献了Ma,或者说Gμa没Ma。 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 18:11:06 |
 
 
 |  | epic_boss_fight_nightmare |
