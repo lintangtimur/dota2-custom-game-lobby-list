@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939642040303 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | EUCHI MANO XD |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 20:47:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939794504245 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 23:02:42 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939800052243 |
-| Players | 6/8 |
-| Host Name | ✪K |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 23:07:49 |
+| Lobby ID | 28574939797308755 |
+| Players | 3/8 |
+| Host Name | Mode:Великий уксус |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:05:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939800418615 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Search |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:08:10 |
@@ -86,19 +86,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939798122870 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | I want and must win-cloudy |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 23:06:02 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939800749715 |
+| Players | 4/10 |
+| Host Name | luckerock |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:08:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939797308755 |
-| Players | 3/8 |
-| Host Name | Mode:Великий уксус |
+| Lobby ID | 28574939800746529 |
+| Players | 1/8 |
+| Host Name | aasd |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:05:17 |
+| Lobby Creation Time | Friday, December 22, 2023 23:08:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939800764345 |
+| Players | 1/15 |
+| Host Name | no u |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 23:08:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939800788274 |
+| Players | 1/15 |
+| Host Name | Al1bi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:08:30 |
 
 
 |  | epic_boss_fight_nightmare |
