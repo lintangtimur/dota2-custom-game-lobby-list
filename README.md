@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236522941 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939378899010 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Psycho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:51:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939381378679 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Tribunal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:56:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939381835264 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Nelson 닉 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:57:13 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | < blank > |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 14:57:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939382194883 |
-| Players | 1/8 |
-| Host Name | PMA |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 14:57:52 |
 
 
 |  | epic_boss_fight_normal |
