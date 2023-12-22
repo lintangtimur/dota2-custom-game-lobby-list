@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:10:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939500805467 |
-| Players | 8/10 |
-| Host Name | ама рокстар попстар хуй встал |
+| Lobby ID | 28574939500441447 |
+| Players | 1/8 |
+| Host Name | Moves~ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:13:21 |
+| Lobby Creation Time | Friday, December 22, 2023 18:12:51 |
 
 
 |  | ot3_desert_octet |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939499532408 |
-| Players | 5/15 |
-| Host Name | KaKa SeFiD |
+| Lobby ID | 28574939501408611 |
+| Players | 3/15 |
+| Host Name | В доме 8/16 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:11:35 |
+| Lobby Creation Time | Friday, December 22, 2023 18:14:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939500885313 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Rock.Baby.Rock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:13:27 |
@@ -65,37 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:12:31 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939501022909 |
-| Players | 2/8 |
-| Host Name | Dicrocelum |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 18:13:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939500441447 |
-| Players | 6/8 |
-| Host Name | Moves~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:12:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939501222903 |
-| Players | 3/8 |
-| Host Name | WOU |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:13:54 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939498750465 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 谜兔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:10:30 |
