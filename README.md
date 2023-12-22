@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:51:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939552890338 |
-| Players | 7/8 |
-| Host Name | Cago |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:18:15 |
+| Lobby ID | 28574939550735484 |
+| Players | 7/15 |
+| Host Name | Pubo999 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939553262347 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | scary goon 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:18:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939550893418 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Plastic Pop can |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:16:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939550061598 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Mety |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 19:15:05 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:10:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939550735484 |
-| Players | 7/15 |
-| Host Name | Pubo999 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939553505577 |
-| Players | 2/10 |
-| Host Name | muteallchat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:18:56 |
 
 
 |  | epic_boss_fight_hard |
