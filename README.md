@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939272143770 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ScrotusTheCat |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 11:11:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236522941 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939272230759 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | корейская шл.ха и |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 11:11:15 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939273401615 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:13:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939272674394 |
-| Players | 14/15 |
-| Host Name | NoVa/NeNet< |
+| Lobby ID | 28574939273549239 |
+| Players | 3/24 |
+| Host Name | Lu |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:12:13 |
+| Lobby Creation Time | Friday, December 22, 2023 11:14:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Pejerrete |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:10:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939273549239 |
-| Players | 2/24 |
-| Host Name | Lu |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:14:05 |
 
 
 |  | epic_boss_fight_nightmare |
