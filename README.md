@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939593878332 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | 󠀡󠀡 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 20:01:37 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939592950712 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | KA LE |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 20:00:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939593459817 |
-| Players | 23/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 20:01:12 |
+| Lobby ID | 28574939595953697 |
+| Players | 5/8 |
+| Host Name | Обито Учиуа |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 20:03:39 |
 
 
 |  | ot3_gardens_duo |
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939595493247 |
-| Players | 9/15 |
-| Host Name | Kpo/\uk_B_KpoBaTu |
+| Players | 12/15 |
+| Host Name | HEBO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:03:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939595741161 |
-| Players | 9/10 |
-| Host Name | Ltpw01 |
+| Lobby ID | 28574939596413953 |
+| Players | 2/10 |
+| Host Name | Томас |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 20:03:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939595953697 |
-| Players | 4/8 |
-| Host Name | Обито Учиуа |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 20:03:39 |
+| Lobby Creation Time | Friday, December 22, 2023 20:04:06 |
 
 
 |  | epic_boss_fight_normal |
