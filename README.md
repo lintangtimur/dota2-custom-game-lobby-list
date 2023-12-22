@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939470803951 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | bwc |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 17:29:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939468272346 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Rezhik |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:25:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939469985175 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ку ку |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:28:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939470024253 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Pinkie Pie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:28:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939470593958 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | СИСЯН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:29:25 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Los extraterrestres |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 17:29:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939471077123 |
+| Players | 1/15 |
+| Host Name | 我希望有一个如你一般的人 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Friday, December 22, 2023 17:30:10 |
 
 
