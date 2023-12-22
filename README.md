@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939321096020 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | O Pai |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 12:56:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939322317082 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | clown master |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:58:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939322338266 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Donquixote Doflamingo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:58:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939324693927 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | .... |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:03:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939324719301 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:03:45 |
