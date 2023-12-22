@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939865454021 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Hombre chambeador |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 00:10:21 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939865514140 |
-| Players | 9/10 |
-| Host Name | mrrahimgoddamn |
+| Lobby ID | 28574939867581917 |
+| Players | 3/10 |
+| Host Name | Avaci |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:10:24 |
+| Lobby Creation Time | Saturday, December 23, 2023 00:12:24 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939866346705 |
-| Players | 9/24 |
+| Players | 16/24 |
 | Host Name | nakedave36 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 00:11:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939862139677 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | cada vez mas disociado |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 00:07:07 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939867013623 |
-| Players | 2/8 |
-| Host Name | AbyKrolik |
+| Lobby ID | 28574939867475721 |
+| Players | 3/8 |
+| Host Name | myk |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 00:11:51 |
+| Lobby Creation Time | Saturday, December 23, 2023 00:12:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939866808854 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | uselessuselessuselessuseless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:11:39 |
@@ -128,49 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 00:11:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939867479597 |
-| Players | 1/15 |
-| Host Name | mes two |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 00:12:18 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939867475721 |
-| Players | 2/8 |
-| Host Name | myk |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 00:12:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939867511131 |
-| Players | 1/15 |
-| Host Name | eL OE |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 00:12:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939867528616 |
-| Players | 2/8 |
-| Host Name | tati |
+| Lobby ID | 28574939868013454 |
+| Players | 1/8 |
+| Host Name | Доброхук Пуджови |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:12:21 |
+| Lobby Creation Time | Saturday, December 23, 2023 00:12:50 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939865736493 |
-| Players | 1/5 |
-| Host Name | Hunt Hoe-Down |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, December 23, 2023 00:10:37 |
+| Lobby ID | 28574939866773061 |
+| Players | 2/10 |
+| Host Name | Amazon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 00:11:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -193,19 +166,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939866773061 |
-| Players | 2/10 |
-| Host Name | Amazon |
+| Lobby ID | 28574939858337137 |
+| Players | 8/10 |
+| Host Name | ChatGPT andrewfhg |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 00:11:37 |
+| Lobby Creation Time | Saturday, December 23, 2023 00:03:26 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939866887711 |
-| Players | 1/5 |
-| Host Name | Save me before i fall. |
+| Lobby ID | 28574939868100418 |
+| Players | 1/10 |
+| Host Name | FGC |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:11:44 |
+| Lobby Creation Time | Saturday, December 23, 2023 00:12:55 |
 
 
