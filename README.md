@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939898949393 |
-| Players | 14/15 |
-| Host Name | PowerJebada |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, December 23, 2023 00:43:47 |
+| Lobby ID | 28574939901254767 |
+| Players | 1/8 |
+| Host Name | Anux1 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 00:46:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939895354424 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | I Love Low |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 00:40:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939897353493 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | X-ART |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 00:42:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939900715283 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | twitch.tv/4beelka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:45:36 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939901124126 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Pro100Ruslan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:46:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939901266581 |
+| Players | 2/8 |
+| Host Name | KILLEP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 00:46:10 |
 
 
 |  | epic_boss_fight_nightmare |
