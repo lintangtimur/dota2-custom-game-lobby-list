@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:03:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939418445946 |
-| Players | 4/10 |
-| Host Name | EROS |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 16:02:46 |
+| Lobby ID | 28574939418816579 |
+| Players | 3/24 |
+| Host Name | 马季福奇 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 16:03:25 |
 
 
 |  | ot3_desert_octet |
@@ -32,28 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939418029073 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | tv/wotergate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:02:01 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939418231094 |
-| Players | 5/8 |
-| Host Name | чича |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:02:23 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939418723781 |
+| Lobby ID | 28574939418827252 |
 | Players | 1/24 |
 | Host Name | 暴走的小喵 |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 22, 2023 16:03:15 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 16:03:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939418759533 |
+| Players | 9/15 |
+| Host Name | Али |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 16:03:19 |
 
 
 |  | epic_boss_fight_challenger |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939418256810 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | back to genshin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:02:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939419040859 |
+| Players | 1/10 |
+| Host Name | PushTheTempo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 16:03:48 |
 
 
