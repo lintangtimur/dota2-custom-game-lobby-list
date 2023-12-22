@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:58:04 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939451356878 |
-| Players | 1/15 |
-| Host Name | DAMN! |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Friday, December 22, 2023 16:58:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939451437770 |
-| Players | 2/8 |
-| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 16:58:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939451514919 |
@@ -72,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:58:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939451437770 |
+| Players | 3/8 |
+| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 16:58:50 |
 
 
 |  | epic_boss_fight_nightmare |
