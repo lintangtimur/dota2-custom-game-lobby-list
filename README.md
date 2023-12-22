@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939343650998 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Gollum999 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 13:42:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939354598781 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | ’Mr . Big |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:04:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939354216001 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | deeeeeepsil |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:04:10 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939354792382 |
+| Lobby ID | 28574939355003579 |
 | Players | 2/24 |
 | Host Name | White T. Poison |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:05:17 |
+| Lobby Creation Time | Friday, December 22, 2023 14:05:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:48:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939351486127 |
-| Players | 9/10 |
-| Host Name | [ちは一族] Uchiha obito |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 13:58:48 |
 
 
 |  | epic_boss_fight_nightmare |
