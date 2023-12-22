@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939291756059 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | 6T9 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:53:23 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 11:50:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939291864451 |
-| Players | 1/24 |
-| Host Name | MAIDERINO |
+| Lobby ID | 28574939292890565 |
+| Players | 4/15 |
+| Host Name | G O D |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:53:38 |
+| Lobby Creation Time | Friday, December 22, 2023 11:55:59 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939292794395 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | чипсеки) |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 11:55:46 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 11:55:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939292890565 |
-| Players | 2/15 |
-| Host Name | G O D |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:55:59 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939292617014 |
@@ -99,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tommy Shelby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 11:55:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939293046185 |
+| Players | 1/10 |
+| Host Name | Maharaja Lawana |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 11:56:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939293079311 |
+| Players | 1/5 |
+| Host Name | TORNADOOOOOOOOOOOOOOOOOOO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 11:56:24 |
 
 
