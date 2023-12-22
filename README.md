@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939498773462 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | bzm - bratva zameniaet miracla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:10:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939499096827 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ¨Ç_-Gonza-_-4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:10:59 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939499188247 |
+| Lobby ID | 28574939499306255 |
 | Players | 2/15 |
 | Host Name | Gμa祭献了Ma,或者说Gμa没Ma。 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 18:11:06 |
+| Lobby Creation Time | Friday, December 22, 2023 18:11:16 |
 
 
 |  | epic_boss_fight_nightmare |
