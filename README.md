@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939782043163 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | RedFox 11 |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 22, 2023 22:51:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939794504245 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 23:02:42 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939796798781 |
-| Players | 7/15 |
-| Host Name | Pickle |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:04:49 |
+| Lobby ID | 28574939797118390 |
+| Players | 2/15 |
+| Host Name | Riohey |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 23:05:07 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939796573490 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | a thousand heads higher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:04:36 |
@@ -110,22 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 23:04:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939779532988 |
-| Players | 23/24 |
-| Host Name | 1k Mycop |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 22:48:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939796975587 |
-| Players | 2/10 |
-| Host Name | Riohey |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 23:04:59 |
+| Lobby ID | 28574939797001467 |
+| Players | 1/8 |
+| Host Name | Nevermore better. |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, December 22, 2023 23:05:00 |
 
 
 |  | epic_boss_fight_normal |
