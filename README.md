@@ -40,38 +40,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939915516516 |
+| Lobby ID | 28574939915684043 |
+| Players | 1/8 |
+| Host Name | zo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:01:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939915757473 |
 | Players | 1/8 |
 | Host Name | behzadflh |
 | Region | DUBAI |
-| Lobby Creation Time | Saturday, December 23, 2023 01:00:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939914994073 |
-| Players | 12/15 |
-| Host Name | PewPew |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 01:00:22 |
+| Lobby Creation Time | Saturday, December 23, 2023 01:01:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939913643947 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | locotto |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 00:58:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939912636792 |
-| Players | 7/8 |
-| Host Name | Toss a coin to your Witcher |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 00:57:56 |
+| Lobby ID | 28574939915490533 |
+| Players | 7/10 |
+| Host Name | Shevrassa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:00:54 |
 
 
 |  | ot3_desert_octet |
@@ -86,34 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939915112629 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | NtelOnt |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:00:29 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939915463735 |
-| Players | 1/8 |
-| Host Name | zo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:00:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939915490533 |
-| Players | 5/10 |
-| Host Name | Shevrassa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:00:54 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939905119405 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | crestfallen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:50:05 |
