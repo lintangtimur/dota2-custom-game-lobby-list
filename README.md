@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939678843662 |
-| Players | 7/15 |
-| Host Name | ☢ Lucky ☢ |
+| Players | 14/15 |
+| Host Name | полицейский доты |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 21:19:29 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939550735484 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Skipeth-lolz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939676797013 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | MakimaGOD |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 21:17:51 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939663480954 |
-| Players | 9/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 21:06:17 |
+| Lobby ID | 28574939679609529 |
+| Players | 6/10 |
+| Host Name | SashkaXvorost |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 21:20:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939670441537 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Chefir |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:12:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939679363586 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | легенда доты |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:19:54 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939679481994 |
-| Players | 1/24 |
-| Host Name | Nero |
+| Lobby ID | 28574939679575750 |
+| Players | 2/24 |
+| Host Name | chill doto |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 21:20:00 |
+| Lobby Creation Time | Friday, December 22, 2023 21:20:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939679639174 |
+| Players | 3/15 |
+| Host Name | KOPO6-OK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 21:20:08 |
 
 
 |  | epic_boss_fight_nightmare |
