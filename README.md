@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:47:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939811133243 |
-| Players | 4/8 |
-| Host Name | ivoxygen |
+| Lobby ID | 28574939811574324 |
+| Players | 5/10 |
+| Host Name | Meruar |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:18:06 |
+| Lobby Creation Time | Friday, December 22, 2023 23:18:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939809497977 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 23:16:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939811092879 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Mouches Volantes |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 23:18:04 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939811016119 |
-| Players | 4/15 |
-| Host Name | VelinÐ |
+| Players | 3/15 |
+| Host Name | BRAZINO O JOGO DA GALERA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 23:17:59 |
 
@@ -128,6 +128,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 23:18:04 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939810885990 |
+| Players | 9/10 |
+| Host Name | StoleMadjija® |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 23:17:52 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939805842150 |
@@ -135,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ℻✡Run |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:13:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939809398954 |
-| Players | 1/10 |
-| Host Name | CokCokCokCokCok |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 23:16:30 |
 
 
