@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939261031598 |
-| Players | 1/24 |
-| Host Name | DraelgNaI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 10:46:38 |
+| Lobby ID | 28574939261341411 |
+| Players | 3/10 |
+| Host Name | bored of every1 griefing |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 10:47:16 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939260912815 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | magnus did nothing wrong |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:46:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939257683009 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | #W Kiwi € / \♥ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:39:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939260620319 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | SoyVIvo |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:45:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939260683869 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | DRAGONBACK |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:45:53 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 10:46:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939260823050 |
-| Players | 13/15 |
-| Host Name | СРУНИШКА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 10:46:11 |
+| Lobby ID | 28574939261434659 |
+| Players | 1/8 |
+| Host Name | Richi Rage |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 10:47:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939261341411 |
-| Players | 1/10 |
-| Host Name | bored of every1 griefing |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 10:47:16 |
+| Lobby ID | 28574939261413398 |
+| Players | 1/24 |
+| Host Name | DraelgNaI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 10:47:24 |
 
 
 |  | epic_boss_fight_nightmare |
