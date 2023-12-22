@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939756841296 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Annoying Gymnast |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 22:28:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939746267176 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | туалет крутится |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:18:28 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:24:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939750464891 |
-| Players | 23/24 |
-| Host Name | R1V3RZ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 22:22:12 |
+| Lobby ID | 28574939757162354 |
+| Players | 3/15 |
+| Host Name | ивангай |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:28:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939756742198 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 22:27:56 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:25:38 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28574939752120002 |
-| Players | 9/10 |
-| Host Name | Andreas Maler |
+| Lobby ID | 28574939755754345 |
+| Players | 1/5 |
+| Host Name | × WΛSTΣD × |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:23:41 |
+| Lobby Creation Time | Friday, December 22, 2023 22:27:03 |
 
 
 |  | epic_boss_fight_hard |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Лоперамид |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 22:28:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939755754345 |
-| Players | 1/5 |
-| Host Name | × WΛSTΣD × |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:27:03 |
 
 
