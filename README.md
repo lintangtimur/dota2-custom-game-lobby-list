@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939326779870 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 13:07:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939324017612 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:02:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939326691090 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Ебур Оссию |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:07:48 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ScrotusTheCat |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 13:08:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939326999253 |
+| Players | 2/15 |
+| Host Name | choka smoka |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 13:08:26 |
 
 
 |  | epic_boss_fight_nightmare |
