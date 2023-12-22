@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939366319859 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | https://www.twitch.tv/goodvil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:27:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939362556362 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | [Oz_GT] |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 14:20:24 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939366831574 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | VOIDXII |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:28:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939366924247 |
-| Players | 1/15 |
-| Host Name | @macroxD |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 14:29:01 |
 
 
 |  | epic_boss_fight_nightmare |
