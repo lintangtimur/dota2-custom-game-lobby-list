@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939364782417 |
-| Players | 1/15 |
-| Host Name | 只有小弟的技术 却有当大哥的心 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Friday, December 22, 2023 14:24:53 |
+| Lobby ID | 28574939367838082 |
+| Players | 5/15 |
+| Host Name | Бешкетник |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 14:30:45 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939367307084 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Endsieg |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:29:46 |
@@ -40,37 +40,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939366831574 |
-| Players | 11/15 |
-| Host Name | VOIDXII |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:28:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939363405985 |
-| Players | 5/24 |
-| Host Name | Mediumrurr |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 14:22:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28574939367597907 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | 󠀡󠀡Norton |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 14:30:18 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939365681167 |
-| Players | 8/10 |
-| Host Name | FEITAN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:26:40 |
+| Lobby ID | 28574939363405985 |
+| Players | 7/24 |
+| Host Name | Mediumrurr |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 14:22:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939367711368 |
+| Players | 2/24 |
+| Host Name | Ayesha♥♥♥ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 14:30:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939367984486 |
+| Players | 1/5 |
+| Host Name | Танк Т-1000-7 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 14:31:01 |
 
 
