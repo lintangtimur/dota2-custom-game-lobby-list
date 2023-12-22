@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939319313303 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | MIRAGE |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:52:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939318175369 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Grim |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:49:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939319130440 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | .neff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:51:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939319481832 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:52:30 |
@@ -59,16 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939319576260 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | 雨墨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:52:43 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939315002287 |
+| Players | 22/24 |
+| Host Name | Monty |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 12:43:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939318121627 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Hixl |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 12:49:36 |
