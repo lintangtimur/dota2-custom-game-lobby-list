@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939287738340 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:44:45 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939287860700 |
-| Players | 12/15 |
-| Host Name | Dark Monn |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:45:01 |
+| Lobby ID | 28574939289103074 |
+| Players | 8/15 |
+| Host Name | DomiGrom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 11:47:38 |
 
 
 |  | ot3_gardens_duo |
@@ -68,25 +68,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939288909355 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ball w/o you |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:47:14 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939289741128 |
+| Players | 5/24 |
+| Host Name | magus..... |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 11:48:58 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939289103074 |
-| Players | 5/15 |
-| Host Name | DomiGrom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 11:47:38 |
+| Lobby ID | 28574939289753373 |
+| Players | 1/15 |
+| Host Name | Maik |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 11:49:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939288076687 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Shinigami |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:45:29 |
