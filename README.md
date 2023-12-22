@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939274505424 |
-| Players | 6/8 |
-| Host Name | Mando |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 22, 2023 11:16:08 |
+| Lobby ID | 28574939275454782 |
+| Players | 3/8 |
+| Host Name | AFK |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 11:18:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939275381142 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:17:59 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939274886176 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Grieving Soul |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 11:16:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939275454782 |
-| Players | 1/8 |
-| Host Name | AFK |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:18:08 |
 
 
 |  | epic_boss_fight_nightmare |
