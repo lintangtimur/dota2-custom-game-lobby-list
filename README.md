@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939449862540 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 16:56:12 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939458572069 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 🅴 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 17:10:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939460334637 |
-| Players | 4/8 |
-| Host Name | [skuf] lsh1ft3r |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:13:13 |
+| Lobby ID | 28574939461454015 |
+| Players | 1/15 |
+| Host Name | Horny ??? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 17:14:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939460919257 |
-| Players | 3/24 |
+| Players | 9/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:14:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939461320790 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | HOLO костя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:14:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939461381635 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | crybaby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:14:51 |
@@ -95,16 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939461401164 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 惊梦 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 17:14:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939460045656 |
+| Players | 9/10 |
+| Host Name | niotartnecnoC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:12:46 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28574939459243696 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Pachunya |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:11:29 |
