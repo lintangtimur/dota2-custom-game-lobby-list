@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939403330747 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | посмотреть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:36:01 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939403077627 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | MikeLangelo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:35:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939404512801 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | HeHe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:38:04 |
@@ -49,19 +49,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939400978430 |
-| Players | 1/10 |
-| Host Name | .G |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 15:31:52 |
+| Lobby ID | 28574939404258449 |
+| Players | 5/10 |
+| Host Name | Mr. BnN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 15:37:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939404258449 |
-| Players | 3/10 |
-| Host Name | Mr. BnN |
+| Lobby ID | 28574939402669246 |
+| Players | 9/10 |
+| Host Name | back to genshin |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 15:37:37 |
+| Lobby Creation Time | Friday, December 22, 2023 15:34:51 |
 
 
