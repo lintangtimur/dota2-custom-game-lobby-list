@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236522941 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939267637623 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Sunset |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:01:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939268870844 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | D. Dagrepont |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:04:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939268022517 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | AJINOMEN PICANTEgiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:02:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939268433634 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 11:03:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939267825499 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | `ÐieHÃRÐ´ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:01:51 |
@@ -95,10 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939268803358 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Союзник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 11:04:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939269171433 |
+| Players | 1/24 |
+| Host Name | Dont Be Sad :< |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 11:04:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939269136102 |
+| Players | 1/15 |
+| Host Name | NeDix! |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 11:04:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939269246592 |
+| Players | 1/8 |
+| Host Name | ` |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 11:04:59 |
 
 
 |  | epic_boss_fight_nightmare |
