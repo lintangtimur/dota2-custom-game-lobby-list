@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939326779870 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 13:07:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939330026325 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Rofl Chick-Fil-A Copter |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 13:14:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939328998949 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:12:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939330775005 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Nemro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:16:13 |
