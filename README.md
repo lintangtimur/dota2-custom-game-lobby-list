@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939449862540 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 16:56:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939456794099 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:07:33 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939459777014 |
-| Players | 3/15 |
-| Host Name | UNИAMED |
+| Players | 4/15 |
+| Host Name | ЯНА  120 КГ ЯРОСТИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:12:20 |
 
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LKO MR |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:12:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939460045656 |
+| Players | 3/10 |
+| Host Name | niotartnecnoC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:12:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939460334637 |
+| Players | 3/8 |
+| Host Name | [skuf] lsh1ft3r |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:13:13 |
 
 
 |  | epic_boss_fight_challenger |
@@ -104,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939459226122 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Thuthitha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:11:27 |
