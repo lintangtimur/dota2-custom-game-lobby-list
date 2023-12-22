@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939550735484 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Skipeth-lolz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939758980741 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ✪K |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:29:56 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939759286140 |
+| Lobby ID | 28574939760063712 |
 | Players | 1/8 |
-| Host Name | real sigma |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:30:13 |
+| Host Name | MA BOY |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 22:30:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:30:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939758455314 |
-| Players | 8/15 |
-| Host Name | danling |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 22:29:28 |
+| Lobby ID | 28574939759274287 |
+| Players | 1/24 |
+| Host Name | El Tio Juanchi CHI PAPÁ |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 22:30:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939758601736 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Holi |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 22:29:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939758857669 |
-| Players | 4/24 |
+| Players | 11/24 |
 | Host Name | E |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:29:49 |
@@ -101,13 +101,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:28:35 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939759583556 |
+| Players | 9/10 |
+| Host Name | DeadAngel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:30:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939759636690 |
+| Players | 5/15 |
+| Host Name | tony slark |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 22:30:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939759661931 |
+| Players | 9/15 |
+| Host Name | GHOST |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:30:33 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939759274287 |
+| Lobby ID | 28574939759781715 |
 | Players | 1/24 |
-| Host Name | El Tio Juanchi CHI PAPÁ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 22:30:12 |
+| Host Name | Nimetal |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 22, 2023 22:30:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939759974194 |
+| Players | 1/8 |
+| Host Name | Ваня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:30:50 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939757450169 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | HI? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:28:34 |
@@ -135,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | snzrb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:30:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939759506233 |
+| Players | 2/5 |
+| Host Name | PowerJebada |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 22, 2023 22:30:25 |
 
 
