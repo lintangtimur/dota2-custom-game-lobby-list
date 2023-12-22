@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939341493436 |
-| Players | 23/24 |
-| Host Name | Crunchypopo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 13:38:29 |
+| Lobby ID | 28574939344789300 |
+| Players | 2/15 |
+| Host Name | Dance Macabre |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 13:45:16 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939342556803 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:40:42 |
@@ -67,26 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939343548042 |
-| Players | 7/8 |
-| Host Name | ТУРБО ИШАК |
+| Lobby ID | 28574939345025538 |
+| Players | 1/8 |
+| Host Name | daive |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 13:42:43 |
+| Lobby Creation Time | Friday, December 22, 2023 13:45:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939344789300 |
-| Players | 1/15 |
-| Host Name | Dance Macabre |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 13:45:16 |
+| Lobby ID | 28574939345122250 |
+| Players | 1/8 |
+| Host Name | clown master |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 13:45:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939343722471 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Wang Taupik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:43:04 |
