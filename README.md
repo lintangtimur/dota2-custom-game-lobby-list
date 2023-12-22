@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939409238938 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | WEAK123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:46:26 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939409173821 |
-| Players | 9/10 |
-| Host Name | Løgan |
+| Lobby ID | 28574939410061180 |
+| Players | 2/10 |
+| Host Name | enjoy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:46:19 |
+| Lobby Creation Time | Friday, December 22, 2023 15:47:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939409892123 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Doctor Billy |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 15:47:33 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | квас секс эскорт |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 15:47:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939410061180 |
-| Players | 2/10 |
-| Host Name | enjoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:47:51 |
 
 
 |  | epic_boss_fight_nightmare |
