@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939929449416 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Gromm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:15:17 |
@@ -32,28 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939936646066 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Vitu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:22:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939937536846 |
-| Players | 11/15 |
-| Host Name | lyralei |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 01:23:45 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939935716005 |
-| Players | 9/10 |
-| Host Name | LIGHTWEIGHT BABY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:21:50 |
+| Lobby ID | 28574939938685189 |
+| Players | 3/10 |
+| Host Name | BUSCO CHAMBA |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 01:24:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939937881782 |
+| Players | 4/8 |
+| Host Name | piensa pe chato |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 01:24:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 01:23:31 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939937881782 |
-| Players | 4/8 |
-| Host Name | piensa pe chato |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 01:24:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939938685189 |
-| Players | 3/10 |
-| Host Name | BUSCO CHAMBA |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 01:24:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939939361774 |
-| Players | 2/15 |
+| Lobby ID | 28574939939634894 |
+| Players | 3/15 |
 | Host Name | DarkGoona |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 01:25:44 |
+| Lobby Creation Time | Saturday, December 23, 2023 01:26:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939935917991 |
+| Players | 6/8 |
+| Host Name | Ƹ̵̡Ӝ̵̨̄Ʒ 90 gain 100% sync |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 01:22:03 |
 
 
 |  | epic_boss_fight_nightmare |
