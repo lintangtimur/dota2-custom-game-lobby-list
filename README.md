@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939304141892 |
-| Players | 2/10 |
-| Host Name | GABE (AUtistic and non speaking) |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 12:19:49 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939300876629 |
+| Lobby ID | 28574939297422222 |
 | Players | 23/24 |
-| Host Name | You Killed Kenny! |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 12:12:50 |
+| Host Name | RAT LEGENDS SEASON 18 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 12:05:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939304206084 |
+| Players | 3/8 |
+| Host Name | AFK |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:19:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,34 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939303090996 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | VENECO  DE  RAPPI |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:17:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939304206084 |
-| Players | 1/8 |
-| Host Name | AFK |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 12:19:57 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939297422222 |
-| Players | 23/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 12:05:35 |
+| Lobby ID | 28574939304321261 |
+| Players | 1/24 |
+| Host Name | si eres marron te tengo muteado |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:20:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939302434487 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ♫...Cheese |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:16:10 |
