@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939495718758 |
-| Players | 10/15 |
-| Host Name | Alcoholocaust |
+| Lobby ID | 28574939496093377 |
+| Players | 1/10 |
+| Host Name | Meetlok |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 18:06:19 |
+| Lobby Creation Time | Friday, December 22, 2023 18:06:50 |
 
 
 |  | ot3_desert_octet |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939496093377 |
-| Players | 1/10 |
-| Host Name | Meetlok |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 18:06:50 |
+| Lobby ID | 28574939495193368 |
+| Players | 9/10 |
+| Host Name | Гопстоп228play |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:05:35 |
 
 
 |  | epic_boss_fight_nightmare |
