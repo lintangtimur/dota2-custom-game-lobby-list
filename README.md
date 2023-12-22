@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939367711368 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Ayesha♥♥♥ |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 14:30:31 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939373698078 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Махровая барышня |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:41:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939373212233 |
-| Players | 7/8 |
-| Host Name | Kaydo亚瑟 |
+| Lobby ID | 28574939374329807 |
+| Players | 1/10 |
+| Host Name | ZzzDddRrr |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:40:55 |
+| Lobby Creation Time | Friday, December 22, 2023 14:43:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939373064267 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Golden Path Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:40:39 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Егор Перфоратор |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 14:42:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939374329807 |
-| Players | 1/10 |
-| Host Name | ZzzDddRrr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:43:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939370221297 |
-| Players | 8/10 |
-| Host Name | OnePiece |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:35:16 |
 
 
 |  | epic_boss_fight_nightmare |
