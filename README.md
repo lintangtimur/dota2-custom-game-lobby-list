@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939454689855 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | d1XE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:04:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939454739840 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | 啪！一个Ori |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:04:17 |
@@ -56,31 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 17:04:17 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939455091029 |
-| Players | 3/15 |
-| Host Name | yan1k |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:04:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939453883421 |
-| Players | 12/15 |
-| Host Name | Fat Mad |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:02:52 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939455139527 |
-| Players | 1/10 |
-| Host Name | джони снюс |
+| Lobby ID | 28574939455236585 |
+| Players | 9/10 |
+| Host Name | zafinaايفونأربعةمع،أريدأنايفونأا |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:04:55 |
+| Lobby Creation Time | Friday, December 22, 2023 17:05:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939455333919 |
+| Players | 3/15 |
+| Host Name | Мяу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:05:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939455348847 |
+| Players | 1/8 |
+| Host Name | 惊梦 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 17:05:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939455376840 |
+| Players | 1/8 |
+| Host Name | Xaxa |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 17:05:18 |
 
 
 |  | epic_boss_fight_nightmare |
