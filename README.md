@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939932968931 |
-| Players | 16/24 |
+| Players | 23/24 |
 | Host Name | .com |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:18:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939937324910 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Evo_come_llamas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:23:31 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939937536846 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | :) |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:23:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939937493943 |
-| Players | 9/10 |
-| Host Name | IndiGо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:23:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939937609353 |
-| Players | 6/8 |
-| Host Name | Grog the Frog |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 01:23:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,12 +110,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 01:23:58 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939937944268 |
+| Players | 1/15 |
+| Host Name | mom said dont make you name aggr |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 01:24:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939937881782 |
+| Players | 1/8 |
+| Host Name | piensa pe chato |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 01:24:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939937935963 |
+| Players | 1/10 |
+| Host Name | icepath |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 01:24:10 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939935667195 |
-| Players | 2/5 |
-| Host Name | PlayingTheAngel |
+| Players | 1/5 |
+| Host Name | ясный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:21:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939937844553 |
+| Players | 1/10 |
+| Host Name | STORM |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 01:24:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939937925037 |
+| Players | 1/5 |
+| Host Name | scott |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 01:24:09 |
 
 
