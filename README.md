@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939404992937 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Pavlun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:38:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939405422980 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | WanderingSage |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 15:39:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939405403519 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | VERSACE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:39:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939405513983 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Просто я Kira |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:39:49 |
@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939404930596 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Nekat aja |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:38:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939405773033 |
+| Players | 1/15 |
+| Host Name | GlowWolf |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 15:40:17 |
 
 
 |  | epic_boss_fight_nightmare |
