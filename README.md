@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939340303573 |
-| Players | 2/15 |
-| Host Name | choka smoka |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 13:36:05 |
+| Lobby ID | 28574939341493436 |
+| Players | 12/24 |
+| Host Name | 雨墨 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 13:38:29 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939341700249 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Mr.Bass |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 13:38:55 |
@@ -32,34 +32,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939340963927 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:37:25 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939341493436 |
-| Players | 8/24 |
-| Host Name | 黃人韋厷隹 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 13:38:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939337862858 |
-| Players | 22/24 |
-| Host Name | 21mtd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 13:31:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939338120312 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Makoto Shishio |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:31:35 |
