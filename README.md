@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939443530606 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Прости,я был пьян,твоя мать тоже |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:45:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939443374569 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | ПИВЗАВОД |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:45:20 |
@@ -74,10 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:45:45 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939443806365 |
+| Players | 2/10 |
+| Host Name | $ieg HEIL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 16:46:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939443988207 |
+| Players | 1/15 |
+| Host Name | Horny ??? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 16:46:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939443659346 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | noob |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:45:49 |
