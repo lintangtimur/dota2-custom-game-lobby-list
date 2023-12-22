@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939541595580 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Jorjor Well |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:05:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939541535813 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:05:20 |
