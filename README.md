@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939642040303 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 20:47:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939735225866 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Ashgan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:08:44 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939729339026 |
-| Players | 5/8 |
-| Host Name | mode: kubara |
+| Lobby ID | 28574939735948157 |
+| Players | 1/8 |
+| Host Name | 棉花糖 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:03:33 |
+| Lobby Creation Time | Friday, December 22, 2023 22:09:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939725009403 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | M a u u |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 21:59:45 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939734811947 |
-| Players | 3/8 |
-| Host Name | cdmas7292 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:08:23 |
+| Lobby ID | 28574939718185149 |
+| Players | 6/8 |
+| Host Name | sukuna prime |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 21:53:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939728872262 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | 1k Mycop |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 22:03:08 |
@@ -137,40 +137,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:06:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939734959647 |
-| Players | 13/15 |
-| Host Name | 2nty0ne |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:08:31 |
+| Lobby ID | 28574939735816166 |
+| Players | 1/8 |
+| Host Name | Sarapan Srinivasan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 22:09:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939733234076 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 22:07:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939718185149 |
-| Players | 6/8 |
-| Host Name | sukuna prime |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 22, 2023 21:53:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939735727890 |
-| Players | 3/8 |
-| Host Name | уехал в ебантяйск |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 22:09:11 |
 
 
 |  | epic_boss_fight_challenger |
