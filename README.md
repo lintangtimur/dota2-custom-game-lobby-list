@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939550735484 |
-| Players | 9/15 |
+| Players | 6/15 |
 | Host Name | Skipeth-lolz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939937881782 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | piensa pe chato |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:24:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939938985907 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | rud maison margiela |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:25:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939938491993 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Hola |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:24:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939937324910 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Evo_come_llamas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:23:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939939634894 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | DarkGoona |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:26:02 |
@@ -104,16 +104,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939935917991 |
-| Players | 6/8 |
-| Host Name | Ƹ̵̡Ӝ̵̨̄Ʒ 90 gain 100% sync |
+| Players | 5/8 |
+| Host Name | Есос Пэрриху |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 01:22:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939939681296 |
+| Players | 2/10 |
+| Host Name | Выходи из профиля |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:26:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939939805679 |
+| Players | 3/8 |
+| Host Name | gokirus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:26:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939939837668 |
+| Players | 3/8 |
+| Host Name | aae |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:26:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939938192106 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Battleye.EXE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:24:27 |
