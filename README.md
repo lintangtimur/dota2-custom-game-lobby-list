@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939550735484 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Skipeth-lolz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939628888996 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 20:34:59 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:34:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939629402067 |
-| Players | 4/8 |
-| Host Name | stervachyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 20:35:28 |
+| Lobby ID | 28574939629610277 |
+| Players | 2/10 |
+| Host Name | кадыров пид |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 20:35:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | neikus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 20:35:05 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939629409198 |
-| Players | 2/5 |
-| Host Name | kabachok |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 20:35:28 |
 
 
