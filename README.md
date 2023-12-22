@@ -20,37 +20,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939394766869 |
-| Players | 6/8 |
-| Host Name | æksiəˈmætɪk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:20:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939395113964 |
-| Players | 1/24 |
-| Host Name | Psycho |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, December 22, 2023 15:21:13 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939395323936 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Shalfear |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:21:36 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939395113964 |
+| Players | 2/24 |
+| Host Name | Psycho |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 15:21:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939395652046 |
+| Players | 2/8 |
+| Host Name | wake up, u dreaming |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 15:22:11 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939395149182 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Tommy Shelby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:21:17 |
@@ -58,10 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939395438916 |
-| Players | 1/10 |
-| Host Name | Skills in Pills |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:21:49 |
+| Lobby ID | 28574939395549010 |
+| Players | 2/10 |
+| Host Name | 󠀡󠀡G.O.D |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 15:22:00 |
 
 
