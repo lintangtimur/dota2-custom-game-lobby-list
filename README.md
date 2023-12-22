@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939341493436 |
-| Players | 22/24 |
-| Host Name | Crunchypopo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 13:38:29 |
+| Lobby ID | 28574939343650998 |
+| Players | 3/24 |
+| Host Name | BKBB |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 13:42:55 |
 
 
 |  | ot3_desert_octet |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939343257964 |
-| Players | 1/24 |
-| Host Name | Жила |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 13:42:08 |
+| Lobby ID | 28574939341493436 |
+| Players | 23/24 |
+| Host Name | Crunchypopo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 13:38:29 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939343789639 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | це база |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:43:12 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939343548042 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ТУРБО ИШАК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:42:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939343650998 |
-| Players | 3/24 |
-| Host Name | BKBB |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 13:42:55 |
 
 
 |  | epic_boss_fight_nightmare |
