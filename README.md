@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939384935106 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Eblan4ik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:02:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939385010212 |
-| Players | 1/8 |
-| Host Name | Грига гамак |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:03:01 |
+| Lobby ID | 28574939385071504 |
+| Players | 1/24 |
+| Host Name | Violet Evergarden |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 15:03:07 |
 
 
 |  | epic_boss_fight_normal |
