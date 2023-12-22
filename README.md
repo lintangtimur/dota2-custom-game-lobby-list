@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939421453331 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Rock.Baby.Rock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:07:58 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939422761872 |
-| Players | 4/8 |
-| Host Name | KИPЮXA HACBAЙEB XУЛИГAH |
+| Players | 2/8 |
+| Host Name | _PoLkOvNiK_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:10:13 |
 
@@ -40,29 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939421973929 |
-| Players | 10/15 |
-| Host Name | не умею играть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:08:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939423275272 |
-| Players | 4/8 |
-| Host Name | ДИТЯ ЛЕСА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:11:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28574939423404350 |
 | Players | 1/15 |
 | Host Name | Vanished |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:11:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939423517978 |
+| Players | 1/8 |
+| Host Name | 626 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 16:11:31 |
 
 
 |  | epic_boss_fight_challenger |
