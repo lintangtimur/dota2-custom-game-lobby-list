@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939315475127 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | laNo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:44:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939312293296 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:37:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939314767642 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | maku |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:42:34 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939313742967 |
-| Players | 12/15 |
-| Host Name | choka smoka |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 12:40:24 |
+| Lobby ID | 28574939315721376 |
+| Players | 1/15 |
+| Host Name | WAWITA DE 18 AÑITOS |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:44:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939314741451 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Hani |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:42:30 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28574939315002287 |
 | Players | 4/24 |
-| Host Name | ✿迅猛小老虎 |
+| Host Name | Tetora |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:43:03 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939315108927 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | peruano promedio |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:43:17 |
