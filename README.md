@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939534316239 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | muteado 48 hrs |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 18:56:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939535754282 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Baza-optom.ru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:58:31 |
@@ -32,37 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939535860382 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ПОЕЛ ГОВНА |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:58:39 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939534342507 |
-| Players | 18/24 |
-| Host Name | PGTR |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 18:56:49 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939536012327 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Kirusha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:58:50 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939536187709 |
+| Players | 1/24 |
+| Host Name | đời là bể khổ khi bạn là Fan MU |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 18:59:03 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939536044050 |
-| Players | 1/8 |
-| Host Name | WHY SO ? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 18:58:52 |
+| Lobby ID | 28574939536271989 |
+| Players | 3/8 |
+| Host Name | Михан сосет |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 18:59:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I am your death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:51:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939536043770 |
-| Players | 1/10 |
-| Host Name | SwAk |
-| Region | USWEST |
-| Lobby Creation Time | Friday, December 22, 2023 18:58:52 |
 
 
