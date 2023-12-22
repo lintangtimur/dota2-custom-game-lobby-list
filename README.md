@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939424028397 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | GlowWolf |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 16:12:23 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939422761872 |
-| Players | 7/8 |
-| Host Name | _PoLkOvNiK_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:10:13 |
+| Lobby ID | 28574939424378491 |
+| Players | 2/8 |
+| Host Name | novak |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 16:12:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939423307277 |
-| Players | 6/10 |
+| Players | 3/10 |
 | Host Name | learning curve |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 16:11:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939424208598 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Russian, questions? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:12:42 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ℍ𝕒𝕡𝕡𝕪 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:12:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939424378491 |
-| Players | 1/8 |
-| Host Name | novak |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 16:12:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939424437206 |
-| Players | 4/8 |
-| Host Name | Papa |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, December 22, 2023 16:13:06 |
 
 
 |  | epic_boss_fight_challenger |
@@ -108,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PushTheTempo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:03:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939424548281 |
+| Players | 1/5 |
+| Host Name | 鲁子敬 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Friday, December 22, 2023 16:13:17 |
 
 
