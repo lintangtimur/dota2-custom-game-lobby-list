@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939500441447 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Moves~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:12:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939502021513 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | ГАНДУРАС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:15:00 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mituz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:15:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939502285891 |
+| Players | 1/15 |
+| Host Name | ୧༼Ɵ͆ل͜Ɵ͆୧༽ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:15:22 |
 
 
 |  | epic_boss_fight_nightmare |
