@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939286028649 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | .Zabdiel Danko |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:41:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939286828610 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | NoVa/NeNet< |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:42:48 |
@@ -32,28 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939287031612 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Radiant's Courier |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 11:43:14 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939286516836 |
+| Players | 1/8 |
+| Host Name | aka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 11:42:08 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939286578613 |
-| Players | 9/10 |
-| Host Name | Alpha |
+| Lobby ID | 28574939287192047 |
+| Players | 7/10 |
+| Host Name | Paloyoyo |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:42:16 |
+| Lobby Creation Time | Friday, December 22, 2023 11:43:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939286516836 |
-| Players | 2/8 |
-| Host Name | ttt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 11:42:08 |
+| Lobby ID | 28574939287346622 |
+| Players | 1/8 |
+| Host Name | AFK |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 11:43:55 |
 
 
 |  | epic_boss_fight_nightmare |
