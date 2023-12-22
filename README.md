@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939642040303 |
-| Players | 21/24 |
+| Players | 19/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 20:47:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939772316940 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:42:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939766341025 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:36:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939772557613 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | †Uchiha Obito† |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 22:42:17 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939776062419 |
-| Players | 13/15 |
-| Host Name | astra |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:45:31 |
+| Lobby ID | 28574939776819980 |
+| Players | 2/15 |
+| Host Name | JS |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 22:46:13 |
 
 
 |  | ot3_desert_octet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:42:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939772460151 |
-| Players | 14/15 |
-| Host Name | DGL |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 22:42:11 |
+| Lobby ID | 28574939776482783 |
+| Players | 8/10 |
+| Host Name | Ziemniak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:45:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,31 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:41:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939776482783 |
-| Players | 2/10 |
-| Host Name | Ziemniak |
+| Lobby ID | 28574939776818975 |
+| Players | 1/15 |
+| Host Name | Solomonic |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:45:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939776310597 |
-| Players | 6/8 |
-| Host Name | ZIM |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 22:45:45 |
+| Lobby Creation Time | Friday, December 22, 2023 22:46:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939773165852 |
-| Players | 14/15 |
-| Host Name | Baobab |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:42:50 |
+| Lobby ID | 28574939776872731 |
+| Players | 9/15 |
+| Host Name | intothebottle |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 22:46:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939776955274 |
+| Players | 1/8 |
+| Host Name | ガッツ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 22:46:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -149,19 +149,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939773346691 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | грех |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:43:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939773602513 |
-| Players | 9/10 |
-| Host Name | Gentlesiree |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 22:43:14 |
 
 
 |  | epic_boss_fight_nightmare |
