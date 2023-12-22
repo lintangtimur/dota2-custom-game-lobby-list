@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939432441920 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Соре за просолку |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 16:26:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939432780287 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 软绵绵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:27:33 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939431645984 |
-| Players | 7/8 |
-| Host Name | 0_о |
+| Lobby ID | 28574939433089598 |
+| Players | 2/8 |
+| Host Name | дядя попа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:25:35 |
+| Lobby Creation Time | Friday, December 22, 2023 16:28:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939430439213 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Артём Камшотович |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 16:23:23 |
