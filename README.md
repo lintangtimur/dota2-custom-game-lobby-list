@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939710216152 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | gato con tabas |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 21:46:38 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939721568074 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | xiaozhuzhu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 21:56:43 |
@@ -131,19 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939722662346 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Panzerjäger Tiger Elefant |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:57:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939720854668 |
-| Players | 6/8 |
-| Host Name | грёбаные монголы |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:56:04 |
 
 
 |  | ot3_gardens_duo |
@@ -153,6 +144,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | maksem4567 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:57:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939723311283 |
+| Players | 1/8 |
+| Host Name | Фибробласт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 21:58:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939723307245 |
+| Players | 2/10 |
+| Host Name | El vengador fantasma 3 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 21:58:16 |
 
 
 |  | epic_boss_fight_challenger |
