@@ -11,33 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:56:19 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939449726321 |
-| Players | 9/10 |
-| Host Name | Br0ker |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 16:55:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939449980277 |
-| Players | 5/8 |
-| Host Name | Prays-dead inside |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 16:56:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939449824893 |
-| Players | 1/24 |
-| Host Name | Первая кровь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:56:09 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939449862540 |
@@ -47,30 +20,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:56:12 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939447458788 |
-| Players | 3/5 |
-| Host Name | Tommy Shelby |
+| Lobby ID | 28574939449980277 |
+| Players | 6/8 |
+| Host Name | Prays-dead inside |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 16:56:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939449824893 |
+| Players | 2/24 |
+| Host Name | Первая кровь |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:52:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939448559104 |
-| Players | 2/10 |
-| Host Name | Asmodeus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 16:53:58 |
+| Lobby Creation Time | Friday, December 22, 2023 16:56:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939449184663 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Good |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:55:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939450897071 |
+| Players | 1/10 |
+| Host Name | jened |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 16:57:56 |
 
 
