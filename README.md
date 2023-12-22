@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939397772990 |
-| Players | 11/15 |
-| Host Name | Kulebyaka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:26:11 |
+| Lobby ID | 28574939397834051 |
+| Players | 5/24 |
+| Host Name | squirrel |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 15:26:18 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939397950685 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | 626 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:26:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939395113964 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Psycho |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 15:21:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939397080597 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | AJINOMEN PICANTEgiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 15:24:53 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 15:25:55 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939397834051 |
-| Players | 4/24 |
-| Host Name | squirrel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 15:26:18 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939396133647 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | $ilent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:23:04 |
