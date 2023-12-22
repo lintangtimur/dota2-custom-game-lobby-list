@@ -29,22 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 15:43:31 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939412281282 |
-| Players | 23/24 |
-| Host Name | Dodong The Great |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 15:51:45 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939413563965 |
-| Players | 10/15 |
+| Players | 7/15 |
 | Host Name | рок стар бэйби |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:54:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939414229633 |
+| Players | 4/24 |
+| Host Name | Classic20 hellstore.org |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 15:55:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939414255301 |
+| Players | 1/8 |
+| Host Name | Эгоисто |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 15:55:22 |
 
 
 |  | epic_boss_fight_nightmare |
