@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939300503398 |
-| Players | 7/10 |
-| Host Name | SwedishPagan |
+| Lobby ID | 28574939301293846 |
+| Players | 2/10 |
+| Host Name | Hani |
 | Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 12:12:01 |
+| Lobby Creation Time | Friday, December 22, 2023 12:13:42 |
 
 
 |  | ot3_desert_octet |
@@ -29,51 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 12:05:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939299904961 |
-| Players | 13/15 |
-| Host Name | 51n390 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 12:10:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939300967765 |
-| Players | 1/8 |
-| Host Name | BigBillzGetPaid |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 12:13:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939299579448 |
-| Players | 6/8 |
-| Host Name | ☁CHIROD☁ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 12:10:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939297422222 |
-| Players | 21/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 12:05:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939300719326 |
-| Players | 3/15 |
-| Host Name | FILIPINAS SAD :c |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 12:12:29 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939300876629 |
@@ -83,28 +38,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 12:12:50 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939300967765 |
+| Players | 3/8 |
+| Host Name | BigBillzGetPaid |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 12:13:02 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939301095813 |
+| Lobby ID | 28574939301318743 |
 | Players | 1/15 |
-| Host Name | CrankyPants |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 12:13:18 |
+| Host Name | Шкилет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 12:13:45 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939297395074 |
-| Players | 3/7 |
-| Host Name | ♥®°§w¡nk°®♥ |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, December 22, 2023 12:05:32 |
+| Lobby ID | 28574939297422222 |
+| Players | 23/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 12:05:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939300719326 |
+| Players | 10/15 |
+| Host Name | FILIPINAS SAD :c |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:12:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939300213948 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | 大哥打野音信全无 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:11:24 |
