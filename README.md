@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939297724394 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Perrolol |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:06:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939296681353 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 東方白 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:04:02 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939297422222 |
-| Players | 6/24 |
-| Host Name | Eggtarts |
+| Players | 3/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:05:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939298158291 |
+| Players | 6/15 |
+| Host Name | Mã$ţ€řkîłł£ř |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:07:07 |
 
 
 |  | epic_boss_fight_challenger |
