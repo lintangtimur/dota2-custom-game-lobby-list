@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939300876629 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | You Killed Kenny! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:12:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939301854130 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:14:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939302528122 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | скала |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:16:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939302777368 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ЛЕША НА КОЛЕНИ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 12:16:54 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939303090996 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | VENECO  DE  RAPPI |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:17:35 |
