@@ -2,49 +2,58 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939420508618 |
-| Players | 5/8 |
-| Host Name | писюн |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:06:21 |
+| Lobby ID | 28574939421453331 |
+| Players | 5/24 |
+| Host Name | Rock.Baby.Rock |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 16:07:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939420793873 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | lashrma |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 16:06:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939407587753 |
-| Players | 1/24 |
-| Host Name | Cartman |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 15:43:31 |
+| Lobby ID | 28574939421987464 |
+| Players | 1/8 |
+| Host Name | SOLEk         #Neoxa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 16:08:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939420826794 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | GlowWolf |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 16:06:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939421453331 |
-| Players | 3/24 |
-| Host Name | Rock.Baby.Rock |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 16:07:58 |
+| Lobby ID | 28574939421973929 |
+| Players | 1/15 |
+| Host Name | не умею играть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 16:08:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939422004247 |
+| Players | 6/10 |
+| Host Name | Проснулся дал zazy |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 16:08:55 |
 
 
 |  | epic_boss_fight_challenger |
@@ -59,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939416414418 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Nyanko |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 15:59:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939418256810 |
-| Players | 8/10 |
-| Host Name | back to genshin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 16:02:26 |
 
 
 |  | epic_boss_fight_nightmare |
