@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939592978956 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 20:00:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939599061519 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | selling  drugs  :lowprice: |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 20:06:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939598535468 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:06:11 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:00:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939596886644 |
-| Players | 7/8 |
-| Host Name | lox |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 20:04:34 |
+| Lobby ID | 28574939598667873 |
+| Players | 6/24 |
+| Host Name | nigero GEOP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 20:06:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:06:38 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939598667873 |
-| Players | 6/24 |
-| Host Name | nigero GEOP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 20:06:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939596009627 |
@@ -101,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:03:42 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939599175019 |
-| Players | 1/5 |
-| Host Name | 谜兔 |
+| Lobby ID | 28574939599341417 |
+| Players | 1/10 |
+| Host Name | Mawen |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 20:06:48 |
+| Lobby Creation Time | Friday, December 22, 2023 20:06:58 |
 
 
