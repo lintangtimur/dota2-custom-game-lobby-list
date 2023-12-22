@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939555935084 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | hog goblin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:21:39 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 19:21:50 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939556365613 |
+| Players | 4/24 |
+| Host Name | Man NOT HOT ! never HoT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 19:22:08 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28574939553835957 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | dom |
 | Region | INDIA |
 | Lobby Creation Time | Friday, December 22, 2023 19:19:18 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939555913373 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Clarkoof |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:21:38 |
