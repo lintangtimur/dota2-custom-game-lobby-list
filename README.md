@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939553262347 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | scary goon 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:18:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939550893418 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Plastic Pop can |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:16:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939547572909 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | "&" |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 19:12:17 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 19:10:04 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939547090944 |
-| Players | 1/7 |
-| Host Name | dom |
-| Region | INDIA |
-| Lobby Creation Time | Friday, December 22, 2023 19:11:43 |
+| Lobby ID | 28574939553721606 |
+| Players | 2/8 |
+| Host Name | 最高 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 19:19:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939551557333 |
+| Players | 1/5 |
+| Host Name | ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 19:16:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -101,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 19:15:43 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28574939551557333 |
-| Players | 1/5 |
-| Host Name | ? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:16:46 |
+| Lobby ID | 28574939553835957 |
+| Players | 1/7 |
+| Host Name | dom |
+| Region | INDIA |
+| Lobby Creation Time | Friday, December 22, 2023 19:19:18 |
 
 
