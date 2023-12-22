@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939369443442 |
-| Players | 14/15 |
-| Host Name | t |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:33:47 |
+| Lobby ID | 28574939363405985 |
+| Players | 8/24 |
+| Host Name | Gollum999 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 14:22:04 |
 
 
 |  | ot3_desert_octet |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:31:36 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939363405985 |
-| Players | 8/24 |
-| Host Name | Gollum999 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 14:22:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939370221297 |
@@ -63,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nidoking |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:35:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939370792895 |
+| Players | 1/10 |
+| Host Name | Кофточка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 14:36:21 |
 
 
