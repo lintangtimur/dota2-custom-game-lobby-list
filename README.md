@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:51:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939535754282 |
-| Players | 10/15 |
-| Host Name | Baza-optom.ru |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:58:31 |
+| Lobby ID | 28574939536271989 |
+| Players | 3/8 |
+| Host Name | Михан сосет |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 18:59:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939535860382 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | ПОЕЛ ГОВНА |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:58:39 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | đời là bể khổ khi bạn là Fan MU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:59:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939536271989 |
-| Players | 3/8 |
-| Host Name | Михан сосет |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 18:59:09 |
 
 
 |  | epic_boss_fight_normal |
