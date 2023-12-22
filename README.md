@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939653941541 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:57:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939653648135 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | xzoqie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:57:34 |
@@ -58,11 +58,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939654138855 |
+| Lobby ID | 28574939654209192 |
 | Players | 3/24 |
-| Host Name | meishuchuhuanjingjiusong |
-| Region | INDIA |
-| Lobby Creation Time | Friday, December 22, 2023 20:58:00 |
+| Host Name | assi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 20:58:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939654328626 |
+| Players | 1/24 |
+| Host Name | S |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 20:58:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939654374075 |
+| Players | 3/8 |
+| Host Name | Hog Rider |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 20:58:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939651122514 |
+| Players | 22/24 |
+| Host Name | 1 v 23（°𓂍° ） |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 20:55:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | cece |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 20:57:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939654204240 |
+| Players | 1/10 |
+| Host Name | Avöcadö.FG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 20:58:04 |
 
 
