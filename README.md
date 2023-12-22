@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939550735484 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Skipeth-lolz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939860802818 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Ha_Ku |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 00:05:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939860716545 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Леша |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 00:05:44 |
@@ -59,46 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939860314627 |
-| Players | 2/24 |
-| Host Name | farming Simulator |
+| Players | 3/24 |
+| Host Name | Boom! Headshot! |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 23, 2023 00:05:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939860727382 |
-| Players | 4/8 |
-| Host Name | Бегущий_по_Доте |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:05:45 |
+| Lobby ID | 28574939861143131 |
+| Players | 3/8 |
+| Host Name | RainWalker |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 00:06:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939861045066 |
-| Players | 1/8 |
-| Host Name | максим муншард |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:06:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939861045284 |
-| Players | 1/15 |
-| Host Name | Salvatore |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 00:06:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939858659574 |
-| Players | 14/15 |
-| Host Name | xzc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 00:03:44 |
+| Lobby ID | 28574939861114140 |
+| Players | 5/8 |
+| Host Name | watsnekst? |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 00:06:08 |
 
 
 |  | epic_boss_fight_nightmare |
