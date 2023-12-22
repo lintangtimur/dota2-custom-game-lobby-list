@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939408600249 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ВОРОВСКАЯ мама |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 15:45:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939404930596 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Nekat aja |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:38:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939408934206 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 新奇 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:45:54 |
