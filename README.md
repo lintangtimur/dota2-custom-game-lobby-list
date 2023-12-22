@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939314241305 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:41:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939314767642 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | maku |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:42:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939313742967 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | choka smoka |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:40:24 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 12:42:30 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939315002287 |
+| Players | 4/24 |
+| Host Name | ✿迅猛小老虎 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 12:43:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939312153998 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939313373029 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Shiroe- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:39:37 |
