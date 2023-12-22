@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939346508889 |
-| Players | 11/15 |
-| Host Name | Mr. SOVA |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 13:48:40 |
+| Lobby ID | 28574939347668747 |
+| Players | 1/24 |
+| Host Name | ✿迅猛小老虎 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 13:50:59 |
 
 
 |  | ot3_desert_octet |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939347338087 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Olvatai |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 13:50:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939347601152 |
-| Players | 1/8 |
-| Host Name | СИМФЕРОПОЛЬ 2011 ДЖАМПСТАЙЛ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 13:50:51 |
 
 
 |  | epic_boss_fight_nightmare |
