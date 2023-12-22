@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939252834238 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Xavidra |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:28:35 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939253595947 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ✬✬✬Leon Scott Kennedy |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:30:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939254572395 |
-| Players | 11/15 |
-| Host Name | NoVa/NeNet< |
+| Lobby ID | 28574939254914390 |
+| Players | 2/24 |
+| Host Name | M A D I S S O N ™ |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:32:24 |
+| Lobby Creation Time | Friday, December 22, 2023 10:33:10 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939253780706 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Xibalba |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:30:40 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939254800495 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Teo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 10:32:55 |
