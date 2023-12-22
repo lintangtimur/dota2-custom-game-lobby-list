@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939451514919 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:58:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939462742953 |
-| Players | 13/15 |
-| Host Name | Byratino |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:17:01 |
+| Lobby ID | 28574939463191740 |
+| Players | 2/8 |
+| Host Name | хач |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 17:17:43 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939463112407 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | C C |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:17:36 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 🅴 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 17:10:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939462386293 |
-| Players | 20/24 |
-| Host Name | Golden Path Enjoyer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 17:16:27 |
 
 
 |  | epic_boss_fight_nightmare |
