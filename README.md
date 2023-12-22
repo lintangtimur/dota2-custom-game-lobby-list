@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939294320032 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Mentalcore |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 11:59:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939291805562 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:53:30 |
