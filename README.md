@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939307216528 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:26:40 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939307037301 |
+| Lobby ID | 28574939307633183 |
 | Players | 5/10 |
-| Host Name | Soulwarrior |
+| Host Name | TU VIEJA LA PALO SECO |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 12:26:18 |
+| Lobby Creation Time | Friday, December 22, 2023 12:27:30 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939307210841 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | Mr.Bass |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:26:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939306347357 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Takashi |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 12:24:45 |
@@ -56,30 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 12:26:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939307454589 |
-| Players | 1/10 |
-| Host Name | NiHawk- |
+| Lobby ID | 28574939307536006 |
+| Players | 3/24 |
+| Host Name | Bo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 12:27:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939307875593 |
+| Players | 1/15 |
+| Host Name | Mã$ţ€řkîłł£ř |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 12:27:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939307510965 |
-| Players | 1/8 |
-| Host Name | DeepzZ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 12:27:15 |
+| Lobby Creation Time | Friday, December 22, 2023 12:27:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939307502243 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Neizen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:27:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939307873025 |
+| Players | 1/5 |
+| Host Name | Frozenfost |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 22, 2023 12:27:59 |
 
 
