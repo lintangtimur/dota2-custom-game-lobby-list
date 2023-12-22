@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:24:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939621297012 |
-| Players | 2/8 |
-| Host Name | hunter |
+| Lobby ID | 28574939621210826 |
+| Players | 6/10 |
+| Host Name | ThisLifeRiding® |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 20:27:55 |
+| Lobby Creation Time | Friday, December 22, 2023 20:27:50 |
 
 
 |  | ot3_desert_octet |
@@ -74,21 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 20:23:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939621210826 |
-| Players | 2/10 |
-| Host Name | ThisLifeRiding® |
+| Lobby ID | 28574939621424162 |
+| Players | 7/15 |
+| Host Name | Sososiske |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 20:27:50 |
+| Lobby Creation Time | Friday, December 22, 2023 20:28:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939620738089 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | КМС a.k.a. кто пиздел?! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:27:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939621406031 |
+| Players | 3/10 |
+| Host Name | Ginger or Ni...r? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 20:28:01 |
 
 
