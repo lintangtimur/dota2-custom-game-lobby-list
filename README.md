@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:56:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939454689855 |
-| Players | 7/8 |
-| Host Name | d1XE |
+| Lobby ID | 28574939455685471 |
+| Players | 7/10 |
+| Host Name | Pomousa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:04:12 |
+| Lobby Creation Time | Friday, December 22, 2023 17:05:47 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939454739840 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 啪！一个Ori |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:04:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939454745161 |
-| Players | 1/24 |
-| Host Name | LethalBacon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 17:04:17 |
+| Lobby ID | 28574939455376840 |
+| Players | 1/8 |
+| Host Name | Xaxa |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 17:05:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939455333919 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | неумехапелемеха |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:05:14 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939455376840 |
-| Players | 1/8 |
-| Host Name | Xaxa |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 17:05:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939455685471 |
-| Players | 2/10 |
-| Host Name | Pomousa |
+| Lobby ID | 28574939455844421 |
+| Players | 2/8 |
+| Host Name | Matve172 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:05:47 |
+| Lobby Creation Time | Friday, December 22, 2023 17:06:03 |
 
 
 |  | epic_boss_fight_nightmare |
