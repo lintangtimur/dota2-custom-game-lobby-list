@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939255077324 |
-| Players | 11/15 |
-| Host Name | Es un Elissir xD |
+| Lobby ID | 28574939255547552 |
+| Players | 4/15 |
+| Host Name | Tokio |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:33:31 |
+| Lobby Creation Time | Friday, December 22, 2023 10:34:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,30 +47,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 10:32:46 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939254914390 |
-| Players | 21/24 |
-| Host Name | M A D I S S O N ™ |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:33:10 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939255576662 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | LA COTA 905 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:34:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939255547552 |
-| Players | 4/15 |
-| Host Name | Tokio |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:34:33 |
 
 
