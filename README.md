@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939500805467 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ама рокстар попстар хуй встал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:13:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939499532408 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | KaKa SeFiD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:11:35 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939501022909 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dicrocelum |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:13:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939500441447 |
+| Players | 6/8 |
+| Host Name | Moves~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:12:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939501222903 |
+| Players | 3/8 |
+| Host Name | WOU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:13:54 |
 
 
 |  | epic_boss_fight_nightmare |
