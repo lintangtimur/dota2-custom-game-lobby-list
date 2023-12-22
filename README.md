@@ -2,40 +2,49 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939404992937 |
+| Players | 6/8 |
+| Host Name | Pavlun |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 15:38:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939405422980 |
+| Players | 2/10 |
+| Host Name | WanderingSage |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 15:39:40 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939404512801 |
-| Players | 19/24 |
-| Host Name | HeHe |
+| Lobby ID | 28574939405403519 |
+| Players | 2/24 |
+| Host Name | VERSACE |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 15:38:04 |
+| Lobby Creation Time | Friday, December 22, 2023 15:39:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939405513983 |
+| Players | 1/15 |
+| Host Name | Просто я Kira |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 15:39:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939404930596 |
 | Players | 3/8 |
-| Host Name | Grimlord |
+| Host Name | Nekat aja |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:38:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939404753837 |
-| Players | 6/15 |
-| Host Name | BringWoodAndOil |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 15:38:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939404992937 |
-| Players | 3/8 |
-| Host Name | Pavlun |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:38:55 |
 
 
 |  | epic_boss_fight_nightmare |
