@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939234828520 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | N1V3L |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 09:48:00 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939235366440 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | daniel peñaloza |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:49:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939236284200 |
-| Players | 1/24 |
-| Host Name | D!s |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 09:51:17 |
+| Lobby ID | 28574939236547181 |
+| Players | 5/8 |
+| Host Name | 《 灬ŠĤΛÐǾW灬 》 |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 09:51:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939236519837 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SugarCroiss |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236523305 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939236547181 |
-| Players | 5/8 |
-| Host Name | 《 灬ŠĤΛÐǾW灬 》 |
+| Lobby ID | 28574939236631233 |
+| Players | 1/15 |
+| Host Name | R U K I N G |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 09:51:54 |
+| Lobby Creation Time | Friday, December 22, 2023 09:52:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939236707689 |
+| Players | 1/24 |
+| Host Name | NakaFoX$$ |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 22, 2023 09:52:16 |
 
 
 |  | epic_boss_fight_nightmare |
