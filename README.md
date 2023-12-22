@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939852197615 |
-| Players | 8/15 |
-| Host Name | Loufer |
+| Lobby ID | 28574939852893988 |
+| Players | 4/8 |
+| Host Name | cyberбуллер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:57:27 |
+| Lobby Creation Time | Friday, December 22, 2023 23:58:08 |
 
 
 |  | ot3_gardens_duo |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939851816860 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Harry Lyme |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 23:57:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939852312775 |
-| Players | 8/10 |
-| Host Name | Батя Овощей |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 23:57:34 |
+| Lobby ID | 28574939853078203 |
+| Players | 5/15 |
+| Host Name | Banehallow59 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:58:19 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939851866652 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Wooo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 23:57:08 |
@@ -83,21 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 23:52:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939852893988 |
-| Players | 4/8 |
-| Host Name | cyberбуллер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 23:58:08 |
+| Lobby ID | 28574939853226844 |
+| Players | 1/15 |
+| Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 23:58:27 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939852097591 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | xsilenser |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:57:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939853184003 |
+| Players | 2/10 |
+| Host Name | Гена Цидармян |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:58:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939853179659 |
+| Players | 1/10 |
+| Host Name | ¸¸♬·¯·♩¸¸♪·¯·♫ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 23:58:24 |
 
 
