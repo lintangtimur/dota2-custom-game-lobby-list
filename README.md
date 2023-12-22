@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939343650998 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 13:42:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939341493436 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Crunchypopo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:38:29 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 13:40:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939343789639 |
-| Players | 13/15 |
-| Host Name | це база |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 13:43:12 |
+| Lobby ID | 28574939344713259 |
+| Players | 2/8 |
+| Host Name | [D]iomegod |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 13:45:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939343246459 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 𩠑 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 13:42:06 |
@@ -74,21 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 13:42:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939344713259 |
-| Players | 2/8 |
-| Host Name | [D]iomegod |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 13:45:06 |
+| Lobby ID | 28574939344789300 |
+| Players | 1/15 |
+| Host Name | Dance Macabre |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 13:45:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939343722471 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Wang Taupik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:43:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939344825491 |
+| Players | 1/5 |
+| Host Name | Deiymos™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 13:45:20 |
 
 
