@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939565800852 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | SNADY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:32:36 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939567160204 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Hektisch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:34:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939567604016 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | 悲しい |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 19:34:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939566928848 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ГАТУЙСРАКУ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 19:33:48 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939567922271 |
-| Players | 9/10 |
-| Host Name | Br0ker |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 19:34:52 |
+| Lobby ID | 28574939568013773 |
+| Players | 2/10 |
+| Host Name | егор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 19:34:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,18 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939567657801 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Tw0M4d |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:34:35 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939567979142 |
-| Players | 3/7 |
-| Host Name | 3layaKarakulya |
+| Lobby ID | 28574939568155724 |
+| Players | 1/10 |
+| Host Name | Кузя(RuMod) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:34:56 |
+| Lobby Creation Time | Friday, December 22, 2023 19:35:07 |
 
 
