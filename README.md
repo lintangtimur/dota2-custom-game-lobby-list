@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939377614355 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | це база |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 14:49:08 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939378410062 |
-| Players | 2/8 |
-| Host Name | lonely tears |
+| Players | 5/8 |
+| Host Name | wh1tn3s_OPOSYM |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:50:38 |
 
@@ -38,19 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:51:06 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939378899010 |
+| Players | 4/24 |
+| Host Name | VERSACE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 14:51:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939378502249 |
-| Players | 6/8 |
-| Host Name | ZALZALAH KOH |
+| Lobby ID | 28574939378841755 |
+| Players | 7/8 |
+| Host Name | dinero |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:50:49 |
+| Lobby Creation Time | Friday, December 22, 2023 14:51:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939376737861 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Neizen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:47:29 |
