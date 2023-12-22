@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939504391092 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | skrff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 18:18:12 |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:18:26 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939505132486 |
+| Players | 1/15 |
+| Host Name | Artsizi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 18:19:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939503304631 |
@@ -68,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939503492448 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | [-DR] Kaboooom |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:17:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939504979704 |
-| Players | 1/5 |
-| Host Name | オーケーとあなたの？ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:18:59 |
 
 
