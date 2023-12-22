@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 12:57:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939319481832 |
-| Players | 22/24 |
-| Host Name | Professor |
-| Region | USEAST |
-| Lobby Creation Time | Friday, December 22, 2023 12:52:30 |
+| Lobby ID | 28574939322826715 |
+| Players | 6/15 |
+| Host Name | G O D |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:59:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939321861891 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | WoW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:57:43 |
@@ -68,36 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939322338266 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Donquixote Doflamingo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:58:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939322826715 |
-| Players | 3/15 |
-| Host Name | G O D |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 12:59:45 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939318121627 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Hixl |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 12:49:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939322186689 |
-| Players | 6/10 |
-| Host Name | Ghosty |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 12:58:25 |
 
 
