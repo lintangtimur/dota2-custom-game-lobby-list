@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939300503398 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | SwedishPagan |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:12:01 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939299904961 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | 51n390 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 12:10:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939298482387 |
-| Players | 22/24 |
-| Host Name | Ace |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 12:07:46 |
+| Lobby ID | 28574939300967765 |
+| Players | 1/8 |
+| Host Name | BigBillzGetPaid |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 12:13:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939300719326 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | FILIPINAS SAD :c |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:12:29 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939300922099 |
+| Lobby ID | 28574939301095813 |
 | Players | 1/15 |
-| Host Name | 青眼の白龙 |
-| Region | PWUNICOM |
-| Lobby Creation Time | Friday, December 22, 2023 12:12:56 |
+| Host Name | CrankyPants |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 12:13:18 |
 
 
 |  | epic_boss_fight_challenger |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939300213948 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 大哥打野音信全无 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:11:24 |
