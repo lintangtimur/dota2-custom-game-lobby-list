@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939278049625 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | писькодралкин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 11:23:56 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939279215699 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Babypunch |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 11:26:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939278117526 |
-| Players | 9/10 |
-| Host Name | Don payiyo |
+| Lobby ID | 28574939279432182 |
+| Players | 2/24 |
+| Host Name | Dani| |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:24:05 |
+| Lobby Creation Time | Friday, December 22, 2023 11:27:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939278942213 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | (▰˘◡˘▰) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 11:25:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939279326400 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | N8 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:26:47 |
@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 11:24:19 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939279470630 |
+| Players | 1/8 |
+| Host Name | BTK |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 11:27:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939273401615 |
+| Players | 22/24 |
+| Host Name | Fabian! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 11:13:46 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939278237102 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | shadow wizard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 11:24:22 |
