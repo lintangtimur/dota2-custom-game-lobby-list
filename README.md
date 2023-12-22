@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 10:33:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939253595947 |
-| Players | 7/8 |
-| Host Name | ✬✬✬Leon Scott Kennedy |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:30:16 |
+| Lobby ID | 28574939254733039 |
+| Players | 7/15 |
+| Host Name | Denchik |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 10:32:46 |
 
 
 |  | ot3_desert_octet |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 10:30:12 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939254733039 |
-| Players | 7/15 |
-| Host Name | Denchik |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 10:32:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939254594827 |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Exstetra |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 10:32:27 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28574939255229442 |
-| Players | 1/7 |
-| Host Name | Barbero de Gampis <3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:33:51 |
 
 
