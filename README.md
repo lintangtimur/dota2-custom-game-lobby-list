@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 10:46:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939261494963 |
-| Players | 13/15 |
-| Host Name | stardust_ion |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 10:47:35 |
+| Lobby ID | 28574939262293393 |
+| Players | 8/10 |
+| Host Name | Tiny Trumpet! |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 10:49:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939257683009 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | #W Kiwi € / \♥ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:39:13 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939261413398 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 10:47:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939260683869 |
-| Players | 22/24 |
-| Host Name | DRAGONBACK |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:45:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939262293393 |
-| Players | 6/10 |
-| Host Name | Tiny Trumpet! |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:49:19 |
 
 
 |  | ot3_jungle_quintet |
