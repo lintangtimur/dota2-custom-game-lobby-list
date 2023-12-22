@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939571456729 |
-| Players | 1/24 |
-| Host Name | sosite |
+| Lobby ID | 28574939572432241 |
+| Players | 9/10 |
+| Host Name | Томас |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:38:39 |
+| Lobby Creation Time | Friday, December 22, 2023 19:39:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,19 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939572526294 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Veselsak |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 19:39:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939572994290 |
+| Players | 1/8 |
+| Host Name | Bjuckler |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 19:40:17 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939572432241 |
-| Players | 9/10 |
-| Host Name | Томас |
+| Lobby ID | 28574939573066740 |
+| Players | 2/10 |
+| Host Name | K0MaP |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:39:41 |
+| Lobby Creation Time | Friday, December 22, 2023 19:40:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939573061643 |
+| Players | 1/10 |
+| Host Name | HUGE |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 22, 2023 19:40:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939573143237 |
+| Players | 1/24 |
+| Host Name | bastard =) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 19:40:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | momo&peach princess |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:39:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939573038277 |
+| Players | 1/5 |
+| Host Name | FAITH |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 19:40:20 |
 
 
