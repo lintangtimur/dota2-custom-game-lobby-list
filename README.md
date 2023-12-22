@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939253595947 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ✬✬✬Leon Scott Kennedy |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:30:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939254914390 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | M A D I S S O N ™ |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:33:10 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939253780706 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Xibalba |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 10:30:40 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Teo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 10:32:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939250270603 |
+| Players | 22/24 |
+| Host Name | Sense Offender |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 10:22:49 |
 
 
 |  | epic_boss_fight_nightmare |
