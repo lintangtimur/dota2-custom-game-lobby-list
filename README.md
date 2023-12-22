@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939758601736 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Holi |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 22:29:36 |
@@ -131,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939762285976 |
-| Players | 4/15 |
-| Host Name | Azazel |
+| Players | 3/15 |
+| Host Name | positive |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, December 22, 2023 22:32:56 |
 
@@ -158,10 +158,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939762544818 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Freak, not chushpan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:33:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939762825363 |
+| Players | 5/8 |
+| Host Name | Ух Aртем ГРОЗНЫЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:33:26 |
 
 
 |  | epic_boss_fight_nightmare |
