@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939425503434 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Грига гамак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:14:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939424202391 |
-| Players | 23/24 |
-| Host Name | Rāna |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 16:12:41 |
+| Lobby ID | 28574939425998898 |
+| Players | 2/15 |
+| Host Name | Gucci |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 16:15:44 |
 
 
 |  | ot3_gardens_duo |
@@ -27,15 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HO HO HO MERRY CHRISTMAS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:15:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939425565429 |
-| Players | 1/24 |
-| Host Name | Nero |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:14:59 |
 
 
 |  | epic_boss_fight_challenger |
@@ -67,10 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28574939425948627 |
+| Lobby ID | 28574939426044381 |
 | Players | 2/5 |
 | Host Name | qin |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 16:15:39 |
+| Lobby Creation Time | Friday, December 22, 2023 16:15:48 |
 
 
