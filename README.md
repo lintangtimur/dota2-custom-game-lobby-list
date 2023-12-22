@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236522941 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939350921520 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | ГЕОМЕТРИЯ КАЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:57:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939351158775 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | MankoS~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:58:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939351176290 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | yatoro? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:58:12 |
