@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939923688989 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | PUPPEY-SAMA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:09:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939925192130 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | The Last Element_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:10:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939922809225 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | peach |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:08:25 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939927702493 |
+| Lobby ID | 28574939928370439 |
 | Players | 5/8 |
-| Host Name | nefarchyo |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 01:13:28 |
+| Host Name | He1ros |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 01:14:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939928359964 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | لا خوف |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:14:09 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 01:13:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939928370439 |
-| Players | 1/8 |
-| Host Name | He1ros |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:14:10 |
+| Lobby ID | 28574939928467489 |
+| Players | 3/10 |
+| Host Name | My Doctor told me to stop |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 01:14:16 |
 
 
 |  | epic_boss_fight_nightmare |
