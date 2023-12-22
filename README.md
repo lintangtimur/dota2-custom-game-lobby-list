@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939312293296 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 12:37:19 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 12:46:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939316850841 |
-| Players | 1/15 |
-| Host Name | Tetora |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 12:46:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939312153998 |
@@ -122,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939313373029 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Shiroe- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 12:39:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939316938985 |
+| Players | 1/5 |
+| Host Name | Frozenfost |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, December 22, 2023 12:47:08 |
 
 
