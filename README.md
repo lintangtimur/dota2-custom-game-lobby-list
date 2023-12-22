@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939267637623 |
-| Players | 7/8 |
-| Host Name | Sunset |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:01:26 |
+| Lobby ID | 28574939269246592 |
+| Players | 3/8 |
+| Host Name | ` |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 11:04:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939268870844 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | D. Dagrepont |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:04:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939268022517 |
-| Players | 14/24 |
+| Players | 22/24 |
 | Host Name | AJINOMEN PICANTEgiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:02:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939268629055 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:03:38 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 11:04:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939269246592 |
-| Players | 1/8 |
-| Host Name | ` |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 11:04:59 |
 
 
 |  | epic_boss_fight_nightmare |
