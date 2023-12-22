@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939538446545 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | 20 y.o абсолют v potoke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:01:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939538556185 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | John |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 19:01:52 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939538259849 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | E.N.D |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 19:01:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939538953946 |
+| Players | 1/8 |
+| Host Name | Moves~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 19:02:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Baron Afanas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:01:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939529965252 |
-| Players | 3/5 |
-| Host Name | I am your death |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:51:20 |
 
 
