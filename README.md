@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939469883339 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Paradoks |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:28:20 |
@@ -41,10 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939470024253 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Pinkie Pie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:28:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939470593958 |
+| Players | 2/10 |
+| Host Name | СИСЯН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:29:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939470619854 |
+| Players | 3/8 |
+| Host Name | MOnkey |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, December 22, 2023 17:29:28 |
 
 
 |  | epic_boss_fight_hard |
