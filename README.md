@@ -86,27 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939918326886 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | pokoritel` kisok 3000 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:03:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939918269369 |
-| Players | 9/15 |
-| Host Name | Amaro |
+| Lobby ID | 28574939918556003 |
+| Players | 2/8 |
+| Host Name | DeFrogs |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 01:03:45 |
+| Lobby Creation Time | Saturday, December 23, 2023 01:04:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939918400458 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | orcun |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:03:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939918642886 |
+| Players | 1/5 |
+| Host Name | сын улицы |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 01:04:08 |
 
 
