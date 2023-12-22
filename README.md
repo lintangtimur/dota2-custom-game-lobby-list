@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939341493436 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | Crunchypopo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:38:29 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939343105912 |
-| Players | 1/8 |
-| Host Name | ТУРБО ИШАК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 13:41:49 |
+| Lobby ID | 28574939343257964 |
+| Players | 3/24 |
+| Host Name | twitch.tv/lvsques 🏳️‍🌈 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 13:42:08 |
 
 
 |  | ot3_desert_octet |
@@ -59,25 +59,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939343246459 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 𩠑 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 13:42:06 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939343548042 |
+| Players | 3/8 |
+| Host Name | ТУРБО ИШАК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 13:42:43 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939343257964 |
-| Players | 3/24 |
-| Host Name | twitch.tv/lvsques 🏳️‍🌈 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 13:42:08 |
+| Lobby ID | 28574939343650998 |
+| Players | 1/24 |
+| Host Name | BKBB |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 13:42:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939338120312 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Makoto Shishio |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:31:35 |
