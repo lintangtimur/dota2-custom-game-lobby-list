@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939563594121 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | _PoLkOvNiK_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:30:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939559357515 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | DESPAPITO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:25:33 |
@@ -32,10 +32,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939563648503 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | denusar |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 19:30:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939563796811 |
+| Players | 2/8 |
+| Host Name | шашлык артем |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 19:30:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939563831372 |
+| Players | 1/15 |
+| Host Name | Crasp! :D |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 19:30:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939563856747 |
+| Players | 1/15 |
+| Host Name | Hologram是上帝 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 19:30:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939550061598 |
+| Players | 23/24 |
+| Host Name | dngrsnshk |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 19:15:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -50,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939561356763 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Yukinoshito Yukinon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:27:46 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28574939563713445 |
-| Players | 1/5 |
-| Host Name | JAHSEH |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 19:30:20 |
 
 
