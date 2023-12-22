@@ -32,34 +32,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939742503372 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:15:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939741864795 |
-| Players | 10/15 |
-| Host Name | ARTOURИТЕТ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 22:14:34 |
+| Lobby ID | 28574939743186799 |
+| Players | 4/8 |
+| Host Name | humiliated ス妻zxc demon妻ス |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:15:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939733234076 |
-| Players | 5/8 |
-| Host Name | CAMARADA CAPIBARA |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 22:07:00 |
+| Lobby ID | 28574939743299028 |
+| Players | 2/8 |
+| Host Name | https://www.twitch.tv/koobart |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:15:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939738713984 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | †Uchiha Obito† |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 22:11:48 |
@@ -83,46 +83,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 22:06:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939742240332 |
-| Players | 4/8 |
-| Host Name | All m |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 22:14:54 |
+| Lobby ID | 28574939743234201 |
+| Players | 1/24 |
+| Host Name | L'ost |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 22:15:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939741655897 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Pescadero |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 22:14:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939734990906 |
-| Players | 1/24 |
-| Host Name | L'ost |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 22:08:32 |
+| Lobby ID | 28574939738678447 |
+| Players | 8/10 |
+| Host Name | sa_ru |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:11:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939742425227 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | NothingToSay |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 22:15:03 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939743139241 |
+| Players | 2/10 |
+| Host Name | Absolutе psihoKids ghoul 1000-7 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 22:15:41 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939734718959 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | tahwah1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 22:08:18 |
@@ -131,18 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939741960544 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | It doesn't matter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 22:14:39 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939742924275 |
-| Players | 4/10 |
-| Host Name | ๖ۣۜC0mar±йØкØ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 22:15:30 |
 
 
