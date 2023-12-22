@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939397834051 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | squirrel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 15:26:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939397950685 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 626 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:26:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939395113964 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Psycho |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 15:21:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939397080597 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | AJINOMEN PICANTEgiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 15:24:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939396074671 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 15:22:58 |
@@ -65,12 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 15:25:55 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939399020296 |
+| Players | 1/8 |
+| Host Name | Sarapan Srinivasan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 15:28:23 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939396133647 |
-| Players | 9/10 |
-| Host Name | $ilent |
+| Lobby ID | 28574939399015237 |
+| Players | 1/10 |
+| Host Name | SET |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 15:23:04 |
+| Lobby Creation Time | Friday, December 22, 2023 15:28:22 |
 
 
