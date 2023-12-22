@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939929449416 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Gromm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:15:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939940403045 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Avaci |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:26:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939940348381 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Желтый с ДомБыта |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:26:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939938491993 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Hola |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:24:46 |
@@ -86,34 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939937324910 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Evo_come_llamas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:23:31 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939940152849 |
-| Players | 7/10 |
-| Host Name | Vzzc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:26:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939935917991 |
-| Players | 6/8 |
-| Host Name | Есос Пэрриху |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 01:22:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939938192106 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Battleye.EXE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:24:27 |
