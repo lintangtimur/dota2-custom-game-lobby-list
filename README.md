@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939459824095 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Cpt Karl |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, December 22, 2023 17:12:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939456794099 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:07:33 |
@@ -58,18 +58,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939459461426 |
-| Players | 8/10 |
-| Host Name | зЕЛЕНЬ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 17:11:50 |
+| Lobby ID | 28574939459926643 |
+| Players | 2/10 |
+| Host Name | Акс в стрингах |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:12:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939459777014 |
-| Players | 2/15 |
-| Host Name | Bashkort malay |
+| Players | 3/15 |
+| Host Name | UNИAMED |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:12:20 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939459871495 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | LKO MR |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:12:29 |
