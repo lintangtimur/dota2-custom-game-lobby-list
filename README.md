@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939343650998 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Gollum999 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 13:42:55 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939350842973 |
-| Players | 2/8 |
-| Host Name | Fsg |
+| Players | 1/8 |
+| Host Name | trb. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:57:33 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939349429099 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ivan |
 | Region | CHILE |
 | Lobby Creation Time | Friday, December 22, 2023 13:54:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939350921520 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ГЕОМЕТРИЯ КАЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 13:57:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939348886240 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CORRALITO |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 13:53:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939351158775 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | MankoS~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:58:10 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939346488331 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:48:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939350890429 |
-| Players | 1/10 |
-| Host Name | Sakata Gintoki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 13:57:38 |
 
 
 |  | epic_boss_fight_nightmare |
