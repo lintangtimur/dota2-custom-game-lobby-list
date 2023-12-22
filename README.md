@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939709977896 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Даня Позитив (нет) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 21:46:25 |
@@ -74,31 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 21:45:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939709972467 |
-| Players | 14/15 |
-| Host Name | Ake |
+| Lobby ID | 28574939710523335 |
+| Players | 3/24 |
+| Host Name | Подсисечник Бурл |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:46:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939709885420 |
-| Players | 8/10 |
-| Host Name | tw.tv/nathmnq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:46:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939710034629 |
-| Players | 5/8 |
-| Host Name | Пивопитек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:46:28 |
+| Lobby Creation Time | Friday, December 22, 2023 21:46:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,11 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939710478614 |
-| Players | 1/8 |
-| Host Name | truly humble under god |
+| Lobby ID | 28574939710034629 |
+| Players | 7/8 |
+| Host Name | Пивопитек |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 21:46:51 |
+| Lobby Creation Time | Friday, December 22, 2023 21:46:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939710659908 |
+| Players | 1/24 |
+| Host Name | L |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 21:47:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939710730975 |
+| Players | 2/10 |
+| Host Name | Натаха Изолента |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 21:47:05 |
 
 
 |  | epic_boss_fight_nightmare |
