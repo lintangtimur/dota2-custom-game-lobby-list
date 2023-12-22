@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939486649517 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Sperm. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:53:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939485088087 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | SKY Cyborg |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 17:51:05 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939489111011 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | WOU |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 17:56:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939488234647 |
+| Players | 14/15 |
+| Host Name | ЭПОЛИТ БРОНИКАРП |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 17:55:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939489242565 |
+| Players | 1/8 |
+| Host Name | Nothing. |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 17:57:10 |
 
 
 |  | epic_boss_fight_challenger |
@@ -68,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939487552777 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | lmfaowhocares™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:54:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939489174196 |
+| Players | 1/10 |
+| Host Name | SET |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:57:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939489251216 |
+| Players | 1/5 |
+| Host Name | ДОЯРКА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 17:57:11 |
 
 
