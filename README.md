@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939426472823 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | andre.dz |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 16:16:32 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939426420941 |
-| Players | 9/10 |
-| Host Name | ПОЕЛ ГОВНА |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 16:16:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939426671072 |
-| Players | 1/8 |
-| Host Name | Prime-Nosfer |
+| Players | 5/8 |
+| Host Name | ミカサ・アッカーマン |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 16:16:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939426886558 |
+| Players | 1/10 |
+| Host Name | enishi |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 16:17:15 |
 
 
 |  | epic_boss_fight_challenger |
