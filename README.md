@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939234164006 |
-| Players | 7/8 |
-| Host Name | PEDO LIQUIDO |
+| Lobby ID | 28574939234355611 |
+| Players | 7/24 |
+| Host Name | Gwiza |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 09:46:35 |
+| Lobby Creation Time | Friday, December 22, 2023 09:46:59 |
 
 
 |  | ot3_gardens_duo |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939233709243 |
-| Players | 14/15 |
-| Host Name | CameraMan |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 09:45:36 |
+| Lobby ID | 28574939235039836 |
+| Players | 3/15 |
+| Host Name | FeeZy |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 09:48:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939229885327 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 09:36:58 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Top Knot.Maeghan |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 09:41:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939234355611 |
-| Players | 6/24 |
-| Host Name | Gwiza |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 09:46:59 |
 
 
 |  | epic_boss_fight_nightmare |
