@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939550735484 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Skipeth-lolz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939580912088 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Blankenfjäll |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:48:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939581414209 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Barth |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 19:49:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939582048872 |
-| Players | 2/24 |
+| Players | 7/24 |
 | Host Name | nakedave36 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:49:39 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 19:49:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939582321033 |
-| Players | 2/10 |
-| Host Name | SWUGY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 19:49:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939582138868 |
-| Players | 1/15 |
-| Host Name | Emotional Damage |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 19:49:45 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939582423054 |
@@ -90,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | РАЯН ГОСЛИНГ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 19:50:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939582138868 |
+| Players | 3/15 |
+| Host Name | Emotional Damage |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 19:49:45 |
 
 
 |  | epic_boss_fight_nightmare |
