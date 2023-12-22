@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939355003579 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | 旺哥 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:05:42 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939236522941 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939357322384 |
-| Players | 12/15 |
-| Host Name | lashrma |
+| Lobby ID | 28574939358136438 |
+| Players | 4/10 |
+| Host Name | ПИДАРАС СТАРШИЙ |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:10:12 |
+| Lobby Creation Time | Friday, December 22, 2023 14:11:48 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939358050296 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Endsieg |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 14:11:37 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939354509126 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | miko |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 14:04:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28574939358136438 |
-| Players | 2/10 |
-| Host Name | ПИДАРАС СТАРШИЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:11:48 |
 
 
 |  | epic_boss_fight_nightmare |
