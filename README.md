@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939942347842 |
+| Lobby ID | 28574939944620934 |
 | Players | 1/8 |
-| Host Name | Чернобаев |
+| Host Name | Moves~ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:28:56 |
+| Lobby Creation Time | Saturday, December 23, 2023 01:31:21 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939944275619 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | E'NOT●̮̮̃♕▲✪ ◙ ™ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 01:30:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939942854503 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Soy El Corazon De Las Tinieblas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 01:29:28 |
@@ -95,28 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939944349141 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Сергей Лоботомия |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:31:04 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939944504068 |
-| Players | 5/8 |
-| Host Name | Shhhhh SLEEPERS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:31:13 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939944499857 |
+| Lobby ID | 28574939944572186 |
 | Players | 1/10 |
 | Host Name | wrong |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 01:31:13 |
+| Lobby Creation Time | Saturday, December 23, 2023 01:31:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939944110507 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ✬✯✮$ⅉ︎₲ℳ︎₳☃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 01:30:48 |
