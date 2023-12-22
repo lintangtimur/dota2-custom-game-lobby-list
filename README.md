@@ -68,9 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939305264442 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | pitufo valiente |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 12:22:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939305332049 |
+| Players | 2/10 |
+| Host Name | Don payiyo |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 12:22:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939305339747 |
+| Players | 1/10 |
+| Host Name | 起个名真纠结 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, December 22, 2023 12:22:26 |
 
 
