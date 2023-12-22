@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 18:12:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939504391092 |
-| Players | 9/15 |
-| Host Name | skrff |
+| Lobby ID | 28574939505243531 |
+| Players | 4/10 |
+| Host Name | 床单 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:18:12 |
+| Lobby Creation Time | Friday, December 22, 2023 18:19:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939504448549 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | sw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 18:18:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939499916513 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Mety |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:12:07 |
@@ -49,35 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939504568340 |
-| Players | 3/8 |
-| Host Name | Buxan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 18:18:26 |
+| Lobby ID | 28574939505515287 |
+| Players | 1/8 |
+| Host Name | БЕСпоЩАДОВ МУН |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 18:19:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939505132486 |
-| Players | 1/15 |
-| Host Name | Artsizi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 18:19:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939503304631 |
-| Players | 2/10 |
-| Host Name | Sakata Gintoki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 18:16:44 |
+| Lobby ID | 28574939505559781 |
+| Players | 5/15 |
+| Host Name | Норильский никел |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 18:19:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939503492448 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | [-DR] Kaboooom |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 18:17:00 |
