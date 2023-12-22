@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939332869422 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Kaydo亚瑟 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 13:20:33 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939332084120 |
-| Players | 7/15 |
-| Host Name | 󠀡󠀡Norton |
+| Players | 6/15 |
+| Host Name | BirdBob |
 | Region | USWEST |
 | Lobby Creation Time | Friday, December 22, 2023 13:18:56 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939333767527 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | NederLandS26 |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 13:22:27 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Norinco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 13:18:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939334160011 |
+| Players | 1/15 |
+| Host Name | The Captain |
+| Region | USWEST |
+| Lobby Creation Time | Friday, December 22, 2023 13:23:19 |
 
 
 |  | epic_boss_fight_nightmare |
