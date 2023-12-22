@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939367711368 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Ayesha♥♥♥ |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, December 22, 2023 14:30:31 |
@@ -29,31 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:40:39 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939374544960 |
+| Players | 8/15 |
+| Host Name | バカ 𒉭 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 14:43:26 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939374329807 |
-| Players | 2/10 |
-| Host Name | ZzzDddRrr |
+| Lobby ID | 28574939374756243 |
+| Players | 1/10 |
+| Host Name | Balagur |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 14:43:01 |
+| Lobby Creation Time | Friday, December 22, 2023 14:43:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939374521385 |
-| Players | 4/15 |
-| Host Name | Javier rodriguez atoche |
+| Lobby ID | 28574939374854395 |
+| Players | 1/15 |
+| Host Name | OG Miracle! |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 14:43:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939374534392 |
-| Players | 1/24 |
-| Host Name | KILLER QUEEN |
-| Region | CHILE |
-| Lobby Creation Time | Friday, December 22, 2023 14:43:25 |
+| Lobby Creation Time | Friday, December 22, 2023 14:44:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -65,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:36:21 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28574939374475967 |
-| Players | 1/5 |
-| Host Name | Pedro Gubakol |
+| Lobby ID | 28574939374729035 |
+| Players | 1/10 |
+| Host Name | . Skye |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:43:18 |
+| Lobby Creation Time | Friday, December 22, 2023 14:43:46 |
 
 
