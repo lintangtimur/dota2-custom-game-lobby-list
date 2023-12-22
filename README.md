@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939257266924 |
-| Players | 1/15 |
-| Host Name | K1tay |
+| Players | 8/15 |
+| Host Name | ABØL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 10:38:18 |
 
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 09:51:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939256359599 |
-| Players | 15/24 |
-| Host Name | D-MF |
+| Lobby ID | 28574939257515595 |
+| Players | 1/15 |
+| Host Name | DGL |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:36:20 |
+| Lobby Creation Time | Friday, December 22, 2023 10:38:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939256816732 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 10:37:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939256419461 |
-| Players | 7/8 |
-| Host Name | IAmCesAr |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 10:36:28 |
+| Lobby ID | 28574939257362443 |
+| Players | 1/10 |
+| Host Name | tchitchinadze1 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 10:38:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939256913854 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | ☠ Kira Yoshikage☢ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 10:37:32 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939257544374 |
+| Players | 3/8 |
+| Host Name | Rinツ |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 22, 2023 10:38:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939257255678 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Integration By Parts |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 10:38:16 |
