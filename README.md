@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939550735484 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Skipeth-lolz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 19:15:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939819209612 |
-| Players | 10/24 |
+| Players | 17/24 |
 | Host Name | ХЕРОБРИН |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 23:25:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939820237053 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | YO PINGA LOCA |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 23:26:44 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939820413261 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | huh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 23:26:54 |
@@ -121,17 +121,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939822231284 |
-| Players | 10/15 |
-| Host Name | Nemo |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 23:28:38 |
+| Lobby ID | 28574939822771950 |
+| Players | 1/15 |
+| Host Name | NPC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:29:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939822303380 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Nimetal |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 22, 2023 23:28:42 |
@@ -140,10 +140,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939822299251 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | God Of Shit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 23:28:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28574939822571330 |
+| Players | 2/10 |
+| Host Name | DevilNF |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:28:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939822591976 |
+| Players | 7/8 |
+| Host Name | водоросли под водой не живут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:28:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939822907180 |
+| Players | 4/8 |
+| Host Name | 240/xuev v rot |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 23:29:17 |
 
 
 |  | epic_boss_fight_nightmare |
