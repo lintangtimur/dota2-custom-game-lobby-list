@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939400723299 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | O |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:31:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939399020296 |
-| Players | 2/8 |
-| Host Name | Sarapan Srinivasan |
+| Lobby ID | 28574939400833514 |
+| Players | 4/24 |
+| Host Name | Pusat Beli-Belah Harapan |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 15:28:23 |
+| Lobby Creation Time | Friday, December 22, 2023 15:31:37 |
 
 
 |  | ot3_desert_octet |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AJINOMEN PICANTEgiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 15:24:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939400833514 |
-| Players | 3/24 |
-| Host Name | Pusat Beli-Belah Harapan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 15:31:37 |
 
 
 |  | epic_boss_fight_nightmare |
