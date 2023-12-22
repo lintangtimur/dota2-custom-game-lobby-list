@@ -47,37 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 17:10:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939461454015 |
-| Players | 1/15 |
-| Host Name | Horny ??? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 17:14:58 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939460919257 |
-| Players | 22/24 |
-| Host Name | Ohayo! |
+| Lobby ID | 28574939462386293 |
+| Players | 3/24 |
+| Host Name | Golden Path Enjoyer |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 17:14:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939461320790 |
-| Players | 12/15 |
-| Host Name | HOLO костя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 17:14:46 |
+| Lobby Creation Time | Friday, December 22, 2023 17:16:27 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939462142081 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | A |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 17:16:04 |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939461806177 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Hey What Happened |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 17:15:32 |
