@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939379327575 |
-| Players | 1/8 |
-| Host Name | no stress challenge |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:52:22 |
+| Lobby ID | 28574939379802909 |
+| Players | 6/15 |
+| Host Name | coac1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 14:53:17 |
 
 
 |  | ot3_desert_octet |
@@ -29,40 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 14:52:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28574939378653133 |
-| Players | 9/10 |
-| Host Name | SimpleJust 🇺🇦 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 14:51:06 |
+| Lobby ID | 28574939379856916 |
+| Players | 4/8 |
+| Host Name | 2rbo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 14:53:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939378899010 |
-| Players | 6/24 |
-| Host Name | VERSACE |
+| Players | 8/24 |
+| Host Name | Psycho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 14:51:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939379584576 |
-| Players | 6/8 |
-| Host Name | dinero |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:52:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939376737861 |
-| Players | 9/10 |
-| Host Name | Neizen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 14:47:29 |
 
 
 |  | epic_boss_fight_normal |
