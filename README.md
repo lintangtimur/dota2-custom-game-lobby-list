@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28574939647994095 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Gimmick |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 22, 2023 20:52:23 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939643884434 |
-| Players | 13/15 |
-| Host Name | PAch1 |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 20:48:42 |
+| Lobby ID | 28574939649120437 |
+| Players | 9/15 |
+| Host Name | 100 Dedos |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 20:53:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939647036922 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Bjuckler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:51:32 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28574939648200592 |
-| Players | 6/10 |
-| Host Name | ДоброходЪ |
+| Lobby ID | 28574939649218402 |
+| Players | 1/10 |
+| Host Name | LARVELL JONES |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 20:52:34 |
+| Lobby Creation Time | Friday, December 22, 2023 20:53:30 |
 
 
 |  | ot3_desert_octet |
@@ -86,18 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939645993020 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 20:50:35 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28574939649716779 |
+| Players | 3/8 |
+| Host Name | ifsjuifgjsduiofgpiojdsfpgiojsdf |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 20:53:57 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28574939646147905 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 20:50:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939649245753 |
+| Players | 2/10 |
+| Host Name | ✬✯✮$ⅉ︎₲ℳ︎₳☃ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 20:53:31 |
 
 
