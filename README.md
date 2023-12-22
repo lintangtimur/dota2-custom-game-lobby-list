@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28574939281037718 |
-| Players | 14/15 |
-| Host Name | 20-1 t1Bu |
+| Lobby ID | 28574939282359701 |
+| Players | 4/24 |
+| Host Name | Abet |
 | Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:30:22 |
+| Lobby Creation Time | Friday, December 22, 2023 11:33:13 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939281599718 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Waste |
 | Region | USEAST |
 | Lobby Creation Time | Friday, December 22, 2023 11:31:35 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 11:32:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28574939282359701 |
-| Players | 1/24 |
-| Host Name | Abet |
-| Region | PERU |
-| Lobby Creation Time | Friday, December 22, 2023 11:33:13 |
 
 
