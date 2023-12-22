@@ -58,15 +58,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939251653556 |
-| Players | 1/15 |
-| Host Name | Do You Love Me? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 10:26:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28574939251701577 |
 | Players | 1/15 |
 | Host Name | Haktaru |
