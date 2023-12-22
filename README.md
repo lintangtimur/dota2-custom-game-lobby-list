@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939451227681 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | [Bot] Zee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:58:29 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28574939451923876 |
-| Players | 1/15 |
-| Host Name | GOOD GAME |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 16:59:38 |
+| Lobby ID | 28574939453335919 |
+| Players | 4/15 |
+| Host Name | Бешкетник |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, December 22, 2023 17:01:59 |
 
 
 |  | ot3_desert_octet |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:58:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939453335919 |
-| Players | 1/15 |
-| Host Name | Бешкетник |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 17:01:59 |
 
 
 |  | epic_boss_fight_nightmare |
