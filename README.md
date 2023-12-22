@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28574939592408712 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Cap. Kotletka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 20:00:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939592207526 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Доброхук Пуджови |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 19:59:59 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EGIRLSLUVME |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 22, 2023 19:55:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28574939592692213 |
+| Players | 1/24 |
+| Host Name | < blank > |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 20:00:27 |
 
 
 |  | epic_boss_fight_nightmare |
