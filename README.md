@@ -38,39 +38,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 16:25:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28574939429869213 |
-| Players | 2/8 |
-| Host Name | MALEBEL TYT?? |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 22, 2023 16:22:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939440307748 |
-| Players | 1/15 |
-| Host Name | Soyman, the slacker |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, December 22, 2023 16:40:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28574939440139880 |
-| Players | 6/15 |
-| Host Name | shownomercy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 22, 2023 16:39:57 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28574939439159198 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Bo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 22, 2023 16:38:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28574939437724709 |
+| Players | 14/15 |
+| Host Name | andre.dz |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 16:35:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939440511233 |
+| Players | 1/10 |
+| Host Name | Nyanko |
+| Region | USEAST |
+| Lobby Creation Time | Friday, December 22, 2023 16:40:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28574939440687498 |
+| Players | 1/10 |
+| Host Name | =( |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 22, 2023 16:40:52 |
 
 
