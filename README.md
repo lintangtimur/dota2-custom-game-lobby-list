@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28574939394766869 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | æksiəˈmætɪk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:20:36 |
@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 22, 2023 15:21:13 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28574939394745591 |
-| Players | 1/10 |
-| Host Name | monkaGIGA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 22, 2023 15:20:34 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28574939395149182 |
@@ -54,5 +45,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tommy Shelby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 22, 2023 15:21:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28574939395285921 |
+| Players | 1/5 |
+| Host Name | monkaGIGA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 22, 2023 15:21:32 |
 
 
