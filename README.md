@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536836415595 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:42:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536831425699 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | LET ME COOK |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 13:34:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536837677397 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 神楽坂一二三乃愛美癒 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:44:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536837373816 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ПЛАХОЙ ПОЦ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:44:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536836246646 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | nvxe |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:42:13 |
