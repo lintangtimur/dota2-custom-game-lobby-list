@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537358166792 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Saurman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 23:12:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537359244550 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | NIKÃO BODYBUILDER |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 23:13:31 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 23:14:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537361501755 |
-| Players | 12/15 |
-| Host Name | xzc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 23:15:33 |
+| Lobby ID | 28576537362222339 |
+| Players | 2/8 |
+| Host Name | бегите |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 23:16:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537355223807 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Andresx1x |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 23:09:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537361708717 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Albus Wulfric Brian Dumbledore |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 23:15:44 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ??? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 23:15:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537362173277 |
+| Players | 6/15 |
+| Host Name | HolyGun |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 23:16:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537362221208 |
+| Players | 3/8 |
+| Host Name | ..1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 23:16:11 |
 
 
 |  | epic_boss_fight_normal |
