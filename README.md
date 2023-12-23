@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536840676638 |
-| Players | 10/15 |
-| Host Name | Glimmer of Hope |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 13:49:14 |
+| Lobby ID | 28576536841259965 |
+| Players | 4/10 |
+| Host Name | выселбеби |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 13:50:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536837677397 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | 神楽坂一二三乃愛美癒 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:44:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536840859735 |
-| Players | 7/8 |
-| Host Name | Dr. Dildo |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 13:49:31 |
+| Lobby ID | 28576536841310068 |
+| Players | 2/10 |
+| Host Name | Black Sheep |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 13:50:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536836246646 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | nvxe |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:42:13 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536840932662 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Dying 2 Live |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:49:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576536835806650 |
-| Players | 3/5 |
-| Host Name | vakirotasi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 13:41:31 |
 
 
