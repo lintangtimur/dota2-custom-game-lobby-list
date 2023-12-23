@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537224655384 |
-| Players | 6/8 |
-| Host Name | AFK |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 21:17:40 |
+| Lobby ID | 28576537226131603 |
+| Players | 1/24 |
+| Host Name | RagingBurgers |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:18:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537225885972 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Снова грозный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:18:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537225217846 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:18:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537225554209 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Dᴀᴍᴇ Dᴀᴍᴇ |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 23, 2023 21:18:24 |
@@ -68,34 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537226070208 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | dead outside |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:18:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537226131603 |
-| Players | 1/24 |
-| Host Name | RagingBurgers |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:18:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537221594870 |
-| Players | 9/10 |
-| Host Name | laskovaya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:15:05 |
+| Lobby ID | 28576537226362247 |
+| Players | 1/8 |
+| Host Name | Toss a coin to your Witcher |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:19:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537224311173 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Kapal lawd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:17:22 |
