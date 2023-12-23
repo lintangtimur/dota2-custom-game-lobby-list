@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536796542591 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:34:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536796799893 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | я в шоу  Трумана |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:34:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536796251721 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Bajito pero soberbio |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:33:47 |
