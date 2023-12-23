@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576536895762927 |
 | Players | 3/10 |
-| Host Name | ANAKONDA |
+| Host Name | swap commends(: |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:12:39 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536896472130 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | kolomna |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:13:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536895944992 |
-| Players | 11/24 |
+| Players | 20/24 |
 | Host Name | ~MrTriceps~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:12:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536896052337 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | BOYKA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 15:13:04 |
@@ -58,19 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536896883418 |
+| Lobby ID | 28576536897091748 |
 | Players | 3/15 |
-| Host Name | Бургер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 15:14:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576536895170554 |
-| Players | 6/10 |
-| Host Name | Fozzzey |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 15:11:50 |
+| Host Name | Locomobile | The Chimney |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 15:14:31 |
 
 
