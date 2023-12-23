@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536886645762 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Birbo |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 14:59:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536892403234 |
-| Players | 1/15 |
-| Host Name | Forgottencel |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 15:07:53 |
 
 
 |  | ot3_jungle_quintet |
