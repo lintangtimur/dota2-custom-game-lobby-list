@@ -23,16 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536937668249 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | НАСИЛОВАЛ ЧУРОК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:11:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536938446115 |
+| Players | 4/15 |
+| Host Name | TheLupa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 16:12:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536937860019 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 大哥打野音信全无 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:11:17 |
