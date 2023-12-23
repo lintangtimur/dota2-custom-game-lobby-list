@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536895092759 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ⛧ erotiq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 15:11:43 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536893839767 |
-| Players | 5/8 |
-| Host Name | COCOA RAMPAGE |
+| Lobby ID | 28576536895503586 |
+| Players | 1/8 |
+| Host Name | uhateme? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 15:09:57 |
+| Lobby Creation Time | Saturday, December 23, 2023 15:12:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,10 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 15:11:27 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536895491592 |
+| Players | 2/8 |
+| Host Name | К школе готов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 15:12:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536895170554 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:11:50 |
