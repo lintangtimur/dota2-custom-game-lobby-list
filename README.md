@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536845941992 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | ghost rider |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 13:57:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536847327550 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:59:57 |
@@ -54,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | B |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:54:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536848820384 |
+| Players | 2/5 |
+| Host Name | mdln |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:02:18 |
 
 
