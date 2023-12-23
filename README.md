@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536800839056 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | BIG_FUCK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:41:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536802276994 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | daddy's little slug |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 12:44:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536800216921 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | niotartnecnoC |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:40:46 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tobi |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:44:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536804402504 |
+| Players | 2/15 |
+| Host Name | YA C БOГAMИ COВET DERZHY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 12:48:10 |
 
 
 |  | epic_boss_fight_nightmare |
