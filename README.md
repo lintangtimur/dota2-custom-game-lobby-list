@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536987479932 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | smox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:18:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536988069143 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Carwyn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:18:47 |
@@ -50,18 +50,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536989169859 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | 9mm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:20:13 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536989316555 |
+| Players | 5/8 |
+| Host Name | ??? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:20:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536989689905 |
+| Players | 1/15 |
+| Host Name | jno |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, December 23, 2023 17:20:54 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536988911949 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | OpenAl(ℬoτ) ✔ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:19:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536989426856 |
+| Players | 1/5 |
+| Host Name | kote_moloke [] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:20:33 |
 
 
