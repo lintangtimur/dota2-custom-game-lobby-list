@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536848879568 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | 宝哥哥 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:02:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536850788804 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Desire |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:05:23 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536849203001 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | =( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:02:53 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576536849565328 |
-| Players | 2/10 |
-| Host Name | ChowChow |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, December 23, 2023 14:03:28 |
+| Lobby ID | 28576536851216448 |
+| Players | 1/5 |
+| Host Name | Marjon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 14:06:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536850931157 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | 谜兔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:05:36 |
