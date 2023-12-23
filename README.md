@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 17:09:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536981713393 |
-| Players | 8/10 |
-| Host Name | Shevrassa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:10:29 |
+| Lobby ID | 28576536982852900 |
+| Players | 4/15 |
+| Host Name | Серж Горелый |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:11:59 |
 
 
 |  | ot3_desert_octet |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bender |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:06:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536982929397 |
+| Players | 1/5 |
+| Host Name | 大哥打野音信全无 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:12:05 |
 
 
