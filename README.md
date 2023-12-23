@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536892990906 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ластхитмэн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 15:08:44 |
@@ -29,33 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 15:01:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536893879625 |
-| Players | 14/15 |
-| Host Name | xzc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 15:10:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536893839767 |
-| Players | 2/8 |
-| Host Name | COCOA RAMPAGE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 15:09:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536894616951 |
-| Players | 1/15 |
-| Host Name | Yessiree |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 15:11:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536890042751 |
@@ -63,5 +36,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hey What Happened |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:04:28 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576536894726080 |
+| Players | 2/7 |
+| Host Name | wenomechainsama |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 15:11:13 |
 
 
