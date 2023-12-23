@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537013903331 |
-| Players | 6/15 |
+| Players | 3/15 |
 | Host Name | Ddubs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:51:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537013461784 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Moooooooo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:51:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537014483838 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Teмa, 14 лeт, кpyтoй |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:52:28 |
@@ -77,10 +77,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537014507074 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | son of a gun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:52:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537014618688 |
+| Players | 1/24 |
+| Host Name | equilibrium |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:52:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537014657696 |
+| Players | 4/15 |
+| Host Name | asd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:52:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537014708960 |
+| Players | 2/8 |
+| Host Name | хуйня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:52:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537014727563 |
+| Players | 2/10 |
+| Host Name | 隔壁戴夫 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:52:46 |
 
 
 |  | epic_boss_fight_normal |
