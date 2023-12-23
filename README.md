@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536861207631 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | S₽@ЛвK₽ЫSЧE₽еZ_b0Lь |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:21:23 |
@@ -14,10 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536861077011 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Яндекс.Такси |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:21:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576536861603304 |
+| Players | 2/24 |
+| Host Name | [19-2] Λʀʀɪ℣ɑɭ.XS |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 14:21:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576536861649367 |
+| Players | 2/24 |
+| Host Name | Ayam Goreng Mekdi (Pedas) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 14:22:03 |
 
 
 |  | epic_boss_fight_normal |
