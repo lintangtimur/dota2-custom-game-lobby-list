@@ -2,40 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536860170131 |
-| Players | 14/15 |
-| Host Name | RªgÑªªr ♣ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:19:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576536859375304 |
-| Players | 12/24 |
-| Host Name | ไก่แจ้ |
+| Lobby ID | 28576536861207631 |
+| Players | 4/10 |
+| Host Name | S₽@ЛвK₽ЫSЧE₽еZ_b0Lь |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:18:36 |
+| Lobby Creation Time | Saturday, December 23, 2023 14:21:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536861077011 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Яндекс.Такси |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:21:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536858351824 |
-| Players | 14/15 |
-| Host Name | KindOfMagik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:17:03 |
 
 
 |  | epic_boss_fight_normal |
