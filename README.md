@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536808099285 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Guihs |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 12:54:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536808926757 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | HeWhoRemains |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:56:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536810094149 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | JONES EL ABUSAMADRES |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:58:18 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 12:59:45 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536811199152 |
+| Players | 1/15 |
+| Host Name | Smile of death |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 13:00:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536810057112 |
@@ -72,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 10K Behavior Score |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:58:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536811240842 |
+| Players | 1/5 |
+| Host Name | Teemo:)Breeder |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 13:00:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536811229728 |
+| Players | 1/10 |
+| Host Name | PRIZMAN📿 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 13:00:13 |
 
 
