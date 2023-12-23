@@ -5,46 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537173852301 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | туалет крутится |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:34:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537184599280 |
-| Players | 4/8 |
-| Host Name | beep! |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:43:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537184123322 |
-| Players | 7/15 |
-| Host Name | shtora |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:43:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537172540821 |
-| Players | 23/24 |
-| Host Name | FreeBofe |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, December 23, 2023 20:33:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537184145107 |
-| Players | 7/10 |
-| Host Name | aishiteru |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:43:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537175850221 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SIGO ADELANTE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 20:36:10 |
@@ -67,19 +31,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537177905585 |
-| Players | 22/24 |
-| Host Name | Успех |
+| Lobby ID | 28576537185913491 |
+| Players | 2/24 |
+| Host Name | chill doto |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:37:56 |
+| Lobby Creation Time | Saturday, December 23, 2023 20:44:50 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537185046807 |
-| Players | 3/5 |
-| Host Name | SAVE THAT SHIT |
+| Lobby ID | 28576537185763499 |
+| Players | 3/8 |
+| Host Name | Mr. Потный |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:44:05 |
+| Lobby Creation Time | Saturday, December 23, 2023 20:44:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537185596534 |
+| Players | 11/15 |
+| Host Name | loudwallace/cbond |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:44:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537186087517 |
+| Players | 1/15 |
+| Host Name | Locomobile | The Chimney |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 20:44:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537186069494 |
+| Players | 6/8 |
+| Host Name | Девочка Баттер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:44:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537186020722 |
+| Players | 2/10 |
+| Host Name | heiwuren |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 20:44:55 |
 
 
