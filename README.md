@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536942517387 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:17:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536948639876 |
-| Players | 2/10 |
-| Host Name | KRATOS |
+| Lobby ID | 28576536949440150 |
+| Players | 1/8 |
+| Host Name | bun |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 16:25:57 |
+| Lobby Creation Time | Saturday, December 23, 2023 16:27:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -36,6 +36,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Neoxa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:26:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576536949404364 |
+| Players | 1/10 |
+| Host Name | телекрысор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 16:27:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536947919048 |
+| Players | 7/8 |
+| Host Name | apocalypse |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 16:24:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536949443098 |
+| Players | 3/15 |
+| Host Name | Tilimurka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 16:27:05 |
 
 
 |  | epic_boss_fight_nightmare |
