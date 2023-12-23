@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537027564536 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Rezys |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:08:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537017087517 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Mr floofi |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 17:55:41 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537027787561 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | yung tax return |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:08:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537027515819 |
-| Players | 9/10 |
-| Host Name | Space-man ඞ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 18:08:12 |
+| Lobby ID | 28576537028231460 |
+| Players | 1/8 |
+| Host Name | ДЯДЯ ВЕРНОН |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 18:09:03 |
 
 
 |  | epic_boss_fight_nightmare |
