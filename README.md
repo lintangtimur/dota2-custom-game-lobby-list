@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536787966042 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:18:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536787986832 |
-| Players | 22/24 |
-| Host Name | El Saramambiche |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 12:18:28 |
+| Lobby ID | 28576536789685897 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 12:21:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536788869193 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ¨EinHeRjaR¨ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:20:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536789026650 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | MORACLE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:20:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536789159124 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | GGWP |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 12:20:35 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LET ME COOK |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 12:21:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536789685897 |
-| Players | 1/8 |
-| Host Name | isn't like holding to the center |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 12:21:32 |
 
 
 |  | epic_boss_fight_nightmare |
