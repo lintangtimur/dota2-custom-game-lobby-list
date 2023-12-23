@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537066166802 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 23, 2023 18:51:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537064705733 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | King Nothing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:50:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537066581414 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Zico |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:52:13 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 18:43:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537059334220 |
-| Players | 6/8 |
-| Host Name | colder than corpse |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 18:44:23 |
+| Lobby ID | 28576537059443472 |
+| Players | 9/10 |
+| Host Name | Gargamel |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 18:44:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537066158274 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Chili |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:51:46 |
@@ -92,28 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 18:49:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537066477914 |
-| Players | 4/8 |
-| Host Name | technician |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 18:52:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537059443472 |
-| Players | 9/10 |
-| Host Name | Gargamel |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 18:44:31 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537066771300 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Вася Залупкин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:52:25 |
