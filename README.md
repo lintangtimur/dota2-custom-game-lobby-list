@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 16:29:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536953192089 |
-| Players | 5/10 |
-| Host Name | 925, burn me my medallion |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 16:32:16 |
+| Lobby ID | 28576536952406626 |
+| Players | 5/8 |
+| Host Name | Axiz |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 16:31:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536953037841 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Nihdogg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:32:03 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536953144022 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | БоМж на ПЛЯЖЕ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:32:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536952406626 |
-| Players | 6/8 |
-| Host Name | Axiz |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 16:31:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536952965615 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Фе́ликс  Дзержи́н |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:31:57 |
