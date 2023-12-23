@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536934038119 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:06:03 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 16:13:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536937668249 |
-| Players | 7/8 |
-| Host Name | НАСИЛОВАЛ ЧУРОК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 16:11:02 |
+| Lobby ID | 28576536939578288 |
+| Players | 7/15 |
+| Host Name | не убивайте пж |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 16:13:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536938861986 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | StigL1tz_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:12:39 |
@@ -47,28 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 16:12:21 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536939147503 |
-| Players | 2/8 |
-| Host Name | ПЛАТОН RAMPAGE |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:13:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536939478314 |
-| Players | 1/15 |
-| Host Name | расул эбелехауар |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 16:13:29 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536937860019 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 大哥打野音信全无 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:11:17 |
