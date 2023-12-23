@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537112487221 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | whopidor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:38:38 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 18:32:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537111628334 |
-| Players | 7/8 |
-| Host Name | ДЕГРОДАНТ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:37:48 |
+| Lobby ID | 28576537113122317 |
+| Players | 1/10 |
+| Host Name | Yareyaredaze |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:39:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537101911771 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | FuNky* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:28:25 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 19:36:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537110397885 |
-| Players | 23/24 |
-| Host Name | Odyssey |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:36:39 |
+| Lobby ID | 28576537113243146 |
+| Players | 5/8 |
+| Host Name | qhazo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 19:39:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537110460185 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | lp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:36:42 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Гнев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:35:50 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576537113027591 |
-| Players | 1/7 |
-| Host Name | mwa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:39:09 |
 
 
