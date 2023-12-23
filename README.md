@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536922535841 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Дароу Ромыч |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 15:50:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536920782279 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Ceid |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:47:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536914359340 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Cypher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 15:38:44 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536923181686 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | carrot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:50:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536921527172 |
-| Players | 13/15 |
-| Host Name | cqr |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 15:48:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576536923533341 |
-| Players | 1/24 |
-| Host Name |  |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 23, 2023 15:51:25 |
+| Lobby ID | 28576536923643294 |
+| Players | 1/8 |
+| Host Name | ЗаПутина |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 15:51:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536920658050 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Vells |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:47:26 |
