@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537400055790 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | BAYUN |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 23:51:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537400341650 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | losing streak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 23:51:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537400992857 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | thenotoriousmma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 23:51:53 |
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 23:51:53 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537401347069 |
+| Players | 5/15 |
+| Host Name | death the kid |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 23:52:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537397664619 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | crocodile |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 23:48:46 |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | biniboi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 23:48:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537401319327 |
+| Players | 2/10 |
+| Host Name | Skobi |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 23:52:12 |
 
 
