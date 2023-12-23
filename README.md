@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536830269962 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | rico |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:32:36 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | waiting for death |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:32:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536831242573 |
+| Players | 5/8 |
+| Host Name | OPPENHEIMER |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 13:34:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536831282541 |
+| Players | 4/8 |
+| Host Name | Lee Ji Eun |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 13:34:16 |
 
 
 |  | epic_boss_fight_nightmare |
