@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537241446973 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Натян |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:31:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537238029867 |
-| Players | 15/24 |
+| Players | 21/24 |
 | Host Name | huy292003 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:28:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537241915891 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | FaithPrince |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:32:13 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537240648014 |
-| Players | 6/8 |
-| Host Name | Attacks | مجاهد |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:31:10 |
+| Lobby ID | 28576537241850900 |
+| Players | 5/8 |
+| Host Name | Posada |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:32:10 |
 
 
 |  | epic_boss_fight_hard |
