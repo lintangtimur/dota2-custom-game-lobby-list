@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537217466163 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 𝕙𝕒𝕚𝕝𝕣𝕒𝕜𝕖 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:11:37 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537218815331 |
-| Players | 4/15 |
-| Host Name | AXAXAXAXAXAXA |
+| Players | 2/15 |
+| Host Name | ''IFRIT'' |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 23, 2023 21:12:45 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537218138102 |
-| Players | 9/10 |
-| Host Name | RedDragon |
+| Lobby ID | 28576537219193993 |
+| Players | 8/10 |
+| Host Name | xorto.bazidli |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:12:11 |
+| Lobby Creation Time | Saturday, December 23, 2023 21:13:04 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 20:52:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537217988309 |
-| Players | 7/8 |
-| Host Name | Огузак Добряк |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:12:04 |
+| Lobby ID | 28576537219216966 |
+| Players | 1/10 |
+| Host Name | MILEI _señoritas |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 21:13:05 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537218903319 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | [Haunted House] BussyCreamLice |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 23, 2023 21:12:49 |
@@ -113,9 +113,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537218974016 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | Artifier |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:12:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537219189013 |
+| Players | 1/24 |
+| Host Name | Seba Соль |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:13:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537219276267 |
+| Players | 4/10 |
+| Host Name | Techno † |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:13:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537219436249 |
+| Players | 1/10 |
+| Host Name | 小白 |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, December 23, 2023 21:13:16 |
 
 
