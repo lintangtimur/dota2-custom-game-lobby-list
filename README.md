@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537126087990 |
-| Players | 5/15 |
-| Host Name | Magic_Step |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:51:28 |
+| Lobby ID | 28576537125794853 |
+| Players | 2/15 |
+| Host Name | Felix |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:51:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537124524740 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | V1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:50:01 |
@@ -68,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537125771322 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Gromm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:51:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537125794853 |
-| Players | 3/15 |
-| Host Name | Felix |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:51:12 |
+| Lobby ID | 28576537126628783 |
+| Players | 1/10 |
+| Host Name | ПИВО BUD LIGTH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 19:51:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537126684317 |
+| Players | 1/10 |
+| Host Name | T a k a t o u |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, December 23, 2023 19:52:02 |
 
 
