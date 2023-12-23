@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536853880430 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Mr-ATLAS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:10:14 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536851702077 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 23, 2023 14:06:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536852853067 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Jungle or 1 ( try me! ) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:08:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536853335660 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | wtt2k |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:09:22 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536853354857 |
-| Players | 4/8 |
-| Host Name | El Mago Jully |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 14:09:24 |
+| Lobby ID | 28576536854496050 |
+| Players | 7/8 |
+| Host Name | Сквазимабзабза |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:11:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | matiz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:10:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536854496050 |
-| Players | 4/8 |
-| Host Name | Сквазимабзабза |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:11:11 |
 
 
 |  | epic_boss_fight_normal |
