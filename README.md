@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536814408633 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 13:05:42 |
@@ -38,51 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 13:08:31 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536815695092 |
-| Players | 1/15 |
-| Host Name | 老司机 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 13:07:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536814579307 |
-| Players | 5/8 |
-| Host Name | KiDPER |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 13:05:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576536815733621 |
-| Players | 7/24 |
-| Host Name | 'Suthep Thaugsuban |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 13:07:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536816030341 |
-| Players | 8/15 |
-| Host Name | DonFlag |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 13:08:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536816136682 |
-| Players | 2/8 |
-| Host Name | доDick |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 13:08:40 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536816357536 |
@@ -99,6 +54,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | de_dota2 |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 23, 2023 13:09:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576536815733621 |
+| Players | 8/24 |
+| Host Name | 'Suthep Thaugsuban |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 13:07:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536816030341 |
+| Players | 10/15 |
+| Host Name | DonFlag |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 13:08:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536816136682 |
+| Players | 2/8 |
+| Host Name | доDick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 13:08:40 |
 
 
 |  | epic_boss_fight_normal |
