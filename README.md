@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536808099285 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Guihs |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 12:54:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536811408088 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | DJ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 13:00:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536813058722 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:03:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536812474453 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | who is LMFAO |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:02:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536812600231 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Mr. Morale & The Big Steppers |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 13:02:36 |
@@ -65,12 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 13:02:34 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536813444697 |
+| Players | 6/8 |
+| Host Name | OPPENHEIMER |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 13:04:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536811229728 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | PRIZMAN📿 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:00:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536813566165 |
+| Players | 1/10 |
+| Host Name | Kendrick |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 13:04:17 |
 
 
