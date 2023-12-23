@@ -47,30 +47,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 20:45:19 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537172540821 |
+| Players | 23/24 |
+| Host Name | FreeBofe |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, December 23, 2023 20:33:20 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537186087517 |
-| Players | 14/15 |
-| Host Name | Locomobile | The Chimney |
+| Lobby ID | 28576537186855083 |
+| Players | 4/15 |
+| Host Name | 𝔇𝔍 6YRథ్‌٣٣A ЗА |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:44:59 |
+| Lobby Creation Time | Saturday, December 23, 2023 20:45:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537186590051 |
-| Players | 3/8 |
-| Host Name | port- mort |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:45:24 |
+| Lobby ID | 28576537186908490 |
+| Players | 4/8 |
+| Host Name | sterben |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:45:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537186982821 |
+| Players | 1/8 |
+| Host Name | мне страшно |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:45:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537186020722 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | heiwuren |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:44:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537186953034 |
+| Players | 2/5 |
+| Host Name | SrakaMonkey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:45:43 |
 
 
