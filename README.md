@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536787966042 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:18:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536787986832 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | El Saramambiche |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:18:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536788270161 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | бабку на ветер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:18:58 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536789519991 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | LET ME COOK |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 12:21:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536789685897 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 12:21:32 |
 
 
 |  | epic_boss_fight_nightmare |
