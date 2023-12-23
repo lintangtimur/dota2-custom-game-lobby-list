@@ -38,37 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 17:06:39 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536980491992 |
-| Players | 1/15 |
-| Host Name | Blowy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:08:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536978901245 |
-| Players | 7/8 |
-| Host Name | балдымалдыбар |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:06:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536980150018 |
-| Players | 3/8 |
-| Host Name | COCOA RAMPAGE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:08:26 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536980351408 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Berym |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:08:42 |
@@ -77,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536980491418 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | боб джек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:08:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536980150018 |
+| Players | 5/8 |
+| Host Name | COCOA RAMPAGE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:08:26 |
 
 
 |  | epic_boss_fight_nightmare |
