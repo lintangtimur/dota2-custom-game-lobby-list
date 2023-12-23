@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536872120917 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | tw1nkletoes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:38:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536865417071 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Xaekoree |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:27:58 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Phill took some pills |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:38:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576536870696413 |
-| Players | 9/10 |
-| Host Name | Mayarasamee |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:35:59 |
 
 
