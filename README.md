@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536855535658 |
-| Players | 13/15 |
-| Host Name | Morennium9 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 14:12:47 |
+| Lobby ID | 28576536859067870 |
+| Players | 1/8 |
+| Host Name | LightFromHeaven~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:18:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -27,24 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KING YURA III |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:17:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536858351824 |
-| Players | 13/15 |
-| Host Name | KindOfMagik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:17:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536859067870 |
-| Players | 1/8 |
-| Host Name | LightFromHeaven~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:18:08 |
 
 
 |  | ot3_desert_octet |
