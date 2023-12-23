@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537149640253 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Sepia |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 23, 2023 20:13:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537149669988 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | CK |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 20:13:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537151148652 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Guilty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:14:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537151376681 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Abuser |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:14:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537151321395 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | me |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:14:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537151689404 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | SIFAG0R |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:14:49 |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 20:14:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537151759390 |
-| Players | 4/8 |
-| Host Name | /7uM6a |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:14:52 |
+| Lobby ID | 28576537151853640 |
+| Players | 5/10 |
+| Host Name | i win always alone |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 20:14:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537146798804 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:10:27 |
