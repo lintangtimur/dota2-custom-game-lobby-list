@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537091193638 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:17:41 |
@@ -38,20 +38,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 18:32:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537091274940 |
-| Players | 9/15 |
-| Host Name | пью gin ебу мужчин |
+| Lobby ID | 28576537092070856 |
+| Players | 3/8 |
+| Host Name | Vlar1ch |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:17:46 |
+| Lobby Creation Time | Saturday, December 23, 2023 19:18:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537090856149 |
 | Players | 4/24 |
-| Host Name | ☺ |
+| Host Name | JR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:17:20 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537091729310 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | pupo4ek |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 19:18:13 |
@@ -86,16 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537091819849 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | pretty jodye flacko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:18:18 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537091980593 |
+| Players | 2/10 |
+| Host Name | Deka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 19:18:28 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537091027334 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Sanic6666 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:17:31 |
