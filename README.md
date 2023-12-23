@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536987877501 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 925, burn me my medallion |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:18:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536988099363 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | OlegoFriend |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:18:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536988069143 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Carwyn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:18:47 |
