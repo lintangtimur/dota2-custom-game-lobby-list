@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536957137398 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | onaforp xessib |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 16:37:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536954220834 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Nobody know BREAKDOWN btr than m |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:33:40 |
@@ -41,25 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536959701427 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:41:04 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576536959260792 |
-| Players | 9/10 |
-| Host Name | .｡✧.*†.. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 16:40:29 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536960146223 |
-| Players | 2/15 |
+| Players | 14/15 |
 | Host Name | Jorjor Well |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:41:40 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536960139015 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | CAPYBARA CAPYBARA CAPYBARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:41:40 |
