@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 12:52:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536807990009 |
-| Players | 1/10 |
-| Host Name | Owl Him |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 12:54:27 |
+| Lobby ID | 28576536808175811 |
+| Players | 11/15 |
+| Host Name | aWarDeeee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 12:54:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536805250492 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:49:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536805646903 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:50:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536807560317 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:53:41 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Co1e |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:54:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536808175811 |
-| Players | 3/15 |
-| Host Name | aWarDeeee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 12:54:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576536806178199 |
-| Players | 1/10 |
-| Host Name | Dobro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 12:51:15 |
 
 
