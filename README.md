@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536873293509 |
-| Players | 11/24 |
+| Players | 18/24 |
 | Host Name | SSS+ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:39:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536872445082 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | FANI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:38:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536865417071 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Xaekoree |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:27:58 |
@@ -32,9 +32,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536872669921 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Phill took some pills |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:38:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576536874135007 |
+| Players | 1/24 |
+| Host Name | LET ME COOK |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 14:41:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536874201599 |
+| Players | 2/15 |
+| Host Name | не убивайте пж |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:41:11 |
 
 
