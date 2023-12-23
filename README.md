@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 15:23:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536906200061 |
-| Players | 6/10 |
-| Host Name | GEORGIY |
+| Lobby ID | 28576536903515279 |
+| Players | 4/8 |
+| Host Name | цыфорки |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 15:27:21 |
+| Lobby Creation Time | Saturday, December 23, 2023 15:23:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536905951455 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Duego |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 15:27:00 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536903515279 |
-| Players | 5/8 |
-| Host Name | цыфорки |
+| Lobby ID | 28576536906834483 |
+| Players | 6/8 |
+| Host Name | Кирюша Гвоздодер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 15:23:28 |
+| Lobby Creation Time | Saturday, December 23, 2023 15:28:17 |
 
 
 |  | epic_boss_fight_nightmare |
