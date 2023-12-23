@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537130698374 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ..c.I.e.. |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 19:55:45 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 18:32:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537145963585 |
-| Players | 7/8 |
-| Host Name | 黎曦夜 |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, December 23, 2023 20:09:41 |
+| Lobby ID | 28576537146375548 |
+| Players | 8/15 |
+| Host Name | URJ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:10:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537142731288 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:06:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537144794466 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:08:39 |
@@ -77,27 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537145994737 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | my time to shine |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:09:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537146380486 |
-| Players | 1/15 |
-| Host Name | mode:Illya Mulyarchuk2021 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:10:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537146375548 |
-| Players | 4/15 |
-| Host Name | URJ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:10:04 |
 
 
