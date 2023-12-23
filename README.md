@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537064302763 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | сейчас или вообще |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:49:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537062139277 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Your mom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:47:26 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 18:49:59 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537064685001 |
-| Players | 13/15 |
-| Host Name | kays cooking enjoyer |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 18:50:11 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537064705733 |
@@ -117,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | King Nothing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:50:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537064931063 |
-| Players | 3/8 |
-| Host Name | sadness时间 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 18:50:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576537062957568 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | 5 cm Savage |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:48:19 |
@@ -167,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537063918239 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | CP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:49:22 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576537064143484 |
-| Players | 1/7 |
-| Host Name | Bruce Lee |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 18:49:36 |
 
 
