@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537241915891 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | FaithPrince |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:32:13 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537242592558 |
-| Players | 5/15 |
-| Host Name | Kolin |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:32:47 |
+| Lobby ID | 28576537242853528 |
+| Players | 1/15 |
+| Host Name | ING.RODRI |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:33:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,29 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537242769647 |
-| Players | 6/8 |
-| Host Name | Haki |
+| Lobby ID | 28576537242900160 |
+| Players | 1/8 |
+| Host Name | афывйцу |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:32:56 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576537240181395 |
-| Players | 1/7 |
-| Host Name | Yupidoras |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:30:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537234572009 |
-| Players | 6/10 |
-| Host Name | MESSI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:25:59 |
+| Lobby Creation Time | Saturday, December 23, 2023 21:33:02 |
 
 
 |  | epic_boss_fight_normal |
@@ -94,10 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576537238743822 |
-| Players | 9/10 |
-| Host Name | KpenkuuApaxuc |
+| Lobby ID | 28576537234572009 |
+| Players | 6/10 |
+| Host Name | MESSI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:25:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537242953812 |
+| Players | 1/10 |
+| Host Name | ggwp |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:29:34 |
+| Lobby Creation Time | Saturday, December 23, 2023 21:33:05 |
 
 
