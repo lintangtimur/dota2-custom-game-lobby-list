@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537207634572 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Foreskin Collector |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:03:20 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537203423544 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:59:46 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537208282073 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Булка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:03:53 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537208267474 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Ginger or Ni...r? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:03:52 |
