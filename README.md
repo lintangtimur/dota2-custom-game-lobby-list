@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536987479932 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | smox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:18:01 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536990117786 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Xaxa |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 17:21:27 |
@@ -32,34 +32,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536978781824 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:06:39 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576536988069143 |
-| Players | 17/24 |
-| Host Name | Carwyn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:18:47 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536990412334 |
-| Players | 5/15 |
-| Host Name | eternalapathy |
+| Lobby ID | 28576536990947245 |
+| Players | 8/15 |
+| Host Name | 23 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:21:50 |
+| Lobby Creation Time | Saturday, December 23, 2023 17:22:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536990961156 |
+| Players | 4/8 |
+| Host Name | БоМж на ПЛЯЖЕ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:22:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536987923402 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 𩠑 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:18:36 |
@@ -76,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576536988911949 |
-| Players | 8/10 |
-| Host Name | OpenAl(ℬoτ) ✔ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:19:53 |
+| Lobby ID | 28576536991078119 |
+| Players | 2/10 |
+| Host Name | bse4poli |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:22:42 |
 
 
