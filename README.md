@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537170583294 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | H |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:31:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537170273914 |
-| Players | 1/15 |
-| Host Name | Kiwiszn |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 23, 2023 20:31:22 |
+| Lobby ID | 28576537171093955 |
+| Players | 4/8 |
+| Host Name | AFK |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 20:32:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,34 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537171088699 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | LET ME COOK |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:32:05 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537170474150 |
-| Players | 8/10 |
-| Host Name | /// |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:31:33 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537171093955 |
-| Players | 2/8 |
-| Host Name | AFK |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 20:32:05 |
+| Lobby ID | 28576537171285561 |
+| Players | 3/8 |
+| Host Name | デジンサイド |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:32:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537168377718 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ggwp |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:29:43 |
@@ -85,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576537171229317 |
-| Players | 1/10 |
-| Host Name | Han Jee-han  한 지한 |
+| Lobby ID | 28576537171449256 |
+| Players | 2/10 |
+| Host Name | ChatGPT andrewfhg |
 | Region | INDIA |
-| Lobby Creation Time | Saturday, December 23, 2023 20:32:12 |
+| Lobby Creation Time | Saturday, December 23, 2023 20:32:23 |
 
 
