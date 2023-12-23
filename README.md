@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537142974058 |
-| Players | 9/10 |
-| Host Name | В поисках соли |
+| Lobby ID | 28576537143976113 |
+| Players | 3/8 |
+| Host Name | New жопа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:07:01 |
+| Lobby Creation Time | Saturday, December 23, 2023 20:07:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537143345571 |
-| Players | 7/8 |
-| Host Name | SitropyTheCerulean |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:07:21 |
+| Lobby ID | 28576537144078421 |
+| Players | 1/8 |
+| Host Name | Soul Reaper |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 20:08:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537143332553 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Tenryuubito |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:07:20 |
@@ -104,27 +104,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537143575501 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Псих |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:07:33 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537144127815 |
+| Players | 4/8 |
+| Host Name | bumble bee |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 20:08:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537144067472 |
+| Players | 1/8 |
+| Host Name | whopidor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:08:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537144074472 |
+| Players | 1/24 |
+| Host Name | Heiji |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, December 23, 2023 20:08:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537144097377 |
+| Players | 2/8 |
+| Host Name | gokirus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:08:01 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537141725422 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Kess Joy |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:05:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537142826960 |
-| Players | 8/10 |
-| Host Name | iam HORNY ✪ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:06:53 |
 
 
