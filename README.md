@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536962133282 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | intothebottle |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:44:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536962141235 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 下沉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:44:22 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | свиня джакузі |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:43:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536962707701 |
+| Players | 1/10 |
+| Host Name | takina inoue is not my wife |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 16:45:08 |
 
 
