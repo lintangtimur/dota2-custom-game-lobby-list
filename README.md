@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536862794901 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | senior jogger |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:23:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536862581118 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | грех |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:23:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536862250665 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:22:59 |
