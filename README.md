@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537062589437 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Goga |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:47:55 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537062806650 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Zero Two |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:48:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537062987183 |
+| Players | 1/8 |
+| Host Name | vomiand |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 18:48:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537063044291 |
+| Players | 1/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, December 23, 2023 18:48:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537061797332 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Gentlesiree |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:47:04 |
@@ -104,18 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28576537062730145 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | нахуй иди |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:48:05 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576537062884291 |
-| Players | 1/7 |
-| Host Name | Halucard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 18:48:15 |
+| Lobby ID | 28576537062957568 |
+| Players | 1/5 |
+| Host Name | 5 cm Savage |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 18:48:19 |
 
 
