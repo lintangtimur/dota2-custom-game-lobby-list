@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537001334405 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Misato drip |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:36:05 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gore video is the best movie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:32:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537001581779 |
+| Players | 1/10 |
+| Host Name | Не чушпан |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:36:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536996046490 |
+| Players | 9/10 |
+| Host Name | свиня джакузі |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:29:19 |
 
 
