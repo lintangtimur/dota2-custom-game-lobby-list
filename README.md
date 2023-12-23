@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537278074297 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | sandercitorz |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 22:02:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537278109225 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | GOOD GAME |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 23, 2023 22:02:40 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537279358526 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:03:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537278873695 |
-| Players | 7/8 |
-| Host Name | my friend is a moviestar |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:03:18 |
+| Lobby ID | 28576537279503154 |
+| Players | 14/15 |
+| Host Name | Microspin Maxwinow |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 22:03:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -112,15 +112,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537279494823 |
-| Players | 6/10 |
-| Host Name | 释放你的灵魂 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:03:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28576537279236574 |
 | Players | 1/10 |
 | Host Name | :p |
@@ -128,13 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:03:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537279503154 |
-| Players | 2/15 |
-| Host Name | Microspin Maxwinow |
+| Lobby ID | 28576537277666522 |
+| Players | 8/10 |
+| Host Name | benihime |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:03:50 |
+| Lobby Creation Time | Saturday, December 23, 2023 22:02:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537280078560 |
+| Players | 1/8 |
+| Host Name | Sakamoto |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 22:04:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,28 +158,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537278694268 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Night_Revenge |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:03:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537279438162 |
-| Players | 1/5 |
-| Host Name | hAPPY |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Saturday, December 23, 2023 22:03:47 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537279547773 |
-| Players | 1/5 |
-| Host Name | _Cara Pace_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:03:53 |
 
 
 |  | epic_boss_fight_hard |
@@ -189,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ам ням |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:03:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537280017973 |
+| Players | 1/5 |
+| Host Name | _Cara Pace_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 22:04:16 |
 
 
