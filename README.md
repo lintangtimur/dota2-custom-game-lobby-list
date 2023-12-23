@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536869155246 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | MiserableRabbit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:33:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536870309778 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ja1ser |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 23, 2023 14:35:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536872116651 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ? |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:38:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536872445082 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | FANI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:38:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536872669921 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Phill took some pills |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:38:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536870696413 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Mayarasamee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:35:59 |
