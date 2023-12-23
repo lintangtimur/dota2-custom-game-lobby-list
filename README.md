@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536862252544 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | aa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:22:59 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Xaekoree |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 23, 2023 14:25:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536864186742 |
-| Players | 1/8 |
-| Host Name | Scrayl |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 14:26:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536864208061 |
-| Players | 1/15 |
-| Host Name | 最好的 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:26:02 |
 
 
 |  | epic_boss_fight_nightmare |
