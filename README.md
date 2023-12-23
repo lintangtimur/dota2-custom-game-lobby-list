@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537231251603 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | ok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:23:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537229041007 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Dispersion |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:21:19 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537229772268 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | 40c2eedef |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 21:21:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537230861897 |
-| Players | 5/8 |
-| Host Name | whopidor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:22:51 |
+| Lobby ID | 28576537231640058 |
+| Players | 1/15 |
+| Host Name | StarrkCoyote |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 21:23:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537230109356 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ็Tao về |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:22:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537225554209 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Dᴀᴍᴇ Dᴀᴍᴇ |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 23, 2023 21:18:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537226558034 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | \ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:19:14 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537229936249 |
-| Players | 9/10 |
-| Host Name | uto |
+| Lobby ID | 28576537231946215 |
+| Players | 5/10 |
+| Host Name | RezBish |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:22:04 |
+| Lobby Creation Time | Saturday, December 23, 2023 21:23:45 |
 
 
 |  | ot3_desert_octet |
@@ -94,55 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537231368874 |
-| Players | 6/15 |
-| Host Name | 10 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:23:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537231371524 |
-| Players | 1/24 |
-| Host Name | muba |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:23:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537231413175 |
-| Players | 2/8 |
-| Host Name | RezBish |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:23:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537231505385 |
-| Players | 1/15 |
-| Host Name | NAOL NALANG |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, December 23, 2023 21:23:23 |
+| Lobby ID | 28576537231831920 |
+| Players | 7/15 |
+| Host Name | Nihdogg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:23:40 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537230175699 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Angels Must Die |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:22:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537231178985 |
-| Players | 1/5 |
-| Host Name | Andrey |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:23:07 |
 
 
