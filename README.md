@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536828799184 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Ripped |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:30:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536831425699 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | LET ME COOK |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 13:34:30 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 13:34:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536831596494 |
-| Players | 18/24 |
-| Host Name | ? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 13:34:47 |
+| Lobby ID | 28576536833037007 |
+| Players | 3/8 |
+| Host Name | wtt2k |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 13:37:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536808099285 |
-| Players | 9/24 |
+| Players | 4/24 |
 | Host Name | roswel |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 12:54:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536832781661 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | niotartnecnoC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:36:42 |
@@ -68,27 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536832840313 |
-| Players | 2/15 |
-| Host Name | Нет подключения |
+| Players | 6/15 |
+| Host Name | YA C БOГAMИ COВET DERZHY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:36:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576536833037007 |
-| Players | 1/8 |
-| Host Name | wtt2k |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 13:37:07 |
+| Lobby ID | 28576536833490141 |
+| Players | 1/24 |
+| Host Name | 大炮 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 13:37:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576536833505239 |
+| Players | 6/10 |
+| Host Name | Xibalba |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 13:37:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536831604901 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | грех |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:34:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536833403963 |
+| Players | 2/10 |
+| Host Name | Gabimaru |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 13:37:41 |
 
 
