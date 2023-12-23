@@ -41,45 +41,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536987877501 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 925, burn me my medallion |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:18:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536988099363 |
-| Players | 14/15 |
-| Host Name | OlegoFriend |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:18:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576536988069143 |
-| Players | 4/24 |
-| Host Name | Carwyn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:18:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536988351626 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Ты слаб, Хайсе..... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:19:09 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576536988069143 |
+| Players | 5/24 |
+| Host Name | Carwyn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:18:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536988797237 |
+| Players | 1/15 |
+| Host Name | Laisture |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:19:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536988805478 |
+| Players | 5/8 |
+| Host Name | qecrvyhimouawe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:19:44 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536987485374 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | `♫`keni`♫` |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:18:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536988834190 |
+| Players | 1/5 |
+| Host Name | Kuzzzzya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:19:47 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576536988843370 |
+| Players | 2/7 |
+| Host Name | OpenAl(ℬoτ) ✔ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:19:47 |
 
 
