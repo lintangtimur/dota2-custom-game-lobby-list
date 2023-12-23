@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537082986425 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | MaleVegan |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 19:09:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537084278982 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | wildfirezg |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:10:47 |
@@ -49,38 +49,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537080857462 |
-| Players | 23/24 |
-| Host Name | Rakken |
+| Lobby ID | 28576537085089676 |
+| Players | 5/24 |
+| Host Name | Dᴀᴍᴇ Dᴀᴍᴇ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:07:17 |
+| Lobby Creation Time | Saturday, December 23, 2023 19:11:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537084503981 |
-| Players | 3/15 |
-| Host Name | Hari Seldon |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:11:00 |
+| Lobby ID | 28576537085253860 |
+| Players | 4/10 |
+| Host Name | Obi Wan Kenobi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:11:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537084758249 |
-| Players | 1/8 |
-| Host Name | Sexy Stalin |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:11:16 |
+| Lobby ID | 28576537085450629 |
+| Players | 1/10 |
+| Host Name | HUGE |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, December 23, 2023 19:11:58 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576537082695375 |
-| Players | 2/5 |
-| Host Name | SUSi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:09:10 |
+| Lobby ID | 28576537084721928 |
+| Players | 4/10 |
+| Host Name | нахуй иди |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, December 23, 2023 19:11:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dysuria |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:11:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537084721928 |
-| Players | 1/10 |
-| Host Name | нахуй иди |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, December 23, 2023 19:11:13 |
 
 
