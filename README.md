@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537369822442 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Lorto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 23:23:05 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 23:21:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537369329224 |
-| Players | 1/15 |
-| Host Name | Koalko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 23:22:39 |
+| Lobby ID | 28576537369849746 |
+| Players | 3/8 |
+| Host Name | Папа своей мамы |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 23:23:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537369552670 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | SE NECESITA DAMA DE COMPAÑIA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 23:22:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537369551301 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 23:22:51 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537369769582 |
-| Players | 8/15 |
-| Host Name | god save my tears |
+| Players | 11/15 |
+| Host Name | Сын Colaps'a |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 23:23:02 |
 
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝕄𝕒𝕪𝔻𝕒𝕪 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 23:22:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537370000407 |
+| Players | 1/10 |
+| Host Name | ATE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 23:23:15 |
 
 
