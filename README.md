@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 15:44:34 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536921358829 |
+| Players | 1/8 |
+| Host Name | QOTAQBAS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 15:48:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536917962899 |
