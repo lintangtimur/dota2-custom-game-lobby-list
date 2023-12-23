@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536853409108 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | MrSuperman|002| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:09:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536853513576 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 5 минут до заката |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:09:39 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536853644233 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | pos 1 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 14:09:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536850290698 |
-| Players | 7/8 |
-| Host Name | ХИХАНЬКИ ДА ХАХАНЬКИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:04:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536853759022 |
-| Players | 3/8 |
-| Host Name | JJnok |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 23, 2023 14:10:02 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Жабка |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:08:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536853861917 |
+| Players | 1/5 |
+| Host Name | Click[&]Search |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 14:10:12 |
 
 
