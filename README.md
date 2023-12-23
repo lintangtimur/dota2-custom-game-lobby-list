@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:59:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536885483881 |
-| Players | 14/15 |
-| Host Name | Borderorder |
+| Lobby ID | 28576536886278888 |
+| Players | 4/10 |
+| Host Name | Stashheart |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:57:56 |
+| Lobby Creation Time | Saturday, December 23, 2023 14:59:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536884654660 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | CUANPROTPROT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:56:42 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:58:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536886278888 |
-| Players | 3/10 |
-| Host Name | Stashheart |
+| Lobby ID | 28576536886439156 |
+| Players | 1/15 |
+| Host Name | 4urin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:59:07 |
+| Lobby Creation Time | Saturday, December 23, 2023 14:59:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | konjiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:59:10 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576536886462624 |
+| Players | 2/7 |
+| Host Name | Dreamer- |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 23, 2023 14:59:22 |
 
 
