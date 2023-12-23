@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537258675559 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | όχιιι αρχαίος |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:46:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537262038398 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | Monty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:49:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537264534595 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Пухнастий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:51:06 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 21:51:07 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537254113826 |
+| Players | 14/15 |
+| Host Name | 🅴 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 21:42:23 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537255955386 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ❤Фьюси❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:43:55 |
@@ -85,19 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576537264825725 |
+| Lobby ID | 28576537265078673 |
 | Players | 1/5 |
 | Host Name | Dysuria |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, December 23, 2023 21:51:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537264837929 |
-| Players | 1/5 |
-| Host Name | Mari |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:51:21 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:51:33 |
 
 
