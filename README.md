@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537277191775 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Damge |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 22:01:54 |
@@ -50,27 +50,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537278109225 |
-| Players | 2/24 |
+| Players | 9/24 |
 | Host Name | GOOD GAME |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 23, 2023 22:02:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537276647766 |
-| Players | 5/8 |
-| Host Name | ABOBA BOY |
+| Lobby ID | 28576537275157681 |
+| Players | 13/15 |
+| Host Name | Deicide |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:01:26 |
+| Lobby Creation Time | Saturday, December 23, 2023 22:00:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537278527412 |
-| Players | 1/10 |
-| Host Name | BurNIng |
-| Region | DUBAI |
+| Lobby ID | 28576537278528201 |
+| Players | 6/15 |
+| Host Name | Billy Herrington |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 22:03:01 |
 
 
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:01:11 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537278327613 |
-| Players | 1/10 |
-| Host Name | Night_Revenge |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:02:51 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576537278389221 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ливень |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:02:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537278694268 |
+| Players | 1/10 |
+| Host Name | Night_Revenge |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 22:03:09 |
 
 
