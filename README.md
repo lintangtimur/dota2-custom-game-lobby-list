@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537000996588 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | take care of your moms♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:35:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537002043324 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Tatster |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:36:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537002052508 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Asuka Langley |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:37:00 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576536998114399 |
 | Players | 8/10 |
-| Host Name | DLove |
+| Host Name | YukineKun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:32:00 |
 
