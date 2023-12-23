@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536787986832 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | El Saramambiche |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:18:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536787747022 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:18:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536788270161 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | бабку на ветер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:18:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536789026650 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | MORACLE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:20:21 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YA C БOГAMИ COВET DERZHY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:21:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576536789519991 |
+| Players | 1/24 |
+| Host Name | LET ME COOK |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 12:21:14 |
 
 
 |  | epic_boss_fight_nightmare |
