@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536861207631 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | S₽@ЛвK₽ЫSЧE₽еZ_b0Lь |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:21:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536861077011 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Яндекс.Такси |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:21:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536861603304 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | [19-2] Λʀʀɪ℣ɑɭ.XS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:21:59 |
@@ -32,10 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536861649367 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Ayam Goreng Mekdi (Pedas) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:22:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576536861780754 |
+| Players | 1/24 |
+| Host Name | Professor |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 14:22:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576536861792404 |
+| Players | 1/10 |
+| Host Name | Аniме в SеRDце |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:22:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -63,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | планы на вечер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:12:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536861798656 |
+| Players | 2/5 |
+| Host Name | OpenAI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 14:22:17 |
 
 
