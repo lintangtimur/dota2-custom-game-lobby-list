@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537436919025 |
-| Players | 8/15 |
-| Host Name | Pol Itteh Nolog |
+| Lobby ID | 28576537437086604 |
+| Players | 6/8 |
+| Host Name | Cri0Z |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 00:26:12 |
+| Lobby Creation Time | Sunday, December 24, 2023 00:26:22 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537435967516 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | SIDERAL FRIO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 00:25:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537435907601 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | Gaben Prophet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 00:25:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537435658331 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | wildfirezg |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 00:24:58 |
@@ -47,28 +47,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 00:16:17 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537436629933 |
-| Players | 5/8 |
-| Host Name | Sold1er |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 00:25:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537436278568 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Smitty Werbenjägermanjensen |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 00:25:34 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537437233786 |
+| Players | 12/15 |
+| Host Name | Jаба Dавит |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 00:26:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537437283441 |
+| Players | 1/8 |
+| Host Name | chipi chipi chapa chapa |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 00:26:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537437320486 |
+| Players | 3/8 |
+| Host Name | MR ( GOM ) |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 00:26:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537437526142 |
+| Players | 2/10 |
+| Host Name | Deym0s |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 00:26:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537437612011 |
+| Players | 5/10 |
+| Host Name | born to feed |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 00:26:53 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537433590228 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Vells |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 00:22:59 |
@@ -90,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Minaku |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 00:25:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537437340297 |
+| Players | 1/5 |
+| Host Name | Hunt Hoe-Down |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 24, 2023 00:26:37 |
 
 
