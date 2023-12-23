@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537125768244 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 19:51:11 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537154305842 |
-| Players | 7/15 |
-| Host Name | денчик |
+| Players | 10/15 |
+| Host Name | Puxx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:17:09 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537150602092 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | FICHA |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:13:51 |
@@ -67,20 +67,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537152653354 |
-| Players | 10/10 |
-| Host Name | Shevrassa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:15:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537155258860 |
-| Players | 2/10 |
+| Lobby ID | 28576537155344298 |
+| Players | 7/10 |
 | Host Name | Tortladze |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:18:00 |
+| Lobby Creation Time | Saturday, December 23, 2023 20:18:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537155345866 |
+| Players | 4/8 |
+| Host Name | сын зевса |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:18:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537155573587 |
+| Players | 1/8 |
+| Host Name | Po jizni lowtab |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:18:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537155652135 |
+| Players | 1/8 |
+| Host Name | SOLEVAR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:18:21 |
 
 
 |  | epic_boss_fight_nightmare |
