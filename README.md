@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537077755451 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Zom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:04:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537073553915 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | wildfirezg |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:59:45 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537075407544 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:01:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537076440446 |
-| Players | 21/24 |
-| Host Name | ✿迅猛小老虎 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:02:44 |
+| Lobby ID | 28576537080618684 |
+| Players | 6/8 |
+| Host Name | vomiand |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 19:07:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537080013521 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | mrloony#bossrust |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:06:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537080152219 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Wpkep |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:06:34 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Egoisto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:07:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537080618684 |
-| Players | 3/8 |
-| Host Name | vomiand |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:07:02 |
 
 
 |  | epic_boss_fight_hard |
