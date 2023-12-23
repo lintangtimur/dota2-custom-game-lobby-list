@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536843634003 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | I N R I |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:53:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536845766846 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | pепopт oфopмитe пyджy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:57:27 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536845555033 |
-| Players | 1/10 |
-| Host Name | BubiBubi |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 13:57:06 |
+| Lobby ID | 28576536845270604 |
+| Players | 7/10 |
+| Host Name | sadness时间 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 13:56:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536842330661 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Irony |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:51:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536845270604 |
-| Players | 6/10 |
-| Host Name | sadness时间 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 13:56:37 |
+| Lobby ID | 28576536843222794 |
+| Players | 7/8 |
+| Host Name | TORONTOADIDAS |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 13:53:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | B |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:54:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576536844501434 |
-| Players | 2/5 |
-| Host Name | НЕТ ЧТО-ЛИ ? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 13:55:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576536846714071 |
-| Players | 1/10 |
-| Host Name | sauciucromulus1 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 13:58:59 |
 
 
