@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536945432953 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Dig Bick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:21:34 |
@@ -41,19 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536945821840 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Shoma |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:22:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536945867082 |
-| Players | 1/24 |
-| Host Name | qwq |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:22:10 |
+| Lobby ID | 28576536945950882 |
+| Players | 1/8 |
+| Host Name | kenny Sun Strike |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, December 23, 2023 16:22:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536945963535 |
+| Players | 1/15 |
+| Host Name | unleashed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 16:22:18 |
 
 
 |  | epic_boss_fight_nightmare |
