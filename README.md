@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537205339861 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | era |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:01:24 |
@@ -86,19 +86,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537206221751 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | 不運なろくでなし |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:02:08 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537203423544 |
+| Players | 23/24 |
+| Host Name | Ohayo! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 20:59:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537189064549 |
+| Players | 3/8 |
+| Host Name | Holi |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 20:47:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537206521511 |
+| Players | 5/15 |
+| Host Name | Mr.Hops |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 23, 2023 21:02:23 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537206308735 |
-| Players | 1/10 |
-| Host Name | Sasori Of The Red Sands |
+| Lobby ID | 28576537206550118 |
+| Players | 2/10 |
+| Host Name | E6aIIIy_GoSu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:02:12 |
+| Lobby Creation Time | Saturday, December 23, 2023 21:02:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537204939055 |
+| Players | 13/15 |
+| Host Name | глімс на пиво |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:01:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537202898099 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Yui |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:59:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537206351397 |
-| Players | 1/5 |
-| Host Name | bwakaka |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, December 23, 2023 21:02:15 |
 
 
