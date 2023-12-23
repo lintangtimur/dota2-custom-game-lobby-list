@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536987479932 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Валера Транквилы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:18:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536988099363 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | OlegoFriend |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:18:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536988351626 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Ты слаб, Хайсе..... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:19:09 |
