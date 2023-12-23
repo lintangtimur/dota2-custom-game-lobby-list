@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537248114760 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | стою за спартак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:37:22 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537244362195 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ☆ፀ☆ፀSagaciouSፀ☆ፀ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:34:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537242629745 |
-| Players | 23/24 |
-| Host Name | qwater |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:32:49 |
+| Lobby ID | 28576537248579841 |
+| Players | 5/10 |
+| Host Name | NotComba |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:37:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537247210120 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:36:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537246652351 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Carry Or Carrot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:36:09 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537247600867 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Думал не въебу? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:36:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537247064087 |
-| Players | 14/15 |
-| Host Name | скибиди туалет |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:36:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537248518875 |
-| Players | 4/8 |
-| Host Name | S H A D O W |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:37:43 |
 
 
 |  | epic_boss_fight_normal |
