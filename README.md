@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537404595332 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Horny Toss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 23:55:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537409247075 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Dion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 23:59:49 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537410480178 |
-| Players | 7/8 |
-| Host Name | -kQzi |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 00:01:01 |
+| Lobby ID | 28576537411523427 |
+| Players | 4/8 |
+| Host Name | команда игра |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 24, 2023 00:02:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,40 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 00:00:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537410928644 |
-| Players | 11/15 |
-| Host Name | YohoCX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 00:01:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537411026012 |
-| Players | 1/15 |
-| Host Name | 猪脑过载 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Sunday, December 24, 2023 00:01:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537409645494 |
-| Players | 13/15 |
-| Host Name | Озын Агай |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 00:00:12 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537411523427 |
-| Players | 4/8 |
-| Host Name | команда игра |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 24, 2023 00:02:00 |
+| Lobby ID | 28576537411702331 |
+| Players | 5/8 |
+| Host Name | zxczxczxc 瑞キgeniusキ瑞 六 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 00:02:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537411659706 |
+| Players | 1/15 |
+| Host Name | Alkazed |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 00:02:08 |
 
 
 |  | epic_boss_fight_challenger |
