@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537018878899 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Вова Виноградов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:57:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537019039961 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 太容易了 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:58:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537018843201 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | VEG4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:57:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537018211730 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | JapaKama |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 17:57:06 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 10K Behavior Score |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:54:56 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537018876683 |
-| Players | 1/5 |
-| Host Name | я наказание. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:57:56 |
 
 
