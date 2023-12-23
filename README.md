@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537373851310 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Pablo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 23:26:47 |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 23:24:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537373554092 |
-| Players | 9/10 |
-| Host Name | Hawk |
+| Lobby ID | 28576537372969127 |
+| Players | 7/8 |
+| Host Name | BRUK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 23:26:31 |
+| Lobby Creation Time | Saturday, December 23, 2023 23:25:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537373886626 |
-| Players | 5/10 |
-| Host Name | Rendell |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 23:26:49 |
+| Lobby ID | 28576537374325779 |
+| Players | 8/10 |
+| Host Name | YGY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 23:27:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537371267598 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | [TMT] Weihnachten Teufel |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 23:24:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537373598166 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | sandercitorz |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 23:26:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537372446418 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | dzzl |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 23:25:29 |
@@ -85,29 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537371900797 |
+| Lobby ID | 28576537374290996 |
 | Players | 1/15 |
-| Host Name | Новообразование |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 23:24:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537373232012 |
-| Players | 1/8 |
-| Host Name | pretty jodye flacko |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 23:26:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537372969127 |
-| Players | 5/8 |
-| Host Name | BRUK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 23:25:58 |
+| Host Name | Competitive ACNH Player |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 23:27:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 23:26:40 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537369399145 |
-| Players | 7/10 |
-| Host Name | 𝕄𝕒𝕪𝔻𝕒𝕪 |
+| Lobby ID | 28576537374351807 |
+| Players | 1/15 |
+| Host Name | dissembler |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 23:22:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537372670697 |
-| Players | 4/10 |
-| Host Name | E TU |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 23:25:42 |
+| Lobby Creation Time | Saturday, December 23, 2023 23:27:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -148,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576537374081398 |
-| Players | 2/10 |
-| Host Name | FGC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 23:27:00 |
+| Lobby ID | 28576537372670697 |
+| Players | 5/10 |
+| Host Name | E TU |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 23:25:42 |
 
 
