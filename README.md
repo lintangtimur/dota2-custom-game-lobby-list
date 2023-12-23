@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536845941992 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ghost rider |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 13:57:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536845061571 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | bun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:56:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536847327550 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:59:57 |
