@@ -20,28 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 21:42:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537258537502 |
-| Players | 4/10 |
-| Host Name | 777 маи ноги гучи |
+| Lobby ID | 28576537258786075 |
+| Players | 1/8 |
+| Host Name | Turn Into KFC |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:46:05 |
+| Lobby Creation Time | Saturday, December 23, 2023 21:46:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537258223633 |
-| Players | 14/15 |
-| Host Name | plznospeakturkish |
+| Lobby ID | 28576537258938249 |
+| Players | 5/15 |
+| Host Name | ur the moon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:45:49 |
+| Lobby Creation Time | Saturday, December 23, 2023 21:46:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537256845140 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | ็Tao về |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:44:40 |
@@ -65,37 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 21:46:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537258786075 |
-| Players | 1/8 |
-| Host Name | Turn Into KFC |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:46:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537258778609 |
-| Players | 1/10 |
-| Host Name | Durial |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:46:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537257059075 |
-| Players | 7/8 |
-| Host Name | ЗаПутина |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:44:51 |
+| Lobby ID | 28576537259018074 |
+| Players | 1/24 |
+| Host Name | SMOKE WEED EVERYDAY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:46:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537255969384 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | back to genshin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:43:56 |
@@ -104,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537255955386 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ❤Фьюси❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:43:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537258630418 |
-| Players | 1/5 |
-| Host Name | жулик |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:46:10 |
 
 
