@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536842483668 |
-| Players | 3/10 |
-| Host Name | JHON EL SALCHICHON WICK |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 13:52:05 |
+| Lobby ID | 28576536843222794 |
+| Players | 4/8 |
+| Host Name | bi, i touched an M |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 13:53:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536840673796 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Stealth |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:49:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536840755518 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Fitty_spenc |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 13:49:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536842879485 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:52:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536838023397 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | THEdaniel:v |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:45:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536842452050 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | ㅋㅎㅋㅎ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:52:02 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536843222794 |
-| Players | 3/8 |
-| Host Name | bi, i touched an M |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 13:53:15 |
+| Lobby ID | 28576536843634003 |
+| Players | 1/8 |
+| Host Name | I N R I |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 13:53:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Areon_Black |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:51:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576536842007242 |
-| Players | 7/10 |
-| Host Name | CUM AND GO AND CUM AGAIN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 13:51:20 |
 
 
 |  | epic_boss_fight_nightmare |
