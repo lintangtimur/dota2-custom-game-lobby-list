@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537341690225 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Gandoni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 22:57:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537341735592 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | PEPESOR |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 22:57:53 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537344179317 |
-| Players | 1/10 |
-| Host Name | OId.Burn.羅德里戈- |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 23:00:07 |
+| Lobby ID | 28576537344057643 |
+| Players | 7/10 |
+| Host Name | hrvatska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 23:00:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,42 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | w;gojasl;ekfgw[0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 23:00:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537343479240 |
-| Players | 3/8 |
-| Host Name | (=|Dhu Arse|=) |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:59:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537343732176 |
-| Players | 3/8 |
-| Host Name | CatZima |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 22:59:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537344057643 |
-| Players | 8/10 |
-| Host Name | hrvatska |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 23:00:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537344282568 |
-| Players | 6/8 |
-| Host Name | rofl priority |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 23:00:12 |
 
 
 |  | epic_boss_fight_challenger |
