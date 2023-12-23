@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536887895981 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | La Pixiris |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 15:01:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536895891130 |
-| Players | 12/15 |
-| Host Name | Medick |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 15:12:50 |
+| Lobby ID | 28576536896472130 |
+| Players | 1/8 |
+| Host Name | kolomna |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 15:13:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536895944992 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | ~MrTriceps~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:12:55 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BOYKA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 15:13:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536896472130 |
-| Players | 1/8 |
-| Host Name | kolomna |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 15:13:40 |
 
 
 |  | epic_boss_fight_nightmare |
