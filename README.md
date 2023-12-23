@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537302028407 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | P |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:22:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537303544567 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Murzabood |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:24:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537302214785 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ReiJr1 |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 22:23:07 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537303408529 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | RedDragon |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:24:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537302953341 |
-| Players | 1/10 |
-| Host Name | e6EI's |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:23:45 |
+| Lobby ID | 28576537303901217 |
+| Players | 6/8 |
+| Host Name | 『L๏LɨЌ』 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 22:24:33 |
 
 
 |  | ot3_gardens_duo |
@@ -101,13 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:24:17 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537301399498 |
+| Players | 4/10 |
+| Host Name | helloff ⛔TRADE BANNED⛔ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 22:22:25 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537303787425 |
-| Players | 4/8 |
-| Host Name | Cago |
+| Lobby ID | 28576537303947132 |
+| Players | 1/8 |
+| Host Name | телеграмм рассылки |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:24:28 |
+| Lobby Creation Time | Saturday, December 23, 2023 22:24:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537303972328 |
+| Players | 5/8 |
+| Host Name | Mr.Hops |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 23, 2023 22:24:37 |
 
 
 |  | epic_boss_fight_nightmare |
