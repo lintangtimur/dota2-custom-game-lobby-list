@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537331216586 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | ♣Colapsé◘ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 22:48:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537333593330 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:50:33 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:48:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537333596716 |
-| Players | 9/10 |
-| Host Name | ALL GIRLS ARE THE SAME |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:50:33 |
+| Lobby ID | 28576537334306968 |
+| Players | 5/15 |
+| Host Name | Ranalter Klaus |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 22:51:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -conman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 22:50:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537334306965 |
+| Players | 1/15 |
+| Host Name | оник |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 22:51:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537334404459 |
+| Players | 2/10 |
+| Host Name | lexa 0 pomoshi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 22:51:16 |
 
 
 |  | epic_boss_fight_challenger |
@@ -131,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537331664562 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | noah- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:48:49 |
