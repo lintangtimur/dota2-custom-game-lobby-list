@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537006800487 |
-| Players | 6/24 |
+| Players | 18/24 |
 | Host Name | Barasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:43:00 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537003514397 |
-| Players | 5/24 |
-| Host Name | Jiren- |
+| Players | 3/24 |
+| Host Name | MrBesdong xddddddddd |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 23, 2023 17:38:51 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537008443999 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | С наступающим! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:45:03 |
@@ -50,19 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537009041315 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | 勝利の男 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:45:47 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537009265019 |
+| Players | 1/15 |
+| Host Name | Tada-Banri |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 17:46:03 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537009185624 |
-| Players | 4/8 |
-| Host Name | GIGA_NIGA |
+| Lobby ID | 28576537009379276 |
+| Players | 2/8 |
+| Host Name | ghostofblu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:45:57 |
+| Lobby Creation Time | Saturday, December 23, 2023 17:46:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | IceBogart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:45:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537009437729 |
+| Players | 1/5 |
+| Host Name | жулик |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:46:16 |
 
 
