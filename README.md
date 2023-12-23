@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536795864730 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | El doctorcito |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 12:33:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536796169435 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Vladimir Cerron |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:33:37 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | chilly willy |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:33:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576536796445873 |
+| Players | 1/10 |
+| Host Name | de_dota2 |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, December 23, 2023 12:34:07 |
 
 
 |  | epic_boss_fight_nightmare |
