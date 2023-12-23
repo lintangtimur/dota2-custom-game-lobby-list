@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537229852633 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | DDX |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:22:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537229159085 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Гатс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:21:25 |
@@ -83,6 +83,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 21:22:04 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537228550571 |
+| Players | 6/8 |
+| Host Name | Midas farming club |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:20:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537230109356 |
+| Players | 6/24 |
+| Host Name | ็Tao về |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:22:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537224311173 |
@@ -90,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kapal lawd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:17:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537230175699 |
+| Players | 1/10 |
+| Host Name | Angels Must Die |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:22:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537229898922 |
+| Players | 1/5 |
+| Host Name | troffi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:22:02 |
 
 
