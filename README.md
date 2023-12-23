@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536976947172 |
-| Players | 14/15 |
-| Host Name | ビールは神 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:04:14 |
+| Lobby ID | 28576536977604338 |
+| Players | 2/15 |
+| Host Name | кот (или пёс) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:05:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536974299389 |
-| Players | 9/10 |
-| Host Name | Neizen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:00:43 |
+| Lobby ID | 28576536977608085 |
+| Players | 1/8 |
+| Host Name | 123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:05:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -65,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 17:01:05 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28576536977320576 |
-| Players | 1/5 |
-| Host Name | Я сегодня Мария |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:04:43 |
+| Lobby ID | 28576536977655925 |
+| Players | 2/7 |
+| Host Name | доча? |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:05:10 |
 
 
