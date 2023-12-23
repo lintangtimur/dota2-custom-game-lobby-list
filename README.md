@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537295643962 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Zion T zioN |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 22:17:31 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537297411168 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Boom! Headshot! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:19:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537298782035 |
-| Players | 7/8 |
-| Host Name | bottle |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:20:11 |
+| Lobby ID | 28576537300484718 |
+| Players | 6/10 |
+| Host Name | olejanito |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 22:21:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:19:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537300599230 |
-| Players | 7/15 |
-| Host Name | адидас |
+| Lobby ID | 28576537301057711 |
+| Players | 3/8 |
+| Host Name | .caff |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:21:44 |
+| Lobby Creation Time | Saturday, December 23, 2023 22:22:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,33 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ReiJr1 |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 22:21:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537299366360 |
-| Players | 3/24 |
-| Host Name | DJ_Ебан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:20:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537300484718 |
-| Players | 4/10 |
-| Host Name | olejanito |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:21:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537300794773 |
-| Players | 1/8 |
-| Host Name | mode: YatoroGOD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:21:54 |
 
 
 |  | epic_boss_fight_nightmare |
