@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537258675559 |
-| Players | 2/24 |
-| Host Name | Space |
+| Players | 1/24 |
+| Host Name | G59 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:46:12 |
 
@@ -14,34 +14,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537267112041 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | NukeSyz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:53:16 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537269176503 |
+| Players | 1/10 |
+| Host Name | N!cK Machiavelli |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:55:01 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537268462161 |
+| Lobby ID | 28576537269138008 |
 | Players | 1/15 |
-| Host Name | StarrkCoyote |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 21:54:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537256845140 |
-| Players | 23/24 |
-| Host Name | ็Tao về |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:44:40 |
+| Host Name | Exzie |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:54:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537262841022 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Whis |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:49:40 |
@@ -67,28 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537267961995 |
-| Players | 6/8 |
-| Host Name | чтора |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:53:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537268001023 |
-| Players | 1/8 |
-| Host Name | AFK |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 21:54:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537268635505 |
-| Players | 5/15 |
-| Host Name | ANTIKOR |
-| Region | STOCKHOLM |
+| Lobby ID | 28576537268618351 |
+| Players | 2/8 |
+| Host Name | 20th Century |
+| Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:54:33 |
 
 
@@ -103,20 +85,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537268618351 |
+| Lobby ID | 28576537269136337 |
 | Players | 1/8 |
-| Host Name | 20th Century |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:54:33 |
+| Host Name | AFK |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 21:54:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537268629180 |
+| Lobby ID | 28576537269161679 |
+| Players | 2/15 |
+| Host Name | -ZiPaxS- |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:55:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537269225940 |
 | Players | 1/15 |
-| Host Name | Rikki-Tikki-Tavi |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 21:54:33 |
+| Host Name | StarrkCoyote |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 21:55:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537269228330 |
+| Players | 1/8 |
+| Host Name | MANDALORIAN |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:55:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537269225936 |
+| Players | 1/8 |
+| Host Name | МАЙК ТАЙСОН |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:55:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Baba Yaga |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:53:47 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537268701831 |
-| Players | 3/5 |
-| Host Name | Leiron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:54:37 |
 
 
