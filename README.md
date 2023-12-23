@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576536793135068 |
 | Players | 6/8 |
-| Host Name | zarabotakleto3 |
+| Host Name | ▲ Убийца Акаме |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:28:07 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536792690265 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Вкус отца |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:27:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536792952471 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:27:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536792700986 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | クリシャ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:27:18 |
