@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537066166802 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 23, 2023 18:51:47 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 18:50:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537066581414 |
-| Players | 9/15 |
-| Host Name | Zico |
+| Lobby ID | 28576537067413165 |
+| Players | 4/8 |
+| Host Name | SoCiO |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 18:52:13 |
+| Lobby Creation Time | Saturday, December 23, 2023 18:53:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537048475265 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Carpinchochox |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 18:32:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537066158274 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Chili |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:51:46 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537066771300 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Вася Залупкин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:52:25 |
@@ -103,20 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537067208699 |
-| Players | 1/8 |
-| Host Name | SoCiO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 18:52:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537067306984 |
+| Lobby ID | 28576537067512627 |
 | Players | 5/8 |
-| Host Name | Gus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 18:53:00 |
+| Host Name | ТЕСЛА |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 18:53:13 |
 
 
 |  | epic_boss_fight_nightmare |
