@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536826683503 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Envy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:26:30 |
@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576536827013713 |
 | Players | 2/8 |
-| Host Name | Gay ruin |
+| Host Name | SBG Village|Penetrator |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:27:06 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536825734653 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:24:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536808099285 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | roswel |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 12:54:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536827571954 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:28:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536828793664 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | daddy's little slug |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 13:30:10 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536828799184 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Alaska |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:30:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536828839726 |
-| Players | 4/8 |
-| Host Name | Фростморн |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 13:30:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536828848846 |
-| Players | 6/8 |
-| Host Name | Static |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 13:30:15 |
 
 
 |  | epic_boss_fight_nightmare |
