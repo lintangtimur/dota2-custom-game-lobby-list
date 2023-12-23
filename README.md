@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537190500995 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Graf |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 23, 2023 20:48:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537204319376 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | take care of your moms♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:00:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537198043471 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Mr. Nemo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:55:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537195450052 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Gah |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 20:52:54 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537203423544 |
-| Players | 20/24 |
+| Players | 18/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:59:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537189064549 |
-| Players | 3/8 |
-| Host Name | Holi |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 20:47:31 |
+| Lobby ID | 28576537206839003 |
+| Players | 5/15 |
+| Host Name | Yoki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:02:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,10 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 21:02:23 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537207046241 |
+| Players | 1/15 |
+| Host Name | o. |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 21:02:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537200779793 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Падший дом |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:57:29 |
