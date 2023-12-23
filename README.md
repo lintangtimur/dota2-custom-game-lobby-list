@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536800044601 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | »Rewrite] |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:40:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536801193117 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | LEGEND |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:42:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536799455724 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | mrrahimgoddamn |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:39:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536801112015 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Dark Moon |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:42:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536800941462 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | waterlaw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:42:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536801503162 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | 「 」 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:43:02 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536800216921 |
-| Players | 7/10 |
-| Host Name | Окропляю уриной |
+| Players | 6/10 |
+| Host Name | eepy kitty mode |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:40:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576536801628110 |
+| Players | 1/10 |
+| Host Name | Latrell |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, December 23, 2023 12:43:15 |
 
 
 |  | epic_boss_fight_nightmare |
