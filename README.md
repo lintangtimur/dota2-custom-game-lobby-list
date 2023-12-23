@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537160781619 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | 我来看看怎么个事 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:22:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537162387390 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Kaskod |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:24:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537162165043 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Tempeste |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:24:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537150602092 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | FICHA |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:13:51 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Magnitude Pop* Pop* |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:24:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537162560303 |
+| Players | 8/15 |
+| Host Name | cim copa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:24:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537162560653 |
+| Players | 1/15 |
+| Host Name | 33 аморика |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:24:29 |
 
 
 |  | epic_boss_fight_nightmare |
