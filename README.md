@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536862252544 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | aa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:22:59 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536862644384 |
-| Players | 4/15 |
-| Host Name | ghost rider |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 23, 2023 14:23:35 |
+| Lobby ID | 28576536864387537 |
+| Players | 7/15 |
+| Host Name | 最好的 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:26:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536863873987 |
-| Players | 8/10 |
-| Host Name | sEropch1k |
+| Lobby ID | 28576536864863288 |
+| Players | 3/10 |
+| Host Name | Кирил |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:25:29 |
+| Lobby Creation Time | Saturday, December 23, 2023 14:27:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536863976436 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Xaekoree |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 23, 2023 14:25:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536864387537 |
-| Players | 3/15 |
-| Host Name | 最好的 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:26:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:23:29 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576536864759220 |
-| Players | 1/5 |
-| Host Name | !xiresta! |
+| Lobby ID | 28576536864835961 |
+| Players | 1/10 |
+| Host Name | . Skye |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:26:56 |
+| Lobby Creation Time | Saturday, December 23, 2023 14:27:03 |
 
 
