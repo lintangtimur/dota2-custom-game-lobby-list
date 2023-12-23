@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536898796782 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | win lane lose game |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:16:54 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536896052337 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | BOYKA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 15:13:04 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 15:01:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536899884237 |
-| Players | 1/8 |
-| Host Name | sylygyniya |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 15:18:25 |
+| Lobby ID | 28576536899912269 |
+| Players | 2/15 |
+| Host Name | LoveLera |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 15:18:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 15:18:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536899912269 |
-| Players | 1/15 |
-| Host Name | LoveLera |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 15:18:27 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536898935967 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 猫山王 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:17:06 |
