@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536978601697 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ✟ מִיכָאֵל ✟ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:06:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536979579661 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | not more |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:07:41 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 17:06:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536978715742 |
-| Players | 13/15 |
-| Host Name | морф утанул АХАВАВХЫЗАХ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:06:34 |
+| Lobby ID | 28576536979411153 |
+| Players | 6/8 |
+| Host Name | REYSKYWALKER! |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:07:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536979411153 |
-| Players | 3/8 |
-| Host Name | REYSKYWALKER! |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:07:28 |
+| Lobby ID | 28576536978901245 |
+| Players | 7/8 |
+| Host Name | балдымалдыбар |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:06:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bender |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:06:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536979794163 |
+| Players | 1/5 |
+| Host Name | жулик |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:07:58 |
 
 
