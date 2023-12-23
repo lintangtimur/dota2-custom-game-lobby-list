@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536885483881 |
-| Players | 9/15 |
-| Host Name | twitch.tv/lone_strider |
+| Players | 14/15 |
+| Host Name | Borderorder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:57:56 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536885423104 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | dont talk to me |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:57:51 |
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Гнев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:58:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576536885938175 |
-| Players | 3/10 |
-| Host Name | 2- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:58:36 |
 
 
