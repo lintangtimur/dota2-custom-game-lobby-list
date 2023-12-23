@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537050380436 |
-| Players | 3/8 |
-| Host Name | Перри Хуесос |
+| Lobby ID | 28576537050984180 |
+| Players | 6/8 |
+| Host Name | Soso4ka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 18:34:34 |
+| Lobby Creation Time | Saturday, December 23, 2023 18:35:14 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537050514697 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Никита |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:34:43 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537050016527 |
-| Players | 9/10 |
-| Host Name | вардик |
+| Players | 8/10 |
+| Host Name | Константин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:34:10 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537046454811 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Anya Kawaii~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:30:13 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537050122094 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | грех |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:34:17 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576537050174836 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Mega |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:34:20 |
