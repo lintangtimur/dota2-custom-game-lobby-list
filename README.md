@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:07:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537285170834 |
-| Players | 7/15 |
-| Host Name | TasherS1 |
+| Lobby ID | 28576537285651957 |
+| Players | 1/8 |
+| Host Name | ¨Ç_-Gonza-_-4 |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:08:38 |
+| Lobby Creation Time | Saturday, December 23, 2023 22:09:02 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537281169951 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | senatino player |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 22:05:14 |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537279236574 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 22:03:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537284443498 |
-| Players | 7/8 |
-| Host Name | 前兆 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:08:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537283782054 |
-| Players | 9/24 |
-| Host Name | Dron |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 22:07:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537285041571 |
-| Players | 3/10 |
-| Host Name | Virg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:08:31 |
 
 
 |  | ot3_desert_octet |
@@ -110,19 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:08:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537285453816 |
-| Players | 1/15 |
-| Host Name | Alucard |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 22:08:52 |
+| Lobby ID | 28576537283782054 |
+| Players | 12/24 |
+| Host Name | Dron |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 22:07:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537285041571 |
+| Players | 6/10 |
+| Host Name | Virg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 22:08:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537276334110 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | =( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 22:01:11 |
