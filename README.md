@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537023457815 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | xyxa |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:03:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537022587586 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Dont Be Sad :< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:02:23 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537023917811 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Бешкетник |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:03:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537024031582 |
+| Players | 6/8 |
+| Host Name | BlesTyaska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 18:04:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537024123576 |
+| Players | 3/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 18:04:13 |
 
 
 |  | epic_boss_fight_nightmare |
