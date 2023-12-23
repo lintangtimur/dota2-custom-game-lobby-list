@@ -23,37 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536910836942 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Поставьте ЛАЙК! |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:33:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536910974756 |
-| Players | 1/15 |
-| Host Name | Occisor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 15:34:03 |
+| Lobby ID | 28576536911290591 |
+| Players | 2/10 |
+| Host Name | Fadsol |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 15:34:30 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536910971122 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Dayllex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 15:34:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576536911290591 |
-| Players | 3/10 |
-| Host Name | me pro you noob :P |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 15:34:30 |
 
 
 |  | epic_boss_fight_nightmare |
