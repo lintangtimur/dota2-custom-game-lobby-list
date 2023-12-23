@@ -5,28 +5,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537100958850 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Poop Boop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:27:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537101529340 |
-| Players | 2/15 |
-| Host Name | 100 Dedos |
+| Lobby ID | 28576537102011306 |
+| Players | 6/10 |
+| Host Name | Missing you happiness |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:28:01 |
+| Lobby Creation Time | Saturday, December 23, 2023 19:28:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537100985949 |
-| Players | 5/8 |
-| Host Name | Самый самый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:27:28 |
+| Lobby ID | 28576537101133041 |
+| Players | 11/24 |
+| Host Name | DrX |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:27:37 |
 
 
 |  | ot3_desert_octet |
@@ -47,48 +47,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 19:23:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537101378210 |
-| Players | 6/10 |
-| Host Name | FANI |
+| Lobby ID | 28576537101911771 |
+| Players | 3/24 |
+| Host Name | arn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:27:52 |
+| Lobby Creation Time | Saturday, December 23, 2023 19:28:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537100874549 |
-| Players | 4/8 |
-| Host Name | Ворон |
+| Lobby ID | 28576537102285067 |
+| Players | 1/8 |
+| Host Name | Oso_V_C_ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 19:28:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537102401098 |
+| Players | 1/15 |
+| Host Name | CK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:27:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537101133041 |
-| Players | 5/24 |
-| Host Name | DrX |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:27:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537101046306 |
-| Players | 7/10 |
-| Host Name | 3 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:27:32 |
+| Lobby Creation Time | Saturday, December 23, 2023 19:28:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537100786800 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | ✬✯✮$ⅉ︎₲ℳ︎₳☃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:27:16 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576537102155384 |
+| Players | 1/7 |
+| Host Name | kolpacheque |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 19:28:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537102486360 |
+| Players | 3/5 |
+| Host Name | Potatochips |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:28:59 |
 
 
