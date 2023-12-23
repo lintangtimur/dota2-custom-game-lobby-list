@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 19:28:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537104616291 |
-| Players | 1/8 |
-| Host Name | BIBA |
+| Lobby ID | 28576537105502250 |
+| Players | 1/10 |
+| Host Name | Гатс |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:31:04 |
+| Lobby Creation Time | Saturday, December 23, 2023 19:31:55 |
 
 
 |  | ot3_desert_octet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 18:32:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537103648761 |
-| Players | 4/8 |
-| Host Name | QBash |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:30:07 |
+| Lobby ID | 28576537104809234 |
+| Players | 11/15 |
+| Host Name | Hari Seldon |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:31:15 |
 
 
 |  | ot3_desert_octet |
@@ -56,49 +56,67 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 19:28:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537104378725 |
-| Players | 5/10 |
-| Host Name | Berym |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:30:50 |
+| Lobby ID | 28576537105372503 |
+| Players | 1/24 |
+| Host Name | Rimuru Tempest |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:31:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537103351025 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Sarapan Srinivasan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:29:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537105201139 |
+| Players | 2/10 |
+| Host Name | Псих |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 19:31:37 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537104596936 |
+| Lobby ID | 28576537104932148 |
+| Players | 2/8 |
+| Host Name | LALA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 19:31:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537105166475 |
 | Players | 3/8 |
-| Host Name | Гатс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:31:02 |
+| Host Name | Hà Mã PHÊ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:31:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537104549636 |
-| Players | 13/15 |
-| Host Name | aty |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:31:00 |
+| Lobby ID | 28576537105175031 |
+| Players | 1/24 |
+| Host Name | . |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, December 23, 2023 19:31:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537104755696 |
-| Players | 1/15 |
-| Host Name | 益言丁针 |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 23, 2023 19:31:12 |
+| Lobby ID | 28576537105555348 |
+| Players | 3/8 |
+| Host Name | Я КОНЧЕНЫЙ БЕРУ М |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 19:31:58 |
 
 
 |  | epic_boss_fight_challenger |
@@ -113,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537103765733 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Potatochips |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:30:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537100786800 |
-| Players | 9/10 |
-| Host Name | ✬✯✮$ⅉ︎₲ℳ︎₳☃ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:27:16 |
 
 
