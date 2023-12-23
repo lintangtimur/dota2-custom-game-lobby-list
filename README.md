@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537258675559 |
-| Players | 3/24 |
-| Host Name | όχιιι αρχαίος |
+| Players | 2/24 |
+| Host Name | Space |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:46:12 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537267112041 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | NukeSyz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:53:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537267961995 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | чтора |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:53:59 |
@@ -83,13 +83,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 21:54:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537268123835 |
-| Players | 8/10 |
-| Host Name | Medium Lebowski |
+| Lobby ID | 28576537268635505 |
+| Players | 5/15 |
+| Host Name | ANTIKOR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:54:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537268599376 |
+| Players | 2/15 |
+| Host Name | Icenation |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:54:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537268618351 |
+| Players | 1/8 |
+| Host Name | 20th Century |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:54:08 |
+| Lobby Creation Time | Saturday, December 23, 2023 21:54:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537268629180 |
+| Players | 1/15 |
+| Host Name | Rikki-Tikki-Tavi |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 21:54:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Baba Yaga |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:53:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537268701831 |
+| Players | 3/5 |
+| Host Name | Leiron |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:54:37 |
 
 
