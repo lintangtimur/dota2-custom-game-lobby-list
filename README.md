@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537012853064 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | take care of your moms♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:50:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537010359012 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:47:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537012740456 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Продам брата за д |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:50:20 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537013047802 |
-| Players | 4/10 |
-| Host Name | Danabol |
+| Players | 5/10 |
+| Host Name | HACK(H) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:50:43 |
 
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BOPOH[BLR] |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:48:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537012528417 |
+| Players | 9/10 |
+| Host Name | rud maison margiela |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:50:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:50:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537009437729 |
+| Players | 4/5 |
+| Host Name | spoilt9111 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:46:16 |
 
 
