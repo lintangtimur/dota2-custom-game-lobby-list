@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536884654660 |
-| Players | 9/24 |
+| Players | 16/24 |
 | Host Name | CUANPROTPROT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:56:42 |
@@ -32,18 +32,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536885423104 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | dont talk to me |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:57:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536885483881 |
+| Players | 6/15 |
+| Host Name | twitch.tv/lone_strider |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:57:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576536885037741 |
-| Players | 7/10 |
-| Host Name | Izumiiiiiiiiii<3 |
+| Lobby ID | 28576536885720495 |
+| Players | 1/10 |
+| Host Name | 2- |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:57:16 |
+| Lobby Creation Time | Saturday, December 23, 2023 14:58:17 |
 
 
