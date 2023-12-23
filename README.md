@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537324633042 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | NQR |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:42:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537321469122 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | ..... |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 22:39:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537324132254 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Kenny ᚰ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:42:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537321521637 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 504 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:39:53 |
@@ -101,6 +101,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:42:40 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537320661671 |
+| Players | 7/8 |
+| Host Name | вардик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 22:39:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537324895877 |
+| Players | 1/15 |
+| Host Name | kinozu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 22:42:49 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28576537301799658 |
@@ -122,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537324280656 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DeathBear.KR |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:42:17 |
