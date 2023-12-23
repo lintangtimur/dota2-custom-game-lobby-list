@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537243892045 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Razak |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:33:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537244362195 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | ☆ፀ☆ፀSagaciouSፀ☆ፀ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:34:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537242629745 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | qwater |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:32:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537245380499 |
-| Players | 2/15 |
+| Players | 11/15 |
 | Host Name | холодильник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:35:06 |
@@ -67,20 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537245442649 |
-| Players | 4/10 |
-| Host Name | анальное родео |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:35:09 |
+| Lobby ID | 28576537245603862 |
+| Players | 1/10 |
+| Host Name | Saigo |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, December 23, 2023 21:35:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537245455313 |
-| Players | 2/10 |
-| Host Name | ЕБАЛ МАТЬ МОЧАМЭНА |
+| Lobby ID | 28576537245613953 |
+| Players | 1/24 |
+| Host Name | Old_Zeng |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, December 23, 2023 21:35:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537245643577 |
+| Players | 1/8 |
+| Host Name | omel |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:35:09 |
+| Lobby Creation Time | Saturday, December 23, 2023 21:35:19 |
 
 
 |  | epic_boss_fight_normal |
