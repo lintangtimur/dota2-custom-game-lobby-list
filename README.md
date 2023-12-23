@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576536973954055 |
-| Players | 19/24 |
-| Host Name | Almond Butter Honey |
+| Lobby ID | 28576536975689842 |
+| Players | 14/24 |
+| Host Name | maîtresse |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:00:15 |
+| Lobby Creation Time | Saturday, December 23, 2023 17:02:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,43 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536974801740 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | ты не чувствуешь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:01:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536974279813 |
-| Players | 7/8 |
-| Host Name | -=Nightmare=- |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 17:00:41 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536975057643 |
-| Players | 9/15 |
-| Host Name | Zodiac |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:01:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576536975174570 |
-| Players | 4/10 |
-| Host Name | Маркетплейс |
+| Lobby ID | 28576536975831036 |
+| Players | 3/15 |
+| Host Name | Power Pooch |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:01:53 |
+| Lobby Creation Time | Saturday, December 23, 2023 17:02:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536974299389 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Neizen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:00:43 |
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536974575298 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | [*BaSkeTka*] |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:01:05 |
