@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 17:06:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576536998379135 |
-| Players | 9/10 |
-| Host Name | jr.mrio |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:32:20 |
+| Lobby ID | 28576536998907713 |
+| Players | 1/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:33:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536993208717 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | your_hope |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:25:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536998812943 |
+| Players | 7/15 |
+| Host Name | Skalmold |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:32:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576536998857316 |
+| Players | 2/10 |
+| Host Name | лавашик hyi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:32:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gore video is the best movie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:32:00 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28576536998809541 |
-| Players | 1/7 |
-| Host Name | 勤学苦练。 |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, December 23, 2023 17:32:52 |
 
 
