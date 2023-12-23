@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536787966042 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:18:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536787986832 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | El Saramambiche |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:18:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536787747022 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:18:02 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Say my name |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:20:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536789477615 |
+| Players | 1/15 |
+| Host Name | YA C БOГAMИ COВET DERZHY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 12:21:09 |
 
 
 |  | epic_boss_fight_nightmare |
