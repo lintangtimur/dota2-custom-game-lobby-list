@@ -29,31 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 12:37:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536797972742 |
-| Players | 13/15 |
-| Host Name | nattyboons |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 12:36:51 |
+| Lobby ID | 28576536799455724 |
+| Players | 7/10 |
+| Host Name | mrrahimgoddamn |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 12:39:27 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536800216921 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Окропляю уриной |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:40:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536798853608 |
-| Players | 1/24 |
-| Host Name | Mr. Nemo |
+| Lobby ID | 28576536801023992 |
+| Players | 5/8 |
+| Host Name | ZXSVHXX |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 12:38:24 |
+| Lobby Creation Time | Saturday, December 23, 2023 12:42:10 |
 
 
 |  | ot3_desert_octet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | waterlaw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:42:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576536799455724 |
-| Players | 7/10 |
-| Host Name | mrrahimgoddamn |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 12:39:27 |
 
 
 |  | epic_boss_fight_nightmare |
