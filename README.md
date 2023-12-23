@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536880493932 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | DIVINE SLAYER! |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 23, 2023 14:50:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536875008101 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:42:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536880664843 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | выблядку нужна еда) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:50:49 |
@@ -56,12 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:50:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536880926631 |
+| Players | 3/8 |
+| Host Name | абсолют ник |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:51:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536880814078 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 大哥打野音信全无 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:51:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536880958531 |
+| Players | 2/5 |
+| Host Name | OpenAl(ℬoτ) ✔ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:51:14 |
 
 
