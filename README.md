@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537237325302 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Taison V. Akhal |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:28:22 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537241446973 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Натян |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:31:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537238029867 |
-| Players | 21/24 |
-| Host Name | huy292003 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:28:58 |
+| Lobby ID | 28576537241850900 |
+| Players | 4/8 |
+| Host Name | roflan ebalo |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:32:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537241730100 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 20th Century |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:32:04 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537241915891 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | FaithPrince |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:32:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537241850900 |
-| Players | 5/8 |
-| Host Name | Posada |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:32:10 |
 
 
 |  | epic_boss_fight_hard |
