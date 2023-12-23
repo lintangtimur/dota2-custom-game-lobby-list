@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 17:06:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536978901245 |
-| Players | 7/8 |
-| Host Name | балдымалдыбар |
+| Lobby ID | 28576536979579661 |
+| Players | 2/10 |
+| Host Name | not more |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:06:48 |
+| Lobby Creation Time | Saturday, December 23, 2023 17:07:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536963294296 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | xxzd |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 23, 2023 16:45:56 |
@@ -41,34 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536978715742 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | морф утанул АХАВАВХЫЗАХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:06:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536978617350 |
-| Players | 2/15 |
-| Host Name | Зажим Яйцами |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, December 23, 2023 17:06:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576536978944871 |
-| Players | 8/10 |
-| Host Name | Sanyo |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:06:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536979411153 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | REYSKYWALKER! |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:07:28 |
