@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537346206111 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | @Fano Freeman |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 23:01:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537346989648 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Griffen801 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 23:02:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537348149938 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | VDYL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 23:03:39 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 23:03:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537349219999 |
-| Players | 2/15 |
-| Host Name | MieliePap |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, December 23, 2023 23:04:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537349251804 |
-| Players | 5/24 |
-| Host Name | Kang Haerin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 23:04:38 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537342246557 |
@@ -110,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:58:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537349268305 |
-| Players | 4/10 |
-| Host Name | Techno † |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 23:04:39 |
+| Lobby ID | 28576537349251804 |
+| Players | 6/24 |
+| Host Name | Kang Haerin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 23:04:38 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28576537336973036 |
-| Players | 5/7 |
+| Players | 6/7 |
 | Host Name | Karien |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:53:33 |
