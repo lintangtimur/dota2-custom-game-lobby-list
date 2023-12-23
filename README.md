@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537307822595 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | superazraq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 22:27:59 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537306274140 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | SyX |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 22:26:36 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537307390983 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | nissan-gtr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:27:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537307738552 |
-| Players | 9/10 |
-| Host Name | Wortex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:27:54 |
+| Lobby ID | 28576537308533170 |
+| Players | 5/8 |
+| Host Name | WW R.I.P.    ]]] |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 22:28:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537306993410 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Power Ranger Plomo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 22:27:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537302214785 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ReiJr1 |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 22:23:07 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537307972495 |
-| Players | 8/15 |
-| Host Name | double<3A |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:28:07 |
+| Lobby ID | 28576537308543371 |
+| Players | 9/15 |
+| Host Name | Dota veteran |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 22:28:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537308058349 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Sold1er |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 22:28:11 |
@@ -95,28 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537308271242 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Sukuna |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 23, 2023 22:28:23 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537308823899 |
+| Players | 1/24 |
+| Host Name | Chandideadmoon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 22:28:52 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28576537301799658 |
-| Players | 5/7 |
+| Players | 2/7 |
 | Host Name | Karien |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:22:45 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576537306297485 |
-| Players | 8/10 |
-| Host Name | noah- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:26:37 |
+| Lobby ID | 28576537308223998 |
+| Players | 3/5 |
+| Host Name | meliohapa |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 22:28:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -128,21 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:26:47 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576537308166559 |
-| Players | 1/7 |
-| Host Name | Tim_seven |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:28:17 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576537308223998 |
+| Lobby ID | 28576537308825123 |
 | Players | 1/5 |
-| Host Name | meliohapa |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:28:20 |
+| Host Name | фальшь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 22:28:52 |
 
 
