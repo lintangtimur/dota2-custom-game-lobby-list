@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536811408088 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | DJ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 13:00:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536813058722 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:03:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536812474453 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | who is LMFAO |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:02:22 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 13:02:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536813444697 |
-| Players | 6/8 |
-| Host Name | OPPENHEIMER |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 13:04:05 |
+| Lobby ID | 28576536813638560 |
+| Players | 5/15 |
+| Host Name | poke |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 13:04:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536813566165 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:04:17 |
