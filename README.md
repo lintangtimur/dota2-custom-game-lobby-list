@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536854345404 |
-| Players | 13/15 |
-| Host Name | zxcurva |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:10:57 |
+| Lobby ID | 28576536855535658 |
+| Players | 3/15 |
+| Host Name | Mr-ATLAS |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 14:12:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536855697522 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Nexus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:13:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536853280550 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Vernedomo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:09:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536852853067 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Jungle or 1 ( try me! ) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:08:37 |
@@ -50,43 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536853335660 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | wtt2k |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:09:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536854778672 |
-| Players | 5/8 |
-| Host Name | TIDEHUNTER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:11:37 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536853644233 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | pos 1 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 14:09:52 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536855535658 |
-| Players | 2/15 |
-| Host Name | Mr-ATLAS |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 14:12:47 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576536852847941 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | zι|<я |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:08:36 |
