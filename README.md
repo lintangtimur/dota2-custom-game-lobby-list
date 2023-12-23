@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537014443179 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | иду на германию |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:52:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537013461784 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Moooooooo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:51:13 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537014483838 |
-| Players | 6/8 |
-| Host Name | Teмa, 14 лeт, кpyтoй |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:52:28 |
+| Lobby ID | 28576537014770230 |
+| Players | 5/8 |
+| Host Name | shok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:52:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537014507074 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | son of a gun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:52:29 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | хуйня |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:52:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537014727563 |
-| Players | 2/10 |
-| Host Name | 隔壁戴夫 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:52:46 |
 
 
 |  | epic_boss_fight_normal |
