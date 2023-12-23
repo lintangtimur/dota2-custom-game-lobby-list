@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536910081744 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | xxzd |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 15:32:48 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536918581637 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Nizav |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:44:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536920408254 |
-| Players | 1/15 |
-| Host Name | Михал Палыч Терен |
+| Lobby ID | 28576536920564373 |
+| Players | 2/8 |
+| Host Name | yakiro |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 15:47:06 |
+| Lobby Creation Time | Saturday, December 23, 2023 15:47:19 |
 
 
 |  | ot3_desert_octet |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536918168334 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Abradolf Lincler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 15:44:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536920564373 |
-| Players | 1/8 |
-| Host Name | yakiro |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 15:47:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Гнев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 15:43:43 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536920658050 |
+| Players | 1/10 |
+| Host Name | Izumiiiiiiiiii<3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 15:47:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536920705835 |
+| Players | 1/5 |
+| Host Name | zxcфольксваген |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 15:47:31 |
 
 
