@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537172540821 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | FreeBofe |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 20:33:20 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 20:47:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537188416351 |
-| Players | 3/10 |
-| Host Name | Samuray |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:46:58 |
+| Lobby ID | 28576537174096409 |
+| Players | 14/15 |
+| Host Name | SyX |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 20:34:40 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537190420473 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | p[A]ur |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:48:40 |
@@ -95,45 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537190500995 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Graf |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 23, 2023 20:48:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537190575262 |
-| Players | 3/8 |
-| Host Name | владыка(UWU) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:48:48 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537191001980 |
-| Players | 1/10 |
-| Host Name | Работайте БРАТЬЯ!!!! |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:49:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537174096409 |
-| Players | 14/15 |
-| Host Name | SyX |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 20:34:40 |
+| Lobby ID | 28576537191230102 |
+| Players | 6/10 |
+| Host Name | умный. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:49:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576537191067049 |
-| Players | 1/10 |
-| Host Name | san~ |
+| Lobby ID | 28576537191222648 |
+| Players | 2/10 |
+| Host Name | Hou` |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:49:13 |
+| Lobby Creation Time | Saturday, December 23, 2023 20:49:21 |
 
 
