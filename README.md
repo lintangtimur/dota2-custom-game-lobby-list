@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537027419567 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Anakin Panakin |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:08:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537033174962 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ШКАФ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:14:49 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576537033380478 |
 | Players | 7/15 |
-| Host Name | boqdogGod |
+| Host Name | PadRes GarDeNs |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:15:03 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537033090060 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Andreas Maler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:14:43 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JapaKama |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 18:14:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537033421455 |
-| Players | 1/5 |
-| Host Name | Опер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 18:15:06 |
 
 
