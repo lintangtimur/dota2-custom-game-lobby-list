@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536993400235 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | _ZIMEN_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:25:46 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | unlucky shot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:26:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536993833389 |
+| Players | 1/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:26:20 |
 
 
 |  | epic_boss_fight_nightmare |
