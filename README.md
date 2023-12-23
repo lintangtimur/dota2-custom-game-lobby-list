@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536959701427 |
-| Players | 7/8 |
-| Host Name | Hi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:41:04 |
+| Lobby ID | 28576536977248644 |
+| Players | 6/8 |
+| Host Name | shok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:04:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576536975689842 |
-| Players | 23/24 |
-| Host Name | maîtresse |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:02:34 |
+| Lobby ID | 28576536977345631 |
+| Players | 1/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, December 23, 2023 17:04:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,34 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536976947172 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | ビールは神 |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:04:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536976261737 |
-| Players | 1/15 |
-| Host Name | Marshalldoge |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 17:03:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536976944135 |
-| Players | 1/15 |
-| Host Name | 我是你的乳酸菌 |
-| Region | PWUNICOM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:04:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536974299389 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Neizen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:00:43 |
@@ -77,9 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536974575298 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | [*BaSkeTka*] |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:01:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536977320576 |
+| Players | 1/5 |
+| Host Name | Я сегодня Мария |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:04:43 |
 
 
