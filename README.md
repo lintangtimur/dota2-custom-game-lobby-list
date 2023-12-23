@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537312762955 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | :p |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 22:32:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537316682263 |
-| Players | 9/15 |
-| Host Name | Purposeful kid |
+| Lobby ID | 28576537316842801 |
+| Players | 2/10 |
+| Host Name | DRAMV 64 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:35:40 |
+| Lobby Creation Time | Saturday, December 23, 2023 22:35:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537316679783 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | shinobi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:35:40 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:35:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537316962257 |
-| Players | 1/10 |
-| Host Name | meme |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:35:55 |
+| Lobby ID | 28576537316926058 |
+| Players | 2/24 |
+| Host Name | Reiner |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 22:35:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,37 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:35:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537316842801 |
-| Players | 2/10 |
-| Host Name | DRAMV 64 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:35:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537316926058 |
-| Players | 1/24 |
-| Host Name | Reiner |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:35:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537316985000 |
-| Players | 4/8 |
-| Host Name | БЫТИЕ КИРИЛЛА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:35:56 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28576537301799658 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | Karien |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:22:45 |
