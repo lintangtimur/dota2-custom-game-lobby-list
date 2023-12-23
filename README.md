@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 21:25:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537237684068 |
-| Players | 9/15 |
-| Host Name | задоджил аборт |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:28:40 |
+| Lobby ID | 28576537238029867 |
+| Players | 4/24 |
+| Host Name | WEeEw |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:28:58 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537237566493 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Sterben |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:28:34 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537238121437 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | MEEEeeep |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:29:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537238029867 |
-| Players | 3/24 |
-| Host Name | WEeEw |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:28:58 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:25:59 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576537238611212 |
+| Players | 1/7 |
+| Host Name | Fuckyeah |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:29:27 |
 
 
