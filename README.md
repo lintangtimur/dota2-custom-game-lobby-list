@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576536865362009 |
 | Players | 9/24 |
-| Host Name | [Bot] Zee |
+| Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:27:53 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536865358535 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Кирил |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:27:53 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536865495400 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | -25 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:28:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536865609653 |
-| Players | 7/8 |
-| Host Name | 5 минут до заката |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:28:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Эффект Дикке |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:29:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536867009418 |
+| Players | 2/10 |
+| Host Name | ReqWeeZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:30:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536867026929 |
+| Players | 1/5 |
+| Host Name | GGC |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 14:30:27 |
 
 
