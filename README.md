@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537100958850 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Poop Boop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:27:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537101133041 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | DrX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:27:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537048475265 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Carpinchochox |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 18:32:27 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FuNky* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:28:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537101529340 |
-| Players | 14/15 |
-| Host Name | 100 Dedos |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:28:01 |
 
 
 |  | epic_boss_fight_nightmare |
