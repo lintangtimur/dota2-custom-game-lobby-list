@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 20:48:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537200509343 |
-| Players | 22/24 |
-| Host Name | Nuntin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:57:15 |
+| Lobby ID | 28576537202691188 |
+| Players | 3/8 |
+| Host Name | разлив балтики |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:59:08 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537202202894 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | кайт механизм |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:58:43 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 20:58:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537202691188 |
-| Players | 3/8 |
-| Host Name | разлив балтики |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:59:08 |
+| Lobby ID | 28576537202947453 |
+| Players | 1/15 |
+| Host Name | 安德鲁森图书馆管理员 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 20:59:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -103,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576537202238681 |
+| Lobby ID | 28576537202898099 |
 | Players | 2/10 |
 | Host Name | Yui |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, December 23, 2023 20:58:45 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 20:59:19 |
 
 
