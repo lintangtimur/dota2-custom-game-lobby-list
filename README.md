@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:32:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536870786237 |
-| Players | 7/8 |
-| Host Name | TIDEHUNTER |
+| Lobby ID | 28576536872120917 |
+| Players | 2/10 |
+| Host Name | tw1nkletoes |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:36:08 |
+| Lobby Creation Time | Saturday, December 23, 2023 14:38:06 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536870309778 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | ja1ser |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 23, 2023 14:35:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536865417071 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Xaekoree |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:27:58 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536872116651 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | ? |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:38:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536872120917 |
-| Players | 2/10 |
-| Host Name | tw1nkletoes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:38:06 |
+| Lobby ID | 28576536872284502 |
+| Players | 1/8 |
+| Host Name | banzoshka |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 14:38:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536870696413 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mayarasamee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:35:59 |
