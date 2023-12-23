@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536928955531 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | Solder |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 15:59:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536928993810 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Неглотай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 15:59:06 |
@@ -56,22 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 15:49:12 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536929161107 |
-| Players | 3/15 |
-| Host Name | intothebottle |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, December 23, 2023 15:59:20 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536929167502 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | пудж в сапогах |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 15:59:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536929253451 |
+| Players | 3/15 |
+| Host Name | intothebottle |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 15:59:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576536927202844 |
+| Players | 9/10 |
+| Host Name | AMATERASU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 15:56:32 |
 
 
 |  | epic_boss_fight_nightmare |
