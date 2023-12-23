@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536973954055 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:00:15 |
@@ -29,21 +29,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 16:45:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536973629542 |
-| Players | 12/15 |
-| Host Name | Conq |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:59:49 |
+| Lobby ID | 28576536974249587 |
+| Players | 4/10 |
+| Host Name | УДАЛИ ДОТУ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:00:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536974156097 |
-| Players | 2/8 |
-| Host Name | :3 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 17:00:31 |
+| Lobby ID | 28576536974279813 |
+| Players | 3/8 |
+| Host Name | -=Nightmare=- |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 17:00:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536974456912 |
+| Players | 1/15 |
+| Host Name | Riki |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:00:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536974299389 |
+| Players | 1/10 |
+| Host Name | Neizen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:00:43 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536966620929 |
+| Players | 9/10 |
+| Host Name | KV |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 16:50:23 |
 
 
