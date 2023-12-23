@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537334483624 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Illusion |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:51:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537331194955 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | I'm depressed I want to win |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 22:48:24 |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537335021431 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | dead outside |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:51:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537335226901 |
-| Players | 2/8 |
-| Host Name | ryker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:52:00 |
+| Lobby ID | 28576537335270176 |
+| Players | 1/10 |
+| Host Name | neeLoon |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, December 23, 2023 22:52:02 |
 
 
 |  | epic_boss_fight_challenger |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537334081735 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | pon4ik |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:50:59 |
