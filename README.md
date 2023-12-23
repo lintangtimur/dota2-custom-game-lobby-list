@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537164160017 |
-| Players | 9/10 |
-| Host Name | "DIEGUIXZN//IS BACK" |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 20:25:55 |
+| Lobby ID | 28576537168460049 |
+| Players | 4/10 |
+| Host Name | Disappointed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:29:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537165426257 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Arrivederci |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:27:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537167381656 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Член Дениса |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:28:50 |
@@ -67,55 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537167918063 |
-| Players | 14/15 |
-| Host Name | zaharidzzzze |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:29:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537167817375 |
-| Players | 6/8 |
-| Host Name | SUPERSPERMA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:29:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28576537168276876 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Buchenwald |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:29:37 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537166774202 |
-| Players | 1/5 |
-| Host Name | Good Night |
+| Lobby ID | 28576537167817375 |
+| Players | 7/8 |
+| Host Name | SUPERSPERMA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:28:17 |
+| Lobby Creation Time | Saturday, December 23, 2023 20:29:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576537167315308 |
-| Players | 4/10 |
-| Host Name | 提亚 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Saturday, December 23, 2023 20:28:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537168256287 |
+| Lobby ID | 28576537168377718 |
 | Players | 1/10 |
-| Host Name | heartless |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, December 23, 2023 20:29:36 |
+| Host Name | ggwp |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 20:29:43 |
 
 
