@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536934640742 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Замир Безгеев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:06:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536921916247 |
-| Players | 9/10 |
-| Host Name | La Pixiris |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 15:49:12 |
+| Lobby ID | 28576536934881618 |
+| Players | 3/8 |
+| Host Name | ИНЖЕНЕР |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, December 23, 2023 16:07:13 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536934415428 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | chips |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:06:34 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 16:06:57 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536934896042 |
+| Players | 3/15 |
+| Host Name | Manbagi |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 16:07:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536932335863 |
@@ -94,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576536934736503 |
+| Lobby ID | 28576536934912781 |
 | Players | 1/5 |
 | Host Name | N E Y M 1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 16:07:01 |
+| Lobby Creation Time | Saturday, December 23, 2023 16:07:15 |
 
 
