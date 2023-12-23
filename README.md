@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536935264497 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Drink some water please |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:07:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536934917932 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | 没意思 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:07:16 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536914359340 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Cypher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 15:38:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536935428898 |
-| Players | 3/8 |
-| Host Name | Matve172 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 16:07:58 |
+| Lobby ID | 28576536935381323 |
+| Players | 8/10 |
+| Host Name | ❤vodka❤ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 16:07:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:06:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576536935381323 |
-| Players | 3/10 |
-| Host Name | ❤vodka❤ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:07:54 |
 
 
 |  | epic_boss_fight_nightmare |
