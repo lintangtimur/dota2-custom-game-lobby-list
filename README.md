@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537189064549 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dispersion |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 20:47:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537189326507 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | total despair |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:47:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537190774334 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | rflratdude |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:48:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537190420473 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | p[A]ur |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:48:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537190425275 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Whis |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 20:48:40 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537190500995 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Graf |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 23, 2023 20:48:44 |
@@ -110,21 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 20:48:48 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537191001980 |
+| Players | 1/10 |
+| Host Name | Работайте БРАТЬЯ!!!! |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 20:49:10 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537190861916 |
-| Players | 1/15 |
-| Host Name | 痔在必得工作a室 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, December 23, 2023 20:49:02 |
+| Lobby ID | 28576537174096409 |
+| Players | 14/15 |
+| Host Name | SyX |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 20:34:40 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576537189247152 |
-| Players | 8/10 |
-| Host Name | noah- |
+| Lobby ID | 28576537191067049 |
+| Players | 1/10 |
+| Host Name | san~ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:47:40 |
+| Lobby Creation Time | Saturday, December 23, 2023 20:49:13 |
 
 
