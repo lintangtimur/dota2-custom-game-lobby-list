@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537121100675 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | D_y  lml D"%"#& WTF |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 19:46:48 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537149640253 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Sepia |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 23, 2023 20:13:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537149986231 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Elinbarrage |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:13:18 |
@@ -74,11 +74,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 20:13:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537150737838 |
-| Players | 2/8 |
-| Host Name | AlcaTraZ |
+| Lobby ID | 28576537150749787 |
+| Players | 4/10 |
+| Host Name | Каспийский груш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:13:58 |
 
@@ -86,36 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537150743194 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | metori |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:13:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537150749787 |
-| Players | 2/10 |
-| Host Name | Каспийский груш |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:13:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537150752331 |
-| Players | 1/10 |
-| Host Name | gandolier |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:13:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537150740453 |
-| Players | 1/15 |
-| Host Name | kepsss |
-| Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:13:58 |
 
 
