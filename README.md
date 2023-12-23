@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537172540821 |
-| Players | 13/24 |
+| Players | 10/24 |
 | Host Name | Maragato |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 20:33:20 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537209571465 |
-| Players | 8/15 |
-| Host Name | @®Man |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 21:04:57 |
+| Lobby ID | 28576537211581171 |
+| Players | 9/15 |
+| Host Name | Zebrahead |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:06:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537210951137 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | MAKAR |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:06:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537208322302 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:03:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537204261583 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Saigo |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 21:00:29 |
@@ -65,66 +65,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 20:52:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537210554244 |
-| Players | 2/8 |
-| Host Name | DG_COACH |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:05:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537209004163 |
-| Players | 6/8 |
-| Host Name | афывйцу |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:04:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537210940086 |
-| Players | 12/15 |
-| Host Name | Sou1tice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:06:07 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537211075401 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | туалет крутится |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:06:13 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537208267474 |
-| Players | 9/10 |
-| Host Name | Ginger or Ni...r? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:03:52 |
+| Lobby ID | 28576537211820760 |
+| Players | 1/24 |
+| Host Name | KYAT |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 21:06:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537211875017 |
+| Players | 3/8 |
+| Host Name | (: |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:06:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537211753827 |
+| Players | 1/8 |
+| Host Name | The C |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 23, 2023 21:06:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537209571465 |
+| Players | 14/15 |
+| Host Name | @®Man |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 21:04:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537209949066 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Ноль на хой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:05:16 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576537211089339 |
-| Players | 2/5 |
-| Host Name | tw.tv/VolodyaVanguard |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:06:14 |
+| Lobby ID | 28576537211886641 |
+| Players | 2/10 |
+| Host Name | やとがみ とぉ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:06:54 |
 
 
