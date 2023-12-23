@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537269136337 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | AFK |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:54:59 |
@@ -86,55 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537271706992 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | MagiskeMogens |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:57:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537272317753 |
-| Players | 9/15 |
-| Host Name | тварь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:57:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537256845140 |
-| Players | 14/24 |
-| Host Name | pattosama |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:44:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537272612689 |
-| Players | 3/8 |
-| Host Name | l |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:57:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537272474776 |
-| Players | 1/10 |
-| Host Name | Raiden Shogun (Ei) |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:57:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537271975025 |
-| Players | 9/10 |
-| Host Name | PaterTuum |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:57:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -148,11 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
+| Lobby ID | 28576537256845140 |
+| Players | 12/24 |
+| Host Name | -Voxz- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:44:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
 | Lobby ID | 28576537272600376 |
 | Players | 1/24 |
 | Host Name | SSK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:57:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537272474776 |
+| Players | 6/10 |
+| Host Name | Raiden Shogun (Ei) |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:57:52 |
 
 
 |  | epic_boss_fight_challenger |
@@ -167,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537269573706 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:55:21 |
