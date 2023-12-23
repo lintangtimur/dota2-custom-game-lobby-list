@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537125768244 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 19:51:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537124524740 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | V1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:50:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537125690676 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | everything gonna be alright |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:51:06 |
@@ -68,27 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537125771322 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Gromm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:51:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537125729604 |
-| Players | 2/10 |
-| Host Name | kim dok ja |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:51:09 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537125794853 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Felix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:51:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537126091753 |
+| Players | 1/10 |
+| Host Name | scream |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 19:51:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537126050057 |
+| Players | 1/5 |
+| Host Name | финик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 19:51:26 |
 
 
