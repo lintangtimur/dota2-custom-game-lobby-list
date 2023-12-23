@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536947919048 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | 伸筋 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:24:56 |
@@ -20,21 +20,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 16:17:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536946838891 |
-| Players | 20/24 |
-| Host Name | Rai Almighty |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:23:29 |
+| Lobby ID | 28576536948639876 |
+| Players | 1/10 |
+| Host Name | KRATOS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 16:25:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536947926724 |
-| Players | 1/8 |
-| Host Name | Yung Srani |
+| Lobby ID | 28576536948361049 |
+| Players | 8/15 |
+| Host Name | Дон оверолл |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:24:57 |
+| Lobby Creation Time | Saturday, December 23, 2023 16:25:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576536946746592 |
+| Players | 9/10 |
+| Host Name | golden rooster |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 16:23:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536948453268 |
+| Players | 1/10 |
+| Host Name | asakurwa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 16:25:41 |
 
 
