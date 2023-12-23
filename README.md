@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536808099285 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Guihs |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 12:54:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536812582697 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | /twitch/mamy.tvoy.ebal. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:02:34 |
