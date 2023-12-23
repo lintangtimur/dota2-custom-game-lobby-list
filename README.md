@@ -56,13 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 15:20:46 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576536903404129 |
+| Players | 2/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, December 23, 2023 15:23:19 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536903294009 |
+| Lobby ID | 28576536903515279 |
 | Players | 1/8 |
 | Host Name | цыфорки |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 15:23:10 |
+| Lobby Creation Time | Saturday, December 23, 2023 15:23:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536900953351 |
+| Players | 7/8 |
+| Host Name | AB1BA$ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 15:19:54 |
 
 
 |  | epic_boss_fight_nightmare |
