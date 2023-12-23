@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536932204703 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Nero |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:03:31 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536933852476 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | ミカサ・アッカーマン |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:05:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536921916247 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | La Pixiris |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 15:49:12 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536933619826 |
-| Players | 12/15 |
-| Host Name | 23 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:05:28 |
+| Lobby ID | 28576536934415428 |
+| Players | 4/15 |
+| Host Name | chips |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 16:06:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:05:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536933799413 |
-| Players | 7/8 |
-| Host Name | (: |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:05:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536933096807 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Gandy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:04:45 |
