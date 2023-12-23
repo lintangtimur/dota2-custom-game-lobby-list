@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536848879568 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | fat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:02:23 |
@@ -36,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:00:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536849377077 |
+| Players | 1/8 |
+| Host Name | Egoist absolute |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:03:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536849410384 |
+| Players | 1/15 |
+| Host Name | SWALALA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 14:03:13 |
 
 
 |  | epic_boss_fight_nightmare |
