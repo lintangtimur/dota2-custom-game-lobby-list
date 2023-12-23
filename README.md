@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536828799184 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | EL DOMADOR DE SERRANOS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:30:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536827013713 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | SBG Village|Penetrator |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:27:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536825734653 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:24:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536829903411 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | waiting for death |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:32:00 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536829920830 |
-| Players | 1/24 |
-| Host Name |  |
+| Players | 7/24 |
+| Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:32:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576536830033101 |
+| Players | 1/24 |
+| Host Name | God save the King |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 13:32:12 |
 
 
 |  | epic_boss_fight_nightmare |
