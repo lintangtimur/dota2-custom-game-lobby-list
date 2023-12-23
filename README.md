@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537114873777 |
-| Players | 2/8 |
-| Host Name | TOKYO. |
+| Players | 1/8 |
+| Host Name | УмныйЧертила |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:40:55 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537114405131 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 玫瑰少年 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:40:28 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537114855715 |
-| Players | 3/15 |
-| Host Name | В поисках соли |
+| Players | 1/15 |
+| Host Name | Vist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:40:54 |
 
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537114075131 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:40:09 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537109554495 |
-| Players | 8/10 |
-| Host Name | Гнев |
+| Lobby ID | 28576537115094673 |
+| Players | 6/15 |
+| Host Name | В поисках соли |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:35:50 |
+| Lobby Creation Time | Saturday, December 23, 2023 19:41:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Han Jee-han  한 지한 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:40:18 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537110460185 |
-| Players | 9/10 |
-| Host Name | lp |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:36:42 |
 
 
