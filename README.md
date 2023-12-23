@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536855535658 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Morennium9 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:12:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536858869112 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:17:50 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:18:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576536859252822 |
-| Players | 1/15 |
-| Host Name | Overthrow |
+| Lobby ID | 28576536859375304 |
+| Players | 3/24 |
+| Host Name | ☭Fuck Bluehole Inc |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:18:25 |
+| Lobby Creation Time | Saturday, December 23, 2023 14:18:36 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576536852847941 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | zι|<я |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:08:36 |
