@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536862644384 |
-| Players | 12/15 |
-| Host Name | Noobcake |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, December 23, 2023 14:23:35 |
+| Lobby ID | 28576536867316566 |
+| Players | 4/15 |
+| Host Name | King™ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 14:30:53 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536865362009 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:27:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536866021992 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | BABYBARA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:28:55 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:27:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536865495400 |
-| Players | 14/15 |
-| Host Name | -25 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:28:05 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536866822760 |
@@ -83,30 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:30:09 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536866486847 |
-| Players | 1/7 |
-| Host Name | Эффект Дикке |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:29:37 |
+| Lobby ID | 28576536867370706 |
+| Players | 1/15 |
+| Host Name | Willy |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 14:30:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576536867009418 |
-| Players | 2/10 |
-| Host Name | ReqWeeZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:30:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576536867026929 |
-| Players | 1/5 |
-| Host Name | GGC |
+| Lobby ID | 28576536867299746 |
+| Players | 1/10 |
+| Host Name | Click[&]Search |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:30:27 |
+| Lobby Creation Time | Saturday, December 23, 2023 14:30:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536867338898 |
+| Players | 1/10 |
+| Host Name | WhyBaby? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:30:55 |
 
 
