@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537120561611 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Kenny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:46:18 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537121100675 |
-| Players | 2/8 |
-| Host Name | Oso_V_C_ |
+| Players | 1/8 |
+| Host Name | el mas chalon :v |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 19:46:48 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537048475265 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Carpinchochox |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 18:32:27 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537118365784 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:44:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537122392160 |
-| Players | 9/10 |
-| Host Name | OverNight |
+| Lobby ID | 28576537123273439 |
+| Players | 2/8 |
+| Host Name | yujiro |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:48:01 |
+| Lobby Creation Time | Saturday, December 23, 2023 19:48:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537123240278 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Satori |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:48:48 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537123273439 |
-| Players | 1/8 |
-| Host Name | yujiro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:48:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537120848633 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:46:34 |
