@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537059443472 |
-| Players | 7/10 |
-| Host Name | Gargamel |
+| Players | 5/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 18:44:31 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537064705733 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | King Nothing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:50:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537071131402 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Tada-Banri |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 18:57:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537072288246 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kenpachi Zaraki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:58:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537072691001 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | radja |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:58:50 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537072608687 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Phoodie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:58:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537072988390 |
+| Players | 3/24 |
+| Host Name | <3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 18:59:09 |
 
 
 |  | epic_boss_fight_challenger |
