@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536843702845 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | wild dodge戦死 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:54:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536842879485 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:52:42 |
