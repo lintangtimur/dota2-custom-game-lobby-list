@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536812582697 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | I'm the bone of my sword... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:02:34 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536808099285 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Guihs |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 12:54:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536812600231 |
-| Players | 14/15 |
-| Host Name | Mr. Morale & The Big Steppers |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 13:02:36 |
+| Lobby ID | 28576536814579307 |
+| Players | 2/8 |
+| Host Name | KiDPER |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 13:05:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536813058722 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:03:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536814408633 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 13:05:42 |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536814560242 |
+| Lobby ID | 28576536814677284 |
 | Players | 4/8 |
-| Host Name | Фростморн |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 13:05:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536814579307 |
-| Players | 1/8 |
-| Host Name | KiDPER |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 13:05:59 |
+| Host Name | Maybe |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, December 23, 2023 13:06:10 |
 
 
 |  | epic_boss_fight_nightmare |
