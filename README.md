@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536851702077 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Balatubz |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, December 23, 2023 14:06:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576536851931656 |
-| Players | 11/15 |
-| Host Name | smtg here |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 14:07:10 |
+| Lobby ID | 28576536853280550 |
+| Players | 1/24 |
+| Host Name | Vernedomo |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 14:09:17 |
 
 
 |  | ot3_gardens_duo |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536852853067 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Jungle or 1 ( try me! ) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:08:37 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536851372365 |
-| Players | 9/10 |
-| Host Name | Marjon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:06:18 |
+| Lobby ID | 28576536853268502 |
+| Players | 5/15 |
+| Host Name | El Mago Jully |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 14:09:16 |
 
 
 |  | epic_boss_fight_normal |
