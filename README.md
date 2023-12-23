@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536841259965 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | выселбеби |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:50:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536840673796 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Stealth |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:49:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536837677397 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 神楽坂一二三乃愛美癒 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:44:30 |
@@ -58,28 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536836246646 |
-| Players | 9/10 |
-| Host Name | nvxe |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 13:42:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536840755518 |
-| Players | 2/15 |
-| Host Name | Fitty_spenc |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 13:49:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28576536840932662 |
 | Players | 1/10 |
 | Host Name | Dying 2 Live |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:49:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536840755518 |
+| Players | 3/15 |
+| Host Name | Fitty_spenc |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 13:49:21 |
 
 
