@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536820150623 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Justin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:15:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536824853153 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Don Payo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:23:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536823043042 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | el mas chalon :v |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:20:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536808099285 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | roswel |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 12:54:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536824227438 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | wild dodge戦死 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 13:22:17 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536824635752 |
-| Players | 4/24 |
-| Host Name | 15years and 200of ping |
+| Players | 3/24 |
+| Host Name | ™۞M£lØÐ¥۞ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 13:22:58 |
 
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536825250925 |
-| Players | 2/15 |
-| Host Name | Jimmka |
+| Players | 1/15 |
+| Host Name | NickAltair |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 13:24:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536825417596 |
+| Players | 1/8 |
+| Host Name | VooDooScooBeeDoo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 13:24:17 |
 
 
 |  | epic_boss_fight_nightmare |
