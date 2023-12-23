@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536855535658 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Morennium9 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:12:47 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:17:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536853280550 |
-| Players | 23/24 |
-| Host Name | Vernedomo |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 14:09:17 |
+| Lobby ID | 28576536858818055 |
+| Players | 1/10 |
+| Host Name | KING YURA III |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:17:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:17:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536858818055 |
-| Players | 1/10 |
-| Host Name | KING YURA III |
+| Lobby ID | 28576536859067870 |
+| Players | 1/8 |
+| Host Name | LightFromHeaven~ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:17:45 |
+| Lobby Creation Time | Saturday, December 23, 2023 14:18:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576536859163765 |
+| Players | 1/24 |
+| Host Name | NOSEEEEE |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 14:18:17 |
 
 
 |  | epic_boss_fight_normal |
