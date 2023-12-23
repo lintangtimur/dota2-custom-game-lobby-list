@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576536793443762 |
 | Players | 9/15 |
-| Host Name | rsny |
+| Host Name | Qui |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:28:41 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536792952471 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:27:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536794165149 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:29:59 |
