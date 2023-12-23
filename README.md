@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576536941097084 |
-| Players | 3/8 |
-| Host Name | Чешется чучун |
+| Lobby ID | 28576536914359340 |
+| Players | 22/24 |
+| Host Name | Cypher |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 16:15:41 |
+| Lobby Creation Time | Saturday, December 23, 2023 15:38:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536939298586 |
-| Players | 8/10 |
-| Host Name | unmute pls |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 16:13:14 |
+| Lobby ID | 28576536940763530 |
+| Players | 3/15 |
+| Host Name | Dark[O]ne |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 16:15:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 16:15:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576536940878469 |
-| Players | 6/15 |
-| Host Name | Conq |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:15:23 |
+| Lobby ID | 28576536940508759 |
+| Players | 14/24 |
+| Host Name | Sopi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 16:14:52 |
 
 
 |  | ot3_desert_octet |
@@ -47,40 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 16:14:49 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576536940508759 |
-| Players | 6/24 |
-| Host Name | Sopi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:14:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536940763530 |
-| Players | 1/15 |
-| Host Name | Dark[O]ne |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:15:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536941342215 |
-| Players | 2/10 |
-| Host Name | грех |
+| Players | 5/10 |
+| Host Name | XD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:16:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576536941351423 |
-| Players | 2/10 |
-| Host Name | Ghosty |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 16:16:02 |
 
 
 |  | epic_boss_fight_normal |
