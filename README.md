@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537317218757 |
-| Players | 14/15 |
-| Host Name | Competitive ACNH Player |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 22:36:08 |
+| Lobby ID | 28576537316926058 |
+| Players | 14/24 |
+| Host Name | Reiner |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 22:35:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 22:35:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537314216074 |
-| Players | 2/8 |
-| Host Name | Fernandos |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:33:31 |
+| Lobby ID | 28576537318803262 |
+| Players | 4/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 22:37:31 |
 
 
 |  | ot3_gardens_duo |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537317599024 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Evolutionssv |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:36:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537318319377 |
-| Players | 9/10 |
-| Host Name | zak |
+| Lobby ID | 28576537318752649 |
+| Players | 8/15 |
+| Host Name | Пухнастий |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:37:06 |
+| Lobby Creation Time | Saturday, December 23, 2023 22:37:29 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537315642429 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | MagiskeMogens |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:34:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537313568056 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Dron |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 22:32:58 |
@@ -86,37 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537316664010 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Imperialdramon. |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 22:35:39 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537316926058 |
-| Players | 7/24 |
-| Host Name | Reiner |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:35:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537318375438 |
-| Players | 5/15 |
-| Host Name | Pivassic_Pug |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:37:09 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537318522400 |
+| Lobby ID | 28576537319362491 |
 | Players | 2/10 |
-| Host Name | locker |
+| Host Name | Enıgma. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 22:37:17 |
+| Lobby Creation Time | Saturday, December 23, 2023 22:38:01 |
 
 
 |  | epic_boss_fight_challenger |
@@ -131,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537317217407 |
-| Players | 5/10 |
-| Host Name | MESSI |
+| Players | 6/10 |
+| Host Name | Belike柠檬ICE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 22:36:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537317920574 |
-| Players | 3/5 |
-| Host Name | Slayer |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 22:36:45 |
 
 
