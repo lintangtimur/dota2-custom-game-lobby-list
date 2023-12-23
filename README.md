@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537355353942 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | solo_feed ^^ RU |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 23:10:03 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 23:09:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537350460317 |
-| Players | 9/10 |
-| Host Name | Fox-Arena |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 23:05:43 |
+| Lobby ID | 28576537354921142 |
+| Players | 1/8 |
+| Host Name | ARAMZAMZES666ぜ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 23:09:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537355048391 |
-| Players | 10/15 |
-| Host Name | TORT |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 23:09:47 |
+| Lobby ID | 28576537355840366 |
+| Players | 1/24 |
+| Host Name | Smile |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 23:10:29 |
 
 
 |  | ot3_gardens_duo |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537355554833 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Skeeeeda |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 23:10:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537355903739 |
+| Players | 1/15 |
+| Host Name | 惠索斯 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 23:10:32 |
 
 
 |  | epic_boss_fight_challenger |
@@ -128,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 23:09:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28576537350478914 |
-| Players | 8/10 |
-| Host Name | Yui |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 23:05:44 |
+| Lobby ID | 28576537355885671 |
+| Players | 2/7 |
+| Host Name | 私は強くなります |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 23:10:31 |
 
 
 |  | epic_boss_fight_nightmare |
