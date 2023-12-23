@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536954350131 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Say my name |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:33:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536952406626 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Axiz |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 16:31:12 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576536954058856 |
-| Players | 9/10 |
-| Host Name | おしまい |
+| Lobby ID | 28576536954444441 |
+| Players | 2/10 |
+| Host Name | Absolut v potoke spermi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 16:33:27 |
+| Lobby Creation Time | Saturday, December 23, 2023 16:33:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536954220834 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:33:40 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536953037841 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Nihdogg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:32:03 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536953144022 |
+| Players | 7/8 |
+| Host Name | БоМж на ПЛЯЖЕ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 16:32:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536950319262 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | asakurwa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:28:19 |
