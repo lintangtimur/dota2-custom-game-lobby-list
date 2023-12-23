@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537254999831 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Lefty sm |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:43:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537254113826 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | 🅴 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:42:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537258786075 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Turn Into KFC |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:46:17 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537258938249 |
-| Players | 5/15 |
-| Host Name | ur the moon |
+| Lobby ID | 28576537259206276 |
+| Players | 7/15 |
+| Host Name | Адерен |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:46:25 |
+| Lobby Creation Time | Saturday, December 23, 2023 21:46:39 |
 
 
 |  | ot3_desert_octet |
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SMOKE WEED EVERYDAY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:46:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537259270713 |
+| Players | 1/10 |
+| Host Name | AzRa1L.EgoisTo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:46:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537259275846 |
+| Players | 3/8 |
+| Host Name | デジンサイド |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:46:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537259294955 |
+| Players | 1/8 |
+| Host Name | ToXeeP |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:46:43 |
 
 
 |  | epic_boss_fight_nightmare |
