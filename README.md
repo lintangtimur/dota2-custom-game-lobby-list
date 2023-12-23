@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536805646903 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:50:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536808568898 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | :Xaiko midaX:) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:55:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536808638192 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | .neff |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:55:38 |
@@ -68,9 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536808831888 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:56:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536808897831 |
+| Players | 1/8 |
+| Host Name | ايراي الشاذ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 12:56:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536807560317 |
+| Players | 7/8 |
+| Host Name | BLADERUNNER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 12:53:41 |
 
 
