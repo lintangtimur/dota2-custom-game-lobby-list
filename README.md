@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537138997441 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | KUKURIKAPO! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:03:27 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537126239895 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:51:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537139245424 |
-| Players | 7/8 |
-| Host Name | Ты Нарекай |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:03:40 |
+| Lobby ID | 28576537140287230 |
+| Players | 3/10 |
+| Host Name | malak |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 20:04:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,30 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 19:55:45 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537140407403 |
+| Players | 1/8 |
+| Host Name | port- mort |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:04:42 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537139827361 |
-| Players | 10/15 |
-| Host Name | Наруто Узумаки |
+| Lobby ID | 28576537140417238 |
+| Players | 3/15 |
+| Host Name | TOKYO. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:04:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537125794853 |
-| Players | 14/15 |
-| Host Name | xxzd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:51:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537140228000 |
-| Players | 1/5 |
-| Host Name | Wandall |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:04:33 |
+| Lobby Creation Time | Saturday, December 23, 2023 20:04:43 |
 
 
