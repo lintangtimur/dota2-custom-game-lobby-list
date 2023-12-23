@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536942752828 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | asd |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:17:57 |
@@ -23,45 +23,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536943446220 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Тесак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 16:18:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536943221097 |
-| Players | 2/8 |
-| Host Name | klassnokruto |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 16:18:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576536943621419 |
-| Players | 2/24 |
-| Host Name | Before Time- |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, December 23, 2023 16:19:08 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536943682324 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | Need more proteins |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:19:12 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536944189514 |
+| Players | 2/8 |
+| Host Name | Усатый прохиндей |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 16:19:53 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536943386561 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | konjiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 16:18:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536943723972 |
+| Players | 2/10 |
+| Host Name | N E Y M 1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 16:19:16 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576536944222582 |
+| Players | 2/7 |
+| Host Name | я сёмга |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 16:19:56 |
 
 
