@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:04:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536843634003 |
-| Players | 7/8 |
-| Host Name | I N R I |
-| Region | PERU |
-| Lobby Creation Time | Saturday, December 23, 2023 13:53:55 |
+| Lobby ID | 28576536849956346 |
+| Players | 2/15 |
+| Host Name | YA C БOГAMИ COВET DERZHY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:04:05 |
 
 
 |  | ot3_desert_octet |
@@ -29,31 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:02:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536849904980 |
-| Players | 1/8 |
-| Host Name | tezyrtozz雨.疼痛 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:04:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536849887269 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Caisya |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 14:03:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536849956346 |
-| Players | 2/15 |
-| Host Name | YA C БOГAMИ COВET DERZHY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:04:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ChowChow |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 23, 2023 14:03:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576536850549483 |
+| Players | 1/5 |
+| Host Name | 谜兔 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 14:05:00 |
 
 
