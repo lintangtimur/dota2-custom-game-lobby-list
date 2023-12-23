@@ -38,33 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 18:32:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537083667937 |
-| Players | 15/15 |
-| Host Name | hc |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:10:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537080857462 |
-| Players | 20/24 |
-| Host Name | Rakken |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 19:07:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537083976394 |
-| Players | 5/10 |
-| Host Name | killed нахуй |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 19:10:28 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537084278982 |
@@ -72,6 +45,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wildfirezg |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:10:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537080857462 |
+| Players | 23/24 |
+| Host Name | Rakken |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:07:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537084503981 |
+| Players | 3/15 |
+| Host Name | Hari Seldon |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:11:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537084758249 |
+| Players | 1/8 |
+| Host Name | Sexy Stalin |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:11:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Соня Мармеладова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:10:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537084524705 |
+| Players | 1/10 |
+| Host Name | Dysuria |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:11:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537084721928 |
+| Players | 1/10 |
+| Host Name | нахуй иди |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, December 23, 2023 19:11:13 |
 
 
