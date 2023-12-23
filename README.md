@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537271764524 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Power Ranger Plomo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:57:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537272600376 |
-| Players | 1/24 |
-| Host Name | SSK |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 21:57:59 |
+| Lobby ID | 28576537272974281 |
+| Players | 5/8 |
+| Host Name | someone clipped my wings |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, December 23, 2023 21:58:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537272342674 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ็Tao về |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:57:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537271898916 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | opium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:57:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537273453023 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | Ac ĄŋÐ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:58:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537271706992 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | MagiskeMogens |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:57:12 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | quasar |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:58:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537272974281 |
-| Players | 5/8 |
-| Host Name | someone clipped my wings |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, December 23, 2023 21:58:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537273483897 |
-| Players | 1/15 |
-| Host Name | Sibuo Komadze |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 21:58:45 |
 
 
 |  | epic_boss_fight_nightmare |
