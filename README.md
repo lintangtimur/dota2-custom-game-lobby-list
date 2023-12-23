@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 20:48:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537198230759 |
-| Players | 23/24 |
-| Host Name | Stippen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:55:16 |
+| Lobby ID | 28576537199857378 |
+| Players | 3/8 |
+| Host Name | Lariнгит |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 20:56:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537199716425 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | SenseJ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:56:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537199101691 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | zxcruna |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:56:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537197600179 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 20:54:44 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 20:54:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537199307005 |
-| Players | 5/8 |
-| Host Name | i win always alone |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 20:56:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ็ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:53:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537197808648 |
+| Players | 2/5 |
+| Host Name | Tonald Drump |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 23, 2023 20:54:54 |
 
 
