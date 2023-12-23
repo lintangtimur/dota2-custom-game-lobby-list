@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537204319376 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | take care of your moms♡ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:00:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537198043471 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Mr. Nemo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:55:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537206290226 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | trust, trust who? |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:02:12 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 21:00:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537206221751 |
-| Players | 9/15 |
-| Host Name | 不運なろくでなし |
+| Lobby ID | 28576537206730584 |
+| Players | 4/10 |
+| Host Name | E6aIIIy_GoSu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:02:08 |
+| Lobby Creation Time | Saturday, December 23, 2023 21:02:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537203423544 |
-| Players | 23/24 |
+| Players | 20/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:59:46 |
@@ -113,28 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537206521511 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Mr.Hops |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 23, 2023 21:02:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537206550118 |
-| Players | 2/10 |
-| Host Name | E6aIIIy_GoSu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:02:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537204939055 |
-| Players | 13/15 |
-| Host Name | глімс на пиво |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 21:01:03 |
 
 
 |  | epic_boss_fight_nightmare |
