@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537173852301 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | туалет крутится |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:34:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537177575910 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Harnioff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:37:39 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 20:37:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537177733103 |
-| Players | 4/8 |
-| Host Name | МУСОРОВОЗ |
+| Lobby ID | 28576537178345524 |
+| Players | 5/15 |
+| Host Name | Occisor |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:37:47 |
+| Lobby Creation Time | Saturday, December 23, 2023 20:38:19 |
 
 
 |  | ot3_desert_octet |
@@ -137,37 +137,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 20:38:14 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537177341588 |
-| Players | 7/8 |
-| Host Name | узник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:37:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537178258431 |
-| Players | 5/8 |
-| Host Name | Suuuuuuuu<3 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, December 23, 2023 20:38:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537178345524 |
-| Players | 2/15 |
-| Host Name | Occisor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:38:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537176391114 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 11 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 20:36:38 |
@@ -180,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Старый ЭР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 20:37:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537178420585 |
-| Players | 1/5 |
-| Host Name | iiiiiigorь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 20:38:23 |
 
 
