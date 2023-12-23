@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537120561611 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Kenny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 19:46:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537121100675 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Oso_V_C_ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 19:46:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537122392160 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | OverNight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:48:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537119500155 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 19:45:17 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 19:48:31 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537122940130 |
+| Players | 1/24 |
+| Host Name | сукины дети |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 19:48:32 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537120848633 |
@@ -81,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 19:46:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537123040817 |
+| Players | 1/10 |
+| Host Name | CP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 19:48:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537123093219 |
+| Players | 1/5 |
+| Host Name | Тайно Дёрнул |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 19:48:40 |
 
 
