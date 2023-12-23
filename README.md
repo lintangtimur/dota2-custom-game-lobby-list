@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 14:12:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576536857148646 |
-| Players | 22/24 |
-| Host Name | CATE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 23, 2023 14:15:15 |
+| Lobby ID | 28576536858869112 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 14:17:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536853280550 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Vernedomo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 14:09:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536858351824 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | KindOfMagik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:17:03 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KING YURA III |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 14:17:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536858869112 |
-| Players | 2/8 |
-| Host Name | isn't like holding to the center |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 14:17:50 |
 
 
 |  | epic_boss_fight_normal |
