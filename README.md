@@ -20,28 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 17:54:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537018604473 |
-| Players | 7/8 |
-| Host Name | МЫСЫК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:57:36 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537018679178 |
-| Players | 8/10 |
-| Host Name | light |
+| Lobby ID | 28576537018878899 |
+| Players | 2/10 |
+| Host Name | Вова Виноградов |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:57:42 |
+| Lobby Creation Time | Saturday, December 23, 2023 17:57:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537019039961 |
+| Players | 2/8 |
+| Host Name | 太容易了 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:58:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537018848050 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Occisor |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:57:54 |
@@ -54,33 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | VEG4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:57:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537018878899 |
-| Players | 2/10 |
-| Host Name | Вова Виноградов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:57:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537018971929 |
-| Players | 4/10 |
-| Host Name | Рыжий кальмар |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:58:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537019002747 |
-| Players | 3/8 |
-| Host Name | автостоянка |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:58:06 |
 
 
 |  | epic_boss_fight_nightmare |
