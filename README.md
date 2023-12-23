@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537232238352 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | VapeFrog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 21:24:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537230109356 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | ็Tao về |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:22:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537226558034 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | \ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:19:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537231946215 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | RezBish |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 21:23:45 |
@@ -90,5 +90,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | StarrkCoyote |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 21:24:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537232483989 |
+| Players | 1/10 |
+| Host Name | glass slipper |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 21:24:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537232549883 |
+| Players | 2/24 |
+| Host Name | Seba Соль |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 21:24:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537232593551 |
+| Players | 4/8 |
+| Host Name | Madara |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, December 23, 2023 21:24:18 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576537231070608 |
+| Players | 1/7 |
+| Host Name | Пивное сальто |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 23, 2023 21:23:01 |
 
 
