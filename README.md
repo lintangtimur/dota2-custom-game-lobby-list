@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536987479932 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | smox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:18:01 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536994050306 |
-| Players | 11/15 |
-| Host Name | я нигер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:26:38 |
+| Lobby ID | 28576536995035636 |
+| Players | 1/15 |
+| Host Name | JustH |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 23, 2023 17:27:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536994152144 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Dota 2½ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:26:46 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 17:25:30 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536994703710 |
+| Players | 6/8 |
+| Host Name | [TeamSifilis] ⸸aso⸸ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 17:27:32 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536991078119 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | bse4poli |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:22:42 |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TORNADOOOOOOOOOOOOOOOOOOO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:26:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576536994674121 |
-| Players | 1/5 |
-| Host Name | woman mvment |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:27:29 |
 
 
