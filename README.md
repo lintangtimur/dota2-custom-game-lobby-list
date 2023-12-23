@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536796542591 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 12:34:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576536797306957 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | CDS.STARSHOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:35:40 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | E. Norma Scox |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, December 23, 2023 12:35:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576536797663856 |
+| Players | 2/8 |
+| Host Name | Don Tortuga |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 23, 2023 12:36:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576536797728210 |
+| Players | 1/15 |
+| Host Name | L4 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 12:36:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Waster |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 23, 2023 12:35:43 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576536797723432 |
+| Players | 2/10 |
+| Host Name | 10K Behavior Score |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 12:36:24 |
 
 
