@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536793443762 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Qui |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:28:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536793860383 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ▲ Убийца Акаме |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 12:29:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536794165149 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | El racista de la FIEE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:29:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576536789519991 |
-| Players | 21/24 |
+| Players | 19/24 |
 | Host Name | LET ME COOK |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 23, 2023 12:21:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536794556895 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Sergio Markarian |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:30:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536794600320 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | HidraX0 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 23, 2023 12:30:46 |
