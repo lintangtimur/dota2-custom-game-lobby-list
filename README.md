@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537413234873 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ДЕГРОДАНТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 00:03:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537413301271 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | FuNky* |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 00:03:41 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537399782312 |
-| Players | 3/15 |
-| Host Name | eleskovic^ |
+| Players | 1/15 |
+| Host Name | киберпапа |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, December 23, 2023 23:50:45 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537412102656 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Sr. Wick |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 00:02:33 |
@@ -101,13 +101,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 00:01:24 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537413596730 |
+| Players | 8/15 |
+| Host Name | Jseven |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 00:03:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537409247075 |
+| Players | 22/24 |
+| Host Name | Dion |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 23, 2023 23:59:49 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537413534521 |
-| Players | 1/10 |
+| Lobby ID | 28576537413705766 |
+| Players | 2/10 |
 | Host Name | Trefyra |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 00:03:54 |
+| Lobby Creation Time | Sunday, December 24, 2023 00:04:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537413750116 |
+| Players | 3/8 |
+| Host Name | GFish🥂 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 00:04:05 |
 
 
 |  | epic_boss_fight_nightmare |
