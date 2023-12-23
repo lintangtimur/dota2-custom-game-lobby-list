@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537007051756 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 17:43:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537003514397 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Charøn |
 | Region | INDIA |
 | Lobby Creation Time | Saturday, December 23, 2023 17:38:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537005947252 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Godzilla |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:41:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576536993833389 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:26:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537005910435 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | miriam |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:41:52 |
