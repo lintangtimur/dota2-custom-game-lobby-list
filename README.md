@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536895158913 |
-| Players | 1/24 |
-| Host Name | ✪︎ Marshall |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, December 23, 2023 15:11:49 |
+| Lobby ID | 28576536895092759 |
+| Players | 4/15 |
+| Host Name | ⛧ erotiq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 23, 2023 15:11:43 |
 
 
 |  | ot3_desert_octet |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | уехал в ебантяйск |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 15:11:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536895092759 |
-| Players | 4/15 |
-| Host Name | ⛧ erotiq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 15:11:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536895225431 |
-| Players | 1/15 |
-| Host Name | вАстралеПитек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 15:11:54 |
 
 
 |  | epic_boss_fight_nightmare |
