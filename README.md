@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537053801398 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Kazune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:38:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537054754975 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Wiwwddd |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:39:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537055289322 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Zom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:39:59 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537054505568 |
-| Players | 9/10 |
-| Host Name | play4fragg |
+| Lobby ID | 28576537055453136 |
+| Players | 2/10 |
+| Host Name | Илюня |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 18:39:08 |
+| Lobby Creation Time | Saturday, December 23, 2023 18:40:10 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537054489407 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Don't kill civilians |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:39:07 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537054683974 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | бакс бани |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 23, 2023 18:39:19 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537055373965 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Lord Bestius |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 23, 2023 18:40:04 |
