@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 17:03:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576536976412108 |
-| Players | 9/10 |
-| Host Name | I'll be better than Ame |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:03:31 |
+| Lobby ID | 28576536976947172 |
+| Players | 6/15 |
+| Host Name | ビールは神 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 23, 2023 17:04:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 17:03:20 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576536976678410 |
-| Players | 7/8 |
-| Host Name | гуль 2004 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 23, 2023 17:03:53 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576536976944135 |
@@ -74,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 23, 2023 17:04:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576536976947172 |
-| Players | 4/15 |
-| Host Name | ビールは神 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 23, 2023 17:04:14 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576536974299389 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Neizen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 23, 2023 17:00:43 |
