@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537930277543 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:33:39 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537930264332 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Monkey D Luffy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:33:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537929823332 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | -qwerty |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:32:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537930359140 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | BRO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:33:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537930460557 |
-| Players | 1/15 |
+| Players | 12/15 |
 | Host Name | PAPAZETO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:33:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537930530881 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | goshiu |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:34:04 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 12:34:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537930614840 |
-| Players | 1/8 |
-| Host Name | maksem4567 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 12:34:13 |
+| Lobby ID | 28576537926651536 |
+| Players | 21/24 |
+| Host Name | ライラック |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 12:27:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537924741460 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | РоланДеМорт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:23:59 |
