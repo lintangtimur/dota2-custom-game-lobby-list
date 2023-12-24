@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537879429520 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | maseto |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:00:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537881075628 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:04:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537883379489 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | eeveelinh |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:08:26 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537883693847 |
-| Players | 4/8 |
-| Host Name | †Lopestark† |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 11:09:03 |
+| Lobby ID | 28576537883702669 |
+| Players | 2/8 |
+| Host Name | FoulKer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 11:09:04 |
 
 
 |  | epic_boss_fight_nightmare |
