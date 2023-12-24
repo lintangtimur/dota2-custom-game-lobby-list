@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538329505190 |
-| Players | 3/8 |
-| Host Name | полудурок) |
+| Lobby ID | 28576538330588675 |
+| Players | 2/24 |
+| Host Name | FeelMyPain |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:34:47 |
+| Lobby Creation Time | Sunday, December 24, 2023 20:35:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538318457605 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | ? |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 20:25:08 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538327647616 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | FluffyBear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:33:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538329715589 |
-| Players | 8/10 |
-| Host Name | трахaть хуй спермa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 20:34:59 |
+| Lobby ID | 28576538330757139 |
+| Players | 1/8 |
+| Host Name | гриша атос |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:35:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538329959319 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | asdf |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 20:35:11 |
@@ -74,12 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 20:34:57 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538330777069 |
+| Players | 8/10 |
+| Host Name | Waterstrike |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:35:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538330823141 |
+| Players | 1/10 |
+| Host Name | capybara mindset |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:35:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538329684985 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:34:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538330254285 |
+| Players | 3/5 |
+| Host Name | мое тп отменено |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 20:35:26 |
 
 
