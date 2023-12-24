@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537818668571 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Atomic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 08:58:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537817021461 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 08:55:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537817999731 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | yelsialex1234 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 08:57:15 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 08:56:43 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537818677799 |
-| Players | 1/15 |
-| Host Name | O.P |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 08:58:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537818639951 |
-| Players | 11/15 |
-| Host Name | Franky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 08:58:43 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537818250382 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28576537818347297 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | GoodName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 08:58:02 |
@@ -104,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537818456331 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | CokCokCokCokCok |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 08:58:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537818789291 |
+| Players | 1/5 |
+| Host Name | Kmaam |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 24, 2023 08:59:04 |
 
 
