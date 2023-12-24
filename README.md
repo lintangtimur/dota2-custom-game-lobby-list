@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538002412218 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | DT-LeGend |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 14:23:51 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537999157151 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | logical |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 14:19:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538001726243 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | mamonhik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:22:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538000162298 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | 逐逐月 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:20:41 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:22:31 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537997816903 |
+| Players | 23/24 |
+| Host Name | Smile |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:17:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537995720486 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | crestfallen |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:14:23 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538002421201 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | VancouverOsaka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:23:52 |
