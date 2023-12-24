@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538281083307 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Ɗ@ℜ ᶄ Ṧ ℴ Ñ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:51:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538277994920 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:49:03 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538279781300 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | A.XVI_973 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:50:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538281914016 |
-| Players | 8/10 |
-| Host Name | Bracon |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:52:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Astolfo femboy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:43:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538282492846 |
+| Players | 3/8 |
+| Host Name | айсаучиксен |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:53:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538282574882 |
+| Players | 1/15 |
+| Host Name | Locomobile | The Chimney |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 24, 2023 19:53:16 |
 
 
 |  | epic_boss_fight_nightmare |
