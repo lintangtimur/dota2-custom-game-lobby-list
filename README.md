@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537933073899 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Kuroshimi/D/Shoot |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:38:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537932053242 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | DJ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:36:36 |
@@ -54,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:39:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537934692878 |
+| Players | 3/15 |
+| Host Name | supїdo |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 12:40:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537934707472 |
+| Players | 1/8 |
+| Host Name | escapist PRIME 666 雨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 12:40:59 |
 
 
 |  | epic_boss_fight_nightmare |
