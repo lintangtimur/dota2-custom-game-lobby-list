@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538523735345 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | зима в сердце |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:32:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538533622961 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | jzcz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:41:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538532692808 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | TORONTOCOSH |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 23:41:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538533565917 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Allfather |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 23:41:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538533913600 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Stupid. Brave but stupid. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:42:15 |
@@ -101,42 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:41:54 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538533208733 |
-| Players | 8/10 |
-| Host Name | kaiser^^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:41:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538533844480 |
-| Players | 10/15 |
-| Host Name | уебан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:42:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538533882057 |
-| Players | 5/8 |
-| Host Name | Q |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:42:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538533873560 |
-| Players | 2/10 |
-| Host Name | Punk Fools- |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 23:42:12 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538533878013 |
@@ -144,6 +108,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Boss of the gym |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:42:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538533844480 |
+| Players | 13/15 |
+| Host Name | уебан |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:42:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538534386004 |
+| Players | 3/15 |
+| Host Name | ПИВНАЯ КЛАССИКА |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:42:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538533873560 |
+| Players | 3/10 |
+| Host Name | Punk Fools- |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 23:42:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538534366518 |
+| Players | 2/10 |
+| Host Name | Яйцо на Лицо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:42:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 0ntre |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:41:43 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576538534456187 |
+| Players | 2/7 |
+| Host Name | SmiLe- |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 24, 2023 23:42:47 |
 
 
