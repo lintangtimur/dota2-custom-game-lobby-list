@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537973438784 |
-| Players | 23/24 |
-| Host Name | < blank > |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 13:41:48 |
+| Lobby ID | 28576537983054611 |
+| Players | 1/8 |
+| Host Name | B|O|O|M |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 13:55:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537982294311 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Soaring Phoenix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:54:49 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537982978844 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | yuki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:55:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537983054611 |
-| Players | 1/8 |
-| Host Name | B|O|O|M |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 13:55:55 |
 
 
 |  | epic_boss_fight_normal |
