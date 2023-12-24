@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538116982538 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Snehule_ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:53:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538117481700 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Не надо дядя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:53:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538117166040 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | влево вправо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:53:30 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538117162357 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:53:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538117558446 |
-| Players | 1/8 |
-| Host Name | IvanZolo |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 16:54:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:54:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538117663893 |
+| Players | 4/8 |
+| Host Name | фармлюКабанчиков |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 16:54:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SakalFTW |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:52:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538117702809 |
+| Players | 1/5 |
+| Host Name | Emperor(sVinOreZ) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 16:54:11 |
 
 
