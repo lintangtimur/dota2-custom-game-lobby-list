@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537930264332 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Teal'c |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:33:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537931481854 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | tinky winky pederasta xd |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:35:39 |
@@ -40,33 +40,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537926651536 |
-| Players | 23/24 |
-| Host Name | ライラック |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 12:27:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537930530881 |
-| Players | 5/10 |
-| Host Name | goshiu |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, December 24, 2023 12:34:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537930591520 |
-| Players | 1/10 |
-| Host Name | MAad? |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 12:34:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28576537931339241 |
 | Players | 1/24 |
 | Host Name | #VOLTA CHIMVOC - CHIMBAS NO DS |
@@ -77,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537931204512 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Guiragiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:35:12 |
