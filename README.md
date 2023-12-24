@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538590612410 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | kinson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 00:40:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538588224027 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Krol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 00:38:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538585106008 |
-| Players | 21/24 |
+| Players | 19/24 |
 | Host Name | 💓💙 Криc 🧡💜 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 00:34:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538588334225 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | :3 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:38:14 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 00:30:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538591098403 |
-| Players | 7/10 |
-| Host Name | _ZIMEN_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 00:41:08 |
+| Lobby ID | 28576538591278626 |
+| Players | 2/15 |
+| Host Name | God Rays |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 00:41:20 |
 
 
 |  | ot3_gardens_duo |
@@ -94,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538591112730 |
+| Lobby ID | 28576538591565436 |
 | Players | 4/8 |
-| Host Name | стрелочки |
+| Host Name | Серёжа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 00:41:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538591278626 |
-| Players | 1/15 |
-| Host Name | God Rays |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 00:41:20 |
+| Lobby Creation Time | Monday, December 25, 2023 00:41:38 |
 
 
 |  | epic_boss_fight_nightmare |
