@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537997644530 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | TheBlueJTattoo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 14:17:07 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:18:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537997963967 |
-| Players | 6/8 |
-| Host Name | OG BUDA - ПОРШ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:17:34 |
+| Lobby ID | 28576537998821708 |
+| Players | 4/24 |
+| Host Name | TheBlindShibaInuSaekssiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:18:47 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537992780254 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 14:10:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537997816903 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | Smile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:17:22 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537998496358 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | ꃥꈤꊐ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:18:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537998820763 |
+| Players | 2/15 |
+| Host Name | Cptn.Canuck |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 14:18:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537998995952 |
+| Players | 4/8 |
+| Host Name | неформал |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:19:02 |
 
 
 |  | epic_boss_fight_nightmare |
