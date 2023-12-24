@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537956265825 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Truck-kun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:15:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537957197167 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Сдался-вымри |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:17:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537956684719 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Yello |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:16:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537955913976 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | waiting for death |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:15:05 |
@@ -83,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 13:17:23 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537957540391 |
+| Players | 1/15 |
+| Host Name | Gator |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 24, 2023 13:17:34 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576537950448622 |
-| Players | 4/5 |
-| Host Name | Микрофлексер |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 13:06:35 |
+| Lobby ID | 28576537957447815 |
+| Players | 2/5 |
+| Host Name | Taxi AШOT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 13:17:26 |
 
 
