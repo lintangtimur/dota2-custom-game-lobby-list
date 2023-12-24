@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538621733895 |
-| Players | 7/10 |
-| Host Name | ДРЕВНИЙ РУС |
+| Lobby ID | 28576538622170721 |
+| Players | 4/10 |
+| Host Name | Lysyiy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 01:13:41 |
+| Lobby Creation Time | Monday, December 25, 2023 01:14:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538621659876 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ебалкин |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 01:13:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538621123339 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 01:13:02 |
@@ -95,45 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538621941051 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | bushiqe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 01:13:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538621947086 |
-| Players | 1/15 |
-| Host Name | Арийский клоун |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 01:13:55 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538622016256 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ♀×º°”MOHOWK”°º×♀ |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 01:13:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538622028972 |
-| Players | 1/15 |
-| Host Name | yupanqui |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 01:14:00 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538622008946 |
-| Players | 1/24 |
-| Host Name | To. X |
-| Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 01:13:59 |
 
 
