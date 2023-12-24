@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537958865171 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:19:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537959260815 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ThiNk Pe ChaTo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:20:15 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 13:21:41 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537961233216 |
-| Players | 3/8 |
-| Host Name | Quesito Suizo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 13:23:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537957787477 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ‡ NOiZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:17:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537961342320 |
+| Players | 2/10 |
+| Host Name | ARa ARa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 13:23:27 |
 
 
