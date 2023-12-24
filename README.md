@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538436958497 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Bello |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 22:08:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538437036258 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Shinobizxc |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:09:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538436653531 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Player_in_D |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 22:08:40 |
@@ -74,22 +74,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:08:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538432440463 |
-| Players | 23/24 |
-| Host Name | 加油吧 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:04:52 |
+| Lobby ID | 28576538437176225 |
+| Players | 1/15 |
+| Host Name | Imagine3MasterStuckInPubs |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 22:09:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538437191348 |
+| Lobby ID | 28576538437250472 |
 | Players | 1/15 |
+| Host Name | 0000 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 22:09:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538417565561 |
+| Players | 21/24 |
+| Host Name | ๋ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 21:51:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538437353352 |
+| Players | 1/24 |
 | Host Name | Logeswaren Nagarajan |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:09:10 |
+| Lobby Creation Time | Sunday, December 24, 2023 22:09:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538437383819 |
+| Players | 4/8 |
+| Host Name | all mute |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 22:09:20 |
 
 
 |  | epic_boss_fight_nightmare |
