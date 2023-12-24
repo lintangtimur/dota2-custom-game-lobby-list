@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538413390634 |
-| Players | 2/8 |
+| Lobby ID | 28576538414097484 |
+| Players | 1/8 |
 | Host Name | PetitChat |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 21:47:32 |
+| Lobby Creation Time | Sunday, December 24, 2023 21:48:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538409737966 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ✪K |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:44:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538411778844 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Son of Sparda |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:46:07 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538413921275 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | eternal.daun |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:48:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538413918874 |
+| Players | 1/15 |
+| Host Name | Good Vibes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 21:48:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538414086986 |
+| Players | 3/8 |
+| Host Name | Dominion |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 21:48:09 |
 
 
 |  | epic_boss_fight_hard |
@@ -112,17 +130,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576538413275495 |
-| Players | 1/10 |
-| Host Name | Froyo- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:47:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28576538412350218 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Yui |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:46:37 |
