@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538028323045 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 晚上好，夜之城！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:59:24 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538027709062 |
+| Lobby ID | 28576538028850575 |
 | Players | 3/15 |
-| Host Name | Puddle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:58:33 |
+| Host Name | владиславово |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 15:00:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538027216995 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ♥ ради нее ♥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:57:52 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Кривые Руки 228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:58:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538028850575 |
-| Players | 2/15 |
-| Host Name | владиславово |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:00:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538027966435 |
-| Players | 10/15 |
-| Host Name | sadaitada |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:58:54 |
 
 
 |  | epic_boss_fight_nightmare |
