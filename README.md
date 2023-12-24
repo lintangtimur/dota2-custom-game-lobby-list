@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538504659696 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ๋ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 23:13:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538496556469 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 黙れ |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 23:05:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538508429196 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Му Паль Мо |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:16:47 |
@@ -56,38 +56,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:10:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538508251041 |
-| Players | 3/8 |
-| Host Name | zxcperdesh |
+| Lobby ID | 28576538508721897 |
+| Players | 1/24 |
+| Host Name | Ger1h- |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:16:36 |
+| Lobby Creation Time | Sunday, December 24, 2023 23:17:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538506742637 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Tempeste |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:15:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538506201577 |
-| Players | 6/8 |
-| Host Name | Noir |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 23:14:36 |
+| Lobby ID | 28576538508822539 |
+| Players | 3/15 |
+| Host Name | ПИВНАЯ КЛАССИКА |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:17:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538504254830 |
-| Players | 3/15 |
-| Host Name | Hira Reborn |
+| Players | 2/15 |
+| Host Name | Zoldick |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 23:12:43 |
 
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538506615682 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Cucumba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:15:00 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538508475553 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | BILLY BONES |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:16:50 |
@@ -155,24 +155,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:15:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538508435837 |
-| Players | 13/15 |
-| Host Name | Bobslej |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:16:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538508680951 |
-| Players | 3/8 |
-| Host Name | санек Чушпан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:17:02 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538508688432 |
@@ -182,21 +164,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:17:02 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538505642973 |
-| Players | 9/10 |
-| Host Name | Gandy |
+| Lobby ID | 28576538508349723 |
+| Players | 2/8 |
+| Host Name | 2T |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:14:03 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576538508684784 |
-| Players | 4/7 |
-| Host Name | 睡睡 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 24, 2023 23:17:02 |
+| Lobby Creation Time | Sunday, December 24, 2023 23:16:42 |
 
 
