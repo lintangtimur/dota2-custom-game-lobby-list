@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537967984061 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | 优势路耐抓王 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:33:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537966424696 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | If I lose I'll spit on you |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:31:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537968432981 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Lench |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:34:21 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mao |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:34:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537968974758 |
+| Players | 4/15 |
+| Host Name | sojj |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 13:35:09 |
 
 
 |  | epic_boss_fight_nightmare |
