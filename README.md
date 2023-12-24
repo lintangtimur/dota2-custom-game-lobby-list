@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 09:38:42 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537841072650 |
+| Players | 2/24 |
+| Host Name | ♂EL CAMPER GANDALFS♂ |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, December 24, 2023 09:45:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537841114176 |
+| Players | 1/10 |
+| Host Name | ZА ШПАНУ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 09:45:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537840205378 |
