@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538694405500 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | maseto |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:35:11 |
@@ -110,6 +110,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:35:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538695183153 |
+| Players | 1/15 |
+| Host Name | スターパルティヌム |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 02:36:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538695165281 |
+| Players | 1/15 |
+| Host Name | Хорёк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 02:36:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538692881901 |
+| Players | 14/15 |
+| Host Name | Ce - cil |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 02:33:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538695240604 |
+| Players | 1/10 |
+| Host Name | FERRARI |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 02:36:10 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576538693030982 |
@@ -117,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Saint-Exupéry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 02:33:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538695252050 |
+| Players | 1/5 |
+| Host Name | Slowly |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 02:36:10 |
 
 
