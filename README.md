@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537958805667 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | В главном меню |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:19:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537959753713 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Wortex |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:21:00 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537959260815 |
-| Players | 1/24 |
-| Host Name | К ЗВЕЗДАМ 様. |
+| Players | 6/24 |
+| Host Name | **Lucía** |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:20:15 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537960188661 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | 20-1 t1Bu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:21:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537958941925 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:19:45 |
