@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538227159816 |
-| Players | 23/24 |
-| Host Name | Holybang |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 24, 2023 19:00:09 |
+| Lobby ID | 28576538232103999 |
+| Players | 1/8 |
+| Host Name | Swap commends |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 24, 2023 19:05:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538230909532 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | AlcoViking |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:03:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538227241545 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | Lﻉ♥n |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:00:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538231807506 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | I'm getting stronger |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:04:53 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538228691625 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Xy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:01:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538232044890 |
+| Players | 2/8 |
+| Host Name | Kiruzi |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 19:05:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Слово пацана |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:03:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538232204125 |
+| Players | 1/5 |
+| Host Name | `♫`keni`♫` |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:05:17 |
 
 
