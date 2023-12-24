@@ -41,10 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537822323217 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 09:06:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537822569429 |
+| Players | 2/10 |
+| Host Name | хуй |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 09:07:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537822566320 |
+| Players | 2/15 |
+| Host Name | Lion el Messi |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 09:07:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537822587719 |
+| Players | 1/10 |
+| Host Name | JHOANO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 09:07:11 |
 
 
 |  | epic_boss_fight_nightmare |
