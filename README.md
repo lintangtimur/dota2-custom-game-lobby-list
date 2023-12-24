@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538016753439 |
-| Players | 7/10 |
-| Host Name | 𝑆𝑒𝑐𝑟𝑒𝑡 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 14:43:46 |
+| Lobby ID | 28576538017518620 |
+| Players | 7/24 |
+| Host Name | Bo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:44:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ESTE ARCONTE NO CARREA NADA ZZZ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 14:44:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538017518620 |
-| Players | 7/24 |
-| Host Name | Bo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:44:49 |
 
 
 |  | epic_boss_fight_nightmare |
