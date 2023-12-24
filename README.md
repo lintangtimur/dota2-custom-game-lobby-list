@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538042944476 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Cemka |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:18:34 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 15:34:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538055499430 |
-| Players | 4/8 |
-| Host Name | Hustle |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:34:50 |
+| Lobby ID | 28576538056860641 |
+| Players | 2/10 |
+| Host Name | predohranitel |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 15:36:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538053930444 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Aizm11 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:32:52 |
@@ -58,10 +58,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538056078416 |
-| Players | 11/15 |
-| Host Name | Oldwarx |
+| Lobby ID | 28576538056870564 |
+| Players | 4/15 |
+| Host Name | Atlas Troll |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 15:36:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538056680691 |
+| Players | 2/8 |
+| Host Name | фармлюКабанчиков |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:35:34 |
+| Lobby Creation Time | Sunday, December 24, 2023 15:36:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538057228271 |
+| Players | 1/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 15:37:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538057081439 |
+| Players | 3/8 |
+| Host Name | БЕШЕНЬІЙ ГУЛЬ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 15:36:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538057146797 |
+| Players | 1/10 |
+| Host Name | Sea Server Cancer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 15:36:56 |
 
 
