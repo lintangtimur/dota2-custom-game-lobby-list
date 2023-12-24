@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537859007731 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Monkey D Luffy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:20:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537858983213 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | ^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:20:38 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537859746959 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | DzaKer |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:22:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537858271761 |
-| Players | 14/15 |
-| Host Name | Mr. Morale & The Big Steppers |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 10:19:14 |
+| Lobby ID | 28576537860267505 |
+| Players | 1/10 |
+| Host Name | la pulga :V★ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 10:23:14 |
 
 
 |  | epic_boss_fight_nightmare |
