@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538017518620 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | Bo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:44:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538019310933 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Duminator |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:47:14 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538020506925 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | whopidor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:48:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538020527657 |
-| Players | 3/8 |
-| Host Name | x多麼甜蜜的死亡death |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:48:53 |
 
 
 |  | epic_boss_fight_nightmare |
