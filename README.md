@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537963882531 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:27:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537962658338 |
-| Players | 6/15 |
+| Players | 2/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:25:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537963863755 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | hell walker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:27:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537962887690 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Siopaolicius |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:25:52 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537964197792 |
-| Players | 6/8 |
-| Host Name | D'Boyd |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 13:27:53 |
+| Lobby ID | 28576537961537405 |
+| Players | 3/8 |
+| Host Name | i have no enemies (almost) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 13:23:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537963413413 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | epileptick1d |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:26:39 |
