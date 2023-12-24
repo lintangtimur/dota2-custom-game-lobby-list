@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538067968529 |
-| Players | 7/15 |
-| Host Name | Avocado @<>@ |
+| Lobby ID | 28576538068364991 |
+| Players | 7/8 |
+| Host Name | SoreX |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:50:45 |
+| Lobby Creation Time | Sunday, December 24, 2023 15:51:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538062648994 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:43:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538064310404 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Neko |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 15:46:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538066124701 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:48:23 |
@@ -74,37 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 15:50:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538068224633 |
-| Players | 1/8 |
-| Host Name | 2Key 鍵 |
+| Lobby ID | 28576538068985926 |
+| Players | 2/15 |
+| Host Name | ASAVRVB |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:51:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538068364991 |
-| Players | 2/8 |
-| Host Name | SoreX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:51:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576538066885900 |
-| Players | 7/10 |
-| Host Name | NDA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 15:49:22 |
+| Lobby Creation Time | Sunday, December 24, 2023 15:52:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538067933980 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Yitane |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:50:42 |
