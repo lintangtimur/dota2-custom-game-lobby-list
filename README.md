@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538145864046 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | НАШЕСТВИЕ СЛОНОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:29:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538145959069 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | ЭХОСЛЕМ ПО ЯЙЦАМ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:29:40 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 17:29:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538146353994 |
+| Players | 2/15 |
+| Host Name | Безумный Паша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 17:30:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538143510424 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:26:35 |
