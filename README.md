@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537954265670 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Teddy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:12:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537949080042 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Abraxas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:04:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537953809272 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Canrise |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:11:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537953765185 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Madafvcka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:11:46 |
@@ -92,6 +92,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 13:12:30 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537954659838 |
+| Players | 1/8 |
+| Host Name | AFK |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 13:13:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537954750045 |
+| Players | 2/10 |
+| Host Name | Muy Malo |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 13:13:18 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576537950448622 |
@@ -104,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537954640164 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Mawen |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:13:08 |
