@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538672449656 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:09:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538674842496 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | db |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 02:12:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538672034393 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Göktuğ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 25, 2023 02:09:18 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:13:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538676181504 |
-| Players | 7/15 |
-| Host Name | N1ghtmar3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:13:56 |
+| Lobby ID | 28576538676847364 |
+| Players | 9/10 |
+| Host Name | Rocketberry |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 02:14:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538672327050 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | ChatGPT |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:09:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538676266617 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | ОТЕЦ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 02:14:02 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538675694832 |
+| Lobby ID | 28576538676727369 |
 | Players | 7/8 |
-| Host Name | Бульмешкин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:13:25 |
+| Host Name | LeeLongCock |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 02:14:34 |
 
 
 |  | ot3_desert_octet |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:01:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538676484851 |
-| Players | 6/10 |
-| Host Name | broken 13 y.o. |
+| Lobby ID | 28576538676890560 |
+| Players | 9/15 |
+| Host Name | 28d |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:14:17 |
+| Lobby Creation Time | Monday, December 25, 2023 02:14:45 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28576538668909097 |
-| Players | 7/10 |
-| Host Name | Scherzo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 02:05:47 |
+| Lobby ID | 28576538676251411 |
+| Players | 2/7 |
+| Host Name | MrSkorpion7 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 02:14:01 |
 
 
 |  | epic_boss_fight_challenger |
@@ -110,21 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:11:43 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576538675393819 |
-| Players | 3/5 |
-| Host Name | saftiger Brei |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 02:13:05 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576538676251411 |
-| Players | 2/7 |
-| Host Name | MrSkorpion7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:14:01 |
+| Lobby ID | 28576538676883020 |
+| Players | 2/10 |
+| Host Name | TEAM CALLER |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 02:14:44 |
 
 
