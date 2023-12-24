@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538350105687 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Feedytharex |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:52:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538352789000 |
-| Players | 1/8 |
-| Host Name | MORACLE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 20:54:57 |
+| Lobby ID | 28576538354080889 |
+| Players | 5/15 |
+| Host Name | Sexy Cactus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 20:56:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538342286203 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 52 |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 24, 2023 20:45:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538347617779 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Zoom |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 20:50:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538350909873 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:53:19 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538354007335 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | 6e3yMHbluJIopg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:56:00 |
@@ -104,16 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538354058469 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Farzan-Persian |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:56:03 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538354230228 |
+| Players | 1/15 |
+| Host Name | Icedog.萧瑟秋风今又是 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:56:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538353193134 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Anya Kawaii~ |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 24, 2023 20:55:18 |
