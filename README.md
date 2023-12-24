@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537874129427 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:50:31 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:51:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537873527363 |
-| Players | 5/10 |
-| Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
+| Lobby ID | 28576537873929236 |
+| Players | 9/15 |
+| Host Name | Panoli el kchero |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:49:21 |
+| Lobby Creation Time | Sunday, December 24, 2023 10:50:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537873415596 |
-| Players | 7/24 |
+| Players | 15/24 |
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:49:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537874920901 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | ПТ на любовь ♥ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:52:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537874002614 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Sleeping Giant |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:50:16 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537874407451 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Fuchiman |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:51:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537873929236 |
-| Players | 6/15 |
-| Host Name | Panoli el kchero |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:50:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Teemo:)Breeder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:44:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537875240111 |
+| Players | 1/10 |
+| Host Name | 10K Behavior Score |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 10:52:38 |
 
 
