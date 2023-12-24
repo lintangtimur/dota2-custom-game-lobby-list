@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537829628557 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | дудук |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:21:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537828885670 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | di7 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 09:20:13 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537829086978 |
-| Players | 8/10 |
-| Host Name | Twitch.tv/ElGuapo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 09:20:38 |
+| Lobby ID | 28576537829783554 |
+| Players | 4/10 |
+| Host Name | русский |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 09:22:04 |
 
 
 |  | ot3_desert_octet |
@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 09:21:07 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537827233763 |
-| Players | 2/5 |
-| Host Name | 5 cm Savage |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 09:16:47 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537829573359 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | CAPYBARA CAPYBARA CAPYBARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:21:38 |
