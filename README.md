@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537829701758 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:21:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537833048746 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Jodi |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 09:28:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537834341371 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | mrad |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:31:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537834023019 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Энурезик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 09:30:59 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537834467825 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Silverchild habbibi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 09:31:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537834571453 |
+| Players | 2/10 |
+| Host Name | enemyenemyenemy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 09:32:06 |
 
 
 |  | epic_boss_fight_nightmare |
