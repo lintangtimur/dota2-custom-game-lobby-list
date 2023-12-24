@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537868438354 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | mom said dont make you name aggr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:39:34 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:39:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537870195900 |
-| Players | 8/10 |
-| Host Name | daemon targaryen. |
+| Lobby ID | 28576537871053593 |
+| Players | 1/15 |
+| Host Name | ----- |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:42:56 |
+| Lobby Creation Time | Sunday, December 24, 2023 10:44:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537870414487 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | DRAGONBACK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:43:21 |
@@ -74,28 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:44:31 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537871152937 |
+| Players | 1/8 |
+| Host Name | TOTSUGEKI |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 10:44:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537869334382 |
+| Players | 23/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 10:41:18 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537871053593 |
-| Players | 3/15 |
-| Host Name | ----- |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:44:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537870051116 |
-| Players | 9/10 |
-| Host Name | owams |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:42:40 |
+| Lobby ID | 28576537871198286 |
+| Players | 1/15 |
+| Host Name | Torstol |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 24, 2023 10:44:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537870594052 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 时琦 狂三 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:43:41 |
