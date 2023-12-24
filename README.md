@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538247455880 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | [L] |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 19:20:12 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538282970480 |
-| Players | 4/8 |
-| Host Name | Жоссский😎 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:53:38 |
+| Lobby ID | 28576538282668053 |
+| Players | 1/8 |
+| Host Name | Lorenzo el Gallo (Cuti) |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 19:53:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538282852775 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:53:31 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538282837564 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Op |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:53:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538279781300 |
-| Players | 23/24 |
-| Host Name | A.XVI_973 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:50:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,28 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538282668053 |
+| Lobby ID | 28576538283121837 |
 | Players | 1/8 |
-| Host Name | Lorenzo el Gallo (Cuti) |
+| Host Name | pashka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:53:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538283229207 |
+| Players | 1/10 |
+| Host Name | Wicho |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 19:53:21 |
+| Lobby Creation Time | Sunday, December 24, 2023 19:53:52 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28576538277994920 |
-| Players | 23/24 |
-| Host Name | Violet Evergarden |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:49:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538282901523 |
-| Players | 1/5 |
+| Lobby ID | 28576538283214482 |
+| Players | 1/7 |
 | Host Name | scriblee |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:53:34 |
+| Lobby Creation Time | Sunday, December 24, 2023 19:53:51 |
 
 
