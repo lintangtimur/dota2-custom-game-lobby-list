@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537944800005 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Cheer up ^^ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:57:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537944813927 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Little BirD |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:57:31 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537947241084 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ClAss1c |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:01:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537945736658 |
-| Players | 7/8 |
-| Host Name | unranked swede tryhard |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 12:59:03 |
+| Lobby ID | 28576537947657409 |
+| Players | 1/24 |
+| Host Name | Smile |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 13:02:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537944953342 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:57:45 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hiko |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:02:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537947657409 |
-| Players | 1/24 |
-| Host Name | Smile |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 13:02:11 |
 
 
 |  | epic_boss_fight_nightmare |
