@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:37:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537866251160 |
-| Players | 7/8 |
-| Host Name | SIDERAL FRIO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:35:21 |
+| Lobby ID | 28576537867698049 |
+| Players | 4/15 |
+| Host Name | ilyushenka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 10:38:08 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537866999529 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 謙虚さを身につけろ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:36:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537867406718 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Carry-Potter |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:37:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537867670026 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | OD PANDREX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:38:05 |
