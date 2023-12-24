@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538577412566 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | manihatikooo----mk.l. |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:26:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538574981156 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Shearinex |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:24:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538570684576 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:19:44 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538571491004 |
-| Players | 11/15 |
-| Host Name | π |
+| Players | 9/15 |
+| Host Name | Arxidevil |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 25, 2023 00:20:34 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538531456866 |
-| Players | 5/8 |
+| Players | 2/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:39:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538577121110 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Murdoc |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:26:26 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538577669961 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | привет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 00:27:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538577810782 |
+| Players | 3/10 |
+| Host Name | ГАНДУРАС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 00:27:09 |
 
 
 |  | epic_boss_fight_normal |
