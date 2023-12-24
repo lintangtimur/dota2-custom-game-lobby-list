@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538104961998 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | losing streak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:37:58 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 16:38:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538105855181 |
-| Players | 10/15 |
-| Host Name | BasЯ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 16:39:07 |
+| Lobby ID | 28576538106219634 |
+| Players | 3/10 |
+| Host Name | Симулятор рецептов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 16:39:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 16:38:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538106219634 |
-| Players | 2/10 |
-| Host Name | Симулятор рецептов |
+| Lobby ID | 28576538106440196 |
+| Players | 2/15 |
+| Host Name | Enrage |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:39:35 |
+| Lobby Creation Time | Sunday, December 24, 2023 16:39:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gandy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:33:56 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538099953739 |
-| Players | 3/5 |
-| Host Name | deniz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:31:35 |
 
 
 |  | epic_boss_fight_nightmare |
