@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537894852176 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | StelioKontos |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 11:30:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537896562790 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Robert Lewangoalski |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:33:20 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537896788808 |
-| Players | 2/15 |
-| Host Name | シャロShalo |
+| Players | 1/15 |
+| Host Name | El duderino |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:33:45 |
 
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537896623457 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | trucker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:33:27 |
