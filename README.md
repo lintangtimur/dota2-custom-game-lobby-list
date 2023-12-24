@@ -32,28 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538034155338 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | SCREAM^_^HooLS |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 24, 2023 15:07:12 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538037196357 |
+| Players | 6/15 |
+| Host Name | Lik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 15:11:08 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538036418211 |
-| Players | 9/10 |
-| Host Name | fnks |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:10:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538037010567 |
-| Players | 1/8 |
-| Host Name | ДНАТ-600 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:10:54 |
+| Lobby ID | 28576538037133746 |
+| Players | 4/10 |
+| Host Name | Solowind |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 15:11:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 15:10:37 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538027016554 |
-| Players | 13/15 |
-| Host Name | Phobos |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 14:57:36 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538036999557 |
@@ -81,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:10:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538037133746 |
-| Players | 3/10 |
-| Host Name | Solowind |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 15:11:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538037196357 |
-| Players | 3/15 |
-| Host Name | Lik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:11:08 |
 
 
 |  | epic_boss_fight_nightmare |
