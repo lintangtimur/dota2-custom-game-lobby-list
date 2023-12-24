@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538393076869 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Flambo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:29:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538386351677 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Payo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 21:23:52 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538393579510 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Creepson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 21:30:09 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 21:30:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538394472227 |
-| Players | 2/8 |
-| Host Name | Japan |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:30:57 |
+| Lobby ID | 28576538394619638 |
+| Players | 2/10 |
+| Host Name | AZRAEL 00 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 21:31:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538394159496 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Yawriii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:30:41 |
@@ -135,23 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:30:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576538393825236 |
-| Players | 3/10 |
-| Host Name | kait |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:30:23 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576538394438705 |
-| Players | 1/7 |
-| Host Name | Boobslook |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 21:30:55 |
 
 
