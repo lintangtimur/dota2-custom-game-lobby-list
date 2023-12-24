@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537874129427 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:50:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537873929236 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Panoli el kchero |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:50:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537873415596 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:49:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537874920901 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ПТ на любовь ♥ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:52:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537874407451 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Fuchiman |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:51:03 |
