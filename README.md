@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538651262512 |
-| Players | 1/15 |
+| Players | 14/15 |
 | Host Name | Pulevelizator | Neoxa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 01:45:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538650106371 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ICe_WalloW_Come |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 01:44:42 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538647580336 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 1k Mycop |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 01:41:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538651058155 |
-| Players | 6/8 |
-| Host Name | absolute in doubt |
+| Lobby ID | 28576538651382617 |
+| Players | 2/10 |
+| Host Name | CCCR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 01:45:44 |
+| Lobby Creation Time | Monday, December 25, 2023 01:46:06 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538649881091 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Miguelyuyi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 01:44:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538650168190 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | ^^!¬¬ (Si cancila) |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 01:44:46 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538649608161 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | BOSOZOKU |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 01:44:08 |
