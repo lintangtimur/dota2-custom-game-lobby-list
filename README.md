@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538496556469 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | 黙れ |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 23:05:14 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538508721897 |
-| Players | 1/24 |
-| Host Name | Ger1h- |
+| Players | 2/24 |
+| Host Name | Dec |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:17:04 |
 
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538506742637 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Tempeste |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:15:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538510305688 |
-| Players | 2/10 |
-| Host Name | Exyyyy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:18:38 |
+| Lobby ID | 28576538506615682 |
+| Players | 4/8 |
+| Host Name | Cucumba |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:15:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538510276181 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:18:36 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538509465232 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Peço Minella |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:17:48 |
@@ -121,11 +121,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538506615682 |
-| Players | 4/8 |
-| Host Name | Cucumba |
+| Lobby ID | 28576538510730871 |
+| Players | 2/8 |
+| Host Name | NeverGiveUp |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 23:19:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538510765824 |
+| Players | 1/8 |
+| Host Name | 1nonly |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:15:00 |
+| Lobby Creation Time | Sunday, December 24, 2023 23:19:05 |
 
 
 |  | epic_boss_fight_nightmare |
