@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538141410697 |
-| Players | 7/10 |
-| Host Name | NEWER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:24:00 |
+| Lobby ID | 28576538141665339 |
+| Players | 1/8 |
+| Host Name | Rommel |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 17:24:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -22,18 +22,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538141573500 |
-| Players | 6/15 |
-| Host Name | throw down your tearz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:24:12 |
+| Lobby ID | 28576538141996355 |
+| Players | 1/15 |
+| Host Name | HB.胤真'' |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 17:24:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538141213524 |
-| Players | 9/15 |
-| Host Name | ShadowFlux |
+| Players | 2/15 |
+| Host Name | Паляниця |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 24, 2023 17:23:45 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538141261937 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | o_O |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:23:49 |
@@ -50,18 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538141667814 |
-| Players | 1/15 |
-| Host Name | HB.胤真'' |
+| Players | 4/15 |
+| Host Name | ** |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:24:19 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538142094297 |
+| Players | 2/24 |
+| Host Name | wikiped |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 17:24:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576538136462036 |
-| Players | 9/10 |
-| Host Name | Jafar |
+| Lobby ID | 28576538142069509 |
+| Players | 1/10 |
+| Host Name | SuperBoneHack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 17:24:48 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576538142169973 |
+| Players | 1/7 |
+| Host Name | Death/#/* |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:17:54 |
+| Lobby Creation Time | Sunday, December 24, 2023 17:24:56 |
 
 
