@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537882760508 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:07:14 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537881075628 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:04:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537881062494 |
-| Players | 7/8 |
-| Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 11:03:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 11:05:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537883124523 |
-| Players | 1/8 |
-| Host Name | <3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 11:07:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537881208802 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Фе́ликс  Дзержи́н |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:04:16 |
