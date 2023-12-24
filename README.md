@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 18:34:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538222141237 |
-| Players | 13/15 |
-| Host Name | nasvay_energy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:55:00 |
+| Lobby ID | 28576538223312130 |
+| Players | 2/8 |
+| Host Name | ОТСЕБЯБЛИК |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 24, 2023 18:56:11 |
 
 
 |  | ot3_desert_octet |
@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 18:54:43 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538223254736 |
+| Players | 1/8 |
+| Host Name | Oopsie |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 18:56:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538221480111 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Капитан ФСБ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 18:54:20 |
