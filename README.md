@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538205107088 |
-| Players | 3/8 |
-| Host Name | 空想家 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:37:29 |
+| Lobby ID | 28576538205207192 |
+| Players | 5/15 |
+| Host Name | BGhost |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 18:37:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538203175569 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:35:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538198921606 |
-| Players | 3/24 |
+| Players | 9/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 24, 2023 18:30:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538203006257 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:35:15 |
@@ -76,26 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538204674785 |
-| Players | 9/10 |
-| Host Name | Зефирка |
+| Lobby ID | 28576538205625848 |
+| Players | 3/10 |
+| Host Name | Борясик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:37:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538205207192 |
-| Players | 3/15 |
-| Host Name | BGhost |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 18:37:35 |
+| Lobby Creation Time | Sunday, December 24, 2023 18:38:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538204218702 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 18:36:32 |
