@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538506685899 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Hnomlay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:15:05 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:10:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538505437508 |
-| Players | 9/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:13:51 |
+| Lobby ID | 28576538507433325 |
+| Players | 4/8 |
+| Host Name | ВЫЖИВАЛОВО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:15:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538506742637 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Tempeste |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:15:08 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538504829385 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | BISCUIT OLIVA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 23:13:16 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538507293817 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Tokio |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:15:40 |
@@ -176,19 +176,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538507366359 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | professor fivi |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, December 24, 2023 23:15:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538507433325 |
-| Players | 2/8 |
-| Host Name | ВЫЖИВАЛОВО |
+| Lobby ID | 28576538507831868 |
+| Players | 3/15 |
+| Host Name | DomiGrom |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:15:48 |
+| Lobby Creation Time | Sunday, December 24, 2023 23:16:12 |
 
 
 |  | epic_boss_fight_nightmare |
