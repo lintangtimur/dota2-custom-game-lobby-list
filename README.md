@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 11:50:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537906910486 |
-| Players | 22/24 |
-| Host Name | Aeaman |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 11:52:22 |
+| Lobby ID | 28576537908331918 |
+| Players | 4/8 |
+| Host Name | Master OF Porco Dio |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 11:54:57 |
 
 
 |  | ot3_gardens_duo |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537906725562 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 11:52:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537906453832 |
-| Players | 11/15 |
-| Host Name | Monkey D Luffy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 11:51:32 |
+| Lobby ID | 28576537908388231 |
+| Players | 1/8 |
+| Host Name | YnoH28 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 11:55:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537894882140 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | yukidaruma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 11:30:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537904736901 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Nate Diaz |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:48:22 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 11:54:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537908331918 |
-| Players | 1/8 |
-| Host Name | Master OF Porco Dio |
+| Lobby ID | 28576537908530269 |
+| Players | 1/24 |
+| Host Name | frankistein555 |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 11:54:57 |
+| Lobby Creation Time | Sunday, December 24, 2023 11:55:18 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537907149453 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Eddie.Lin |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 24, 2023 11:52:48 |
