@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538119739570 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | DeviceD |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:56:45 |
@@ -68,18 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538120133543 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Капризуля |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:57:16 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538120249700 |
+| Players | 1/8 |
+| Host Name | 𝕯 𝖔 𝖒 𝖎 𝖈 𝖆 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 16:57:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538116431700 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Izayoi  ✞ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:52:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538116010552 |
+| Players | 9/10 |
+| Host Name | SakalFTW |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 16:52:02 |
 
 
