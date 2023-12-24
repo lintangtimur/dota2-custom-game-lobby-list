@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537860805786 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | 1212121212 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:24:19 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537860808657 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | yukidaruma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:24:20 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537860620446 |
-| Players | 14/15 |
-| Host Name | Catz |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:23:56 |
+| Lobby ID | 28576537860995375 |
+| Players | 13/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 10:24:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537861478716 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Balin |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:25:41 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:20:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537860995375 |
-| Players | 12/15 |
-| Host Name | nattyboons |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 10:24:42 |
+| Lobby ID | 28576537862370423 |
+| Players | 2/10 |
+| Host Name | DomiK |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 10:27:30 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537859573234 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Eddie.Lin |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 24, 2023 10:21:50 |
