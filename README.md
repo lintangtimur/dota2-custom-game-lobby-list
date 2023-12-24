@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538078383708 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:04:02 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 15:39:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538088936462 |
-| Players | 8/10 |
-| Host Name | halfman |
+| Lobby ID | 28576538089679599 |
+| Players | 2/15 |
+| Host Name | Trinitone |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:17:21 |
+| Lobby Creation Time | Sunday, December 24, 2023 16:18:18 |
 
 
 |  | ot3_desert_octet |
@@ -56,28 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 16:17:33 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538089160836 |
-| Players | 7/15 |
-| Host Name | Утки тоже люди! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:17:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538087639896 |
-| Players | 8/10 |
-| Host Name | today PMA dota |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:15:43 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538088668143 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Throgether |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:17:01 |
@@ -95,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538087170401 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | 大哥打野音信全无 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:15:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538089617475 |
+| Players | 1/5 |
+| Host Name | BAZZIGAR |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 24, 2023 16:18:14 |
 
 
