@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538710019388 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 黑暗殺手 [グ] |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 02:53:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538706655886 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Nekotactical |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:49:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538709634946 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Siberian★Style |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 02:53:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538708564057 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Dexter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 02:51:59 |
@@ -119,22 +119,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:47:22 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538710532284 |
+| Players | 3/15 |
+| Host Name | kolduc |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 02:54:20 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538709816506 |
-| Players | 3/8 |
-| Host Name | EL ABUSADOR DE ABUELITAS :3 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 02:53:28 |
+| Lobby ID | 28576538710629308 |
+| Players | 4/8 |
+| Host Name | ZX |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 02:54:27 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538703990793 |
-| Players | 6/7 |
-| Host Name | SUPERNATURAL |
+| Lobby ID | 28576538710628225 |
+| Players | 1/10 |
+| Host Name | zxc zerо |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:46:32 |
+| Lobby Creation Time | Monday, December 25, 2023 02:54:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538710556109 |
+| Players | 2/5 |
+| Host Name | Drag-or-Sex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 02:54:22 |
 
 
 |  | epic_boss_fight_nightmare |
