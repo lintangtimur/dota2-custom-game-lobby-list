@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 15:34:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538055275661 |
-| Players | 10/15 |
-| Host Name | Akashi |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 15:34:32 |
+| Lobby ID | 28576538055499430 |
+| Players | 3/8 |
+| Host Name | Hustle |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 15:34:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538053930444 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | Aizm11 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:32:52 |
@@ -56,21 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 15:29:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538055499430 |
-| Players | 2/8 |
-| Host Name | Hustle |
+| Lobby ID | 28576538056078416 |
+| Players | 5/15 |
+| Host Name | Oldwarx |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:34:50 |
+| Lobby Creation Time | Sunday, December 24, 2023 15:35:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538056348473 |
+| Players | 1/24 |
+| Host Name | Ambel 46 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 15:35:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576538055929800 |
-| Players | 1/10 |
-| Host Name | 🗣 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 15:35:22 |
+| Lobby ID | 28576538053599019 |
+| Players | 9/10 |
+| Host Name | Raiden Ei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 15:32:26 |
 
 
