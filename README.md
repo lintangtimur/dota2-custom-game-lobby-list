@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537869334382 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:41:18 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:41:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537869414824 |
-| Players | 14/15 |
-| Host Name | Sr. Wick |
+| Lobby ID | 28576537870195900 |
+| Players | 1/10 |
+| Host Name | daemon targaryen. |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:41:27 |
+| Lobby Creation Time | Sunday, December 24, 2023 10:42:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,46 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537868867799 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:40:24 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537868183599 |
-| Players | 23/24 |
-| Host Name | 食我大根 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 10:39:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537869987043 |
-| Players | 2/8 |
-| Host Name | Spamming 1 hero = Go Report me |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:42:32 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537870051116 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | owams |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:42:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537870195900 |
-| Players | 1/10 |
-| Host Name | daemon targaryen. |
+| Lobby ID | 28576537869987043 |
+| Players | 3/8 |
+| Host Name | Spamming 1 hero = Go Report me |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:42:56 |
+| Lobby Creation Time | Sunday, December 24, 2023 10:42:32 |
 
 
 |  | epic_boss_fight_nightmare |
