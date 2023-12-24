@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537949960018 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Kenny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:05:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537949080042 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Abraxas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:04:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537951077231 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Агент гейба |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:07:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537944953342 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:57:45 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YouFirst |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:02:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537951537705 |
+| Players | 1/8 |
+| Host Name | prostieslitraxnul |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 13:08:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537950512039 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | brook ブルック |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:06:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537951592901 |
+| Players | 1/10 |
+| Host Name | How to AWP? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 13:08:22 |
 
 
