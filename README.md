@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538025913978 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Aizm11 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:56:06 |
@@ -41,52 +41,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538025669757 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | poison cleave elementalist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:55:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538025998666 |
-| Players | 7/10 |
-| Host Name | ЛД через кокаин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 14:56:13 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538026123975 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | -99999999999999 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:56:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538014260739 |
-| Players | 23/24 |
-| Host Name | CHOLITO DE CONO CON PLATA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 14:40:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538026185820 |
-| Players | 1/24 |
-| Host Name | 来了没有?如来！ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:56:28 |
+| Lobby ID | 28576538025268569 |
+| Players | 6/10 |
+| Host Name | logical |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 14:55:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538026099566 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Bam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:56:21 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538026197127 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | spoilt9111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:56:29 |
