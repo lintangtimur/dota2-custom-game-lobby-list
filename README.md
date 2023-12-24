@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538492382558 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ss |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 23:01:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538492849505 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | picture of sophisticated grace |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:01:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538491902762 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | klaymann |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:00:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538492773725 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Русский |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:01:34 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538492571939 |
-| Players | 2/10 |
-| Host Name | :Xaiko midaX:) |
+| Players | 1/10 |
+| Host Name | Amsterdam |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 23:01:22 |
 
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538492397884 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | DUKETO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 23:01:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538493573114 |
+| Players | 6/10 |
+| Host Name | Drekret |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:02:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538493666982 |
+| Players | 1/10 |
+| Host Name | Papi Culo |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:02:26 |
 
 
