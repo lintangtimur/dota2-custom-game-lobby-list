@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538172636609 |
-| Players | 6/8 |
-| Host Name | Старичок Скуфачо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:01:39 |
+| Lobby ID | 28576538172886619 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 18:01:57 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538170880960 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Man NOT HOT ! never HoT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:59:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538162609750 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:49:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538172941028 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Absolute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 18:02:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538172726790 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Hentacle Tentai |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:01:46 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 18:01:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538172886619 |
-| Players | 1/10 |
-| Host Name | trash teammate |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 18:01:57 |
+| Lobby ID | 28576538173260974 |
+| Players | 1/8 |
+| Host Name | nemraz_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 18:02:23 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538168473574 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Popka24 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:56:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538172883802 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 小白 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:01:57 |
