@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537853318493 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Elon Tusk |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:09:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537853805668 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 10:10:33 |
