@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538040922930 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | ybLl-oDikus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 15:15:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538041496089 |
-| Players | 9/10 |
-| Host Name | БурятТормозСила |
+| Lobby ID | 28576538041769346 |
+| Players | 2/8 |
+| Host Name | 222deity |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:16:42 |
+| Lobby Creation Time | Sunday, December 24, 2023 15:17:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538038606265 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | dDeneuve |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 15:12:59 |
@@ -47,31 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 15:15:19 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538041891436 |
+| Players | 1/24 |
+| Host Name | Triki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 15:17:13 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538038754462 |
-| Players | 9/10 |
-| Host Name | Atlas Troll |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 15:13:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538040978936 |
-| Players | 2/8 |
-| Host Name | Milalenesa<3 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 15:16:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538041317587 |
-| Players | 1/8 |
-| Host Name | ThOrflnn |
+| Lobby ID | 28576538041978456 |
+| Players | 2/10 |
+| Host Name | 777 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:16:27 |
+| Lobby Creation Time | Sunday, December 24, 2023 15:17:19 |
 
 
 |  | epic_boss_fight_normal |
