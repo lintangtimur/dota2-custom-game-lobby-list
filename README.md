@@ -5,52 +5,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538664125549 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Re ★★★★★ Alaizer 🐉 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 02:00:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538665795295 |
-| Players | 5/10 |
-| Host Name | Saul Goodman |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 02:02:18 |
+| Lobby ID | 28576538666192308 |
+| Players | 1/24 |
+| Host Name | Pandora's Actor™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 02:02:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538665118337 |
-| Players | 6/24 |
+| Players | 14/24 |
 | Host Name | Kokodrile |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:01:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538665908193 |
-| Players | 4/8 |
-| Host Name | fd-god |
+| Lobby ID | 28576538666289241 |
+| Players | 5/15 |
+| Host Name | Mr.Cock |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:02:26 |
+| Lobby Creation Time | Monday, December 25, 2023 02:02:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538665777787 |
-| Players | 4/8 |
-| Host Name | оник |
+| Lobby ID | 28576538666008324 |
+| Players | 2/10 |
+| Host Name | ЕБАКА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:02:17 |
+| Lobby Creation Time | Monday, December 25, 2023 02:02:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538663196261 |
-| Players | 9/24 |
+| Players | 3/24 |
 | Host Name | A tremBO afetou a MIRA |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 01:59:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538664320819 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Mike, Persuader of Youthful Men |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 02:00:36 |
@@ -110,22 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:02:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538665902377 |
-| Players | 10/15 |
-| Host Name | subject F |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:02:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538666008324 |
-| Players | 2/10 |
-| Host Name | ЕБАКА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:02:33 |
+| Lobby ID | 28576538666204688 |
+| Players | 2/24 |
+| Host Name | DIZZY IS THAT U? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 02:02:46 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EGEON ELECATONQUIRO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 01:46:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538666395593 |
+| Players | 1/10 |
+| Host Name | ADaM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 02:02:59 |
 
 
