@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538079775405 |
-| Players | 6/8 |
-| Host Name | FRACTAL HORNS |
+| Lobby ID | 28576538080050378 |
+| Players | 2/10 |
+| Host Name | bALON |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:05:47 |
+| Lobby Creation Time | Sunday, December 24, 2023 16:06:08 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538079729436 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:05:44 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538078822676 |
-| Players | 14/15 |
-| Host Name | twitch.tv/gabardilos |
+| Lobby ID | 28576538080032486 |
+| Players | 4/15 |
+| Host Name | ImPulse |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:04:35 |
+| Lobby Creation Time | Sunday, December 24, 2023 16:06:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eddie.Lin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, December 24, 2023 15:53:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576538079854594 |
-| Players | 1/10 |
-| Host Name | Pava |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 16:05:53 |
 
 
