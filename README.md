@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537930264332 |
-| Players | 4/15 |
-| Host Name | Monkey D Luffy |
+| Players | 3/15 |
+| Host Name | Teal'c |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:33:38 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537929823332 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | -qwerty |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:32:53 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 12:33:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537930460557 |
-| Players | 12/15 |
-| Host Name | PAPAZETO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 12:33:57 |
+| Lobby ID | 28576537926651536 |
+| Players | 19/24 |
+| Host Name | ライラック |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 12:27:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537930530881 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | goshiu |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:34:04 |
@@ -67,20 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537930623942 |
+| Lobby ID | 28576537931237643 |
+| Players | 4/8 |
+| Host Name | Sunset |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 12:35:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537931204512 |
+| Players | 2/15 |
+| Host Name | Guiragiordota.com |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 12:35:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537931295019 |
 | Players | 1/8 |
 | Host Name | starXcom |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 12:34:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537926651536 |
-| Players | 21/24 |
-| Host Name | ライラック |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 12:27:19 |
+| Lobby Creation Time | Sunday, December 24, 2023 12:35:21 |
 
 
 |  | epic_boss_fight_nightmare |
