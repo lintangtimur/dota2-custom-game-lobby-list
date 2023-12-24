@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537967984061 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Gaben Prophet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:33:41 |
@@ -41,36 +41,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537970822241 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Pinky |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 13:37:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537970592533 |
-| Players | 7/8 |
-| Host Name | он идёт☭☭☭ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 13:37:34 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537970724328 |
-| Players | 1/10 |
+| Lobby ID | 28576537970991744 |
+| Players | 2/10 |
 | Host Name | Wortex |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 13:37:46 |
+| Lobby Creation Time | Sunday, December 24, 2023 13:38:10 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576537970930352 |
-| Players | 1/5 |
+| Lobby ID | 28576537971000656 |
+| Players | 2/10 |
+| Host Name | What the help ? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 13:38:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537971025921 |
+| Players | 1/10 |
 | Host Name | Прилёг_посрать |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 13:38:04 |
+| Lobby Creation Time | Sunday, December 24, 2023 13:38:13 |
 
 
