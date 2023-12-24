@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538549996394 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Cansiel :3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 23:58:34 |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:58:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538552502227 |
-| Players | 9/15 |
-| Host Name | MerzkiiSughrob |
+| Lobby ID | 28576538553075558 |
+| Players | 7/8 |
+| Host Name | soo seriioouusss |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 00:01:12 |
+| Lobby Creation Time | Monday, December 25, 2023 00:01:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538551204174 |
-| Players | 15/24 |
-| Host Name | Hnomlay |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:59:49 |
+| Lobby ID | 28576538553244331 |
+| Players | 5/8 |
+| Host Name | niu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 00:01:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538552522376 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Пасуля |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 00:01:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538553185288 |
-| Players | 3/10 |
-| Host Name | uselessuselessuselessuseless |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 00:01:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dpandita3444A |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:01:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538553492689 |
+| Players | 2/24 |
+| Host Name | Cypher |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 00:02:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538553555484 |
+| Players | 1/10 |
+| Host Name | Mr. пот |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 00:02:20 |
 
 
 |  | epic_boss_fight_nightmare |
