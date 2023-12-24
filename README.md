@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537895823739 |
-| Players | 7/10 |
-| Host Name | FUI BANEADO :,3 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 11:32:01 |
+| Lobby ID | 28576537896403264 |
+| Players | 3/10 |
+| Host Name | 3.14P3tka |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 11:33:03 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537895807034 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Hammer Billy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:31:59 |
@@ -83,21 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 11:32:59 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537896406825 |
-| Players | 1/15 |
-| Host Name | EL ORGULLO EN PERSONA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 11:33:03 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537896403264 |
+| Lobby ID | 28576537896528076 |
 | Players | 1/10 |
-| Host Name | 3.14P3tka |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 11:33:03 |
+| Host Name | EL ORGULLO EN PERSONA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 11:33:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537896424686 |
+| Players | 1/5 |
+| Host Name | ОПЕР КОЛЯ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 11:33:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537896511186 |
+| Players | 1/5 |
+| Host Name | Heen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 11:33:14 |
 
 
