@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538071546803 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ^^ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:55:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538062648994 |
-| Players | 22/24 |
-| Host Name | <Cyborgix> |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 15:43:57 |
+| Lobby ID | 28576538072410622 |
+| Players | 3/15 |
+| Host Name | The Mannis |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 15:56:21 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538058901552 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 15:39:09 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538072321484 |
-| Players | 3/15 |
-| Host Name | The Mannis |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 15:56:15 |
+| Lobby ID | 28576538071824107 |
+| Players | 9/15 |
+| Host Name | ビールは神 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 15:55:37 |
 
 
 |  | ot3_desert_octet |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | last christmas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 15:54:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538071824107 |
-| Players | 9/15 |
-| Host Name | ビールは神 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:55:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538072038919 |
-| Players | 1/15 |
-| Host Name | .Kroha. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:55:53 |
 
 
 |  | epic_boss_fight_nightmare |
