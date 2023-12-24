@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538160936092 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:47:47 |
@@ -76,29 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538164062561 |
-| Players | 1/8 |
-| Host Name | БОНДИД-Джамшут |
+| Lobby ID | 28576538164740909 |
+| Players | 3/8 |
+| Host Name | Fahrenheit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:51:30 |
+| Lobby Creation Time | Sunday, December 24, 2023 17:52:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538164290288 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Proviron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:51:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538164512152 |
-| Players | 2/8 |
-| Host Name | я панских кровей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:52:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538162677612 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 山上徹也 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:49:52 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538164440121 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Mr. Hollywood |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:51:57 |
