@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537868438354 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | mom said dont make you name aggr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:39:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537870195900 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | daemon targaryen. |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:42:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537870414487 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | DRAGONBACK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:43:21 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Дед арматуры |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:44:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537871053593 |
+| Players | 3/15 |
+| Host Name | ----- |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 10:44:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537870051116 |
+| Players | 9/10 |
+| Host Name | owams |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 10:42:40 |
 
 
 |  | epic_boss_fight_nightmare |
