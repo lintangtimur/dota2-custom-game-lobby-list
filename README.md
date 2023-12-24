@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538105613808 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:38:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538096289804 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Данатил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:26:45 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538106219634 |
-| Players | 8/10 |
-| Host Name | Симулятор рецептов |
+| Lobby ID | 28576538106653676 |
+| Players | 2/10 |
+| Host Name | God Of Shit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:39:35 |
+| Lobby Creation Time | Sunday, December 24, 2023 16:40:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538105302960 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 76561199196836346 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:38:24 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538106440196 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Enrage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:39:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538106653676 |
-| Players | 2/10 |
-| Host Name | God Of Shit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:40:07 |
 
 
 |  | epic_boss_fight_nightmare |
