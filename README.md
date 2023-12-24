@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538247455880 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | [L] |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 19:20:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538268892310 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Lester de Molester |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:40:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538257107906 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:29:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538268313730 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Ksavar? |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:40:06 |
@@ -86,19 +86,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538269205866 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Unlimited diarrhea |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:40:56 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538269317384 |
+| Players | 4/10 |
+| Host Name | ТвердосплавЪ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:41:02 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538269292709 |
+| Lobby ID | 28576538269300789 |
 | Players | 2/8 |
-| Host Name | 墙下红 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Sunday, December 24, 2023 19:41:00 |
+| Host Name | скорлупа на пугне |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:41:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538269302003 |
+| Players | 1/15 |
+| Host Name | batolya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:41:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538269471497 |
+| Players | 1/24 |
+| Host Name | boris |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 24, 2023 19:41:10 |
 
 
 |  | epic_boss_fight_nightmare |
