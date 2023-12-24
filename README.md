@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538523735345 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Marshals |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:32:03 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:43:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538532692808 |
-| Players | 21/24 |
-| Host Name | TORONTOCOSH |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 23:41:02 |
+| Lobby ID | 28576538536446143 |
+| Players | 1/8 |
+| Host Name | ПТ на Нежность |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:44:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538535903136 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | 105 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 23:44:14 |
@@ -83,46 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:44:40 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538536161884 |
-| Players | 7/10 |
-| Host Name | БуЛьБаЕд |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:44:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538536147583 |
-| Players | 1/10 |
-| Host Name | ГУЧИК |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 23:44:29 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538536471697 |
-| Players | 3/8 |
-| Host Name | 天才 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:44:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538536446143 |
+| Lobby ID | 28576538536511476 |
 | Players | 1/8 |
-| Host Name | ПТ на Нежность |
+| Host Name | Cucumba |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:44:47 |
+| Lobby Creation Time | Sunday, December 24, 2023 23:44:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538533383703 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | 0ntre |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:41:43 |
