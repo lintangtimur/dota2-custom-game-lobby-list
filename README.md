@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538255220541 |
-| Players | 1/10 |
-| Host Name | El Gomita 1.0 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 19:27:42 |
+| Lobby ID | 28576538256141731 |
+| Players | 5/15 |
+| Host Name | pattern |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:28:36 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538255145016 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | iamjakehill |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:27:37 |
@@ -60,36 +60,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576538249557546 |
 | Players | 19/24 |
-| Host Name | toidi |
+| Host Name | mk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:22:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538255534442 |
-| Players | 14/15 |
-| Host Name | Kenai |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:28:00 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538255855459 |
-| Players | 6/8 |
-| Host Name | Papapa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:28:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538255420145 |
-| Players | 2/10 |
-| Host Name | 托比 |
+| Lobby ID | 28576538256233511 |
+| Players | 1/8 |
+| Host Name | Matye Bal |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:27:53 |
+| Lobby Creation Time | Sunday, December 24, 2023 19:28:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 谜兔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:28:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538256041917 |
-| Players | 2/5 |
-| Host Name | Green Steph |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:28:30 |
 
 
