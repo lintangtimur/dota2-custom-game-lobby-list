@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537830534082 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | UwU |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 09:23:36 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537827354296 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:17:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537830136949 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | ELMARAJA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 09:22:47 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537831376700 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | loudwallace/cbond |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:25:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537831757145 |
+| Players | 3/8 |
+| Host Name | взял не жадного кора и понеслось |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 09:26:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537831767889 |
+| Players | 1/10 |
+| Host Name | alucarD :) |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 09:26:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537831802573 |
+| Players | 1/8 |
+| Host Name | yukidaruma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 09:26:12 |
 
 
 |  | epic_boss_fight_nightmare |
