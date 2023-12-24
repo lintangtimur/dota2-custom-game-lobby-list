@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537973460353 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Milkman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:41:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537973248680 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Jaribee |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:41:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537974584258 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Dantalion |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:43:28 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537974721548 |
-| Players | 2/8 |
-| Host Name | 76561199196836346 |
+| Players | 4/8 |
+| Host Name | Demonic Fox |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:43:40 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537974919912 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | SOMBRERO DE PAJAlechosa |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:43:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537974525693 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | pepega |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:43:23 |
