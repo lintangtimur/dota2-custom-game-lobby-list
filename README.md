@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537870955630 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | goldfeesh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:44:23 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:48:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537873354490 |
-| Players | 2/8 |
-| Host Name | isn't like holding to the center |
+| Lobby ID | 28576537873760945 |
+| Players | 4/15 |
+| Host Name | let it be fear |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 10:49:02 |
+| Lobby Creation Time | Sunday, December 24, 2023 10:49:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537870981974 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Medved |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:44:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537867574595 |
+| Players | 6/10 |
+| Host Name | OrangeF_sH |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 10:37:53 |
 
 
