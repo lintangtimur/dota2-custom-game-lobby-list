@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538256823368 |
-| Players | 22/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
+| Lobby ID | 28576538260225624 |
+| Players | 2/10 |
+| Host Name | Remiferia |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:29:16 |
+| Lobby Creation Time | Sunday, December 24, 2023 19:32:34 |
 
 
 |  | ot3_desert_octet |
@@ -56,84 +56,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 19:25:42 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538256716794 |
-| Players | 1/24 |
-| Host Name | ! NNG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:29:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538257041895 |
-| Players | 1/24 |
-| Host Name | squirrel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:29:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538259908154 |
-| Players | 5/8 |
-| Host Name | Я ТУПОЙ ЕБЛАН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:32:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538259868973 |
-| Players | 3/15 |
-| Host Name | НЕ АНГИМЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:32:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538259896349 |
-| Players | 3/10 |
-| Host Name | fexyy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:32:15 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538259918957 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Max of Tarask |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:32:16 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538257821159 |
-| Players | 9/10 |
-| Host Name | [*BaSkeTka*] |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:30:14 |
+| Lobby ID | 28576538257041895 |
+| Players | 7/24 |
+| Host Name | squirrel |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 19:29:28 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538259099293 |
-| Players | 2/5 |
-| Host Name | ilioniliya |
+| Lobby ID | 28576538259868973 |
+| Players | 11/15 |
+| Host Name | НЕ АНГИМЕ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:31:29 |
+| Lobby Creation Time | Sunday, December 24, 2023 19:32:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538258178629 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:30:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538259099293 |
+| Players | 3/5 |
+| Host Name | ilioniliya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:31:29 |
 
 
