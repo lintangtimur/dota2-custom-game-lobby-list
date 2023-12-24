@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537959260815 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | ThiNk Pe ChaTo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:20:15 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537961537405 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | whopidor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:23:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537963144073 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | D'Boyd |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:26:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537962693532 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Мои яички съели птички |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:25:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537962887690 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Siopaolicius |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:25:52 |
@@ -77,27 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537962913896 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | X (MUTED) |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:25:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537963443205 |
+| Players | 1/8 |
+| Host Name | hell walker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 13:26:42 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537963144003 |
+| Lobby ID | 28576537963627931 |
 | Players | 1/24 |
 | Host Name | DJ |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 13:26:15 |
+| Lobby Creation Time | Sunday, December 24, 2023 13:26:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537962477148 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Rylai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:25:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537963413413 |
+| Players | 2/10 |
+| Host Name | epileptick1d |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 13:26:39 |
 
 
