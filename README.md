@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538548802234 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | About a girl |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:57:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538547289462 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | JHON |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 23:55:47 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538544947214 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | romchyg |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:53:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538547464215 |
-| Players | 2/8 |
-| Host Name | Миколай Сигма |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:55:58 |
+| Lobby ID | 28576538538226274 |
+| Players | 9/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:46:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538542860359 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ataraxia |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 23:51:18 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538548900349 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ded |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:57:26 |
@@ -104,19 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538548940409 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | STRANGER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:57:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538548345975 |
-| Players | 1/10 |
-| Host Name | アイ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:56:52 |
+| Lobby ID | 28576538549021784 |
+| Players | 2/8 |
+| Host Name | omnislash in Kiev |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:57:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538549059204 |
+| Players | 1/5 |
+| Host Name | Hunt Hoe-Down |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 24, 2023 23:57:36 |
 
 
 |  | epic_boss_fight_normal |
