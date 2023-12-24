@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 19:20:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538264036842 |
-| Players | 12/15 |
-| Host Name | fanqq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:36:09 |
+| Lobby ID | 28576538264884770 |
+| Players | 4/24 |
+| Host Name | YouKnowMyName |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 19:36:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538257107906 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:29:32 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538264884770 |
-| Players | 1/24 |
-| Host Name | YouKnowMyName |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:36:56 |
+| Lobby ID | 28576538266271788 |
+| Players | 3/24 |
+| Host Name | おやすみ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:38:13 |
 
 
 |  | epic_boss_fight_challenger |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ylylysha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:34:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538264508002 |
-| Players | 1/5 |
-| Host Name | でしょうか？ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:36:35 |
 
 
