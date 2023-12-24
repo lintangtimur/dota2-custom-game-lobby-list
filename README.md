@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538243841066 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | !BigHead! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:16:42 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538242542980 |
-| Players | 7/8 |
-| Host Name | куряга |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:15:27 |
+| Lobby ID | 28576538244701517 |
+| Players | 2/8 |
+| Host Name | 恐怖直立猿 |
+| Region | PWUNICOM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:17:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538244570241 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Грешник / Sinner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:17:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538244682029 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | красная дырка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:17:32 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538244769040 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | балдымалдыбар |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:17:37 |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538245109974 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | lifedrain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:17:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538244701517 |
-| Players | 2/8 |
-| Host Name | 恐怖直立猿 |
-| Region | PWUNICOM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:17:33 |
 
 
 |  | epic_boss_fight_nightmare |
