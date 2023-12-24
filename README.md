@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538326198453 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | SyX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 20:31:56 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538336299331 |
-| Players | 22/24 |
-| Host Name | maîtresse |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:40:37 |
+| Lobby ID | 28576538333699887 |
+| Players | 5/24 |
+| Host Name | @PepeDota #RD |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 20:38:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538337565045 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | мани фор фан |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:41:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538337283689 |
-| Players | 4/8 |
-| Host Name | pretty jodye flacko |
+| Lobby ID | 28576538338224211 |
+| Players | 4/10 |
+| Host Name | KREVET04KA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 20:41:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538333699887 |
-| Players | 5/24 |
-| Host Name | @PepeDota #RD |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 20:38:24 |
+| Lobby Creation Time | Sunday, December 24, 2023 20:42:17 |
 
 
 |  | epic_boss_fight_nightmare |
