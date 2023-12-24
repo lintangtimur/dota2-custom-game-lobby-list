@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537966121738 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | 😈 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:30:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537965940133 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Vénom-|Orange-Industries| |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:30:38 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 13:29:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537962658338 |
-| Players | 14/15 |
-| Host Name | Vάιŝ♡√•∆ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 13:25:31 |
+| Lobby ID | 28576537966640678 |
+| Players | 5/10 |
+| Host Name | Porek |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 13:31:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537966413200 |
-| Players | 12/24 |
+| Players | 23/24 |
 | Host Name | Sukuna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:31:22 |
@@ -59,46 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537966424696 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | If I lose I'll spit on you |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:31:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537966461191 |
-| Players | 6/24 |
-| Host Name | YaMa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 13:31:27 |
+| Lobby ID | 28576537966760136 |
+| Players | 7/15 |
+| Host Name | DeVIP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 13:31:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537959260815 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | ThiNk Pe ChaTo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:20:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537966640678 |
-| Players | 1/10 |
-| Host Name | Porek |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 13:31:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537966760136 |
-| Players | 1/15 |
-| Host Name | Squirty |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 13:31:54 |
 
 
 |  | epic_boss_fight_nightmare |
