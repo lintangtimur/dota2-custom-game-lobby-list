@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538664125549 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Re ★★★★★ Alaizer 🐉 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 02:00:23 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538666192308 |
-| Players | 1/24 |
-| Host Name | Pandora's Actor™ |
+| Lobby ID | 28576538666204688 |
+| Players | 5/24 |
+| Host Name |   |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 02:02:45 |
+| Lobby Creation Time | Monday, December 25, 2023 02:02:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538665118337 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Kokodrile |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:01:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538666289241 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Mr.Cock |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 02:02:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538666008324 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ЕБАКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 02:02:33 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:02:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538666204688 |
-| Players | 2/24 |
-| Host Name | DIZZY IS THAT U? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 02:02:46 |
+| Lobby ID | 28576538664251012 |
+| Players | 9/10 |
+| Host Name | MeFe |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 02:00:31 |
 
 
 |  | epic_boss_fight_normal |
