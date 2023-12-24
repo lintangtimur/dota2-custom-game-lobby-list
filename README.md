@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538042944476 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | kBechon |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:18:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538038606265 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | dDeneuve |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 15:12:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538047856666 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:24:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538048375567 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | У/ЪIБК4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 15:25:34 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 15:23:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538047939045 |
-| Players | 6/8 |
-| Host Name | shadow fiend romantik |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 15:25:00 |
+| Lobby ID | 28576538048670599 |
+| Players | 2/10 |
+| Host Name | logical |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 15:25:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | (-) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 15:25:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538048670599 |
-| Players | 2/10 |
-| Host Name | logical |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 15:25:57 |
 
 
 |  | epic_boss_fight_nightmare |
