@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538073876692 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | ColdStoneHilla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 15:58:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538058901552 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 15:39:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538073837658 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | logical |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 15:58:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538074248240 |
-| Players | 1/24 |
+| Players | 8/24 |
 | Host Name | 乱战先锋第一骚货！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:58:44 |
@@ -103,19 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576538073198705 |
-| Players | 2/5 |
-| Host Name | Kul |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 15:57:22 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
 | Lobby ID | 28576538074273796 |
 | Players | 1/5 |
 | Host Name | Vilem Ross King |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 15:58:46 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538073198705 |
+| Players | 2/5 |
+| Host Name | ZENNIE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 15:57:22 |
 
 
