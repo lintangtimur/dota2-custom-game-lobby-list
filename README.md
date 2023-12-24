@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538017552205 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | ESTE ARCONTE NO CARREA NADA ZZZ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 14:44:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538014260739 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 14:40:22 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:42:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538018893169 |
-| Players | 8/10 |
-| Host Name | Angel_Kasteil |
+| Lobby ID | 28576538019310933 |
+| Players | 1/15 |
+| Host Name | Duminator |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 14:46:40 |
+| Lobby Creation Time | Sunday, December 24, 2023 14:47:14 |
 
 
 |  | epic_boss_fight_nightmare |
