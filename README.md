@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538014260739 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 14:40:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538023576209 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:52:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538023719280 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Neko |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 14:53:09 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:53:45 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538024299937 |
+| Players | 3/15 |
+| Host Name | Temir adam |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 14:53:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538024053000 |
@@ -72,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | crestfallen |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:53:36 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28576538024278272 |
-| Players | 2/7 |
-| Host Name | Bipolarbear |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 24, 2023 14:53:54 |
 
 
 |  | epic_boss_fight_nightmare |
