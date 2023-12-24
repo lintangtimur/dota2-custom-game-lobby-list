@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538474242049 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | zanny |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 22:43:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538474834786 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | krico |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:44:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538466627699 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Reiz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 22:36:28 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538473150321 |
-| Players | 9/10 |
-| Host Name | WASD |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 22:42:37 |
+| Lobby ID | 28576538475275273 |
+| Players | 6/10 |
+| Host Name | jkj~ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 22:44:39 |
 
 
 |  | ot3_desert_octet |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:44:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538475213953 |
-| Players | 3/8 |
-| Host Name | Гдезар Плата |
+| Lobby ID | 28576538475257706 |
+| Players | 7/15 |
+| Host Name | Борис Бритва |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 22:44:36 |
+| Lobby Creation Time | Sunday, December 24, 2023 22:44:38 |
 
 
 |  | epic_boss_fight_challenger |
@@ -139,19 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576538474334778 |
+| Lobby ID | 28576538475388279 |
 | Players | 1/10 |
-| Host Name | HɅKɅRI |
+| Host Name | pag ibig sa tinubuang lupa |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:43:45 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538474890945 |
-| Players | 1/5 |
-| Host Name | Kyle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:44:17 |
+| Lobby Creation Time | Sunday, December 24, 2023 22:44:45 |
 
 
