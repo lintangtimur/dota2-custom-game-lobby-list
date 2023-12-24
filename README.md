@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 00:19:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538575358991 |
-| Players | 6/8 |
-| Host Name | ЬУЬ |
+| Lobby ID | 28576538575744609 |
+| Players | 7/15 |
+| Host Name | Dishake |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 00:24:36 |
+| Lobby Creation Time | Monday, December 25, 2023 00:25:00 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538531456866 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:39:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538575432086 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | great googly moogly |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 00:24:41 |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alex so handsome. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 00:24:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538575897702 |
+| Players | 1/5 |
+| Host Name | Nature's Prophet |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 00:25:10 |
 
 
