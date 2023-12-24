@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538390765104 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:27:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538384645525 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:22:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538386351677 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Payo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 21:23:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538389831564 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | why not ? |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 24, 2023 21:26:52 |
@@ -77,34 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538390914670 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Addictife |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 21:27:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538390739102 |
-| Players | 3/10 |
-| Host Name | ʕง•ᴥ•ʔง |
+| Lobby ID | 28576538391254932 |
+| Players | 5/8 |
+| Host Name | drive ranger |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:27:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538390353355 |
-| Players | 3/10 |
-| Host Name | ブビッチ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 21:27:19 |
+| Lobby Creation Time | Sunday, December 24, 2023 21:28:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538389773261 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | big tits anime enjoyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 21:26:49 |
