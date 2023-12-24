@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538166323724 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Chipi Chapa Dubi Daba Boom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:54:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538166857556 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ASD |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:54:47 |
@@ -47,19 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 17:49:42 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538166634983 |
-| Players | 6/8 |
-| Host Name | 9Class |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:54:32 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538167009514 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | IT |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:54:58 |
