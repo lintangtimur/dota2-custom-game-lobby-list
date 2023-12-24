@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537942137682 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | lifedrain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:53:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537939700876 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | G O D |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:49:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537940930266 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | BenDeR ( SUPA HOT FIRE ) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:51:17 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537939365619 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Abril te extraño regresa :c |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:48:42 |
