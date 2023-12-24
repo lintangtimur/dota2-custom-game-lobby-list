@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538015481910 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Unthinkable |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:42:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538001465628 |
-| Players | 5/15 |
+| Players | 2/15 |
 | Host Name | 구문룡 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:22:31 |
@@ -23,28 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538016042659 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | ㅋㅎㅋㅎ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:42:48 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538013638109 |
-| Players | 4/10 |
-| Host Name | bALON |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:39:31 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538014961243 |
-| Players | 18/24 |
-| Host Name | 浮数 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:41:20 |
+| Lobby ID | 28576538014260739 |
+| Players | 9/24 |
+| Host Name | CHOLITO DE CONO CON PLATA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 14:40:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538015800706 |
+| Players | 14/15 |
+| Host Name | Ставрос |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:42:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:40:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538014260739 |
-| Players | 7/24 |
-| Host Name | CHOLITO DE CONO CON PLATA |
+| Lobby ID | 28576538008188217 |
+| Players | 8/10 |
+| Host Name | K-zoo |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 14:40:22 |
+| Lobby Creation Time | Sunday, December 24, 2023 14:32:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538015800706 |
-| Players | 4/15 |
-| Host Name | Ставрос |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:42:28 |
+| Lobby ID | 28576538016753439 |
+| Players | 2/10 |
+| Host Name | 𝑆𝑒𝑐𝑟𝑒𝑡 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 14:43:46 |
 
 
 |  | epic_boss_fight_nightmare |
