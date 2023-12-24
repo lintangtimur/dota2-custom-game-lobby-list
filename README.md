@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537940517042 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:50:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537938152981 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Carpinchochox |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:46:42 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537940225225 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | DN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:50:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537940268201 |
-| Players | 1/10 |
-| Host Name | FILIPINAS SAD :c |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 12:50:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,6 +90,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GG |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:48:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537940920682 |
+| Players | 3/8 |
+| Host Name | 9999 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 12:51:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537940930266 |
+| Players | 2/24 |
+| Host Name | BenDeR ( SUPA HOT FIRE ) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 12:51:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537940919546 |
+| Players | 1/8 |
+| Host Name | Quick Reflexer. |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 24, 2023 12:51:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537940962301 |
+| Players | 3/15 |
+| Host Name | ►Cuboplanista◄ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 12:51:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537940982127 |
+| Players | 1/15 |
+| Host Name | Andres Vyse |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 12:51:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,23 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Abril te extraño regresa :c |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:48:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537940772397 |
-| Players | 1/10 |
-| Host Name | How to AWP? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 12:51:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537940773156 |
-| Players | 1/5 |
-| Host Name | GMS (V POWER) |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, December 24, 2023 12:51:01 |
 
 
