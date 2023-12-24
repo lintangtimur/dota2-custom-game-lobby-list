@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538622170721 |
-| Players | 4/10 |
-| Host Name | Lysyiy |
+| Lobby ID | 28576538622267616 |
+| Players | 3/10 |
+| Host Name | So What? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 01:14:09 |
+| Lobby Creation Time | Monday, December 25, 2023 01:14:15 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538618187810 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | зима в сердце |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 01:09:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538618266334 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | Exprimón Limido |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 25, 2023 01:10:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538621740092 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Олег Ярославович |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 01:13:41 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538621941051 |
-| Players | 6/15 |
-| Host Name | bushiqe |
+| Players | 13/15 |
+| Host Name | Я поднимаю меч, только ради себя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 01:13:54 |
 
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♀×º°”MOHOWK”°º×♀ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 01:13:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538622379279 |
+| Players | 1/8 |
+| Host Name | OGur4k |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 01:14:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538622410512 |
+| Players | 1/8 |
+| Host Name | Æ86 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 01:14:23 |
 
 
 |  | epic_boss_fight_nightmare |
