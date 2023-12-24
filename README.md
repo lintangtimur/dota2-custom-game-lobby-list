@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537994563490 |
-| Players | 14/15 |
-| Host Name | dzotyara |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 14:12:45 |
+| Lobby ID | 28576537996494288 |
+| Players | 1/8 |
+| Host Name | El shartur |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 14:15:29 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537992593561 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Nash1495 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 14:09:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537993174175 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | ✟ מִיכָאֵל ✟ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:10:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537992780254 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 14:10:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537995446550 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:14:00 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 旎岜岜 |
 | Region | Unknown |
 | Lobby Creation Time | Sunday, December 24, 2023 14:15:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537996389994 |
-| Players | 1/15 |
-| Host Name | I am lonely |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 14:15:20 |
 
 
 |  | epic_boss_fight_nightmare |
