@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538672449656 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:09:46 |
@@ -14,26 +14,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538674842496 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | db |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 02:12:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538677274296 |
-| Players | 3/10 |
-| Host Name | Chydachyo |
+| Lobby ID | 28576538677608687 |
+| Players | 6/8 |
+| Host Name | Какая Разница |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 02:15:11 |
+| Lobby Creation Time | Monday, December 25, 2023 02:15:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538676109506 |
-| Players | 4/15 |
-| Host Name | Bulach4 |
+| Players | 1/15 |
+| Host Name | мaиgø |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 02:13:51 |
 
@@ -47,31 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:15:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538672327050 |
-| Players | 8/10 |
-| Host Name | ChatGPT |
+| Lobby ID | 28576538677504342 |
+| Players | 3/15 |
+| Host Name | Maru Kōshirō |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 02:09:37 |
+| Lobby Creation Time | Monday, December 25, 2023 02:15:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538677303093 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Pinky |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 02:15:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538676727369 |
-| Players | 3/8 |
-| Host Name | LeeLongCock |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 02:14:34 |
+| Lobby ID | 28576538677727304 |
+| Players | 3/10 |
+| Host Name | Cassie |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 02:15:42 |
 
 
 |  | ot3_desert_octet |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538677347699 |
+| Lobby ID | 28576538677782390 |
 | Players | 4/15 |
-| Host Name | アングリ[東卍] |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 02:15:16 |
+| Host Name | devilishly |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 02:15:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538672034393 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Göktuğ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 25, 2023 02:09:18 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538677395916 |
-| Players | 1/8 |
-| Host Name | динозавр |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 02:15:19 |
+| Lobby ID | 28576538677994739 |
+| Players | 5/8 |
+| Host Name | _PoLkOvNiK_ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 02:16:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538677985838 |
+| Players | 5/8 |
+| Host Name | монашечка |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 02:16:00 |
 
 
 |  | epic_boss_fight_hard |
@@ -131,27 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538676883020 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | TEAM CALLER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 02:14:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576538677281221 |
-| Players | 1/10 |
-| Host Name | dredtrol |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 02:15:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538677365547 |
-| Players | 1/5 |
-| Host Name | FAITH |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 02:15:17 |
 
 
