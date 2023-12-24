@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538315758399 |
-| Players | 6/8 |
-| Host Name | El Peke 3k |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 20:22:47 |
+| Lobby ID | 28576538320160329 |
+| Players | 3/10 |
+| Host Name | N |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 20:26:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538317718892 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:24:29 |
@@ -40,74 +40,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538319289486 |
-| Players | 7/8 |
-| Host Name | shadxkyo |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:25:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538309019909 |
-| Players | 19/24 |
-| Host Name | All Marmight |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:16:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538318457605 |
-| Players | 1/10 |
-| Host Name | /-/ PANETON CON LECHE /-/ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 20:25:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538318868110 |
-| Players | 7/10 |
-| Host Name | //////////////////////////////// |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:25:29 |
+| Lobby ID | 28576538320108253 |
+| Players | 5/8 |
+| Host Name | vze |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 20:26:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538318575770 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:25:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538319801540 |
-| Players | 3/15 |
-| Host Name | ervaaymn |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:26:18 |
+| Lobby ID | 28576538318457605 |
+| Players | 2/10 |
+| Host Name | /-/ PANETON CON LECHE /-/ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 20:25:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538319788224 |
-| Players | 1/15 |
-| Host Name | S1DIDoma |
+| Lobby ID | 28576538320625922 |
+| Players | 4/15 |
+| Host Name | kitori |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 20:26:17 |
+| Lobby Creation Time | Sunday, December 24, 2023 20:27:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538319839292 |
-| Players | 2/8 |
-| Host Name | Geneva146 |
+| Lobby ID | 28576538320689184 |
+| Players | 1/8 |
+| Host Name | nahui._. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 20:26:20 |
+| Lobby Creation Time | Sunday, December 24, 2023 20:27:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576538318171206 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | D0uBLeWhIsKey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:24:53 |
@@ -132,8 +105,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576538317380625 |
 | Players | 4/10 |
-| Host Name | pola |
+| Host Name | ♥DêJïKõ™.♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:24:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538320544189 |
+| Players | 1/10 |
+| Host Name | Kya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:26:57 |
 
 
