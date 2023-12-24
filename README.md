@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537918535872 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Bubblicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:13:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537918831571 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Chill... |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:13:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537920524645 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | ’Mr . Big |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:16:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537921161206 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Саня Белый prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:17:41 |
