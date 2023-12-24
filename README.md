@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537868962877 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | enemyenemyenemy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:40:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537873415596 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:49:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537873259341 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Ho Ho Ho manito |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:48:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537874002614 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Sleeping Giant |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:50:16 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537874044105 |
-| Players | 1/8 |
-| Host Name | Fuchiman |
+| Lobby ID | 28576537874407451 |
+| Players | 2/8 |
+| Host Name | tia paola |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:50:21 |
+| Lobby Creation Time | Sunday, December 24, 2023 10:51:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,24 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:50:46 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537870955630 |
-| Players | 23/24 |
-| Host Name | goldfeesh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 10:44:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537874407451 |
-| Players | 1/8 |
-| Host Name | tia paola |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:51:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537870981974 |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537867574595 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | TEAM CALLER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:37:53 |
