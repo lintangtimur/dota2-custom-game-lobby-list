@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537923801640 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:22:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537925378398 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Ruska |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:25:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537925461757 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | meow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:25:14 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | owams |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:25:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537925985210 |
+| Players | 1/8 |
+| Host Name | Unthinkable |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 12:26:08 |
 
 
 |  | epic_boss_fight_nightmare |
