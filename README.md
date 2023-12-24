@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537903390891 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | BeastModeIsAMust! | Repeat.gg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:45:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537904067126 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | 123 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 11:47:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537903858219 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Young Neil |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:46:44 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537904925639 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Ahuritita |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:48:43 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537904181347 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 时琦 狂三 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:47:20 |
@@ -131,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537903571468 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Pitikk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 11:46:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537903678519 |
+| Players | 2/5 |
+| Host Name | SUSi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 11:46:25 |
 
 
