@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538243841066 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | !BigHead! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:16:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538243781473 |
-| Players | 9/15 |
-| Host Name | Habro |
+| Lobby ID | 28576538244253335 |
+| Players | 5/10 |
+| Host Name | ChapMan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:16:39 |
+| Lobby Creation Time | Sunday, December 24, 2023 19:17:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538242587327 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Marshals |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:15:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538244018198 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Defendos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:16:53 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 19:16:49 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538244570241 |
+| Players | 1/15 |
+| Host Name | Грешник / Sinner |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:17:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538241898821 |
@@ -86,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576538243936246 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Kudesn1k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:16:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538244223639 |
+| Players | 1/10 |
+| Host Name | good af |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, December 24, 2023 19:17:05 |
 
 
