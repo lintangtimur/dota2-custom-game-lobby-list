@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 16:21:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538093899760 |
-| Players | 21/24 |
-| Host Name | Ah Zai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 16:23:42 |
+| Lobby ID | 28576538096450613 |
+| Players | 4/15 |
+| Host Name | Eiffel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 16:26:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538095662251 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Yareyaredaze |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:25:57 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | i fear nothing~ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:26:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538096450613 |
-| Players | 2/15 |
-| Host Name | Ержан Is No More |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:26:57 |
 
 
 |  | epic_boss_fight_nightmare |
