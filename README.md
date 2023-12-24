@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538110826196 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Небабка выдумщицa |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:45:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538110241048 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Rambod D. Luffy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 16:44:43 |
