@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538034155338 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Spartak</C/> |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 24, 2023 15:07:12 |
@@ -50,37 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538034140915 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:07:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538034622024 |
-| Players | 13/15 |
-| Host Name | MrGamerJizz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:07:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538035238390 |
-| Players | 4/15 |
-| Host Name | *-DarkKing-* |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 15:08:36 |
+| Lobby ID | 28576538030600563 |
+| Players | 9/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 15:02:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538034608117 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | I am invincible雨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 15:07:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538035385708 |
+| Players | 2/10 |
+| Host Name | dDeneuve |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 15:08:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XOPOWEE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:07:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538032537154 |
+| Players | 1/5 |
+| Host Name | dyrachoy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 15:05:05 |
 
 
