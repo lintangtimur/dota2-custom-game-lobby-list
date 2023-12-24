@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538563381757 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Rize - 気 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:12:17 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538567776014 |
-| Players | 7/15 |
-| Host Name | Dark[O]ne |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 00:16:46 |
+| Lobby ID | 28576538568393152 |
+| Players | 1/15 |
+| Host Name | MCLOVI |
+| Region | CHILE |
+| Lobby Creation Time | Monday, December 25, 2023 00:17:24 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538568085581 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Solace |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 00:17:05 |
@@ -90,6 +90,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 'saqira悲しみ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 00:17:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538568366191 |
+| Players | 2/10 |
+| Host Name | quiet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 00:17:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538568394389 |
+| Players | 7/8 |
+| Host Name | 几卂卄 丨ᗪ 卂ᗪ卂卩ㄒ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 00:17:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538568409048 |
+| Players | 3/8 |
+| Host Name | Саша (алебарда) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 00:17:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538568423417 |
+| Players | 2/15 |
+| Host Name | interactless |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 00:17:26 |
 
 
 |  | epic_boss_fight_nightmare |
