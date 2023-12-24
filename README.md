@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537903390891 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | BeastModeIsAMust! | Repeat.gg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:45:53 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537902124997 |
-| Players | 2/8 |
-| Host Name | Crime Frankenstein |
+| Players | 1/8 |
+| Host Name | [EvanS]ThariuX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:43:35 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537903231926 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:45:36 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | РоланДеМорт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 11:46:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537903678519 |
+| Players | 1/5 |
+| Host Name | SUSi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 11:46:25 |
 
 
