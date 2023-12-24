@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537821114414 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | FEDEA AHORA PUES PA REPORTARTE X |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:04:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537821440863 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:04:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537819518912 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Zeraus♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 09:00:42 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | にこ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:04:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537818456331 |
+| Players | 10/10 |
+| Host Name | CokCokCokCokCok |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 08:58:17 |
 
 
