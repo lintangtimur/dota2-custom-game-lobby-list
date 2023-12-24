@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537937601819 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:45:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537938595746 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:47:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537936252061 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ----- |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:43:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537937822430 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | The Big Bad Wolf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:46:10 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537938036686 |
-| Players | 3/8 |
-| Host Name | skittles_ez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 12:46:30 |
+| Lobby ID | 28576537938780461 |
+| Players | 2/8 |
+| Host Name | G O D |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 24, 2023 12:47:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537938152981 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Carpinchochox |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:46:42 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Baroco |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:40:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537939365619 |
+| Players | 1/10 |
+| Host Name | Abril te extraño regresa :c |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 12:48:42 |
 
 
