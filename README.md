@@ -14,34 +14,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537880506746 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | DJ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 11:02:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537880690258 |
-| Players | 9/15 |
-| Host Name | Daybrakerq |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 11:03:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537880527806 |
-| Players | 22/24 |
-| Host Name | Chupete |
+| Lobby ID | 28576537881543400 |
+| Players | 4/10 |
+| Host Name | punkimp Panda |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 11:02:59 |
+| Lobby Creation Time | Sunday, December 24, 2023 11:04:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537881614560 |
+| Players | 5/8 |
+| Host Name | Dobysh |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 11:05:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537881075628 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:04:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537881524335 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | OD PANDREX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:04:53 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 11:04:52 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537881543400 |
-| Players | 1/10 |
-| Host Name | punkimp Panda |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 11:04:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537881208802 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Фе́ликс  Дзержи́н |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:04:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537881739824 |
+| Players | 2/5 |
+| Host Name | ATOM |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 11:05:17 |
 
 
