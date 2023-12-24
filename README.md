@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538547024845 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | САНЯ СИМПЛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:55:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538546268317 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | I Love Low |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 23:54:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538544947214 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | romchyg |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:53:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538548900349 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | ded |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:57:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538542860359 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ataraxia |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 23:51:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538549844197 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | kay |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:58:25 |
@@ -86,16 +86,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538549842752 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Pepsa |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:58:25 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538549965785 |
+| Players | 1/15 |
+| Host Name | Perdiendo 20 partidas :) |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 23:58:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538549996394 |
+| Players | 1/24 |
+| Host Name | ♣«L­­»evi♣ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 23:58:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538549997894 |
+| Players | 3/15 |
+| Host Name | Крип-миньетчик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:58:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538550003162 |
+| Players | 1/8 |
+| Host Name | Дейнеріс |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:58:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538550035718 |
+| Players | 3/8 |
+| Host Name | Секрет Эгоизма |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:58:37 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576538549059204 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Hunt Hoe-Down |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 24, 2023 23:57:36 |
