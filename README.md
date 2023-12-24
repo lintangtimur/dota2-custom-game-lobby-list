@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:24:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538683141558 |
-| Players | 1/24 |
-| Host Name | Vai |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 25, 2023 02:21:51 |
+| Lobby ID | 28576538685332509 |
+| Players | 9/10 |
+| Host Name | Machine being |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 02:24:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538685023462 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | PhoenixNirvana |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 02:24:02 |
@@ -101,37 +101,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:22:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538684977429 |
-| Players | 7/8 |
-| Host Name | YAVERICK |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 02:23:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538680833884 |
-| Players | 15/15 |
-| Host Name | Sr. Wick |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 02:19:14 |
+| Lobby ID | 28576538685663415 |
+| Players | 7/15 |
+| Host Name | ДАГИ ГЕИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 02:24:48 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538683510268 |
-| Players | 1/5 |
-| Host Name | T-Stalkers-RåÿLéIGh#10🍇 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 02:22:17 |
+| Lobby ID | 28576538685772905 |
+| Players | 1/24 |
+| Host Name | Vai |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 25, 2023 02:24:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538685778661 |
+| Players | 3/10 |
+| Host Name | играю на добром |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 02:24:56 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576538685331487 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | ★曲げ機★ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 02:24:24 |
