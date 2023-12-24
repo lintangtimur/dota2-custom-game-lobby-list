@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538475202912 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Xy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:44:35 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:44:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538478394917 |
-| Players | 10/15 |
-| Host Name | Бешкетник |
+| Lobby ID | 28576538478537607 |
+| Players | 3/8 |
+| Host Name | なぜ翻訳したのですか |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:47:38 |
+| Lobby Creation Time | Sunday, December 24, 2023 22:47:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538468788683 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | aea |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 22:38:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538474476658 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Blue+ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 22:43:53 |
@@ -83,37 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:47:39 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538478633456 |
-| Players | 9/10 |
-| Host Name | weika |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:47:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538478537607 |
-| Players | 3/8 |
-| Host Name | なぜ翻訳したのですか |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:47:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538478895792 |
-| Players | 6/10 |
-| Host Name | 王淳煜 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:48:06 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28576538472902374 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | Karien |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:42:23 |
