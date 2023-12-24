@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538586943745 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Soul无名 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 00:36:47 |
@@ -101,21 +101,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 00:35:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538586870086 |
-| Players | 5/15 |
-| Host Name | ииуу |
+| Lobby ID | 28576538584839335 |
+| Players | 7/8 |
+| Host Name | victoroa' |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 00:36:43 |
+| Lobby Creation Time | Monday, December 25, 2023 00:34:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538587127597 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Cucumba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 00:36:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538587194117 |
+| Players | 3/8 |
+| Host Name | SUPERSPERMA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 00:37:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538587271693 |
+| Players | 1/10 |
+| Host Name | professor fivi |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, December 25, 2023 00:37:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538587304319 |
+| Players | 1/8 |
+| Host Name | Odinn |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 00:37:10 |
 
 
