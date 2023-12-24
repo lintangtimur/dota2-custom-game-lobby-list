@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538084314079 |
-| Players | 10/24 |
+| Players | 18/24 |
 | Host Name | 浮生幻梦 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:11:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538085215105 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Asfd |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:12:42 |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 16:10:03 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538085563438 |
+| Players | 2/15 |
+| Host Name | blew |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 16:13:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538084310308 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538084925305 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | General  zOd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:12:20 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538084255043 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | It's A Fine Day |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:11:29 |
@@ -86,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576538085362399 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | TOMMYHELLATRIGGER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:12:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538085576556 |
+| Players | 1/5 |
+| Host Name | Public Enamy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 16:13:10 |
 
 
