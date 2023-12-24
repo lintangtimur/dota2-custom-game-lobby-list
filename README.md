@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537878227390 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Arrhenius♪ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:58:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537878835836 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Фидачьё Ромаша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:59:42 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 10K Behavior Score |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:52:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537878918480 |
+| Players | 2/5 |
+| Host Name | МОПС МОРЯЧЕК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 10:59:52 |
 
 
