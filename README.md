@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538251139694 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 19:23:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538242587327 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Satijah (free Palestine) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:15:29 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538251721281 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | woo x |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:24:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538251863672 |
-| Players | 8/10 |
-| Host Name | FREE PALESTINE |
+| Lobby ID | 28576538252152287 |
+| Players | 6/15 |
+| Host Name | Vanished |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:24:27 |
+| Lobby Creation Time | Sunday, December 24, 2023 19:24:44 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 19:24:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538252152287 |
-| Players | 6/15 |
-| Host Name | Vanished |
+| Lobby ID | 28576538252735451 |
+| Players | 6/10 |
+| Host Name | dino |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:24:44 |
+| Lobby Creation Time | Sunday, December 24, 2023 19:25:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MadLad |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 19:14:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538252527392 |
-| Players | 1/5 |
-| Host Name | МАСТУРПИПТЕР |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:25:06 |
 
 
