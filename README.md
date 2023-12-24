@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537842884562 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Enjoy dota, enjoy |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:48:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537842090189 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | Justin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:47:04 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576537843297875 |
 | Players | 3/15 |
-| Host Name | ВЕБКАМЕНЩИК |
+| Host Name | dope nineteen |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 24, 2023 09:49:32 |
 
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 09:50:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537844094867 |
+| Players | 1/8 |
+| Host Name | yukidaruma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 09:51:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537840205378 |
@@ -77,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537843125989 |
-| Players | 2/10 |
-| Host Name | danetacion |
+| Players | 1/10 |
+| Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:49:11 |
 
