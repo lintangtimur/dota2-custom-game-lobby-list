@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 20:44:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538338751719 |
-| Players | 1/8 |
-| Host Name | Dvzzin17 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 20:42:44 |
+| Lobby ID | 28576538341487200 |
+| Players | 4/10 |
+| Host Name | AKRA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 20:45:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538338458410 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Ah Zai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:42:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538340973635 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Feedachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:44:41 |
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538340124906 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | где же твои понты? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:43:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538341415097 |
+| Players | 1/10 |
+| Host Name | DEATHinHQ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:45:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538341520657 |
+| Players | 4/8 |
+| Host Name | ДаVид Монгол |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 20:45:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538341558474 |
+| Players | 2/8 |
+| Host Name | неужели..? |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 24, 2023 20:45:12 |
 
 
 |  | epic_boss_fight_challenger |
