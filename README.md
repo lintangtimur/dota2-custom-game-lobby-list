@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537980842876 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | я анскилл |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:52:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537978390091 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Shunjiro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:49:03 |
@@ -38,31 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 13:41:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537979735024 |
-| Players | 9/10 |
-| Host Name | BP - 14 RG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 13:51:03 |
+| Lobby ID | 28576537980983427 |
+| Players | 6/15 |
+| Host Name | Cat |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 13:52:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537980950750 |
+| Lobby ID | 28576537981228019 |
 | Players | 1/8 |
 | Host Name | L2P |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 13:52:50 |
+| Lobby Creation Time | Sunday, December 24, 2023 13:53:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537980983427 |
-| Players | 3/15 |
-| Host Name | Cat |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 13:52:53 |
+| Lobby ID | 28576537981293052 |
+| Players | 1/10 |
+| Host Name | Bboy Squiz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 13:53:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576537978509383 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | SUSi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:49:14 |
