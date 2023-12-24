@@ -32,19 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537923801640 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:22:19 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537925378398 |
+| Players | 6/15 |
+| Host Name | Ruska |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 12:25:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537925405653 |
+| Players | 3/15 |
+| Host Name | atlasaxell |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 12:25:08 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537925322543 |
+| Lobby ID | 28576537925461757 |
 | Players | 1/24 |
-| Host Name | Almond Butter Honey |
+| Host Name | meow |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 12:25:00 |
+| Lobby Creation Time | Sunday, December 24, 2023 12:25:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | РоланДеМорт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:23:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537925381036 |
+| Players | 2/10 |
+| Host Name | pola |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 12:25:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537925377533 |
+| Players | 1/5 |
+| Host Name | aizen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 12:25:05 |
 
 
