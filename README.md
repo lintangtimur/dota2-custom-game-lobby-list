@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538001465628 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Rory IVIercury |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:22:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538009314299 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 14:33:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538004569748 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 14:26:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538008174489 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | nakedave36 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:32:02 |
@@ -74,39 +74,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:34:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538009880857 |
-| Players | 4/8 |
-| Host Name | matchmaking enjoyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 14:34:22 |
+| Lobby ID | 28576538010446984 |
+| Players | 1/15 |
+| Host Name | UY Scuti |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 24, 2023 14:35:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538010223968 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Empty |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 14:34:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538010434701 |
+| Players | 2/10 |
+| Host Name | после лоботомии |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 14:35:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538005874264 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | MadLad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:28:44 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576538010242502 |
-| Players | 1/5 |
-| Host Name | Ak74 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, December 24, 2023 14:34:52 |
+| Lobby ID | 28576538010375306 |
+| Players | 1/10 |
+| Host Name | 3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:35:03 |
 
 
