@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538287098987 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | |{yk0J|Д¥№ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:57:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538294951300 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | где же твои понты? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:04:34 |
@@ -38,31 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 20:02:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538295245140 |
-| Players | 3/8 |
-| Host Name | выебал пропан |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 20:04:50 |
+| Lobby ID | 28576538295573348 |
+| Players | 4/10 |
+| Host Name | RFAB |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:05:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538295551034 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | [DΣΛD ΣПD] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:05:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538295573348 |
-| Players | 3/10 |
-| Host Name | RFAB |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:05:07 |
+| Lobby ID | 28576538295801328 |
+| Players | 3/8 |
+| Host Name | 输给我你就要下载原神 |
+| Region | PWUNICOM |
+| Lobby Creation Time | Sunday, December 24, 2023 20:05:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Сrazy_Tosser |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:03:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538292142861 |
-| Players | 4/5 |
-| Host Name | Qalayre |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:02:03 |
 
 
 |  | epic_boss_fight_nightmare |
