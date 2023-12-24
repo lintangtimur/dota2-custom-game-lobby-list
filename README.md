@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538609719135 |
-| Players | 1/15 |
-| Host Name | 3 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, December 25, 2023 01:00:56 |
+| Lobby ID | 28576538609758680 |
+| Players | 8/10 |
+| Host Name | k__j |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 01:00:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538608240132 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 00:59:18 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576538609549801 |
 | Players | 2/10 |
-| Host Name | "DIEGUIXZN//IS BACK" |
+| Host Name | Phantom_ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 01:00:44 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538609223614 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Mr. Ganso |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 01:00:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538608349027 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | saj |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 00:59:25 |
@@ -92,30 +92,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 01:00:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538609391596 |
-| Players | 2/8 |
-| Host Name | Be polite |
+| Lobby ID | 28576538609849535 |
+| Players | 1/15 |
+| Host Name | God Rays |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 01:00:34 |
+| Lobby Creation Time | Monday, December 25, 2023 01:01:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538609728446 |
-| Players | 3/15 |
-| Host Name | Topor tvoey teshi |
+| Players | 10/15 |
+| Host Name | Gah |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 01:00:57 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576538609536352 |
+| Lobby ID | 28576538609865713 |
 | Players | 1/5 |
 | Host Name | el pingomanche... |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 01:00:44 |
+| Lobby Creation Time | Monday, December 25, 2023 01:01:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538609986003 |
+| Players | 1/10 |
+| Host Name | 大哥打野音信全无 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 01:01:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538609985453 |
+| Players | 3/5 |
+| Host Name | karmageddon |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 01:01:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538610040427 |
+| Players | 1/10 |
+| Host Name | SakalFTW |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 01:01:17 |
 
 
