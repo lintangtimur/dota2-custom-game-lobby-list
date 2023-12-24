@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538707507114 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | power ranger azulin |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:50:44 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538708298860 |
-| Players | 4/8 |
-| Host Name | ELMO |
+| Players | 3/8 |
+| Host Name | TRIKUorTRACK |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:51:40 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538709345085 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 02:52:55 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538708564057 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Dexter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 02:51:59 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538704690737 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | pig |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 02:47:22 |
@@ -137,31 +137,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:53:43 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538710193158 |
-| Players | 6/10 |
-| Host Name | фурри беззубик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:53:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538710129905 |
-| Players | 9/10 |
-| Host Name | 岩倉 玲音 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:53:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538710207852 |
-| Players | 1/15 |
-| Host Name | indekt |
+| Players | 10/15 |
+| Host Name | Țepeș |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 02:53:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538706122356 |
+| Players | 7/8 |
+| Host Name | Gulman554 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 02:49:05 |
 
 
 |  | epic_boss_fight_hard |
