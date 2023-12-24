@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576537927549703 |
 | Players | 2/10 |
-| Host Name | ww |
+| Host Name | Palach |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:28:57 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537927771821 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | PUPA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:29:22 |
