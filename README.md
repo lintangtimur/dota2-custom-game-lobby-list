@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537966121738 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 😈 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:30:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537964964831 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:29:05 |
@@ -41,10 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537962658338 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:25:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537966413200 |
+| Players | 3/24 |
+| Host Name | Sukuna |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 13:31:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537966424696 |
+| Players | 4/15 |
+| Host Name | If I lose I'll spit on you |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 13:31:23 |
 
 
 |  | epic_boss_fight_nightmare |
