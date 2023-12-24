@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538110245233 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:44:43 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538110154102 |
-| Players | 3/8 |
-| Host Name | Happy |
+| Players | 2/8 |
+| Host Name | нахуй я живу |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:44:36 |
 
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 16:38:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538109699276 |
-| Players | 5/10 |
-| Host Name | today PMA dota |
+| Lobby ID | 28576538110593405 |
+| Players | 3/15 |
+| Host Name | Человек Калаш |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:44:01 |
+| Lobby Creation Time | Sunday, December 24, 2023 16:45:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538110174566 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Homelander😈 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:44:38 |
@@ -77,28 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538110241048 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Rambod D. Luffy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 16:44:43 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538110512099 |
-| Players | 2/8 |
-| Host Name | K-pop monster(1pos no roll) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:45:04 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538110593405 |
-| Players | 3/15 |
-| Host Name | Человек Калаш |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:45:10 |
+| Lobby ID | 28576538110826196 |
+| Players | 1/15 |
+| Host Name | Небабка выдумщицa |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 16:45:27 |
 
 
 |  | epic_boss_fight_normal |
