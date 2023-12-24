@@ -47,6 +47,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 12:33:57 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537930530881 |
+| Players | 1/10 |
+| Host Name | goshiu |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, December 24, 2023 12:34:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537930591520 |
+| Players | 1/10 |
+| Host Name | MAad? |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 12:34:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537930623942 |
+| Players | 1/8 |
+| Host Name | starXcom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 12:34:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537930614840 |
+| Players | 1/8 |
+| Host Name | maksem4567 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 12:34:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537924741460 |
@@ -54,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | РоланДеМорт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:23:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537930634057 |
+| Players | 1/10 |
+| Host Name | Atista |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 12:34:15 |
 
 
