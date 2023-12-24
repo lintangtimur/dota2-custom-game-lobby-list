@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538354080889 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Sexy Cactus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:56:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538343970807 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Успех |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:47:18 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538354058469 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Farzan-Persian |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:56:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538354230228 |
-| Players | 1/15 |
-| Host Name | Icedog.萧瑟秋风今又是 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:56:12 |
+| Lobby ID | 28576538333699887 |
+| Players | 22/24 |
+| Host Name | @PepeDota #RD |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 20:38:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Anya Kawaii~ |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, December 24, 2023 20:55:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538354484151 |
+| Players | 2/5 |
+| Host Name | 想见你想见你想见你 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:56:25 |
 
 
