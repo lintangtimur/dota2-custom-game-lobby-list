@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538523735345 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Marshals |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:32:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538535903136 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | 105 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 23:44:14 |
@@ -76,20 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538534934530 |
-| Players | 6/8 |
-| Host Name | Alkazed |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 23:43:16 |
+| Lobby ID | 28576538536324980 |
+| Players | 3/8 |
+| Host Name | Sei14th |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:44:40 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538533873560 |
-| Players | 8/10 |
-| Host Name | Punk Fools- |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 23:42:12 |
+| Lobby ID | 28576538536161884 |
+| Players | 7/10 |
+| Host Name | БуЛьБаЕд |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:44:30 |
 
 
 |  | ot3_gardens_duo |
@@ -103,20 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538536083217 |
+| Lobby ID | 28576538536471697 |
 | Players | 3/8 |
-| Host Name | А когда не апали? |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 23:44:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538536161884 |
-| Players | 5/10 |
-| Host Name | БуЛьБаЕд |
+| Host Name | 天才 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:44:30 |
+| Lobby Creation Time | Sunday, December 24, 2023 23:44:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538536446143 |
+| Players | 1/8 |
+| Host Name | ПТ на Нежность |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:44:47 |
 
 
 |  | epic_boss_fight_nightmare |
