@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538194561704 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 18:26:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538196212323 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | losing streak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:27:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538198079006 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Wertyxvostom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 18:29:58 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538198215521 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Vladislave |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 18:30:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538198379784 |
+| Players | 2/10 |
+| Host Name | Tryhard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 18:30:19 |
 
 
 |  | epic_boss_fight_nightmare |
