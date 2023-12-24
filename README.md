@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538184453602 |
-| Players | 22/24 |
-| Host Name | ** |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 18:15:01 |
+| Lobby ID | 28576538188080311 |
+| Players | 6/10 |
+| Host Name | Pinto Bean |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 18:19:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538186983396 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | squirrel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:17:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538188088436 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Gay Fish |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:19:01 |
@@ -74,28 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 18:18:31 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538187085600 |
-| Players | 9/10 |
-| Host Name | Jerabis |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 18:17:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538188080311 |
-| Players | 2/10 |
-| Host Name | Pinto Bean |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 18:19:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538183612330 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | シタ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:14:04 |
@@ -121,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576538188073048 |
+| Lobby ID | 28576538188378671 |
 | Players | 1/5 |
-| Host Name | MI553RY |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 24, 2023 18:19:00 |
+| Host Name | good af |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 18:19:20 |
 
 
