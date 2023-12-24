@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538460286181 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Tetriko |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 22:30:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538458086119 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:28:22 |
@@ -56,28 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:31:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538454773878 |
-| Players | 14/15 |
-| Host Name | 》》JhonnyAp《《 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 22:25:17 |
+| Lobby ID | 28576538462112388 |
+| Players | 2/24 |
+| Host Name | 戯作 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 22:32:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538461688815 |
-| Players | 1/8 |
-| Host Name | Страшный руин |
+| Lobby ID | 28576538461975839 |
+| Players | 3/10 |
+| Host Name | Zuzi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 22:31:51 |
+| Lobby Creation Time | Sunday, December 24, 2023 22:32:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538455093046 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | twitch.tv/thejesuuss |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 22:25:35 |
@@ -92,37 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:28:36 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538461975839 |
-| Players | 4/10 |
-| Host Name | Яйцо на Лицо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 22:32:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538461974494 |
-| Players | 3/8 |
-| Host Name | dsagf |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 22:32:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538461971241 |
-| Players | 1/10 |
-| Host Name | Poni straponi ♡ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 22:32:07 |
+| Lobby ID | 28576538462193216 |
+| Players | 1/8 |
+| Host Name | gatekeeper |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 22:32:19 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576538458589832 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Boobslook |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 22:28:51 |
