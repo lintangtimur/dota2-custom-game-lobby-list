@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538005267627 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | MrSuperman|002| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:27:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538004936327 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | takodachi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:27:23 |
@@ -74,10 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:28:17 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538005597421 |
+| Players | 3/8 |
+| Host Name | friendly |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:28:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538001465628 |
+| Players | 14/15 |
+| Host Name | zaivush |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:22:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538005672701 |
+| Players | 1/8 |
+| Host Name | GargleGoyle |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 24, 2023 14:28:26 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538005548550 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:28:16 |
