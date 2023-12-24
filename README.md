@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538229519885 |
-| Players | 2/15 |
-| Host Name | 953 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Sunday, December 24, 2023 19:02:35 |
+| Lobby ID | 28576538230016483 |
+| Players | 8/15 |
+| Host Name | BitcoinArtem |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 19:03:05 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538228691625 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Xy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:01:44 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538229380627 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ErichKrause prime |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:02:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538228108372 |
-| Players | 14/15 |
-| Host Name | Ecosi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:01:09 |
 
 
 |  | epic_boss_fight_nightmare |
