@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538171756605 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | 通过痛苦和磨难 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 18:00:37 |
@@ -38,31 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 17:49:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538172236058 |
-| Players | 3/8 |
-| Host Name | Сапёрка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:01:11 |
+| Lobby ID | 28576538168903928 |
+| Players | 16/24 |
+| Host Name | otGod. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 17:57:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538172240883 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | k02 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:01:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538168903928 |
-| Players | 14/24 |
-| Host Name | Evolver |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 17:57:12 |
+| Lobby ID | 28576538172460388 |
+| Players | 1/15 |
+| Host Name | Andruz |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, December 24, 2023 18:01:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538171997662 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 大哥打野音信全无 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:00:54 |
