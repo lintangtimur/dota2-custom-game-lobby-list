@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538274154242 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Баночка Гачички |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:45:30 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 19:43:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538274445893 |
-| Players | 5/10 |
-| Host Name | ЧИВАУВА banditcamp.com |
+| Lobby ID | 28576538274987858 |
+| Players | 2/8 |
+| Host Name | Злой Exort |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:45:45 |
+| Lobby Creation Time | Sunday, December 24, 2023 19:46:15 |
 
 
 |  | ot3_gardens_duo |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Error.On.Fire.xD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:45:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576538270159979 |
-| Players | 9/10 |
-| Host Name | 再干中单  重拾自信 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:41:48 |
 
 
 |  | epic_boss_fight_nightmare |
