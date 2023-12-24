@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538158795113 |
-| Players | 12/15 |
-| Host Name | Absolute |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 17:45:15 |
+| Lobby ID | 28576538159331126 |
+| Players | 2/8 |
+| Host Name | THC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 17:45:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538157311422 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Ah Zai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:43:29 |
@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538155979498 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | PLAYER PMA 🦁 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 17:41:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538158396009 |
-| Players | 6/10 |
-| Host Name | kaiser^^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:44:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538159331126 |
-| Players | 1/8 |
-| Host Name | THC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:45:53 |
 
 
 |  | epic_boss_fight_nightmare |
