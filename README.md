@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537884205783 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | CeLeRoN_godota2.com |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 11:10:02 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CokCokCokCokCok |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:13:05 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576537886349327 |
+| Players | 1/7 |
+| Host Name | Kyuu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 11:14:04 |
 
 
