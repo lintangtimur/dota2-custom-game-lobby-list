@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537847351693 |
-| Players | 2/8 |
-| Host Name | isn't like holding to the center |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 09:57:38 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537846242583 |
-| Players | 21/24 |
-| Host Name | 黙れ |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, December 24, 2023 09:55:25 |
+| Lobby ID | 28576537846454667 |
+| Players | 7/24 |
+| Host Name | เชิญไปแบกเดียวแจกเอง |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 09:55:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537848285084 |
+| Players | 4/8 |
+| Host Name | Shipibo enamorado |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 09:59:37 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537846607332 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | русский |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 09:56:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537846834640 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Homicídio |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 09:56:34 |
@@ -49,38 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537846764517 |
-| Players | 13/15 |
-| Host Name | "GoPositive.bet" ARS - Bets4.fun |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 09:56:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537846454667 |
-| Players | 5/24 |
-| Host Name | เชิญไปแบกเดียวแจกเอง |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 09:55:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537848152114 |
-| Players | 1/8 |
-| Host Name | Sacramento |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 09:59:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537848169002 |
-| Players | 1/8 |
-| Host Name | В.В.ДЭЙС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 09:59:22 |
+| Lobby ID | 28576537848170357 |
+| Players | 4/15 |
+| Host Name | CEO OF SEX |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 09:59:23 |
 
 
 |  | epic_boss_fight_nightmare |
