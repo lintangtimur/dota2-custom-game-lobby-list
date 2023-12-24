@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538498137213 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Leo <3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 23:06:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538499095372 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 23:07:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538500441906 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 死 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:09:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538498260297 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Reiner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:06:52 |
@@ -104,9 +104,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538500298447 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | sinisterlonely |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:08:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538500815337 |
+| Players | 6/8 |
+| Host Name | DJ БПЛА |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:09:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538500860114 |
+| Players | 1/15 |
+| Host Name | sprEEEzyyy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:09:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538500776046 |
+| Players | 1/10 |
+| Host Name | CUM AND GO AND CUM AGAIN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:09:20 |
 
 
