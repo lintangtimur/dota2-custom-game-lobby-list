@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538043444549 |
-| Players | 7/8 |
-| Host Name | Ramen |
+| Lobby ID | 28576538043829512 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:19:13 |
+| Lobby Creation Time | Sunday, December 24, 2023 15:19:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538044145941 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Ебур Оссию |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 15:20:07 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 15:19:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538043829512 |
-| Players | 1/8 |
-| Host Name | isn't like holding to the center |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:19:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538044172953 |
-| Players | 1/15 |
-| Host Name | Tracer |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 15:20:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538043232127 |
@@ -113,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576538043740467 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | IIpopok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 15:19:36 |
