@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 00:19:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538575194978 |
-| Players | 8/10 |
-| Host Name | Проказница Артём |
+| Lobby ID | 28576538575358991 |
+| Players | 6/8 |
+| Host Name | ЬУЬ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 00:24:26 |
+| Lobby Creation Time | Monday, December 25, 2023 00:24:36 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538567146350 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | 1k Mycop |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 00:16:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538571491004 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | MVP |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 25, 2023 00:20:34 |
@@ -86,19 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538574325749 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | DRAGON BLUE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:23:32 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538575432086 |
+| Players | 1/10 |
+| Host Name | great googly moogly |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 00:24:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538575483418 |
+| Players | 5/15 |
+| Host Name | Kaakii |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 00:24:44 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538575358991 |
-| Players | 1/8 |
-| Host Name | ЬУЬ |
+| Lobby ID | 28576538575549813 |
+| Players | 5/8 |
+| Host Name | Twincher |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 00:24:36 |
+| Lobby Creation Time | Monday, December 25, 2023 00:24:48 |
 
 
 |  | epic_boss_fight_normal |
