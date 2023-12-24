@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537854480365 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Jodi |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:11:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537853805668 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 10:10:33 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537854281158 |
-| Players | 2/15 |
-| Host Name | DON'T BAN TINY |
+| Players | 1/15 |
+| Host Name | R I N D O L |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:11:29 |
 
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537854153495 |
-| Players | 2/8 |
-| Host Name | Zzz tu pick |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:11:14 |
+| Lobby ID | 28576537855019031 |
+| Players | 3/8 |
+| Host Name | | Jenny | |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 10:12:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537854663535 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Flowers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:12:13 |
@@ -76,38 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537854892445 |
-| Players | 5/8 |
-| Host Name | OD PANDREX |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:12:40 |
+| Lobby ID | 28576537855025393 |
+| Players | 1/8 |
+| Host Name | UwU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 10:12:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537854999117 |
-| Players | 2/24 |
-| Host Name | MiKchero |
+| Players | 4/24 |
+| Host Name | no soy tu muñeca |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:12:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537855021442 |
-| Players | 1/8 |
-| Host Name | ganhador |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 10:12:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537855025393 |
-| Players | 1/8 |
-| Host Name | UwU |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 10:12:56 |
+| Lobby ID | 28576537855205004 |
+| Players | 4/8 |
+| Host Name | 《 灬ŠĤΛÐǾW灬 》 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 10:13:16 |
 
 
 |  | epic_boss_fight_nightmare |
