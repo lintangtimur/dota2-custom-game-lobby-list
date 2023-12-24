@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537903390891 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | BeastModeIsAMust! | Repeat.gg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:45:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537902124997 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | [EvanS]ThariuX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:43:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537904067126 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 123 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 11:47:07 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 11:40:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537902338971 |
-| Players | 14/15 |
-| Host Name | PAPAZETO |
+| Lobby ID | 28576537903858219 |
+| Players | 1/8 |
+| Host Name | Young Neil |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 11:43:59 |
+| Lobby Creation Time | Sunday, December 24, 2023 11:46:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | yukidaruma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 11:30:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537903858219 |
-| Players | 1/8 |
-| Host Name | Young Neil |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 11:46:44 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576537903678519 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | SUSi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 11:46:25 |
