@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538070755359 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | p.khadunko.21vek.by |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:54:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538062648994 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:43:57 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538070992256 |
-| Players | 2/10 |
-| Host Name | Duck36 |
+| Players | 1/10 |
+| Host Name | last christmas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 15:54:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538071546803 |
+| Players | 1/8 |
+| Host Name | ^^ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 15:55:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dead outside 牡zxc beast牡 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 15:54:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538071516233 |
+| Players | 2/10 |
+| Host Name | Kimdyy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 15:55:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538071598723 |
+| Players | 1/10 |
+| Host Name | 私を倒せるのは私だけ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 15:55:20 |
 
 
