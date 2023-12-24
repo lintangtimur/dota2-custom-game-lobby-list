@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537982978844 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | yuki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:55:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537983271483 |
+| Players | 2/10 |
+| Host Name | VrotCumpot |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 13:56:14 |
 
 
 |  | epic_boss_fight_normal |
