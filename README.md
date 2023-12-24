@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:39:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537868564989 |
-| Players | 14/15 |
-| Host Name | Дам в рот +79092765851 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 10:39:49 |
+| Lobby ID | 28576537871944233 |
+| Players | 4/8 |
+| Host Name | ¿? |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 10:46:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:40:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537868183599 |
-| Players | 23/24 |
-| Host Name | 食我大根 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 10:39:04 |
+| Lobby ID | 28576537872334669 |
+| Players | 2/10 |
+| Host Name | estoy  cansado jefe |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 10:47:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537871152937 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | TOTSUGEKI |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:44:46 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 󠀡󠀡 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:45:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537871944233 |
-| Players | 2/8 |
-| Host Name | ¿? |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:46:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537872334669 |
-| Players | 2/10 |
-| Host Name | estoy  cansado jefe |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:47:02 |
 
 
 |  | epic_boss_fight_nightmare |
