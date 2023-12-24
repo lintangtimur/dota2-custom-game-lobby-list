@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537934330517 |
-| Players | 8/24 |
+| Players | 19/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:40:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537932504910 |
-| Players | 7/24 |
+| Players | 4/24 |
 | Host Name | MrGrimm |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:37:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537934815176 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Delicia |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:41:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537932053242 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | DJ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:36:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537933633673 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:39:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537934692878 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | supїdo |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:40:58 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537934707472 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | escapist PRIME 666 雨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:40:59 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537935252928 |
+| Players | 2/10 |
+| Host Name | maksutka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 12:41:54 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537930634057 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Atista |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:34:15 |
