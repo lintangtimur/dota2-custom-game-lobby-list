@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538417849509 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ??? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:51:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538420526312 |
-| Players | 1/15 |
-| Host Name | 邪恶挼比 |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 24, 2023 21:53:56 |
+| Lobby ID | 28576538420406731 |
+| Players | 4/8 |
+| Host Name | exa_blya.667 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 21:53:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538411132598 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | [L] |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 21:45:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538416879578 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | SIDERAL FRIO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 21:50:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538417334467 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:51:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538420324810 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | kripachyo |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:53:45 |
@@ -101,19 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 21:53:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538420406731 |
-| Players | 3/8 |
-| Host Name | exa_blya.667 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:53:50 |
+| Lobby ID | 28576538420635741 |
+| Players | 10/15 |
+| Host Name | Mr. Nemo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 21:54:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538420731674 |
+| Players | 6/10 |
+| Host Name | T3D |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 21:54:07 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576538419156562 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | TiTiBoY |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:52:43 |
