@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538253989155 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Дiд Пiтон Луi Вiтон |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:26:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538254493309 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:26:59 |
@@ -56,49 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 19:25:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538254219375 |
-| Players | 6/10 |
-| Host Name | ЕБАКА |
+| Lobby ID | 28576538255039606 |
+| Players | 3/8 |
+| Host Name | sadness时间 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:26:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538254825298 |
-| Players | 1/8 |
-| Host Name | J丶 |
-| Region | PWUNICOM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:27:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538254817978 |
-| Players | 1/8 |
-| Host Name | Misha.Lomiw |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:27:18 |
+| Lobby Creation Time | Sunday, December 24, 2023 19:27:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538254837837 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Gay Fish |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:27:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538249071650 |
-| Players | 13/15 |
-| Host Name | LiL DojD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:21:46 |
+| Lobby ID | 28576538254817978 |
+| Players | 3/8 |
+| Host Name | Misha.Lomiw |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 19:27:18 |
 
 
 |  | epic_boss_fight_nightmare |
