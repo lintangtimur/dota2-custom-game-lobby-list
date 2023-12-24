@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538264884770 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | YouKnowMyName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:36:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538257107906 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:29:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538265453372 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | 𒇫𒄆 Skvirtoslav 𒂝𒀱 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:37:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538265857272 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Elinbarrage |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:37:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538265080837 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Русні Pyzda |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:37:07 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 19:37:12 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538266271788 |
-| Players | 3/24 |
-| Host Name | おやすみ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:38:13 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28576538261856466 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ylylysha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:34:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538266378694 |
+| Players | 2/10 |
+| Host Name | MoXHaTble_9lu4ku |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 19:38:19 |
 
 
