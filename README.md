@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538672449656 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:09:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538674842496 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | db |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 02:12:27 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:09:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538674621838 |
-| Players | 5/10 |
-| Host Name | C0re |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 02:12:12 |
+| Lobby ID | 28576538674988919 |
+| Players | 7/24 |
+| Host Name | семён бакин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 02:12:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538673057611 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | RuBeN |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:10:27 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:01:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538675211740 |
-| Players | 10/15 |
-| Host Name | Mouches Volantes |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 02:12:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538674988919 |
-| Players | 2/24 |
-| Host Name | семён бакин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:12:37 |
+| Lobby ID | 28576538675394924 |
+| Players | 1/8 |
+| Host Name | Yuma 凡妮莎 ♡ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 02:13:05 |
 
 
 |  | epic_boss_fight_nightmare |
