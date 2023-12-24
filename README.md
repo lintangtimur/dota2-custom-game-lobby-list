@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:11:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537853805668 |
-| Players | 23/24 |
-| Host Name | ♂EL CAMPER GANDALFS♂ |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, December 24, 2023 10:10:33 |
+| Lobby ID | 28576537855393188 |
+| Players | 7/15 |
+| Host Name | ASURA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 10:13:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537854999117 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | no soy tu muñeca |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:12:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537855019031 |
-| Players | 6/8 |
-| Host Name | | Jenny | |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 10:12:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537854663535 |
-| Players | 4/24 |
-| Host Name | Flowers |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 10:12:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:13:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537855393188 |
-| Players | 6/15 |
-| Host Name | ASURA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:13:36 |
+| Lobby ID | 28576537854663535 |
+| Players | 6/24 |
+| Host Name | Flowers |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 10:12:13 |
 
 
 |  | epic_boss_fight_nightmare |
