@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538127278990 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Saint |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:06:25 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 17:03:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538128269213 |
-| Players | 7/8 |
-| Host Name | whore |
+| Lobby ID | 28576538128473118 |
+| Players | 3/10 |
+| Host Name | Ksavar? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:07:40 |
+| Lobby Creation Time | Sunday, December 24, 2023 17:07:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 17:07:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538128473118 |
-| Players | 3/10 |
-| Host Name | Ksavar? |
+| Lobby ID | 28576538128700594 |
+| Players | 1/8 |
+| Host Name | ❦Потрошитель❦ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:07:56 |
+| Lobby Creation Time | Sunday, December 24, 2023 17:08:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zeus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:06:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538127976476 |
-| Players | 2/5 |
-| Host Name | 🎄𝕯𝖆𝖗𝖐 𝕬𝖓 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 17:07:18 |
 
 
