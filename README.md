@@ -32,37 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538526898496 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | 戯作 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:35:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538528843897 |
-| Players | 7/8 |
-| Host Name | Wolfelement |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 23:37:09 |
+| Lobby ID | 28576538530928115 |
+| Players | 8/15 |
+| Host Name | 0_0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:39:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538529004426 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | DarkMoon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 23:37:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538530192704 |
-| Players | 6/8 |
-| Host Name | safi |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:38:30 |
+| Lobby ID | 28576538530652990 |
+| Players | 4/15 |
+| Host Name | Ебучий чепушила |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:38:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,37 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538530734289 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Gavin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:39:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538530501597 |
-| Players | 5/10 |
-| Host Name | dn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:38:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538530652990 |
-| Players | 4/15 |
-| Host Name | Ебучий чепушила |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:38:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538530928115 |
-| Players | 3/15 |
-| Host Name | 0_0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:39:15 |
+| Lobby ID | 28576538531147464 |
+| Players | 1/8 |
+| Host Name | Funny Crow |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:39:28 |
 
 
 |  | epic_boss_fight_nightmare |
