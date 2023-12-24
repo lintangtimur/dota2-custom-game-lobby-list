@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537845534928 |
-| Players | 9/10 |
-| Host Name | enemyenemyenemy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 09:54:02 |
+| Lobby ID | 28576537846936176 |
+| Players | 3/15 |
+| Host Name | Penetron en Peru |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 09:56:47 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537841190705 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Zynkope |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 09:45:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537844094867 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | yukidaruma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 09:51:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537846764517 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | "GoPositive.bet" ARS - Bets4.fun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 09:56:26 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Homicídio |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 09:56:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537846936176 |
-| Players | 2/15 |
-| Host Name | Penetron en Peru |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 09:56:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | No MercY |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 24, 2023 09:56:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537847034320 |
-| Players | 1/5 |
-| Host Name | R1d3r |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 24, 2023 09:56:59 |
 
 
