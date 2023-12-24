@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538247455880 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | [L] |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 19:20:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538273506224 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | BLiNK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:44:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538268007054 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | vash lujan |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 19:39:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538273113085 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | LJS - Shadow Shaman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:44:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538270665092 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | lifedrain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:42:16 |
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tanjing.nathaniel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:42:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538273694524 |
+| Players | 2/8 |
+| Host Name | Быстрая смерть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:45:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538273828760 |
+| Players | 1/8 |
+| Host Name | ✪stingytown |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 19:45:12 |
 
 
 |  | epic_boss_fight_nightmare |
