@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538393462484 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | crias |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 21:30:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538395249614 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | MCLOVI |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 21:31:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538395685682 |
-| Players | 9/24 |
+| Players | 19/24 |
 | Host Name | psy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:32:01 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538396447725 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | 𩠑 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:32:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538395992071 |
-| Players | 11/15 |
-| Host Name | xdsick666 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 21:32:17 |
+| Lobby ID | 28576538377088395 |
+| Players | 23/24 |
+| Host Name | D ~ He♥ly |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 21:15:53 |
 
 
 |  | ot3_desert_octet |
@@ -83,28 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 21:32:14 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538395911081 |
-| Players | 9/10 |
-| Host Name | NeverMind |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 21:32:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538396857659 |
-| Players | 1/8 |
-| Host Name | shit talking |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 21:33:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538396237419 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 600 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:32:30 |
