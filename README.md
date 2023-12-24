@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538116246562 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | самый тупой |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:52:20 |
@@ -36,6 +36,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ¨Ç_-Gonza-_-4 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:52:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538116982538 |
+| Players | 1/10 |
+| Host Name | Snehule_ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 16:53:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -63,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NDA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:52:34 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28576538116827873 |
-| Players | 2/7 |
-| Host Name | tailera net |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:53:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538116837766 |
-| Players | 1/5 |
-| Host Name | СМЕРТЕЛЬНАЯ ЛОПАТА СМЕРТИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:53:05 |
 
 
