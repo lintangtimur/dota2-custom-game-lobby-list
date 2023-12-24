@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537853989679 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Dead_Dragon |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:10:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537853318493 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Elon Tusk |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:09:35 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537851617680 |
-| Players | 5/8 |
-| Host Name | OD PANDREX |
+| Players | 2/8 |
+| Host Name | Zzz tu pick |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:06:15 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537853311099 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | mom said dont make you name aggr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:09:34 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537853805668 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 10:10:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537854153495 |
+| Players | 4/8 |
+| Host Name | OD PANDREX |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 10:11:14 |
 
 
 |  | epic_boss_fight_nightmare |
