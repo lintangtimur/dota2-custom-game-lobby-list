@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537865611236 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Mahoraga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:34:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537865944857 |
-| Players | 9/10 |
-| Host Name | EMANS |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:34:45 |
+| Lobby ID | 28576537866460533 |
+| Players | 10/15 |
+| Host Name | VolTaGe |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 10:35:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537866251160 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | VISHTACK BORN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:35:21 |
@@ -36,24 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pinky |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 10:30:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537866460533 |
-| Players | 7/15 |
-| Host Name | VolTaGe |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 10:35:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537866597559 |
-| Players | 2/10 |
-| Host Name | alinaD |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 10:36:00 |
 
 
 |  | epic_boss_fight_normal |
@@ -76,17 +58,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576537860808353 |
-| Players | 9/10 |
-| Host Name | Fihed |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 10:24:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28576537861774768 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:26:16 |
