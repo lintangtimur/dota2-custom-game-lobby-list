@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538087744233 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | в 24 выйду по удо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:15:51 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 15:39:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538089679599 |
-| Players | 12/15 |
-| Host Name | Trinitone |
+| Lobby ID | 28576538090303352 |
+| Players | 3/8 |
+| Host Name | Leo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:18:18 |
+| Lobby Creation Time | Sunday, December 24, 2023 16:19:06 |
 
 
 |  | ot3_desert_octet |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538088668143 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Throgether |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:17:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538089775475 |
-| Players | 6/10 |
-| Host Name | Euthanasia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:18:26 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538087170401 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 大哥打野音信全无 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:15:08 |
