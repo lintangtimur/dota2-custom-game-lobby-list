@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537865611236 |
-| Players | 22/24 |
-| Host Name | Mahoraga |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:34:06 |
+| Lobby ID | 28576537867235690 |
+| Players | 1/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 10:37:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537866460533 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | VolTaGe |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:35:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537866251160 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | SIDERAL FRIO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:35:21 |
@@ -41,19 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537866999529 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | 謙虚さを身につけろ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:36:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537867071023 |
-| Players | 1/15 |
-| Host Name | denis2012 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 24, 2023 10:36:55 |
+| Lobby ID | 28576537867123895 |
+| Players | 7/24 |
+| Host Name | mom said dont make you name aggr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 10:37:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537867162864 |
+| Players | 3/10 |
+| Host Name | Amsterdam |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 10:37:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537867219760 |
+| Players | 3/10 |
+| Host Name | worst human being |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 10:37:12 |
 
 
 |  | epic_boss_fight_normal |
