@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538134320030 |
-| Players | 2/15 |
-| Host Name | Sherlock |
+| Players | 1/15 |
+| Host Name | Ez Wil |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 17:15:14 |
 
@@ -29,55 +29,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 17:13:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538134147778 |
-| Players | 7/8 |
-| Host Name | Belash |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:15:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538125233394 |
-| Players | 16/24 |
-| Host Name | Arkky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:03:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538134242216 |
-| Players | 4/10 |
-| Host Name | Древний Рус |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 17:15:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538134253150 |
-| Players | 2/8 |
-| Host Name | why not ? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 17:15:09 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538134551782 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | 赤津666 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:15:31 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538125233394 |
+| Players | 19/24 |
+| Host Name | Arkky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 17:03:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538134849970 |
+| Players | 3/8 |
+| Host Name | アレクサンダー |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 17:15:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538134253150 |
+| Players | 3/8 |
+| Host Name | why not ? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 17:15:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538129668661 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Gandy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:09:26 |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Darwin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:13:22 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538133032413 |
-| Players | 1/5 |
-| Host Name | Абхазская вафля |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:13:38 |
 
 
