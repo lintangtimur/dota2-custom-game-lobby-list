@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538350909873 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:53:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538350309852 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | как же вас люблю |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:52:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538359995742 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Ghodrat |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 24, 2023 21:01:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538355821469 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Lil jindan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:57:35 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 21:00:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538358817687 |
-| Players | 6/8 |
-| Host Name | k02 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 21:00:13 |
+| Lobby ID | 28576538360197760 |
+| Players | 3/10 |
+| Host Name | Русский мир Z |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 21:01:26 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538359394744 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Tokeshoo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 21:00:44 |
@@ -119,15 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 20:47:18 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538359420009 |
-| Players | 1/15 |
-| Host Name | MilkShake |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 24, 2023 21:00:45 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538359538319 |
@@ -135,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Why Always ME ? |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 21:00:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538360179946 |
-| Players | 3/8 |
-| Host Name | 棉花糖 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 21:01:25 |
 
 
 |  | epic_boss_fight_nightmare |
