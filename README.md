@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 21:01:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538355821469 |
-| Players | 24/24 |
-| Host Name | Lil jindan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:57:35 |
+| Lobby ID | 28576538360593323 |
+| Players | 3/15 |
+| Host Name | What a Dragg! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 21:01:46 |
 
 
 |  | ot3_desert_octet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 20:57:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538359400072 |
-| Players | 10/15 |
-| Host Name | ꃥꈤꊐ |
+| Lobby ID | 28576538360955734 |
+| Players | 1/8 |
+| Host Name | ch1ppo^^ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 21:00:44 |
+| Lobby Creation Time | Sunday, December 24, 2023 21:02:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538360197760 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Русский мир Z |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 21:01:26 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 21:00:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538360472101 |
-| Players | 1/8 |
-| Host Name | ch1ppo^^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 21:01:40 |
+| Lobby ID | 28576538359538319 |
+| Players | 1/10 |
+| Host Name | Why Always ME ? |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 21:00:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,28 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538343970807 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Успех |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:47:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538359538319 |
-| Players | 1/10 |
-| Host Name | Why Always ME ? |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 21:00:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538360593323 |
-| Players | 3/15 |
-| Host Name | What a Dragg! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 21:01:46 |
 
 
 |  | epic_boss_fight_nightmare |
