@@ -20,28 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 18:54:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538223903925 |
-| Players | 11/15 |
-| Host Name | KPS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:56:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538224423405 |
-| Players | 6/15 |
-| Host Name | 953 |
+| Lobby ID | 28576538224576887 |
+| Players | 17/24 |
+| Host Name | ✪Gen.Secret |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 18:57:19 |
+| Lobby Creation Time | Sunday, December 24, 2023 18:57:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538224637847 |
+| Players | 3/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 18:57:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538221456583 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Baunz |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:54:18 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 18:55:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538223254736 |
-| Players | 5/8 |
-| Host Name | Oopsie |
+| Lobby ID | 28576538224519763 |
+| Players | 3/10 |
+| Host Name | Я гей |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:56:07 |
+| Lobby Creation Time | Sunday, December 24, 2023 18:57:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538224567220 |
+| Players | 7/15 |
+| Host Name | Habro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 18:57:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 谜兔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:54:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538224502177 |
+| Players | 2/5 |
+| Host Name | animegod |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 18:57:24 |
 
 
