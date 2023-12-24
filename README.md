@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538000264122 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | kusatori* |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:20:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537998820763 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 14:18:47 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538000162298 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 逐逐月 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:20:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537997816903 |
+| Players | 23/24 |
+| Host Name | Smile |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:17:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538000819993 |
+| Players | 5/8 |
+| Host Name | Nutripinga Morenas only |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 14:21:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537999417259 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | PRABRORO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:19:38 |
