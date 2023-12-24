@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537977128024 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | 20-1 t1Bu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:47:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537976506765 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | R0alo21 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:46:17 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537963863755 |
-| Players | 2/8 |
-| Host Name | каковозик)) |
+| Players | 1/8 |
+| Host Name | Quick Reflexer. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:27:21 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537977575267 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | poison cleave elementalist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:47:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537977233468 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | X (MUTED) |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:47:20 |
@@ -68,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537976641208 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | ponos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:46:28 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537973463969 |
-| Players | 7/10 |
-| Host Name | [*BaSkeTka*] |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 13:41:51 |
+| Lobby ID | 28576537977965379 |
+| Players | 3/8 |
+| Host Name | Unthinkable |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 13:48:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537976224010 |
+| Players | 22/24 |
+| Host Name | its been 12 years |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 13:45:51 |
 
 
