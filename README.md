@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538139145171 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Dirty Deeds Done Dirt Cheeps |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:21:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538136870697 |
-| Players | 5/15 |
+| Players | 1/15 |
 | Host Name | BGhost |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 17:18:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538139465631 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | kuni lover |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:21:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538139607926 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Laff3y |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:21:46 |
