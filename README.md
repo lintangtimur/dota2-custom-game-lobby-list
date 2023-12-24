@@ -11,46 +11,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 01:39:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538648470966 |
-| Players | 21/24 |
-| Host Name | Ah Zai |
+| Lobby ID | 28576538531456866 |
+| Players | 2/8 |
+| Host Name | Peon Redfield |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 01:42:53 |
+| Lobby Creation Time | Sunday, December 24, 2023 23:39:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538646635387 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 01:40:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538649481178 |
-| Players | 6/8 |
-| Host Name | Сосать Хуевротов |
+| Lobby ID | 28576538649628758 |
+| Players | 5/15 |
+| Host Name | 𝐿𝑒𝑔𝑒𝓃𝒹 |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 01:44:00 |
+| Lobby Creation Time | Monday, December 25, 2023 01:44:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538645950494 |
-| Players | 5/8 |
-| Host Name | Alkazed |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 01:40:05 |
+| Lobby ID | 28576538647580336 |
+| Players | 3/24 |
+| Host Name | 1k Mycop |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 01:41:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538649517046 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | unemployed kid |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 01:44:02 |
@@ -74,33 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 01:14:21 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538531456866 |
-| Players | 2/8 |
-| Host Name | Peon Redfield |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:39:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538647580336 |
-| Players | 2/24 |
-| Host Name | 1k Mycop |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 01:41:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538649628758 |
-| Players | 3/15 |
-| Host Name | 𝐿𝑒𝑔𝑒𝓃𝒹 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 01:44:10 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576538643794307 |
@@ -113,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538637679185 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Maireska |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 01:30:55 |
