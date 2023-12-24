@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538008188217 |
+| Players | 3/10 |
+| Host Name | :3 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 14:32:03 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538008126634 |
-| Players | 1/8 |
-| Host Name | Дима |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 14:31:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538001465628 |
-| Players | 14/15 |
-| Host Name | zaivush |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:22:31 |
+| Lobby ID | 28576538008518491 |
+| Players | 7/8 |
+| Host Name | Karoshi |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:32:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538007809385 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | orel 96.0 FM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:31:31 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538007620887 |
-| Players | 14/15 |
-| Host Name | 卍Ттанкист123卍 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 14:31:15 |
+| Lobby ID | 28576538008189136 |
+| Players | 10/15 |
+| Host Name | Neko |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 14:32:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,43 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538008174489 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | nakedave36 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:32:02 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538008188217 |
-| Players | 1/10 |
-| Host Name | :3 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 14:32:03 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538008189136 |
-| Players | 3/15 |
-| Host Name | Neko |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 14:32:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538008287388 |
-| Players | 2/15 |
-| Host Name | dzotyara |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 14:32:11 |
+| Lobby ID | 28576538008885296 |
+| Players | 1/15 |
+| Host Name | 超ヤベー! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:33:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538005548550 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:28:16 |
