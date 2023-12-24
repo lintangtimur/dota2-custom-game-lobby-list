@@ -14,26 +14,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537993790306 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | 喂奶，儿子在哭 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:11:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537993232949 |
-| Players | 1/15 |
-| Host Name | 超ヤベー! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:10:50 |
+| Lobby ID | 28576537993996368 |
+| Players | 4/8 |
+| Host Name | он идёт☭☭☭ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 14:11:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537987553096 |
-| Players | 3/8 |
-| Host Name | ГОБЛИНЫ |
+| Players | 1/8 |
+| Host Name | каковозик)) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:02:36 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537993742610 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | 𝘙𝘰𝘭𝘭𝘦𝘹 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:11:33 |
@@ -77,25 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537993861419 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | 925, burn me my medallion |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:11:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537993996368 |
-| Players | 1/8 |
-| Host Name | он идёт☭☭☭ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 14:11:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537989818337 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Eagle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:05:53 |
