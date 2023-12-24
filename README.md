@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537952595696 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ☛StrangerSiren |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:09:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537952693935 |
-| Players | 1/24 |
-| Host Name | Lil jindan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 13:10:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537952377176 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 大哥打野音信全无 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:09:36 |
