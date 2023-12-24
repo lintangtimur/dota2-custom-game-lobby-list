@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538504659696 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | ๋ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 23:13:06 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:05:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538507433325 |
-| Players | 6/8 |
-| Host Name | ВЫЖИВАЛОВО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:15:48 |
+| Lobby ID | 28576538508429196 |
+| Players | 1/15 |
+| Host Name | Му Паль Мо |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:16:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538508251041 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | zxcperdesh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:16:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538506742637 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Tempeste |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:15:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538504254830 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Hira Reborn |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 23:12:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538508007249 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | 1nonly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:16:22 |
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:15:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538508349723 |
-| Players | 2/8 |
-| Host Name | absolute最強 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:16:42 |
+| Lobby ID | 28576538508475553 |
+| Players | 5/10 |
+| Host Name | BILLY BONES |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:16:50 |
 
 
 |  | ot3_gardens_duo |
@@ -158,28 +158,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538508435837 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | Bobslej |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:16:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538508429196 |
-| Players | 1/15 |
-| Host Name | Му Паль Мо |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:16:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538508475553 |
-| Players | 1/10 |
-| Host Name | BILLY BONES |
+| Lobby ID | 28576538508680951 |
+| Players | 3/8 |
+| Host Name | санек Чушпан |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:16:50 |
+| Lobby Creation Time | Sunday, December 24, 2023 23:17:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538508688432 |
+| Players | 1/8 |
+| Host Name | q |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:17:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -189,5 +189,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gandy |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:14:03 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576538508684784 |
+| Players | 4/7 |
+| Host Name | 睡睡 |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 24, 2023 23:17:02 |
 
 
