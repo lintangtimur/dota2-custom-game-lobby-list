@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:27:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538462759001 |
-| Players | 1/15 |
-| Host Name | Shinra Tensei |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:32:51 |
+| Lobby ID | 28576538463004423 |
+| Players | 3/10 |
+| Host Name | DФ ИФΓ FФЯGΞΓ MΞ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 22:33:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:25:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538462513065 |
-| Players | 9/10 |
-| Host Name | Илюня |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:32:37 |
+| Lobby ID | 28576538463187560 |
+| Players | 1/15 |
+| Host Name | CAT |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 22:33:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538462708614 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Bababooey |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:32:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538462219861 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ꧁༒꧂℣ę₲ẫֆ꧁༒꧂ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 22:32:21 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538462777363 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Krink |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 22:32:52 |
@@ -122,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538460803689 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | momo&peach princess |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:31:00 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576538458589832 |
-| Players | 1/7 |
-| Host Name | Boobslook |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 22:28:51 |
 
 
