@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538569007392 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Logan Ninefingers |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 00:18:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538568976227 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 00:17:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538568085581 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Solace |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 00:17:05 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538568823400 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | π |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:17:50 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538569401525 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Saksa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 00:18:25 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538563381757 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Rize - 気 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:12:17 |
@@ -135,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SoapiestKey7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 00:14:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538569604458 |
+| Players | 1/5 |
+| Host Name | ♛ H z w a p |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 00:18:37 |
 
 
