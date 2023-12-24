@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538360593323 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | What a Dragg! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 21:01:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538360955734 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ch1ppo^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 21:02:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538358972975 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Q |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 21:00:21 |
@@ -110,19 +110,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 21:00:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538343970807 |
-| Players | 3/15 |
-| Host Name | Успех |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:47:18 |
+| Lobby ID | 28576538361202748 |
+| Players | 5/8 |
+| Host Name | nameless |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 24, 2023 21:02:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538361151795 |
+| Players | 1/8 |
+| Host Name | Director King |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 21:02:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538361061169 |
+| Players | 3/24 |
+| Host Name | Exprimón Limido |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 21:02:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538361086318 |
+| Players | 2/8 |
+| Host Name | Everything love is |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 21:02:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538355813840 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ✵CatPudge✵ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:57:35 |
