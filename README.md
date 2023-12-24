@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537936571063 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | 63 y.o. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:44:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537932504910 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | MrGrimm |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:37:21 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 12:43:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537931339241 |
-| Players | 1/24 |
-| Host Name | #VOLTA CHIMVOC - CHIMBAS NO DS |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, December 24, 2023 12:35:25 |
+| Lobby ID | 28576537936901851 |
+| Players | 4/10 |
+| Host Name | TiTaNKojo_Termine_La_Previa |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 12:44:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 12:44:34 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537936901851 |
-| Players | 2/10 |
-| Host Name | TiTaNKojo_Termine_La_Previa |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 12:44:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537937071086 |
-| Players | 1/8 |
-| Host Name | leyenda forever |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 12:44:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537934155481 |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537936771722 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | pola |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:44:26 |
