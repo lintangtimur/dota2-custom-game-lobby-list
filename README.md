@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537913836495 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | #VOLTA CHIMVOC - CHIMBAS NO DS |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 12:04:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537916917514 |
-| Players | 1/10 |
-| Host Name | KABAN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 12:10:21 |
+| Lobby ID | 28576537916634155 |
+| Players | 20/24 |
+| Host Name | [R][O][A][M] |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 12:09:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537915860865 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | groove crusader |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:08:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537916770855 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Makuno |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:10:06 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 12:09:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537916634155 |
-| Players | 15/24 |
-| Host Name | [R][O][A][M] |
+| Lobby ID | 28576537917439124 |
+| Players | 1/8 |
+| Host Name | YAUJA |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 12:09:51 |
+| Lobby Creation Time | Sunday, December 24, 2023 12:11:16 |
 
 
 |  | epic_boss_fight_nightmare |
