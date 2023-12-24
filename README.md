@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537905717038 |
-| Players | 22/24 |
-| Host Name | kangkong chips |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 11:50:11 |
+| Lobby ID | 28576537908268305 |
+| Players | 3/10 |
+| Host Name | DARWI |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 11:54:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537907086782 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Padoru |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 11:52:41 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 11:30:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537904736901 |
-| Players | 14/15 |
-| Host Name | Nate Diaz |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 11:48:22 |
+| Lobby ID | 28576537908530269 |
+| Players | 6/24 |
+| Host Name | manjiro sano |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 11:55:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 11:55:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537908268305 |
-| Players | 3/10 |
-| Host Name | DARWI |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 11:54:50 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537908530269 |
-| Players | 5/24 |
-| Host Name | manjiro sano |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 11:55:18 |
+| Lobby ID | 28576537909313526 |
+| Players | 1/24 |
+| Host Name | S |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 11:56:42 |
 
 
 |  | epic_boss_fight_normal |
