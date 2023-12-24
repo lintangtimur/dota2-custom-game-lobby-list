@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537883980293 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:09:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537885936479 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Bua9es |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:13:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537886654722 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | [BRG] Anzimer |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 11:14:39 |
@@ -40,20 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537886841200 |
-| Players | 2/10 |
-| Host Name | Grand Punjabi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 11:15:00 |
+| Lobby ID | 28576537886997486 |
+| Players | 1/10 |
+| Host Name | Pinky |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, December 24, 2023 11:15:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537886844547 |
-| Players | 1/24 |
-| Host Name | frankistein555 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 11:15:00 |
+| Lobby ID | 28576537886984251 |
+| Players | 2/10 |
+| Host Name | дибил |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 11:15:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537887046987 |
+| Players | 2/15 |
+| Host Name | 42 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 11:15:22 |
 
 
 |  | epic_boss_fight_nightmare |
