@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 13:56:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537983831128 |
-| Players | 4/8 |
-| Host Name | droyd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 13:57:03 |
+| Lobby ID | 28576537983813254 |
+| Players | 1/24 |
+| Host Name | CHOLITO DE CONO CON PLATA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 13:57:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537983735373 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Neko |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:56:55 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 13:56:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537983813254 |
-| Players | 1/24 |
-| Host Name | CHOLITO DE CONO CON PLATA |
+| Lobby ID | 28576537983940675 |
+| Players | 1/8 |
+| Host Name | ²¹Qυҽʂƚισɳʂ |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 13:57:02 |
+| Lobby Creation Time | Sunday, December 24, 2023 13:57:13 |
 
 
 |  | epic_boss_fight_normal |
