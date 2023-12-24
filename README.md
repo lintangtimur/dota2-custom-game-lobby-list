@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537962477148 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Rylai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:25:14 |
