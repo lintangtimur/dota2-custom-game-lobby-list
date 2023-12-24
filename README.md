@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 21:42:14 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538403179460 |
-| Players | 23/24 |
-| Host Name | losing streak |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:38:33 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538395924426 |
-| Players | 8/10 |
-| Host Name | aldairdiego2007 |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, December 24, 2023 21:32:14 |
+| Lobby ID | 28576538407610325 |
+| Players | 9/10 |
+| Host Name | Maru |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 21:42:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538407982402 |
+| Players | 6/15 |
+| Host Name | Адерен |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 21:42:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538407247048 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Danone |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 21:42:06 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ellie- |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:41:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538407610325 |
-| Players | 6/10 |
-| Host Name | Maru |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:42:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538407619703 |
-| Players | 10/15 |
-| Host Name | Клементина |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 21:42:26 |
 
 
 |  | epic_boss_fight_hard |
