@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537914201441 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | BenDeR ( SUPA HOT FIRE ) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:05:34 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WHAT XUXA FUE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:02:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537914947028 |
-| Players | 3/8 |
-| Host Name | молоток |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 12:06:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537915042280 |
-| Players | 2/8 |
-| Host Name | TS.larl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 12:07:02 |
 
 
 |  | epic_boss_fight_nightmare |
