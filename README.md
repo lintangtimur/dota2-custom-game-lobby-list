@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537910235329 |
-| Players | 5/24 |
-| Host Name | Hammer Billy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 11:58:24 |
+| Lobby ID | 28576537910711102 |
+| Players | 8/10 |
+| Host Name | peacewalker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 11:59:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537909436650 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:56:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537909341750 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:56:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537909647190 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | xzc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 11:57:18 |
@@ -59,25 +59,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537908530269 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 11:55:18 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576537911058128 |
+| Players | 1/10 |
+| Host Name | ShadowStorm |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 11:59:57 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537910377790 |
-| Players | 2/8 |
-| Host Name | moryaz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 11:58:40 |
+| Lobby ID | 28576537910994660 |
+| Players | 1/8 |
+| Host Name | Dereck Zoolander. |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 11:59:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537907998648 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | . Skye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:54:21 |
