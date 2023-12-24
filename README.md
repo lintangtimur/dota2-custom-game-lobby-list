@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538297984744 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Anj0 `-!FRD!-` |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 20:07:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538310120742 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Аф |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:17:56 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538310217382 |
-| Players | 1/15 |
-| Host Name | Томатный |
+| Players | 8/15 |
+| Host Name | yung tax return |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:18:01 |
 
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 20:13:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538309118558 |
-| Players | 9/10 |
-| Host Name | LIGHTWEIGHT BABY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 20:17:04 |
+| Lobby ID | 28576538309019909 |
+| Players | 2/24 |
+| Host Name | All Marmight |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:16:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 20:17:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538308877211 |
-| Players | 7/8 |
-| Host Name | pos 69 or feed |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:16:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538309019909 |
-| Players | 1/24 |
-| Host Name | All Marmight |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:16:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538310210750 |
@@ -90,5 +72,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sanny |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:18:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538310288619 |
+| Players | 1/8 |
+| Host Name | Ещё раз и я покака |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 20:18:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538310478802 |
+| Players | 1/10 |
+| Host Name | Томатный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 20:18:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538310403023 |
+| Players | 2/10 |
+| Host Name | karmageddon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 20:18:11 |
 
 
