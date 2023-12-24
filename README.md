@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538279320711 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | SyX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 19:50:16 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538286291742 |
-| Players | 9/24 |
+| Players | 16/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:56:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538287588357 |
-| Players | 2/15 |
-| Host Name | Teract |
+| Lobby ID | 28576538287966197 |
+| Players | 2/8 |
+| Host Name | c'est |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:57:49 |
+| Lobby Creation Time | Sunday, December 24, 2023 19:58:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538287600804 |
-| Players | 2/15 |
-| Host Name | oi |
+| Players | 1/15 |
+| Host Name | yung tax return |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 24, 2023 19:57:50 |
 
@@ -68,45 +68,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538287098987 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | |{yk0J|Д¥№ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:57:23 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538287778602 |
+| Players | 1/15 |
+| Host Name | Elinbarrage |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 19:58:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538287802410 |
+| Players | 2/10 |
+| Host Name | Виталя болты и га |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 19:58:01 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538287698556 |
-| Players | 5/8 |
-| Host Name | 狂热激战A-Rev.3 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Sunday, December 24, 2023 19:57:55 |
+| Lobby ID | 28576538287941062 |
+| Players | 1/8 |
+| Host Name | In the middle of nowhere |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:58:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538285197411 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | PeppaChan |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:55:39 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576538283824964 |
-| Players | 8/10 |
-| Host Name | takina inoue is not my wife |
+| Lobby ID | 28576538288045560 |
+| Players | 3/5 |
+| Host Name | мистер_чипсы |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:58:15 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576538287995985 |
+| Players | 2/7 |
+| Host Name | 想见你想见你想见你 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:54:25 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576538287703892 |
-| Players | 4/10 |
-| Host Name | 喵咪 咪！ |
-| Region | PWUNICOM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:57:56 |
+| Lobby Creation Time | Sunday, December 24, 2023 19:58:12 |
 
 
