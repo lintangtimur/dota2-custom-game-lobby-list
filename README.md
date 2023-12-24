@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538075710715 |
-| Players | 1/8 |
-| Host Name | ƒuke |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 16:00:39 |
+| Lobby ID | 28576538077660450 |
+| Players | 2/8 |
+| Host Name | shadow fiend romantik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 16:03:08 |
 
 
 |  | ot3_gardens_duo |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538077522385 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Turboslayer12 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:02:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538076964645 |
-| Players | 7/8 |
-| Host Name | Dua Lipa & Halsey <3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:02:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538077562178 |
-| Players | 2/10 |
-| Host Name | Loser |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 16:03:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 16:03:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538077562178 |
+| Players | 2/10 |
+| Host Name | Loser |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 16:03:01 |
 
 
 |  | epic_boss_fight_nightmare |
