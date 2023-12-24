@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537850501057 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:04:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537851380840 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | P a p o t i k o |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:05:47 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537851546146 |
+| Lobby ID | 28576537851617680 |
 | Players | 4/8 |
-| Host Name | KratØs |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:06:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537851609208 |
-| Players | 1/15 |
-| Host Name | 123 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:06:14 |
+| Host Name | OD PANDREX |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 10:06:15 |
 
 
 |  | epic_boss_fight_normal |
