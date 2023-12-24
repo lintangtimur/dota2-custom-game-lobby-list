@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538010223968 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Empty |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 14:34:50 |
@@ -47,40 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:31:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538008174489 |
-| Players | 23/24 |
-| Host Name | nakedave36 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:32:02 |
+| Lobby ID | 28576538011036892 |
+| Players | 4/15 |
+| Host Name | dzotyara |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 14:35:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538010548419 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | SoreX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:35:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538010434701 |
-| Players | 8/10 |
-| Host Name | после лоботомии |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 14:35:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538011036892 |
-| Players | 3/15 |
-| Host Name | dzotyara |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 14:35:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:35:03 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576538011106192 |
+| Players | 1/7 |
+| Host Name | WarlordCXN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:36:02 |
 
 
