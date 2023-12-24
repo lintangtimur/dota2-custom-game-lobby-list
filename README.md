@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537893708100 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | ASURA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:27:57 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537893436475 |
-| Players | 7/15 |
-| Host Name | MANHIET |
+| Players | 12/15 |
+| Host Name | [DMG]//3L_M4LTR4 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 11:27:25 |
 
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 11:27:44 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537891486010 |
-| Players | 23/24 |
-| Host Name | 食我大根 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 11:23:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537893769687 |
@@ -74,11 +65,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 11:28:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537894071120 |
+| Players | 3/8 |
+| Host Name | Tanari |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 11:28:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537891826946 |
+| Players | 14/15 |
+| Host Name | Smitty Werbenjägermanjensen |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 11:24:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537893431565 |
-| Players | 5/10 |
-| Host Name | Archon The Seven |
+| Players | 6/10 |
+| Host Name | Buy 1 take 2 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:27:24 |
 
