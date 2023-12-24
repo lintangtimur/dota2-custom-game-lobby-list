@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537821114414 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | FEDEA AHORA PUES PA REPORTARTE X |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:04:04 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537820901206 |
-| Players | 12/24 |
+| Players | 21/24 |
 | Host Name | ƒ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 09:03:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537820171213 |
-| Players | 14/15 |
-| Host Name | Laserpacer909 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 09:02:04 |
+| Lobby ID | 28576537821440863 |
+| Players | 1/10 |
+| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 09:04:46 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537821378712 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | якурюшадоудемона |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 09:04:38 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 09:04:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537821440863 |
-| Players | 1/10 |
-| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 09:04:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537818250382 |
-| Players | 9/10 |
-| Host Name | kanito |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 08:57:49 |
+| Lobby ID | 28576537821710559 |
+| Players | 1/15 |
+| Host Name | Perro chusco |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, December 24, 2023 09:05:20 |
 
 
 |  | epic_boss_fight_nightmare |
