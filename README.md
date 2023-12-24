@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538085726103 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:13:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538091802070 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ♦⪼beda⪻♦ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:21:01 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538091471825 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Porn addicted |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:20:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538091799489 |
-| Players | 1/15 |
-| Host Name | TOM-PIG |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 24, 2023 16:21:01 |
+| Lobby ID | 28576538091988235 |
+| Players | 1/24 |
+| Host Name | #frappuccino |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, December 24, 2023 16:21:15 |
 
 
 |  | epic_boss_fight_challenger |
@@ -113,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538091765808 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Robert |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:20:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538091942345 |
+| Players | 1/10 |
+| Host Name | Provion |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 16:21:12 |
 
 
