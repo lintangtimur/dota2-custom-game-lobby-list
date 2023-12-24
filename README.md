@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538298037865 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | X-ART |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:07:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538305616385 |
-| Players | 1/24 |
-| Host Name | ЧВК " Кузя Лакомка |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 24, 2023 20:14:01 |
+| Lobby ID | 28576538306691782 |
+| Players | 11/15 |
+| Host Name | .tv/VulgarDotes |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:14:57 |
 
 
 |  | ot3_gardens_duo |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 20:12:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538305762757 |
-| Players | 5/10 |
-| Host Name | Mad™ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 20:14:09 |
+| Lobby ID | 28576538307004850 |
+| Players | 1/15 |
+| Host Name | Renegade |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:15:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538305627028 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Patron |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:14:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538305906391 |
-| Players | 3/24 |
+| Players | 10/24 |
 | Host Name | September 11th |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:14:16 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | РУБИЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:14:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538307041007 |
+| Players | 5/8 |
+| Host Name | 狂热激战A-Rev.3 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Sunday, December 24, 2023 20:15:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538306938553 |
+| Players | 1/10 |
+| Host Name | Zel? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:15:10 |
 
 
