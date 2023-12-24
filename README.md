@@ -5,37 +5,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537893698931 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | VISHTACK BORN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:27:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537893016946 |
-| Players | 9/10 |
-| Host Name | Raiden Shogun (Ei) |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 11:26:36 |
+| Lobby ID | 28576537894071120 |
+| Players | 1/8 |
+| Host Name | ♥ ради нее ♥ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 11:28:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537893708100 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | ASURA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:27:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537893436475 |
-| Players | 13/15 |
-| Host Name | [DMG]//3L_M4LTR4 |
+| Lobby ID | 28576537894394946 |
+| Players | 5/10 |
+| Host Name | ali.icelook-viet |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 11:27:25 |
+| Lobby Creation Time | Sunday, December 24, 2023 11:29:20 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537893596893 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Homicídio |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 11:27:44 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Smitty Werbenjägermanjensen |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:24:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537894071120 |
-| Players | 3/8 |
-| Host Name | Tanari |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 11:28:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537894394946 |
-| Players | 2/10 |
-| Host Name | ali.icelook-viet |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 11:29:20 |
 
 
 |  | epic_boss_fight_nightmare |
