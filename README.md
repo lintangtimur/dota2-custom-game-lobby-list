@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538204235019 |
-| Players | 6/8 |
-| Host Name | not quite my tempo |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 18:36:33 |
+| Lobby ID | 28576538205012791 |
+| Players | 2/8 |
+| Host Name | 5 Pos(ral) |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 18:37:23 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 18:35:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538202437031 |
-| Players | 23/24 |
-| Host Name | 노루 noru 노루 noru 노루 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 18:34:39 |
+| Lobby ID | 28576538204517352 |
+| Players | 8/15 |
+| Host Name | 綾小路 清隆 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 18:36:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538198921606 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 24, 2023 18:30:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538204322322 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | EBRam |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 24, 2023 18:36:39 |
@@ -74,28 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 18:35:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538204517352 |
-| Players | 3/15 |
-| Host Name | 綾小路 清隆 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 18:36:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538204674785 |
-| Players | 8/10 |
-| Host Name | Зефирка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:37:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538204218702 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 18:36:32 |
