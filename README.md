@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537865714704 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Raptor |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 10:34:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537863624097 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | MD. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:30:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537865944857 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | EMANS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:34:45 |
@@ -67,10 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576537866099296 |
-| Players | 2/5 |
+| Lobby ID | 28576537866195730 |
+| Players | 1/5 |
 | Host Name | Be Humble |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 10:35:03 |
+| Lobby Creation Time | Sunday, December 24, 2023 10:35:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537866203796 |
+| Players | 1/10 |
+| Host Name | Sakata Gintoki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 10:35:15 |
 
 
