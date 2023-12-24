@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538160936092 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:47:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538162671062 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | мистер мораль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:49:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538162609750 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:49:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538161529006 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | в 24 выйду по удо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:48:30 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538162653388 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | ROAD TO BROKE BARISTA))999))) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:49:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538162837525 |
+| Players | 1/15 |
+| Host Name | David.Mu |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 24, 2023 17:50:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538162677612 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 山上徹也 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:49:52 |
