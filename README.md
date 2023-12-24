@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537918166826 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | ArrOw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:12:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537918535872 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Bubblicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:13:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537915860865 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | groove crusader |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:08:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537918653139 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Nickush |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:13:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537919445835 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Suport |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:14:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537920112310 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Legatoro |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:15:52 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537920084622 |
+| Lobby ID | 28576537920231836 |
 | Players | 1/8 |
 | Host Name | Retwer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 12:15:49 |
+| Lobby Creation Time | Sunday, December 24, 2023 12:16:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537920371965 |
+| Players | 1/15 |
+| Host Name | WissalMakélélé |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 12:16:19 |
 
 
 |  | epic_boss_fight_nightmare |
