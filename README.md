@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537932455022 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Conor McGregor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:37:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537932053242 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | DJ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:36:36 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537933633673 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:39:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537934212767 |
-| Players | 1/15 |
-| Host Name | Delicia |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 12:40:10 |
+| Lobby ID | 28576537934330517 |
+| Players | 2/24 |
+| Host Name | 123456 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 12:40:22 |
 
 
 |  | epic_boss_fight_nightmare |
