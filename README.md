@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538043024572 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Cago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 15:18:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538041891436 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Triki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:17:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538034155338 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | NAOL NALANG |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 24, 2023 15:07:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538042803020 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 15:18:23 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538042944476 |
-| Players | 2/24 |
-| Host Name | Солпадеїн Пасив |
+| Players | 1/24 |
+| Host Name | kBechon |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:18:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538043318265 |
+| Players | 1/10 |
+| Host Name | Swap commends |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 15:19:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538040360753 |
+| Players | 8/8 |
+| Host Name | DARKW1NG |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 15:15:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538043444549 |
+| Players | 3/8 |
+| Host Name | Ramen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 15:19:13 |
 
 
 |  | epic_boss_fight_normal |
