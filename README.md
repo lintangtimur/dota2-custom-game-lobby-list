@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537862783529 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Veni, Vidi, Vici |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:28:23 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537856454765 |
-| Players | 6/10 |
-| Host Name | Pinky |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, December 24, 2023 10:15:38 |
+| Lobby ID | 28576537863099366 |
+| Players | 2/10 |
+| Host Name | TOGA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 10:29:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537862963025 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | piopio |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:28:47 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 10:28:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537863099366 |
-| Players | 2/10 |
-| Host Name | TOGA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:29:04 |
+| Lobby ID | 28576537863315125 |
+| Players | 1/8 |
+| Host Name | MIYACOLAMI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 10:29:31 |
 
 
 |  | epic_boss_fight_nightmare |
