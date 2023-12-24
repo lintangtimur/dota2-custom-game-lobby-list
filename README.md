@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537841374751 |
-| Players | 8/10 |
-| Host Name | Pumzeira |
+| Lobby ID | 28576537842341386 |
+| Players | 4/24 |
+| Host Name | Lolo |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 09:45:38 |
+| Lobby Creation Time | Sunday, December 24, 2023 09:47:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537841926156 |
-| Players | 7/8 |
-| Host Name | Waffle |
+| Lobby ID | 28576537842261745 |
+| Players | 8/15 |
+| Host Name | ndt |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 09:46:44 |
+| Lobby Creation Time | Sunday, December 24, 2023 09:47:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537841812014 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Bitch, I'm Already Dead |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 09:46:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537842261745 |
-| Players | 6/15 |
-| Host Name | mom said dont make you name aggr |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 09:47:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537842341386 |
-| Players | 3/24 |
-| Host Name | Lolo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 09:47:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537841291534 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 123456789123456789 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:45:28 |
