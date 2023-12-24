@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:58:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538028043023 |
-| Players | 1/24 |
-| Host Name | Дауби Даубиев |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:59:00 |
+| Lobby ID | 28576538028850575 |
+| Players | 1/15 |
+| Host Name | владиславово |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 15:00:09 |
 
 
 |  | ot3_gardens_duo |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LOLILOLILOLILOLILOLI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:59:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538027966435 |
-| Players | 9/15 |
-| Host Name | sadaitada |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:58:54 |
 
 
 |  | epic_boss_fight_nightmare |
