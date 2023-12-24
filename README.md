@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538386111148 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Sundance |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:23:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538363931290 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Stewie6k |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:04:37 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 21:23:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538386398446 |
-| Players | 7/8 |
-| Host Name | RagE |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:23:54 |
+| Lobby ID | 28576538387017613 |
+| Players | 14/15 |
+| Host Name | Nova-47 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 21:24:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538377088395 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 21:15:53 |
@@ -110,31 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 21:21:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538385672269 |
-| Players | 5/8 |
-| Host Name | Ivan |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 21:23:17 |
+| Lobby ID | 28576538385982336 |
+| Players | 4/10 |
+| Host Name | avtorje |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 21:23:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538387018837 |
-| Players | 1/15 |
-| Host Name | ’Mr . Big |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 24, 2023 21:24:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538387032885 |
-| Players | 2/8 |
-| Host Name | Балгарин эщ эщ эщ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:24:27 |
+| Lobby ID | 28576538387218705 |
+| Players | 2/10 |
+| Host Name | worst player |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 21:24:36 |
 
 
 |  | epic_boss_fight_nightmare |
