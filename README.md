@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537901464866 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Kamikaze |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:42:22 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537895359642 |
-| Players | 5/15 |
-| Host Name | "vopros v chat???" ^^ Sk1per |
+| Players | 2/15 |
+| Host Name | websites |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 24, 2023 11:31:10 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537901397819 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | HALLELUJA |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 11:42:15 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537900667932 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Жаби Жаби |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 11:40:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537902002735 |
+| Players | 2/15 |
+| Host Name | PC_PS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 11:43:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537900797874 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | ^3leVel_Psi-x |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 11:41:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576537901850974 |
+| Players | 1/5 |
+| Host Name | max.timofey2012 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 11:43:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537902008295 |
+| Players | 1/10 |
+| Host Name | Poseidon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 11:43:22 |
 
 
