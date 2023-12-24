@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538196212323 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | losing streak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:27:53 |
@@ -50,43 +50,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538196063535 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | _ZIMEN_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 18:27:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538196346457 |
-| Players | 3/8 |
-| Host Name | refresher orb |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:28:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538196284827 |
-| Players | 1/15 |
-| Host Name | Leonidas |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 24, 2023 18:27:58 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538196319220 |
-| Players | 2/15 |
+| Players | 13/15 |
 | Host Name | БАРБИТУРНЫЙ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:28:00 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538196451607 |
+| Players | 1/10 |
+| Host Name | Ой-ой-ой |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 18:28:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538196543858 |
+| Players | 3/15 |
+| Host Name | Leonidas |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 18:28:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538196581872 |
+| Players | 3/8 |
+| Host Name | onzovert |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 18:28:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538196559389 |
+| Players | 3/8 |
+| Host Name | Ferguson♥ |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, December 24, 2023 18:28:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538195612525 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | No Hesi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:27:14 |
