@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538482187081 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | twitch.tv/thejesuuss |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 22:51:15 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538481603366 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Mr. HDHQ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 22:50:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538484415903 |
-| Players | 5/8 |
-| Host Name | 《Ari♡Di Mano》 |
+| Lobby ID | 28576538484552471 |
+| Players | 6/15 |
+| Host Name | don’t kill my vibe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 22:53:22 |
+| Lobby Creation Time | Sunday, December 24, 2023 22:53:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538481607999 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ח |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 22:50:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538468788683 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Griffen801 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 22:38:29 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:51:07 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538482265500 |
-| Players | 22/24 |
-| Host Name | Tamiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:51:19 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538484231554 |
@@ -92,19 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:53:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538483459768 |
-| Players | 8/10 |
-| Host Name | BIG DICK |
+| Lobby ID | 28576538484666018 |
+| Players | 1/8 |
+| Host Name | ФРИДРИХ НИЦШЕ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 22:52:28 |
+| Lobby Creation Time | Sunday, December 24, 2023 22:53:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538484694987 |
+| Players | 2/8 |
+| Host Name | 病気の頭 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 22:53:38 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576538482995443 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | Connie Lingus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:52:01 |
