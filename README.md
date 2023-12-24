@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537844252987 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:51:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537845165764 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | top77 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 09:53:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537841190705 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Zynkope |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, December 24, 2023 09:45:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537845306373 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | inearth |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:53:35 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576537845156930 |
 | Players | 2/24 |
-| Host Name | Chapulin decorado |
+| Host Name | PIPHELS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 09:53:17 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537845473506 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Aña aña :v |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 09:53:55 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537845527118 |
-| Players | 1/10 |
-| Host Name | Leite |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, December 24, 2023 09:54:01 |
+| Lobby ID | 28576537845534928 |
+| Players | 2/10 |
+| Host Name | enemyenemyenemy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 09:54:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537845609580 |
+| Players | 1/8 |
+| Host Name | Ya ya mijo ya |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 09:54:11 |
 
 
 |  | epic_boss_fight_nightmare |
