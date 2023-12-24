@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538002763049 |
-| Players | 4/8 |
-| Host Name | niuniuniuniuniu |
+| Players | 3/8 |
+| Host Name | <{SAM S!CK}> |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 14:24:20 |
 
@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:25:06 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538003452534 |
+| Players | 3/8 |
+| Host Name | bastyrmator |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:25:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537995720486 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | crestfallen |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:14:23 |
