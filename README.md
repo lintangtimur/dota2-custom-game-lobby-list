@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538170880960 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Man NOT HOT ! never HoT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:59:33 |
@@ -49,29 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538172726790 |
-| Players | 8/15 |
-| Host Name | Hentacle Tentai |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 18:01:46 |
+| Lobby ID | 28576538173389948 |
+| Players | 1/15 |
+| Host Name | Andruz |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, December 24, 2023 18:02:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538172861886 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Chech |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 18:01:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538173260974 |
-| Players | 1/8 |
-| Host Name | nemraz_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:02:23 |
 
 
 |  | epic_boss_fight_nightmare |
