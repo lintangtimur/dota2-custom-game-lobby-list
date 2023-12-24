@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538152642842 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | PLAYER PMA 🦁 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 17:37:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538152572513 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | NEGIBATOR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:37:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538148344755 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | arhikent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:32:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538151687245 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Ако |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:36:42 |
@@ -59,17 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538152769875 |
-| Players | 2/15 |
-| Host Name | I hate life |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:38:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538152772990 |
 | Players | 1/15 |
-| Host Name | Shem-ha-Mephorash |
+| Host Name | daun_2003 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:38:01 |
 
