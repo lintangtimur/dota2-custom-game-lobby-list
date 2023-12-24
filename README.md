@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538171756605 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | 通过痛苦和磨难 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 18:00:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538170073557 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Banker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:58:35 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576538168903928 |
 | Players | 16/24 |
-| Host Name | otGod. |
+| Host Name | Mode: Sonichu Afterdark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:57:12 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538172240883 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | k02 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:01:11 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538172460388 |
+| Lobby ID | 28576538172572312 |
 | Players | 1/15 |
 | Host Name | Andruz |
 | Region | BRAZIL |
-| Lobby Creation Time | Sunday, December 24, 2023 18:01:27 |
+| Lobby Creation Time | Sunday, December 24, 2023 18:01:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538172636609 |
+| Players | 3/8 |
+| Host Name | Старичок Скуфачо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 18:01:39 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538171997662 |
-| Players | 2/10 |
-| Host Name | 大哥打野音信全无 |
+| Players | 1/10 |
+| Host Name | MI553RY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:00:54 |
 
