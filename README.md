@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537975678230 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | サイバーサイコシス |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:45:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537970270052 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ƒuke |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:37:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537963863755 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | prostieslitraxnul |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:27:21 |
@@ -50,19 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537976224010 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | its been 12 years |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:45:51 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537974525693 |
-| Players | 9/10 |
-| Host Name | pepega |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 13:43:23 |
+| Lobby ID | 28576537976399027 |
+| Players | 1/15 |
+| Host Name | KertAmbrose |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 24, 2023 13:46:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537976506765 |
+| Players | 1/15 |
+| Host Name | R0alo21 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 13:46:17 |
 
 
 |  | epic_boss_fight_nightmare |
