@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538317718892 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:24:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538319289486 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | shadxkyo |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:25:51 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 20:25:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538318667922 |
-| Players | 14/15 |
-| Host Name | denisdesol' |
+| Lobby ID | 28576538318868110 |
+| Players | 7/10 |
+| Host Name | //////////////////////////////// |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:25:19 |
+| Lobby Creation Time | Sunday, December 24, 2023 20:25:29 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 20:25:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538318868110 |
-| Players | 7/10 |
-| Host Name | //////////////////////////////// |
+| Lobby ID | 28576538319801540 |
+| Players | 3/15 |
+| Host Name | ervaaymn |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:25:29 |
+| Lobby Creation Time | Sunday, December 24, 2023 20:26:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538319788224 |
+| Players | 1/15 |
+| Host Name | S1DIDoma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 20:26:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538319839292 |
+| Players | 2/8 |
+| Host Name | Geneva146 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 20:26:20 |
 
 
 |  | epic_boss_fight_nightmare |
