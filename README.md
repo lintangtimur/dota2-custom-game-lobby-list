@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537942684812 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | EROS |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:54:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537939761017 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Cobblepot |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:49:21 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537939365619 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Abril te extraño regresa :c |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:48:42 |
