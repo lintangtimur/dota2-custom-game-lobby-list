@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538001465628 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | 구문룡 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:22:31 |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:33:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538013808292 |
-| Players | 7/10 |
-| Host Name | ЛД через кокаин |
+| Lobby ID | 28576538014925595 |
+| Players | 2/15 |
+| Host Name | D[3]VILISH |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:41:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538014888824 |
+| Players | 4/8 |
+| Host Name | неформал |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 14:39:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538011662363 |
-| Players | 23/24 |
-| Host Name | frankie ocean @_@@@ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:36:48 |
+| Lobby Creation Time | Sunday, December 24, 2023 14:41:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:40:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538014809307 |
-| Players | 1/15 |
-| Host Name | D[3]VILISH |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:41:07 |
+| Lobby ID | 28576538014961243 |
+| Players | 3/24 |
+| Host Name | 浮数 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 14:41:20 |
 
 
 |  | epic_boss_fight_nightmare |
