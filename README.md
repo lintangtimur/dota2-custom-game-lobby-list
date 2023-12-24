@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 18:26:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538194823702 |
-| Players | 13/15 |
-| Host Name | UCHIHA DROW |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:26:22 |
+| Lobby ID | 28576538195535562 |
+| Players | 1/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 18:27:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538190568053 |
-| Players | 3/8 |
-| Host Name | OLTUGA |
+| Players | 1/8 |
+| Host Name | паришь?нет англия |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, December 24, 2023 18:21:43 |
 
@@ -50,19 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538195182516 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Boom! Headshot! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 18:26:46 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538195070121 |
-| Players | 2/5 |
-| Host Name | MASSIMO |
+| Lobby ID | 28576538195562001 |
+| Players | 6/15 |
+| Host Name | lonnyB |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:26:38 |
+| Lobby Creation Time | Sunday, December 24, 2023 18:27:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538195612525 |
+| Players | 2/10 |
+| Host Name | No Hesi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 18:27:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | дикий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 18:25:08 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28576538195481794 |
-| Players | 1/7 |
-| Host Name | Lavender |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 18:27:05 |
 
 
