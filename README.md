@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538042944476 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Cemka |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:18:34 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538052445598 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ƒuke |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 15:30:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538058240665 |
-| Players | 6/8 |
-| Host Name | Neoxa محمد سومبول |
+| Lobby ID | 28576538058872265 |
+| Players | 9/15 |
+| Host Name | 𒉭 Чёрный мечник |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:38:19 |
+| Lobby Creation Time | Sunday, December 24, 2023 15:39:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538051362085 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | bangali |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:29:28 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538057496487 |
+| Lobby ID | 28576538058901552 |
 | Players | 1/24 |
 | Host Name | roswel |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 15:37:22 |
+| Lobby Creation Time | Sunday, December 24, 2023 15:39:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538057975743 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | porn for every day |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 15:37:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538050582766 |
-| Players | 22/24 |
-| Host Name | Classy sky |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 15:28:26 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538057696071 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 15:37:37 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28576538058584718 |
-| Players | 1/7 |
-| Host Name | Stammy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 15:38:45 |
 
 
