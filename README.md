@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 01:25:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538634185872 |
-| Players | 9/10 |
-| Host Name | John Doe |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 01:27:03 |
+| Lobby ID | 28576538634560294 |
+| Players | 14/24 |
+| Host Name | ... |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 01:27:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538632546118 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Vicioso |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 01:25:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538634899090 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | bespalyy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 01:27:50 |
@@ -101,40 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 01:23:41 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538634560294 |
-| Players | 13/24 |
-| Host Name | ... |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 01:27:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538634893265 |
-| Players | 4/8 |
-| Host Name | Ты Нарекай |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 01:27:50 |
+| Lobby ID | 28576538635373145 |
+| Players | 1/8 |
+| Host Name | raiver |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 01:28:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538628884926 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Amazon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 01:21:19 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576538634337962 |
-| Players | 1/7 |
-| Host Name | kimioroki |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 01:27:13 |
 
 
 |  | epic_boss_fight_nightmare |
