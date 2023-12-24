@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538466238160 |
-| Players | 2/8 |
-| Host Name | Hi |
+| Players | 1/8 |
+| Host Name | 静 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:36:06 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538466627699 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Reiz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 22:36:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538463410968 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Romando |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 22:33:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538468691606 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | NURAYA |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:38:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538468175517 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | SSK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:37:55 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538468555284 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Biborten! |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:38:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538468788683 |
+| Players | 2/15 |
+| Host Name | GloveBox |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, December 24, 2023 22:38:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538468891271 |
+| Players | 1/15 |
+| Host Name | ァテemotionlessテァ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 22:38:35 |
 
 
 |  | epic_boss_fight_nightmare |
