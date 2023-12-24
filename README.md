@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 21:56:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538426198314 |
-| Players | 8/10 |
-| Host Name | picture of sophisticated grace |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:59:07 |
+| Lobby ID | 28576538426460070 |
+| Players | 5/8 |
+| Host Name | Fufel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 21:59:22 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538411132598 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 21:45:32 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 21:51:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538426089278 |
-| Players | 7/8 |
-| Host Name | Everything Is Fine |
+| Lobby ID | 28576538426360904 |
+| Players | 5/15 |
+| Host Name | mr masturbist |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:59:01 |
+| Lobby Creation Time | Sunday, December 24, 2023 21:59:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,55 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538426366573 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:59:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538426362815 |
-| Players | 1/15 |
-| Host Name | Компик41 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 21:59:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538426360904 |
-| Players | 1/15 |
-| Host Name | mr masturbist |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:59:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538426396009 |
-| Players | 2/8 |
-| Host Name | Nick_98 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 21:59:18 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576538424094031 |
-| Players | 8/10 |
-| Host Name | TORNADOOOOOOOOOOOOOOOOOOO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:57:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538422692141 |
-| Players | 2/5 |
-| Host Name | VeTeR0K |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:55:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -153,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:57:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538422692141 |
+| Players | 3/5 |
+| Host Name | VeTeR0K |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 21:55:54 |
 
 
