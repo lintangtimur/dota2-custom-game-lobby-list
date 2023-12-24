@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538508036085 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | RZcat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:16:24 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538507433325 |
-| Players | 5/8 |
-| Host Name | ВЫЖИВАЛОВО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:15:48 |
+| Lobby ID | 28576538504677575 |
+| Players | 7/8 |
+| Host Name | POPULAR FORCE |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 23:13:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538506742637 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | Tempeste |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:15:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538506201577 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Noir |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 23:14:36 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:12:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538508079113 |
-| Players | 1/15 |
-| Host Name | СЛОВО ПУДЖАНА |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 23:16:26 |
+| Lobby ID | 28576538508007249 |
+| Players | 1/8 |
+| Host Name | 1nonly |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 23:16:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -155,37 +155,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:15:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538501816147 |
-| Players | 14/15 |
-| Host Name | DGL |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 23:10:21 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538504677575 |
-| Players | 7/8 |
-| Host Name | POPULAR FORCE |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 23:13:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538508007249 |
+| Lobby ID | 28576538508251041 |
 | Players | 1/8 |
-| Host Name | 1nonly |
+| Host Name | zxcperdesh |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:16:22 |
+| Lobby Creation Time | Sunday, December 24, 2023 23:16:36 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538505642973 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Gandy |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:14:03 |
