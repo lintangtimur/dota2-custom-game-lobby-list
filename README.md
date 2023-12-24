@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537828301794 |
-| Players | 6/8 |
-| Host Name | Джи Оу Ди |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 09:19:00 |
+| Lobby ID | 28576537829628557 |
+| Players | 5/15 |
+| Host Name | дудук |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 09:21:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537827354296 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:17:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537828885670 |
-| Players | 11/24 |
+| Players | 19/24 |
 | Host Name | di7 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 09:20:13 |
@@ -32,63 +32,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537829086978 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Twitch.tv/ElGuapo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 09:20:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537828886889 |
-| Players | 12/15 |
-| Host Name | Добрый шлепа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 09:20:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537827886764 |
-| Players | 9/10 |
-| Host Name | LIsaybron(Tinkoff PRO) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 09:18:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537829058053 |
-| Players | 1/10 |
-| Host Name | русский |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 09:20:34 |
+| Lobby ID | 28576537829701758 |
+| Players | 1/24 |
+| Host Name | Taktloss |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 09:21:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537829322752 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | π |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 09:21:07 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576537825998745 |
-| Players | 8/10 |
-| Host Name | Baroco |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 09:14:20 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576537827233763 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 5 cm Savage |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 09:16:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537829573359 |
+| Players | 3/10 |
+| Host Name | CAPYBARA CAPYBARA CAPYBARA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 09:21:38 |
 
 
