@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538449591392 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | EddyM |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 22:20:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538443401859 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 22:14:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538449204519 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Tom |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 22:20:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538451751785 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Barmaley |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 22:22:30 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:18:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538451469759 |
-| Players | 1/24 |
-| Host Name | Floydddddd |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, December 24, 2023 22:22:14 |
+| Lobby ID | 28576538452364338 |
+| Players | 3/8 |
+| Host Name | цыфорки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 22:23:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538451853392 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Pubo999 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:22:35 |
@@ -119,10 +119,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:22:40 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538452373712 |
+| Players | 1/8 |
+| Host Name | POPSON(Podpivasgaming)Гойда |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 22:23:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538452421055 |
+| Players | 3/8 |
+| Host Name | Люда подпивасник |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 22:23:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538452454342 |
+| Players | 3/8 |
+| Host Name | ПОРНОАРТЁМ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 22:23:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538450193387 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Dobro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 22:21:03 |
