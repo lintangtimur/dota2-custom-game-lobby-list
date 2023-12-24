@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537980475597 |
-| Players | 22/24 |
-| Host Name | Hero |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 13:52:08 |
+| Lobby ID | 28576537973438784 |
+| Players | 23/24 |
+| Host Name | < blank > |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 13:41:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537982294311 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Soaring Phoenix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:54:49 |
@@ -29,28 +29,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 13:53:28 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537982939169 |
+| Players | 4/15 |
+| Host Name | SchoonerBelli |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, December 24, 2023 13:55:45 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537973438784 |
-| Players | 19/24 |
-| Host Name | < blank > |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 13:41:48 |
+| Lobby ID | 28576537982978844 |
+| Players | 2/24 |
+| Host Name | yuki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 13:55:49 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537978519067 |
-| Players | 8/10 |
-| Host Name | crestfallen |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 13:49:15 |
+| Lobby ID | 28576537983054611 |
+| Players | 1/8 |
+| Host Name | B|O|O|M |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 13:55:55 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576537978509383 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | SUSi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:49:14 |
