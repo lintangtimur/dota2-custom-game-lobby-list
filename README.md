@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537878050702 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | fodac |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 10:58:05 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537877278524 |
-| Players | 8/10 |
+| Players | 4/10 |
 | Host Name | Enjoy dota, enjoy |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 10:56:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537876115796 |
-| Players | 23/24 |
-| Host Name | ♪KEMPER♪ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 10:54:20 |
 
 
 |  | ot3_jungle_quintet |
