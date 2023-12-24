@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538078383708 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:04:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538083181939 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | хозяин четырех ебаных клопов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:10:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538079729436 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:05:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538082682022 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Апельсин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:09:29 |
@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 16:10:40 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538080050378 |
+| Players | 10/10 |
+| Host Name | Vito Spagetti |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 16:06:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538070110789 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Eddie.Lin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, December 24, 2023 15:53:27 |
@@ -103,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576538083872397 |
+| Lobby ID | 28576538084003569 |
 | Players | 1/5 |
 | Host Name | ReZkiY  XoM9J4OK |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 16:11:00 |
+| Lobby Creation Time | Sunday, December 24, 2023 16:11:10 |
 
 
