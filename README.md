@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538574981156 |
-| Players | 9/10 |
-| Host Name | Shearinex |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 00:24:13 |
+| Lobby ID | 28576538579659257 |
+| Players | 1/15 |
+| Host Name | zxc4otutnapisat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 00:29:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538577412566 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | єгг๏._. |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:26:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538573103707 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 戯作 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 00:22:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538570684576 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:19:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538579520760 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Любава |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 00:28:57 |
@@ -101,10 +101,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 00:28:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538579647910 |
+| Players | 9/15 |
+| Host Name | flipper |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 00:29:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538579752086 |
+| Players | 1/10 |
+| Host Name | VJ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 00:29:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538567146350 |
+| Players | 23/24 |
+| Host Name | 1k Mycop |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 00:16:08 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576538573890279 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ♛ H z w a p |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 00:23:04 |
