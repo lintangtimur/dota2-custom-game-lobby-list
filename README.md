@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537954265670 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Teddy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:12:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537953809272 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | леди баг [Ɐ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:11:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537954231295 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | moryaz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 13:12:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576537950448622 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | MadLad |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:06:35 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Estocada |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:13:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576537955350755 |
+| Players | 1/10 |
+| Host Name | Mawen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 13:14:12 |
 
 
