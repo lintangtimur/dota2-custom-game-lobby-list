@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537983813254 |
-| Players | 23/24 |
-| Host Name | CHOLITO DE CONO CON PLATA |
+| Lobby ID | 28576537983779555 |
+| Players | 1/24 |
+| Host Name | TiltedGuy |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 13:57:02 |
+| Lobby Creation Time | Sunday, December 24, 2023 13:56:59 |
 
 
 |  | ot3_gardens_duo |
@@ -29,19 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 13:59:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576537983779555 |
-| Players | 1/24 |
-| Host Name | TiltedGuy |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 13:56:59 |
+| Lobby ID | 28576537986164086 |
+| Players | 5/15 |
+| Host Name | шмон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 14:00:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576537986269964 |
+| Players | 3/8 |
+| Host Name | 😈 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 14:00:44 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576537985412521 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | MadLad |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:59:26 |
@@ -56,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 14:00:19 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576537986011460 |
-| Players | 1/5 |
-| Host Name | telelet telelet wawayot |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 14:00:20 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537986008539 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Cumslinger |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 14:00:20 |
