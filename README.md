@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538333075350 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Солевоин |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:37:51 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538332293055 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:37:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538332435455 |
-| Players | 7/10 |
-| Host Name | Gliknot |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 20:37:18 |
+| Lobby ID | 28576538333699887 |
+| Players | 1/24 |
+| Host Name | @PepeDota #RD |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 20:38:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,29 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538320924532 |
-| Players | 23/24 |
-| Host Name | void |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 20:27:17 |
+| Lobby ID | 28576538315390860 |
+| Players | 21/24 |
+| Host Name | Snow |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 20:22:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538333612089 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Мусораб Ляди |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 20:38:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538333699887 |
-| Players | 1/24 |
-| Host Name | @PepeDota #RD |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 20:38:24 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Amy |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 20:38:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538333912481 |
+| Players | 1/10 |
+| Host Name | Little_pRinceSs |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 20:38:35 |
 
 
