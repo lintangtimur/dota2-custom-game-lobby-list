@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538702292789 |
-| Players | 8/10 |
-| Host Name | fedea_ctmr |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 02:44:30 |
+| Lobby ID | 28576538703665411 |
+| Players | 3/10 |
+| Host Name | USDA_Prime |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 02:46:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538699392808 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 02:41:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538703644945 |
-| Players | 5/15 |
-| Host Name | Ioan |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 02:46:07 |
+| Lobby ID | 28576538703495163 |
+| Players | 4/8 |
+| Host Name | Makanaky La Realeza |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 02:45:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538703509001 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | бухуасик |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 02:45:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538703527044 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | pompa pis'ka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 02:45:58 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:45:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538702135918 |
-| Players | 13/15 |
-| Host Name | seth rollins |
+| Lobby ID | 28576538703917347 |
+| Players | 3/10 |
+| Host Name | JHOANO |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 02:44:18 |
+| Lobby Creation Time | Monday, December 25, 2023 02:46:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538702421589 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | 変 態 教 授 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:44:39 |
@@ -110,31 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 02:45:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538703495163 |
-| Players | 2/8 |
-| Host Name | Makanaky La Realeza |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 02:45:56 |
+| Lobby ID | 28576538704030133 |
+| Players | 8/15 |
+| Host Name | rockw0w |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 02:46:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538703665411 |
-| Players | 2/10 |
-| Host Name | USDA_Prime |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 02:46:08 |
+| Lobby ID | 28576538704063483 |
+| Players | 7/10 |
+| Host Name | Сосать Хуевротов |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 02:46:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538692523226 |
-| Players | 23/24 |
-| Host Name | ♂EL CAMPER GANDALFS♂ |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 25, 2023 02:32:57 |
+| Lobby ID | 28576538704204692 |
+| Players | 5/15 |
+| Host Name | Xibalba |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 02:46:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Han |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 02:46:01 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576538703990793 |
+| Players | 4/7 |
+| Host Name | SUPERNATURAL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 02:46:32 |
 
 
