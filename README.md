@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538547289462 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | JHON |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 23:55:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538544947214 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | romchyg |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:53:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538531456866 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:39:47 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538548140512 |
-| Players | 1/10 |
-| Host Name | . |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 24, 2023 23:56:40 |
+| Lobby ID | 28576538542860359 |
+| Players | 5/10 |
+| Host Name | ataraxia |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, December 24, 2023 23:51:18 |
 
 
 |  | ot3_gardens_duo |
@@ -83,85 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:54:45 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538546584753 |
-| Players | 12/15 |
-| Host Name | Da Butchar |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 23:55:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538547727293 |
-| Players | 4/8 |
-| Host Name | rvvse |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:56:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538547789477 |
-| Players | 7/8 |
-| Host Name | Matthew McConaughey |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:56:18 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538547796008 |
+| Lobby ID | 28576538548618039 |
 | Players | 8/10 |
-| Host Name | я |
+| Host Name | Leaker Jokes |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:56:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538548228797 |
-| Players | 3/8 |
-| Host Name | NeverGiveUp |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 23:56:45 |
+| Lobby Creation Time | Sunday, December 24, 2023 23:57:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538548039708 |
-| Players | 4/15 |
-| Host Name | woof |
+| Lobby ID | 28576538548802234 |
+| Players | 2/15 |
+| Host Name | About a girl |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:57:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538547024845 |
+| Players | 3/8 |
+| Host Name | klowzzz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:56:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538542860359 |
-| Players | 7/10 |
-| Host Name | ataraxia |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, December 24, 2023 23:51:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538546911043 |
-| Players | 1/5 |
-| Host Name | Hunt Hoe-Down |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, December 24, 2023 23:55:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576538540679120 |
-| Players | 9/10 |
-| Host Name | Aria |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 23:49:05 |
+| Lobby Creation Time | Sunday, December 24, 2023 23:55:31 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -171,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | アイ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 23:56:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538548595261 |
+| Players | 1/5 |
+| Host Name | Hunt Hoe-Down |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, December 24, 2023 23:57:07 |
 
 
