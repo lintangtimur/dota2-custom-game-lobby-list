@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538706911685 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:50:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538710975498 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | 》》JhonnyAp《《 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:54:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538708298860 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | TRIKUorTRACK |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:51:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538708562427 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Shearinex |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:51:59 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538710024022 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Borov |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 02:53:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538708564057 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Dexter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 02:51:59 |
@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538711094493 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | унитаз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 02:55:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538711165147 |
+| Players | 4/15 |
+| Host Name | .neff |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 02:55:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538711187328 |
+| Players | 1/8 |
+| Host Name | :( |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 02:55:08 |
 
 
 |  | epic_boss_fight_nightmare |
