@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 22:18:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538493880156 |
-| Players | 1/10 |
-| Host Name | Papi Culo |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 23:02:39 |
+| Lobby ID | 28576538493918791 |
+| Players | 1/24 |
+| Host Name | Kott ya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:02:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538491902762 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | klaymann |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 23:00:42 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 23:00:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538492773725 |
-| Players | 12/15 |
-| Host Name | Русский |
+| Lobby ID | 28576538493573114 |
+| Players | 9/10 |
+| Host Name | Drekret |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:01:34 |
+| Lobby Creation Time | Sunday, December 24, 2023 23:02:21 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538492397884 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | DUKETO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 23:01:12 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538493868690 |
+| Lobby ID | 28576538493955096 |
 | Players | 3/8 |
-| Host Name | PUDGE POS 5 ENJOYER |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, December 24, 2023 23:02:38 |
+| Host Name | Waffle |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, December 24, 2023 23:02:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538494080194 |
+| Players | 2/10 |
+| Host Name | AperolNeGespritz |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 23:02:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Life Could be a Dream |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, December 24, 2023 23:02:30 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576538493859179 |
-| Players | 1/7 |
-| Host Name | DeadlyShadow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 23:02:38 |
 
 
