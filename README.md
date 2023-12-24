@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538464791310 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | Курсы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 22:34:45 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538459349121 |
-| Players | 14/15 |
-| Host Name | 最好的 |
+| Lobby ID | 28576538465043689 |
+| Players | 1/15 |
+| Host Name | EnotRed |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:29:36 |
+| Lobby Creation Time | Sunday, December 24, 2023 22:34:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538464108450 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Mordecai |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 22:34:06 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538464713571 |
-| Players | 6/10 |
-| Host Name | метролог |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:34:40 |
+| Lobby ID | 28576538463711892 |
+| Players | 8/10 |
+| Host Name | miCKE PIG |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 22:33:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,42 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PUDGE POS 5 ENJOYER |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 22:33:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538463711892 |
-| Players | 9/10 |
-| Host Name | miCKE PIG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 22:33:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538464954771 |
-| Players | 2/8 |
-| Host Name | JinDehaNai |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:34:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538462112388 |
-| Players | 23/24 |
-| Host Name | 戯作 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:32:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576538462324332 |
-| Players | 9/10 |
-| Host Name | ♂ I'm Performance Artist ♂ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 22:32:27 |
 
 
 |  | epic_boss_fight_normal |
