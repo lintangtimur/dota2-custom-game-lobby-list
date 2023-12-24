@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537876062953 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Mr.Bass |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:54:14 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537876244135 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | TUSSAMBO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:54:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537875607577 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | KKUNKIN FLORES |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:53:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537876115796 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | o.O |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 10:54:20 |
@@ -58,38 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537875550768 |
-| Players | 9/10 |
-| Host Name | Ozbiljan Igrac |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 10:53:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576537876563553 |
-| Players | 1/10 |
-| Host Name | Enjoy dota, enjoy |
+| Lobby ID | 28576537876719187 |
+| Players | 2/10 |
+| Host Name | PealHo? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 10:55:11 |
+| Lobby Creation Time | Sunday, December 24, 2023 10:55:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537876600321 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Agent P |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 10:55:16 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537870981974 |
-| Players | 8/10 |
-| Host Name | Teemo:)Breeder |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 10:44:26 |
+| Lobby ID | 28576537876725875 |
+| Players | 2/10 |
+| Host Name | Enjoy dota, enjoy |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 10:55:30 |
 
 
 |  | epic_boss_fight_nightmare |
