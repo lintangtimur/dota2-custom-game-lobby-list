@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537944800005 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Cheer up ^^ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:57:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537947031732 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Maomao |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 13:01:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537947657409 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Smile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 13:02:11 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, December 24, 2023 13:02:29 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537948199351 |
+| Players | 2/15 |
+| Host Name | Челемякер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 13:03:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537941076676 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576537947361035 |
-| Players | 3/5 |
+| Players | 1/5 |
 | Host Name | MadLad |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 13:01:43 |
