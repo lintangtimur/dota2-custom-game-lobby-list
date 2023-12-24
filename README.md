@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538481603366 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Mr. HDHQ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 22:50:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538484552471 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | don’t kill my vibe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 22:53:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538478403946 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | gggl |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 22:47:38 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538484694987 |
-| Players | 2/8 |
-| Host Name | 病気の頭 |
+| Lobby ID | 28576538484415903 |
+| Players | 4/8 |
+| Host Name | Дочь сочная |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 22:53:38 |
+| Lobby Creation Time | Sunday, December 24, 2023 22:53:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538482265500 |
+| Players | 23/24 |
+| Host Name | Tamiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 22:51:19 |
 
 
 |  | epic_boss_fight_normal |
