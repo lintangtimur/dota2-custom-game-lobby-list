@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538261475309 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ♣BleedBlue♣ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:33:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538262728603 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | shelbia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 19:34:56 |
