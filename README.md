@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537910711102 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | peacewalker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 11:59:19 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537910016303 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | [w]Easy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 11:58:00 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537910994660 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 11:59:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576537911781335 |
-| Players | 13/15 |
-| Host Name | MakimaGOD |
+| Lobby ID | 28576537912545110 |
+| Players | 2/10 |
+| Host Name | aea |
 | Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 12:01:18 |
+| Lobby Creation Time | Sunday, December 24, 2023 12:02:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537911513440 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Nabito |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:00:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537908530269 |
-| Players | 13/24 |
+| Players | 20/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 11:55:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537911765480 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:01:16 |
