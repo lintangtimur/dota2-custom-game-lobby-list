@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537816142779 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | СЛОВО ДЕДА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 08:53:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537816816409 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ...Cruz... |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 08:54:45 |
@@ -31,35 +31,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576537816212576 |
-| Players | 16/24 |
-| Host Name | [LosPibes]Nyk0 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 08:53:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576537814274051 |
-| Players | 23/24 |
-| Host Name | Leon |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, December 24, 2023 08:49:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576537816157465 |
-| Players | 13/15 |
-| Host Name | 黒崎 一護 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 08:53:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28576537817021461 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 08:55:11 |
@@ -69,24 +42,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576537817038402 |
 | Players | 2/8 |
-| Host Name | Arrr-arr!!! tastydrop |
+| Host Name | Коля Коляска |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 08:55:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537817136042 |
-| Players | 1/15 |
-| Host Name | BIM BIM BAM BAM |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 24, 2023 08:55:25 |
+| Lobby ID | 28576537817272791 |
+| Players | 1/8 |
+| Host Name | i⸸ami. 痛み. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 08:55:41 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576537816695764 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Little_pRinceSs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 08:54:30 |
