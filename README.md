@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538247106075 |
-| Players | 6/15 |
-| Host Name | HUGE |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, December 24, 2023 19:19:52 |
+| Lobby ID | 28576538247261297 |
+| Players | 7/24 |
+| Host Name | [Haunted House] BussyCreamLice |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 19:20:01 |
 
 
 |  | ot3_desert_octet |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576538242587327 |
 | Players | 4/24 |
-| Host Name | Heyzi |
+| Host Name | Satijah (free Palestine) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:15:29 |
 
@@ -49,35 +49,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538245058521 |
-| Players | 1/8 |
-| Host Name | KA1ZER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 19:17:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538247261297 |
-| Players | 4/24 |
-| Host Name | [Haunted House] BussyCreamLice |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, December 24, 2023 19:20:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28576538246705155 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Foreskin Collector |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 19:19:29 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538248046311 |
+| Players | 3/15 |
+| Host Name | LINTER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:20:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538248125028 |
+| Players | 3/8 |
+| Host Name | Не задоджил паунс в окно |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 19:20:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538248169386 |
+| Players | 3/8 |
+| Host Name | мегатрон |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, December 24, 2023 19:20:54 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538241898821 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | MadLad |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 19:14:50 |
