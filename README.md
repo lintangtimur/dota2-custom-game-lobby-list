@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538592549818 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | ๋ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 00:42:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538594149402 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Anj0 `-!FRD!-` |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:44:21 |
@@ -74,42 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 00:44:20 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538595378240 |
-| Players | 5/8 |
-| Host Name | ЬУЬ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 00:45:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538595216518 |
-| Players | 11/15 |
-| Host Name | skitles酸的 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 00:45:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538595123847 |
-| Players | 12/24 |
-| Host Name | кони лингус |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 00:45:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538595369407 |
-| Players | 9/10 |
-| Host Name | λ̯͡ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 00:45:39 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538595592311 |
@@ -117,6 +81,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 00:45:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538595817176 |
+| Players | 3/8 |
+| Host Name | пися(￢‿￢ ) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 00:46:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576538595123847 |
+| Players | 14/24 |
+| Host Name | кони лингус |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 00:45:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538596033569 |
+| Players | 1/10 |
+| Host Name | xemaich |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 00:46:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538595920382 |
+| Players | 4/15 |
+| Host Name | кот (или пёс) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 00:46:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538596051041 |
+| Players | 3/8 |
+| Host Name | Зингер Фрэймут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 00:46:22 |
 
 
 |  | epic_boss_fight_challenger |
