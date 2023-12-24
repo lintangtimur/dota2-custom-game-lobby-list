@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538096939375 |
-| Players | 6/8 |
+| Players | 8/8 |
 | Host Name | practice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 16:27:36 |
@@ -59,16 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538095127012 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ㅋㅎㅋㅎ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:25:16 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538097718770 |
+| Players | 4/8 |
+| Host Name | I NEED MORE POWER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 16:28:37 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538097142905 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Eddie.Lin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 16:27:52 |
