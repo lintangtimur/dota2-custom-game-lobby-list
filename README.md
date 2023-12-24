@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537944813927 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Little BirD |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 12:57:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537945736658 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | unranked swede tryhard |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:59:03 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:57:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576537947635233 |
+| Players | 1/15 |
+| Host Name | Hiko |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 13:02:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576537947657409 |
+| Players | 1/24 |
+| Host Name | Smile |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, December 24, 2023 13:02:11 |
 
 
 |  | epic_boss_fight_nightmare |
