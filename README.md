@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537920006847 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:15:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576537921161206 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Саня Белый prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:17:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576537918831571 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Chill... |
 | Region | PERU |
 | Lobby Creation Time | Sunday, December 24, 2023 12:13:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576537920524645 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | ’Mr . Big |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 12:16:35 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576537920488440 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ПЮ ЧАЙ [сильно] |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 12:16:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576537920512751 |
-| Players | 3/15 |
-| Host Name | yango |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, December 24, 2023 12:16:33 |
+| Lobby ID | 28576537921522074 |
+| Players | 5/8 |
+| Host Name | 9999 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, December 24, 2023 12:18:19 |
 
 
 |  | ot3_gardens_duo |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Homicídio |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, December 24, 2023 12:17:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576537921522074 |
-| Players | 2/8 |
-| Host Name | 9999 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, December 24, 2023 12:18:19 |
 
 
 |  | epic_boss_fight_nightmare |
