@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538127278990 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Saint |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:06:25 |
@@ -49,35 +49,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538128473118 |
-| Players | 7/10 |
-| Host Name | Ksavar? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:07:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538128850695 |
-| Players | 1/8 |
-| Host Name | ❦Потрошитель❦ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, December 24, 2023 17:08:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28576538128953271 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | DARWI |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, December 24, 2023 17:08:32 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538128850695 |
+| Players | 5/8 |
+| Host Name | ❦Потрошитель❦ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 17:08:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538129164761 |
+| Players | 1/15 |
+| Host Name | STAFFBERG |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, December 24, 2023 17:08:48 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538125804587 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | It doesn't matter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 17:04:34 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538127430092 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Zeus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 17:06:36 |
