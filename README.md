@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538378234349 |
-| Players | 9/10 |
-| Host Name | Danone |
+| Lobby ID | 28576538378673321 |
+| Players | 4/10 |
+| Host Name | lost angels |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:16:52 |
+| Lobby Creation Time | Sunday, December 24, 2023 21:17:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538372924290 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:12:18 |
@@ -104,25 +104,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538378394986 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | SnakeMgs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, December 24, 2023 21:17:00 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538378673321 |
-| Players | 2/10 |
-| Host Name | lost angels |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, December 24, 2023 21:17:14 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538375565416 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Mr. Hollywood |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, December 24, 2023 21:14:34 |
