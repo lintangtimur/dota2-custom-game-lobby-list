@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538692523226 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 02:32:57 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538699392808 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 02:41:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538701283159 |
-| Players | 1/8 |
-| Host Name | matiz |
+| Lobby ID | 28576538701885286 |
+| Players | 9/10 |
+| Host Name | Pariator |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:43:17 |
+| Lobby Creation Time | Monday, December 25, 2023 02:44:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,46 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538700468923 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | RALF |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 02:42:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538699672132 |
-| Players | 12/15 |
-| Host Name | Competitive ACNH Player |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 02:41:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538697998452 |
-| Players | 13/15 |
-| Host Name | evilfrog |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 02:39:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538701791513 |
-| Players | 9/10 |
-| Host Name | العصفور ليس الجما |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 02:43:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538700538150 |
-| Players | 13/15 |
-| Host Name | Прости,я был пьян,твоя мать тоже |
+| Lobby ID | 28576538702020165 |
+| Players | 1/8 |
+| Host Name | knockknock |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 02:42:24 |
+| Lobby Creation Time | Monday, December 25, 2023 02:44:10 |
 
 
 |  | epic_boss_fight_normal |
