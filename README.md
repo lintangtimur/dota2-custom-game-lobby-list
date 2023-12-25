@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539005892486 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ErvinGabriel {FTF2∫Time-Fire} |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:41:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539006969179 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:43:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539007326035 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Mr.Bass |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:44:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539006185061 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Angelmon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:41:44 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:43:41 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539007403696 |
-| Players | 2/10 |
-| Host Name | 𓆩 𓆪psyhodeath |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 12:44:22 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539007416803 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ESTOY CANSADO DE PERDER |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:44:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539007448488 |
+| Players | 4/8 |
+| Host Name | мразь |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 12:44:27 |
 
 
