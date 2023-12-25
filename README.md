@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539134683986 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:37:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539142935788 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | vier |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:51:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539143149555 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | подштаники |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:51:43 |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539143312976 |
-| Players | 3/8 |
-| Host Name | ЧІНАЗЕС |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 16:51:59 |
+| Lobby ID | 28576539143362149 |
+| Players | 6/8 |
+| Host Name | Я и 4 агента |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:52:04 |
 
 
