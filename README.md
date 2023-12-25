@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539044843929 |
-| Players | 7/8 |
-| Host Name | cored1nation |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 14:00:20 |
+| Lobby ID | 28576539039594722 |
+| Players | 13/15 |
+| Host Name | Yaga |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 13:50:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539045047558 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | nightingale |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:00:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539045221015 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | valar morghulis |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 14:01:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539045113012 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:00:53 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wood Rank |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 14:01:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539045704391 |
+| Players | 1/5 |
+| Host Name | vyt73 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:02:02 |
 
 
