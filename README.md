@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539088490475 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | убывца |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:19:32 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Шеденков Виктор Е |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:19:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539087729062 |
+| Players | 13/15 |
+| Host Name | BLOOD_DJO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 15:18:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539088892638 |
+| Players | 6/8 |
+| Host Name | Serph~ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 15:20:14 |
 
 
 |  | epic_boss_fight_normal |
