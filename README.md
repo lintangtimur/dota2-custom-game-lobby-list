@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 02:07:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539658928879 |
-| Players | 9/10 |
-| Host Name | Терпила |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:10:23 |
+| Lobby ID | 28576539659377880 |
+| Players | 3/8 |
+| Host Name | 東芝ミアモタ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:10:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,37 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539656090801 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:07:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539658783842 |
-| Players | 12/15 |
-| Host Name | momsquirt |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:10:13 |
+| Lobby ID | 28576539659285449 |
+| Players | 5/8 |
+| Host Name | барбисайз герл |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:10:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539658289074 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | affetmez07 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:09:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539659176421 |
-| Players | 6/10 |
-| Host Name | Санстрайк по пиву |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:10:40 |
+| Lobby ID | 28576539659539040 |
+| Players | 5/15 |
+| Host Name | MhSilver |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:11:05 |
 
 
 |  | ot3_gardens_duo |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jhano |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:10:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539659285449 |
-| Players | 4/8 |
-| Host Name | барбисайз герл |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:10:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539659377880 |
-| Players | 3/8 |
-| Host Name | 東芝ミアモタ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:10:54 |
 
 
 |  | epic_boss_fight_nightmare |
