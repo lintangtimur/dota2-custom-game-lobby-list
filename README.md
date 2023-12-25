@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539404099349 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Me & 4 Pro Players |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:46:12 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:45:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539394468663 |
-| Players | 24/24 |
-| Host Name | CasualG |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:37:15 |
+| Lobby ID | 28576539403806283 |
+| Players | 1/10 |
+| Host Name | HUGE |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 25, 2023 21:45:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539396012890 |
-| Players | 4/10 |
-| Host Name | 初音ミク |
+| Players | 1/10 |
+| Host Name | .I. (°-°) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:38:41 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539404380549 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Сай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:46:27 |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:45:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539403806283 |
-| Players | 1/10 |
-| Host Name | HUGE |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 25, 2023 21:45:55 |
+| Lobby ID | 28576539404594040 |
+| Players | 1/8 |
+| Host Name | gazdratjopi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 21:46:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539403697381 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | . Skye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:45:50 |
