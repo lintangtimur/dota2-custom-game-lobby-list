@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539394468663 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | CasualG |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:37:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539403364341 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ЧЕЛОВЕК ЯЙЦА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:45:31 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539403458706 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | more~ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:45:36 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539403024560 |
-| Players | 4/8 |
-| Host Name | СЫН DZABO |
+| Players | 5/8 |
+| Host Name | Чувствую smooth criminal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:45:12 |
 
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:45:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539386934581 |
-| Players | 23/24 |
-| Host Name | [LosPibes]Nyk0 |
+| Lobby ID | 28576539392286307 |
+| Players | 8/10 |
+| Host Name | Aeasor |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 21:30:13 |
+| Lobby Creation Time | Monday, December 25, 2023 21:35:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -146,10 +146,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:45:54 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539403980216 |
+| Players | 1/15 |
+| Host Name | Пожилая куница |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, December 25, 2023 21:46:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539403697381 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | . Skye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:45:50 |
