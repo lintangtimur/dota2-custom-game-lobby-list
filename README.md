@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539108592029 |
-| Players | 14/15 |
-| Host Name | howdafuqmyteamisagathaallalong |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 15:54:00 |
+| Lobby ID | 28576539108997221 |
+| Players | 5/8 |
+| Host Name | SYRO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 15:54:41 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 15:06:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539107089247 |
-| Players | 20/24 |
-| Host Name | Rasputina |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 25, 2023 15:51:28 |
+| Lobby ID | 28576539109328400 |
+| Players | 3/15 |
+| Host Name | Mr.Bass |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 15:55:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539109177526 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | 弱点 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:55:00 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539108997221 |
-| Players | 4/8 |
-| Host Name | SYRO |
+| Lobby ID | 28576539109320887 |
+| Players | 3/8 |
+| Host Name | Fydachyo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 15:54:41 |
+| Lobby Creation Time | Monday, December 25, 2023 15:55:15 |
 
 
 |  | epic_boss_fight_nightmare |
