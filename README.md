@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539002773326 |
-| Players | 9/10 |
-| Host Name | тигр) |
+| Lobby ID | 28576539003886636 |
+| Players | 2/10 |
+| Host Name | Dog.animal.cat |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 12:34:21 |
+| Lobby Creation Time | Monday, December 25, 2023 12:36:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539002501372 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Neko |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 12:33:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539002698370 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | God Rays |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 12:34:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539003479073 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | EJ-Smill3 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:35:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539003679965 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Blackberry Thunder |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:36:18 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tmr |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:36:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539003886636 |
-| Players | 2/10 |
-| Host Name | Dog.animal.cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 12:36:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539003949980 |
-| Players | 1/24 |
-| Host Name | +K-ONE + |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 12:36:53 |
 
 
 |  | epic_boss_fight_nightmare |
