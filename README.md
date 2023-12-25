@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539084995856 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | | Jenny | |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:13:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539086523580 |
+| Players | 1/8 |
+| Host Name | xdxdxd |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 15:16:10 |
 
 
 |  | epic_boss_fight_normal |
