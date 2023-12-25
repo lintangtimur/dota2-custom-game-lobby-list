@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539466682642 |
-| Players | 1/15 |
-| Host Name | Google |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 25, 2023 22:46:28 |
+| Lobby ID | 28576539466631365 |
+| Players | 14/15 |
+| Host Name | Miracle- |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 22:46:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539463978861 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | до найка 1 день |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 22:43:48 |
@@ -40,29 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539465718225 |
-| Players | 6/8 |
-| Host Name | Дэнчик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 22:45:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28576539465090206 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Casting Brazzer |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 22:44:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539466631365 |
-| Players | 8/15 |
-| Host Name | Miracle- |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 22:46:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | whuCCT |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 25, 2023 22:46:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539463239938 |
-| Players | 9/10 |
-| Host Name | KuroAmie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 22:43:04 |
 
 
