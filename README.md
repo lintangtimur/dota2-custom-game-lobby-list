@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538985895879 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Jose Jose |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 11:55:48 |
@@ -14,37 +14,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538984483602 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Power Ranger Plomo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 11:52:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538986202745 |
-| Players | 1/8 |
-| Host Name | -_- |
+| Lobby ID | 28576538985875236 |
+| Players | 3/10 |
+| Host Name | enemyenemyenemy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 11:56:32 |
+| Lobby Creation Time | Monday, December 25, 2023 11:55:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538986419769 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Vinland |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 11:57:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538982660897 |
-| Players | 20/24 |
-| Host Name | Angelmon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 11:48:14 |
+| Lobby ID | 28576538986628614 |
+| Players | 1/8 |
+| Host Name | -_- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 11:57:32 |
 
 
 |  | ot3_gardens_duo |
@@ -76,37 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538985875236 |
-| Players | 3/10 |
-| Host Name | enemyenemyenemy |
+| Lobby ID | 28576538985507433 |
+| Players | 8/10 |
+| Host Name | СЛАВИК-ДОМИНАТОР |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 11:55:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538985310019 |
-| Players | 13/15 |
-| Host Name | Stray |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 11:54:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538986114840 |
-| Players | 1/15 |
-| Host Name | only 1 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 25, 2023 11:56:19 |
+| Lobby Creation Time | Monday, December 25, 2023 11:54:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576538984100645 |
-| Players | 9/10 |
-| Host Name | We Are Electric |
+| Lobby ID | 28576538986642695 |
+| Players | 1/10 |
+| Host Name | 123456789123456789 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 11:51:36 |
+| Lobby Creation Time | Monday, December 25, 2023 11:57:34 |
 
 
