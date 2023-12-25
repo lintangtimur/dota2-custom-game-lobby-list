@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:34:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539516715720 |
-| Players | 14/15 |
-| Host Name | Злой. Плохой. |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 23:37:05 |
+| Lobby ID | 28576539517418737 |
+| Players | 3/8 |
+| Host Name | Colevaya_Shpekachka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:37:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539515976227 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | JohnNy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:36:20 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539516077972 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Ah Zai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 23:36:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539512885739 |
-| Players | 22/24 |
-| Host Name | Yebrece |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 23:33:07 |
+| Lobby ID | 28576539514134910 |
+| Players | 10/10 |
+| Host Name | ЧВК Кузя Лакомкин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:34:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539516952015 |
-| Players | 1/15 |
-| Host Name | God Rays |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 23:37:20 |
+| Lobby ID | 28576539517580773 |
+| Players | 1/8 |
+| Host Name | За Орду!!! |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 23:37:59 |
 
 
 |  | ot3_desert_octet |
@@ -101,39 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:37:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539517418737 |
-| Players | 1/8 |
-| Host Name | Colevaya_Shpekachka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:37:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539510466927 |
-| Players | 4/5 |
-| Host Name | tidal |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 23:30:37 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539513308155 |
-| Players | 3/5 |
-| Host Name | 逍遥哥哥 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Monday, December 25, 2023 23:33:33 |
+| Lobby ID | 28576539514901055 |
+| Players | 5/10 |
+| Host Name | Vegabone |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 23:35:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539514901055 |
-| Players | 4/10 |
-| Host Name | Vegabone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 23:35:13 |
+| Lobby ID | 28576539517806895 |
+| Players | 1/10 |
+| Host Name | •☭Pᴜᴛɪɴ☭• |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:38:14 |
 
 
