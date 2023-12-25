@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539456051325 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ПАПАBEER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:36:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539450871264 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Saga |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 22:30:52 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539456956244 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | graveyard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:36:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539456090640 |
-| Players | 14/15 |
-| Host Name | у слитых каток привкус сладок |
+| Lobby ID | 28576539457206961 |
+| Players | 2/8 |
+| Host Name | афывйцу |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 22:36:02 |
+| Lobby Creation Time | Monday, December 25, 2023 22:37:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539456612232 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | unique |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:36:33 |
@@ -110,40 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 22:36:36 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539456749553 |
-| Players | 1/24 |
-| Host Name | First Blood |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 25, 2023 22:36:41 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539457204415 |
-| Players | 6/8 |
-| Host Name | Bourbon |
+| Lobby ID | 28576539457388766 |
+| Players | 3/8 |
+| Host Name | кінчатися |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 22:37:07 |
+| Lobby Creation Time | Monday, December 25, 2023 22:37:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539457206961 |
+| Lobby ID | 28576539457384113 |
 | Players | 1/8 |
-| Host Name | афывйцу |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 22:37:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539457225662 |
-| Players | 1/8 |
-| Host Name | Sukuna |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 25, 2023 22:37:09 |
+| Host Name | адвокат габена |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 22:37:18 |
 
 
 |  | epic_boss_fight_nightmare |
