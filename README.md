@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539128285370 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:27:09 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539133042089 |
-| Players | 10/15 |
-| Host Name | F# |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:35:08 |
+| Lobby ID | 28576539133329900 |
+| Players | 4/15 |
+| Host Name | Maotisco |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 16:35:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539133097012 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | LygoXa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:35:13 |
@@ -50,36 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539133302614 |
-| Players | 2/10 |
-| Host Name | flood |
+| Players | 3/10 |
+| Host Name | MS for Hope |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:35:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539133329900 |
-| Players | 2/15 |
-| Host Name | Maotisco |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 16:35:36 |
+| Lobby ID | 28576539133516838 |
+| Players | 1/15 |
+| Host Name | Lunь |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 16:35:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539133042089 |
+| Players | 14/15 |
+| Host Name | F# |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:35:08 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576539131805528 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | deadly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:33:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539133330902 |
-| Players | 1/5 |
-| Host Name | ayz3ro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:35:36 |
 
 
