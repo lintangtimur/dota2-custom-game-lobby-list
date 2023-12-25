@@ -2,37 +2,37 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539539685509 |
-| Players | 7/8 |
-| Host Name | sigma player |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:00:49 |
+| Lobby ID | 28576539540282895 |
+| Players | 1/15 |
+| Host Name | Yaga |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:01:26 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539538736113 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ARQUADE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:59:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539533778500 |
-| Players | 23/24 |
-| Host Name | IEdumpling |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 23:54:39 |
+| Lobby ID | 28576539540109840 |
+| Players | 1/15 |
+| Host Name | Full webing |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:01:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539539196919 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | #YoonAreMyDestiny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:00:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539540298060 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Shevrassa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:01:27 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539540020414 |
-| Players | 12/15 |
-| Host Name | RiMURAJ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:01:10 |
+| Lobby ID | 28576539540384091 |
+| Players | 4/15 |
+| Host Name | Type R |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:01:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539540109840 |
-| Players | 1/15 |
-| Host Name | Full webing |
+| Lobby ID | 28576539540475463 |
+| Players | 1/8 |
+| Host Name | Canela pasión |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:01:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539540282895 |
-| Players | 1/15 |
-| Host Name | Yaga |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:01:26 |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:01:38 |
 
 
 |  | epic_boss_fight_normal |
