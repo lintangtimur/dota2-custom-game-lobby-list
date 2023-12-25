@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539196297097 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | dota=shit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:11:26 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539196717409 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | ПАПА Seed'a |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:12:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539196899081 |
+| Players | 4/8 |
+| Host Name | a. |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 18:12:15 |
 
 
 |  | epic_boss_fight_nightmare |
