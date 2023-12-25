@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539391426697 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:34:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539395974513 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Новый год |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:38:38 |
@@ -95,10 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539395538020 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | per aspera ad astra |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:38:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539396012890 |
+| Players | 2/10 |
+| Host Name | 初音ミク |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 21:38:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539396311479 |
+| Players | 3/10 |
+| Host Name | DarkLd |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 21:38:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539396316537 |
+| Players | 2/10 |
+| Host Name | Илюня |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 21:38:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [VGB]NUBISHKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:33:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539395996529 |
+| Players | 2/10 |
+| Host Name | MESSI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 21:38:40 |
 
 
