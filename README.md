@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539100711628 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | CNN fake news |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:40:42 |
@@ -29,19 +29,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 15:40:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539100685875 |
-| Players | 1/10 |
-| Host Name | 熊猫(￣(工)￣) |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 15:40:39 |
+| Lobby ID | 28576539101715889 |
+| Players | 6/15 |
+| Host Name | Greetings |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 15:42:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539101818634 |
+| Players | 2/8 |
+| Host Name | IRealDeal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 15:42:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539100845732 |
+| Players | 14/15 |
+| Host Name | yapi_dor??? |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 15:40:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539089335200 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:20:59 |
@@ -63,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | heybibiyea |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 15:41:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539101625697 |
-| Players | 1/10 |
-| Host Name | Шут - дар. Король - призвание. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 15:42:16 |
 
 
