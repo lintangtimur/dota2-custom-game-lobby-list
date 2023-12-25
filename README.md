@@ -40,35 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539021443243 |
-| Players | 14/15 |
-| Host Name | Vanished |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 13:13:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539022091048 |
-| Players | 1/10 |
-| Host Name | GeneralKoosha |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 25, 2023 13:15:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28576539020790055 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:12:42 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539022152982 |
+| Players | 2/24 |
+| Host Name | VanzrayGx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 13:15:25 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576539020206700 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Злой Начмед |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:11:30 |
