@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539190139900 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | WolFyKah |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 18:03:02 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539181207944 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Solar Powered Grindset |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:50:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539186870834 |
-| Players | 23/24 |
-| Host Name | 177310 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 17:58:23 |
+| Lobby ID | 28576539190423069 |
+| Players | 1/8 |
+| Host Name | Rainbow |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 18:03:27 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539190075100 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Qootak |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 18:02:57 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OrangeF_sH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:02:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539186543841 |
-| Players | 4/5 |
-| Host Name | nagibatop_3000 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:57:55 |
 
 
