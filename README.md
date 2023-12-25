@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:33:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539001223731 |
-| Players | 7/8 |
-| Host Name | Yordi infiel |
+| Lobby ID | 28576539003099981 |
+| Players | 4/24 |
+| Host Name | me comi varias de amarillo xd |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:30:48 |
+| Lobby Creation Time | Monday, December 25, 2023 12:35:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:34:51 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539003099981 |
-| Players | 3/24 |
-| Host Name | me comi varias de amarillo xd |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:35:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539002635812 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | qiellaeviely |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:34:02 |
