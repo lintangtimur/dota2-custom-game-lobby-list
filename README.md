@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539394468663 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | CasualG |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:37:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539386934581 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | [LosPibes]Nyk0 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 21:30:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539391426697 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:34:27 |
@@ -85,47 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539395109846 |
-| Players | 13/15 |
-| Host Name | Salam bikkitae |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:37:51 |
+| Lobby ID | 28576539395974513 |
+| Players | 2/15 |
+| Host Name | Новый год |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 21:38:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539395538020 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | per aspera ad astra |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:38:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539395570943 |
-| Players | 3/10 |
-| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:38:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539395669659 |
-| Players | 1/10 |
-| Host Name | Suzuya Jūzō |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:38:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539395735132 |
-| Players | 3/8 |
-| Host Name | Бубен |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:38:25 |
 
 
 |  | epic_boss_fight_nightmare |
