@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539551876054 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | ✪ WINTER™ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:13:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539551534161 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Emeritus |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:13:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539550216562 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | 🅴 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:11:53 |
@@ -77,43 +77,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539551423744 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Marshals |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:13:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539552026270 |
-| Players | 5/8 |
-| Host Name | 私は落ち着いています |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:13:44 |
+| Lobby ID | 28576539552548654 |
+| Players | 6/10 |
+| Host Name | lavieoubourse |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:14:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539551739548 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | AnJo1nt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:13:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539552157157 |
-| Players | 11/15 |
-| Host Name | Iraya |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:13:53 |
+| Lobby ID | 28576539552535647 |
+| Players | 1/24 |
+| Host Name | DIZZY IS THAT U? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:14:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539548690445 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ТОЛИК ЭГОИСТ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:10:18 |
