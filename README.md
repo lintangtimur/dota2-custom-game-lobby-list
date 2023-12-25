@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539086833319 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 15:16:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539084577424 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | winston lee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:12:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539088271939 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | dsa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:19:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539088490475 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | убывца |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:19:32 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 15:19:31 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539088680761 |
-| Players | 1/8 |
-| Host Name | Serph~ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 15:19:52 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576539088624422 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Frost |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:19:46 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539075113391 |
+| Players | 4/5 |
+| Host Name | Op |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 14:56:05 |
 
 
