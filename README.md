@@ -47,31 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:11:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539156929456 |
-| Players | 7/8 |
-| Host Name | Electro Zaza |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:13:51 |
+| Lobby ID | 28576539157231575 |
+| Players | 4/10 |
+| Host Name | . |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 17:14:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539155821776 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Sea ppl=dogs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:12:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539157231575 |
-| Players | 2/10 |
-| Host Name | . |
+| Lobby ID | 28576539157377129 |
+| Players | 3/8 |
+| Host Name | БАРАНКИ |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 17:14:19 |
+| Lobby Creation Time | Monday, December 25, 2023 17:14:33 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539157075052 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:14:05 |
