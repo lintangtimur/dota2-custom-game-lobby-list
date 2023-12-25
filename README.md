@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538984107666 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Angel_Kasteil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 11:51:36 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538984483602 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Power Ranger Plomo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 11:52:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538982658142 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | HarryTD |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 11:48:14 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 11:48:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538983549851 |
-| Players | 9/15 |
-| Host Name | NeDix! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 11:50:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538984470400 |
-| Players | 1/8 |
-| Host Name | Robert Lewangoalski |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 11:52:27 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538984745251 |
@@ -74,10 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 11:53:06 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538984470400 |
+| Players | 3/8 |
+| Host Name | Robert Lewangoalski |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 11:52:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538984949255 |
+| Players | 4/15 |
+| Host Name | robasti |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 11:53:35 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538984100645 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | We Are Electric |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 11:51:36 |
