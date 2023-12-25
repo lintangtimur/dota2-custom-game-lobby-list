@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539379133818 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Илюня |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:23:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539366694338 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Felp |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 21:11:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539378298105 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Денис Сухачев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:22:18 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539375948166 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | emo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:20:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539378462505 |
-| Players | 14/15 |
-| Host Name | Ebaclaque |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:22:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539379014039 |
-| Players | 2/24 |
-| Host Name | Nezuko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 21:22:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Albert Sexsov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:23:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539379014039 |
+| Players | 3/24 |
+| Host Name | Nezuko |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 21:22:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539379520005 |
+| Players | 2/15 |
+| Host Name | Starinniy Tushkan |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 21:23:26 |
 
 
 |  | epic_boss_fight_normal |
