@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539676521831 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | 47 Chronosphere |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:30:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539675012324 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | Cemka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:28:49 |
@@ -68,37 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539677605317 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ShaV |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:31:51 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539677682403 |
-| Players | 1/10 |
-| Host Name | MK |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:31:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539677690352 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | MIAMI YACINE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:31:57 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539677865006 |
+| Players | 2/10 |
+| Host Name | MK |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:32:09 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539677718550 |
+| Lobby ID | 28576539677886244 |
 | Players | 1/8 |
-| Host Name | bonchinchi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:31:58 |
+| Host Name | st.yez |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:32:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,21 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 02:30:39 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28576539677429508 |
-| Players | 1/5 |
-| Host Name | 10000000000030 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:31:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539677434237 |
-| Players | 1/5 |
+| Lobby ID | 28576539677816594 |
+| Players | 1/7 |
 | Host Name | ۞Ŕ۞ě۞Đ۞ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:31:39 |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:32:06 |
 
 
