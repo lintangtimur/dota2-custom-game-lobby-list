@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539527549205 |
-| Players | 3/8 |
-| Host Name | Чипи чипи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:48:11 |
+| Lobby ID | 28576539526312030 |
+| Players | 4/8 |
+| Host Name | Potato |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 25, 2023 23:46:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539515976227 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 😳Анимэ Это Ошибка😳 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:36:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539526168446 |
-| Players | 6/8 |
-| Host Name | Snobias |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:46:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539526404360 |
-| Players | 5/24 |
-| Host Name | Zone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 23:47:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539526312030 |
-| Players | 4/8 |
-| Host Name | Potato |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, December 25, 2023 23:46:54 |
 
 
 |  | ot3_gardens_duo |
@@ -101,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:47:34 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539526404360 |
+| Players | 8/24 |
+| Host Name | Zone |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 23:47:00 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539527269273 |
-| Players | 9/15 |
-| Host Name | Mordi__63 |
+| Lobby ID | 28576539525542281 |
+| Players | 14/15 |
+| Host Name | Harry Styles |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 23:47:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539527537436 |
-| Players | 1/8 |
-| Host Name | overdose  |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 23:48:11 |
+| Lobby Creation Time | Monday, December 25, 2023 23:46:06 |
 
 
 |  | epic_boss_fight_nightmare |
