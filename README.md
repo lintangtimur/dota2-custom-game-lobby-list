@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539141913496 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Rayli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:49:41 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539142156897 |
+| Lobby ID | 28576539142987333 |
 | Players | 6/8 |
-| Host Name | Vanished |
+| Host Name | Я и 4 агента |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:50:05 |
+| Lobby Creation Time | Monday, December 25, 2023 16:51:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539133329900 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Maotisco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:35:36 |
@@ -68,45 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539142935788 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | vier |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:51:22 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539142970134 |
-| Players | 1/24 |
-| Host Name | daed pleier |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 16:51:26 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539142987333 |
-| Players | 6/8 |
-| Host Name | Я и 4 агента |
+| Lobby ID | 28576539143096969 |
+| Players | 4/8 |
+| Host Name | tv/yunsu4u |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:51:27 |
+| Lobby Creation Time | Monday, December 25, 2023 16:51:38 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539140942010 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 男人哭吧哭吧不是罪>.< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:48:07 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539142996511 |
-| Players | 2/5 |
-| Host Name | 1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:51:28 |
+| Lobby ID | 28576539143110145 |
+| Players | 1/10 |
+| Host Name | kleini |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 16:51:39 |
 
 
