@@ -20,57 +20,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:32:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539196442448 |
-| Players | 18/24 |
-| Host Name | Teudoongie |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 25, 2023 18:11:38 |
+| Lobby ID | 28576539197857961 |
+| Players | 7/15 |
+| Host Name | aCHLOEmon` |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 18:13:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539197357900 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Aem<3 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 18:12:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539197103156 |
-| Players | 12/15 |
-| Host Name | " |
+| Lobby ID | 28576539197768951 |
+| Players | 2/8 |
+| Host Name | limit break |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 18:12:31 |
+| Lobby Creation Time | Monday, December 25, 2023 18:13:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539196763593 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | [SK]-SimaPro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:12:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539197459085 |
-| Players | 1/10 |
-| Host Name | Mawen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 18:13:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539197638639 |
-| Players | 1/5 |
-| Host Name | HexeKnife |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 18:13:14 |
 
 
