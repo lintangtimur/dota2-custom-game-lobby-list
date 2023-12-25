@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539141105534 |
-| Players | 8/10 |
-| Host Name | топлю котят |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:48:23 |
+| Lobby ID | 28576539141198476 |
+| Players | 2/8 |
+| Host Name | Тема петушок |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 16:48:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539080980433 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | 1Class |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:06:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539140730053 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Ma4™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:47:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539129066418 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Hombre chambeador |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:28:26 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539140677305 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:47:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539141198476 |
-| Players | 2/8 |
-| Host Name | ICe_WalloW_Come |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:48:32 |
 
 
 |  | epic_boss_fight_nightmare |
