@@ -77,43 +77,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539391007046 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:34:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539393005309 |
-| Players | 2/8 |
-| Host Name | chubaka(non-prime) |
+| Lobby ID | 28576539393261518 |
+| Players | 6/10 |
+| Host Name | skrejet |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:35:55 |
+| Lobby Creation Time | Monday, December 25, 2023 21:36:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539392869598 |
-| Players | 5/15 |
-| Host Name | діджус operator |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:35:48 |
+| Lobby ID | 28576539393338074 |
+| Players | 1/15 |
+| Host Name | 无敌暴龙战神 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, December 25, 2023 21:36:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539393142514 |
-| Players | 1/10 |
-| Host Name | Сосок_улитки |
+| Lobby ID | 28576539393191570 |
+| Players | 5/8 |
+| Host Name | eblan a che |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:36:03 |
+| Lobby Creation Time | Monday, December 25, 2023 21:36:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539393277826 |
+| Players | 1/8 |
+| Host Name | ланчбоксик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 21:36:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539390257072 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | [VGB]NUBISHKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:33:21 |
