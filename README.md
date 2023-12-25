@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539550660610 |
-| Players | 1/10 |
-| Host Name | calla  mrda |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:12:21 |
+| Lobby ID | 28576539551876054 |
+| Players | 3/8 |
+| Host Name | ✪ WINTER™ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:13:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539550040524 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Naruto |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:11:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539552042744 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Freddy Fazbear |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:13:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539550421976 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | NDR3XYZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:12:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539550216562 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | 🅴 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:11:53 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:13:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539551743842 |
-| Players | 12/15 |
-| Host Name | VapeFrog |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:13:28 |
+| Lobby ID | 28576539552026270 |
+| Players | 5/8 |
+| Host Name | 私は落ち着いています |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:13:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -103,65 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539551464882 |
-| Players | 14/15 |
-| Host Name | Zeus Juice |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:13:10 |
+| Lobby ID | 28576539552157157 |
+| Players | 11/15 |
+| Host Name | Iraya |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:13:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539548690445 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | ТОЛИК ЭГОИСТ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:10:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539551900594 |
-| Players | 9/10 |
-| Host Name | 76561198059431967 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:13:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539551876054 |
-| Players | 3/8 |
-| Host Name | ✪ WINTER™ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:13:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539552026270 |
-| Players | 5/8 |
-| Host Name | 私は落ち着いています |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:13:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539552071538 |
-| Players | 2/10 |
-| Host Name | shAVA MAX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:13:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539552157157 |
-| Players | 5/15 |
-| Host Name | Iraya |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:13:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -198,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Monkey D. Acong |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:13:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539551337436 |
-| Players | 2/5 |
-| Host Name | GGs? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:13:03 |
 
 
