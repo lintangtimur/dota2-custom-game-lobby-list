@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539092491420 |
-| Players | 5/15 |
-| Host Name | JeOS |
+| Players | 3/15 |
+| Host Name | Jaaaaaaaaaaaaaaaaaa.giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 15:26:26 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539097899280 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Yakuza |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:35:54 |
