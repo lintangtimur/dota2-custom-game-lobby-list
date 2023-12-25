@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539606926019 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | #VOLTA CHIMVOC - CHIMBAS NO DS |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:12:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539608992040 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | REM |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:14:36 |
@@ -74,28 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 01:15:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539610184038 |
-| Players | 10/15 |
-| Host Name | blew |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:15:54 |
+| Lobby ID | 28576539610865582 |
+| Players | 1/10 |
+| Host Name | Mikey de la toman |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:16:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539610483190 |
+| Lobby ID | 28576539610795201 |
 | Players | 1/8 |
-| Host Name | блинк на воду |
+| Host Name | пудж в сапогах |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:16:13 |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:16:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539610565199 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Шлёпик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:16:18 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539610436596 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 20th Century |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:16:10 |
@@ -119,21 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 01:16:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539610688401 |
-| Players | 5/8 |
-| Host Name | Azər Babaev |
+| Lobby ID | 28576539610533659 |
+| Players | 3/10 |
+| Host Name | Money Wizard |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:16:26 |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:16:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539610533659 |
-| Players | 2/10 |
-| Host Name | Money Wizard |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:16:16 |
+| Lobby ID | 28576539610704710 |
+| Players | 1/10 |
+| Host Name | Han Jee-han  한 지한 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:16:27 |
 
 
