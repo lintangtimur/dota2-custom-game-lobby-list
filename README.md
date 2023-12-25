@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539570922864 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Imout) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:33:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539568674711 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Darkness |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:31:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539572912985 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Tort |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:35:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539572696127 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | PewPew |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:35:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539573036085 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 42号混凝土拌意大利面 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:35:59 |
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 乱战先锋第一骚货！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:33:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539566149420 |
+| Players | 23/24 |
+| Host Name | hanswurst |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:28:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539573441289 |
+| Players | 1/15 |
+| Host Name | Lee Ji Eun |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:36:25 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576539570400999 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | deadly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:33:08 |
