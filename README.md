@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539005079502 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Atlas Troll |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 12:39:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539004876526 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kiss pe |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:38:53 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:38:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539004722570 |
-| Players | 22/24 |
-| Host Name | Feliz Navidad Perras! |
+| Lobby ID | 28576539006241184 |
+| Players | 2/8 |
+| Host Name | ESTOY CANSADO DE PERDER |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:38:33 |
+| Lobby Creation Time | Monday, December 25, 2023 12:41:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539005836505 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | HAΞZΞR |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 12:40:58 |
@@ -101,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:41:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539006241184 |
-| Players | 1/8 |
-| Host Name | ESTOY CANSADO DE PERDER |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:41:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539004828866 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | mi$ubibi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:38:47 |
