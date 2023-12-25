@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539100711628 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | CNN fake news |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:40:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539080980433 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Janampa |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:06:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539086523580 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Transcendent |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 15:16:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539100845732 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | yapi_dor??? |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:40:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539100307275 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:40:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539100920175 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | КАЛДУН (дую кал) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:41:03 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JMC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:33:47 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576539101240744 |
+| Players | 1/7 |
+| Host Name | heybibiyea |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 25, 2023 15:41:36 |
 
 
