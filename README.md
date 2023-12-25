@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539163022779 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | TheKraken |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:23:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539173343747 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Sea ppl=dogs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:38:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539175306179 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Snobias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:41:51 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539175395172 |
+| Lobby ID | 28576539175438657 |
 | Players | 1/15 |
-| Host Name | daun_2003 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 17:41:58 |
+| Host Name | shadow |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 17:42:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539173367742 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | jux |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:39:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539174890511 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ebashu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:41:14 |
