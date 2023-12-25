@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539463978861 |
-| Players | 16/24 |
+| Players | 14/24 |
 | Host Name | King Nothing |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 22:43:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539471156534 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | GGWP |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 22:50:54 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 22:54:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539474696376 |
-| Players | 3/8 |
-| Host Name | zxcperdesh |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 22:54:25 |
+| Lobby ID | 28576539475298275 |
+| Players | 2/24 |
+| Host Name | STERBLICH |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 22:55:01 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539475104426 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | #YoonAreMyDestiny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 22:54:49 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539475146033 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Катофей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:54:52 |
@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539475153095 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:54:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539475293467 |
+| Players | 7/8 |
+| Host Name | 夜神 月 ライト |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 25, 2023 22:55:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539475413173 |
+| Players | 1/15 |
+| Host Name | Locomobile | The Chimney |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 25, 2023 22:55:08 |
 
 
 |  | epic_boss_fight_nightmare |
