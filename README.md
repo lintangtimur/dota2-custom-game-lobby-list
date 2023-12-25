@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539107312449 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Mr. HDHQ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 15:51:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539113747372 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | 秦始皇 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:02:51 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539113854879 |
-| Players | 4/15 |
-| Host Name | Soldado sabrocito |
+| Players | 1/15 |
+| Host Name | Mr. Ganso |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:03:02 |
 
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Estriper |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 16:02:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539113970861 |
+| Players | 3/10 |
+| Host Name | Шеденков Виктор Е |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:03:14 |
 
 
 |  | epic_boss_fight_nightmare |
