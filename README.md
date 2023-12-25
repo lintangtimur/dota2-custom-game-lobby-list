@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539627085831 |
-| Players | 6/10 |
-| Host Name | Scarlet Sky |
+| Lobby ID | 28576539627430880 |
+| Players | 2/8 |
+| Host Name | R<3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:34:30 |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:34:53 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539624806695 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 忘记我你做不到 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:31:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539621870851 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:28:38 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 01:33:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539625800511 |
-| Players | 12/15 |
-| Host Name | $ENATOR |
+| Lobby ID | 28576539627383796 |
+| Players | 4/10 |
+| Host Name | Zer0 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:33:01 |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:34:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539626834661 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | P |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:34:12 |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ŘĄﮚŦAMĄ₦ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:34:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539627397944 |
+| Players | 1/5 |
+| Host Name | Masashi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:34:51 |
 
 
