@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539173257374 |
-| Players | 7/8 |
-| Host Name | pretty jodye flacko |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:38:51 |
+| Lobby ID | 28576539173433047 |
+| Players | 2/8 |
+| Host Name | アレクサンダー |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 17:39:06 |
 
 
 |  | ot3_gardens_duo |
@@ -59,37 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539173517855 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Megabit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:39:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539173433047 |
-| Players | 1/8 |
-| Host Name | アレクサンダー |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 17:39:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539173692330 |
-| Players | 14/15 |
-| Host Name | Wraith band |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:39:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539173520902 |
-| Players | 7/10 |
-| Host Name | Zengesi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:39:14 |
+| Lobby ID | 28576539174322715 |
+| Players | 6/15 |
+| Host Name | £ Neoxa |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 17:40:25 |
 
 
 |  | epic_boss_fight_normal |
