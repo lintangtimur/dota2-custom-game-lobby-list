@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539023084940 |
-| Players | 1/8 |
-| Host Name | 682 |
+| Lobby ID | 28576539023206001 |
+| Players | 1/24 |
+| Host Name | kisper |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 13:17:19 |
+| Lobby Creation Time | Monday, December 25, 2023 13:17:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539022506918 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | ДЖОРДЖ КУНИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:16:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539022152982 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | VanzrayGx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:15:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539022898954 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | высергей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:16:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539022425879 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Crow |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 13:15:58 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vito Spagetti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:16:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539023301322 |
+| Players | 1/10 |
+| Host Name | Genesis-Exodus |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 13:17:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539023330658 |
+| Players | 1/10 |
+| Host Name | PsycoPomp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 13:17:48 |
 
 
