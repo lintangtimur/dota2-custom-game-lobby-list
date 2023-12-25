@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539160158219 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Maotisco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:18:53 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 16:38:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539162245930 |
-| Players | 22/24 |
-| Host Name | 猫又 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 17:22:06 |
+| Lobby ID | 28576539163445134 |
+| Players | 7/10 |
+| Host Name | nteziris doto nigma |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 17:23:57 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:23:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539163445134 |
-| Players | 3/10 |
-| Host Name | nteziris doto nigma |
+| Lobby ID | 28576539163951699 |
+| Players | 4/15 |
+| Host Name | D.Brain |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 25, 2023 17:24:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539163979864 |
+| Players | 4/15 |
+| Host Name | MRLs |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 17:23:57 |
+| Lobby Creation Time | Monday, December 25, 2023 17:24:46 |
 
 
 |  | epic_boss_fight_nightmare |
