@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539080980433 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | Janampa |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:06:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539135850333 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Rintarou |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:39:45 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 16:38:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539136669039 |
-| Players | 3/8 |
-| Host Name | МОТОЛИГА |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:41:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539133643531 |
@@ -95,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539136126486 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 咬人猫 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:40:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539136772258 |
+| Players | 2/5 |
+| Host Name | 52 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 16:41:17 |
 
 
