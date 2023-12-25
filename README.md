@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539045047558 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | nightingale |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:00:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539045221015 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | valar morghulis |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 14:01:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539045062911 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 14:00:46 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539045137793 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | El doctorcito |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:00:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539045315264 |
+| Players | 1/10 |
+| Host Name | Yuichi Katagiri |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 25, 2023 14:01:16 |
 
 
 |  | epic_boss_fight_nightmare |
