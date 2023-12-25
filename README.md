@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539165851095 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Антоха Железяка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:27:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539165620819 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | [K-G] Иваныч |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:27:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539163951699 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | D.Brain |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 25, 2023 17:24:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539163022779 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Lﻉ♥n |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:23:17 |
@@ -59,54 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539163379129 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:23:50 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539165607234 |
-| Players | 6/10 |
-| Host Name | MILFA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:27:14 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539165998192 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Foreskin Collector |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:27:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539166033026 |
-| Players | 3/8 |
-| Host Name | ..... |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:27:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539157906926 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ebashu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:15:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539165859122 |
-| Players | 1/5 |
-| Host Name | Hunt Hoe-Down |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 25, 2023 17:27:37 |
 
 
