@@ -20,29 +20,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:32:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539205834407 |
-| Players | 1/8 |
-| Host Name | Ms. Kitty |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 25, 2023 18:24:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539205337508 |
-| Players | 1/15 |
-| Host Name | DIO! |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 25, 2023 18:23:21 |
+| Lobby ID | 28576539209800153 |
+| Players | 9/15 |
+| Host Name | хонда аирблейд |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 18:29:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539210270126 |
+| Players | 2/10 |
+| Host Name | just9th |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 18:29:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539209547623 |
-| Players | 3/24 |
-| Host Name | noom |
+| Players | 11/24 |
+| Host Name | 先攻击该嘲讽单位 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:28:47 |
 
@@ -50,54 +50,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539208538989 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Elon MuZk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:27:31 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539209591512 |
-| Players | 11/15 |
-| Host Name | P.C. )=[Storm]=( |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 18:28:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539209700942 |
-| Players | 3/10 |
-| Host Name | Ya feel me? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 18:28:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539209800153 |
-| Players | 3/15 |
-| Host Name | хонда аирблейд |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 18:29:07 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576539206280974 |
-| Players | 3/5 |
+| Players | 1/5 |
 | Host Name | グリムセクリティ セブ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:24:35 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539209525738 |
-| Players | 2/5 |
-| Host Name | ☂ MD ツ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 18:28:46 |
+| Lobby ID | 28576539209944556 |
+| Players | 3/10 |
+| Host Name | TEPENG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 18:29:18 |
 
 
