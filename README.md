@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539086833319 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 15:16:42 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539084577424 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | winston lee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:12:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539088271939 |
-| Players | 7/8 |
-| Host Name | dsa |
+| Lobby ID | 28576539089360077 |
+| Players | 1/15 |
+| Host Name | Wokki |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 15:19:10 |
+| Lobby Creation Time | Monday, December 25, 2023 15:21:01 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539089075192 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Aspasia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:20:32 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Op |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:56:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539089335200 |
+| Players | 1/10 |
+| Host Name | Любимые дрова |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 15:20:59 |
 
 
