@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539157623314 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:14:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539158238005 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Money? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:15:54 |
