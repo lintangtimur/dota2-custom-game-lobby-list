@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:28:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539009709918 |
-| Players | 23/24 |
-| Host Name | Sylvanas Windrunner |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 12:49:21 |
+| Lobby ID | 28576539013802711 |
+| Players | 2/15 |
+| Host Name | :scythephόriâ 力 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:58:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539012870448 |
-| Players | 14/15 |
-| Host Name | kaorimiyazono |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 12:56:03 |
+| Lobby ID | 28576539013592640 |
+| Players | 2/15 |
+| Host Name | McDanon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 12:57:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:57:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539011240935 |
-| Players | 14/15 |
-| Host Name | JP |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:52:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539013592640 |
-| Players | 3/15 |
-| Host Name | McDanon |
+| Lobby ID | 28576539013821889 |
+| Players | 1/24 |
+| Host Name | Silver~ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 12:57:36 |
+| Lobby Creation Time | Monday, December 25, 2023 12:58:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539013395456 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:57:10 |
