@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539134683986 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Nekotactical |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:37:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539199616790 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | Angelmon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:15:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539201179416 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | pder cooks |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:17:52 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ☬︎kill me︎☬ ⛥eternal despair⛥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:18:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539198738899 |
+| Players | 12/15 |
+| Host Name | Влад Лейман |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 18:14:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539201579934 |
+| Players | 2/10 |
+| Host Name | Asfd |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 18:18:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:17:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539201569845 |
+| Players | 1/5 |
+| Host Name | Y |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 18:18:23 |
 
 
