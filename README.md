@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539537283299 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | teenage dirtbag |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:58:19 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:59:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539537481165 |
-| Players | 9/10 |
-| Host Name | KIDOLD gunzma |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:58:31 |
+| Lobby ID | 28576539538238941 |
+| Players | 3/8 |
+| Host Name | LilaLouSi@rkardo |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 23:59:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:58:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539538238941 |
-| Players | 1/8 |
-| Host Name | LilaLouSi@rkardo |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 23:59:18 |
+| Lobby ID | 28576539538347909 |
+| Players | 1/15 |
+| Host Name | Demitrius Demarcus Bartholomeus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:59:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539538414959 |
+| Players | 1/15 |
+| Host Name | kALIDIX*59 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 23:59:29 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | раздватричетыре) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:59:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539538339638 |
+| Players | 1/5 |
+| Host Name | mramor4eg |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 23:59:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539538414266 |
+| Players | 1/10 |
+| Host Name | HɅKɅRI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 23:59:29 |
 
 
