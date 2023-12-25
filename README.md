@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539466925400 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Google |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 25, 2023 22:46:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539466960544 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | 晚上好，夜之城！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 22:46:45 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 22:46:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539467865770 |
-| Players | 3/10 |
-| Host Name | midasoctarine |
+| Lobby ID | 28576539468048184 |
+| Players | 8/15 |
+| Host Name | Вiктор Дудка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 22:47:39 |
+| Lobby Creation Time | Monday, December 25, 2023 22:47:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,34 +104,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539466631365 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | 333 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 22:46:25 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539468048184 |
-| Players | 6/15 |
-| Host Name | Вiктор Дудка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 22:47:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539468182262 |
-| Players | 3/8 |
-| Host Name | vibeman |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 22:47:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539466344691 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | hurt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:46:08 |
