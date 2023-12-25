@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539506501402 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Парень из Одессы |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 23:26:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539503629255 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | kissada_eiei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 23:23:37 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:19:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539505385564 |
-| Players | 6/8 |
-| Host Name | АгентГабена |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:25:25 |
+| Lobby ID | 28576539506967299 |
+| Players | 7/15 |
+| Host Name | Антоха из СЕБИРИ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 23:27:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539498736488 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | TaLaNt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:18:40 |
@@ -130,11 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539506858572 |
+| Lobby ID | 28576539507103501 |
 | Players | 1/10 |
-| Host Name | (-_-) |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 25, 2023 23:26:55 |
+| Host Name | zaZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:27:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Andrew |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:24:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539505108400 |
-| Players | 1/10 |
-| Host Name | Torizu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 23:25:07 |
 
 
