@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539520262572 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | BaBa Yaga |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 23:40:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539520854414 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Amsterdam |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:41:22 |
@@ -104,9 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539524191646 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Задоджил АБОРТ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 23:44:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539524584550 |
+| Players | 1/8 |
+| Host Name | Sail |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:45:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539524663092 |
+| Players | 2/10 |
+| Host Name | DoomDED |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:45:12 |
 
 
