@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539149724499 |
-| Players | 12/15 |
-| Host Name | バカ 𒉭 |
+| Lobby ID | 28576539150425495 |
+| Players | 8/10 |
+| Host Name | Я самый крутой |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:02:33 |
+| Lobby Creation Time | Monday, December 25, 2023 17:03:41 |
 
 
 |  | ot3_desert_octet |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576539149623995 |
 | Players | 4/8 |
-| Host Name | Unthinkable |
+| Host Name | Mark, The Pososnik |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:02:23 |
 
@@ -59,36 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539149526134 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Patrick Swayze |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:02:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539150425495 |
-| Players | 4/10 |
-| Host Name | Я самый крутой |
+| Lobby ID | 28576539150689770 |
+| Players | 2/15 |
+| Host Name | Шкарлупка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:03:41 |
+| Lobby Creation Time | Monday, December 25, 2023 17:04:07 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539149080666 |
-| Players | 2/10 |
-| Host Name | Lucifer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 17:01:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539150628459 |
-| Players | 1/5 |
-| Host Name | Ronin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:04:01 |
+| Lobby ID | 28576539150732798 |
+| Players | 1/15 |
+| Host Name | angelcrazy |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 17:04:11 |
 
 
