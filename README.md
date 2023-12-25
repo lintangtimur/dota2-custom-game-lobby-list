@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538997531896 |
-| Players | 1/8 |
-| Host Name | Kiss pe |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:22:35 |
+| Lobby ID | 28576538997829110 |
+| Players | 3/10 |
+| Host Name | QQQ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 12:23:13 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538995993494 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Lion el Messi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:19:11 |
@@ -32,28 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538995860668 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:18:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538997829110 |
-| Players | 1/10 |
-| Host Name | QQQ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 12:23:13 |
+| Lobby ID | 28576538997914862 |
+| Players | 1/15 |
+| Host Name | Miracle |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:23:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538997431048 |
-| Players | 9/10 |
-| Host Name | ARa ARa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 12:22:22 |
+| Lobby ID | 28576538997920478 |
+| Players | 2/8 |
+| Host Name | Aker- |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 12:23:25 |
 
 
 |  | epic_boss_fight_normal |
