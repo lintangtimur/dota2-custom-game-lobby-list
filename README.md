@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539058100327 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:25:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539080980433 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Kirizuna |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:06:34 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539082177893 |
-| Players | 4/10 |
-| Host Name | abra |
+| Players | 2/10 |
+| Host Name | Meepo |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:08:39 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539083472636 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Dude |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:10:54 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539082503940 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ded |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:09:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539083585060 |
+| Players | 1/15 |
+| Host Name | RAW [MUTED] |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 15:11:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539083645257 |
+| Players | 1/8 |
+| Host Name | ArVo |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 25, 2023 15:11:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | French Pasta |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 15:10:28 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539083467581 |
-| Players | 2/5 |
-| Host Name | 420 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 15:10:53 |
 
 
