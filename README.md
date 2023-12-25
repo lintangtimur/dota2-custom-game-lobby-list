@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538980978034 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | 🅶🅰🆁🅴🅸 ♥シ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 11:44:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538981155384 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Sex, Lahmacun & Rock N' Roll |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 11:44:43 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538981322276 |
-| Players | 1/24 |
-| Host Name | Kres |
+| Lobby ID | 28576538981345216 |
+| Players | 2/24 |
+| Host Name | Jesus is a negro |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 11:45:06 |
+| Lobby Creation Time | Monday, December 25, 2023 11:45:10 |
 
 
 |  | epic_boss_fight_nightmare |
