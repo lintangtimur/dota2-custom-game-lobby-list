@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539367069403 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:12:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539381832730 |
-| Players | 7/8 |
-| Host Name | sleepwalker |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 21:25:32 |
+| Lobby ID | 28576539381148560 |
+| Players | 7/10 |
+| Host Name | ~$amahasla$~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 21:24:54 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539381189272 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mia Khalifa.Onlyfans✪ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 21:24:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539343537798 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 20:50:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539382444203 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | BAN |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 21:26:06 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539379014039 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Nezuko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:22:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539381148560 |
-| Players | 7/10 |
-| Host Name | ~$amahasla$~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:24:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539382366059 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | iam HORNY ✪ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:26:01 |
