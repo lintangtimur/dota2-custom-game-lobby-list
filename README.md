@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539013592640 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | McDanon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:57:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539012841344 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:56:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539014474170 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Vinland |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:59:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539014804280 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | АЩаащуээээЭЭ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 13:00:11 |
@@ -95,27 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539014819282 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:00:13 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539012687829 |
+| Players | 9/10 |
+| Host Name | Peek a Boo |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 12:55:40 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539014395480 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ChowChow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:59:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539014739569 |
-| Players | 1/5 |
-| Host Name | Royal |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 13:00:02 |
 
 
