@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539205337508 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | DIO! |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 25, 2023 18:23:21 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 18:24:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539207001783 |
-| Players | 14/15 |
-| Host Name | combowombotop |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 18:25:31 |
+| Lobby ID | 28576539207725933 |
+| Players | 2/8 |
+| Host Name | Boss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 18:26:28 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539202409934 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | SET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:19:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539207648015 |
+| Players | 2/10 |
+| Host Name | Don't soda with me |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 18:26:22 |
 
 
