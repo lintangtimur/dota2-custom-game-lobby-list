@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539009709918 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:49:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539011240935 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | JP |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:52:35 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:55:40 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539008488138 |
-| Players | 9/10 |
-| Host Name | JL'Esperance |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 12:46:42 |
+| Lobby ID | 28576539012841344 |
+| Players | 1/24 |
+| Host Name | CHOLITO DE CONO CON PLATA |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 12:56:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539012870448 |
+| Players | 4/15 |
+| Host Name | kaorimiyazono |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 12:56:03 |
 
 
 |  | epic_boss_fight_nightmare |
