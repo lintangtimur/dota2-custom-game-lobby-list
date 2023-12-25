@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 18:38:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539211594752 |
-| Players | 23/24 |
-| Host Name | yaduup |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 18:31:26 |
+| Lobby ID | 28576539217670296 |
+| Players | 2/10 |
+| Host Name | ✪Tekken✪ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 18:39:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539211411979 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 18:31:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539217089390 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | 117 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:38:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539217263572 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | AV.Pack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:38:41 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 18:38:38 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539217670296 |
-| Players | 2/10 |
-| Host Name | ✪Tekken✪ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 18:39:12 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539215582344 |
@@ -101,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 18:36:35 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539217851823 |
-| Players | 4/7 |
-| Host Name | Milfhunter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 18:39:25 |
+| Lobby ID | 28576539217923600 |
+| Players | 1/10 |
+| Host Name | Belike柠檬ICE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 18:39:31 |
 
 
