@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539389224531 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:32:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539343537798 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 20:50:19 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:28:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539389063969 |
-| Players | 14/15 |
-| Host Name | 4everyoung |
+| Lobby ID | 28576539390025663 |
+| Players | 6/8 |
+| Host Name | ALBERTO |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:32:12 |
+| Lobby Creation Time | Monday, December 25, 2023 21:33:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539389471007 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ХОДАР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:32:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539389432028 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | AmFlashz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:32:33 |
@@ -112,38 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539387740772 |
-| Players | 5/8 |
-| Host Name | КМС ПО БДСМ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:30:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28576539389862384 |
 | Players | 1/8 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 21:32:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539390025663 |
-| Players | 6/8 |
-| Host Name | ALBERTO |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:33:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539390003629 |
-| Players | 1/15 |
-| Host Name | Stfu- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 21:33:06 |
 
 
 |  | epic_boss_fight_nightmare |
