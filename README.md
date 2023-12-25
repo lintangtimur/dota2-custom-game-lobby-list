@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539569943483 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Glo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:32:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539564187496 |
-| Players | 22/24 |
-| Host Name | BBBBBB |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:26:28 |
+| Lobby ID | 28576539569988567 |
+| Players | 6/8 |
+| Host Name | 123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:32:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539570142389 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ^_^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:32:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539553402702 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:15:09 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539561242912 |
-| Players | 8/10 |
-| Host Name | хочу быть как сориовер |
+| Players | 7/10 |
+| Host Name | Te amo onii-chan<3 uwu |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:23:22 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539569907669 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Kise Ryota |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:32:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539566149420 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | hanswurst |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:28:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539567159415 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | clxse |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:29:38 |
@@ -101,49 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:31:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539569988567 |
-| Players | 3/8 |
-| Host Name | 123 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:32:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539569251201 |
-| Players | 2/8 |
-| Host Name | .no lose |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:31:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539569866368 |
-| Players | 5/10 |
-| Host Name | FaithPrince |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:32:33 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539570268861 |
+| Lobby ID | 28576539570526311 |
 | Players | 1/15 |
 | Host Name | Dee_mon |
 | Region | INDIA |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:32:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539570295678 |
-| Players | 1/15 |
-| Host Name | kacvj |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:33:01 |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:33:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -180,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Space1999 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:27:06 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576539570400999 |
+| Players | 1/7 |
+| Host Name | deadly |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:33:08 |
 
 
