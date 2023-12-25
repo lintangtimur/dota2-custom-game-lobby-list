@@ -38,31 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:32:35 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539171618498 |
-| Players | 6/10 |
-| Host Name | зЕЛЕНЬ |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 25, 2023 17:36:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539172118576 |
-| Players | 7/8 |
-| Host Name | Shinobizxc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:37:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539172322685 |
-| Players | 8/10 |
-| Host Name | zafinaايفونأربعةمع،أريدأنايفونأا |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:37:29 |
+| Lobby ID | 28576539172938370 |
+| Players | 4/8 |
+| Host Name | unwind |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 17:38:23 |
 
 
 |  | ot3_gardens_duo |
@@ -74,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:37:59 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539171813824 |
-| Players | 1/5 |
-| Host Name | Hunt Hoe-Down |
-| Region | INDIA |
-| Lobby Creation Time | Monday, December 25, 2023 17:36:44 |
+| Lobby ID | 28576539172322685 |
+| Players | 9/10 |
+| Host Name | zafinaايفونأربعةمع،أريدأنايفونأا |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 17:37:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539170539297 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Jack |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:34:50 |
