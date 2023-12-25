@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539125057534 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Reikn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:21:47 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539127402265 |
-| Players | 1/8 |
-| Host Name | Sband_Mirand |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 16:25:40 |
+| Lobby ID | 28576539127221587 |
+| Players | 6/8 |
+| Host Name | lol***** |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:25:22 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 16:21:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539127221587 |
-| Players | 5/8 |
-| Host Name | lol***** |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:25:22 |
+| Lobby ID | 28576539127625107 |
+| Players | 1/15 |
+| Host Name | vier |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 16:26:03 |
 
 
 |  | epic_boss_fight_normal |
