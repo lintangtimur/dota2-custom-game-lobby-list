@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539539859561 |
-| Players | 3/8 |
-| Host Name | r-evolve #FREEBOCCHI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:01:00 |
+| Lobby ID | 28576539540096674 |
+| Players | 5/10 |
+| Host Name | Nero |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:01:15 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539533778500 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | IEdumpling |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 23:54:39 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:58:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539540002381 |
-| Players | 2/10 |
-| Host Name | Анатолий |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:01:09 |
+| Lobby ID | 28576539540020414 |
+| Players | 4/15 |
+| Host Name | RiMURAJ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:01:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539539979693 |
-| Players | 1/8 |
-| Host Name | 讨厌我, 鄙视我 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:01:08 |
+| Lobby ID | 28576539540109840 |
+| Players | 1/15 |
+| Host Name | Full webing |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:01:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HɅKɅRI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 23:59:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539539992555 |
-| Players | 1/5 |
-| Host Name | -RoN- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:01:08 |
 
 
