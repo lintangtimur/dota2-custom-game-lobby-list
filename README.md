@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539003790091 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Destr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:36:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539003886636 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Dog.animal.cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 12:36:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539003716140 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | tmr |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:36:23 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539003479073 |
-| Players | 7/8 |
-| Host Name | EJ-Smill3 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:35:52 |
+| Lobby ID | 28576539004527028 |
+| Players | 1/8 |
+| Host Name | Мразота |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:38:08 |
 
 
 |  | ot3_desert_octet |
@@ -86,27 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539004334242 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | EPICLOOT.IN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:37:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539004527028 |
-| Players | 1/8 |
-| Host Name | Мразота |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 12:38:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539004480028 |
-| Players | 1/10 |
-| Host Name | TOROPSNAKET |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 12:38:02 |
 
 
