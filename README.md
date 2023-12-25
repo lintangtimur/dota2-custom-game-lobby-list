@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539137423110 |
+| Lobby ID | 28576539138022648 |
 | Players | 1/8 |
-| Host Name | |-Myke Towers-| |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 16:42:20 |
+| Host Name | Hi |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 25, 2023 16:43:20 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539137261332 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Sea ppl=dogs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:42:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539137773381 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Nazuno |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:42:55 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DOsman |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 16:42:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539137994774 |
+| Players | 1/8 |
+| Host Name | Пиво Мэн |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:43:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539138066039 |
+| Players | 1/8 |
+| Host Name | |-Myke Towers-| |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 16:43:24 |
 
 
 |  | epic_boss_fight_nightmare |
