@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539016496575 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Bajando locura |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:03:54 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539013592640 |
-| Players | 2/15 |
-| Host Name | Psycho[X]Killer |
+| Players | 1/15 |
+| Host Name | WinNee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:57:36 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539018494050 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | WhIn.Calichin |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:08:01 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539018486077 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Foreskin Collector |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 13:08:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539019521368 |
+| Players | 2/15 |
+| Host Name | ☬︎kill me︎☬ ⛥eternal despair⛥ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 13:10:06 |
 
 
 |  | epic_boss_fight_nightmare |
