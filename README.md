@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539039594722 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:50:10 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539040991727 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | CUM AND GO AND CUM AGAIN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:52:54 |
