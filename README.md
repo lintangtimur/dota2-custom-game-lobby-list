@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539062284265 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Hussar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:32:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539060903034 |
-| Players | 7/24 |
+| Players | 4/24 |
 | Host Name | Hope? |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:30:18 |
@@ -38,22 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:31:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539061713730 |
-| Players | 7/15 |
-| Host Name | mibibkrakov |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 14:31:51 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539062538137 |
-| Players | 4/8 |
-| Host Name | Senatino de huaura |
+| Lobby ID | 28576539062583800 |
+| Players | 6/8 |
+| Host Name | SINDROME DE TUNEL CARPIANO |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 14:33:26 |
+| Lobby Creation Time | Monday, December 25, 2023 14:33:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539062508287 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | Prometheus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:33:23 |
