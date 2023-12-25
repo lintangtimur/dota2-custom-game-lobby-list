@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:28:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539003007318 |
-| Players | 3/24 |
-| Host Name | 永远不要提前开香槟 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 12:34:51 |
+| Lobby ID | 28576539003482762 |
+| Players | 4/10 |
+| Host Name | 不運 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:35:52 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539002501372 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Neko |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 12:33:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539003099981 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | me comi varias de amarillo xd |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:35:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539002698370 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | God Rays |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 12:34:11 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:35:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539003482762 |
-| Players | 4/10 |
-| Host Name | 不運 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 12:35:52 |
+| Lobby ID | 28576539003582874 |
+| Players | 1/15 |
+| Host Name | Akasa |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 12:36:05 |
 
 
 |  | epic_boss_fight_nightmare |
