@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539056685535 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Amidamaru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:22:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539056647696 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | K.O☠ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:22:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539051907633 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:13:43 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539056190564 |
-| Players | 2/10 |
-| Host Name | Skills in Pills |
+| Players | 1/10 |
+| Host Name | yourkkd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:21:38 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539056857954 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 山上徹也 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:22:52 |
