@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539009707028 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:49:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539006969179 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:43:26 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:49:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539009575156 |
-| Players | 13/15 |
-| Host Name | Генерал ЕБЛЯ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 12:49:03 |
+| Lobby ID | 28576539011448809 |
+| Players | 2/10 |
+| Host Name | same |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:53:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539010286581 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | a potato |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:50:34 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JP |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:52:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539011448809 |
-| Players | 2/10 |
-| Host Name | same |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 12:53:02 |
 
 
 |  | epic_boss_fight_nightmare |
