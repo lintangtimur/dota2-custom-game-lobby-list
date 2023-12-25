@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539037409194 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | logical |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 13:45:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539034644305 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | LJS - Shadow Shaman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:40:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539033670118 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Kataomi´ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:38:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539035016118 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | TrueStories |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 13:41:15 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539037758407 |
-| Players | 1/15 |
-| Host Name | LTLNMR |
+| Players | 5/15 |
+| Host Name | Снова у моего керри кд меньше 1 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 13:46:36 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539036521538 |
+| Lobby ID | 28576539035694486 |
 | Players | 9/10 |
-| Host Name | InvisiBRO |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 25, 2023 13:44:13 |
+| Host Name | Toffy La Realeza |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 13:42:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539037853265 |
+| Players | 1/8 |
+| Host Name | Non-player Character |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 13:46:47 |
 
 
 |  | epic_boss_fight_nightmare |
