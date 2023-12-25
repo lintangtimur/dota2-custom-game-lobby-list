@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539634813678 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | ranze |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:43:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539634090058 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | MinD |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:42:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539635280241 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | O.o |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:43:36 |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539635904508 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | S U M M E R ♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:44:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539634979933 |
-| Players | 18/24 |
-| Host Name | ϟƘƦƖןןΣx |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:43:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539636426464 |
-| Players | 13/15 |
-| Host Name | flekshy KaK 9 XoKaGe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:44:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539636558505 |
-| Players | 8/10 |
-| Host Name | include (war_suck) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:45:02 |
 
 
 |  | ot3_desert_octet |
@@ -117,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Amado |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:45:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539637065945 |
+| Players | 3/15 |
+| Host Name | Luka Brazzi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:45:35 |
 
 
 |  | epic_boss_fight_challenger |
