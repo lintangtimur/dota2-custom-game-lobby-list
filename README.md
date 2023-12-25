@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539414064951 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | jzcz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:55:34 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 20:50:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539415820201 |
-| Players | 2/10 |
-| Host Name | fake empathy |
+| Lobby ID | 28576539415207110 |
+| Players | 2/15 |
+| Host Name | Troublesome |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:57:13 |
+| Lobby Creation Time | Monday, December 25, 2023 21:56:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539410616205 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:52:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539407831090 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | quoz |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:49:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539411826864 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | TEPUNTEO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 21:53:26 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:57:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539415207110 |
-| Players | 1/15 |
-| Host Name | Troublesome |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:56:38 |
+| Lobby ID | 28576539416803850 |
+| Players | 2/24 |
+| Host Name | <<CAT>> |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 25, 2023 21:58:08 |
 
 
 |  | epic_boss_fight_nightmare |
