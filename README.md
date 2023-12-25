@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539014386646 |
-| Players | 2/15 |
-| Host Name | Hajon |
+| Players | 1/15 |
+| Host Name | SonrieTuImportas |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 12:59:16 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539012841344 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:56:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539014474170 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Vinland |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:59:27 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539014804280 |
-| Players | 2/8 |
-| Host Name | АЩаащуээээЭЭ |
+| Players | 1/8 |
+| Host Name | YT.com/T-Rex DotA |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 13:00:11 |
 
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:00:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539012687829 |
-| Players | 9/10 |
-| Host Name | Peek a Boo |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 12:55:40 |
+| Lobby ID | 28576539015073616 |
+| Players | 3/8 |
+| Host Name | Blackberry Thunder |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 13:00:46 |
 
 
 |  | ot3_gardens_duo |
@@ -126,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Мразота |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:00:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539015073616 |
-| Players | 3/8 |
-| Host Name | Blackberry Thunder |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 13:00:46 |
 
 
 |  | epic_boss_fight_nightmare |
