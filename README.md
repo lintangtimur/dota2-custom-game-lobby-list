@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539385829363 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | ded |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:29:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539343537798 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 20:50:19 |
@@ -41,73 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539388277208 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | только побеждаю |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:31:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539388471152 |
-| Players | 5/10 |
-| Host Name | БОНДИД-Джамшут |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:31:39 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539388496092 |
-| Players | 13/15 |
-| Host Name | m4Ga |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:31:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539387440924 |
-| Players | 3/8 |
-| Host Name | difficult choice banditcamp.com |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:30:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539385470994 |
-| Players | 9/24 |
-| Host Name | neverbackdownneverwhat?? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:28:52 |
+| Lobby ID | 28576539387148935 |
+| Players | 3/15 |
+| Host Name | Rover |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 21:30:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539386934581 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | [LosPibes]Nyk0 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 21:30:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539387740772 |
-| Players | 7/8 |
-| Host Name | Детские проблемы |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:30:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539387148935 |
-| Players | 2/15 |
-| Host Name | Rover |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 21:30:25 |
+| Lobby ID | 28576539385470994 |
+| Players | 10/24 |
+| Host Name | neverbackdownneverwhat?? |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 21:28:52 |
 
 
 |  | epic_boss_fight_normal |
