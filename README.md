@@ -11,38 +11,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:25:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539506464392 |
-| Players | 6/10 |
-| Host Name | EL PATRÓN |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 23:26:31 |
+| Lobby ID | 28576539506574412 |
+| Players | 3/8 |
+| Host Name | Diane Nguyen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 23:26:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539493713274 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | MoNkeY D. CRuShiNg [ESP] |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 23:13:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539504467370 |
-| Players | 14/15 |
-| Host Name | Loquendo (2010) |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 23:24:28 |
+| Lobby ID | 28576539508328653 |
+| Players | 6/8 |
+| Host Name | cherva |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 23:28:25 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539504846230 |
-| Players | 6/10 |
-| Host Name | megacock lee |
+| Players | 1/10 |
+| Host Name | SJ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 23:24:52 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539503629255 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | kissada_eiei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 23:23:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539505904031 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Житель Харды |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:25:57 |
@@ -95,72 +95,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539504600367 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | BlackOUT- |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:24:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539506574412 |
-| Players | 3/8 |
-| Host Name | Diane Nguyen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 23:26:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539507625254 |
-| Players | 1/8 |
-| Host Name | cherva |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:27:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539507427870 |
-| Players | 7/15 |
-| Host Name | OneFragLeft |
+| Lobby ID | 28576539508661675 |
+| Players | 9/15 |
+| Host Name | БурятТормозСила |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:27:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539508114167 |
-| Players | 5/8 |
-| Host Name | Мікромолекула 11-00 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 23:28:12 |
+| Lobby Creation Time | Monday, December 25, 2023 23:28:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539507974751 |
-| Players | 7/10 |
-| Host Name | Агент |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:28:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539496620943 |
-| Players | 9/10 |
-| Host Name | Froyo- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 23:16:32 |
+| Lobby ID | 28576539508671017 |
+| Players | 8/10 |
+| Host Name | Дондочакка |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 23:28:46 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576539507825152 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | Stoffelicious |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 23:27:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539508722944 |
+| Players | 3/5 |
+| Host Name | F |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 23:28:49 |
 
 
