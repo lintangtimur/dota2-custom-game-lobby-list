@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539651514986 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Papi Culo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:01:50 |
@@ -49,47 +49,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539649479290 |
-| Players | 9/10 |
-| Host Name | EL INSANO WUAZAAA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:59:31 |
+| Lobby ID | 28576539651526011 |
+| Players | 10/10 |
+| Host Name | Grandfather |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:01:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539651566563 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | ☺☻ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:01:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539644474533 |
-| Players | 19/24 |
-| Host Name | X-ART |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:53:52 |
+| Lobby ID | 28576539651871380 |
+| Players | 1/8 |
+| Host Name | MAPACHE_$INC0LA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:02:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539651498437 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ParadoX |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:01:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539651526011 |
-| Players | 7/10 |
-| Host Name | Grandfather |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:01:51 |
 
 
 |  | epic_boss_fight_nightmare |
