@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539664359526 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | RednWhite |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:16:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539668917568 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:21:46 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 02:17:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539669036310 |
-| Players | 12/15 |
-| Host Name | Silenus |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:21:54 |
+| Lobby ID | 28576539669355532 |
+| Players | 3/10 |
+| Host Name | メザモテ |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:22:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539667607199 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Buy gf 10k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:20:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539668138103 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | BYSTHOR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:20:52 |
@@ -68,37 +68,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539668967675 |
-| Players | 3/24 |
+| Players | 10/24 |
 | Host Name | th@n@tos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:21:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539668250950 |
-| Players | 8/10 |
-| Host Name | ya slomal tebe ebalo? izvini |
+| Lobby ID | 28576539669808717 |
+| Players | 1/8 |
+| Host Name | 私流浪汉身が嫌いで |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:21:00 |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:22:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539669213754 |
-| Players | 7/10 |
-| Host Name | HangNT |
+| Lobby ID | 28576539669597066 |
+| Players | 8/10 |
+| Host Name | Калыван |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:22:06 |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:22:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539669355532 |
-| Players | 2/10 |
-| Host Name | メザモテ |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:22:16 |
+| Lobby ID | 28576539669628973 |
+| Players | 2/8 |
+| Host Name | Kvesty |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:22:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539669754385 |
+| Players | 11/15 |
+| Host Name | Evil |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:22:43 |
 
 
 |  | epic_boss_fight_challenger |
@@ -110,21 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 02:13:32 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576539666057496 |
-| Players | 8/10 |
-| Host Name | The teammate U didn't ask for |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:18:30 |
+| Lobby ID | 28576539669828292 |
+| Players | 1/5 |
+| Host Name | あなたは売春婦の息子 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:22:48 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539668537407 |
-| Players | 2/10 |
+| Lobby ID | 28576539669732971 |
+| Players | 3/10 |
 | Host Name | RAY OF HOPE |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:21:20 |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:22:42 |
 
 
