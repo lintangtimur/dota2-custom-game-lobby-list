@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:45:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539034644305 |
-| Players | 23/24 |
-| Host Name | LJS - Shadow Shaman |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 13:40:32 |
+| Lobby ID | 28576539037853265 |
+| Players | 3/8 |
+| Host Name | Non-player Character |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 13:46:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539033670118 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Kataomi´ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:38:38 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Toffy La Realeza |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:42:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539037853265 |
-| Players | 1/8 |
-| Host Name | Non-player Character |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 13:46:47 |
 
 
 |  | epic_boss_fight_nightmare |
