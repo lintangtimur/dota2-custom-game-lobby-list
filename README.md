@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539665003130 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | DsjiNN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:17:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539663783649 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | VoDka-KimimarO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:15:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539664359526 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | RednWhite |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:16:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539664874805 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Natsu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:17:09 |
@@ -83,13 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 02:17:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539665333142 |
-| Players | 4/8 |
-| Host Name | a. |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:17:40 |
+| Lobby ID | 28576539665409826 |
+| Players | 4/10 |
+| Host Name | Zer0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:17:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539665474809 |
+| Players | 1/15 |
+| Host Name | Agente Inmobiliario RE/MAX |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:17:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539665530014 |
+| Players | 2/15 |
+| Host Name | PERFECT{ZXC CURSED} |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:17:54 |
 
 
 |  | epic_boss_fight_challenger |
