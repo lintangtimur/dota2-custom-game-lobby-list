@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539000053922 |
-| Players | 2/8 |
-| Host Name | Kyla |
+| Players | 1/8 |
+| Host Name | its so cold |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 12:28:10 |
 
@@ -23,55 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539013821889 |
-| Players | 6/24 |
+| Players | 21/24 |
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:58:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539011954181 |
-| Players | 2/10 |
-| Host Name | сигаретный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 12:54:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539013592640 |
-| Players | 3/15 |
-| Host Name | McDanon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 12:57:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539012520270 |
-| Players | 5/8 |
-| Host Name | Kiss pe |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:55:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539012841344 |
-| Players | 8/24 |
-| Host Name | CHOLITO DE CONO CON PLATA |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:56:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539012687829 |
-| Players | 8/10 |
-| Host Name | ZaaL |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 12:55:40 |
 
 
 |  | ot3_gardens_duo |
@@ -85,10 +40,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539014328840 |
-| Players | 2/15 |
-| Host Name | FEED OR FEED |
+| Lobby ID | 28576539013592640 |
+| Players | 6/15 |
+| Host Name | McDanon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 12:57:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539014406213 |
+| Players | 3/10 |
+| Host Name | сигаретный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:59:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539012841344 |
+| Players | 10/24 |
+| Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:59:09 |
+| Lobby Creation Time | Monday, December 25, 2023 12:56:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539014474170 |
+| Players | 2/15 |
+| Host Name | Vinland |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:59:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539014386646 |
+| Players | 1/15 |
+| Host Name | Hajon |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 12:59:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539014395480 |
+| Players | 5/10 |
+| Host Name | ChowChow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 12:59:17 |
 
 
