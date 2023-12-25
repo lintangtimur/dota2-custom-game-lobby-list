@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539020384125 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | 𩠑 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 13:11:52 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539020260933 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Twofer601 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 13:11:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539017431185 |
-| Players | 9/10 |
-| Host Name | Loading |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 13:05:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539018488621 |
-| Players | 1/10 |
-| Host Name | MadLad |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 13:08:00 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Злой Начмед |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:11:30 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539018488621 |
+| Players | 1/10 |
+| Host Name | MadLad |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 13:08:00 |
 
 
