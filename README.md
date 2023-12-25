@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539121961999 |
-| Players | 3/8 |
-| Host Name | zxc_torpeda |
+| Lobby ID | 28576539120950540 |
+| Players | 13/15 |
+| Host Name | JustChaaaoooS♕ |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:16:38 |
+| Lobby Creation Time | Monday, December 25, 2023 16:14:58 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539122066708 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | 《Ari♡Di Mano》 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:16:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539119198595 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Lebraenys |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:12:04 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539122102100 |
-| Players | 3/8 |
-| Host Name | 14 y.o. girls fan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:16:52 |
+| Lobby ID | 28576539121518624 |
+| Players | 6/8 |
+| Host Name | Червь |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 16:15:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,34 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539120525030 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | DOsman |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 16:14:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539120950540 |
-| Players | 11/15 |
-| Host Name | JustChaaaoooS♕ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:14:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539121518624 |
-| Players | 4/8 |
-| Host Name | Червь |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 16:15:54 |
+| Lobby ID | 28576539118907563 |
+| Players | 23/24 |
+| Host Name | Trry_mee |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 25, 2023 16:11:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539120423713 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 再干中单  重拾自信 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:14:06 |
