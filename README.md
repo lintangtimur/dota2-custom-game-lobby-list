@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539628358752 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Michiking |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:35:56 |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 01:35:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539626581464 |
-| Players | 21/24 |
-| Host Name | [LosPibes]Nyk0 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:33:55 |
+| Lobby ID | 28576539628657391 |
+| Players | 8/15 |
+| Host Name | Luminos |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:36:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539628467790 |
+| Lobby ID | 28576539628755738 |
 | Players | 5/8 |
-| Host Name | Arcanise 甘いお尻 |
+| Host Name | Doctor |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:36:03 |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:36:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539624450636 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | [BRG] Anzimer |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:31:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539621870851 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:28:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539627937332 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Cabeza D. Nabo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:35:28 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 落ち込んでいる |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:36:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539628751240 |
+| Players | 2/10 |
+| Host Name | §Hacktaff§ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:36:22 |
 
 
 |  | epic_boss_fight_challenger |
