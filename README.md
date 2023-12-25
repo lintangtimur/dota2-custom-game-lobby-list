@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539080980433 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Janampa |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:06:34 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539129066418 |
-| Players | 4/10 |
-| Host Name | ♣Colapsé◘ |
+| Players | 3/10 |
+| Host Name | Hombre chambeador |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:28:26 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539133329900 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Maotisco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:35:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539135850333 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Rintarou |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:39:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539134683986 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:37:49 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539137119996 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | lew- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:41:50 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539137236013 |
+| Players | 3/8 |
+| Host Name | Davidov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:42:02 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539137159798 |
-| Players | 2/24 |
-| Host Name | Liujacket |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 25, 2023 16:41:54 |
+| Lobby ID | 28576539137261332 |
+| Players | 1/24 |
+| Host Name | Sea ppl=dogs |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 16:42:04 |
 
 
 |  | epic_boss_fight_nightmare |
