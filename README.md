@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 01:31:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539634586328 |
-| Players | 5/8 |
-| Host Name | penrijuleпопукал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:42:50 |
+| Lobby ID | 28576539635280241 |
+| Players | 2/15 |
+| Host Name | O.o |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:43:36 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539634979933 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | ϟƘƦƖןןΣx |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:43:16 |
@@ -103,9 +103,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539634868083 |
-| Players | 2/15 |
-| Host Name | МАТЬЕБАЛОВА |
+| Lobby ID | 28576539634859873 |
+| Players | 13/15 |
+| Host Name | Мавродий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:43:08 |
 
@@ -122,34 +122,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539634390371 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | TU GFA EN 4 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:42:37 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539634859873 |
-| Players | 4/15 |
-| Host Name | Мавродий |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:43:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539635089996 |
-| Players | 3/8 |
-| Host Name | DOUBLESEXUAL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:43:23 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28576539622232035 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | OnlyDizzy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:29:02 |
@@ -157,18 +139,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539631575245 |
-| Players | 7/10 |
-| Host Name | 11 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:39:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28576539634451105 |
-| Players | 5/10 |
-| Host Name | It doesn't matter |
+| Players | 1/10 |
+| Host Name | weg64 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:42:41 |
 
