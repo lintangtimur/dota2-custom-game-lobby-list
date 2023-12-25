@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539313055524 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | losing streak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 20:21:36 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539313047738 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | похвалу пж |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 20:21:35 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576539311526173 |
-| Players | 9/10 |
-| Host Name | 咬人猫 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 20:20:08 |
+| Lobby ID | 28576539313556604 |
+| Players | 1/5 |
+| Host Name | Дима Ескорт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 20:22:04 |
 
 
 |  | epic_boss_fight_hard |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 新奇 |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 25, 2023 20:21:45 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539313556604 |
-| Players | 1/5 |
-| Host Name | Дима Ескорт |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 20:22:04 |
 
 
