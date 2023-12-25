@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539558393416 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Sweet_Potato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:20:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539558834587 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | EXCREMENTATUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:20:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539554108949 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | power doge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:15:54 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:16:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539558828623 |
-| Players | 4/8 |
-| Host Name | sigma player |
+| Lobby ID | 28576539559051249 |
+| Players | 6/24 |
+| Host Name | KHAN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:20:49 |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:21:03 |
 
 
 |  | ot3_desert_octet |
@@ -126,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 逮捕 |
 | Region | Unknown |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:16:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539559051249 |
-| Players | 6/24 |
-| Host Name | KHAN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:21:03 |
 
 
 |  | epic_boss_fight_normal |
