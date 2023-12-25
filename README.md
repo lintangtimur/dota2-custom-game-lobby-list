@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539502686978 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | MAad? |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:22:40 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:13:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539498736488 |
-| Players | 22/24 |
-| Host Name | TaLaNt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:18:40 |
+| Lobby ID | 28576539504467370 |
+| Players | 2/15 |
+| Host Name | QUE RICO APRIETAS |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 23:24:28 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539499736135 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | R1V3RZ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:19:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539503684208 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Без шансовка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:23:40 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539503891692 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Северный Человек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:23:53 |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576539486340226 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | ------ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:06:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539504395139 |
+| Players | 2/5 |
+| Host Name | mramor4eg |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 23:24:24 |
 
 
