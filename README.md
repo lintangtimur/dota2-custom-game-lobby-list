@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539197357900 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Aem<3 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 18:12:52 |
@@ -41,17 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539197103156 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | " |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 18:12:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539197102980 |
-| Players | 1/15 |
-| Host Name | valduane |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:12:31 |
 
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539196763593 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | [SK]-SimaPro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:12:04 |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:13:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539197638639 |
+| Players | 1/5 |
+| Host Name | HexeKnife |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 18:13:14 |
 
 
