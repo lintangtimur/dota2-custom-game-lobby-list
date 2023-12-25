@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539034644305 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | LJS - Shadow Shaman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:40:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539034700744 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Mr.Bass |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 13:40:39 |
