@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539434229537 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | TEPUNTEO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 22:14:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539343537798 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ronal |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 20:50:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539435019832 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | El Gosu Bembosシ giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 22:15:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539435387477 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | SSK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 22:15:50 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539434697701 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | URO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:15:11 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539435362219 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | героиновый барон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:15:49 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539435536313 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Resistance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:15:59 |
