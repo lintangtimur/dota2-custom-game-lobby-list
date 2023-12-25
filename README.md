@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539142156897 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Vanished |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:50:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539133329900 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Maotisco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:35:36 |
@@ -65,6 +65,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 16:28:26 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539142935788 |
+| Players | 3/15 |
+| Host Name | vier |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 16:51:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539142970134 |
+| Players | 1/24 |
+| Host Name | daed pleier |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 16:51:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539142987333 |
+| Players | 6/8 |
+| Host Name | Я и 4 агента |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:51:27 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539140942010 |
@@ -72,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 男人哭吧哭吧不是罪>.< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:48:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539142996511 |
+| Players | 2/5 |
+| Host Name | 1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:51:28 |
 
 
