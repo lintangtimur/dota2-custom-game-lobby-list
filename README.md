@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539138022648 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 16:43:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539129066418 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Hombre chambeador |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:28:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539138871443 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Silver~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:44:42 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539138542604 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | брэдбабаа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:44:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539138741876 |
-| Players | 11/15 |
-| Host Name | убывца |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:44:30 |
+| Lobby ID | 28576539139189999 |
+| Players | 2/10 |
+| Host Name | Asfd |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 16:45:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539139004567 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Птицы идут |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:44:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539139189999 |
-| Players | 2/10 |
-| Host Name | Asfd |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:45:14 |
 
 
