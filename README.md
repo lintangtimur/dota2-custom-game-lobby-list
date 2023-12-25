@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:32:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539202178507 |
-| Players | 6/8 |
-| Host Name | Time to nowhere |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 18:19:11 |
+| Lobby ID | 28576539203051889 |
+| Players | 1/24 |
+| Host Name | ҜㄖҜㄩ尺ㄩ爪卂 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 18:20:20 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539202175553 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | andy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 18:19:11 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dr. Strange |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:19:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539201579934 |
-| Players | 9/10 |
-| Host Name | Asfd |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 18:18:24 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 18:18:59 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576539202366876 |
-| Players | 1/10 |
-| Host Name | KUZUHA |
+| Lobby ID | 28576539202817023 |
+| Players | 2/5 |
+| Host Name | END AGAD SAYANG PISO |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 18:19:26 |
+| Lobby Creation Time | Monday, December 25, 2023 18:20:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:19:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539202817023 |
-| Players | 1/5 |
-| Host Name | END AGAD SAYANG PISO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 18:20:02 |
 
 
