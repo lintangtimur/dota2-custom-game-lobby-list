@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538995993494 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Lion el Messi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:19:11 |
@@ -32,36 +32,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538995860668 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:18:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538995562762 |
-| Players | 7/8 |
-| Host Name | W бозон 弱相互作用 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 12:18:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538997664850 |
-| Players | 2/8 |
-| Host Name | Legna |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:22:52 |
+| Lobby ID | 28576538997829110 |
+| Players | 1/10 |
+| Host Name | QQQ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 12:23:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538997431048 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ARa ARa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:22:22 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576538997806683 |
+| Players | 1/5 |
+| Host Name | смурф джорджи |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 12:23:10 |
 
 
