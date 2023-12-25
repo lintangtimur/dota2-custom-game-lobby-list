@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538996854845 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:21:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538995993494 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Lion el Messi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:19:11 |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:23:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538998744879 |
-| Players | 1/24 |
-| Host Name | Happiness |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 12:25:16 |
+| Lobby ID | 28576538998768146 |
+| Players | 4/10 |
+| Host Name | 不運 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:25:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576538998817157 |
+| Players | 2/15 |
+| Host Name | Tilapia com Aids |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, December 25, 2023 12:25:25 |
 
 
 |  | epic_boss_fight_nightmare |
