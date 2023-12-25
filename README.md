@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068427169 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068571495 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Lebraenys |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:23 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539070211278 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Катофей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:47:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539070250612 |
+| Players | 1/24 |
+| Host Name | Lulalelilo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 14:47:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539070257190 |
+| Players | 1/8 |
+| Host Name | shadow fiend romantik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:47:24 |
 
 
 |  | epic_boss_fight_nightmare |
