@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538984483602 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Power Ranger Plomo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 11:52:29 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 11:58:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538986419769 |
-| Players | 13/15 |
-| Host Name | Vinland |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 11:57:03 |
+| Lobby ID | 28576538987719033 |
+| Players | 4/8 |
+| Host Name | GRP |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 12:00:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538984745251 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 25, 2023 11:53:06 |
