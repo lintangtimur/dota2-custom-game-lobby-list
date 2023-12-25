@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539050804557 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Khyleberg jr. |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 14:11:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539050243316 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Toffy La Realeza |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:10:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539049473572 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Diane Nguyen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:09:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539045062911 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 14:00:46 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dude |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:13:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539052054659 |
+| Players | 1/15 |
+| Host Name | Loquendo (2010) |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 14:13:59 |
 
 
