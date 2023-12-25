@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539102076623 |
-| Players | 14/15 |
-| Host Name | SnuSnu |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 15:43:02 |
+| Lobby ID | 28576539103217361 |
+| Players | 1/15 |
+| Host Name | не умею играть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 15:44:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539102941247 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Bo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:44:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539103130316 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ฅ^•ﻌ•^ฅ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:44:50 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | замир безгеев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:44:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539103217361 |
-| Players | 1/15 |
-| Host Name | не умею играть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 15:44:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539102914069 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:44:28 |
