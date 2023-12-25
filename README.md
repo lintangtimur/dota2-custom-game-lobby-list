@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539147704187 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Зловредина |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:59:12 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539134683986 |
-| Players | 3/24 |
-| Host Name | CHOLITO DE CONO CON PLATA |
+| Players | 1/24 |
+| Host Name | Nekotactical |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:37:49 |
 
