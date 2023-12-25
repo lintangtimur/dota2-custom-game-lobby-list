@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539343537798 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ronal |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 20:50:19 |
@@ -77,28 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539427713196 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | [LosPibes]Nyk0 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 22:08:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539429324798 |
-| Players | 9/10 |
-| Host Name | SplitAwe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 22:10:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539429448443 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Raspredval |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 22:10:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539428392715 |
+| Players | 2/10 |
+| Host Name | moremore |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 22:09:12 |
 
 
 |  | epic_boss_fight_nightmare |
