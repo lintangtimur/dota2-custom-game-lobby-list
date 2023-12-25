@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539058100327 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:25:10 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:44:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539067025158 |
-| Players | 14/15 |
-| Host Name | Con Mèo |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 25, 2023 14:41:37 |
+| Lobby ID | 28576539069252231 |
+| Players | 6/8 |
+| Host Name | ert sp wet eyes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:45:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068343697 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:43:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539068847750 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Marlin |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068427169 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539069001209 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | sadaitada |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 14:45:09 |
@@ -113,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539063384034 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Tu Rata Favorita |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 14:35:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539066975895 |
-| Players | 9/10 |
-| Host Name | Fihed |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 14:41:32 |
 
 
