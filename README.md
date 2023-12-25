@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539114465638 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Cucumba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:04:07 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539116600195 |
-| Players | 9/10 |
-| Host Name | батёк дотки tvo_1979 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:07:44 |
+| Lobby ID | 28576539116880032 |
+| Players | 1/10 |
+| Host Name | Адидас (Junior) |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 25, 2023 16:08:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539116880032 |
+| Lobby ID | 28576539117445523 |
 | Players | 1/10 |
-| Host Name | Адидас (Junior) |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 25, 2023 16:08:12 |
+| Host Name | ^^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:09:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539117446201 |
+| Players | 1/10 |
+| Host Name | Biborten! |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 16:09:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Robert |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:08:33 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539117451952 |
+| Players | 1/5 |
+| Host Name | Добрый Я(ДА-ДА-Я) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:09:09 |
 
 
