@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539145231363 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 16:55:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539080980433 |
-| Players | 1/24 |
-| Host Name | 1Class |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 15:06:34 |
+| Lobby ID | 28576539146387992 |
+| Players | 2/8 |
+| Host Name | klodminet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:57:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539144351838 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | PerpleXity_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:53:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539129066418 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Hombre chambeador |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:28:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539146130769 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | GENES1S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:56:37 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OG. smile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:52:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539146402654 |
+| Players | 1/5 |
+| Host Name | Krutoi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:57:04 |
 
 
