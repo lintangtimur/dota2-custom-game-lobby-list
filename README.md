@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538985682623 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 11:55:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538988937362 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | God Rays |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 12:03:08 |
@@ -40,35 +40,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538987207200 |
-| Players | 7/8 |
-| Host Name | Scrayl |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 11:58:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538989625136 |
-| Players | 1/10 |
-| Host Name | Ejboss (the real one) |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 12:04:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576538989656619 |
-| Players | 9/10 |
-| Host Name | сигаретный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 12:04:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28576538989903979 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | チーズ好き |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 12:05:26 |
