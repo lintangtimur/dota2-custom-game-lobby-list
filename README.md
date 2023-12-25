@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539050681690 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | DD Mydoira |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 14:11:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539050680892 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | burN- |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 14:11:29 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539050804557 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | hayo |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 14:11:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539051584635 |
+| Players | 2/5 |
+| Host Name | шо you doing бл*ть |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 25, 2023 14:13:10 |
 
 
