@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539463923596 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Logan |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 22:43:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539464623602 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | IRealDeal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:44:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539465227349 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | dgl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:45:02 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Casting Brazzer |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 22:44:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539465392723 |
+| Players | 3/8 |
+| Host Name | SENATINO PLAYER |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 22:45:12 |
 
 
 |  | epic_boss_fight_nightmare |
