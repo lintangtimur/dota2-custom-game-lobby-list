@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539044843929 |
+| Players | 4/8 |
+| Host Name | cored1nation |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:00:20 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539043673544 |
-| Players | 14/15 |
-| Host Name | torn |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 13:58:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539043370490 |
-| Players | 8/10 |
-| Host Name | hola |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 13:57:27 |
+| Lobby ID | 28576539045047558 |
+| Players | 2/15 |
+| Host Name | nightingale |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:00:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539039594722 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:50:10 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539042379076 |
-| Players | 21/24 |
-| Host Name | ✿迅猛小老虎 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 13:55:33 |
+| Lobby ID | 28576539045062911 |
+| Players | 1/24 |
+| Host Name | BKBB |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 14:00:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,30 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:55:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539044843929 |
-| Players | 1/8 |
-| Host Name | cored1nation |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 14:00:20 |
+| Lobby ID | 28576539045137793 |
+| Players | 2/10 |
+| Host Name | El doctorcito |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 14:00:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539042618444 |
-| Players | 9/10 |
-| Host Name | Jet |
+| Lobby ID | 28576539045057709 |
+| Players | 2/10 |
+| Host Name | InvisiBRO |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 13:56:01 |
+| Lobby Creation Time | Monday, December 25, 2023 14:00:46 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539044937326 |
-| Players | 1/5 |
-| Host Name | BeoWulf |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 14:00:31 |
+| Lobby ID | 28576539045113012 |
+| Players | 1/10 |
+| Host Name | SummYourMom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:00:53 |
 
 
