@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539379014039 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Nezuko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:22:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539382878424 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Comix |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:26:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539383122839 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | neverbackdownneverwhat?? |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:26:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539383007271 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | l |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:26:36 |
@@ -95,10 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539383475823 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | _unnamed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:27:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539383583419 |
+| Players | 1/8 |
+| Host Name | gazdratjopi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 21:27:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539383640265 |
+| Players | 3/8 |
+| Host Name | папа ПУДЖ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 21:27:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539383676463 |
+| Players | 1/15 |
+| Host Name | PukiDuki |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 21:27:13 |
 
 
 |  | epic_boss_fight_nightmare |
