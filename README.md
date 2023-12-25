@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539485674116 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Дауби Даубиев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:05:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539477166848 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | EsKunG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 22:56:53 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539486802401 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | пузырь 1 а дота 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:06:40 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539483844520 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | >CroW< |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:03:39 |
