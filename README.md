@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:12:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539375667726 |
-| Players | 9/10 |
-| Host Name | 4 |
+| Lobby ID | 28576539376782266 |
+| Players | 3/15 |
+| Host Name | cpt.Sparrow |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:19:53 |
+| Lobby Creation Time | Monday, December 25, 2023 21:20:54 |
 
 
 |  | ot3_desert_octet |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539376560888 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | YALNIZKURT42!! |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:20:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539376782266 |
-| Players | 2/15 |
-| Host Name | cpt.Sparrow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:20:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539373700885 |
-| Players | 1/5 |
-| Host Name | dom |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 21:18:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539374098358 |
-| Players | 6/10 |
-| Host Name | Izumiiiiiiiiii<3 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 21:18:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Душный Тонни |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:19:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539374098358 |
+| Players | 6/10 |
+| Host Name | Izumiiiiiiiiii<3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 21:18:28 |
 
 
