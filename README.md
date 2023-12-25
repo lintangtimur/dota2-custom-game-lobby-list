@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539176759274 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | I believe in myself |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:43:58 |
@@ -67,29 +67,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539185604533 |
-| Players | 7/8 |
-| Host Name | 🐋Ne_Kit🐋 |
+| Lobby ID | 28576539186549272 |
+| Players | 4/8 |
+| Host Name | овуляция-машина |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:56:36 |
+| Lobby Creation Time | Monday, December 25, 2023 17:57:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539186249776 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | andy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 17:57:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539186549272 |
-| Players | 1/8 |
-| Host Name | овуляция-машина |
+| Lobby ID | 28576539186849421 |
+| Players | 1/10 |
+| Host Name | Копатыч |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:57:55 |
+| Lobby Creation Time | Monday, December 25, 2023 17:58:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539186870834 |
+| Players | 1/24 |
+| Host Name | 177310 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 17:58:23 |
 
 
 |  | epic_boss_fight_nightmare |
