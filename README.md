@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539078695194 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | TYT Serious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:02:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539077746877 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:00:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539079040809 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Weedy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:03:09 |
