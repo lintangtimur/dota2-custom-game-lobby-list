@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539124302001 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | ☭Fuck Bluehole Inc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:20:31 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539080980433 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Janampa |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:06:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539123842996 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Smuk Frok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:19:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539124237190 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | They Call Me Crazy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 16:20:25 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539124330938 |
-| Players | 1/10 |
-| Host Name | encaidaR csgorun.run |
+| Players | 2/10 |
+| Host Name | waiting for death |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:20:34 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539124230810 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Oyasuminasai™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:20:24 |
