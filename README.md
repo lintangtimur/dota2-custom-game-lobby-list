@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539122325344 |
-| Players | 7/8 |
-| Host Name | dont talk to me |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:17:15 |
+| Lobby ID | 28576539123373139 |
+| Players | 7/24 |
+| Host Name | AmBOT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 16:18:59 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 15:06:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539122375196 |
-| Players | 13/15 |
-| Host Name | Охотник на Куниц |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:17:20 |
+| Lobby ID | 28576539113085065 |
+| Players | 2/8 |
+| Host Name | SabrosonxD322 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 16:01:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | They Call Me Crazy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 16:15:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539113085065 |
-| Players | 2/8 |
-| Host Name | SabrosonxD322 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 16:01:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539123373139 |
-| Players | 4/24 |
-| Host Name | AmBOT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 16:18:59 |
 
 
 |  | epic_boss_fight_normal |
