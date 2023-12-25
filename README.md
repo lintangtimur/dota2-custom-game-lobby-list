@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539012841344 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:56:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539012870448 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | kaorimiyazono |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 12:56:03 |
@@ -108,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | x65nchanter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:56:13 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576539013092839 |
+| Players | 1/7 |
+| Host Name | 266047 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 12:56:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539013091050 |
+| Players | 1/5 |
+| Host Name | Untiltable grind machine |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 12:56:31 |
 
 
