@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539060903034 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Hope? |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:30:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539061516435 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:31:29 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SINDROME DE TUNEL CARPIANO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:33:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539062909626 |
+| Players | 1/10 |
+| Host Name | panço |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 14:34:09 |
 
 
 |  | epic_boss_fight_nightmare |
