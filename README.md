@@ -14,46 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539058732254 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Mashmallow7 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:26:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539058294873 |
-| Players | 5/8 |
-| Host Name | Estudia sonso |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 14:25:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539060852949 |
-| Players | 2/15 |
-| Host Name | pimp |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 14:30:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539060527367 |
-| Players | 5/8 |
-| Host Name | Serph~ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 14:29:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539059786927 |
-| Players | 9/10 |
-| Host Name | iProbie |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 14:28:15 |
 
 
 |  | ot3_desert_octet |
@@ -63,6 +27,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hope? |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:30:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539060852949 |
+| Players | 5/15 |
+| Host Name | pimp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:30:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539055588278 |
+| Players | 22/24 |
+| Host Name | BKBB |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 14:20:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539060939678 |
+| Players | 3/10 |
+| Host Name | FEOFAN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:30:23 |
 
 
 |  | epic_boss_fight_nightmare |
