@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068427169 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068571495 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Lebraenys |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068343697 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:43:59 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539070102006 |
-| Players | 6/10 |
-| Host Name | Hombre chambeador |
+| Players | 5/10 |
+| Host Name | Shearinex |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:47:08 |
 
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:48:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539070211278 |
-| Players | 13/15 |
-| Host Name | Катофей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 14:47:20 |
+| Lobby ID | 28576539070769468 |
+| Players | 1/24 |
+| Host Name | Kamikaze |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 14:48:20 |
 
 
 |  | ot3_desert_octet |
@@ -83,46 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:47:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539070257190 |
-| Players | 7/8 |
-| Host Name | shadow fiend romantik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 14:47:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539070694417 |
-| Players | 1/24 |
-| Host Name | Absmuui |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 14:48:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539070769468 |
-| Players | 1/24 |
-| Host Name | Kamikaze |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 14:48:20 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539071029349 |
-| Players | 7/10 |
-| Host Name | codeine abuzer |
+| Lobby ID | 28576539071577498 |
+| Players | 2/10 |
+| Host Name | 110 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 14:48:47 |
+| Lobby Creation Time | Monday, December 25, 2023 14:49:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539071531066 |
+| Players | 2/8 |
+| Host Name | tv/karnitin3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:49:41 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539069549903 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Moon Knight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:46:08 |
