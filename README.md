@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538989903979 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | チーズ好き |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 12:05:26 |
@@ -56,21 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:06:26 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538990574816 |
+| Players | 1/10 |
+| Host Name | P福特メ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 12:06:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576538987207200 |
+| Players | 6/8 |
+| Host Name | Lefty sm |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 11:58:54 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538989638965 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:04:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576538989911643 |
-| Players | 1/5 |
-| Host Name | Pene de Mosca |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:05:27 |
 
 
