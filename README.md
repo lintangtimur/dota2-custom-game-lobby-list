@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539100307275 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:40:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539101715889 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Greetings |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:42:26 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539100845732 |
-| Players | 14/15 |
-| Host Name | yapi_dor??? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 15:40:56 |
+| Lobby ID | 28576539102076623 |
+| Players | 1/15 |
+| Host Name | SnuSnu |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 15:43:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576539101240744 |
-| Players | 1/7 |
+| Players | 3/7 |
 | Host Name | heybibiyea |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 15:41:36 |
