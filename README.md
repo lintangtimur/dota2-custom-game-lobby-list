@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:14:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539022152982 |
-| Players | 22/24 |
-| Host Name | VanzrayGx |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 13:15:25 |
+| Lobby ID | 28576539022425879 |
+| Players | 13/15 |
+| Host Name | Crow |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 25, 2023 13:15:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539023637002 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Lime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:18:26 |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:15:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539022425879 |
-| Players | 13/15 |
-| Host Name | Crow |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 25, 2023 13:15:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539023301322 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Genesis-Exodus |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 13:17:45 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539023330658 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | PsycoPomp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:17:48 |
