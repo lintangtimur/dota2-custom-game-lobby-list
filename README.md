@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538984483602 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Power Ranger Plomo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 11:52:29 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538983924274 |
-| Players | 5/8 |
-| Host Name | в 24 выйду по удо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 11:51:11 |
+| Lobby ID | 28576538985535284 |
+| Players | 1/8 |
+| Host Name | RezEv |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 11:54:57 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538982660897 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Angelmon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 11:48:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538984745251 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 25, 2023 11:53:06 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 11:52:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538984949255 |
-| Players | 14/15 |
-| Host Name | robasti |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 11:53:35 |
+| Lobby ID | 28576538985682623 |
+| Players | 1/24 |
+| Host Name | BKBB |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 11:55:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538985310019 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Stray |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 11:54:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538985535284 |
-| Players | 1/8 |
-| Host Name | RezEv |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 11:54:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538985682623 |
-| Players | 1/24 |
-| Host Name | BKBB |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 11:55:18 |
 
 
 |  | epic_boss_fight_nightmare |
