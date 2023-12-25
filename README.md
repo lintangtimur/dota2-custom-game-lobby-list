@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539554108949 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | power doge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:15:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539554516834 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | ElHombreQueCarreoAlIncarreable |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:16:19 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:16:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539556777480 |
-| Players | 11/15 |
-| Host Name | LOL |
+| Lobby ID | 28576539557253164 |
+| Players | 6/8 |
+| Host Name | Чемпион России по Татарстану |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:18:40 |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:19:10 |
 
 
 |  | ot3_desert_octet |
@@ -135,6 +135,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Small HanD |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:19:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539550216562 |
+| Players | 21/24 |
+| Host Name | 🅴 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:11:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539557169549 |
+| Players | 4/8 |
+| Host Name | Вовка |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:19:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -167,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539556323508 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Wootmonster |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:18:12 |
