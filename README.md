@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538985895879 |
-| Players | 9/10 |
-| Host Name | Jose Jose |
+| Lobby ID | 28576538985682623 |
+| Players | 5/24 |
+| Host Name | BKBB |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 11:55:48 |
+| Lobby Creation Time | Monday, December 25, 2023 11:55:18 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538986899575 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | DelphiniumSTR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 11:58:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538986419769 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Vinland |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 11:57:03 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 25, 2023 11:53:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576538985682623 |
-| Players | 5/24 |
-| Host Name | BKBB |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 11:55:18 |
 
 
 |  | epic_boss_fight_nightmare |
