@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538992770995 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:12:00 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538993436029 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | HAΞZΞR |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 12:13:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538994610090 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:16:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538993971487 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | VLA.ALBION |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:14:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538994138364 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Saga |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 25, 2023 12:15:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538994724745 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | MONO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:16:21 |
@@ -68,27 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538995137904 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | еблан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:17:16 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538994656941 |
-| Players | 3/10 |
-| Host Name | Loading |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 12:16:11 |
+| Lobby ID | 28576538995193912 |
+| Players | 5/10 |
+| Host Name | kitsunezaru |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:17:23 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576538991012735 |
-| Players | 8/10 |
-| Host Name | Любимые дрова |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 12:08:00 |
+| Lobby ID | 28576538995190153 |
+| Players | 2/10 |
+| Host Name | 4/5 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:17:23 |
 
 
