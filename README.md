@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539036678295 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | MadLad |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 13:44:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539040991727 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | CUM AND GO AND CUM AGAIN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:52:54 |
