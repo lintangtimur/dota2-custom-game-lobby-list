@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539163951699 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Секс инструктор |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 25, 2023 17:24:43 |
@@ -65,22 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:22:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539163979864 |
-| Players | 9/15 |
-| Host Name | MRLs |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 17:24:46 |
+| Lobby ID | 28576539164446874 |
+| Players | 4/8 |
+| Host Name | Пиво Мэн |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 17:25:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539163379129 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:23:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539164668018 |
+| Players | 5/15 |
+| Host Name | idk what im doing |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 17:25:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539164276974 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Poseidon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:25:13 |
