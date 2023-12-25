@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539028938527 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Android Coder |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 13:29:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539031053608 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Murió EG, ahora fan de Wisper |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:33:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539020014425 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | [Sir].BaNooBaBus Hairyman The2nd |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 13:11:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539030939091 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Удар Отчима |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:33:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539029773356 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | 『　          』 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:30:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539029716139 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Saga |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:30:41 |
@@ -83,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:30:33 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539030319548 |
-| Players | 7/10 |
-| Host Name | NDA |
+| Lobby ID | 28576539031724732 |
+| Players | 3/24 |
+| Host Name | Ah Zai |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 13:31:56 |
+| Lobby Creation Time | Monday, December 25, 2023 13:34:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539031792963 |
+| Players | 1/10 |
+| Host Name | Abyssal |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 13:34:56 |
 
 
