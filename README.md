@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539563488324 |
-| Players | 5/8 |
-| Host Name | Jopan |
+| Lobby ID | 28576539563775220 |
+| Players | 6/8 |
+| Host Name | А на пакеты мне до Лампочки |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:25:44 |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:26:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539564187496 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | BBBBBB |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:26:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539558098372 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:20:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539562466193 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | 狗屎游戏 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:24:40 |
@@ -101,67 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:24:31 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539563601633 |
-| Players | 14/15 |
-| Host Name | big shmunk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:25:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539563603922 |
-| Players | 2/15 |
-| Host Name | I used to Chill |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:25:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539563775220 |
-| Players | 6/8 |
-| Host Name | А на пакеты мне до Лампочки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:26:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539563796439 |
-| Players | 4/8 |
-| Host Name | tilibom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:26:03 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539564014942 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | BOBRA JA PIERDOLę JAKIE BYDLE |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:26:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539559051249 |
-| Players | 23/24 |
-| Host Name | KHAN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:21:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539564376444 |
-| Players | 2/8 |
-| Host Name | Волосатая Бубна |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:26:41 |
+| Lobby ID | 28576539563603922 |
+| Players | 6/15 |
+| Host Name | I used to Chill |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:25:51 |
 
 
 |  | epic_boss_fight_normal |
