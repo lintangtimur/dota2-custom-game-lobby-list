@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539529209132 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:49:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539526312030 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | LowenStone |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 23:46:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539532090828 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | demon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:52:54 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539531634667 |
-| Players | 13/15 |
-| Host Name | Levi Ackerman |
+| Lobby ID | 28576539532310970 |
+| Players | 7/15 |
+| Host Name | reactive trident |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 23:52:26 |
+| Lobby Creation Time | Monday, December 25, 2023 23:53:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539531669679 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Mr. HDHQ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:52:28 |
@@ -113,16 +113,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539515976227 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 😳Анимэ Это Ошибка😳 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:36:20 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539532342724 |
+| Players | 1/10 |
+| Host Name | Naruto Quispe |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 23:53:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539532339340 |
+| Players | 1/8 |
+| Host Name | _BlackPrince_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:53:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539531030280 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | MORPHEUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:51:48 |
@@ -131,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539531428096 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 23:52:13 |
