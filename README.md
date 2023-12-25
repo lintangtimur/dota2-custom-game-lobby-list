@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539193745682 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | ₱łⱫĐ₳ V₳₥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:08:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539192395220 |
-| Players | 5/8 |
-| Host Name | Airos - MUTANT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 18:06:11 |
+| Lobby ID | 28576539193994890 |
+| Players | 5/24 |
+| Host Name | ~XingXingHai~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 18:08:21 |
 
 
 |  | ot3_gardens_duo |
@@ -56,19 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 18:08:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539193910780 |
-| Players | 1/24 |
-| Host Name | 马季福奇 |
+| Lobby ID | 28576539194411589 |
+| Players | 2/8 |
+| Host Name | OROCHI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 18:08:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539194452295 |
+| Players | 1/15 |
+| Host Name | Micheal Jordan |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 18:08:15 |
+| Lobby Creation Time | Monday, December 25, 2023 18:08:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539193478494 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 千面之王法拉利 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:07:39 |
