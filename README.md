@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539540282895 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:01:26 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:02:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539541166511 |
-| Players | 6/8 |
-| Host Name | мышь/люблю леру |
+| Lobby ID | 28576539542240825 |
+| Players | 4/15 |
+| Host Name | yasin |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:02:23 |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:03:31 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539540384091 |
-| Players | 9/15 |
+| Players | 6/15 |
 | Host Name | Крутой Окер |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:01:33 |
@@ -119,6 +119,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:03:19 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539542118638 |
+| Players | 1/15 |
+| Host Name | ² |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:03:23 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576539532029401 |
@@ -131,27 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539538414266 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | HɅKɅRI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 23:59:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539542059460 |
-| Players | 2/10 |
-| Host Name | ZeNtEx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:03:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539542054353 |
-| Players | 1/5 |
-| Host Name | IIpopok |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:03:19 |
 
 
