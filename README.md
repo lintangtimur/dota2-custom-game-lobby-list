@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539552042744 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Freddy Fazbear |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:13:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539550421976 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | NDR3XYZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:12:06 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:13:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539550216562 |
-| Players | 22/24 |
-| Host Name | 🅴 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:11:53 |
+| Lobby ID | 28576539548690445 |
+| Players | 12/15 |
+| Host Name | ТОЛИК ЭГОИСТ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:10:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539551423744 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Marshals |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:13:08 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539552548654 |
-| Players | 6/10 |
-| Host Name | lavieoubourse |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:14:17 |
+| Lobby ID | 28576539552849250 |
+| Players | 4/10 |
+| Host Name | clipped wings |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:14:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539551739548 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | AnJo1nt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:13:27 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DIZZY IS THAT U? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:14:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539548690445 |
-| Players | 13/15 |
-| Host Name | ТОЛИК ЭГОИСТ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:10:18 |
 
 
 |  | epic_boss_fight_normal |
