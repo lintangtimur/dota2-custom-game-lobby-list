@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:26:28 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539565640581 |
+| Players | 1/10 |
+| Host Name | AtoM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:28:01 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539565486839 |
-| Players | 6/15 |
-| Host Name | i love warcrime |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:27:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539564924391 |
-| Players | 6/8 |
-| Host Name | fnifner |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:27:15 |
+| Lobby ID | 28576539565150116 |
+| Players | 1/15 |
+| Host Name | God Rays |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:27:30 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539561242912 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | НАXУЙ ДОТУ |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:23:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539564171273 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Leyo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:26:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539565111680 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | АДСКИЙ ПЕРДЕЖ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:27:27 |
@@ -90,33 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CP3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:26:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539565150116 |
-| Players | 2/15 |
-| Host Name | God Rays |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:27:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539565233738 |
-| Players | 8/10 |
-| Host Name | 0_0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:27:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539565611993 |
-| Players | 1/8 |
-| Host Name | Егор Метеор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:27:59 |
 
 
 |  | epic_boss_fight_normal |
