@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:25:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539026528525 |
-| Players | 4/8 |
-| Host Name | Eldarko15 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 13:24:16 |
+| Lobby ID | 28576539028583879 |
+| Players | 2/24 |
+| Host Name | Reinhardt |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 13:28:21 |
 
 
 |  | ot3_desert_octet |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539027195258 |
-| Players | 13/24 |
-| Host Name | 25Baam |
+| Players | 15/24 |
+| Host Name | DaRk_MaNu |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:25:36 |
 
@@ -54,5 +54,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ZaaL |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 13:27:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539028529857 |
+| Players | 3/10 |
+| Host Name | {THE~@} |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 13:28:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539028631949 |
+| Players | 2/10 |
+| Host Name | Cazador de Furros |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 25, 2023 13:28:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539028741146 |
+| Players | 1/5 |
+| Host Name | vendetta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 13:28:40 |
 
 
