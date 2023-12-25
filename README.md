@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539467283952 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Movistar Perú Oficial |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 22:47:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539468891946 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | BoB LeE SwaGgeR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 22:48:40 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539471156534 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | GGWP |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 22:50:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539471160336 |
-| Players | 2/8 |
-| Host Name | BTW psychopath❄ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 22:50:55 |
+| Lobby ID | 28576539470687733 |
+| Players | 7/15 |
+| Host Name | XXXTENTACION |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 22:50:27 |
 
 
 |  | epic_boss_fight_nightmare |
