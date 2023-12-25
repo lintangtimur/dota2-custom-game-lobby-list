@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539491984777 |
-| Players | 2/10 |
-| Host Name | Сосать Хуевротов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:11:53 |
+| Lobby ID | 28576539484825108 |
+| Players | 23/24 |
+| Host Name | ........ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 23:04:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539486802401 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | MinD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:06:40 |
@@ -58,38 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539491955966 |
-| Players | 4/15 |
-| Host Name | Shadow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:11:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28576539491682873 |
 | Players | 1/15 |
 | Host Name | Imbecility & Courage♉ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 23:11:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539492154280 |
-| Players | 6/8 |
-| Host Name | midasoctarine |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:12:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539492429637 |
-| Players | 1/8 |
-| Host Name | Sh1ko |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:12:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yui |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 23:11:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539492536329 |
+| Players | 1/10 |
+| Host Name | Amazon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 23:12:26 |
 
 
