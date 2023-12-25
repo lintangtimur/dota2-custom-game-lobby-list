@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539505493255 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | GATO KCHONDO |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:25:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539499571043 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 25, 2023 23:19:31 |
@@ -92,10 +92,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:27:10 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539509349279 |
+| Players | 7/15 |
+| Host Name | 惠索斯 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:29:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539509317588 |
+| Players | 3/8 |
+| Host Name | cr[][][] |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 23:29:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539506464392 |
+| Players | 7/10 |
+| Host Name | EL PATRÓN |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 23:26:31 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576539507825152 |
-| Players | 4/7 |
+| Players | 3/7 |
 | Host Name | Stoffelicious |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 23:27:54 |
