@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539082177893 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | shatunchick.twitch.tv |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:08:39 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539084846257 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | YATOVOROT |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:13:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539085354997 |
+| Players | 1/15 |
+| Host Name | Sora[GM] |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 15:14:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:13:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539083217510 |
-| Players | 9/10 |
-| Host Name | French Pasta |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 25, 2023 15:10:28 |
 
 
