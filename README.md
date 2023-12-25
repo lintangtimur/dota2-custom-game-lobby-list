@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539063084829 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | CUM AND GO AND CUM AGAIN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:34:29 |
