@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539518311572 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Bniuoas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 23:38:45 |
@@ -112,26 +112,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539519324774 |
-| Players | 12/15 |
-| Host Name | Veselsak |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 23:39:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28576539519330566 |
-| Players | 1/15 |
-| Host Name | Naiman Power |
+| Players | 4/15 |
+| Host Name | Grain |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 23:39:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539519571951 |
+| Players | 2/24 |
+| Host Name | ゆうま |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 23:40:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539519604953 |
+| Players | 3/8 |
+| Host Name | привет я гарик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:40:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539519613837 |
+| Players | 4/8 |
+| Host Name | Офисный стиляга |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:40:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539514901055 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Vegabone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 23:35:13 |
@@ -140,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539517806895 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | •☭Pᴜᴛɪɴ☭• |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:38:14 |
@@ -153,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maison margiela |
 | Region | PWTELECOMZHEJIANG |
 | Lobby Creation Time | Monday, December 25, 2023 23:33:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539519459979 |
-| Players | 2/5 |
-| Host Name | Ana พระราม7 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 23:39:56 |
 
 
