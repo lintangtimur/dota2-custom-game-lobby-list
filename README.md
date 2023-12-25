@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539148558590 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 1k Mycop |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:00:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539149027558 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | who is LMFAO |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:01:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539134683986 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Nekotactical |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:37:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539149526134 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Patrick Swayze |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:02:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539149623995 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Unthinkable |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:02:23 |
