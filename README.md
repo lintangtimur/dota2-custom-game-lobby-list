@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539067796783 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | НЕПОНЯТЫЙ НЕ Я |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:43:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539067025158 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Con Mèo |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 14:41:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539067478543 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Rule |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:42:25 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:42:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539067889648 |
-| Players | 2/10 |
-| Host Name | Hani |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 14:43:10 |
+| Lobby ID | 28576539068093628 |
+| Players | 4/8 |
+| Host Name | Perseverance |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 14:43:32 |
 
 
 |  | epic_boss_fight_nightmare |
