@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539176759274 |
-| Players | 3/15 |
-| Host Name | Maotisco |
+| Players | 1/15 |
+| Host Name | I believe in myself |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:43:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539184749662 |
-| Players | 9/10 |
-| Host Name | AMATERASU |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:55:25 |
+| Lobby ID | 28576539185406357 |
+| Players | 1/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 17:56:19 |
 
 
 |  | ot3_gardens_duo |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:46:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539185324358 |
+| Players | 3/8 |
+| Host Name | Belfort |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 17:56:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539185341360 |
+| Players | 2/15 |
+| Host Name | FULL PMA MODe/allmuted/swap cm |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 17:56:14 |
 
 
 |  | epic_boss_fight_nightmare |
