@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539000053922 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Kyla |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 12:28:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539004722570 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Feliz Navidad Perras! |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:38:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539002501372 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Neko |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 12:33:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539004334242 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | EPICLOOT.IN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:37:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539004876526 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kiss pe |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:38:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539004063959 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:37:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539005081150 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:39:20 |
