@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539471017865 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | [82AD] simpLey |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 22:50:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539471019108 |
-| Players | 7/8 |
-| Host Name | Mynni |
+| Lobby ID | 28576539471720066 |
+| Players | 6/10 |
+| Host Name | rafzZ~ |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 22:50:46 |
+| Lobby Creation Time | Monday, December 25, 2023 22:51:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539463978861 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | King Nothing |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 22:43:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539471156534 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | GGWP |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 22:50:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539466925400 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | no reason |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 25, 2023 22:46:43 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 22:50:39 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539471723315 |
-| Players | 1/24 |
-| Host Name | mariapinga_conpelo |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 22:51:28 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539470571033 |
@@ -130,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576539471670552 |
+| Lobby ID | 28576539471906565 |
 | Players | 1/5 |
 | Host Name | Life Could be a Dream |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, December 25, 2023 22:51:25 |
+| Lobby Creation Time | Monday, December 25, 2023 22:51:39 |
 
 
