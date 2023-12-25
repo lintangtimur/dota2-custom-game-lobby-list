@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576538982658142 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | HarryTD |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 11:48:14 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 11:48:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576538982767237 |
-| Players | 8/10 |
-| Host Name | BOBRA JA PIERDOLę JAKIE BYDLE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 11:48:29 |
+| Lobby ID | 28576538983549851 |
+| Players | 1/15 |
+| Host Name | NeDix! |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 11:50:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,21 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 11:48:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576538983549851 |
-| Players | 1/15 |
-| Host Name | NeDix! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 11:50:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576538982411853 |
-| Players | 8/10 |
-| Host Name | TOJI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 11:47:39 |
+| Lobby ID | 28576538983924274 |
+| Players | 1/8 |
+| Host Name | в 24 выйду по удо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 11:51:11 |
 
 
