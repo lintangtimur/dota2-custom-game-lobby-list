@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539028938527 |
-| Players | 10/15 |
-| Host Name | Android Coder |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 25, 2023 13:29:04 |
+| Lobby ID | 28576539037409194 |
+| Players | 2/10 |
+| Host Name | logical |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 13:45:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539034644305 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | LJS - Shadow Shaman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:40:32 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539035016118 |
-| Players | 4/8 |
-| Host Name | Rubert Dubert |
+| Players | 1/8 |
+| Host Name | TrueStories |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 13:41:15 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539036891110 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | У САМУРАЯ НЕТ ЦЕЛИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:44:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539036521538 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | InvisiBRO |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 13:44:13 |
