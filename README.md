@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539617208366 |
-| Players | 23/24 |
-| Host Name | Harvest Dawn |
+| Lobby ID | 28576539620221783 |
+| Players | 4/8 |
+| Host Name | Nevermore better. |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:23:31 |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:26:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539619596217 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | BOPOH[BLR] |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:26:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539618161748 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Stotende |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:24:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539615796733 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | K24A2 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:21:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539616786923 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:23:04 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539620165080 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | [KiberJoy] |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:26:47 |
@@ -119,31 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 01:26:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539620221783 |
-| Players | 2/8 |
-| Host Name | Nevermore better. |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:26:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539620327227 |
-| Players | 1/8 |
-| Host Name | Mitzy Te Extraño |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:26:57 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539620329805 |
-| Players | 1/15 |
-| Host Name | 7POJLJLЬ |
+| Lobby ID | 28576539618209294 |
+| Players | 14/15 |
+| Host Name | Bazar_Jeckson |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 01:26:57 |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:24:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539620522987 |
+| Players | 1/8 |
+| Host Name | Таня Ногти |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:27:10 |
 
 
 |  | epic_boss_fight_nightmare |
