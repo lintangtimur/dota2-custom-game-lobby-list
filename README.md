@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539343537798 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 20:50:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539361473659 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Habro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:06:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539361666504 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | unluck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:07:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539361783261 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | †Bombita† |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:07:14 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:07:16 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539352746654 |
-| Players | 6/8 |
-| Host Name | JULI PERDONAME |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 20:58:48 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539358344446 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539360780421 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | rarikrarie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:06:19 |
