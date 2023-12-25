@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539086833319 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 15:16:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539086523580 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 15:16:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539090147550 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | noom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:22:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539090472375 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Voland |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:22:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539091030713 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ฅ^•ﻌ•^ฅ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:23:54 |
@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539091131275 |
-| Players | 6/15 |
-| Host Name | CHEESE MASTER!! |
+| Players | 2/15 |
+| Host Name | 死神 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 15:24:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539091166298 |
+| Players | 3/10 |
+| Host Name | мне похуй похуй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 15:24:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539091200715 |
+| Players | 1/10 |
+| Host Name | Stronger |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 15:24:12 |
 
 
 |  | epic_boss_fight_nightmare |
