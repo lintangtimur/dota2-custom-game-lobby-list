@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539041052027 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | El Perforador de Culos |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:53:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539042379076 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:55:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539042899153 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:56:33 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:57:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539043430277 |
-| Players | 2/8 |
+| Lobby ID | 28576539043549931 |
+| Players | 2/10 |
 | Host Name | infinity |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 13:57:34 |
+| Lobby Creation Time | Monday, December 25, 2023 13:57:48 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539042618444 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Hell's Paradise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:56:01 |
