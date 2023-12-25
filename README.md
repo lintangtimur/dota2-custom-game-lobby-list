@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539071073802 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Stronger |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 14:48:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539071775987 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:50:08 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539072998411 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ฅ^•ﻌ•^ฅ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:52:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539070102006 |
-| Players | 1/10 |
-| Host Name | Hombre chambeador |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 14:47:08 |
+| Lobby ID | 28576539073688978 |
+| Players | 1/24 |
+| Host Name | BKBB |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 14:53:32 |
 
 
 |  | ot3_necropolis_ffa |
