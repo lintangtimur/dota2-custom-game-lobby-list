@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539003790091 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Destr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:36:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539003099981 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | me comi varias de amarillo xd |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:35:03 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539004063959 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:37:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539003692247 |
-| Players | 2/10 |
-| Host Name | PROCEDE O NO PROCEDE MI ESTIMADO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:36:20 |
+| Lobby ID | 28576539004154765 |
+| Players | 1/24 |
+| Host Name | KNightMare |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:37:20 |
 
 
 |  | epic_boss_fight_nightmare |
