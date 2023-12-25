@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539058100327 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:25:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539068857765 |
-| Players | 9/10 |
-| Host Name | Solowind |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 14:44:54 |
+| Lobby ID | 28576539069943227 |
+| Players | 1/8 |
+| Host Name | Maple |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 14:46:51 |
 
 
 |  | ot3_desert_octet |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:44:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539069252231 |
-| Players | 7/8 |
-| Host Name | ert sp wet eyes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 14:45:36 |
+| Lobby ID | 28576539068571495 |
+| Players | 13/24 |
+| Host Name | Lebraenys |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 14:44:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068343697 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:43:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539068847750 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Marlin |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539068378322 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | 😴😴 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068427169 |
-| Players | 14/24 |
+| Players | 21/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:07 |
@@ -86,34 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539069001209 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | sadaitada |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 14:45:09 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539068571495 |
-| Players | 6/24 |
-| Host Name | Lebraenys |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 14:44:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539067796783 |
-| Players | 9/10 |
-| Host Name | НЕПОНЯТЫЙ НЕ Я |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 14:43:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539069549903 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Moon Knight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:46:08 |
