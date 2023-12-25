@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538984483602 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Power Ranger Plomo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 11:52:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538986899575 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | DelphiniumSTR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 11:58:10 |
@@ -56,29 +56,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 11:53:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576538988075101 |
-| Players | 4/8 |
-| Host Name | Kyla |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 12:01:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576538988076807 |
-| Players | 1/15 |
-| Host Name | ? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 12:01:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576538986642695 |
-| Players | 2/10 |
-| Host Name | Vasserman |
+| Players | 1/10 |
+| Host Name | 123456789123456789 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 11:57:34 |
 
