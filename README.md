@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539496697299 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Dishake |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:16:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539493713274 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | MoNkeY D. CRuShiNg [ESP] |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 23:13:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539496462081 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | LOCO CHESS |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:16:22 |
@@ -58,18 +58,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539495283744 |
-| Players | 6/8 |
-| Host Name | Wunder |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 23:15:11 |
+| Lobby ID | 28576539496893246 |
+| Players | 1/8 |
+| Host Name | Westheimer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:16:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539494275920 |
-| Players | 4/8 |
-| Host Name | PinguinoParador |
+| Players | 3/8 |
+| Host Name | Padoru |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:14:10 |
 
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:13:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539496715567 |
-| Players | 1/15 |
-| Host Name | gajot1p |
+| Lobby ID | 28576539496971558 |
+| Players | 5/8 |
+| Host Name | LOVE...66 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:16:37 |
+| Lobby Creation Time | Monday, December 25, 2023 23:16:53 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539496901520 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | квас секс эскорт |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 23:16:49 |
@@ -113,28 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539496868924 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | GNEBEN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:16:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539496893246 |
-| Players | 1/8 |
-| Host Name | Westheimer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:16:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539496971558 |
-| Players | 5/8 |
-| Host Name | LOVE...66 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:16:53 |
+| Lobby ID | 28576539497243325 |
+| Players | 2/15 |
+| Host Name | Moccio望 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 23:17:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -148,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539491822526 |
-| Players | 4/10 |
-| Host Name | дракошко |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:11:43 |
+| Lobby ID | 28576539496620943 |
+| Players | 5/10 |
+| Host Name | We Are Electric |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 23:16:32 |
 
 
 |  | epic_boss_fight_challenger |
@@ -171,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Самбхаджи |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:16:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539496620943 |
-| Players | 5/10 |
-| Host Name | We Are Electric |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 23:16:32 |
 
 
