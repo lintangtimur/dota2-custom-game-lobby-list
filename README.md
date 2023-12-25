@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539160158219 |
-| Players | 3/15 |
-| Host Name | Reikn |
+| Players | 2/15 |
+| Host Name | Maotisco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:18:53 |
 
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539159403799 |
-| Players | 13/15 |
-| Host Name | Tranquility |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:17:43 |
+| Lobby ID | 28576539160206929 |
+| Players | 5/15 |
+| Host Name | Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 17:18:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:18:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539160199975 |
-| Players | 2/10 |
-| Host Name | Azula |
+| Lobby ID | 28576539160310667 |
+| Players | 1/24 |
+| Host Name | Original Content |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 17:18:57 |
+| Lobby Creation Time | Monday, December 25, 2023 17:19:08 |
 
 
 |  | epic_boss_fight_normal |
