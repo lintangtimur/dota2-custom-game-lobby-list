@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539524332554 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Avena 3 Ursitas |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:44:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539525542281 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 23:46:06 |
@@ -103,20 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539526520998 |
-| Players | 6/10 |
-| Host Name | 剣八- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:47:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539526780410 |
-| Players | 6/15 |
-| Host Name | Lee Ji Eun |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 23:47:23 |
+| Lobby ID | 28576539526949156 |
+| Players | 2/10 |
+| Host Name | Спейсер |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 23:47:34 |
 
 
 |  | epic_boss_fight_nightmare |
