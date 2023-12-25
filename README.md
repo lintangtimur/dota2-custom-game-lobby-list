@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539343537798 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 20:50:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539370534626 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | zapitae |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:15:14 |
@@ -56,48 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:11:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539371066820 |
-| Players | 1/10 |
-| Host Name | 100-7? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:15:43 |
+| Lobby ID | 28576539371491869 |
+| Players | 7/24 |
+| Host Name | BOWE |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 25, 2023 21:16:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539371030247 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | ZiGGurat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:15:41 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539369054351 |
-| Players | 9/10 |
-| Host Name | 99 |
+| Lobby ID | 28576539371570384 |
+| Players | 1/10 |
+| Host Name | 100-7? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:13:53 |
+| Lobby Creation Time | Monday, December 25, 2023 21:16:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539370626632 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | KV |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:15:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539358344446 |
-| Players | 10/10 |
-| Host Name | SET |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:04:03 |
 
 
