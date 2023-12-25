@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539203780419 |
+| Lobby ID | 28576539204564633 |
 | Players | 9/10 |
-| Host Name | nteziris doto nigma |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 18:21:18 |
+| Host Name | ShelbyWalk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 18:22:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539203180230 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | miauricio |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 18:20:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539202181488 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Dr. Strange |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:19:11 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539204483060 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | JUSTIN CASE |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 18:22:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539204564633 |
-| Players | 4/10 |
-| Host Name | ShelbyWalk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 18:22:20 |
+| Lobby ID | 28576539204762757 |
+| Players | 1/8 |
+| Host Name | Misterio |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 18:22:36 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576539202024789 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | deadly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:18:59 |
