@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539012841344 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:56:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539014474170 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Vinland |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:59:27 |
