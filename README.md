@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539096278644 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Explosive Shot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:33:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539086523580 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Transcendent |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 15:16:10 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539100046688 |
-| Players | 9/10 |
-| Host Name | Amidamaru |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 15:39:34 |
+| Lobby ID | 28576539100307275 |
+| Players | 1/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 15:40:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | дядя Льоня |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:40:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539100307275 |
-| Players | 1/10 |
-| Host Name | BubiBubi |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 15:40:01 |
 
 
 |  | epic_boss_fight_nightmare |
