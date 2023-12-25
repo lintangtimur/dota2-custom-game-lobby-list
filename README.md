@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539169094111 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Hombre chambeador |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 17:32:35 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539176287019 |
-| Players | 11/15 |
-| Host Name | УпоротыйЭлектрик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:43:17 |
+| Lobby ID | 28576539176759274 |
+| Players | 5/15 |
+| Host Name | Kratos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 17:43:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539176642863 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 17:43:48 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539176141390 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | HUGE |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 17:43:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539176759274 |
-| Players | 1/15 |
-| Host Name | Kratos |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 17:43:58 |
 
 
 |  | epic_boss_fight_nightmare |
