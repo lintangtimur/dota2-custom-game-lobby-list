@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539069001209 |
-| Players | 14/15 |
-| Host Name | sadaitada |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 14:45:09 |
+| Lobby ID | 28576539068378322 |
+| Players | 10/15 |
+| Host Name | 😴😴 |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 14:44:02 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068571495 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Lebraenys |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:23 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539068297065 |
-| Players | 8/10 |
-| Host Name | Estriper |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 14:43:54 |
+| Lobby ID | 28576539070102006 |
+| Players | 5/10 |
+| Host Name | Hombre chambeador |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 14:47:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539068847750 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Marlin |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:53 |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539068378322 |
-| Players | 9/15 |
-| Host Name | 😴😴 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 14:44:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539070102006 |
-| Players | 3/10 |
-| Host Name | Hombre chambeador |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 14:47:08 |
+| Lobby ID | 28576539070211278 |
+| Players | 2/15 |
+| Host Name | Катофей |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:47:20 |
 
 
 |  | epic_boss_fight_nightmare |
