@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539661105470 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | ОУДЖИ ТАРАС |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:12:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539659925564 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Pipo ~007 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:11:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539658289074 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | affetmez07 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:09:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539660774931 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | ♛ Azhik#p4p ♛ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:12:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539660831528 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | PC |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:12:34 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539661181169 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Владик ПРИНЦ ДОТЫ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:12:57 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539661235807 |
-| Players | 5/10 |
-| Host Name | Zabydok |
+| Players | 6/10 |
+| Host Name | писяпопа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:13:01 |
 
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 02:13:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539661402921 |
-| Players | 1/10 |
-| Host Name | RustySackTheElder |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:13:13 |
+| Lobby ID | 28576539661432466 |
+| Players | 1/8 |
+| Host Name | ФЕДЕРАЛ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:13:15 |
 
 
 |  | epic_boss_fight_nightmare |
