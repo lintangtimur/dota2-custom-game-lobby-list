@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539147576774 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | govnoed eto dota |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 16:59:00 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539129066418 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Hombre chambeador |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:28:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539147704187 |
+| Players | 3/15 |
+| Host Name | Зловредина |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:59:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539147756454 |
+| Players | 2/8 |
+| Host Name | fej |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:59:17 |
 
 
 |  | epic_boss_fight_nightmare |
