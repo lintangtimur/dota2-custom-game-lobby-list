@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539018796849 |
-| Players | 2/24 |
-| Host Name | [ WP ] Wargamerzz.Pro |
+| Players | 1/24 |
+| Host Name | Ayam Goreng Mekdi (Pedas) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:08:38 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539016496575 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Bajando locura |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:03:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539013592640 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Psycho[X]Killer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:57:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539013509132 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 12:57:25 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539017431185 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Loading |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:05:50 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539018488621 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | MadLad |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 13:08:00 |
