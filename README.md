@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539058100327 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:25:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539075794385 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | howdafuqmyteamisagathaallalong |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 25, 2023 14:57:16 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:58:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539073636757 |
-| Players | 5/8 |
-| Host Name | Estudia sonso |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 14:53:26 |
+| Lobby ID | 28576539077320252 |
+| Players | 3/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 15:00:00 |
 
 
 |  | ot3_desert_octet |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539077346735 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | justforfun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:00:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539077320252 |
-| Players | 1/10 |
-| Host Name | BubiBubi |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 15:00:00 |
+| Lobby ID | 28576539077919282 |
+| Players | 1/8 |
+| Host Name | W0nder 52 NGG |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 15:01:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539077962380 |
+| Players | 5/8 |
+| Host Name | Senatino de huaura |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 15:01:10 |
 
 
 |  | epic_boss_fight_normal |
