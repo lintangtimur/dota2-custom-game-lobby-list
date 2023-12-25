@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539018796849 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Ayam Goreng Mekdi (Pedas) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:08:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539018475283 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Кровавый понос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:07:59 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:08:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539018772188 |
-| Players | 6/24 |
+| Lobby ID | 28576539019413453 |
+| Players | 6/8 |
 | Host Name | ☥†A.K.A AlienEv†☥ |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 13:08:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539019226931 |
-| Players | 1/15 |
-| Host Name | Ɗᴏ   σʀ    Ɗɪᴇㅤ⓿❸ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 13:09:30 |
+| Lobby Creation Time | Monday, December 25, 2023 13:09:53 |
 
 
 |  | epic_boss_fight_nightmare |
