@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539149724499 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | バカ 𒉭 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:02:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539149027558 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | who is LMFAO |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:01:23 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539135298725 |
-| Players | 4/10 |
-| Host Name | Cucumba |
+| Players | 3/10 |
+| Host Name | абсолют |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:38:49 |
 
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539149623995 |
-| Players | 3/8 |
-| Host Name | zanovo |
+| Players | 2/8 |
+| Host Name | Unthinkable |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:02:23 |
 
