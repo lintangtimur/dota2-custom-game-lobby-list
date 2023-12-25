@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 16:21:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539124237190 |
-| Players | 7/8 |
-| Host Name | They Call Me Crazy |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 16:20:25 |
+| Lobby ID | 28576539125446362 |
+| Players | 10/15 |
+| Host Name | ASAVRVB |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:22:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539124603750 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 16:21:01 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 16:21:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539125446362 |
-| Players | 6/15 |
-| Host Name | ASAVRVB |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:22:25 |
+| Lobby ID | 28576539126100849 |
+| Players | 1/8 |
+| Host Name | BOSS OF THE GYM |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 16:23:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539126108714 |
+| Players | 1/8 |
+| Host Name | scottishfold |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 16:23:31 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539124230810 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Oyasuminasai™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:20:24 |
