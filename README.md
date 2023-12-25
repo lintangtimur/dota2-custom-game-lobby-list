@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 15:06:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539142987333 |
-| Players | 6/8 |
-| Host Name | Я и 4 агента |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:51:27 |
+| Lobby ID | 28576539143235674 |
+| Players | 2/24 |
+| Host Name | OliveR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 16:51:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539133329900 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Maotisco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:35:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539142935788 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | vier |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:51:22 |
@@ -76,28 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539143096969 |
-| Players | 4/8 |
-| Host Name | tv/yunsu4u |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:51:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539140942010 |
-| Players | 9/10 |
-| Host Name | 男人哭吧哭吧不是罪>.< |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 16:48:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539143110145 |
-| Players | 1/10 |
-| Host Name | kleini |
+| Lobby ID | 28576539143149555 |
+| Players | 2/8 |
+| Host Name | подштаники |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:51:39 |
+| Lobby Creation Time | Monday, December 25, 2023 16:51:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539143312976 |
+| Players | 3/8 |
+| Host Name | ЧІНАЗЕС |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 16:51:59 |
 
 
