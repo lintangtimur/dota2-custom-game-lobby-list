@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:12:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539381148560 |
-| Players | 7/10 |
-| Host Name | ~$amahasla$~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:24:54 |
+| Lobby ID | 28576539382683879 |
+| Players | 1/8 |
+| Host Name | Ss |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 21:26:19 |
 
 
 |  | ot3_gardens_duo |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 20:50:19 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539382444203 |
-| Players | 6/15 |
-| Host Name | BAN |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 21:26:06 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539375891767 |
-| Players | 23/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
+| Lobby ID | 28576539379014039 |
+| Players | 18/24 |
+| Host Name | Nezuko |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 21:20:06 |
+| Lobby Creation Time | Monday, December 25, 2023 21:22:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539382782631 |
+| Players | 1/8 |
+| Host Name | папа ПУДЖ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 21:26:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:23:21 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539379014039 |
-| Players | 16/24 |
-| Host Name | Nezuko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 21:22:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539377663966 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Душный Тонни |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:21:43 |
