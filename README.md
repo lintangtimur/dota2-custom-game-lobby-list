@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539343537798 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 20:50:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539400008970 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | 777 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:42:24 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:37:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539386934581 |
-| Players | 22/24 |
-| Host Name | [LosPibes]Nyk0 |
+| Lobby ID | 28576539400861335 |
+| Players | 1/15 |
+| Host Name | CHARLy |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 21:30:13 |
+| Lobby Creation Time | Monday, December 25, 2023 21:43:12 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539399540979 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | GRRRA4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:41:58 |
@@ -126,6 +126,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zondri |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:43:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539400712484 |
+| Players | 5/10 |
+| Host Name | m0n! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 21:43:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539400738213 |
+| Players | 1/15 |
+| Host Name | ALL MUTED <3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 21:43:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539400746873 |
+| Players | 1/8 |
+| Host Name | я идиот |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 21:43:05 |
 
 
 |  | epic_boss_fight_nightmare |
