@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 16:37:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539157623314 |
-| Players | 18/24 |
-| Host Name | Trungdaica |
+| Lobby ID | 28576539160158219 |
+| Players | 3/15 |
+| Host Name | Reikn |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 17:14:56 |
+| Lobby Creation Time | Monday, December 25, 2023 17:18:53 |
 
 
 |  | ot3_gardens_duo |
@@ -38,31 +38,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 16:38:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539159627049 |
-| Players | 3/8 |
-| Host Name | skrejet |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:18:04 |
+| Lobby ID | 28576539159513567 |
+| Players | 5/10 |
+| Host Name | эншент гвардиан |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 17:17:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539159403799 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Tranquility |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:17:43 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539160114930 |
+| Players | 2/8 |
+| Host Name | forbidden dream |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 17:18:49 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539159513567 |
-| Players | 1/10 |
-| Host Name | эншент гвардиан |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 17:17:53 |
+| Lobby ID | 28576539160199975 |
+| Players | 2/10 |
+| Host Name | Azula |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 17:18:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -83,39 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:15:23 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539156980741 |
-| Players | 1/5 |
-| Host Name | Big Lotnok XD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 17:13:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539158854500 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:16:51 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576539159836061 |
-| Players | 1/7 |
-| Host Name | молоток |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:18:23 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28576539159849528 |
-| Players | 1/7 |
-| Host Name | heybibiyea |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 17:18:24 |
 
 
