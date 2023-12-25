@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539020384125 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 𩠑 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 13:11:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539013592640 |
-| Players | 4/15 |
+| Players | 1/15 |
 | Host Name | WinNee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:57:36 |
@@ -56,22 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:08:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539013509132 |
-| Players | 22/24 |
-| Host Name | BKBB |
+| Lobby ID | 28576539020260933 |
+| Players | 8/15 |
+| Host Name | Twofer601 |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 12:57:25 |
+| Lobby Creation Time | Monday, December 25, 2023 13:11:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539020260933 |
+| Lobby ID | 28576539020790055 |
 | Players | 5/15 |
-| Host Name | Twofer601 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 13:11:37 |
+| Host Name | не умею играть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 13:12:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539020894485 |
+| Players | 1/8 |
+| Host Name | cored1nation |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 13:12:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539018488621 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MadLad |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 13:08:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539020634029 |
+| Players | 4/5 |
+| Host Name | Alprizxc |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 25, 2023 13:12:22 |
 
 
