@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539080980433 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Kirizuna |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:06:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539075794385 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | howdafuqmyteamisagathaallalong |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 25, 2023 14:57:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539082177893 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | abra |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:08:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539082209990 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | xTrane |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:08:42 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539082369094 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | 猟師 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:08:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539082503940 |
+| Players | 3/24 |
+| Host Name | ded |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 15:09:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -65,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:56:05 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539080934553 |
-| Players | 6/10 |
-| Host Name | 瓦达西瓦教父dei死 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 15:06:30 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576539079843818 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | deniz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:04:36 |
