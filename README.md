@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539058100327 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:25:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539067764051 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | брэд спид |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:42:56 |
@@ -38,46 +38,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:41:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539067492207 |
-| Players | 6/8 |
-| Host Name | DD Mydoira |
+| Lobby ID | 28576539068209115 |
+| Players | 1/24 |
+| Host Name | Dan |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 14:43:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539068292502 |
+| Players | 1/15 |
+| Host Name | .bbb |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 14:43:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539068281407 |
+| Players | 1/15 |
+| Host Name | Clarence |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 14:43:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539066165721 |
+| Players | 14/15 |
+| Host Name | Yung Prawna |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 14:42:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539067478543 |
-| Players | 1/15 |
-| Host Name | Rule |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 14:42:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539067769473 |
-| Players | 1/15 |
-| Host Name | Jackie Chan |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 14:42:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539068093628 |
-| Players | 4/8 |
-| Host Name | Perseverance |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 14:43:32 |
+| Lobby Creation Time | Monday, December 25, 2023 14:40:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539063384034 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Tu Rata Favorita |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 14:35:02 |
