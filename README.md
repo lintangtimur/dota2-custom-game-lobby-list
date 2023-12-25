@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539053911781 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Mr. Ganso |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 14:17:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539051907633 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:13:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539054990448 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Marlin |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 14:19:24 |
