@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539023206001 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Bundefora |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:17:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539022425879 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Crow |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 13:15:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539023637002 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Стиль Паука |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:18:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539022357931 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Creep |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:15:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539024019971 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Ah Zai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:19:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539024755615 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | KELL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:20:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539016628010 |
-| Players | 23/24 |
+| Players | 20/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:04:11 |
