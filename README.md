@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539073394878 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | aaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:53:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539074178400 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | 不運なろくでなし |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:54:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539073688978 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 14:53:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539074162084 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | xD Afk |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:54:22 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539074971941 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | acsess |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 14:55:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539075067559 |
-| Players | 1/10 |
-| Host Name | burner |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 25, 2023 14:56:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ¡¡¡︻Ɲ乇V乇Ʀ҉ Ĝ҉I√乇 ひP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:52:46 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539075113391 |
+| Players | 1/5 |
+| Host Name | wachirawitkong2012 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 14:56:05 |
 
 
