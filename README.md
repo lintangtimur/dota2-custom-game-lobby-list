@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539634813678 |
-| Players | 7/15 |
-| Host Name | ranze |
+| Players | 6/15 |
+| Host Name | ** |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:43:05 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539635280241 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | O.o |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:43:36 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539636920772 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Amado |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:45:26 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539637065945 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Luka Brazzi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 01:45:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539637141729 |
+| Players | 2/10 |
+| Host Name | ABOBA BOY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:45:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539637185658 |
+| Players | 1/15 |
+| Host Name | Locomobile | The Chimney |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 01:45:43 |
 
 
 |  | epic_boss_fight_challenger |
