@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539131722567 |
-| Players | 7/15 |
-| Host Name | SoreX |
+| Players | 8/15 |
+| Host Name | WXH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:32:56 |
 
@@ -47,10 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 16:28:26 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539132048549 |
+| Players | 3/10 |
+| Host Name | encaidaR csgorun.run |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:33:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539132058682 |
+| Players | 3/8 |
+| Host Name | TWICE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:33:30 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576539131805528 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | deadly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:33:04 |
