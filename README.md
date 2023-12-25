@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539585297781 |
-| Players | 7/8 |
-| Host Name | . |
+| Lobby ID | 28576539586201623 |
+| Players | 5/8 |
+| Host Name | zxcTiltedDepressedKid 1000-7? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:48:59 |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:49:57 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539553402702 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:15:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539581745029 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:45:09 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539584199154 |
-| Players | 5/8 |
-| Host Name | sideral_frio |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:47:48 |
+| Lobby ID | 28576539586282248 |
+| Players | 2/8 |
+| Host Name | ЖАБА САТАНЫ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:50:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539584099575 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Michiking |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:47:41 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539584719950 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | NANDITO (U) GRONE TLV ROJINEGRO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:48:22 |
@@ -128,33 +128,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:48:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539585449868 |
-| Players | 1/15 |
-| Host Name | 76561199082612660 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:49:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539585380778 |
-| Players | 5/8 |
-| Host Name | 進撃の巨人 |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:49:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539585400127 |
-| Players | 9/15 |
-| Host Name | God Rays |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:49:06 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539586036917 |
@@ -164,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:49:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539586181606 |
-| Players | 6/8 |
-| Host Name | KHAN |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:49:56 |
+| Lobby ID | 28576539585400127 |
+| Players | 14/15 |
+| Host Name | God Rays |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:49:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -194,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539581462840 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | ATE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:44:51 |
@@ -216,5 +189,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Витя Турбо |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:49:31 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539586173212 |
+| Players | 2/10 |
+| Host Name | .MF |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:49:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539586285712 |
+| Players | 3/10 |
+| Host Name | hornferrum |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:50:03 |
 
 
