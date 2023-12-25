@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539005809473 |
-| Players | 6/24 |
+| Players | 16/24 |
 | Host Name | Mahoraga |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:40:55 |
@@ -38,40 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:43:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539006727033 |
-| Players | 7/10 |
-| Host Name | thrlvldk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 12:42:54 |
+| Lobby ID | 28576539007326035 |
+| Players | 1/15 |
+| Host Name | Mr.Bass |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 12:44:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539006185061 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Angelmon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:41:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539004527028 |
-| Players | 5/8 |
-| Host Name | Мразота |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 12:38:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539007004505 |
-| Players | 1/24 |
-| Host Name | KNightMare |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 12:43:30 |
+| Lobby ID | 28576539007184013 |
+| Players | 4/15 |
+| Host Name | dazai |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 25, 2023 12:43:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:43:41 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539007130412 |
-| Players | 5/8 |
-| Host Name | ESTOY CANSADO DE PERDER |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:43:47 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539007184013 |
+| Lobby ID | 28576539007323186 |
 | Players | 1/15 |
-| Host Name | dazai |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 25, 2023 12:43:54 |
+| Host Name | مرگ شما |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 12:44:11 |
 
 
