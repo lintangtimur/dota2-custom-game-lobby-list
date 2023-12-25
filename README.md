@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:57:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539079177291 |
-| Players | 7/8 |
-| Host Name | 2093 |
+| Lobby ID | 28576539079626273 |
+| Players | 5/10 |
+| Host Name | дота для ебанатов |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 15:03:24 |
+| Lobby Creation Time | Monday, December 25, 2023 15:04:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539079263633 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | DD Mydoira |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:03:33 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539078695194 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | TYT Serious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:02:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539079626273 |
-| Players | 5/10 |
-| Host Name | дота для ебанатов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 15:04:13 |
+| Lobby ID | 28576539080135793 |
+| Players | 1/15 |
+| Host Name | (One More) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 15:05:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | deniz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:04:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539080130897 |
+| Players | 1/10 |
+| Host Name | Freddy Fazbear |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 25, 2023 15:05:06 |
 
 
