@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539028938527 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | lardboy |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 13:29:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539029302865 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Dаgоn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:29:49 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539029033089 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | АЩаащуээээЭЭ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 13:29:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539029522506 |
+| Players | 1/15 |
+| Host Name | СИЛЬВЕР ССУЧКА !!! |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 25, 2023 13:30:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cazador de Furros |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 13:28:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539028741146 |
-| Players | 3/5 |
-| Host Name | vendetta |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 13:28:40 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28576539029204579 |
-| Players | 1/7 |
-| Host Name | Vũ Trí Ba Tá Trợ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 13:29:37 |
 
 
