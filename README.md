@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539023206001 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Bundefora |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:17:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539021734908 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Madman |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 25, 2023 13:14:35 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539024755615 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | KELL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:20:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539023637002 |
-| Players | 5/8 |
-| Host Name | Стиль Паука |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 13:18:26 |
+| Lobby ID | 28576539025753781 |
+| Players | 2/10 |
+| Host Name | logical |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 13:22:42 |
 
 
 |  | ot3_desert_octet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:19:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539016628010 |
-| Players | 22/24 |
-| Host Name | EL BANANERO |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 13:04:11 |
+| Lobby ID | 28576539025635714 |
+| Players | 4/10 |
+| Host Name | BitcoinArtem |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 13:22:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539025511533 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Deiymos™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:22:12 |
