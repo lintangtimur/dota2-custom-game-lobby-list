@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539134900880 |
-| Players | 7/8 |
-| Host Name | zanovo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:38:10 |
+| Lobby ID | 28576539135605582 |
+| Players | 6/15 |
+| Host Name | подштаники |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 16:39:20 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539129066418 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | ♣Colapsé◘ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:28:26 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 16:38:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539135605582 |
-| Players | 4/15 |
-| Host Name | подштаники |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:39:20 |
+| Lobby ID | 28576539135777881 |
+| Players | 5/10 |
+| Host Name | шизик(НГОЛО КАНТЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:39:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539135804822 |
+| Players | 1/8 |
+| Host Name | -_- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:39:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | penitentOne |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:36:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539135805884 |
+| Players | 1/5 |
+| Host Name | seniorpomidore |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:39:40 |
 
 
