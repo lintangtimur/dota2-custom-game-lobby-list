@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539418748555 |
-| Players | 1/15 |
-| Host Name | 云 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 25, 2023 22:00:00 |
+| Lobby ID | 28576539418720209 |
+| Players | 2/24 |
+| Host Name | cr[][][] |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 21:59:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539417851018 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Swing or be Swung |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:59:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539417901681 |
-| Players | 8/10 |
-| Host Name | king of the jungle |
+| Lobby ID | 28576539418761663 |
+| Players | 6/15 |
+| Host Name | top 1 rank eu узница |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:59:11 |
+| Lobby Creation Time | Monday, December 25, 2023 22:00:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539418575321 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Eblan |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 21:59:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539418688240 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Creepson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:59:56 |
@@ -101,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:45:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539418720209 |
-| Players | 1/24 |
-| Host Name | cr[][][] |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:59:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539418761663 |
-| Players | 5/15 |
-| Host Name | top 1 rank eu узница |
+| Lobby ID | 28576539418941968 |
+| Players | 3/8 |
+| Host Name | AkA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 22:00:00 |
+| Lobby Creation Time | Monday, December 25, 2023 22:00:11 |
 
 
 |  | epic_boss_fight_normal |
