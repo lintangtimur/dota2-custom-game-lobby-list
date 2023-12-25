@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539133329900 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | 老司机 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:35:36 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 16:38:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539139488422 |
-| Players | 11/15 |
-| Host Name | DonFlag |
+| Lobby ID | 28576539140565858 |
+| Players | 6/8 |
+| Host Name | Estriper |
 | Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 16:45:43 |
+| Lobby Creation Time | Monday, December 25, 2023 16:47:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Drink some water please |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:46:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539140578396 |
+| Players | 2/24 |
+| Host Name | Anoy |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 25, 2023 16:47:31 |
 
 
 |  | epic_boss_fight_nightmare |
