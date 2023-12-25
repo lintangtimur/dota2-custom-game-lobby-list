@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539484825108 |
-| Players | 23/24 |
-| Host Name | ........ |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 23:04:40 |
+| Lobby ID | 28576539491682873 |
+| Players | 9/15 |
+| Host Name | Imbecility & Courage♉ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 23:11:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -20,37 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:10:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539490993062 |
-| Players | 12/15 |
-| Host Name | Kibosh |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 23:10:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539492001566 |
-| Players | 9/10 |
-| Host Name | Snapfan | |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 23:11:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539486802401 |
-| Players | 9/24 |
-| Host Name | MinD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:06:40 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539491019944 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | JAYCE |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:10:56 |
@@ -58,11 +31,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539491682873 |
+| Lobby ID | 28576539477166848 |
+| Players | 15/15 |
+| Host Name | EsKunG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 22:56:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539486802401 |
+| Players | 13/24 |
+| Host Name | MinD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:06:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539492805151 |
 | Players | 1/15 |
-| Host Name | Imbecility & Courage♉ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 23:11:35 |
+| Host Name | AN- |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 23:12:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539492828215 |
+| Players | 2/10 |
+| Host Name | conversations |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:12:44 |
 
 
 |  | epic_boss_fight_normal |
