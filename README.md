@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538985682623 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 11:55:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538986899575 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | DelphiniumSTR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 11:58:10 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576538987207200 |
 | Players | 5/8 |
-| Host Name | Lefty sm |
+| Host Name | Papita Frita |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 11:58:54 |
 
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pene de Mosca |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:07:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576538991012735 |
+| Players | 1/10 |
+| Host Name | Любимые дрова |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 12:08:00 |
 
 
