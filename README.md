@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539045047558 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | nightingale |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:00:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539045221015 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | valar morghulis |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 14:01:05 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:02:18 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539045913314 |
+| Players | 1/24 |
+| Host Name | Enzo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 14:02:27 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539045057709 |
@@ -117,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wood Rank |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 14:01:47 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539045704391 |
-| Players | 1/5 |
-| Host Name | vyt73 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 14:02:02 |
 
 
