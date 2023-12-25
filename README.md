@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539058100327 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:25:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068717033 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539067025158 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Con Mèo |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 14:41:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068343697 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:43:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539068369414 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | тревис скот(настоящий) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:01 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539068571495 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Lebraenys |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:23 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Marlin |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539069002521 |
+| Players | 1/10 |
+| Host Name | YAUJA |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 14:45:10 |
 
 
 |  | epic_boss_fight_nightmare |
