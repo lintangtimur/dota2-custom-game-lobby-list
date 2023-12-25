@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539485756752 |
-| Players | 9/15 |
-| Host Name | AleqThunder |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 23:05:37 |
+| Lobby ID | 28576539485967074 |
+| Players | 2/24 |
+| Host Name | Macrophage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 23:05:49 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539477166848 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | EsKunG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 22:56:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539485295096 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Claudio de Al fondo hay sitio |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:05:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539486129522 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Ілля |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 23:05:59 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539485949677 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Inj?! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:05:48 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539483844520 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | >CroW< |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:03:39 |
@@ -113,46 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539485674116 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | пузырь 1 а дота 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:05:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539484784994 |
-| Players | 6/8 |
-| Host Name | Meowww |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 23:04:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539485777662 |
-| Players | 4/8 |
-| Host Name | ТАЙОТА ПАНАМЕРА |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 23:05:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539485967074 |
-| Players | 2/24 |
-| Host Name | Macrophage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 23:05:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539485119547 |
-| Players | 12/15 |
-| Host Name | VapeFrog |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 23:04:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -162,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 76561199082612660 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 23:05:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539485777662 |
+| Players | 4/8 |
+| Host Name | ТАЙОТА ПАНАМЕРА |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 23:05:38 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -198,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ★曲げ機★ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 23:05:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539486340226 |
+| Players | 1/5 |
+| Host Name | ------ |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 23:06:12 |
 
 
