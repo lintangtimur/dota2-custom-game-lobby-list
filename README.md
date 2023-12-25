@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539150689770 |
-| Players | 13/15 |
-| Host Name | DOMINANT |
+| Lobby ID | 28576539150979355 |
+| Players | 4/10 |
+| Host Name | Mark, The Pososnik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:04:07 |
+| Lobby Creation Time | Monday, December 25, 2023 17:04:34 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539149623995 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | genzd |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:02:23 |
@@ -65,21 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:02:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539150979355 |
-| Players | 3/10 |
-| Host Name | Mark, The Pososnik |
+| Lobby ID | 28576539151364509 |
+| Players | 1/15 |
+| Host Name | Prometey_X |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:04:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539151336416 |
-| Players | 1/5 |
-| Host Name | TraffKa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:05:08 |
+| Lobby Creation Time | Monday, December 25, 2023 17:05:10 |
 
 
