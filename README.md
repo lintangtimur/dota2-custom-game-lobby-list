@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 15:22:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539090472375 |
-| Players | 7/8 |
-| Host Name | Voland |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 15:22:56 |
+| Lobby ID | 28576539091200715 |
+| Players | 1/10 |
+| Host Name | Stronger |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 15:24:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539091030713 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | ฅ^•ﻌ•^ฅ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:23:54 |
@@ -117,24 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | мне похуй похуй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:24:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539091200715 |
-| Players | 1/10 |
-| Host Name | Stronger |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 15:24:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539089075192 |
-| Players | 9/10 |
-| Host Name | Aspasia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 15:20:32 |
 
 
 |  | epic_boss_fight_nightmare |
