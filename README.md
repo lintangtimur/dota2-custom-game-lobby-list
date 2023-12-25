@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539016628010 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:04:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539018796849 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | [ WP ] Wargamerzz.Pro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:08:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539020384125 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 𩠑 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 13:11:52 |
@@ -49,18 +49,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539018908294 |
-| Players | 7/8 |
-| Host Name | xdxdxd |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 13:08:51 |
+| Lobby ID | 28576539020947079 |
+| Players | 1/8 |
+| Host Name | cored1nation |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 13:13:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539020260933 |
-| Players | 8/15 |
-| Host Name | Twofer601 |
+| Players | 7/15 |
+| Host Name | Hactet Jack |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 13:11:37 |
 
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539020790055 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:12:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539020894485 |
-| Players | 1/8 |
-| Host Name | cored1nation |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 13:12:55 |
 
 
 |  | epic_boss_fight_normal |
