@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539128285370 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:27:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539133042089 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | F# |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:35:08 |
@@ -41,19 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539133097012 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | LygoXa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:35:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539133198448 |
-| Players | 4/8 |
-| Host Name | top 1 rank eu узница |
+| Lobby ID | 28576539133302614 |
+| Players | 2/10 |
+| Host Name | flood |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:35:23 |
+| Lobby Creation Time | Monday, December 25, 2023 16:35:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539133329900 |
+| Players | 2/15 |
+| Host Name | Maotisco |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 16:35:36 |
 
 
 |  | epic_boss_fight_hard |
@@ -67,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576539133000121 |
+| Lobby ID | 28576539133330902 |
 | Players | 1/5 |
-| Host Name | Lucifer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 16:35:04 |
+| Host Name | ayz3ro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:35:36 |
 
 
