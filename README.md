@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539118907563 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Trry_mee |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 25, 2023 16:11:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539119198595 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Lebraenys |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:12:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539120442542 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Beer.Team yakor' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:14:07 |
@@ -76,17 +76,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539120087361 |
-| Players | 13/15 |
-| Host Name | murat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:13:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28576539120525030 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | DOsman |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 16:14:16 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539120423713 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 再干中单  重拾自信 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:14:06 |
