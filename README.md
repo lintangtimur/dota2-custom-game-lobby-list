@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576539000053922 |
 | Players | 2/8 |
-| Host Name | Мразота |
+| Host Name | Kyla |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 12:28:10 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539003479073 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | EJ-Smill3 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:35:52 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KNightMare |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:37:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539004334242 |
+| Players | 1/15 |
+| Host Name | EPICLOOT.IN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:37:43 |
 
 
 |  | epic_boss_fight_nightmare |
