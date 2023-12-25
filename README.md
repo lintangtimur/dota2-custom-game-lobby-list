@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539141198476 |
-| Players | 3/8 |
-| Host Name | Тема петушок |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:48:32 |
+| Lobby ID | 28576539141913496 |
+| Players | 1/10 |
+| Host Name | Rayli |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:49:41 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 15:06:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576539140730053 |
-| Players | 14/15 |
-| Host Name | Ma4™ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:47:46 |
+| Lobby ID | 28576539140677305 |
+| Players | 16/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 16:47:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539134683986 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:37:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539129066418 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Hombre chambeador |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:28:26 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cucumba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:38:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539140677305 |
-| Players | 12/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 16:47:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576539139877543 |
-| Players | 8/10 |
-| Host Name | [*BaSkeTka*] |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:46:22 |
 
 
 |  | epic_boss_fight_nightmare |
