@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539319261406 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 20:27:30 |
@@ -74,55 +74,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 20:25:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539314320357 |
-| Players | 2/8 |
-| Host Name | Otis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 20:22:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539319650055 |
-| Players | 1/15 |
-| Host Name | Docteur |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 20:27:52 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539319661202 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | 1 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 20:27:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539319669240 |
-| Players | 12/15 |
-| Host Name | Papiroska |
+| Lobby ID | 28576539320486515 |
+| Players | 7/8 |
+| Host Name | STAIN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 20:27:53 |
+| Lobby Creation Time | Monday, December 25, 2023 20:28:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539320334200 |
-| Players | 2/8 |
-| Host Name | kurosaki |
+| Lobby ID | 28576539320516005 |
+| Players | 5/8 |
+| Host Name | seizures |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 20:28:31 |
+| Lobby Creation Time | Monday, December 25, 2023 20:28:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539320530150 |
+| Players | 6/15 |
+| Host Name | Nastyman |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 20:28:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539315391077 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | crocodile |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 20:23:50 |
