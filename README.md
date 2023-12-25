@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539009707028 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:49:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539009877982 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | enemyenemyenemy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:49:42 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539009667616 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Foreskin Collector |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 12:49:15 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539010052457 |
-| Players | 1/10 |
-| Host Name | DUQUE |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:50:04 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539010061854 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Lion el Messi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:50:05 |
