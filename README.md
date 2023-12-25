@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539205337508 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Женя сыкун |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 25, 2023 18:23:21 |
@@ -56,37 +56,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 18:23:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539205619360 |
-| Players | 5/10 |
-| Host Name | Поставьте ЛАЙК! |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 18:23:43 |
+| Lobby ID | 28576539205910116 |
+| Players | 2/8 |
+| Host Name | REYSKYWALKER! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 18:24:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539205607036 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Anita Max Wynn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:23:42 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539205866436 |
+| Players | 3/10 |
+| Host Name | Guardian |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 18:24:03 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539205748406 |
-| Players | 5/8 |
-| Host Name | |-|9|||^_^|-|ЬI|/| zombik:3 |
+| Lobby ID | 28576539205834407 |
+| Players | 4/8 |
+| Host Name | ok |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, December 25, 2023 18:24:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539206011331 |
+| Players | 1/10 |
+| Host Name | RootinTootinPutin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 18:23:53 |
+| Lobby Creation Time | Monday, December 25, 2023 18:24:14 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576539205518752 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | END AGAD SAYANG PISO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:23:35 |
@@ -104,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539205158202 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | KUZUHA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:23:07 |
