@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539053946759 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | w_xzed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:17:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539053399939 |
-| Players | 14/15 |
-| Host Name | ЧИПИГА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 14:16:27 |
+| Lobby ID | 28576539054470812 |
+| Players | 2/10 |
+| Host Name | SENDERO LUMINOSON'T |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 14:18:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539054376743 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Stefan 福 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:18:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539054470812 |
-| Players | 6/10 |
-| Host Name | SENDERO LUMINOSON'T |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 14:18:26 |
 
 
