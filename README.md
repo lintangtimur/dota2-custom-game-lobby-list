@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539178265725 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | абсолют |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:46:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539178422202 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | valar morghulis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:46:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539178923496 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | バカ 𒉭 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:47:06 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Twitch.tv/HiroToHero |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:33:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539178992611 |
+| Players | 1/5 |
+| Host Name | Hunt Hoe-Down |
+| Region | INDIA |
+| Lobby Creation Time | Monday, December 25, 2023 17:47:12 |
 
 
