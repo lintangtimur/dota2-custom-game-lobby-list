@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539050804557 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Khyleberg jr. |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 14:11:43 |
@@ -20,33 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:13:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539053581122 |
-| Players | 1/15 |
-| Host Name | Mr. Ganso |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 14:16:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539045062911 |
-| Players | 23/24 |
-| Host Name | BKBB |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 14:00:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539053399939 |
-| Players | 5/15 |
-| Host Name | ЧИПИГА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 14:16:27 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539051907633 |
@@ -56,10 +29,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:13:43 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539053946759 |
+| Players | 3/8 |
+| Host Name | w_xzed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:17:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539053399939 |
+| Players | 10/15 |
+| Host Name | ЧИПИГА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:16:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539053911781 |
+| Players | 5/15 |
+| Host Name | RodriK_18 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 14:17:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539053350148 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Loohe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 14:16:22 |
