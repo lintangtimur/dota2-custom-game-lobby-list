@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576538984483602 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Power Ranger Plomo |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 11:52:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538985875236 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | enemyenemyenemy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 11:55:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576538984745251 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Monday, December 25, 2023 11:53:06 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DelphiniumSTR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 11:58:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576538987071452 |
+| Players | 1/10 |
+| Host Name | пукнул then понюхал |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 11:58:34 |
 
 
 |  | epic_boss_fight_nightmare |
