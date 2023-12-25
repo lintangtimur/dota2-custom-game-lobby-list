@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539374260505 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | шаражный дебошир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:18:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539373636155 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | 28min |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:18:02 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539343537798 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 20:50:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539373315149 |
-| Players | 7/8 |
-| Host Name | чипинкосик |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:17:45 |
+| Lobby ID | 28576539374794617 |
+| Players | 1/10 |
+| Host Name | BOT Guerrilla |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 21:19:06 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:18:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539374636526 |
-| Players | 6/10 |
-| Host Name | Fries- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 21:18:57 |
+| Lobby ID | 28576539374749228 |
+| Players | 2/8 |
+| Host Name | Dark_Men |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 21:19:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Izumiiiiiiiiii<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:18:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539374783543 |
+| Players | 1/10 |
+| Host Name | Душный Тонни |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 21:19:05 |
 
 
