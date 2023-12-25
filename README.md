@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539009709918 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:49:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539009707028 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:49:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539006969179 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:43:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539009877982 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | enemyenemyenemy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:49:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539009667616 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Foreskin Collector |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 12:49:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539010286581 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Hombre chambeador |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:50:34 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lion el Messi |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 12:50:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539010355611 |
+| Players | 3/8 |
+| Host Name | flyser |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:50:42 |
 
 
 |  | epic_boss_fight_nightmare |
