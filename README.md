@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539095113632 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 1pos nyasha |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:31:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539094512413 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | old rat(all muted) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:29:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539094772413 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | squirrel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:30:23 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539089335200 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:20:59 |
@@ -112,17 +112,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539091835617 |
-| Players | 1/10 |
-| Host Name | MadLad |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 15:25:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28576539095158248 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:31:04 |
