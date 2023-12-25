@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539108028591 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Raiden Shogun (Ei) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:53:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539104930156 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Phantacy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:47:49 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539107089247 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Rasputina |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 15:51:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539107532827 |
-| Players | 8/10 |
-| Host Name | STEW |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 15:52:12 |
 
 
 |  | ot3_jungle_quintet |
