@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539529918751 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | курт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:50:39 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539533812151 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Romans 7:15-20 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 23:54:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539531669679 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Mr. HDHQ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 23:52:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539534138026 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | USPQR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 23:55:02 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 23:51:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539534261736 |
-| Players | 1/15 |
-| Host Name | yatorogod |
+| Lobby ID | 28576539534580089 |
+| Players | 6/8 |
+| Host Name | kogarashi |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 23:55:10 |
+| Lobby Creation Time | Monday, December 25, 2023 23:55:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | БоМж на ПЛЯЖЕ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 23:54:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539534360365 |
-| Players | 4/8 |
-| Host Name | Шачир |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 23:55:16 |
 
 
 |  | ot3_jungle_quintet |
