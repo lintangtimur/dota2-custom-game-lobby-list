@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539298879286 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 20:07:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539319261406 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 20:27:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539304597191 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Avena 3 ursitas |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 20:13:29 |
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JM |
 | Region | INDIA |
 | Lobby Creation Time | Monday, December 25, 2023 20:25:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539320794214 |
-| Players | 5/10 |
-| Host Name | Руслан Тошик |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 20:28:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539320863245 |
-| Players | 6/8 |
-| Host Name | nadejda |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 20:29:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539320933230 |
-| Players | 1/8 |
-| Host Name | gazdratjopi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 20:29:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -117,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dimon831 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 20:29:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539320933230 |
+| Players | 2/8 |
+| Host Name | gazdratjopi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 20:29:05 |
 
 
 |  | epic_boss_fight_nightmare |
