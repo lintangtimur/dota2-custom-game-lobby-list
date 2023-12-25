@@ -47,28 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:19:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539160114930 |
-| Players | 6/8 |
-| Host Name | forbidden dream |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 17:18:49 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539161605258 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Padoru Padoru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:21:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539161654310 |
+| Players | 3/8 |
+| Host Name | herman Shatz |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 17:21:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539158854500 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Akaza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:16:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539157906926 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ebashu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:15:23 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576539161337172 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Хрон Кончений |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:20:42 |
