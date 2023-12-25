@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539072998411 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | ฅ^•ﻌ•^ฅ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:52:18 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539070102006 |
-| Players | 3/10 |
-| Host Name | Moonlight |
+| Players | 1/10 |
+| Host Name | Hombre chambeador |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:47:08 |
 
