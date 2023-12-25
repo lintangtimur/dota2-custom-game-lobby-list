@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539331365537 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | masu nguyen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 20:39:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539332044554 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Kenny |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 20:39:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539333469957 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | TimeGod |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 20:40:57 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539333574461 |
-| Players | 5/15 |
-| Host Name | Hüskoras |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 20:41:03 |
+| Lobby ID | 28576539333793886 |
+| Players | 1/15 |
+| Host Name | не умею играть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 20:41:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539333606056 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ==\\\\\ aLL mUTEDXDDDDDD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 20:41:05 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539333656962 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | depko13 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 20:41:08 |
@@ -128,12 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 20:40:34 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576539333763844 |
-| Players | 1/7 |
-| Host Name | Zilliaxe44☺ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 20:41:14 |
+| Lobby ID | 28576539333950370 |
+| Players | 1/5 |
+| Host Name | Lookas |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 20:41:25 |
 
 
