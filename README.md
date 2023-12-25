@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539582447364 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ArpiNatoR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:45:54 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539561242912 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Andi |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:23:22 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:47:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539580747204 |
-| Players | 20/24 |
-| Host Name | Sopita |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:44:05 |
+| Lobby ID | 28576539584468411 |
+| Players | 6/15 |
+| Host Name | Stanislaw |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:48:05 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539581745029 |
-| Players | 15/24 |
+| Players | 8/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:45:09 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539583377966 |
-| Players | 2/15 |
-| Host Name | stvdxi |
+| Players | 1/15 |
+| Host Name | dean.serdoncillo20 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:46:55 |
 
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539584099575 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Michiking |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:47:41 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539584354307 |
-| Players | 8/10 |
-| Host Name | ДЖОН СИЛЬВЕР |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:47:58 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539584440173 |
-| Players | 3/15 |
-| Host Name | maleK |
+| Lobby ID | 28576539584493800 |
+| Players | 1/15 |
+| Host Name | барбисайз герл |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:48:03 |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:48:07 |
 
 
 |  | epic_boss_fight_normal |
