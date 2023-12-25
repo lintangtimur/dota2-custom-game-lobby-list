@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:33:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539005079502 |
-| Players | 14/15 |
-| Host Name | Atlas Troll |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 12:39:19 |
+| Lobby ID | 28576539006727033 |
+| Players | 3/10 |
+| Host Name | thrlvldk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:42:54 |
 
 
 |  | ot3_desert_octet |
@@ -77,27 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539005836505 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | HAΞZΞR |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 12:40:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539006727033 |
-| Players | 2/10 |
-| Host Name | thrlvldk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 12:42:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539006826664 |
-| Players | 1/5 |
-| Host Name | KoKo anKo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 12:43:07 |
 
 
