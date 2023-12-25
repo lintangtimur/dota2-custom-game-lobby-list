@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539183073983 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Морковка |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, December 25, 2023 17:53:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539181207944 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | GoGo_One |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:50:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539182463137 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | minmin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:52:09 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:46:06 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539183533094 |
-| Players | 14/15 |
-| Host Name | WinNee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:53:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539183761019 |
-| Players | 1/8 |
-| Host Name | 3 pos |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 17:54:00 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539183820236 |
@@ -94,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539183971087 |
-| Players | 3/8 |
-| Host Name | ..... |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:54:18 |
+| Lobby ID | 28576539183761019 |
+| Players | 2/8 |
+| Host Name | 3 pos |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 17:54:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539184120918 |
+| Players | 2/15 |
+| Host Name | Solar Powered Grindset |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 17:54:31 |
 
 
 |  | epic_boss_fight_nightmare |
