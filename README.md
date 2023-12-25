@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539367069403 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:12:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539386934581 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | [LosPibes]Nyk0 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 21:30:13 |
@@ -74,46 +74,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 21:34:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539394876256 |
-| Players | 8/10 |
-| Host Name | KRATOS |
+| Lobby ID | 28576539395471818 |
+| Players | 4/8 |
+| Host Name | Виталик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:37:38 |
+| Lobby Creation Time | Monday, December 25, 2023 21:38:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539395109846 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Salam bikkitae |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:37:51 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539393377995 |
-| Players | 14/15 |
-| Host Name | Mofan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 21:36:16 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539395397583 |
-| Players | 5/8 |
-| Host Name | arcane blink enjoyer |
+| Lobby ID | 28576539395538020 |
+| Players | 2/8 |
+| Host Name | per aspera ad astra |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 21:38:07 |
+| Lobby Creation Time | Monday, December 25, 2023 21:38:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539395570943 |
+| Players | 1/10 |
+| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 21:38:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539390257072 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | [VGB]NUBISHKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:33:21 |
