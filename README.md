@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576538997920478 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kiss pe |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 12:23:25 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:25:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576538999081722 |
-| Players | 1/8 |
-| Host Name | Kyla |
+| Lobby ID | 28576538995860668 |
+| Players | 23/24 |
+| Host Name | . |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 12:26:00 |
+| Lobby Creation Time | Monday, December 25, 2023 12:18:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | РоланДеМорт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:23:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576538998194007 |
-| Players | 1/10 |
-| Host Name | Marjon |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, December 25, 2023 12:24:02 |
 
 
