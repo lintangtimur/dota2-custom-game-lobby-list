@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539173517855 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | dokk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:39:13 |
@@ -74,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:39:00 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539174873793 |
+| Players | 1/5 |
+| Host Name | ZachkingUZB |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 17:41:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539174733305 |
+| Lobby ID | 28576539174890511 |
 | Players | 1/10 |
 | Host Name | //// |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:41:01 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576539174727766 |
-| Players | 1/7 |
-| Host Name | kING OF HILL |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 17:41:00 |
+| Lobby Creation Time | Monday, December 25, 2023 17:41:14 |
 
 
