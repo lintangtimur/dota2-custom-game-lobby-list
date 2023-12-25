@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539090474957 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Mr.Bass |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:22:56 |
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 15:16:10 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539093682460 |
-| Players | 22/24 |
-| Host Name | 雨墨 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 15:28:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539093807906 |
-| Players | 7/8 |
-| Host Name | energy booster |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 15:28:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539094512413 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | old rat(all muted) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:29:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539094772413 |
+| Players | 1/24 |
+| Host Name | Marshmallow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 15:30:23 |
 
 
 |  | epic_boss_fight_nightmare |
