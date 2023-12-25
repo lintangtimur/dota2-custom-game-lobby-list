@@ -50,10 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539178422202 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | valar morghulis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:46:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539178236190 |
+| Players | 6/10 |
+| Host Name | PMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 17:46:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539180585304 |
+| Players | 2/10 |
+| Host Name | avtorje |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 17:49:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539180600687 |
+| Players | 3/15 |
+| Host Name | Сын лавочки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 17:49:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539180065271 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:48:43 |
