@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539016496575 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Bajando locura |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:03:54 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:57:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539018446746 |
-| Players | 1/15 |
-| Host Name | UwU |
-| Region | CHILE |
-| Lobby Creation Time | Monday, December 25, 2023 13:07:55 |
+| Lobby ID | 28576539018908294 |
+| Players | 1/8 |
+| Host Name | xdxdxd |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 13:08:51 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539018486077 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Foreskin Collector |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 13:08:00 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ☥†A.K.A AlienEv†☥ |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 13:08:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539018908294 |
-| Players | 1/8 |
-| Host Name | xdxdxd |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 13:08:51 |
 
 
 |  | epic_boss_fight_nightmare |
