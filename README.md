@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539073186771 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Ирина Кайратовна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:52:38 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:53:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539074060408 |
-| Players | 4/8 |
-| Host Name | fallen king |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 14:54:12 |
+| Lobby ID | 28576539074162084 |
+| Players | 1/10 |
+| Host Name | xD Afk |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 14:54:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -74,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:51:29 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576539074053572 |
-| Players | 1/5 |
-| Host Name | クリシャ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 14:54:11 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576539074056026 |
-| Players | 2/10 |
-| Host Name | Dreamer- |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, December 25, 2023 14:54:11 |
+| Lobby ID | 28576539074109397 |
+| Players | 1/10 |
+| Host Name | クリシャ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 14:54:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539074151468 |
+| Players | 1/5 |
+| Host Name | minitim08 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 14:54:21 |
 
 
