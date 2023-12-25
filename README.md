@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539106597767 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | TΛNCTUM |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 15:50:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539107772505 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | BLADERUNNER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:52:36 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 15:47:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539103668192 |
-| Players | 1/24 |
-| Host Name | CHOLITO DE CONO CON PLATA |
+| Lobby ID | 28576539107921166 |
+| Players | 2/8 |
+| Host Name | zumiaster7.0 |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 15:45:44 |
+| Lobby Creation Time | Monday, December 25, 2023 15:52:52 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539107089247 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | Rasputina |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 15:51:28 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 15:52:12 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539107901534 |
+| Lobby ID | 28576539108028591 |
 | Players | 1/10 |
-| Host Name | Шут - дар. Король - призвание. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 15:52:50 |
+| Host Name | Raiden Shogun (Ei) |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 15:53:02 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576539107937244 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | что выбрать Галил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:52:53 |
