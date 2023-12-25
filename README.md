@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539133097012 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | LygoXa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:35:13 |
@@ -50,36 +50,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539133302614 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | MS for Hope |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 16:35:33 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539133564618 |
+| Players | 3/8 |
+| Host Name | gazdratjopi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:35:59 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539133516838 |
-| Players | 1/15 |
+| Lobby ID | 28576539133574166 |
+| Players | 3/15 |
 | Host Name | Lunь |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 16:35:55 |
+| Lobby Creation Time | Monday, December 25, 2023 16:36:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539133042089 |
-| Players | 14/15 |
-| Host Name | F# |
+| Lobby ID | 28576539133659141 |
+| Players | 3/8 |
+| Host Name | estriper |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:35:08 |
+| Lobby Creation Time | Monday, December 25, 2023 16:36:09 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576539131805528 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | deadly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 16:33:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539133643531 |
+| Players | 1/10 |
+| Host Name | penitentOne |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 16:36:07 |
 
 
