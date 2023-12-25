@@ -2,20 +2,20 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539016628010 |
-| Players | 22/24 |
-| Host Name | 21Savage |
+| Lobby ID | 28576539023084940 |
+| Players | 1/8 |
+| Host Name | 682 |
 | Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 13:04:11 |
+| Lobby Creation Time | Monday, December 25, 2023 13:17:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539022506918 |
-| Players | 3/15 |
-| Host Name | koT |
+| Players | 5/15 |
+| Host Name | ДЖОРДЖ КУНИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:16:08 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539022224945 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | шо you doing бл*ть |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, December 25, 2023 13:15:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539022898954 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | высергей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:16:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539022425879 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Crow |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 13:15:58 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539022485629 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Vito Spagetti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:16:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539023084940 |
-| Players | 1/8 |
-| Host Name | 682 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 13:17:19 |
 
 
