@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539068378322 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | 😴😴 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 14:44:02 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 14:47:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539069001209 |
-| Players | 14/15 |
-| Host Name | sadaitada |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 14:45:09 |
+| Lobby ID | 28576539071073802 |
+| Players | 1/10 |
+| Host Name | Stronger |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 14:48:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539070211278 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Катофей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:47:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539070257190 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | shadow fiend romantik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:47:24 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539071029349 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | codeine abuzer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 14:48:47 |
