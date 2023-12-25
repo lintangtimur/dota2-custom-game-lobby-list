@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539026528525 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Eldarko15 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:24:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539027345159 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 喜欢短发的女生 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:25:54 |
