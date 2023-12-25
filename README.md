@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539028938527 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Android Coder |
 | Region | USWEST |
 | Lobby Creation Time | Monday, December 25, 2023 13:29:04 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:31:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539031724732 |
-| Players | 22/24 |
-| Host Name | Ah Zai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 13:34:47 |
+| Lobby ID | 28576539032076037 |
+| Players | 6/10 |
+| Host Name | ABOBA BOY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 13:35:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539032215618 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Пузожитель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:35:46 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539032608200 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:36:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539029773356 |
-| Players | 23/24 |
-| Host Name | 『　          』 |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 13:30:48 |
 
 
 |  | ot3_gardens_duo |
@@ -83,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 13:35:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539032076037 |
-| Players | 7/10 |
-| Host Name | ABOBA BOY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 13:35:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539033098291 |
-| Players | 1/24 |
-| Host Name | Maple |
+| Lobby ID | 28576539033201055 |
+| Players | 1/15 |
+| Host Name | 送上了头 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 13:37:30 |
+| Lobby Creation Time | Monday, December 25, 2023 13:37:43 |
 
 
 |  | epic_boss_fight_nightmare |
