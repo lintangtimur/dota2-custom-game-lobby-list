@@ -58,24 +58,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539148692137 |
-| Players | 5/8 |
-| Host Name | top 1 rank eu узница |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 17:00:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539149069969 |
-| Players | 9/15 |
-| Host Name | Цепий бычень |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:01:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28576539149136706 |
 | Players | 5/8 |
 | Host Name | дота для ебанатов |
@@ -83,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 17:01:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539148628981 |
-| Players | 7/8 |
-| Host Name | acsess |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 17:00:44 |
+| Lobby ID | 28576539149069969 |
+| Players | 10/15 |
+| Host Name | Цепий бычень |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 17:01:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539149469483 |
+| Players | 1/15 |
+| Host Name | Patrick Swayze |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 17:02:08 |
 
 
 |  | epic_boss_fight_nightmare |
