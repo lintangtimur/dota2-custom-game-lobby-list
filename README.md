@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539158102679 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | everything gonna be alright |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:15:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576539157583614 |
-| Players | 11/15 |
-| Host Name | витя |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 17:14:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539158238005 |
-| Players | 1/10 |
-| Host Name | Money? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 17:15:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576539155821776 |
-| Players | 24/24 |
-| Host Name | Sea ppl=dogs |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, December 25, 2023 17:12:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | _OdiseiYT_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:15:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539158238005 |
+| Players | 4/10 |
+| Host Name | Money? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 17:15:54 |
 
 
 |  | epic_boss_fight_normal |
