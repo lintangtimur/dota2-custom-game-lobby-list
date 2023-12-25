@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539034644305 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | LJS - Shadow Shaman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:40:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539035636392 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | аРБУЗ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 13:42:28 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539036411590 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Evlogos |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 13:44:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576539036602618 |
+| Players | 1/24 |
+| Host Name | 1-800-LOW-PRIO |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 13:44:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Loohe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 13:35:43 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576539036521538 |
+| Players | 2/10 |
+| Host Name | InvisiBRO |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, December 25, 2023 13:44:13 |
 
 
