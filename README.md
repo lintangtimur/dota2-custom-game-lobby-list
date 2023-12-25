@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539430711358 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Человек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:11:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539429009972 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | El gato con Ojotas |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 22:09:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539430083682 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | worm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 22:10:49 |
@@ -77,43 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539427713196 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | [LosPibes]Nyk0 |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 22:08:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539431083249 |
-| Players | 4/8 |
-| Host Name | Dussters |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 22:11:46 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539430397571 |
-| Players | 5/10 |
-| Host Name | No vaseline |
+| Lobby ID | 28576539431513873 |
+| Players | 2/10 |
+| Host Name | уголовник |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 22:11:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539431292637 |
-| Players | 3/8 |
-| Host Name | ihlwd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 22:11:58 |
+| Lobby Creation Time | Monday, December 25, 2023 22:12:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539427771426 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 22:08:36 |
