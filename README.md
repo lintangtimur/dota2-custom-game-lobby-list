@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539009709918 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:49:21 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:43:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539009877982 |
-| Players | 9/10 |
-| Host Name | enemyenemyenemy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 12:49:42 |
+| Lobby ID | 28576539011240935 |
+| Players | 4/15 |
+| Host Name | JP |
+| Region | PERU |
+| Lobby Creation Time | Monday, December 25, 2023 12:52:35 |
 
 
 |  | ot3_gardens_duo |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, December 25, 2023 12:50:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576539010926610 |
-| Players | 7/8 |
-| Host Name | АНДРЕЙ ЯКОВЛЕВ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 12:51:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539011240935 |
-| Players | 3/15 |
-| Host Name | JP |
-| Region | PERU |
-| Lobby Creation Time | Monday, December 25, 2023 12:52:35 |
+| Lobby ID | 28576539011647282 |
+| Players | 1/15 |
+| Host Name | Gabimaru |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, December 25, 2023 12:53:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -94,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576539011315531 |
+| Lobby ID | 28576539011666688 |
 | Players | 1/5 |
-| Host Name | x65nchanter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 12:52:45 |
+| Host Name | mr.Dude |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, December 25, 2023 12:53:30 |
 
 
