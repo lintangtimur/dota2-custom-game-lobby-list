@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539134683986 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Nekotactical |
 | Region | PERU |
 | Lobby Creation Time | Monday, December 25, 2023 16:37:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539193745682 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ₱łⱫĐ₳ V₳₥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:08:01 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539193994890 |
-| Players | 5/24 |
-| Host Name | ~XingXingHai~ |
+| Players | 7/24 |
+| Host Name | OA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:08:21 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539181207944 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Lﻉ♥n |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:50:21 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576539194411589 |
 | Players | 2/8 |
-| Host Name | OROCHI |
+| Host Name | голандский моряк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 18:08:55 |
 
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Micheal Jordan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 18:08:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539194530735 |
+| Players | 2/8 |
+| Host Name | Fl1keR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 18:09:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539194545231 |
+| Players | 3/8 |
+| Host Name | i hear voices in my head |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 18:09:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576539194587880 |
+| Players | 1/8 |
+| Host Name | рубль будет? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 18:09:09 |
 
 
 |  | epic_boss_fight_nightmare |
