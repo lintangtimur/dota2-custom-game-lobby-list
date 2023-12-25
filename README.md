@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539009709918 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 12:49:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539011764356 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | bane |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:53:42 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539012086990 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SummYourMom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 12:54:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539012950421 |
+| Players | 1/5 |
+| Host Name | x65nchanter |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 12:56:13 |
 
 
