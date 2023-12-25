@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539556239794 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:18:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539558393416 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Sweet_Potato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:20:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539559490685 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | тоғсиқбек |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:21:31 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539559929434 |
-| Players | 1/15 |
-| Host Name | Rich |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:21:59 |
+| Lobby ID | 28576539559922673 |
+| Players | 2/15 |
+| Host Name | BARTO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:21:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539557097693 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Mahoraga |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:19:01 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539559773339 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | diamond no ace |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 00:21:49 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 00:20:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539559922673 |
-| Players | 1/15 |
-| Host Name | BARTO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, December 26, 2023 00:21:58 |
+| Lobby ID | 28576539560039203 |
+| Players | 3/8 |
+| Host Name | not the one you need |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 00:22:06 |
 
 
 |  | epic_boss_fight_normal |
