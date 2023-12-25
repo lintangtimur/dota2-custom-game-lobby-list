@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539661178630 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | ЖОПОСРАНЧИК• |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:12:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539661781196 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | R3flection |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:13:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539658289074 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | affetmez07 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:09:39 |
@@ -95,19 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539661797973 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Zk2~ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:13:40 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576539662079815 |
+| Players | 3/10 |
+| Host Name | LUFFY SENPAI |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:14:00 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576539661766361 |
-| Players | 13/15 |
-| Host Name | Russel |
+| Lobby ID | 28576539662081777 |
+| Players | 2/15 |
+| Host Name | Lexstor |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 02:13:38 |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:14:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | crestfallen |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 02:13:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576539662208111 |
+| Players | 1/5 |
+| Host Name | tygosa |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, December 26, 2023 02:14:08 |
 
 
