@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539091829056 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Юра Наливай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:25:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539090147550 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | noom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 15:22:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539091200715 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Stronger |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 15:24:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539089335200 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 15:20:59 |
