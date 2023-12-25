@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539123373139 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | AmBOT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 16:18:59 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539123589559 |
-| Players | 6/8 |
-| Host Name | Червь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, December 25, 2023 16:19:20 |
+| Lobby ID | 28576539121518624 |
+| Players | 2/8 |
+| Host Name | They Call Me Crazy |
+| Region | USEAST |
+| Lobby Creation Time | Monday, December 25, 2023 16:15:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576539121518624 |
-| Players | 2/8 |
-| Host Name | They Call Me Crazy |
-| Region | USEAST |
-| Lobby Creation Time | Monday, December 25, 2023 16:15:54 |
+| Lobby ID | 28576539123770243 |
+| Players | 1/8 |
+| Host Name | Ivan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 16:19:38 |
 
 
 |  | epic_boss_fight_normal |
