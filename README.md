@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576539155977340 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | бабр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:12:24 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576539155785832 |
-| Players | 6/10 |
-| Host Name | me pro you noob :P |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, December 25, 2023 17:12:06 |
+| Lobby ID | 28576539156159364 |
+| Players | 1/10 |
+| Host Name | HUGE |
+| Region | USWEST |
+| Lobby Creation Time | Monday, December 25, 2023 17:12:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539155821776 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Sea ppl=dogs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:12:10 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539156118081 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | XTINCT |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, December 25, 2023 17:12:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576539156159364 |
-| Players | 1/10 |
-| Host Name | HUGE |
-| Region | USWEST |
-| Lobby Creation Time | Monday, December 25, 2023 17:12:41 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539154695675 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 17:10:25 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576539154647325 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ArcsonX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 17:10:20 |
