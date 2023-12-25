@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576539391686517 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | MastersMaks_DR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:34:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576539343537798 |
-| Players | 16/24 |
+| Players | 14/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, December 25, 2023 20:50:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539391788011 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Recombobulate |
 | Region | USEAST |
 | Lobby Creation Time | Monday, December 25, 2023 21:34:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576539391385028 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | МАЭСТРО СЫРНИК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, December 25, 2023 21:34:25 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, December 25, 2023 21:34:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576539391972751 |
+| Players | 7/15 |
+| Host Name | kkkkkkkkk.kk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, December 25, 2023 21:34:58 |
 
 
 |  | ot3_jungle_quintet |
