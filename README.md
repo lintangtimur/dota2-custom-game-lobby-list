@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 21:33:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576540416357872 |
-| Players | 1/10 |
-| Host Name | Адидас (Junior) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:52:58 |
+| Lobby ID | 28576540417911353 |
+| Players | 1/8 |
+| Host Name | Kano |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:54:20 |
 
 
 |  | ot3_gardens_duo |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 21:49:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576540417566791 |
-| Players | 5/24 |
-| Host Name | mentality:Leo Messi |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:54:02 |
+| Lobby ID | 28576540417849536 |
+| Players | 1/8 |
+| Host Name | 不怎么会 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:54:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576540416025162 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ★彡[ŁogaภY]彡★ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:52:40 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576540412870482 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:49:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576540416833984 |
-| Players | 8/10 |
-| Host Name | Скибиди-Пророк |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:53:23 |
+| Lobby ID | 28576540417982551 |
+| Players | 4/8 |
+| Host Name | creatorlxd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:54:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576540405540965 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Why So Ez? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:43:09 |
@@ -104,10 +104,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576540416967197 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | unleashed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:53:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576540417845294 |
+| Players | 1/8 |
+| Host Name | DD |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:54:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576540417938880 |
+| Players | 1/8 |
+| Host Name | NobodyMove |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:54:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576540417980827 |
+| Players | 2/10 |
+| Host Name | Фpod |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:54:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576540418015218 |
+| Players | 5/8 |
+| Host Name | mentality:Leo Messi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:54:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -121,17 +157,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576540408018592 |
-| Players | 9/10 |
-| Host Name | karmageddon |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:45:25 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28576540414195311 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | BIGFACE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:50:59 |
