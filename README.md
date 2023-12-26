@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576540419501078 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | админ всех шлюх |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:55:47 |
@@ -128,31 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 21:56:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576540420744055 |
-| Players | 5/10 |
-| Host Name | Собянин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:56:55 |
+| Lobby ID | 28576540421260089 |
+| Players | 1/8 |
+| Host Name | Swap commends |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:57:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576540420825677 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Плющ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:57:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576540421033925 |
-| Players | 1/8 |
-| Host Name | Завхоз1957 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:57:11 |
 
 
 |  | epic_boss_fight_nightmare |
