@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576540405630012 |
-| Players | 6/8 |
-| Host Name | Lorenzo el Gallo (Cuti) |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:43:14 |
+| Lobby ID | 28576540414623683 |
+| Players | 1/8 |
+| Host Name | kopocy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:51:22 |
 
 
 |  | ot3_gardens_duo |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576540414558168 |
-| Players | 1/10 |
-| Host Name | Armce Jr. |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:51:19 |
+| Lobby ID | 28576540415159641 |
+| Players | 2/10 |
+| Host Name | Эльф с милым взглядом |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:51:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 21:46:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576540410499271 |
-| Players | 6/15 |
-| Host Name | rob piste |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:47:40 |
+| Lobby ID | 28576540415130980 |
+| Players | 4/8 |
+| Host Name | snoop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:51:51 |
 
 
 |  | ot3_desert_octet |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 21:49:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576540414639854 |
-| Players | 10/15 |
-| Host Name | I.M.Sin |
+| Lobby ID | 28576540414584146 |
+| Players | 2/8 |
+| Host Name | Timudjin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:51:23 |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:51:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576540405540965 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Why So Ez? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:43:09 |
@@ -101,31 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 21:37:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576540413888637 |
-| Players | 8/10 |
-| Host Name | Korben Dallas |
+| Lobby ID | 28576540414972446 |
+| Players | 5/15 |
+| Host Name | Negaivecreep_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:50:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576540414623683 |
-| Players | 1/8 |
-| Host Name | kopocy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:51:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576540414695110 |
-| Players | 2/8 |
-| Host Name | dimonaliza |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:51:26 |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:51:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576540408018592 |
-| Players | 7/10 |
-| Host Name | MonsterCat |
+| Players | 8/10 |
+| Host Name | karmageddon |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:45:25 |
 
@@ -149,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576540414195311 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | BIGFACE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:50:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576540415301205 |
+| Players | 2/5 |
+| Host Name | сало |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:52:00 |
 
 
