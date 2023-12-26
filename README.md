@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 21:49:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576540415939604 |
-| Players | 11/15 |
-| Host Name | Polyhedron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:52:36 |
+| Lobby ID | 28576540416632543 |
+| Players | 6/10 |
+| Host Name | m4ki |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:53:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576540416025162 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ★彡[ŁogaภY]彡★ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:52:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576540412870482 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:49:46 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576540405540965 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | Why So Ez? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:43:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576540416504649 |
-| Players | 2/8 |
-| Host Name | 573 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:53:05 |
 
 
 |  | ot3_desert_octet |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576540414195311 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | BIGFACE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:50:59 |
