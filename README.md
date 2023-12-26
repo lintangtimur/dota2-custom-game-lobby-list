@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576540412502687 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ♥ _.R.A.M.Z.E.S.6.6.6_♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:49:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576540417260641 |
-| Players | 6/8 |
-| Host Name | Sasai-kudasai |
+| Lobby ID | 28576540417566791 |
+| Players | 5/24 |
+| Host Name | mentality:Leo Messi |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:53:45 |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:54:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 21:49:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576540415475038 |
-| Players | 9/15 |
-| Host Name | Armce Jr. |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:52:10 |
+| Lobby ID | 28576540416833984 |
+| Players | 8/10 |
+| Host Name | Скибиди-Пророк |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:53:23 |
 
 
 |  | ot3_desert_octet |
@@ -104,37 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576540416967197 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | unleashed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:53:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576540416833984 |
-| Players | 8/10 |
-| Host Name | Скибиди-Пророк |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:53:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576540417566791 |
-| Players | 5/24 |
-| Host Name | mentality:Leo Messi |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:54:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576540417575882 |
-| Players | 3/8 |
-| Host Name | maksikol |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:54:02 |
 
 
 |  | epic_boss_fight_nightmare |
