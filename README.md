@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576540395063254 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Alphashogun |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:33:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576540405630012 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Lorenzo el Gallo (Cuti) |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:43:14 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576540412502687 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ♥ _.R.A.M.Z.E.S.6.6.6_♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:49:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576540412185151 |
-| Players | 8/10 |
-| Host Name | Physique |
+| Lobby ID | 28576540413077768 |
+| Players | 1/15 |
+| Host Name | br0 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:49:09 |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:49:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576540412439427 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | cherva |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:49:23 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576540405540965 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Why So Ez? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:43:09 |
@@ -104,19 +104,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576540410418116 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | uwu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:47:36 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576540413062959 |
+| Players | 1/15 |
+| Host Name | 开g全家肛裂 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:49:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576540412870482 |
+| Players | 6/24 |
+| Host Name | Trungdaica |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:49:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576540412899180 |
+| Players | 4/10 |
+| Host Name | Мурат Аппарат |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:49:48 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576540412683552 |
-| Players | 3/8 |
-| Host Name | lamió |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:49:36 |
+| Lobby ID | 28576540411918577 |
+| Players | 7/8 |
+| Host Name | Laharl |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:48:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576540413075264 |
+| Players | 1/15 |
+| Host Name | Hirochi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:49:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576540408018592 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | MonsterCat |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:45:25 |
@@ -144,5 +180,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JapaKama |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:45:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576540412851449 |
+| Players | 1/5 |
+| Host Name | kurumi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:49:45 |
 
 
