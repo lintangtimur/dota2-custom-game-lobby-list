@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576540395063254 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Alphashogun |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:33:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576540419719214 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Iride Furukawa |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:55:59 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576540423732663 |
 | Players | 3/10 |
-| Host Name | butterfly MODE: STRAIGHT UP |
+| Host Name | блядота |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:59:41 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576540416025162 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | ★彡[ŁogaภY]彡★ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:52:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576540423430537 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | pizza |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:59:24 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [野性] 妖妖0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:59:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576540424059336 |
+| Players | 3/8 |
+| Host Name | Smaturn |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:59:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576540424126854 |
+| Players | 1/10 |
+| Host Name | McFly |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 22:00:02 |
 
 
 |  | epic_boss_fight_challenger |
