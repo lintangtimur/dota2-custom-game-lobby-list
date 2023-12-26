@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576540413077768 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | br0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:49:58 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576540412439427 |
+| Lobby ID | 28576540411918577 |
 | Players | 7/8 |
-| Host Name | cherva |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:49:23 |
+| Host Name | Laharl |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:48:55 |
 
 
 |  | ot3_desert_octet |
@@ -130,26 +130,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576540412899180 |
+| Lobby ID | 28576540413470375 |
 | Players | 4/10 |
-| Host Name | Мурат Аппарат |
+| Host Name | [MNA]theflowkin? |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:49:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576540411918577 |
-| Players | 7/8 |
-| Host Name | Laharl |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:48:55 |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:50:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576540408363794 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | nyThanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:45:44 |
@@ -158,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576540408018592 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | MonsterCat |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:45:25 |
