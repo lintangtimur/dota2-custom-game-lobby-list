@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576540414623683 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | kopocy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:51:22 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576540415495725 |
-| Players | 12/15 |
-| Host Name | РомкаW |
+| Lobby ID | 28576540415939604 |
+| Players | 7/15 |
+| Host Name | Polyhedron |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:52:11 |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:52:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, December 26, 2023 21:43:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576540415939604 |
-| Players | 2/15 |
-| Host Name | Polyhedron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:52:36 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576540408287327 |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BIGFACE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:50:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576540416303168 |
+| Players | 1/5 |
+| Host Name | Arnold |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:52:55 |
 
 
