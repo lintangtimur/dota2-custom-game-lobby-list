@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576540417911353 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Kano |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:54:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576540418205238 |
-| Players | 12/15 |
-| Host Name | fuck around to find out |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:54:36 |
+| Lobby ID | 28576540412870482 |
+| Players | 23/24 |
+| Host Name | Trungdaica |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, December 26, 2023 21:49:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,37 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576540405540965 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Why So Ez? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:43:09 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576540412870482 |
-| Players | 23/24 |
-| Host Name | Trungdaica |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:49:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576540408287327 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | JapaKama |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, December 26, 2023 21:45:39 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28576540418594086 |
-| Players | 1/7 |
-| Host Name | Парирую женщин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, December 26, 2023 21:54:57 |
 
 
 |  | epic_boss_fight_hard |
