@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541592403270 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ZYX-AROUND |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 00:39:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541593161465 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Liapin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:40:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541589123553 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | WSPMTT |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 00:36:23 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541591770371 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Just_lame |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:39:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541593385597 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Wiacon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:41:01 |
@@ -105,7 +105,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576541593353463 |
 | Players | 4/24 |
-| Host Name | GrandPa |
+| Host Name | DYOR |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:40:59 |
 
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541593586116 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Позывной пивосос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:41:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541593769012 |
+| Players | 5/15 |
+| Host Name | Lee Ji Eun |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 00:41:26 |
 
 
