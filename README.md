@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541850282018 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | tbgk7 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:16:31 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541848253411 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Euphoria |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:12:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541848085125 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Ratasor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:12:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541850273361 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ЖЕСТКО ИГРАЕМ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:16:30 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541849669309 |
-| Players | 5/15 |
-| Host Name | Elysium |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 06:15:21 |
+| Lobby ID | 28576541849366764 |
+| Players | 15/15 |
+| Host Name | Djdcoolcry®#1337# |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:14:47 |
 
 
 |  | ot3_gardens_duo |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:16:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541850321230 |
+| Players | 2/10 |
+| Host Name | РУКОПАШНЫЙ СЕКС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:16:35 |
 
 
 |  | epic_boss_fight_nightmare |
