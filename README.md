@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541335785023 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | АГЕНТ ГАБЕНА №3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:29:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541325805619 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ЛиСёНоК ПиПо) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:20:07 |
@@ -59,16 +59,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541336234719 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Ryan Gosling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:29:55 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541336231663 |
+| Players | 1/10 |
+| Host Name | Деградация по Ферхюльсту |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:29:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541336291189 |
+| Players | 2/15 |
+| Host Name | Neber_rebels |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:29:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541336263200 |
+| Players | 3/8 |
+| Host Name | 52愛 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:29:57 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541333254992 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | pepega |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:27:07 |
