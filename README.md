@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541856862385 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:29:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541857218729 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | @@wxn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:29:55 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 06:29:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541854821663 |
-| Players | 23/24 |
-| Host Name | PARKA |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 06:25:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541857291693 |
-| Players | 1/10 |
-| Host Name | LANITO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 06:30:04 |
+| Lobby ID | 28576541857314466 |
+| Players | 5/8 |
+| Host Name | пивной бочок |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 06:30:07 |
 
 
 |  | epic_boss_fight_nightmare |
