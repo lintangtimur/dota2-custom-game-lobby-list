@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:20:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541574273343 |
-| Players | 5/8 |
-| Host Name | Arabas |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 00:20:35 |
+| Lobby ID | 28576541574601542 |
+| Players | 9/15 |
+| Host Name | кунфу падла |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 00:20:56 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541574017082 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Gorthaur the Cruel |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:20:19 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:20:28 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541574601542 |
-| Players | 3/15 |
-| Host Name | кунфу падла |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 00:20:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541574881024 |
-| Players | 6/8 |
-| Host Name | Shervin |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 00:21:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541561151217 |
@@ -103,19 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541569539510 |
-| Players | 9/10 |
-| Host Name | TEAM CALLER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:15:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28576541572020046 |
 | Players | 2/10 |
 | Host Name | Гнев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:18:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541575053206 |
+| Players | 1/5 |
+| Host Name | &_& |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:21:24 |
 
 
