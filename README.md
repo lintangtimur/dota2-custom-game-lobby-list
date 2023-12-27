@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541279842392 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ROCK HARD |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:34:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541280978061 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | aiku the snake |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:35:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541272492086 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Hanko |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:26:55 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541278298964 |
-| Players | 9/10 |
-| Host Name | Storm Blessed |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:33:02 |
+| Lobby ID | 28576541281490000 |
+| Players | 4/10 |
+| Host Name | Cules1899 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:36:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541281499483 |
+| Players | 3/8 |
+| Host Name | крабовый абалдуй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:36:25 |
 
 
 |  | epic_boss_fight_nightmare |
