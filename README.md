@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541765991823 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Lion el Messi |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:01:52 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541767745317 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:04:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541763793905 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Pray |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 03:58:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541767662296 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Stray |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 04:04:09 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541767975998 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | MX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:04:35 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541766247189 |
-| Players | 10/15 |
-| Host Name | vagaa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:02:13 |
+| Lobby ID | 28576541768131489 |
+| Players | 5/15 |
+| Host Name | twitch.tv/lvsques 🏳️‍🌈 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 04:04:49 |
 
 
 |  | epic_boss_fight_hard |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:04:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541764532323 |
+| Players | 7/10 |
+| Host Name | Prof. Lambda |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:59:53 |
 
 
