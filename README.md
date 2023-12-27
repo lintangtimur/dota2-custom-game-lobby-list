@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541558530983 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | шпрод |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:04:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541557971953 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 00:03:26 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:00:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541557849540 |
-| Players | 1/24 |
-| Host Name | potatoboi |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 00:03:18 |
+| Lobby ID | 28576541558835272 |
+| Players | 3/10 |
+| Host Name | Жабий паркур |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 00:04:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | £雨٭:̶͟͞͞☆ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 00:03:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541555503815 |
+| Players | 5/8 |
+| Host Name | dipresion pidor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:00:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WinterStephano<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:03:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541558887103 |
+| Players | 2/5 |
+| Host Name | Shinzu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 00:04:23 |
 
 
