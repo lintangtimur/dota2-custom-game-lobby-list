@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:53:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541305868099 |
-| Players | 23/24 |
-| Host Name | Saint |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:00:57 |
+| Lobby ID | 28576541306834129 |
+| Players | 9/10 |
+| Host Name | SimpleJust 🇺🇦 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:01:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,13 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541306834129 |
-| Players | 8/10 |
-| Host Name | SimpleJust 🇺🇦 |
+| Lobby ID | 28576541308566733 |
+| Players | 1/8 |
+| Host Name | ГАТУЙСРАКУ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:03:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541308562815 |
+| Players | 1/8 |
+| Host Name | Ghosty ❤ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:03:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541308643056 |
+| Players | 2/8 |
+| Host Name | Fumimochi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:01:54 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:03:41 |
 
 
 |  | epic_boss_fight_nightmare |
