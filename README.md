@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541430922165 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Aza†oT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:56:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541423605979 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Homicídio |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:50:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541429958721 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | sn1zz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:56:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541430827044 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Daniel Park |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:56:52 |
@@ -68,37 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541427835161 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Frukt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:54:05 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541430504799 |
-| Players | 8/10 |
-| Host Name | RASOOL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:56:35 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541431296112 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | broken 2-2 pos or jungle神 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:57:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541431308969 |
-| Players | 2/15 |
-| Host Name | Sniper Handal |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:57:19 |
+| Lobby ID | 28576541424589005 |
+| Players | 23/24 |
+| Host Name | 非凡之冰霜 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:51:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541431522511 |
+| Players | 1/8 |
+| Host Name | sideral_frio |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:57:31 |
 
 
 |  | epic_boss_fight_nightmare |
