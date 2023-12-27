@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541385765510 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Мертві орки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:15:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541386075352 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | simple |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:15:47 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541375333626 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Dude |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:05:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541381767330 |
-| Players | 20/24 |
-| Host Name | wabisabi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:11:55 |
+| Lobby ID | 28576541386171522 |
+| Players | 8/10 |
+| Host Name | hrvatska |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:15:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,37 +85,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541371420964 |
-| Players | 23/24 |
-| Host Name | Бубен 2 куртки |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:02:24 |
+| Lobby ID | 28576541381767330 |
+| Players | 21/24 |
+| Host Name | wabisabi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:11:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541386171522 |
-| Players | 4/10 |
-| Host Name | hrvatska |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:15:52 |
+| Lobby ID | 28576541386426997 |
+| Players | 1/24 |
+| Host Name | Ayam Goreng Mekdi (Pedas) |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:16:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541384006590 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | RMP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:13:54 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576541380799732 |
-| Players | 9/10 |
-| Host Name | LEE kwang SOO |
+| Lobby ID | 28576541386440426 |
+| Players | 1/5 |
+| Host Name | RINGO |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:11:01 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:16:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541386449223 |
+| Players | 1/5 |
+| Host Name | Петрушевый чай |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:16:08 |
 
 
