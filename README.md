@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:36:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541534521692 |
-| Players | 14/15 |
-| Host Name | пережил 3 аборта |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:39:03 |
+| Lobby ID | 28576541535399686 |
+| Players | 1/8 |
+| Host Name | ax² + bx + c = 0 |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:39:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541532208019 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | ria |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:36:39 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.FANIxx |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:39:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541535475786 |
+| Players | 1/15 |
+| Host Name | dread |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:40:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541535516757 |
+| Players | 1/24 |
+| Host Name | no jodas toy asao |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:40:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zewsss |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:38:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541535490529 |
+| Players | 2/10 |
+| Host Name | JMC |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:40:04 |
 
 
