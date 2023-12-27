@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541863299206 |
-| Players | 7/8 |
-| Host Name | Dereck Zoolander. |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 06:42:15 |
+| Lobby ID | 28576541864609363 |
+| Players | 3/24 |
+| Host Name | Griffen801 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 06:44:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541864089212 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | perfect world player |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:43:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541864563917 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Yume |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:44:46 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541864626026 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | 5g |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:44:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541864609363 |
-| Players | 1/24 |
-| Host Name | Griffen801 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 06:44:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541864502291 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | HE MOPOCU |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:44:39 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576541864728573 |
+| Players | 4/7 |
+| Host Name | lovett |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:45:07 |
 
 
