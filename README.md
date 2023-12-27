@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541620627173 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | nix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 01:10:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541619923226 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Elena Where are you? need you |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:09:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541620127007 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Soy MUY PRO por eso me dan CACAS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:09:58 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 01:03:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541621883148 |
-| Players | 3/8 |
-| Host Name | pokoritel` kisok 3000 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 01:11:54 |
+| Lobby ID | 28576541621822660 |
+| Players | 8/15 |
+| Host Name | How u doin? |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 01:11:50 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 01:11:48 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541622061472 |
+| Players | 2/10 |
+| Host Name | africa pride ooga booga |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 01:12:05 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541621822660 |
-| Players | 2/15 |
-| Host Name | How u doin? |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 01:11:50 |
+| Lobby ID | 28576541622077546 |
+| Players | 1/15 |
+| Host Name | toffi |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, December 28, 2023 01:12:06 |
 
 
 |  | epic_boss_fight_challenger |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gashush |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 01:11:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541622088070 |
+| Players | 1/5 |
+| Host Name | Mal'ganis |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 01:12:07 |
 
 
