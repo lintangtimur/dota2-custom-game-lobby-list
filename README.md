@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541812216767 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Tangerine |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:10:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541813929081 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | SKYline GTR |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:12:50 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541815236105 |
-| Players | 2/8 |
-| Host Name | неформал лээ |
+| Players | 1/8 |
+| Host Name | DYD-ShabLKobba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:14:55 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541815407945 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | D4RKY1$U$ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:15:11 |
@@ -121,20 +121,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541814966189 |
-| Players | 13/15 |
-| Host Name | Nikk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:14:28 |
+| Lobby ID | 28576541815552435 |
+| Players | 2/15 |
+| Host Name | Cspiteri |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:15:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541815400959 |
-| Players | 2/8 |
-| Host Name | Elnour Ishag Adam |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:15:11 |
+| Lobby ID | 28576541815580661 |
+| Players | 1/10 |
+| Host Name | miz |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:15:28 |
 
 
 |  | epic_boss_fight_normal |
