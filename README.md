@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541234691442 |
-| Players | 10/15 |
-| Host Name | Fokslegion |
+| Lobby ID | 28576541235498348 |
+| Players | 3/15 |
+| Host Name | asl番 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:44:14 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:45:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541234269585 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | SUP IS MY LIFE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:43:44 |
