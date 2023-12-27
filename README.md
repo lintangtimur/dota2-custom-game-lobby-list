@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 01:28:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541638393761 |
-| Players | 8/15 |
-| Host Name | Tsukuyomi |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 01:29:54 |
+| Lobby ID | 28576541638250777 |
+| Players | 5/10 |
+| Host Name | Z1FFo |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 28, 2023 01:29:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541637735747 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ꌚꁲꂠ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:29:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541636312249 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | EL SUPER TALENTOSO RRSEXXX |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:27:37 |
@@ -58,20 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541635964502 |
-| Players | 23/24 |
-| Host Name | Alotte |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 01:27:14 |
+| Lobby ID | 28576541638550232 |
+| Players | 1/24 |
+| Host Name | Recknar |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 01:30:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541638673730 |
+| Players | 2/8 |
+| Host Name | Денис побритый |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 01:30:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541638250777 |
-| Players | 6/10 |
-| Host Name | Z1FFo |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 01:29:45 |
+| Lobby ID | 28576541638692229 |
+| Players | 1/10 |
+| Host Name | KLL |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 01:30:14 |
 
 
 |  | epic_boss_fight_nightmare |
