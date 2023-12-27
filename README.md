@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541206627448 |
-| Players | 7/8 |
-| Host Name | наконец-то ты заткнулась |
+| Lobby ID | 28576541207641028 |
+| Players | 4/8 |
+| Host Name | gazdratjopi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:08:24 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:09:50 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541205280176 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | What a Dragg! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:06:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541207238616 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 7urbo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:09:16 |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541207641028 |
-| Players | 4/8 |
-| Host Name | gazdratjopi |
+| Lobby ID | 28576541207853811 |
+| Players | 1/8 |
+| Host Name | Never give up |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:09:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541205885603 |
-| Players | 7/10 |
-| Host Name | Hey What Happened |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:07:22 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:10:08 |
 
 
 |  | epic_boss_fight_nightmare |
