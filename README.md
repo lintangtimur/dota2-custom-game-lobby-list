@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541197512063 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Novasiphon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:55:47 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:07:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541198573770 |
-| Players | 13/15 |
-| Host Name | ♡ 2 часа ночи |
+| Lobby ID | 28576541198921928 |
+| Players | 8/10 |
+| Host Name | Ёбанный кирпич |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:57:17 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:57:46 |
 
 
 |  | ot3_gardens_duo |
@@ -59,27 +59,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541198386640 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ▲ Убийца Акаме |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:57:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541198921928 |
-| Players | 7/10 |
-| Host Name | Ёбанный кирпич |
+| Lobby ID | 28576541199193313 |
+| Players | 3/24 |
+| Host Name | :( |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:57:46 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:58:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541199193024 |
+| Players | 1/15 |
+| Host Name | ДШРГ РУСИЧ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:58:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541195539329 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Kapal lawd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:52:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541199134505 |
+| Players | 1/10 |
+| Host Name | Mr.Henky |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:58:04 |
 
 
