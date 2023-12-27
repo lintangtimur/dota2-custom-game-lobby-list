@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541812216767 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Tangerine |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:10:04 |
@@ -65,46 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:14:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541814170204 |
-| Players | 7/8 |
-| Host Name | -Angelidk-̵̳ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:13:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541813240900 |
-| Players | 23/24 |
-| Host Name | YO ERA GOZU HASTA QUE ME ENAMORE |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:11:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541815913772 |
-| Players | 4/8 |
-| Host Name | Фотограф |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:16:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541815236105 |
-| Players | 4/8 |
-| Host Name | DYD-ShabLKobba |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:14:55 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541815552435 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Cspiteri |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:15:26 |
@@ -131,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541810766100 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | The Suspect |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:07:41 |
