@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541688642302 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | KpacHbIu aHaJl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:26:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541626647736 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:25:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541686015448 |
-| Players | 23/24 |
-| Host Name | Immortality |
+| Lobby ID | 28576541689343684 |
+| Players | 3/8 |
+| Host Name | Человек - паук |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:23:20 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:27:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,37 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:23:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541688955265 |
-| Players | 9/15 |
-| Host Name | Агент Гейба №24 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:26:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541688747731 |
-| Players | 5/10 |
-| Host Name | Mydna [Hold the Door] |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 02:26:26 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541689343684 |
-| Players | 1/8 |
-| Host Name | Человек - паук |
+| Lobby ID | 28576541689492761 |
+| Players | 3/8 |
+| Host Name | silf- |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:27:06 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:27:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541689479385 |
+| Players | 1/15 |
+| Host Name | Хаос |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:27:15 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541684697830 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Serenity Now... |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:21:50 |
