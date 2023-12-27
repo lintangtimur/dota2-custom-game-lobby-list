@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541412379351 |
-| Players | 23/24 |
-| Host Name | 엄마랑 자 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:39:47 |
+| Lobby ID | 28576541416012025 |
+| Players | 4/8 |
+| Host Name | froz645 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:43:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541415657560 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Goku |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:42:51 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541412678545 |
-| Players | 6/8 |
-| Host Name | hi im the solon siblings |
+| Players | 3/8 |
+| Host Name | gusto kong magsalita ng masasama |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:40:04 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541413788728 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | АМБАССАДОР СИСЕК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:41:07 |
@@ -128,12 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:41:12 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28576541415917934 |
-| Players | 1/10 |
-| Host Name | Archon The Seven |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:43:05 |
+| Lobby ID | 28576541416109008 |
+| Players | 2/7 |
+| Host Name | Cael |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:43:16 |
 
 
