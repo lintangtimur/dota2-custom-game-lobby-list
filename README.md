@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541445934706 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | nacko LoaL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:11:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541446577584 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | WXH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:11:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541446042480 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Оля Лукина |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:11:21 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 22:10:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541446081162 |
-| Players | 1/10 |
-| Host Name | Адидас (Junior) |
+| Lobby ID | 28576541445874474 |
+| Players | 1/8 |
+| Host Name | [野性] 妖妖0 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:11:24 |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:11:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541445112622 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | NothingFeelsRight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:10:28 |
@@ -113,19 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541445898709 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Я КАЛЕНДАРЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:11:13 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541446865110 |
+| Players | 4/10 |
+| Host Name | ммм... бляди) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:12:08 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541445874474 |
+| Lobby ID | 28576541446985785 |
 | Players | 1/8 |
-| Host Name | [野性] 妖妖0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:11:12 |
+| Host Name | я календарь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:12:15 |
 
 
 |  | epic_boss_fight_nightmare |
