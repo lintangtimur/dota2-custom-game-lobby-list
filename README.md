@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541597285786 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Gorthaur the Cruel |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:45:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541596963741 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Super Position |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:44:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541599138706 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 克普 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:47:10 |
@@ -74,10 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:47:03 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541599270664 |
+| Players | 3/15 |
+| Host Name | Drim |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:47:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541599349077 |
+| Players | 6/8 |
+| Host Name | CCCR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:47:23 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541597868130 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | KUZUHA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:45:47 |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | deus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:47:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541599337966 |
+| Players | 2/5 |
+| Host Name | АБОРТ ЭНШТЕЙН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:47:23 |
 
 
