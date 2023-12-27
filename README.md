@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541818541189 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | James Dy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:20:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541820007530 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Scrappycoco |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:22:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541820399629 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | BigTimeTimmyJim |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:23:22 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541820507580 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | endless dream |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:23:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541820554862 |
+| Players | 1/24 |
+| Host Name | Odin kill |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 05:23:37 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aight, Bet! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:20:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541820614344 |
+| Players | 1/5 |
+| Host Name | AME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:23:43 |
 
 
