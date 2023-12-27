@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541862350343 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 06:40:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541868133777 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | =) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:52:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541868768677 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:53:18 |
@@ -94,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541867921162 |
-| Players | 8/10 |
-| Host Name | La Joya |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 06:51:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541868411813 |
-| Players | 14/15 |
-| Host Name | le_Chapun |
+| Lobby ID | 28576541868998807 |
+| Players | 1/10 |
+| Host Name | Отчаяние Тьмы |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:52:34 |
+| Lobby Creation Time | Thursday, December 28, 2023 06:53:46 |
 
 
 |  | epic_boss_fight_nightmare |
