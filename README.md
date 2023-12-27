@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541538584892 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Maotisco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:43:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541561396291 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ○◘♦☻LOBO SOLITARIO☺♦◘○ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 00:07:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541564264467 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Jet |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 00:10:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541560369732 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | ХОДАР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:05:56 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541564994176 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | CHONE |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 00:10:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541564480744 |
-| Players | 1/15 |
-| Host Name | голдуха |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:10:17 |
+| Lobby ID | 28576541565342416 |
+| Players | 3/8 |
+| Host Name | Guitir |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 00:11:13 |
 
 
 |  | ot3_gardens_duo |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:08:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541565290846 |
-| Players | 1/8 |
-| Host Name | Natso - |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 00:11:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541565342416 |
-| Players | 1/8 |
-| Host Name | E |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 00:11:13 |
+| Lobby ID | 28576541565488153 |
+| Players | 1/15 |
+| Host Name | rapu ( ͡° ͜ʖ ͡°) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:11:22 |
 
 
 |  | epic_boss_fight_nightmare |
