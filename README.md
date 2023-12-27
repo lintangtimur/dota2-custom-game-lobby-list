@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541239799445 |
-| Players | 6/8 |
-| Host Name | кико |
+| Lobby ID | 28576541240933984 |
+| Players | 6/10 |
+| Host Name | Вова Вист |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:50:18 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:51:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:49:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541238813259 |
-| Players | 21/24 |
-| Host Name | squirrel |
+| Lobby ID | 28576541240897860 |
+| Players | 1/10 |
+| Host Name | Адидас (Junior) |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:49:09 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:51:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541240561843 |
-| Players | 9/15 |
-| Host Name | Goooodlike |
+| Lobby ID | 28576541241113894 |
+| Players | 3/15 |
+| Host Name | yøbi |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:51:12 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:51:51 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541237334986 |
-| Players | 8/10 |
-| Host Name | Mythical |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:47:24 |
+| Lobby ID | 28576541241119699 |
+| Players | 1/15 |
+| Host Name | NZU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:51:51 |
 
 
 |  | epic_boss_fight_normal |
