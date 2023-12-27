@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541870903093 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | unprocurable |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541870622756 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ❆  𝓣𝓪𝓶𝓪𝓵  ❆ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541870319883 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Euphoria |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:56:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541870257685 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | ICHZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:56:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541870538980 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Marshall |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:56:57 |
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:33 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541870911756 |
+| Players | 5/24 |
+| Host Name | CAPTAIN  giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 06:57:43 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541870753480 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Кофточка |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:24 |
