@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541840907311 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | PROCEDE O NO PROCEDE MI ESTIMADO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:59:01 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541840254343 |
-| Players | 8/15 |
-| Host Name | RSparrow |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 05:57:49 |
+| Lobby ID | 28576541841204086 |
+| Players | 1/24 |
+| Host Name | JeD |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:59:33 |
 
 
 |  | ot3_gardens_duo |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541840907636 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | thecakeisalie |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:59:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541841377485 |
+| Players | 7/8 |
+| Host Name | ☆ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:59:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541841199000 |
+| Players | 1/8 |
+| Host Name | ICHZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:59:32 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541832292470 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KennyPaaa |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:43:41 |
@@ -101,19 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:53:15 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541839874716 |
-| Players | 1/5 |
-| Host Name | 杀手射液 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:57:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541840951295 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | breakdown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:59:05 |
