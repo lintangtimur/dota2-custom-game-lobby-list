@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:42:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541417000269 |
-| Players | 3/15 |
-| Host Name | оник |
+| Lobby ID | 28576541417743383 |
+| Players | 1/8 |
+| Host Name | балдымалдыбар |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:44:05 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:44:46 |
 
 
 |  | ot3_gardens_duo |
@@ -42,18 +42,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576541414210672 |
 | Players | 2/24 |
-| Host Name | Dj cucaracha |
+| Host Name | Dezziro |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:41:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541394059125 |
-| Players | 23/24 |
-| Host Name | ™Slim Shady® |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:23:00 |
+| Lobby ID | 28576541417259313 |
+| Players | 6/8 |
+| Host Name | I smoked away my brain |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:44:20 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541417279603 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Rodi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:44:21 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541417670883 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Soup |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:44:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541417748588 |
+| Players | 2/8 |
+| Host Name | Sexy Stalin |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:44:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541417772839 |
+| Players | 5/8 |
+| Host Name | Laharl |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:44:47 |
 
 
 |  | epic_boss_fight_normal |
