@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541384411803 |
-| Players | 7/10 |
-| Host Name | Mr. Touch ME |
+| Lobby ID | 28576541385351111 |
+| Players | 3/8 |
+| Host Name | Swap commends |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:14:17 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:15:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541384955522 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Amigo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:14:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541384633154 |
-| Players | 6/8 |
-| Host Name | Dandikiller |
+| Lobby ID | 28576541385428997 |
+| Players | 1/15 |
+| Host Name | Пивзавод |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:14:29 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:15:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541380799732 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | LEE kwang SOO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:11:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541385205430 |
-| Players | 1/5 |
-| Host Name | MinskVN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:15:00 |
 
 
