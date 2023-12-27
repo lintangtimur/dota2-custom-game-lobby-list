@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541473379346 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | Strawberry |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:37:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541473550121 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | promok lezhak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:37:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541472990026 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | meeow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:37:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541473344339 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:37:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541472444201 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:36:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541472205584 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | King Nothing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:36:32 |
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AWENG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:37:35 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28576541473223998 |
-| Players | 1/7 |
-| Host Name | WarlordCXN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:37:32 |
 
 
