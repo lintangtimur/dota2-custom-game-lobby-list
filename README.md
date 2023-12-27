@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541856862385 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:29:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541857261867 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | pudding |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:30:00 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 06:31:23 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541857928789 |
-| Players | 1/15 |
-| Host Name | 17 cm de puro placer |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 06:31:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541832292470 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541854674045 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | JapaKama |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:24:57 |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:30:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541857966793 |
-| Players | 1/10 |
-| Host Name | conchatumare |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 06:31:24 |
 
 
