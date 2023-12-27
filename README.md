@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541839649010 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | *[U]riEL* |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:56:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541843607574 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ia_ebal_2o |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:03:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541843312012 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Stivhen |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:03:25 |
@@ -83,13 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:59:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541842858027 |
-| Players | 7/8 |
-| Host Name | hypomania |
+| Lobby ID | 28576541843769538 |
+| Players | 1/15 |
+| Host Name | husnters |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 28, 2023 06:04:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541843769892 |
+| Players | 1/15 |
+| Host Name | серега бандит |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:02:35 |
+| Lobby Creation Time | Thursday, December 28, 2023 06:04:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541843787825 |
+| Players | 1/10 |
+| Host Name | Recombobulate |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 06:04:18 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541840951295 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | breakdown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:59:05 |
