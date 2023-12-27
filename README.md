@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541840907311 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | PROCEDE O NO PROCEDE MI ESTIMADO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:59:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541840832323 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Вася |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:58:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541841476111 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | QUE RICO APRIETAS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:00:03 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541841495993 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | mode:dog (наказан) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:00:05 |
@@ -149,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541841459225 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | d1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:00:01 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576541841468064 |
-| Players | 2/7 |
-| Host Name | Elite Cobra |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, December 28, 2023 06:00:02 |
 
 
