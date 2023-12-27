@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541176571544 |
-| Players | 1/24 |
-| Host Name | Первая кровь |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:25:09 |
+| Lobby ID | 28576541186748044 |
+| Players | 1/8 |
+| Host Name | 𝕯 𝖔 𝖒 𝖎 𝖈 𝖆 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:40:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541187112391 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Agent P |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:40:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541119374828 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | B E R S E R K |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 15:51:05 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Игорь Афанасьев |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:40:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541186748044 |
-| Players | 1/8 |
-| Host Name | 𝕯 𝖔 𝖒 𝖎 𝖈 𝖆 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:40:25 |
 
 
 |  | epic_boss_fight_nightmare |
