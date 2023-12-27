@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541235970895 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Гинеколог-шахтер |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:45:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541237986551 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | South China Sea |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:48:11 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541238468501 |
-| Players | 1/8 |
-| Host Name | sftr |
+| Lobby ID | 28576541238882572 |
+| Players | 3/8 |
+| Host Name | pepsi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:48:45 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:49:14 |
 
 
 |  | ot3_desert_octet |
@@ -56,22 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:47:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541238730677 |
-| Players | 1/15 |
-| Host Name | Mr. BAIn |
+| Lobby ID | 28576541238879446 |
+| Players | 4/10 |
+| Host Name | Valyrian雨 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:49:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541238813259 |
+| Players | 2/24 |
+| Host Name | 只吃三碗饭的周咚咚 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:49:04 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:49:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541238742886 |
-| Players | 1/15 |
-| Host Name | Antonio Pripizduchi |
+| Lobby ID | 28576541238839069 |
+| Players | 1/8 |
+| Host Name | Смокунчик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:49:04 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:49:11 |
 
 
 |  | epic_boss_fight_nightmare |
