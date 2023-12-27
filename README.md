@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541821544483 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Pray |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:25:16 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541821479565 |
-| Players | 9/10 |
-| Host Name | lIKE PLS |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 05:25:09 |
+| Lobby ID | 28576541822428130 |
+| Players | 6/10 |
+| Host Name | ne molo4ko |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:26:44 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541781818342 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541821889858 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ТыКва |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:25:50 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541821255626 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ToTi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:24:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541822171802 |
-| Players | 1/8 |
-| Host Name | DUSTER_2548 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:26:18 |
+| Lobby ID | 28576541821164128 |
+| Players | 21/24 |
+| Host Name | I am the Storm is Approaching |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:24:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541821123971 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | MAPACHE_$INC0LA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:24:34 |
@@ -101,13 +101,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:24:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541821164128 |
-| Players | 19/24 |
-| Host Name | I am the Storm is Approaching |
+| Lobby ID | 28576541822247414 |
+| Players | 2/15 |
+| Host Name | R A D K I |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:24:38 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:26:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541822264663 |
+| Players | 6/8 |
+| Host Name | припиздил с армиии |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:26:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541822345099 |
+| Players | 13/15 |
+| Host Name | full retard |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:26:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541822530112 |
+| Players | 2/8 |
+| Host Name | koстиль.про |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:26:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541818905163 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Aight, Bet! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:20:55 |
@@ -135,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | twitch.tv/aleschaaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:25:18 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576541821634490 |
-| Players | 1/7 |
-| Host Name | Danfs |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 05:25:25 |
 
 
