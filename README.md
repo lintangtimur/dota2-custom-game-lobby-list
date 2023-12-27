@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:09:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541206421758 |
-| Players | 19/24 |
-| Host Name | DY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:08:07 |
+| Lobby ID | 28576541208148667 |
+| Players | 1/15 |
+| Host Name | ELMARAJA |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:10:33 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541205280176 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | What a Dragg! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:06:33 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541208098677 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | マーシャル |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:10:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541208148667 |
-| Players | 1/15 |
-| Host Name | ELMARAJA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:10:33 |
 
 
 |  | epic_boss_fight_nightmare |
