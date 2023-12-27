@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541391680125 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | L'ost |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:20:51 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541383646508 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Maotisco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:13:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541393223728 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | torkotor |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:22:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541393327257 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | Lulzorness |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:22:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541393524001 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | mode:tonyhawk301 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:22:31 |
@@ -85,20 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541389493456 |
-| Players | 7/8 |
-| Host Name | IRON MAЯS |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:18:53 |
+| Lobby ID | 28576541393554474 |
+| Players | 2/8 |
+| Host Name | бомбардирОчка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:22:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541393577328 |
+| Players | 6/10 |
+| Host Name | WXH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:22:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541393539253 |
-| Players | 3/8 |
-| Host Name | encaidaR csgorun.run |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:22:32 |
+| Lobby ID | 28576541393957051 |
+| Players | 4/8 |
+| Host Name | Soup |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:22:54 |
 
 
 |  | epic_boss_fight_nightmare |
