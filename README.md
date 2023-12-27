@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:19:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541239567380 |
-| Players | 13/15 |
-| Host Name | EXIT |
+| Lobby ID | 28576541240506134 |
+| Players | 2/8 |
+| Host Name | yoru |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:50:01 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:51:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,28 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:50:57 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541237785900 |
+| Players | 9/10 |
+| Host Name | Finna |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:47:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541237334986 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mythical |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:47:24 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541240152120 |
-| Players | 1/10 |
-| Host Name | DimASS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:50:42 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541240284706 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Взаимная Похвала |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:50:52 |
