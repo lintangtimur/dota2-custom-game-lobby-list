@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541257717008 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | ח |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:10:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541260783486 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | pisyapopakaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:14:13 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:11:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541259806684 |
-| Players | 9/10 |
-| Host Name | РАЙАН ГОСЛИНГ |
+| Lobby ID | 28576541261734634 |
+| Players | 4/15 |
+| Host Name | ok0_o |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:13:10 |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:15:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,37 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:12:07 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541261815117 |
+| Players | 2/10 |
+| Host Name | BigMom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:15:21 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541258523674 |
-| Players | 5/8 |
+| Lobby ID | 28576541261898003 |
+| Players | 6/8 |
 | Host Name | Yo chico!! |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:11:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541261707875 |
-| Players | 1/8 |
-| Host Name | Мастурбек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:15:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541261734634 |
-| Players | 2/15 |
-| Host Name | ok0_o |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:15:16 |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:15:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541254146336 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Alex*_* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:06:49 |
