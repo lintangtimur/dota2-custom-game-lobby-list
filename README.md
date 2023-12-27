@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541617650625 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Pablito god |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:07:13 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:58:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541616405849 |
-| Players | 5/10 |
-| Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 01:05:52 |
+| Lobby ID | 28576541618056777 |
+| Players | 1/15 |
+| Host Name | ПапинаГордость |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 01:07:39 |
 
 
 |  | ot3_desert_octet |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541617719662 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | anvzak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:07:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541617868462 |
-| Players | 4/8 |
-| Host Name | я нюхал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 01:07:27 |
 
 
 |  | epic_boss_fight_nightmare |
