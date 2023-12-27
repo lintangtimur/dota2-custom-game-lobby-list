@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541197419010 |
-| Players | 11/15 |
+| Players | 15/15 |
 | Host Name | Aɾȥıɱαɳ™ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:55:39 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541197743497 |
+| Lobby ID | 28576541197933417 |
 | Players | 7/10 |
-| Host Name | someone clipped my wings |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:56:06 |
+| Host Name | Годжо Сатору |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:56:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:56:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541197805636 |
-| Players | 4/8 |
-| Host Name | Секс ферма эльфов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:56:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Nostalgy |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:55:45 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541197857141 |
-| Players | 2/5 |
-| Host Name | Delos |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:56:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541197878789 |
-| Players | 1/5 |
-| Host Name | Uzendayo~! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:56:17 |
 
 
