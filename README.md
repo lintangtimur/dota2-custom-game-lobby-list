@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541282101080 |
-| Players | 22/24 |
-| Host Name | SKIBIDI DOB DOB DOB YES YES |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:37:02 |
+| Lobby ID | 28576541285799468 |
+| Players | 6/10 |
+| Host Name | Ragna- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:40:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541278099217 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 0.1% |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:32:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541286004458 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | £ Neoxa |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:41:08 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541284025211 |
-| Players | 3/8 |
-| Host Name | qwe |
+| Lobby ID | 28576541286377365 |
+| Players | 2/8 |
+| Host Name | YourHope |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:39:05 |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:41:31 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541286119140 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ..c.I.e.. |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:41:15 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:39:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541285799468 |
-| Players | 5/10 |
-| Host Name | Ragna- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:40:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541283661774 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | XD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:38:42 |
