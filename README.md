@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541796495006 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | INKA KOKA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:45:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541794248448 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | CorosionaL DamagE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:42:12 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541797712718 |
-| Players | 9/10 |
-| Host Name | سن ایچ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:47:24 |
+| Lobby ID | 28576541797943458 |
+| Players | 11/15 |
+| Host Name | Werewolf.GR |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 04:47:45 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541796440613 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Koba-Shi! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:45:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541797008065 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Rainmaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 04:46:20 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541797652057 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 04:47:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541797943458 |
-| Players | 2/15 |
-| Host Name | Werewolf.GR |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:47:45 |
+| Lobby ID | 28576541793218701 |
+| Players | 8/10 |
+| Host Name | ``ElipaKretli |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 04:40:39 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28576541796490319 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:45:33 |
