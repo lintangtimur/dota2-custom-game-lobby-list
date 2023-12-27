@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541829618153 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | DYD-ShabLKobba |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:38:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541828908776 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Nox |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:37:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541781818342 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:59 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541828771340 |
-| Players | 12/15 |
-| Host Name | Loquendo (2010) |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:37:28 |
+| Lobby ID | 28576541829676551 |
+| Players | 3/15 |
+| Host Name | Обоссан на лайне |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:39:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541828231634 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Convertat tempus |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:36:32 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541829233319 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | YOP |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:38:15 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541828879308 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Hatred |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 28, 2023 05:37:39 |
