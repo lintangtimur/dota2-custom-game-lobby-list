@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541856862385 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:29:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541857690454 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | La Joya |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:30:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541857445673 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Yukion |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:30:22 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541857614464 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | эт кагуна фраера |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:30:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541857618432 |
-| Players | 6/8 |
-| Host Name | Watermelon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:30:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541857674959 |
-| Players | 1/10 |
-| Host Name | ShaV |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 06:30:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BOLT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:30:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541857674959 |
+| Players | 2/10 |
+| Host Name | ShaV |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 06:30:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541856383929 |
+| Players | 7/8 |
+| Host Name | B!MO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 06:28:17 |
 
 
 |  | epic_boss_fight_nightmare |
