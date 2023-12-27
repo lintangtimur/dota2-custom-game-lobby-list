@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541206627448 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | наконец-то ты заткнулась |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:08:24 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541206421758 |
-| Players | 7/24 |
-| Host Name | XsoE Noy |
+| Players | 16/24 |
+| Host Name | DY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:08:07 |
 
@@ -38,28 +38,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:06:33 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541206848362 |
-| Players | 11/15 |
-| Host Name | акбаер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:08:43 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541207238616 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | 7urbo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:09:16 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541207351237 |
+| Players | 6/15 |
+| Host Name | ReMez |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:09:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541207641028 |
+| Players | 4/8 |
+| Host Name | gazdratjopi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:09:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541205885603 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Hey What Happened |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:07:22 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541206242919 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Mr.Henky |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:07:51 |
