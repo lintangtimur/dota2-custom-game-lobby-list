@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541366143106 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | onaforp xessib |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:57:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541361346455 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | SIX NALL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:53:15 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:01:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541366863591 |
-| Players | 14/15 |
-| Host Name | Soup |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:58:17 |
+| Lobby ID | 28576541372061095 |
+| Players | 3/8 |
+| Host Name | [AbF]120 см жести |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:02:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541371735561 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | W1seClover |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:02:41 |
@@ -110,31 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:02:40 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541371736937 |
-| Players | 7/10 |
-| Host Name | ЧУШПАН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:02:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541372061095 |
-| Players | 1/8 |
-| Host Name | [AbF]120 см жести |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:02:58 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541372124241 |
-| Players | 4/15 |
-| Host Name | я обиделась |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:03:02 |
+| Lobby ID | 28576541372261681 |
+| Players | 2/15 |
+| Host Name | ✿GOJO SATORU✿ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:03:09 |
 
 
 |  | epic_boss_fight_nightmare |
