@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541626647736 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Classic throw |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541699865147 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Neo |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:39:18 |
@@ -76,20 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541706329354 |
-| Players | 7/8 |
-| Host Name | неформал лээ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:46:54 |
+| Lobby ID | 28576541707081076 |
+| Players | 1/8 |
+| Host Name | Camila Cabello |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 02:47:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541707011864 |
-| Players | 6/8 |
-| Host Name | Sиgma |
+| Lobby ID | 28576541707050569 |
+| Players | 6/15 |
+| Host Name | Ведьмак |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:47:42 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:47:45 |
 
 
 |  | ot3_gardens_duo |
@@ -110,31 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:47:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541706936034 |
-| Players | 1/8 |
-| Host Name | MEGURU |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:47:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541707012815 |
-| Players | 1/8 |
-| Host Name | ...Cruz... |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:47:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541705220164 |
-| Players | 14/15 |
-| Host Name | V zna4it Vasya Gruz4ik |
+| Lobby ID | 28576541707053483 |
+| Players | 4/10 |
+| Host Name | друшлаг destroyer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:45:37 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:47:45 |
 
 
 |  | epic_boss_fight_normal |
