@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541832514049 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | Дякую |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:44:04 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541832401813 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Zeoleur |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:43:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541828908776 |
-| Players | 23/24 |
-| Host Name | Nox |
+| Lobby ID | 28576541831102438 |
+| Players | 5/8 |
+| Host Name | Жумайсынба |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:37:42 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:41:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541781818342 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:59 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541832091018 |
-| Players | 9/10 |
-| Host Name | @@wxn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:43:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541831102438 |
-| Players | 4/8 |
-| Host Name | Жумайсынба |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:41:37 |
+| Lobby ID | 28576541832617767 |
+| Players | 1/10 |
+| Host Name | Naguith |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:44:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KennyPaaa |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:43:41 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541832568293 |
-| Players | 1/5 |
-| Host Name | HaunterMF |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:44:09 |
 
 
