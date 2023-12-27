@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541624237424 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Superdeterminist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:14:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541621793236 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Chefsito |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:11:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541623696890 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ★彡iＫⓐＲㄖş 彡★ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:13:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541624180554 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | fearless anti social mode: |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:14:20 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541624322872 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | hm2130 |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 01:14:29 |
@@ -121,10 +121,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541624356371 |
+| Lobby ID | 28576541624239480 |
 | Players | 4/8 |
-| Host Name | WaylWe |
+| Host Name | Ander ™ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 01:14:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541624424825 |
+| Players | 1/24 |
+| Host Name | Guro |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 01:14:31 |
+| Lobby Creation Time | Thursday, December 28, 2023 01:14:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541624389002 |
+| Players | 2/5 |
+| Host Name | MarsilFox |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 01:14:33 |
 
 
