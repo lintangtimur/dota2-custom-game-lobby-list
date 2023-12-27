@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:21:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541573213676 |
-| Players | 9/10 |
-| Host Name | MooN |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 00:19:28 |
+| Lobby ID | 28576541575774460 |
+| Players | 1/15 |
+| Host Name | ReMez |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 00:22:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541575438141 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Demonic Fox |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:21:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541574157361 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | LIGHTWEIGHT BABY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:20:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541574017082 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Gorthaur the Cruel |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:20:19 |
@@ -76,20 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541575772678 |
-| Players | 1/15 |
-| Host Name | asghar tolombe |
-| Region | DUBAI |
+| Lobby ID | 28576541575780698 |
+| Players | 6/15 |
+| Host Name | faen |
+| Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:22:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541575774460 |
-| Players | 1/15 |
-| Host Name | ReMez |
+| Lobby ID | 28576541575507546 |
+| Players | 10/15 |
+| Host Name | SOAP141 |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 00:22:10 |
+| Lobby Creation Time | Thursday, December 28, 2023 00:21:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541575952329 |
+| Players | 4/8 |
+| Host Name | Sibuo Komadze |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 00:22:21 |
 
 
 |  | epic_boss_fight_nightmare |
