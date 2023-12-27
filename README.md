@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541527593176 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ШЕФ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:31:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541526534693 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | ✪ SOLO JUEGO OVERTHROW |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:30:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541527209628 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | -----___----- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:31:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541526140224 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | FANAT GLOCKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:30:27 |
@@ -68,19 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541527415230 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Minja |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:31:45 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541527689230 |
+| Players | 1/8 |
+| Host Name | Трахаю жопой |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:32:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541527707570 |
+| Players | 2/24 |
+| Host Name | Ximp |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:32:03 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541527647228 |
+| Lobby ID | 28576541527721897 |
 | Players | 1/15 |
-| Host Name | Maybe~ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:31:59 |
+| Host Name | UN |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:32:03 |
 
 
 |  | epic_boss_fight_nightmare |
