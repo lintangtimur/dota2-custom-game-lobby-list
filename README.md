@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541184124742 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:36:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541184866376 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 悪 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:37:33 |
@@ -95,16 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541185597390 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | :( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:38:40 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541185795465 |
+| Players | 3/8 |
+| Host Name | Cha$e |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:38:58 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541184814335 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | astraldreamer ♥ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:37:28 |
@@ -117,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JMC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:38:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541185758953 |
+| Players | 1/5 |
+| Host Name | Boon(我是菜鸡) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:38:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541185790020 |
+| Players | 1/5 |
+| Host Name | S.G |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:38:58 |
 
 
