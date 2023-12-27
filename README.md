@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541619923226 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Elena Where are you? need you |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:09:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541621793236 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Chefsito |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:11:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541625185772 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | ♥ks♥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:15:26 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541625557578 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Tr1ckSSSt3r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:15:50 |
