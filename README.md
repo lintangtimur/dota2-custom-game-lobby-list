@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541840910189 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | avestruz |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:59:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541840907311 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | PROCEDE O NO PROCEDE MI ESTIMADO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:59:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541842220767 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | paxan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:01:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541841476111 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Bulach4 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:00:03 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:00:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541842487448 |
+| Players | 1/15 |
+| Host Name | Бешкетник |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 06:01:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,18 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541841459225 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | d1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:00:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541842479576 |
-| Players | 1/5 |
-| Host Name | Depression kid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:01:53 |
 
 
