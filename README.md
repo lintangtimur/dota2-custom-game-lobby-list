@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541322509001 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:17:01 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:14:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541322270484 |
-| Players | 9/15 |
-| Host Name | MDMA |
+| Lobby ID | 28576541322797881 |
+| Players | 1/8 |
+| Host Name | release the criminals |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:16:47 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:17:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,22 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:17:16 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541323053647 |
+| Players | 1/10 |
+| Host Name | Хручело Мяучело |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:17:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541323072298 |
+| Players | 1/15 |
+| Host Name | utgdcyrsd8 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:17:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541323054631 |
+| Players | 1/15 |
+| Host Name | ЭгоиСт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:17:32 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541322797881 |
+| Lobby ID | 28576541323066913 |
 | Players | 1/8 |
-| Host Name | release the criminals |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:17:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541322176953 |
-| Players | 4/5 |
-| Host Name | blackking |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:16:42 |
+| Host Name | Paráclito |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:17:32 |
 
 
 |  | epic_boss_fight_nightmare |
