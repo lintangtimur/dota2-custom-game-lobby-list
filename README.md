@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541370423213 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 千本桜かげよし |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:01:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541369571574 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Олег |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:00:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541366863591 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Soup |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:58:17 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:00:38 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541370874763 |
+| Players | 1/8 |
+| Host Name | Отец |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:01:54 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541370153724 |
-| Players | 7/10 |
-| Host Name | truly humble under god |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:01:15 |
+| Lobby ID | 28576541370880416 |
+| Players | 1/10 |
+| Host Name | тю тю |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:01:55 |
 
 
 |  | epic_boss_fight_nightmare |
