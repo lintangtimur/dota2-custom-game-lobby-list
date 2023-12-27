@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541421050291 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | arhikent |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:47:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541420967919 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | 7\ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:47:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541427071817 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | kto myaukaet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:53:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541425838493 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ЖёстКиЙ_ЗомБАк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:52:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541424589005 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Miyerkules |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:51:04 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541427182870 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | где кококола |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:53:28 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541427123182 |
-| Players | 6/8 |
-| Host Name | ты слабый |
+| Lobby ID | 28576541427835161 |
+| Players | 1/8 |
+| Host Name | Frukt |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:53:25 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:54:05 |
 
 
 |  | epic_boss_fight_hard |
