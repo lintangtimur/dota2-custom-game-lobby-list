@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541671914587 |
-| Players | 5/24 |
+| Players | 2/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:07:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541672495429 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Акула |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:08:04 |
@@ -94,29 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541672359470 |
-| Players | 14/15 |
-| Host Name | Слава Україні |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:07:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541672535341 |
-| Players | 4/10 |
-| Host Name | Only 69 pos |
+| Lobby ID | 28576541672650037 |
+| Players | 3/15 |
+| Host Name | what she want? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:08:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541672543396 |
-| Players | 1/15 |
-| Host Name | KILIMANJARO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:08:08 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:08:15 |
 
 
 |  | epic_boss_fight_normal |
