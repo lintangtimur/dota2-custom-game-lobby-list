@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541470673597 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | BIGNOSE |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:35:02 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 22:32:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541474147909 |
-| Players | 5/10 |
-| Host Name | Ломаю Лица |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:38:27 |
+| Lobby ID | 28576541474942614 |
+| Players | 1/15 |
+| Host Name | Maru Kōshirō |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:39:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541474731762 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Harry Lyme |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:39:03 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576541473252391 |
 | Players | 2/8 |
-| Host Name | rebel xx |
+| Host Name | Frozen.x |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:37:34 |
 
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541474492154 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Ęблунтик |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:38:48 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541475046132 |
+| Players | 2/15 |
+| Host Name | timujiim |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:39:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541471557577 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | jesus is a jerk |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:35:54 |
@@ -103,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541473281684 |
+| Lobby ID | 28576541474950699 |
 | Players | 1/10 |
 | Host Name | AWENG |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:37:35 |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:39:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541475014690 |
+| Players | 1/5 |
+| Host Name | Zerak |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:39:20 |
 
 
