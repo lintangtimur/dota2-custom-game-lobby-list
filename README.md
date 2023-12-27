@@ -56,76 +56,76 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:07:09 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541675807269 |
-| Players | 9/10 |
-| Host Name | Ego |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:11:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541675997553 |
-| Players | 9/15 |
-| Host Name | jotun- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:12:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541673967241 |
-| Players | 12/15 |
-| Host Name | Skin Man |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 02:09:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541676164784 |
-| Players | 8/10 |
-| Host Name | Marvibon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:12:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541676048733 |
-| Players | 2/10 |
-| Host Name | peacewalker8103 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:12:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541676141640 |
-| Players | 3/15 |
-| Host Name | VRODE LENS |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:12:16 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541676292107 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | [DiegoMoon] |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:12:26 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541676570200 |
+| Players | 1/8 |
+| Host Name | Frince Charming |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:12:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541673967241 |
+| Players | 11/15 |
+| Host Name | Skin Man |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 02:09:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541676495750 |
+| Players | 1/8 |
+| Host Name | Silver Enjoyer |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:12:40 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541672050500 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | анлак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:07:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541676141640 |
+| Players | 4/15 |
+| Host Name | VRODE LENS |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:12:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541676535131 |
+| Players | 2/10 |
+| Host Name | blademoose |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:12:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541676585424 |
+| Players | 6/8 |
+| Host Name | Monjoq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:12:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -139,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541676430422 |
+| Lobby ID | 28576541676562854 |
 | Players | 1/10 |
 | Host Name | Archon The Seven |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:12:36 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:12:45 |
 
 
