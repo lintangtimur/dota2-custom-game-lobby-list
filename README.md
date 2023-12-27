@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541461460524 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | daed pleier |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:26:06 |
@@ -58,29 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541456915634 |
-| Players | 1/15 |
-| Host Name | Я КАЛЕНДАРЬ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:21:45 |
+| Lobby ID | 28576541465716934 |
+| Players | 5/15 |
+| Host Name | 4ervya4ok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:30:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541456517684 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | //////////////////////////////// |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:21:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541465613826 |
-| Players | 1/15 |
-| Host Name | Back to offlane |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:30:07 |
+| Lobby ID | 28576541465385835 |
+| Players | 1/24 |
+| Host Name | WEAK123 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:29:53 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541465512119 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ГABKAШMЫГ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:30:01 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | i have no enemies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:29:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541465385835 |
-| Players | 1/24 |
-| Host Name | WEAK123 |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:29:53 |
 
 
 |  | epic_boss_fight_nightmare |
