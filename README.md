@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541305868099 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Saint |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:00:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541306424891 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | *fazo*chka* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:01:30 |
@@ -76,19 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541306971176 |
-| Players | 3/8 |
-| Host Name | monarch |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:02:02 |
+| Lobby ID | 28576541307172134 |
+| Players | 2/8 |
+| Host Name | катюха я абсолют |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:02:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541306994481 |
+| Lobby ID | 28576541307173064 |
 | Players | 1/24 |
 | Host Name | [Chase-Bear] |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:02:03 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:02:14 |
 
 
