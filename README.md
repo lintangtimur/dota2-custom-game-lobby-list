@@ -40,26 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541190034365 |
-| Players | 5/8 |
-| Host Name | +BIG BALLS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:45:10 |
+| Lobby ID | 28576541191616013 |
+| Players | 1/8 |
+| Host Name | waiting for death |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:47:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541190218935 |
-| Players | 14/15 |
-| Host Name | Kai Angel |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:45:26 |
+| Lobby ID | 28576541191549016 |
+| Players | 1/10 |
+| Host Name | 7urbo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:47:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541189480884 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:44:22 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 17 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:47:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541191366370 |
-| Players | 1/15 |
-| Host Name | D.Brain |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:47:04 |
 
 
 |  | epic_boss_fight_nightmare |
