@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541708006490 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | butterfly MODE: STRAIGHT UP |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:48:53 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:45:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541706185469 |
-| Players | 15/15 |
-| Host Name | Vem Tranquiloo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:46:44 |
+| Lobby ID | 28576541707411023 |
+| Players | 7/10 |
+| Host Name | CCCR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:48:11 |
 
 
 |  | ot3_desert_octet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:40:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541706721340 |
-| Players | 6/8 |
-| Host Name | Василько |
+| Lobby ID | 28576541708182756 |
+| Players | 1/10 |
+| Host Name | dog spirit |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:47:22 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:49:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541699865147 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Neo |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:39:18 |
@@ -77,55 +77,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541707081076 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Camila Cabello |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:47:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541706456433 |
-| Players | 1/8 |
-| Host Name | n3k0la t3sla |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:47:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541707397676 |
-| Players | 7/8 |
-| Host Name | DecaNandralone |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:48:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541706841957 |
-| Players | 5/24 |
-| Host Name | AleJandro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:47:30 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541707415695 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | KrYtOi_Persik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:48:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541707411023 |
-| Players | 7/10 |
-| Host Name | CCCR |
+| Lobby ID | 28576541706841957 |
+| Players | 6/24 |
+| Host Name | AleJandro |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:48:11 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:47:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541708254660 |
+| Players | 5/8 |
+| Host Name | KILLEP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:49:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541708267052 |
+| Players | 1/15 |
+| Host Name | ĐǾĐ₲Ę℟ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:49:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541708272265 |
+| Players | 1/8 |
+| Host Name | seiya |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 02:49:11 |
 
 
 |  | epic_boss_fight_normal |
