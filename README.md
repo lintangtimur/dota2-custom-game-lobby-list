@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541592309920 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Леха |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:39:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541592271777 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Watislove |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:39:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541591770371 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Just_lame |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:39:15 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541592175415 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | ColdStoneHilla |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:39:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541592569607 |
-| Players | 3/8 |
-| Host Name | Luxuria |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 00:40:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Corroz1on |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:40:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541592591428 |
-| Players | 4/8 |
-| Host Name | eydzoku |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 00:40:09 |
 
 
 |  | epic_boss_fight_hard |
@@ -144,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OnlyGOD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:36:18 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541592534754 |
-| Players | 1/10 |
-| Host Name | Zoro-juro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:40:05 |
 
 
