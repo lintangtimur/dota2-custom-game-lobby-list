@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541740061293 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Lion |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:28:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541739908826 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Ghosty ❤ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:27:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541739652721 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Angel |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:27:29 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541739895368 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | VRODE LENS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:27:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541740135970 |
+| Players | 2/15 |
+| Host Name | Wishes |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 28, 2023 03:28:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541740267928 |
+| Players | 1/10 |
+| Host Name | Shkolz |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:28:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,18 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541739391963 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MaZilla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:27:10 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541740121114 |
-| Players | 4/7 |
-| Host Name | кАЛЯН) banditcamp.com |
+| Lobby ID | 28576541740147498 |
+| Players | 1/10 |
+| Host Name | Не чушпан |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:28:05 |
+| Lobby Creation Time | Thursday, December 28, 2023 03:28:07 |
 
 
