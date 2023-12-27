@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541505634898 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | EL DIOS DEL CHESS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:09:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541507549265 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | yvon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:11:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541507580646 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ALL MUTED |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:11:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541505083248 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Sasaum |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:09:05 |
@@ -67,44 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541507689198 |
-| Players | 9/15 |
-| Host Name | Clint Eastwood |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:11:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541507696126 |
-| Players | 3/8 |
-| Host Name | Mistakes sequence |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:11:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541507853532 |
-| Players | 2/10 |
+| Lobby ID | 28576541508092401 |
+| Players | 6/15 |
 | Host Name | киберкостя |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:11:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541507943734 |
-| Players | 1/8 |
-| Host Name | mirada seductora* |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:11:59 |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:12:08 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541505601855 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Mundus |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:09:37 |
