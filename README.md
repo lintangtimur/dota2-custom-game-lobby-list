@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541308122742 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Valyrian雨 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:03:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541307934154 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Koala Killer |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:58 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541307814018 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | DOBBY IS A FREE ELF |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:51 |
