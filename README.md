@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541786757525 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | GHOST... |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 04:31:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541774319532 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | ꧁༺₦Ї₦ℑ₳༻꧂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 04:13:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541786236015 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | kJJ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:30:19 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541786608955 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | PhantomShuffle |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:30:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541785799466 |
-| Players | 9/10 |
-| Host Name | aea |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 04:29:41 |
+| Lobby ID | 28576541782094941 |
+| Players | 3/24 |
+| Host Name | carrot |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 04:24:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:29:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541782094941 |
-| Players | 4/24 |
-| Host Name | carrot |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:24:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541786864271 |
-| Players | 1/15 |
-| Host Name | 二炮手. |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Thursday, December 28, 2023 04:31:13 |
+| Lobby ID | 28576541787000022 |
+| Players | 1/8 |
+| Host Name | SacRe |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 04:31:25 |
 
 
 |  | epic_boss_fight_nightmare |
