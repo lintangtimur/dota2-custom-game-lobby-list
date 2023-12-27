@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541338012934 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 'saqira悲しみ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:31:35 |
@@ -77,16 +77,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541338287203 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | pop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:31:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541338849007 |
+| Players | 3/8 |
+| Host Name | guhuus? |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:32:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541338968315 |
+| Players | 5/8 |
+| Host Name | Гробница КФС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:32:29 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541331521766 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | troffi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:25:28 |
@@ -104,27 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541338247370 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:31:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541338574669 |
-| Players | 1/10 |
-| Host Name | jesus is a jerk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:32:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541338690125 |
-| Players | 1/5 |
-| Host Name | Apofioz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:32:14 |
 
 
