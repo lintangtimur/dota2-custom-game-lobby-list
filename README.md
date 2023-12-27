@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541201424146 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | SKY Cyborg |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:01:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541165151465 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:07:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541201481386 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | PSG.LGBT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:01:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541201741291 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | D |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:01:41 |
@@ -74,21 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:01:53 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541200401555 |
+| Lobby ID | 28576541202017532 |
 | Players | 1/10 |
-| Host Name | SUSi |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:59:50 |
+| Host Name | afro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:02:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541201390204 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | CokCokCokCokCok |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:01:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541201942172 |
+| Players | 1/5 |
+| Host Name | SUSi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:01:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541202002977 |
+| Players | 1/10 |
+| Host Name | Mr.Henky |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:02:03 |
 
 
