@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541378360469 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 米粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:08:45 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:53:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541377910346 |
-| Players | 12/15 |
-| Host Name | Underwater Hunter |
+| Lobby ID | 28576541378664258 |
+| Players | 2/10 |
+| Host Name | Titan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:08:19 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:09:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541371420964 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Бубен 2 куртки |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:02:24 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:08:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541378558179 |
-| Players | 1/10 |
-| Host Name | RHODOLITE |
+| Lobby ID | 28576541378721055 |
+| Players | 3/8 |
+| Host Name | ХЭППИ БЁЗДЭЙ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:08:56 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:09:06 |
 
 
 |  | epic_boss_fight_nightmare |
