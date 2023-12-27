@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541235970895 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | яйцеверт |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:45:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541237986551 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | PRIME TAKERS MVP |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:48:11 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541239567380 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | EXIT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:50:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541237770280 |
-| Players | 2/24 |
-| Host Name | TELLA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:47:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541239219490 |
-| Players | 2/10 |
-| Host Name | PHOENIX^_^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:49:37 |
 
 
 |  | ot3_desert_octet |
@@ -74,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:49:09 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541239219490 |
+| Players | 2/10 |
+| Host Name | PHOENIX^_^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:49:37 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541237334986 |
@@ -81,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mythical |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:47:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541239600973 |
-| Players | 2/10 |
-| Host Name | ICE |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:50:04 |
 
 
