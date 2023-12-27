@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541538584892 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Maotisco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:43:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541552555864 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | テイラー・スウィフト |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:57:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541546772378 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 0.1% |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:51:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541552227937 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | SrGato |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:57:25 |
@@ -56,42 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:57:46 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541552413474 |
-| Players | 2/8 |
-| Host Name | Be3yN4uk_98_RuS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:57:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541547757889 |
-| Players | 4/8 |
-| Host Name | АгентГабена |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:52:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541551599135 |
-| Players | 4/24 |
-| Host Name | th@n@tos |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:56:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541550344596 |
-| Players | 10/15 |
-| Host Name | kJJ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:55:27 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541552831274 |
@@ -103,29 +67,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541552863046 |
-| Players | 3/8 |
-| Host Name | Ivanzolo2004 |
+| Lobby ID | 28576541547757889 |
+| Players | 5/8 |
+| Host Name | АгентГабена |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:58:04 |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:52:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541551599135 |
+| Players | 8/24 |
+| Host Name | th@n@tos |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:56:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541550344596 |
+| Players | 13/15 |
+| Host Name | kJJ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:55:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541552989259 |
+| Players | 1/10 |
+| Host Name | абсолют |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:58:12 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576541537924120 |
-| Players | 5/7 |
+| Players | 6/7 |
 | Host Name | Maqs |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:42:35 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28576541547078806 |
-| Players | 6/10 |
-| Host Name | 11 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:52:04 |
+| Lobby ID | 28576541552946951 |
+| Players | 2/7 |
+| Host Name | алёшка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:58:10 |
 
 
 |  | epic_boss_fight_normal |
