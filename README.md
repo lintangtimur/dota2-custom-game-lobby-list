@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:06:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541312427731 |
-| Players | 7/8 |
-| Host Name | Xamilio |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:07:21 |
+| Lobby ID | 28576541312651972 |
+| Players | 12/15 |
+| Host Name | no horny |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:07:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,34 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541312021775 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Xumpal |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:06:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541312651972 |
-| Players | 8/15 |
-| Host Name | no horny |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:07:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541313042330 |
-| Players | 1/10 |
-| Host Name | 14 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:07:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541312801742 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Just subscribe for Linda H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:07:43 |
