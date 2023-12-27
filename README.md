@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541514480133 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Mathiasla |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:18:33 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:16:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541515855406 |
-| Players | 13/15 |
-| Host Name | YGABYGA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:19:57 |
+| Lobby ID | 28576541510134728 |
+| Players | 23/24 |
+| Host Name | An Opportunity |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:14:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541514900688 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | twisted beauty </3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:18:58 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:18:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541516409166 |
-| Players | 1/8 |
-| Host Name | Iva |
+| Lobby ID | 28576541516518917 |
+| Players | 4/15 |
+| Host Name | Peace Duke |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:20:30 |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:20:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541514557970 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | OG. smile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:18:38 |
