@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541839250036 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | abcXYZ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:56:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541839565104 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Scotford |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:56:35 |
@@ -94,29 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541839823370 |
+| Lobby ID | 28576541840266020 |
 | Players | 7/15 |
-| Host Name | ♂typhoon♂ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:57:03 |
+| Host Name | Magic Missile |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:57:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541840114915 |
+| Players | 6/10 |
+| Host Name | Positive- |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 05:57:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541839821860 |
+| Lobby ID | 28576541840254343 |
 | Players | 2/15 |
-| Host Name | Летающая Сперма |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:57:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541839233460 |
-| Players | 1/8 |
-| Host Name | миша мавашы |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:55:59 |
+| Host Name | RSparrow |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 05:57:49 |
 
 
 |  | epic_boss_fight_normal |
