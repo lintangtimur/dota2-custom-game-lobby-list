@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541566157014 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ₚᵢₜ bᵤₗₗ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 00:12:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541565287843 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | L'ost |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 00:11:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541565532959 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | EightySix Fvks |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:11:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541566886516 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | debust mmr |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:12:50 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541566934445 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Do You Love Me? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:12:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541567067807 |
+| Players | 5/8 |
+| Host Name | can't lose |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:13:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541564967702 |
+| Players | 7/8 |
+| Host Name | hola |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 00:10:48 |
 
 
 |  | epic_boss_fight_normal |
