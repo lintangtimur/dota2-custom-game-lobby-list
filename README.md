@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541429094192 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Odys |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:55:16 |
@@ -92,21 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:55:27 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541429514365 |
+| Players | 1/8 |
+| Host Name | something beautiful |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:55:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541429550718 |
+| Players | 1/15 |
+| Host Name | 诡计多端瓦斯灵 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:55:42 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541427286311 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:53:34 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541429331464 |
-| Players | 1/5 |
+| Lobby ID | 28576541429543389 |
+| Players | 1/10 |
 | Host Name | tahwah1 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:55:29 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:55:41 |
 
 
