@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541440121812 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Kori❄♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:05:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541444870555 |
-| Players | 9/10 |
-| Host Name | Адский бомж |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:10:14 |
+| Lobby ID | 28576541445669644 |
+| Players | 3/24 |
+| Host Name | 明日花老师 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:11:00 |
 
 
 |  | ot3_desert_octet |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541439717805 |
-| Players | 8/10 |
-| Host Name | Only |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:05:17 |
+| Lobby ID | 28576541445818066 |
+| Players | 1/10 |
+| Host Name | Адидас (Junior) |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:11:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541444698944 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Titulado de Trovo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:10:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541445051754 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | hi im the solon siblings |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:10:24 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541445303170 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Dark_Men |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:10:39 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541445112622 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | NothingFeelsRight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:10:28 |
@@ -113,37 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541445202286 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Kulebyaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:10:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541445293637 |
-| Players | 7/8 |
-| Host Name | Без 11к птс 1-ый ранг player |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:10:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541445628569 |
-| Players | 1/8 |
+| Lobby ID | 28576541445852321 |
+| Players | 1/10 |
 | Host Name | 画面神 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:10:58 |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:11:10 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576541434427890 |
-| Players | 9/10 |
-| Host Name | Suk Mai |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:00:16 |
+| Lobby ID | 28576541445659811 |
+| Players | 2/5 |
+| Host Name | Гнев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:10:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alfy Fox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:10:46 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541445659811 |
-| Players | 1/5 |
-| Host Name | Гнев |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:10:59 |
 
 
