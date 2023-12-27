@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541505634898 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | EL DIOS DEL CHESS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:09:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541507549265 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | yvon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:11:36 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541507580646 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ALL MUTED |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:11:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541508631167 |
-| Players | 8/15 |
-| Host Name | 巴尼|Barni |
+| Lobby ID | 28576541509073013 |
+| Players | 2/10 |
+| Host Name | РУСАЛ ЕЩКЕРЕЕЕЕ |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:12:41 |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:13:07 |
 
 
 |  | ot3_gardens_duo |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541509035962 |
-| Players | 3/8 |
-| Host Name | ax² + bx + c = 0 |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:13:05 |
+| Lobby ID | 28576541509180360 |
+| Players | 6/8 |
+| Host Name | Демидий ствол |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:13:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541508907965 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Nobody |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:12:57 |
