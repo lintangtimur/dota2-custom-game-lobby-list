@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541828702414 |
-| Players | 14/24 |
+| Players | 21/24 |
 | Host Name | ✪ SOLO JUEGO OVERTHROW |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:37:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541828771340 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Loquendo (2010) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:37:28 |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:32:40 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541829222161 |
+| Players | 1/24 |
+| Host Name | tu vieja 2.0 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:38:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541829299897 |
+| Players | 1/8 |
+| Host Name | io natham |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:38:22 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541813623819 |
@@ -92,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:34:14 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541827187016 |
-| Players | 4/5 |
-| Host Name | FAITH |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:34:45 |
+| Lobby ID | 28576541829233319 |
+| Players | 1/10 |
+| Host Name | YOP |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 05:38:15 |
 
 
 |  | epic_boss_fight_challenger |
