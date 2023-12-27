@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541854821663 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | PARKA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:25:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541854470124 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Canela pasión |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:24:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541854333675 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | [IN]-Orange |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:24:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541854042661 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | WASD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:23:43 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LenSeiker |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:25:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541854936184 |
+| Players | 5/15 |
+| Host Name | BLADE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 06:25:28 |
 
 
 |  | epic_boss_fight_nightmare |
