@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541763793905 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Pray |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 03:58:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541767117965 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | MARCUS THURAM LUJA CARRION |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:03:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541767662296 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Stray |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 04:04:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541767144343 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | King Hako |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:03:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541766791650 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | butterfly MODE: STRAIGHT UP |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 04:02:57 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541767567991 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Need money for a Porsche |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:04:01 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541767728914 |
+| Lobby ID | 28576541767745317 |
 | Players | 3/8 |
-| Host Name | clown ☬hatred☬ мёртв |
+| Host Name | ваппыва |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:04:15 |
+| Lobby Creation Time | Thursday, December 28, 2023 04:04:16 |
 
 
 |  | epic_boss_fight_hard |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 2Pac |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 04:01:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541767750779 |
+| Players | 2/10 |
+| Host Name | ♂ I'm Performance Artist ♂ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 04:04:17 |
 
 
