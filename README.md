@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541527894517 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | nonail |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:32:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541534871048 |
-| Players | 8/10 |
-| Host Name | brain damage |
+| Lobby ID | 28576541535156152 |
+| Players | 7/8 |
+| Host Name | !Mr.onix ♥ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:39:25 |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:39:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541534521692 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | пережил 3 аборта |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:39:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541530430650 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Maotisco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:34:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541532208019 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | ria |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:36:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541533043471 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 陰茎 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:37:30 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.FANIxx |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:39:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541535156152 |
-| Players | 3/8 |
-| Host Name | !Mr.onix ♥ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:39:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541533912956 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | zewsss |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:38:24 |
