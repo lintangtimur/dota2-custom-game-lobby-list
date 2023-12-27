@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541174873714 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | xD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:22:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541119374828 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | B E R S E R K |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 15:51:05 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541174708750 |
-| Players | 12/15 |
-| Host Name | Stralexkon |
+| Lobby ID | 28576541175708536 |
+| Players | 1/15 |
+| Host Name | katrinn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:22:20 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:23:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541174909604 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | lost in the supermarket |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:22:38 |
@@ -67,17 +67,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541173754562 |
-| Players | 9/10 |
-| Host Name | Neizen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:20:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28576541168188389 |
-| Players | 10/10 |
+| Players | 9/10 |
 | Host Name | . Skye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:12:26 |
