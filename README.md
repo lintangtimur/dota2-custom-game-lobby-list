@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541546772378 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 0.1% |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:51:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541554387381 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | the_traveler |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:59:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541552227937 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SrGato |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:57:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541553958660 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:59:13 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:58:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541553265187 |
-| Players | 23/24 |
-| Host Name | 一叶之秋 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:58:29 |
+| Lobby ID | 28576541554407999 |
+| Players | 4/8 |
+| Host Name | GRIFFONS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:59:41 |
 
 
 |  | ot3_gardens_duo |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:58:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541553725912 |
-| Players | 13/15 |
-| Host Name | Coltello Per MDMA |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:58:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541554407999 |
-| Players | 1/8 |
-| Host Name | GRIFFONS |
+| Lobby ID | 28576541554571825 |
+| Players | 2/10 |
+| Host Name | milk with knives |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:59:41 |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:59:52 |
 
 
 |  | epic_boss_fight_hard |
@@ -128,21 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:59:22 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541552562986 |
-| Players | 3/5 |
-| Host Name | 𝓔𝓛_𝓹𝓲𝓼𝔂𝓪 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:57:46 |
+| Lobby ID | 28576541554442107 |
+| Players | 3/10 |
+| Host Name | SUP IS MY LIFE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:59:43 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541554442107 |
-| Players | 1/10 |
-| Host Name | SUP IS MY LIFE |
+| Lobby ID | 28576541547078806 |
+| Players | 9/10 |
+| Host Name | 11 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:59:43 |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:52:04 |
 
 
