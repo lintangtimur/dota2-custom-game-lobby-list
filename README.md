@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541805940417 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | yuduoyu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:00:05 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541807781473 |
+| Lobby ID | 28576541807531860 |
 | Players | 9/10 |
-| Host Name | Джохар Дудаев© |
+| Host Name | Негрошай |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:02:57 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:02:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:59:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541804937492 |
-| Players | 23/24 |
-| Host Name | let me offlane |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 04:58:30 |
+| Lobby ID | 28576541808314146 |
+| Players | 4/10 |
+| Host Name | :3 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:03:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541808109487 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | skkkkkkr |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:03:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541807988577 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | aea |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:03:17 |
@@ -85,26 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541807531860 |
-| Players | 9/10 |
-| Host Name | Негрошай |
+| Lobby ID | 28576541808508075 |
+| Players | 1/10 |
+| Host Name | kentik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:02:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541808314146 |
-| Players | 4/10 |
-| Host Name | :3 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:03:48 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:04:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541804404093 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Dx/Dy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:57:40 |
