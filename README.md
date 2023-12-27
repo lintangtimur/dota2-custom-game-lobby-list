@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541244226230 |
-| Players | 1/15 |
-| Host Name | Boris |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:55:29 |
+| Lobby ID | 28576541250648154 |
+| Players | 3/15 |
+| Host Name | An |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:02:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,37 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541249856699 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 安德鲁森图书馆管理员 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:01:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541249903932 |
-| Players | 7/8 |
-| Host Name | Burr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:02:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541249880424 |
-| Players | 4/8 |
-| Host Name | interactless |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:02:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541249946558 |
-| Players | 5/10 |
-| Host Name | Sight |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:02:04 |
 
 
 |  | ot3_gardens_duo |
@@ -74,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:02:51 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541250648154 |
-| Players | 1/15 |
-| Host Name | An |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:02:51 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541249136713 |
-| Players | 3/8 |
-| Host Name | me pro you noob :P |
+| Lobby ID | 28576541249880424 |
+| Players | 5/8 |
+| Host Name | interactless |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:01:09 |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:02:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541250869966 |
+| Players | 1/24 |
+| Host Name | TMMR |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:03:06 |
 
 
 |  | epic_boss_fight_nightmare |
