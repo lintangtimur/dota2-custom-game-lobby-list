@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541180561500 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | Kishii 💓❤ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:31:08 |
@@ -47,38 +47,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:25:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541182132694 |
-| Players | 12/15 |
-| Host Name | smol_man |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:33:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541182340223 |
-| Players | 2/15 |
-| Host Name | ت󠀡󠀡 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:33:48 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541182215653 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Shisha |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:33:37 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541182340223 |
+| Players | 6/15 |
+| Host Name | ت󠀡󠀡 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:33:48 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541182080054 |
-| Players | 4/10 |
-| Host Name | Just subscribe for Linda H |
+| Players | 3/10 |
+| Host Name | NothingToSay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:33:25 |
 
