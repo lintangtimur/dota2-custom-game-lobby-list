@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541243426519 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ПАРАЛИМПИЕЦ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:54:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541241849535 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:52:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541243549504 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Mordi__63 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:54:42 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541243794360 |
-| Players | 2/8 |
-| Host Name | Daxai |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:54:59 |
+| Lobby ID | 28576541243871522 |
+| Players | 1/8 |
+| Host Name | isshin ashina |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:55:04 |
 
 
 |  | epic_boss_fight_normal |
