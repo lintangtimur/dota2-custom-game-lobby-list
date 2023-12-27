@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541458789935 |
-| Players | 1/8 |
-| Host Name | gazdratjopi |
+| Lobby ID | 28576541460311477 |
+| Players | 9/15 |
+| Host Name | no incoming chat |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:23:33 |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:25:00 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541434171655 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | EsKunG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:00:01 |
@@ -121,47 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541456612057 |
-| Players | 7/8 |
-| Host Name | --.-- |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:21:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541460311477 |
-| Players | 5/15 |
-| Host Name | no incoming chat |
+| Lobby ID | 28576541460916620 |
+| Players | 1/8 |
+| Host Name | snowpain |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:25:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541460723858 |
-| Players | 5/8 |
-| Host Name | ЗА ВДВ! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:25:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541460223508 |
-| Players | 4/5 |
-| Host Name | ♛ H z w a p |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:24:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541459841660 |
-| Players | 2/5 |
-| Host Name | EGEON ELECATONQUIRO |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:24:33 |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:25:35 |
 
 
 |  | epic_boss_fight_normal |
@@ -171,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hunt Hoe-Down |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:23:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541459841660 |
+| Players | 2/5 |
+| Host Name | EGEON ELECATONQUIRO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:24:33 |
 
 
