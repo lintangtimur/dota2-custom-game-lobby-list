@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541852513797 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | CauKie |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:20:46 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541853855334 |
-| Players | 1/8 |
-| Host Name | dogseverywhere |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:23:22 |
+| Lobby ID | 28576541854250962 |
+| Players | 3/8 |
+| Host Name | Juba_Ch |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 06:24:07 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541853807504 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | JUDE BELLINGHAM |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:23:16 |
@@ -69,27 +69,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576541853607553 |
 | Players | 7/8 |
-| Host Name | Hunter Intellectual |
+| Host Name | dlySins |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:22:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541853725783 |
-| Players | 11/15 |
-| Host Name | trinket |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 06:23:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541853882799 |
-| Players | 6/10 |
-| Host Name | С_ПЛАНОМ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:23:25 |
 
 
 |  | ot3_gardens_duo |
@@ -99,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WASD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:23:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541853882799 |
+| Players | 7/10 |
+| Host Name | С_ПЛАНОМ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:23:25 |
 
 
 |  | epic_boss_fight_nightmare |
