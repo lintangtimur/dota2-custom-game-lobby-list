@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541818269515 |
-| Players | 9/10 |
-| Host Name | gay team |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:19:52 |
+| Lobby ID | 28576541812216767 |
+| Players | 22/24 |
+| Host Name | Daddy Davion |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 05:10:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541818291219 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Ratasor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:19:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541817727669 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | < blank > |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:18:58 |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541819150127 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Wet_Work |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:21:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541819256142 |
-| Players | 6/8 |
-| Host Name | shmodeliрую |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:21:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541812216767 |
-| Players | 21/24 |
-| Host Name | Daddy Davion |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 05:10:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541819650082 |
-| Players | 1/24 |
-| Host Name | MX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:22:08 |
 
 
 |  | epic_boss_fight_normal |
