@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541503900059 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | qvetr |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:07:52 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541503348742 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Don Pato |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:07:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541499995031 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Lﻉ♥n |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:03:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541501403652 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Trry_mee |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:05:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541503971362 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | solo-Way |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:07:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541503532215 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Захарчік |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:07:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541498899482 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Buenos dias peru lindo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:02:52 |
