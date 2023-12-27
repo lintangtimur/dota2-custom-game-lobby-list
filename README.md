@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541495990372 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 1Paketik0 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:00:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541483427767 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | elon tocosh |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:47:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541492861652 |
-| Players | 7/15 |
+| Players | 3/15 |
 | Host Name | Google |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:56:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541496659003 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | ` wheredaavocados™ 🥑 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:00:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541496278861 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Z+ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:00:18 |
@@ -58,56 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541494157006 |
-| Players | 13/15 |
-| Host Name | MakimaGOD |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:58:12 |
+| Lobby ID | 28576541496985323 |
+| Players | 4/15 |
+| Host Name | Nihdogg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:01:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541496876536 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Lee Ji Eun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:00:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541496765947 |
-| Players | 9/10 |
-| Host Name | flaa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:00:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541497014465 |
-| Players | 1/8 |
-| Host Name | адидас |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:01:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541496159160 |
-| Players | 13/15 |
-| Host Name | витя глубокий |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:00:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541496985323 |
-| Players | 1/15 |
-| Host Name | Nihdogg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:01:00 |
 
 
 |  | ot3_gardens_duo |
@@ -117,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | лавашик hyi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:01:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541497014465 |
+| Players | 1/8 |
+| Host Name | адидас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:01:01 |
 
 
 |  | epic_boss_fight_hard |
@@ -144,5 +117,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Rush Z- |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:30:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541497137714 |
+| Players | 1/5 |
+| Host Name | Mister JJ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:01:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541497197636 |
+| Players | 1/10 |
+| Host Name | Mweh. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:01:12 |
 
 
