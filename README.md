@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541315753683 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:10:38 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:07:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541310716378 |
-| Players | 1/24 |
-| Host Name | GoGo_One |
+| Lobby ID | 28576541318514278 |
+| Players | 1/8 |
+| Host Name | guhuus? |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:05:42 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:13:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541317364035 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | мусораб ляди |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:12:10 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 123 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:11:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541318126146 |
-| Players | 1/10 |
-| Host Name | Antonio Banderas 4-star Chef |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:12:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541318388210 |
-| Players | 3/8 |
-| Host Name | Отец |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:13:08 |
 
 
 |  | epic_boss_fight_nightmare |
