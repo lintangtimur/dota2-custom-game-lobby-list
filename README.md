@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541819864211 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Camila Cabello |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:22:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541809705367 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 820 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:06:00 |
@@ -56,31 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:22:43 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541820399629 |
-| Players | 9/15 |
-| Host Name | BigTimeTimmyJim |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 05:23:22 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541820507580 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | endless dream |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:23:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541820554862 |
-| Players | 1/24 |
-| Host Name | Odin kill |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 05:23:37 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aight, Bet! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:20:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541820614344 |
-| Players | 1/5 |
-| Host Name | AME |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:23:43 |
 
 
