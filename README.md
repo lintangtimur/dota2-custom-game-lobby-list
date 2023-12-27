@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541263704337 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Darki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:17:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541262265685 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | ROCK HARD |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:15:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541262594096 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Captain Awei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:16:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541263206421 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Nami |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:16:53 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576541259562064 |
-| Players | 5/7 |
+| Players | 4/7 |
 | Host Name | Monster Hunter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:12:54 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541263199117 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | x65nchanter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:16:52 |
