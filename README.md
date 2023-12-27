@@ -22,20 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541337742574 |
-| Players | 1/8 |
-| Host Name | nonail |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:31:20 |
+| Lobby ID | 28576541338012934 |
+| Players | 3/8 |
+| Host Name | 'saqira悲しみ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:31:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541334971270 |
-| Players | 22/24 |
-| Host Name | 'Suthep Thaugsuban |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:28:44 |
+| Lobby ID | 28576541338115631 |
+| Players | 1/8 |
+| Host Name | owlove |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:31:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541337920425 |
-| Players | 1/15 |
-| Host Name | Zodiac |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:31:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541336231663 |
-| Players | 3/10 |
-| Host Name | Деградация по Ферхюльсту |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:29:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28576541336291189 |
 | Players | 3/15 |
 | Host Name | Neber_rebels |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:29:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541336231663 |
+| Players | 5/10 |
+| Host Name | Деградация по Ферхюльсту |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:29:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KORATT |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:24:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541338102999 |
+| Players | 1/10 |
+| Host Name | 咬人猫 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:31:40 |
 
 
