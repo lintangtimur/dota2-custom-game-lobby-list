@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541646210769 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Satanovski |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:38:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541644802721 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | bajito Cheems |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:37:00 |
@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 01:37:34 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541645611128 |
-| Players | 7/10 |
-| Host Name | Mahoraga |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 01:37:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541646218594 |
-| Players | 14/15 |
-| Host Name | silhouette |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 01:38:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541645110961 |
-| Players | 3/10 |
-| Host Name | D4RKY1$U$ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 01:37:21 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541645211544 |
@@ -95,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541646463724 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | сын папиного мужа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:38:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541643790509 |
-| Players | 23/24 |
-| Host Name | EPEEB.giordota.com |
+| Lobby ID | 28576541645110961 |
+| Players | 3/10 |
+| Host Name | D4RKY1$U$ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 01:35:53 |
+| Lobby Creation Time | Thursday, December 28, 2023 01:37:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541646598117 |
-| Players | 1/8 |
-| Host Name | 水口冂升 |
+| Lobby ID | 28576541646743164 |
+| Players | 2/10 |
+| Host Name | io |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 01:39:01 |
+| Lobby Creation Time | Thursday, December 28, 2023 01:39:11 |
 
 
 |  | epic_boss_fight_normal |
