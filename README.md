@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541219940291 |
-| Players | 8/24 |
+| Players | 16/24 |
 | Host Name | <3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:25:50 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541220223446 |
-| Players | 13/15 |
-| Host Name | mindsett |
+| Lobby ID | 28576541221118511 |
+| Players | 7/15 |
+| Host Name | •● ZaGg ●• |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:26:12 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:27:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541119374828 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | [Sir].BaNooBaBus Hairyman The2nd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 15:51:05 |
@@ -38,39 +38,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:19:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541220478088 |
-| Players | 2/8 |
-| Host Name | MRAZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:26:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541220602894 |
-| Players | 8/10 |
-| Host Name | Makerka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:26:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541220836089 |
-| Players | 3/8 |
-| Host Name | little asshole |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:26:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541214885637 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | Dobro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:19:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541221535601 |
+| Players | 1/5 |
+| Host Name | 假装没等你一步一厘米 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:27:52 |
 
 
