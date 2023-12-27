@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541858280263 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | El tipo N |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:32:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541857088833 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Chandideadmoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:29:40 |
@@ -67,29 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541858141126 |
-| Players | 7/8 |
-| Host Name | X |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:31:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541858342393 |
-| Players | 5/8 |
-| Host Name | José María Acevedo Dardón |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 06:32:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28576541858692864 |
 | Players | 1/8 |
 | Host Name | ICHZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:32:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541858342393 |
+| Players | 6/8 |
+| Host Name | José María Acevedo Dardón |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 06:32:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541858643616 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Светка-Отвёртка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:32:44 |
