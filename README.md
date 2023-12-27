@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541674013296 |
-| Players | 8/15 |
+| Players | 3/15 |
 | Host Name | KAZKIR1N |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:09:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541681099408 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | MEGURU |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:17:48 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541680971326 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Alessandro |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:17:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541681262898 |
-| Players | 11/15 |
-| Host Name | Твоя мама |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:17:58 |
+| Lobby ID | 28576541681579763 |
+| Players | 6/10 |
+| Host Name | kong |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:18:20 |
 
 
 |  | ot3_gardens_duo |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541681350603 |
-| Players | 2/24 |
-| Host Name | encore4u |
+| Players | 1/24 |
+| Host Name | Mizar |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:18:04 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541681564802 |
+| Players | 1/10 |
+| Host Name | enjoy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:18:19 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541681539628 |
+| Lobby ID | 28576541681740730 |
 | Players | 1/15 |
-| Host Name | Johan Pohan |
+| Host Name | encore4u |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:18:17 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:18:31 |
 
 
 |  | epic_boss_fight_nightmare |
