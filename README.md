@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541499343881 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | GASTON |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:03:19 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:02:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541499942453 |
-| Players | 1/8 |
-| Host Name | pder cooks |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:03:55 |
+| Lobby ID | 28576541499995031 |
+| Players | 4/24 |
+| Host Name | Road to 6800 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:03:59 |
 
 
 |  | ot3_desert_octet |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541496659003 |
-| Players | 23/24 |
-| Host Name | ` wheredaavocados™ 🥑 |
+| Lobby ID | 28576541491468092 |
+| Players | 21/24 |
+| Host Name | Lion el Messi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:00:41 |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:55:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541499659800 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | xxGodInstincxX |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:03:38 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:02:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541499437112 |
-| Players | 7/10 |
-| Host Name | bastard =) |
+| Lobby ID | 28576541500178892 |
+| Players | 1/8 |
+| Host Name | pder cooks |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:04:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541499875851 |
+| Players | 4/8 |
+| Host Name | Airos - MUTANT |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:03:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541499688278 |
-| Players | 5/15 |
-| Host Name | Levi Ackerman |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:03:40 |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:03:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,28 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:03:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541499875851 |
-| Players | 3/8 |
-| Host Name | Airos - MUTANT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:03:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541499995031 |
-| Players | 2/24 |
-| Host Name | Road to 6800 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:03:59 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576541494443281 |
-| Players | 2/7 |
+| Players | 5/7 |
 | Host Name | Maqs |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:58:29 |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541497197636 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mweh. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:01:12 |
@@ -144,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GreShnik |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:58:42 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541499970832 |
-| Players | 2/5 |
-| Host Name | MonkyJesus |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:03:57 |
 
 
