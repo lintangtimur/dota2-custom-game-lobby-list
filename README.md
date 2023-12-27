@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541703424266 |
-| Players | 7/8 |
-| Host Name | sideral_frio |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:43:31 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541704148080 |
-| Players | 7/10 |
-| Host Name | CCCR |
+| Lobby ID | 28576541705476370 |
+| Players | 2/10 |
+| Host Name | DBL |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:44:22 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:45:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541705497488 |
+| Players | 8/15 |
+| Host Name | Пиво реарм пиво |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:45:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541699103673 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | •⁷⁷⁷ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:38:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541626647736 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Classic throw |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
@@ -47,42 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:40:59 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541703992094 |
-| Players | 11/15 |
-| Host Name | BigTimeTimmyJim |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 02:44:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541704078368 |
-| Players | 6/8 |
-| Host Name | Задоджил рот |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:44:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541704338566 |
-| Players | 1/15 |
-| Host Name | I Am No One |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 02:44:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541698675779 |
-| Players | 20/24 |
-| Host Name | MAGA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:37:53 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541700966614 |
@@ -92,28 +56,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:40:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541704594451 |
-| Players | 4/10 |
-| Host Name | sa_ru |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:44:53 |
+| Lobby ID | 28576541705089837 |
+| Players | 4/8 |
+| Host Name | соска на пудже |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 02:45:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541699865147 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Neo |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:39:18 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541705361190 |
+| Players | 2/10 |
+| Host Name | El Yuki |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 02:45:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541705628240 |
+| Players | 2/8 |
+| Host Name | KILLEP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:46:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541696278920 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | M-khan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:35:06 |
@@ -122,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541701728298 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | IKAW NG BAKI LAB? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:41:32 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576541702282782 |
-| Players | 1/7 |
-| Host Name | Gashush |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 02:42:11 |
 
 
 |  | epic_boss_fight_normal |
