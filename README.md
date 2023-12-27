@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541672324559 |
-| Players | 1/24 |
-| Host Name | O Pai |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 02:07:52 |
+| Lobby ID | 28576541673423412 |
+| Players | 3/10 |
+| Host Name | beamtares |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:09:09 |
 
 
 |  | ot3_gardens_duo |
@@ -69,54 +69,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576541669362509 |
 | Players | 14/24 |
-| Host Name | peruano promedio |
+| Host Name | gL. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:04:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541673240737 |
-| Players | 1/15 |
-| Host Name | . |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:08:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541673312719 |
-| Players | 9/15 |
-| Host Name | dog spirit |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:09:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541672650037 |
-| Players | 14/15 |
-| Host Name | what she want? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:08:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541673423412 |
-| Players | 3/10 |
-| Host Name | beamtares |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:09:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541673425134 |
-| Players | 5/10 |
-| Host Name | 123123 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:09:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,21 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:09:10 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541673312719 |
+| Players | 12/15 |
+| Host Name | dog spirit |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:09:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541673425134 |
+| Players | 6/10 |
+| Host Name | 123123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:09:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541673222650 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | SakalFTW |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:08:55 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28576541673466126 |
-| Players | 3/7 |
-| Host Name | Cow flipper |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 02:09:12 |
 
 
