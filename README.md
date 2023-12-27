@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:55:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541298080354 |
-| Players | 21/24 |
-| Host Name | 大川岛 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:53:18 |
+| Lobby ID | 28576541301510897 |
+| Players | 1/8 |
+| Host Name | s4 el cacheraso |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:56:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:54:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541301069598 |
-| Players | 6/15 |
-| Host Name | Comix |
+| Lobby ID | 28576541301666778 |
+| Players | 1/10 |
+| Host Name | Guardian |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:56:15 |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:56:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541301343883 |
+| Lobby ID | 28576541301738798 |
 | Players | 1/10 |
 | Host Name | Адидас (Junior) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:56:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541301510897 |
-| Players | 1/8 |
-| Host Name | s4 el cacheraso |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:56:41 |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:56:54 |
 
 
 |  | epic_boss_fight_nightmare |
