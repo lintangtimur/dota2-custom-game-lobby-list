@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541661589029 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Lambo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 01:55:47 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541666918618 |
-| Players | 9/10 |
-| Host Name | PingU! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:01:45 |
+| Lobby ID | 28576541667632888 |
+| Players | 4/10 |
+| Host Name | год оргии |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:02:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541662290067 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | EPEEB.giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:56:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541667200417 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | 666.SECONDSs.Glaver |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:02:04 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541667372777 |
-| Players | 4/8 |
-| Host Name | port- mort |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:02:16 |
+| Lobby ID | 28576541667689412 |
+| Players | 1/8 |
+| Host Name | DarkAngel |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:02:37 |
 
 
 |  | ot3_gardens_duo |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Krol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:02:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541667713187 |
+| Players | 2/10 |
+| Host Name | SHAKHTER SVOYEGO O4KA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:02:39 |
 
 
