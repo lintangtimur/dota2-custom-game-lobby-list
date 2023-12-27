@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541206421758 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | XsoE Noy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:08:07 |
@@ -40,17 +40,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541206142057 |
-| Players | 13/15 |
-| Host Name | ПЕНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:07:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28576541206848362 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | акбаер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:08:43 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541205885603 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Hey What Happened |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:07:22 |
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.Henky |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:07:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541206400673 |
-| Players | 1/10 |
-| Host Name | pepeLaugh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:08:05 |
 
 
