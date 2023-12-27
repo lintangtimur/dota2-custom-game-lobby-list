@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541771148721 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | EL MAMANI |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:08:59 |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541770688044 |
-| Players | 7/8 |
-| Host Name | NURAYA |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:08:20 |
+| Lobby ID | 28576541771478090 |
+| Players | 6/8 |
+| Host Name | Zoda |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 04:09:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541771230450 |
-| Players | 8/10 |
-| Host Name | daaaaaaaaaamn |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:09:06 |
+| Lobby ID | 28576541771457042 |
+| Players | 1/8 |
+| Host Name | Dua Lipa & Halsey <3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 04:09:25 |
 
 
 |  | ot3_desert_octet |
@@ -83,39 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:08:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541770990575 |
-| Players | 9/10 |
-| Host Name | nootr0pics |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:08:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541771289947 |
-| Players | 2/8 |
-| Host Name | 0ste.alth.le.af0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:09:11 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541771140768 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | A tu vieja la vuelvo mi gata |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:08:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541771383824 |
-| Players | 2/8 |
-| Host Name | Eldritch |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 04:09:19 |
 
 
