@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541805940417 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | yuduoyu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:00:05 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:02:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541807531860 |
-| Players | 9/10 |
-| Host Name | Негрошай |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:02:34 |
+| Lobby ID | 28576541808109487 |
+| Players | 4/15 |
+| Host Name | skkkkkkr |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:03:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541805575496 |
-| Players | 14/15 |
-| Host Name | M.R-YoEL |
+| Lobby ID | 28576541807988577 |
+| Players | 4/10 |
+| Host Name | aea |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 04:59:31 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:03:17 |
 
 
 |  | ot3_gardens_duo |
@@ -63,33 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Casa Matusita Lujan Carrion |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:03:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541808109487 |
-| Players | 3/15 |
-| Host Name | skkkkkkr |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:03:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541807988577 |
-| Players | 4/10 |
-| Host Name | aea |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:03:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541808508075 |
-| Players | 1/10 |
-| Host Name | kentik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:04:07 |
 
 
 |  | epic_boss_fight_nightmare |
