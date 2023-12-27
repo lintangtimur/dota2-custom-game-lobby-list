@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541322509001 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:17:01 |
@@ -47,46 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:17:17 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541322784970 |
-| Players | 3/8 |
-| Host Name | легенда доты |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:17:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541323053647 |
-| Players | 4/10 |
-| Host Name | Хручело Мяучело |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:17:32 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541323072298 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | utgdcyrsd8 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:17:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541323505308 |
-| Players | 2/8 |
-| Host Name | strxxlrd |
+| Lobby ID | 28576541323053647 |
+| Players | 2/10 |
+| Host Name | Хручело Мяучело |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:17:57 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:17:32 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541322480960 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Just subscribe for Linda H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:16:59 |
