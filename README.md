@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541735206266 |
-| Players | 11/15 |
-| Host Name | kiros |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:21:54 |
+| Lobby ID | 28576541728826828 |
+| Players | 14/15 |
+| Host Name | Daddy Davion |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 03:14:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541733094181 |
-| Players | 23/24 |
-| Host Name | YO ERA GOZU HASTA QUE ME ENAMORE |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 03:19:18 |
+| Lobby ID | 28576541735055132 |
+| Players | 8/10 |
+| Host Name | Che.k |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:21:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,37 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541735431858 |
-| Players | 2/15 |
-| Host Name | LelouchVBritannia |
+| Players | 1/15 |
+| Host Name | EL MAMANI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 03:22:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541735055132 |
-| Players | 7/10 |
-| Host Name | Che.k |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:21:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541728826828 |
-| Players | 13/15 |
-| Host Name | Daddy Davion |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 03:14:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541728713617 |
-| Players | 13/15 |
-| Host Name | Madman |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:13:56 |
+| Lobby ID | 28576541735650107 |
+| Players | 1/10 |
+| Host Name | LelouchVBritannia |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 03:22:27 |
 
 
 |  | epic_boss_fight_nightmare |
