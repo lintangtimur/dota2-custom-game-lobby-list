@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541471454867 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Sexfault |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:35:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541467734338 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | SIX NALL |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:32:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541469138316 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Jigsaw |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:33:32 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576541471103140 |
 | Players | 9/24 |
-| Host Name | Kott ya |
+| Host Name | Rily |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:35:27 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541468701961 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | RON |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:33:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541466673633 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | مينو |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:31:08 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541471557577 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | GigaN1ga |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:35:54 |
