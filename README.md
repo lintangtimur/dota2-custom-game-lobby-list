@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541728826828 |
-| Players | 14/15 |
-| Host Name | Daddy Davion |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 03:14:05 |
+| Lobby ID | 28576541735851386 |
+| Players | 6/8 |
+| Host Name | gg |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 28, 2023 03:22:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541734754916 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Кот под солями |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:21:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541718232755 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Bniuoas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:01:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541735650107 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | LelouchVBritannia |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 03:22:27 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541716804664 |
-| Players | 2/24 |
-| Host Name | Taktloss |
+| Players | 1/24 |
+| Host Name | БАБАЛАХ |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 02:59:24 |
 
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 03:22:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541733687206 |
-| Players | 9/10 |
-| Host Name | VRODE LENS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:20:02 |
+| Lobby ID | 28576541735844248 |
+| Players | 1/8 |
+| Host Name | LION EL MESI |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 03:22:42 |
 
 
 |  | epic_boss_fight_nightmare |
