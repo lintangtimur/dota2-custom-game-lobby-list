@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:46:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541288197348 |
-| Players | 23/24 |
-| Host Name | Platinum |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:43:22 |
+| Lobby ID | 28576541294333903 |
+| Players | 5/15 |
+| Host Name | Whole lotta swag |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:49:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:48:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541294333903 |
-| Players | 2/15 |
-| Host Name | Whole lotta swag |
+| Lobby ID | 28576541294545851 |
+| Players | 2/10 |
+| Host Name | Все Хотят от Меня |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:49:34 |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:49:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541294632060 |
+| Players | 2/8 |
+| Host Name | ??? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:49:52 |
 
 
 |  | epic_boss_fight_nightmare |
