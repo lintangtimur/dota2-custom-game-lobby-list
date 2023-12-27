@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541210325649 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | {BRAZZERS}_Bilbo Begins |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:13:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541209912200 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | jnikko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:12:53 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541210543585 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Axiz |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:13:41 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541209042650 |
-| Players | 9/10 |
-| Host Name | ⁂•☃Donald Treantツ☃•⁂ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:11:45 |
+| Lobby ID | 28576541210872266 |
+| Players | 3/10 |
+| Host Name | zafinaايفونأربعةمع،أريدأنايفونأا |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:14:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541206242919 |
-| Players | 9/10 |
+| Players | 10/10 |
 | Host Name | Mr.Henky |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:07:51 |
