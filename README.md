@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541453625589 |
-| Players | 9/10 |
-| Host Name | Homicídio |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:18:36 |
+| Lobby ID | 28576541463506186 |
+| Players | 2/10 |
+| Host Name | Manimal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:28:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541461460524 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | daed pleier |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:26:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541462549105 |
-| Players | 12/15 |
-| Host Name | Aurelia |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:27:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541463353428 |
-| Players | 2/8 |
-| Host Name | ccured |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:27:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -126,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | resting |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:26:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541463353428 |
+| Players | 3/8 |
+| Host Name | ccured |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:27:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -146,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 22:24:33 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541461215377 |
-| Players | 1/5 |
-| Host Name | Zik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:25:52 |
+| Lobby ID | 28576541463151041 |
+| Players | 2/10 |
+| Host Name | Hey What Happened |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:27:44 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hunt Hoe-Down |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:27:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541463151041 |
-| Players | 1/10 |
-| Host Name | Hey What Happened |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:27:44 |
 
 
