@@ -32,25 +32,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541165151465 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:07:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541172746019 |
-| Players | 11/15 |
-| Host Name | 1. |
+| Lobby ID | 28576541173264720 |
+| Players | 2/8 |
+| Host Name | Татароимитатор |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:19:22 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:20:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541173242494 |
+| Players | 1/10 |
+| Host Name | sto |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:20:07 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541172959619 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Makima enjoyer |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:19:41 |
@@ -58,10 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576541173147296 |
+| Lobby ID | 28576541173225064 |
 | Players | 1/5 |
-| Host Name | Korshunov Badenov |
+| Host Name | [XD]-Nigh™arme |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:19:58 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:20:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541173248508 |
+| Players | 1/5 |
+| Host Name | Tisay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:20:07 |
 
 
