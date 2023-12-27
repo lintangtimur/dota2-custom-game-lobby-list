@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541391680125 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | L'ost |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:20:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541398307887 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | погоди погоди |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:26:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541397906868 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Harvest Dawn |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:26:29 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541399711946 |
-| Players | 5/10 |
-| Host Name | Засадилдо |
+| Lobby ID | 28576541400021029 |
+| Players | 1/10 |
+| Host Name | λ̯͡ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:28:08 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:28:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541400000690 |
+| Players | 1/10 |
+| Host Name | shatunchick.twitch.tv |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:28:24 |
 
 
 |  | epic_boss_fight_normal |
