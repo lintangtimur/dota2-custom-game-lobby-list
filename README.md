@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541353902625 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | вася санстрайк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:46:28 |
@@ -76,18 +76,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541354026353 |
-| Players | 4/8 |
-| Host Name | ТУРБО ИШАК |
+| Lobby ID | 28576541354030820 |
+| Players | 1/8 |
+| Host Name | 4K BOT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:46:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541354030820 |
+| Lobby ID | 28576541354640803 |
 | Players | 1/8 |
-| Host Name | 4K BOT |
+| Host Name | Loyal po ako! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:47:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541354026353 |
+| Players | 7/8 |
+| Host Name | ТУРБО ИШАК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:46:34 |
 
