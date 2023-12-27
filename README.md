@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541831102438 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Златоспермий |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:41:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541831787773 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Micho |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:42:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541830622573 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:40:45 |
@@ -94,6 +94,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
+| Lobby ID | 28576541832836966 |
+| Players | 2/15 |
+| Host Name | Da Butchar |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 05:44:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541832958472 |
+| Players | 1/8 |
+| Host Name | Lost |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:44:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
 | Lobby ID | 28576541832679442 |
 | Players | 14/15 |
 | Host Name | 死貓狂喜 |
@@ -101,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:44:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541832836966 |
-| Players | 1/15 |
-| Host Name | Da Butchar |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 05:44:37 |
+| Lobby ID | 28576541832978168 |
+| Players | 2/10 |
+| Host Name | MD.JefferZon |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:44:52 |
 
 
 |  | epic_boss_fight_normal |
