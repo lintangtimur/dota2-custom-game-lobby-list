@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541369516256 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | DN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:00:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541367779584 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Tamiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:59:06 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541366863591 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Soup |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:58:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541369301966 |
-| Players | 9/10 |
-| Host Name | MIRROOOOOX 2.0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:00:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541369466247 |
-| Players | 4/8 |
-| Host Name | insaniac |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:00:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,10 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:59:39 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541369466247 |
+| Players | 4/8 |
+| Host Name | insaniac |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:00:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541370153724 |
+| Players | 4/10 |
+| Host Name | truly humble under god |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:01:15 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541366933035 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | EpicBossFightEnjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:58:21 |
