@@ -29,33 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:28:07 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541525583264 |
-| Players | 13/15 |
-| Host Name | MiaoMao |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:29:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541524441046 |
-| Players | 12/15 |
-| Host Name | TCCookie |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:28:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541522021341 |
-| Players | 6/15 |
-| Host Name | PMA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:26:12 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541524657957 |
@@ -65,10 +38,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:28:57 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541524088036 |
+| Players | 9/10 |
+| Host Name | Full-Time Griefer |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:28:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541522021341 |
+| Players | 9/15 |
+| Host Name | PMA |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:26:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541525878686 |
+| Players | 1/10 |
+| Host Name | diegotsfye |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:30:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541525875654 |
+| Players | 4/10 |
+| Host Name | Киcлoтный Beceльчaк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:30:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541525988508 |
+| Players | 2/15 |
+| Host Name | Vendrou |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:30:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541519684413 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Mweh. |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:23:49 |
