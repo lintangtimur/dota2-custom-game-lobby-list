@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:34:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541325805619 |
-| Players | 22/24 |
-| Host Name | Space |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:20:07 |
+| Lobby ID | 28576541346713552 |
+| Players | 2/15 |
+| Host Name | RoadTo9K |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:39:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541345954997 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ¨Ç_-Gonza-_-4 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:39:04 |
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | РУСЛАН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:39:36 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576541346599179 |
-| Players | 1/7 |
-| Host Name | Петрушевый чай |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:39:41 |
 
 
