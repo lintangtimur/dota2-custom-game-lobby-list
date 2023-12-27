@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541762660105 |
-| Players | 14/24 |
+| Players | 12/24 |
 | Host Name | lil dozhd |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:57:23 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 03:58:46 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541761048038 |
-| Players | 7/8 |
-| Host Name | INKA KOKA |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 03:55:15 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541762161827 |
-| Players | 14/15 |
-| Host Name | Sakuragi |
+| Lobby ID | 28576541763755388 |
+| Players | 9/15 |
+| Host Name | АХУЙ ПОВНИЙ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:58:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541763170134 |
+| Players | 12/24 |
+| Host Name | Jugador SIGMA :V |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 03:56:43 |
+| Lobby Creation Time | Thursday, December 28, 2023 03:58:04 |
 
 
 |  | ot3_desert_octet |
@@ -77,46 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541763763210 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | HowDareYou |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 03:58:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541763170134 |
-| Players | 9/24 |
-| Host Name | Jugador SIGMA :V |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 03:58:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541763755388 |
-| Players | 8/15 |
-| Host Name | АХУЙ ПОВНИЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:58:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541763809237 |
-| Players | 3/8 |
-| Host Name | nahui._. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:58:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541763930623 |
-| Players | 8/10 |
-| Host Name | kqweer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:59:04 |
 
 
 |  | epic_boss_fight_nightmare |
