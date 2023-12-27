@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541813020517 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Яж Гуевреев |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:11:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541813015968 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | субординация |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:11:22 |
@@ -68,37 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541812987503 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | QUE RICO APRIETAS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:11:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541813218491 |
-| Players | 9/15 |
-| Host Name | rampi |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:11:42 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541813240900 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | YO ERA GOZU HASTA QUE ME ENAMORE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:11:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541813369400 |
-| Players | 1/8 |
-| Host Name | MuShi- 雨 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:11:57 |
 
 
 |  | epic_boss_fight_normal |
