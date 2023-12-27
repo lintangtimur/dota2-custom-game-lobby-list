@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541190218935 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Kai Angel |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:45:26 |
