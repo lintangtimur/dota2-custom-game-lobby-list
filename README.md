@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:25:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541184174661 |
-| Players | 4/8 |
-| Host Name | Король лузстрика |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:36:31 |
+| Lobby ID | 28576541185068908 |
+| Players | 1/15 |
+| Host Name | BES |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:37:51 |
 
 
 |  | ot3_desert_octet |
@@ -38,19 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:07:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541184070224 |
-| Players | 12/15 |
-| Host Name | gopkorm |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:36:21 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541184124742 |
-| Players | 5/24 |
+| Players | 14/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:36:26 |
@@ -58,19 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541183240193 |
-| Players | 9/10 |
-| Host Name | Möuŗöś |
+| Lobby ID | 28576541184995214 |
+| Players | 3/10 |
+| Host Name | Wit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:35:08 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:37:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541184866376 |
+| Players | 4/15 |
+| Host Name | 悪 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:37:33 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541182080054 |
-| Players | 8/10 |
-| Host Name | NothingToSay |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:33:25 |
+| Lobby ID | 28576541184814335 |
+| Players | 1/10 |
+| Host Name | astraldreamer ♥ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:37:28 |
 
 
