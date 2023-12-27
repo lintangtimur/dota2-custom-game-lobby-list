@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541669362509 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | peruano promedio |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:04:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541673178829 |
-| Players | 7/8 |
-| Host Name | bungee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:08:52 |
+| Lobby ID | 28576541673240737 |
+| Players | 1/15 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 02:08:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541672226845 |
-| Players | 5/8 |
-| Host Name | Dussters |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:07:46 |
+| Lobby ID | 28576541673312719 |
+| Players | 9/15 |
+| Host Name | dog spirit |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:09:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,30 +101,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:08:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541673240737 |
-| Players | 2/15 |
-| Host Name | . |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:08:56 |
+| Lobby ID | 28576541673423412 |
+| Players | 3/10 |
+| Host Name | beamtares |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:09:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541673312719 |
-| Players | 5/15 |
-| Host Name | dog spirit |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:09:01 |
+| Lobby ID | 28576541673425134 |
+| Players | 5/10 |
+| Host Name | 123123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:09:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541673441075 |
+| Players | 4/8 |
+| Host Name | Warkon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:09:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541673222650 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SakalFTW |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:08:55 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576541673466126 |
+| Players | 3/7 |
+| Host Name | Cow flipper |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 02:09:12 |
 
 
