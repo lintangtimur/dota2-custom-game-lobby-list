@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541746343699 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Seasons of L |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 03:35:59 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 03:37:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541747678423 |
-| Players | 5/10 |
-| Host Name | butterfly MODE: STRAIGHT UP |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 03:37:41 |
+| Lobby ID | 28576541748855921 |
+| Players | 2/8 |
+| Host Name | 30 перкасэтов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 03:39:13 |
 
 
 |  | ot3_desert_octet |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541748391592 |
-| Players | 7/8 |
-| Host Name | Yarik |
+| Lobby ID | 28576541748616841 |
+| Players | 4/8 |
+| Host Name | GreenI |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:38:37 |
+| Lobby Creation Time | Thursday, December 28, 2023 03:38:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,19 +92,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 03:38:47 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541748876552 |
+| Players | 3/15 |
+| Host Name | Dekant |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 03:39:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541748894949 |
+| Players | 3/10 |
+| Host Name | go next |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:39:17 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541748616841 |
-| Players | 3/8 |
-| Host Name | GreenI |
+| Lobby ID | 28576541748942774 |
+| Players | 6/8 |
+| Host Name | QaimaQ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:38:54 |
+| Lobby Creation Time | Thursday, December 28, 2023 03:39:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541745489659 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | YoNPe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:34:53 |
