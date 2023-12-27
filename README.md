@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541174708750 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Stralexkon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:22:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541174909604 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | lost in the supermarket |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:22:38 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | R7犬 | кар карыч |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:22:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541175226938 |
-| Players | 1/8 |
-| Host Name | NIGATIVE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:23:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541175252263 |
-| Players | 1/15 |
-| Host Name |  |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:23:10 |
 
 
 |  | epic_boss_fight_normal |
