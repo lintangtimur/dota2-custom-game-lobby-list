@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541553597760 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Sukuna |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:58:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541553469680 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Сквирт глобалом |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:58:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541551599135 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | th@n@tos |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:56:46 |
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:58:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541553284254 |
-| Players | 3/8 |
-| Host Name | anvzak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:58:31 |
+| Lobby ID | 28576541553725912 |
+| Players | 7/15 |
+| Host Name | Coltello Per MDMA |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:58:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541553265187 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | 一叶之秋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:58:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541553725912 |
-| Players | 2/15 |
-| Host Name | Coltello Per MDMA |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:58:59 |
 
 
 |  | epic_boss_fight_hard |
@@ -144,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝓔𝓛_𝓹𝓲𝓼𝔂𝓪 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:57:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541547078806 |
-| Players | 9/10 |
-| Host Name | 11 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:52:04 |
 
 
