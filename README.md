@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541177653781 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Coal Collector |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:26:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541178271023 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | +BIG BALLS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:27:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541179151023 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | GTO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:29:02 |
