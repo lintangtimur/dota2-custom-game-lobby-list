@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:58:52 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541840907636 |
-| Players | 9/10 |
-| Host Name | thecakeisalie |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:59:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541841377485 |
-| Players | 7/8 |
-| Host Name | ☆ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:59:51 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541841199000 |
@@ -90,6 +72,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ICHZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:59:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541841476111 |
+| Players | 1/15 |
+| Host Name | QUE RICO APRIETAS |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 06:00:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541841495993 |
+| Players | 2/15 |
+| Host Name | mode:dog (наказан) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:00:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541841490896 |
+| Players | 1/15 |
+| Host Name | AERO'DYNAMIC |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 06:00:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541841518631 |
+| Players | 1/15 |
+| Host Name | JrY |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 06:00:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,9 +140,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541840951295 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | breakdown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:59:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541841459225 |
+| Players | 1/10 |
+| Host Name | d1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:00:01 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576541841468064 |
+| Players | 2/7 |
+| Host Name | Elite Cobra |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, December 28, 2023 06:00:02 |
 
 
