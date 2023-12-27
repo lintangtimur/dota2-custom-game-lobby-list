@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541326924109 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | 20230718 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:21:10 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541355716932 |
-| Players | 12/15 |
-| Host Name | SWEID |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:48:07 |
+| Lobby ID | 28576541357173711 |
+| Players | 2/15 |
+| Host Name | тарас щелбан |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:49:26 |
 
 
 |  | ot3_desert_octet |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541356629766 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | amogus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:48:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541356800334 |
-| Players | 1/15 |
-| Host Name | Dirty Harry |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:49:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541356951803 |
-| Players | 4/8 |
-| Host Name | klassnokruto |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:49:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541352429113 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MochiMochi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:45:07 |
