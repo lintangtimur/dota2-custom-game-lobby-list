@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541748894949 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | go next |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:39:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541748615824 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Calcifer |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 03:38:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541747963902 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ASESINO DE KBROS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:38:03 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541747667478 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | AnDpep |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:37:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541748855921 |
-| Players | 5/8 |
-| Host Name | 30 перкасэтов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:39:13 |
+| Lobby ID | 28576541749096311 |
+| Players | 2/10 |
+| Host Name | elon tocosh |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 03:39:32 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541749268549 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | PYANYY DED |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:39:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541748522754 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | ♀×º°”MOHOWK”°º×♀ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:38:47 |
@@ -103,20 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541749096311 |
-| Players | 2/10 |
-| Host Name | elon tocosh |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 03:39:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541747678423 |
+| Lobby ID | 28576541746343699 |
 | Players | 9/10 |
-| Host Name | butterfly MODE: STRAIGHT UP |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 03:37:41 |
+| Host Name | Seasons of L |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 03:35:59 |
 
 
 |  | epic_boss_fight_nightmare |
