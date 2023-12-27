@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541297782694 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:53:00 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:56:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541298819088 |
-| Players | 14/15 |
-| Host Name | ت󠀡󠀡 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:54:01 |
+| Lobby ID | 28576541301896716 |
+| Players | 2/24 |
+| Host Name | Sunlover |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:57:04 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541301164032 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ВЛАДЕЛЕЦ КРИПОВ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:56:20 |
@@ -83,6 +83,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:56:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541301918479 |
+| Players | 1/8 |
+| Host Name | cloud |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:57:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541301926176 |
+| Players | 2/15 |
+| Host Name | [DD] Дet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:57:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541300440820 |
@@ -92,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:55:37 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28576541300703377 |
-| Players | 2/5 |
-| Host Name | Multik_30050000 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:55:53 |
+| Lobby ID | 28576541301912831 |
+| Players | 2/7 |
+| Host Name | Моджахед |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:57:05 |
 
 
