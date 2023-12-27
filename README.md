@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541788943555 |
-| Players | 6/8 |
-| Host Name | Dereck Zoolander. |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 04:34:15 |
+| Lobby ID | 28576541792734411 |
+| Players | 5/8 |
+| Host Name | Lo Siento |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 04:39:54 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541791771442 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | 34 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:38:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541792572607 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | MiKchero |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:39:39 |
@@ -101,28 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:39:37 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541792561723 |
-| Players | 1/15 |
-| Host Name | СФИНКТЕР ТАМОГОЧИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:39:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541792695365 |
-| Players | 1/8 |
-| Host Name | FOMLER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:39:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541791601311 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | breakdown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:38:10 |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:39:44 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576541792826677 |
+| Players | 2/7 |
+| Host Name | EL ILUSIONADO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 04:40:03 |
 
 
