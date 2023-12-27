@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541363691954 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | yukinoshita |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:55:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541363923654 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | dead outside 牡zxc beast牡 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:55:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541361593915 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Griefing is ezer than playing |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:53:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541363928292 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Heyzi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:55:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541364189785 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Кирюха |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:55:51 |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541364299748 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | РУСЛАН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:55:57 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576541364401079 |
-| Players | 2/7 |
-| Host Name | Моджахед |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:56:02 |
+| Lobby ID | 28576541364540704 |
+| Players | 1/5 |
+| Host Name | 13538593411 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:56:10 |
 
 
