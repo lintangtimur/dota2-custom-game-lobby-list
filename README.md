@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541840266020 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Magic Missile |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:57:50 |
@@ -41,10 +41,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541840254343 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | RSparrow |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:57:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541840826423 |
+| Players | 3/8 |
+| Host Name | Yatoshiwa on spotify |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:58:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541840832323 |
+| Players | 1/10 |
+| Host Name | Вася |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:58:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541839565104 |
+| Players | 7/8 |
+| Host Name | Scotford |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 05:56:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541840907311 |
+| Players | 1/10 |
+| Host Name | PROCEDE O NO PROCEDE MI ESTIMADO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:59:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541840910189 |
+| Players | 1/10 |
+| Host Name | avestruz |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:59:01 |
 
 
 |  | epic_boss_fight_normal |
