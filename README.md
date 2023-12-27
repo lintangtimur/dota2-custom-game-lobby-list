@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541183053201 |
-| Players | 14/15 |
-| Host Name | be lol epic Denis |
+| Lobby ID | 28576541183215973 |
+| Players | 5/8 |
+| Host Name | в 24 выйду по удо |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:34:52 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:35:06 |
 
 
 |  | ot3_gardens_duo |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Первая кровь |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:25:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541183215973 |
-| Players | 3/8 |
-| Host Name | в 24 выйду по удо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:35:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541183841787 |
-| Players | 1/24 |
-| Host Name | unlucky boy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:36:02 |
 
 
 |  | epic_boss_fight_nightmare |
