@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541740778534 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Artorias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:28:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541626647736 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | K. MBAPPÉ |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541737277458 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | AleJandro |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:24:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541739861505 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | LOCO CHESS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:27:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541740914384 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | ВЕРБЛЮД ВАСЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:29:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541740495416 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | ccg employee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:28:33 |
