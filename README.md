@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541857261867 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | pudding |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:30:00 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 06:30:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541857614464 |
-| Players | 6/8 |
-| Host Name | эт кагуна фраера |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:30:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541857697984 |
-| Players | 5/8 |
-| Host Name | BOLT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:30:52 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541857674959 |
@@ -101,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 06:30:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541856383929 |
-| Players | 7/8 |
-| Host Name | B!MO |
+| Lobby ID | 28576541857956984 |
+| Players | 1/15 |
+| Host Name | TypicalTN |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 06:31:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541857928789 |
+| Players | 1/15 |
+| Host Name | 17 cm de puro placer |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 06:28:17 |
+| Lobby Creation Time | Thursday, December 28, 2023 06:31:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fuckyeah |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:30:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541857966793 |
+| Players | 1/10 |
+| Host Name | conchatumare |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 06:31:24 |
 
 
