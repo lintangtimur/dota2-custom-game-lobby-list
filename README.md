@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541705476370 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | DBL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:45:54 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541705497488 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Пиво реарм пиво |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:45:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541699103673 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | •⁷⁷⁷ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:38:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541700966614 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:40:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541705089837 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | соска на пудже |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:45:28 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541705361190 |
-| Players | 2/10 |
-| Host Name | El Yuki |
+| Players | 3/10 |
+| Host Name | Flyn Raider *Vip Zone*TRADEIT.GG |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:45:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541705628240 |
-| Players | 2/8 |
-| Host Name | KILLEP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:46:05 |
+| Lobby ID | 28576541705731287 |
+| Players | 4/8 |
+| Host Name | Ябом Билирак |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 02:46:12 |
 
 
 |  | epic_boss_fight_nightmare |
