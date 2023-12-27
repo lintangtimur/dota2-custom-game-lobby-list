@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541187826266 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | bountuk motors |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:41:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541187112391 |
-| Players | 14/15 |
-| Host Name | Agent P |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:40:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | astraldreamer ♥ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:37:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541188155819 |
+| Players | 1/10 |
+| Host Name | KiraWh |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:42:28 |
 
 
