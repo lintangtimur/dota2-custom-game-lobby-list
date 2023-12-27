@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:22:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541176726069 |
-| Players | 7/10 |
-| Host Name | Godordy |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:25:24 |
+| Lobby ID | 28576541178337868 |
+| Players | 1/15 |
+| Host Name | ZiGGurat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:27:50 |
 
 
 |  | ot3_desert_octet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541177766023 |
-| Players | 3/8 |
-| Host Name | all mute |
+| Lobby ID | 28576541178271023 |
+| Players | 2/8 |
+| Host Name | +BIG BALLS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:26:58 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:27:44 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541177699357 |
-| Players | 7/15 |
-| Host Name | Адидас |
+| Players | 14/15 |
+| Host Name | сын бляди, почему мид проигран? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:26:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541177868695 |
-| Players | 5/8 |
-| Host Name | CAFFEINATED |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:27:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:25:39 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541177946288 |
-| Players | 1/5 |
+| Lobby ID | 28576541178186296 |
+| Players | 2/10 |
 | Host Name | jusplayin |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:27:14 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:27:36 |
 
 
