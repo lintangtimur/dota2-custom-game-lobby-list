@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541815761786 |
-| Players | 4/10 |
-| Host Name | AtomiXs |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:15:46 |
+| Lobby ID | 28576541816416967 |
+| Players | 1/24 |
+| Host Name | Miku |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:16:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541812216767 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Tangerine |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:10:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541813929081 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | SKYline GTR |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:12:50 |
@@ -59,37 +59,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541814733591 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Saigo |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 05:14:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541815552435 |
-| Players | 14/15 |
-| Host Name | Cspiteri |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:15:26 |
+| Lobby ID | 28576541816045300 |
+| Players | 6/8 |
+| Host Name | Karoshi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:16:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541815407945 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | D4RKY1$U$ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:15:11 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541816220987 |
+| Players | 13/15 |
+| Host Name | CaD  |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:16:31 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541816045300 |
+| Lobby ID | 28576541816257084 |
+| Players | 4/8 |
+| Host Name | muchacho |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:16:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541816405710 |
 | Players | 2/8 |
-| Host Name | Karoshi |
+| Host Name | OnTo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:16:14 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:16:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541816466349 |
+| Players | 2/10 |
+| Host Name | Veroy |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:16:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541816475305 |
+| Players | 1/10 |
+| Host Name | Mr. Touch ME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:16:57 |
 
 
 |  | epic_boss_fight_normal |
