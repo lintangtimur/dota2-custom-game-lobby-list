@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541338271514 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:31:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541340852496 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | can't stop won't stop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:34:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541325805619 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Space |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:20:07 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541340667926 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | XleByIIIeK_C_XpEHoM |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:34:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541341019460 |
+| Players | 1/24 |
+| Host Name | Chipi Chapa Dubi Daba Boom |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:34:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541341110652 |
+| Players | 1/15 |
+| Host Name | SaladSlice |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:34:31 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KORATT |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:24:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541341104897 |
+| Players | 1/10 |
+| Host Name | False Architect |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:34:30 |
 
 
