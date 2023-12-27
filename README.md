@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541769746744 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Jacques Le Coq Grande |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, December 28, 2023 04:07:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541769026037 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | YO PINGA LOCA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:06:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541769613206 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | TypicalTN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 04:06:52 |
@@ -83,31 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:03:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541769556685 |
-| Players | 10/15 |
-| Host Name | maria.alexandra |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:06:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541770302981 |
-| Players | 3/8 |
-| Host Name | Profisional |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:07:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541770367124 |
-| Players | 2/8 |
-| Host Name | Butterfly |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:07:54 |
+| Lobby ID | 28576541770415748 |
+| Players | 5/10 |
+| Host Name | ПАРАВОЗNK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 04:07:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,21 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:07:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541770415748 |
-| Players | 1/10 |
-| Host Name | ПАРАВОЗNK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:07:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541770409651 |
-| Players | 1/10 |
-| Host Name | -golittlerockstar. |
+| Lobby ID | 28576541770367124 |
+| Players | 5/8 |
+| Host Name | Butterfly |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:07:57 |
+| Lobby Creation Time | Thursday, December 28, 2023 04:07:54 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576541770502534 |
+| Players | 3/7 |
+| Host Name | ТОп ГЕЙмер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 04:08:05 |
 
 
