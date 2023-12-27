@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541425472179 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | биба#4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:51:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541423605979 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | epariyana189 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:50:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541421050291 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | mrbi1995 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:47:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541423358015 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 马季福奇 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:49:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541424924217 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Smokin'! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:51:23 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:51:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541425550507 |
-| Players | 5/8 |
-| Host Name | Mr. Mamix228 |
+| Lobby ID | 28576541425593099 |
+| Players | 1/15 |
+| Host Name | Leonardo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:51:57 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:52:00 |
 
 
 |  | epic_boss_fight_hard |
