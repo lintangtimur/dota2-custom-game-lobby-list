@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541718509603 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | KHAN ZAMAY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:01:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541711831904 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | GG Namas cholos |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:53:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541718232755 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | God Mother |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:01:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541626647736 |
-| Players | 11/24 |
+| Players | 9/24 |
 | Host Name | E R O S |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541718667482 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | DIKEY |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:01:39 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541718529666 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Superdeterminist |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:01:29 |
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541718487076 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | тень |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:01:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541719274402 |
+| Players | 1/8 |
+| Host Name | даша два баша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 03:02:23 |
 
 
 |  | epic_boss_fight_normal |
