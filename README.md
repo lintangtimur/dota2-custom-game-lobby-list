@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541197419010 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Aɾȥıɱαɳ™ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:55:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541196048104 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:53:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541197743497 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | someone clipped my wings |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:56:06 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541197777109 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:56:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541197805636 |
+| Players | 4/8 |
+| Host Name | Секс ферма эльфов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:56:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541195539329 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Kapal lawd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:52:59 |
@@ -117,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Nostalgy |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:55:45 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541197857141 |
+| Players | 2/5 |
+| Host Name | Delos |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:56:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541197878789 |
+| Players | 1/5 |
+| Host Name | Uzendayo~! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:56:17 |
 
 
