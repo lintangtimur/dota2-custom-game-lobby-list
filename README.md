@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541826137745 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | GRACE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:32:58 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541825681565 |
-| Players | 7/8 |
-| Host Name | 76561199196836346 |
+| Lobby ID | 28576541826540795 |
+| Players | 1/8 |
+| Host Name | Денацификатор |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:32:12 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:33:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541825268268 |
-| Players | 9/10 |
-| Host Name | Ведьмак из Костромы |
+| Lobby ID | 28576541826529691 |
+| Players | 3/15 |
+| Host Name | Assister |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:31:30 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:33:37 |
 
 
 |  | ot3_gardens_duo |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:32:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541826203715 |
-| Players | 5/15 |
-| Host Name | gussigang666 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:33:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541824248403 |
-| Players | 8/10 |
-| Host Name | ? |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 05:29:47 |
 
 
 |  | epic_boss_fight_normal |
