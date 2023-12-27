@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541818168701 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Нет фантазии |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:19:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541816257084 |
-| Players | 6/8 |
-| Host Name | muchacho |
+| Lobby ID | 28576541818291219 |
+| Players | 1/24 |
+| Host Name | Ratasor |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:16:35 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:19:54 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541817555818 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | TONY PARRY |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:18:42 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541817727669 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | < blank > |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:18:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541817952636 |
-| Players | 14/15 |
-| Host Name | gokereezz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:19:21 |
 
 
 |  | ot3_gardens_duo |
@@ -108,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gay team |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:19:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541818291219 |
-| Players | 1/24 |
-| Host Name | Ratasor |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:19:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541818337492 |
-| Players | 2/24 |
-| Host Name | MF |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 05:19:59 |
 
 
 |  | epic_boss_fight_normal |
