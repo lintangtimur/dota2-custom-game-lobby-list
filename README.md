@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541824378359 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Taison V. Akhal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:30:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541818541189 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Kazune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:20:19 |
@@ -50,10 +50,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541823558356 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | ieagtonrns |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:28:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541825039918 |
+| Players | 2/8 |
+| Host Name | π™ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:31:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541824248403 |
+| Players | 9/10 |
+| Host Name | ? |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 05:29:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541825066609 |
+| Players | 1/15 |
+| Host Name | reVerse |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:31:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541825084257 |
+| Players | 3/8 |
+| Host Name | MifLoveM1lf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:31:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541825092300 |
+| Players | 3/8 |
+| Host Name | Belselk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:31:12 |
 
 
 |  | epic_boss_fight_normal |
