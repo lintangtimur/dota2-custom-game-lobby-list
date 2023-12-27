@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541431859727 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Forreal? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:57:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541431296112 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | broken 2-2 pos or jungle神 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:57:18 |
@@ -85,20 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541431815033 |
+| Lobby ID | 28576541431968613 |
 | Players | 2/24 |
-| Host Name | Sniper Handal |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:57:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541431880231 |
-| Players | 6/8 |
-| Host Name | Mr. Mamix228 |
+| Host Name | MagiskeMogens |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:57:52 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:57:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541432078964 |
+| Players | 3/24 |
+| Host Name | Sniper Handal |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:58:03 |
 
 
 |  | epic_boss_fight_nightmare |
