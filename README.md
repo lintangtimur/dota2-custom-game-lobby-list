@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541596860359 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | MICK MACK |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 00:44:43 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:28:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541593203296 |
-| Players | 7/8 |
-| Host Name | C A P I T A N |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:40:49 |
+| Lobby ID | 28576541597285786 |
+| Players | 1/24 |
+| Host Name | Gorthaur the Cruel |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 00:45:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541596963741 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Super Position |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:44:50 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:44:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541596677798 |
-| Players | 6/10 |
-| Host Name | 𝐿𝑒𝑔𝑒𝓃𝒹 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:44:31 |
+| Lobby ID | 28576541595564552 |
+| Players | 12/24 |
+| Host Name | Sandro |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 00:43:20 |
 
 
 |  | ot3_gardens_duo |
@@ -76,20 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541597004786 |
-| Players | 4/8 |
-| Host Name | mode: Анлаки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 00:44:52 |
+| Lobby ID | 28576541597285136 |
+| Players | 1/8 |
+| Host Name | i carried more animals than noah |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 00:45:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541595564552 |
-| Players | 11/24 |
-| Host Name | Sandro |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 00:43:20 |
+| Lobby ID | 28576541597285471 |
+| Players | 3/10 |
+| Host Name | Иноске |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:45:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tisay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:44:04 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576541597281993 |
+| Players | 1/7 |
+| Host Name | ホワイト |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:45:10 |
 
 
