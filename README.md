@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541389439873 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 51 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:18:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541396973791 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | YouKnowMyName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:25:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541401249610 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | merho |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:29:31 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541401565492 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | гритос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:29:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541401165241 |
-| Players | 6/8 |
-| Host Name | Dandikiller |
+| Lobby ID | 28576541402279278 |
+| Players | 2/15 |
+| Host Name | Zunka |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:29:27 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:30:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:30:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541401917813 |
-| Players | 6/10 |
-| Host Name | кабачочек |
+| Lobby ID | 28576541402267175 |
+| Players | 1/8 |
+| Host Name | STEN_LAKEC |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:30:08 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:30:27 |
 
 
 |  | epic_boss_fight_nightmare |
