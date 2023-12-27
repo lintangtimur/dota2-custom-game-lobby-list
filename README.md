@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541369516256 |
-| Players | 12/15 |
-| Host Name | DN |
+| Lobby ID | 28576541370423213 |
+| Players | 1/15 |
+| Host Name | 千本桜かげよし |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:00:40 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:01:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541369571574 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Олег |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:00:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541367779584 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Tamiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:59:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541366863591 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Soup |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:58:17 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541370153724 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | truly humble under god |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:01:15 |
@@ -112,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541366933035 |
-| Players | 9/10 |
-| Host Name | EpicBossFightEnjoyer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:58:21 |
+| Lobby ID | 28576541370464174 |
+| Players | 1/10 |
+| Host Name | Mi-go |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:01:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541370468966 |
+| Players | 1/5 |
+| Host Name | Хайнц Фуфелшмерт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:01:32 |
 
 
