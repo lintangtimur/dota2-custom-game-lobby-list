@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541382724657 |
-| Players | 10/15 |
-| Host Name | dance w/me |
+| Lobby ID | 28576541383282704 |
+| Players | 2/15 |
+| Host Name | Chofu, Tokyo, Japan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:12:46 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:13:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541361346455 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | SIX NALL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:53:15 |
@@ -74,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:11:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541381853277 |
+| Players | 13/15 |
+| Host Name | naswuai崩壊 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:11:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541383319916 |
+| Players | 1/15 |
+| Host Name | DDDSD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:13:18 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541382470769 |
-| Players | 1/8 |
-| Host Name | раком саком |
+| Lobby ID | 28576541383327908 |
+| Players | 4/8 |
+| Host Name | RODJ3R |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:12:32 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:13:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,30 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:09:59 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576541380243411 |
-| Players | 9/10 |
-| Host Name | ♂ I'm Performance Artist ♂ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:10:30 |
+| Lobby ID | 28576541382926211 |
+| Players | 1/5 |
+| Host Name | Мамут Рахал |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:12:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541380799732 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | LEE kwang SOO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:11:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541382926211 |
-| Players | 2/5 |
-| Host Name | Мамут Рахал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:12:57 |
 
 
