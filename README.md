@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:32:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541224933188 |
-| Players | 11/15 |
-| Host Name | Darki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:32:06 |
+| Lobby ID | 28576541225651122 |
+| Players | 3/8 |
+| Host Name | Liang Po |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:32:59 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:32:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541225651122 |
-| Players | 1/8 |
-| Host Name | Liang Po |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:32:59 |
+| Lobby ID | 28576541225988629 |
+| Players | 1/15 |
+| Host Name | ur the moon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:33:25 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541225515927 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Zik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:32:49 |
