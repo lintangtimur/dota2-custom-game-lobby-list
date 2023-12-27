@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541663078552 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | TaLaNt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:57:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541663143723 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Чернобаев |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 01:57:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541662290067 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | EPEEB.giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:56:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541662825747 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | MakimaGOD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:57:10 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 01:56:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541662744433 |
-| Players | 2/8 |
-| Host Name | мама звонит |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 01:57:05 |
+| Lobby ID | 28576541663571672 |
+| Players | 9/10 |
+| Host Name | Homicide |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 01:58:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 01:57:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541663642621 |
-| Players | 12/15 |
-| Host Name | sonec |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 01:58:05 |
+| Lobby ID | 28576541663891201 |
+| Players | 2/10 |
+| Host Name | asd |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 01:58:22 |
 
 
 |  | epic_boss_fight_nightmare |
