@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541711831904 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ensalada de carne |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:53:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541700966614 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Truck-kun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:40:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541706841957 |
-| Players | 18/24 |
+| Players | 16/24 |
 | Host Name | AleJandro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:47:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541713624662 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Raureif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:55:35 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541713236150 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | HG |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:55:07 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541713598738 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ленс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:55:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541713711243 |
-| Players | 1/15 |
-| Host Name | Summer-_-Wars |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:55:41 |
+| Lobby ID | 28576541713843213 |
+| Players | 3/8 |
+| Host Name | >Танюша< |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:55:50 |
 
 
 |  | epic_boss_fight_normal |
@@ -146,12 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:52:21 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576541713627413 |
-| Players | 1/10 |
+| Lobby ID | 28576541713834169 |
+| Players | 1/5 |
 | Host Name | Tonald Drump |
 | Region | INDIA |
-| Lobby Creation Time | Thursday, December 28, 2023 02:55:35 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:55:50 |
 
 
