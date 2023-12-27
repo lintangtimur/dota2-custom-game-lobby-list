@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541850681506 |
-| Players | 5/10 |
-| Host Name | Mr.Popo |
+| Lobby ID | 28576541850977073 |
+| Players | 3/15 |
+| Host Name | Dazzle |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 06:17:16 |
+| Lobby Creation Time | Thursday, December 28, 2023 06:17:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541850570620 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | ⛥ igrushka otchima hate |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:17:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541850467947 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Atomic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:16:52 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541850970434 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | ZUKAZAKA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:17:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541850977073 |
-| Players | 3/15 |
-| Host Name | Dazzle |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 06:17:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541851000707 |
-| Players | 1/24 |
-| Host Name | Ro - aLFa |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 06:17:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -121,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541850971566 |
+| Lobby ID | 28576541851061175 |
 | Players | 1/10 |
 | Host Name | Исмир с Севера |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:17:49 |
+| Lobby Creation Time | Thursday, December 28, 2023 06:17:59 |
 
 
