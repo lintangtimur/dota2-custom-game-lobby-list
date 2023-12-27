@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:25:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541185593202 |
-| Players | 7/8 |
-| Host Name | lost in the supermarket |
+| Lobby ID | 28576541187112391 |
+| Players | 6/15 |
+| Host Name | Agent P |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:38:40 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:40:57 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541184124742 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:36:26 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:38:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541186287192 |
-| Players | 13/15 |
-| Host Name | Vanished |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:39:43 |
+| Lobby ID | 28576541186734353 |
+| Players | 1/8 |
+| Host Name | Игорь Афанасьев |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:40:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,28 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:40:25 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541186734353 |
-| Players | 1/8 |
-| Host Name | Игорь Афанасьев |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:40:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541187112391 |
-| Players | 3/15 |
-| Host Name | Agent P |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:40:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541184814335 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | astraldreamer ♥ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:37:28 |
