@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541740061293 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Lion |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:28:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541718232755 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | SMOKE WEED EVERYDAY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:01:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541737277458 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | AleJandro |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:24:29 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 03:27:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541739518595 |
-| Players | 4/8 |
-| Host Name | Mikage(pick AM=ruin) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:27:19 |
+| Lobby ID | 28576541739652721 |
+| Players | 9/10 |
+| Host Name | Angel |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 03:27:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,17 +85,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541739652721 |
-| Players | 8/10 |
-| Host Name | Angel |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 03:27:29 |
+| Lobby ID | 28576541739895368 |
+| Players | 9/10 |
+| Host Name | VRODE LENS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 03:27:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541740508865 |
+| Players | 1/8 |
+| Host Name | ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 03:28:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541740495416 |
+| Players | 3/8 |
+| Host Name | ccg employee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 03:28:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541739518595 |
+| Players | 4/8 |
+| Host Name | Mikage(pick AM=ruin) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 03:27:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541731537472 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | GAGA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:17:23 |
@@ -108,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MaZilla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:27:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541740147498 |
-| Players | 1/10 |
-| Host Name | Не чушпан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:28:07 |
 
 
