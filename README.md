@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541781412398 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | skkkkkkr |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541781486201 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:31 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541781566709 |
-| Players | 7/15 |
-| Host Name | Hurricane in your eyes |
+| Players | 1/15 |
+| Host Name | Gryaznovarz |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:38 |
 
@@ -95,18 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541781772261 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Watermelon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541776707866 |
+| Players | 11/15 |
+| Host Name | ChiboloIlegal |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, December 28, 2023 04:16:47 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541779687284 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | SakalFTW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:20:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541781881853 |
+| Players | 1/10 |
+| Host Name | Sakata Gintoki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 04:24:05 |
 
 
