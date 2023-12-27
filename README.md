@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541467734338 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | SIX NALL |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:32:10 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541471381834 |
-| Players | 5/8 |
-| Host Name | colder than corpse |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:35:44 |
+| Lobby ID | 28576541474307635 |
+| Players | 2/8 |
+| Host Name | SkitZur |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:38:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541473838178 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | slon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:38:09 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541472990026 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | meeow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:37:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541473344339 |
-| Players | 23/24 |
-| Host Name | Nerfstyle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:37:39 |
+| Lobby ID | 28576541474492154 |
+| Players | 3/15 |
+| Host Name | Ęблунтик |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:38:48 |
 
 
 |  | ot3_desert_octet |
@@ -99,33 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | rebel xx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:37:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541474152001 |
-| Players | 8/15 |
-| Host Name | Iraya |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:38:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541469138316 |
-| Players | 7/8 |
-| Host Name | Jigsaw |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:33:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541474307635 |
-| Players | 1/8 |
-| Host Name | SkitZur |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:38:37 |
 
 
 |  | epic_boss_fight_nightmare |
