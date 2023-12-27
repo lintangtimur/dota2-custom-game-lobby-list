@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541805166678 |
-| Players | 5/8 |
-| Host Name | Malboro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:58:52 |
+| Lobby ID | 28576541805753867 |
+| Players | 2/10 |
+| Host Name | 202 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 04:59:48 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541805575496 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | M.R-YoEL |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:59:31 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:57:45 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541804662361 |
-| Players | 19/24 |
-| Host Name | zeta zeta |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 04:58:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541805534275 |
-| Players | 9/15 |
-| Host Name | Вагиклин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:59:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541805760872 |
@@ -101,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:59:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541805753867 |
-| Players | 2/10 |
-| Host Name | 202 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:59:48 |
+| Lobby ID | 28576541805534275 |
+| Players | 12/15 |
+| Host Name | Вагиклин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 04:59:27 |
 
 
 |  | epic_boss_fight_nightmare |
