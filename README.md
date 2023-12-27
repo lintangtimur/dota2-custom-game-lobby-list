@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:25:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541521002123 |
-| Players | 2/8 |
-| Host Name | Mr. Miyagi |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:25:10 |
+| Lobby ID | 28576541521859314 |
+| Players | 1/15 |
+| Host Name | PMA |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:26:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541518913297 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | SE NECESITA DAMA DE COMPAÑIA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:23:02 |
@@ -50,19 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541521509523 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:25:41 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541521911433 |
+| Players | 5/10 |
+| Host Name | eydzoku |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:26:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541521765850 |
+| Players | 2/10 |
+| Host Name | Аллах Пидор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:25:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541521858442 |
+| Players | 6/8 |
+| Host Name | Маленький принц |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:26:02 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541521563591 |
-| Players | 8/15 |
-| Host Name | rapu ( ͡° ͜ʖ ͡°) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:25:44 |
+| Lobby ID | 28576541521925442 |
+| Players | 2/15 |
+| Host Name | хрящевой перелом |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:26:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541520677508 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | DJIGEN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:24:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541521858284 |
+| Players | 2/5 |
+| Host Name | PANDA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:26:02 |
 
 
