@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541242392750 |
-| Players | 5/8 |
-| Host Name | пятая деда |
+| Lobby ID | 28576541242418655 |
+| Players | 3/8 |
+| Host Name | yoru |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:53:21 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:53:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541241849535 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:52:42 |
@@ -41,28 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541242011176 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | dlkao |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:52:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541241247727 |
-| Players | 6/24 |
-| Host Name | ℍ𝕒𝕡𝕡𝕪 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:52:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541241119699 |
-| Players | 14/15 |
-| Host Name | NZU |
+| Lobby ID | 28576541242856049 |
+| Players | 1/8 |
+| Host Name | all mute |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:51:51 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:53:54 |
 
 
 |  | ot3_gardens_duo |
@@ -74,21 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:52:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541242346342 |
-| Players | 4/8 |
-| Host Name | Lorf |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:53:18 |
+| Lobby ID | 28576541242482939 |
+| Players | 7/15 |
+| Host Name | Gialias |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:53:27 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576541240284706 |
+| Lobby ID | 28576541242583755 |
 | Players | 2/5 |
-| Host Name | Взаимная Похвала |
+| Host Name | EP |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:50:52 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:53:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541242770930 |
+| Players | 3/5 |
+| Host Name | 運Cortar niños Filipinos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:53:48 |
 
 
