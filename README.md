@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:25:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541221118511 |
-| Players | 14/15 |
-| Host Name | •● ZaGg ●• |
+| Lobby ID | 28576541221855911 |
+| Players | 2/8 |
+| Host Name | Ряд Фурье |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:27:20 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:28:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541119374828 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | [Sir].BaNooBaBus Hairyman The2nd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 15:51:05 |
@@ -41,25 +41,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541221614443 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:27:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541221855911 |
-| Players | 1/8 |
-| Host Name | Ряд Фурье |
+| Lobby ID | 28576541221959754 |
+| Players | 1/15 |
+| Host Name | ахъахах=ахахах |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:28:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541221985878 |
+| Players | 1/10 |
+| Host Name | idc |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:28:16 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:28:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541214885637 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Dobro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:19:23 |
