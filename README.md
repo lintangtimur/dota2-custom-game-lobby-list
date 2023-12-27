@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541793328459 |
-| Players | 14/15 |
-| Host Name | LD. YUYA |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 04:40:49 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541793522152 |
-| Players | 7/10 |
-| Host Name | анархист с сайгой |
+| Lobby ID | 28576541794062496 |
+| Players | 6/10 |
+| Host Name | Positive- |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 04:41:06 |
+| Lobby Creation Time | Thursday, December 28, 2023 04:41:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541794132141 |
+| Players | 1/15 |
+| Host Name | NIKÃO BODYBUILDER |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 04:42:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541793218701 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:40:39 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541793195588 |
-| Players | 9/10 |
-| Host Name | С_ПЛАНОМ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:40:37 |
+| Lobby ID | 28576541793958347 |
+| Players | 6/10 |
+| Host Name | aRg. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 04:41:46 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541781818342 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | 偷月亮的猫 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:59 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541792572607 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | MiKchero |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:39:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541793958347 |
-| Players | 4/10 |
-| Host Name | aRg. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:41:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541794062496 |
-| Players | 6/10 |
-| Host Name | Positive- |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 04:41:55 |
 
 
 |  | epic_boss_fight_nightmare |
