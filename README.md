@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541357934042 |
-| Players | 2/10 |
-| Host Name | Aposentado |
+| Players | 1/10 |
+| Host Name | DX |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:50:08 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541369516256 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | DN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:00:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541369571574 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Олег |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:00:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541367779584 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Tamiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:59:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541366863591 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Soup |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:58:17 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541369301966 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MIRROOOOOX 2.0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:00:29 |
