@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 03:29:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541626647736 |
-| Players | 20/24 |
-| Host Name | EL RENACIDO |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
+| Lobby ID | 28576541744188303 |
+| Players | 2/15 |
+| Host Name | QQlity |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 03:33:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541741658751 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | UncleVit0 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:30:02 |
@@ -68,36 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541743960133 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Jerry_Du_09 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:32:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541731537472 |
-| Players | 1/10 |
-| Host Name | YoNPe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:17:23 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541743485416 |
-| Players | 5/10 |
-| Host Name | Bone |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:32:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541743935098 |
-| Players | 2/5 |
-| Host Name | chipichipi/chapachapa |
+| Lobby ID | 28576541744288337 |
+| Players | 1/15 |
+| Host Name | MaestroDie |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:32:54 |
+| Lobby Creation Time | Thursday, December 28, 2023 03:33:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541744247968 |
+| Players | 1/8 |
+| Host Name | Frince Charming |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:33:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541744296965 |
+| Players | 1/8 |
+| Host Name | трубодур абрамов |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:33:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541744292284 |
+| Players | 1/24 |
+| Host Name | Sasaum |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 03:33:21 |
 
 
