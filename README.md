@@ -22,26 +22,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541768797316 |
-| Players | 1/15 |
-| Host Name | X-FResh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:05:44 |
+| Lobby ID | 28576541776613213 |
+| Players | 6/15 |
+| Host Name | funny man |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 04:16:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541771840866 |
-| Players | 22/24 |
-| Host Name | Ostapi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:09:58 |
+| Lobby ID | 28576541773728610 |
+| Players | 3/24 |
+| Host Name | Melon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 04:12:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541776410187 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | ACF136 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:16:22 |
@@ -56,37 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:15:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541773728610 |
-| Players | 3/24 |
-| Host Name | Melon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:12:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541776466272 |
-| Players | 3/8 |
-| Host Name | Shakuraas |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:16:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541776344428 |
-| Players | 7/15 |
-| Host Name | ONE DYPAK, LERО4KA TOP |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:16:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541776367441 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Mi Betchi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 04:16:19 |
