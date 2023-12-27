@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:41:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541346065444 |
-| Players | 7/10 |
-| Host Name | r1val |
+| Lobby ID | 28576541349545619 |
+| Players | 1/8 |
+| Host Name | Lundark |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:39:11 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:42:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541348955742 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | ded |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:41:54 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576541349275612 |
 | Players | 8/15 |
-| Host Name | JustinTimbersaw |
+| Host Name | DJ life |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:42:12 |
 
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541349288298 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Anyway |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:42:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541349545619 |
-| Players | 1/8 |
-| Host Name | Lundark |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:42:27 |
 
 
 |  | epic_boss_fight_nightmare |
