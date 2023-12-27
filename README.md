@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541386676941 |
-| Players | 8/10 |
-| Host Name | похуй если че |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:16:20 |
+| Lobby ID | 28576541386971855 |
+| Players | 11/15 |
+| Host Name | Grey Blue |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:16:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541386426997 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | nV- |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:16:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541375333626 |
-| Players | 1/15 |
-| Host Name | Dude |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:05:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541386971855 |
-| Players | 2/15 |
-| Host Name | Grey Blue |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:16:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:16:40 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541387411657 |
+| Players | 1/8 |
+| Host Name | Gibbs |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:17:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541384006590 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | RMP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:13:54 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shiro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:16:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541387455571 |
+| Players | 1/5 |
+| Host Name | RINGO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:17:02 |
 
 
