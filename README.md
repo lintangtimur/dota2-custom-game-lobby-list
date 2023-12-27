@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541809882798 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | .MT. |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 05:06:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541813020517 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Яж Гуевреев |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:11:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541781818342 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541813015968 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | субординация |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:11:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541812987503 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | QUE RICO APRIETAS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:11:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541813218491 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | rampi |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:11:42 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YO ERA GOZU HASTA QUE ME ENAMORE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:11:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541813369400 |
+| Players | 1/8 |
+| Host Name | MuShi- 雨 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:11:57 |
 
 
 |  | epic_boss_fight_normal |
