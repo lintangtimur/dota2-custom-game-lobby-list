@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541391680125 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | L'ost |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:20:51 |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:18:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541389493456 |
-| Players | 7/8 |
-| Host Name | ROCK HARD |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:18:53 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541387533606 |
-| Players | 21/24 |
-| Host Name | GrandPa |
+| Lobby ID | 28576541393223728 |
+| Players | 1/24 |
+| Host Name | torkotor |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:22:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541393225752 |
+| Players | 5/8 |
+| Host Name | nowhale |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:17:07 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:22:14 |
 
 
 |  | ot3_desert_octet |
@@ -59,18 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541392825705 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | SAIATNOVA |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:21:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541393252002 |
+| Players | 1/8 |
+| Host Name | Dereck Zoolander. |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:22:16 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541393007324 |
-| Players | 9/15 |
-| Host Name | UY Scuti |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:22:03 |
+| Lobby ID | 28576541393327257 |
+| Players | 1/15 |
+| Host Name | Lulzorness |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:22:20 |
 
 
