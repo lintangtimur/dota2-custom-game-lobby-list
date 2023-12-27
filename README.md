@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541228342459 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:36:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541226894484 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | razengan2601 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:34:33 |
@@ -38,40 +38,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:19:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541233210786 |
-| Players | 14/15 |
-| Host Name | Khorinmaru ❤ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:42:27 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541231303810 |
-| Players | 2/10 |
+| Lobby ID | 28576541234067298 |
+| Players | 5/10 |
 | Host Name | Shevrassa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:40:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541231285436 |
-| Players | 8/10 |
-| Host Name | ZaaL |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:40:05 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:43:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541233808504 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | froz645 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:43:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541233945424 |
+| Players | 10/15 |
+| Host Name | Mrzzzzzzz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:43:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541234423659 |
+| Players | 1/10 |
+| Host Name | lost in the supermarket |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:43:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | numcaps |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:42:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541234269585 |
+| Players | 2/10 |
+| Host Name | SUP IS MY LIFE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:43:44 |
 
 
