@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541274143904 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | MaleVegan |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:28:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541274767034 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | УДАЛИ ДОТУ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:29:19 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:26:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541275088677 |
-| Players | 23/24 |
-| Host Name | 月老離職，財神管姻緣 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:29:39 |
+| Lobby ID | 28576541276226483 |
+| Players | 1/8 |
+| Host Name | but I'm trying |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:30:51 |
 
 
 |  | ot3_desert_octet |
@@ -83,31 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:26:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541275556749 |
-| Players | 7/8 |
-| Host Name | Не забудем Ералаша |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:30:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541275518470 |
-| Players | 12/15 |
-| Host Name | adrenaline |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:30:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541276226483 |
-| Players | 1/8 |
-| Host Name | but I'm trying |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:30:51 |
+| Lobby ID | 28576541276425431 |
+| Players | 1/24 |
+| Host Name | 米粉 |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:31:04 |
 
 
 |  | epic_boss_fight_nightmare |
