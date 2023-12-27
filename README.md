@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541329824270 |
-| Players | 6/8 |
-| Host Name | Swap commends |
+| Lobby ID | 28576541329204987 |
+| Players | 12/15 |
+| Host Name | Итальянский Карт |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:23:52 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:23:17 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541330052350 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | папа я дрочу |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:24:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541325805619 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ЛиСёНоК ПиПо) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:20:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541329884807 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Aloha Akbar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:23:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541330532016 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Harry Podchill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:24:32 |
@@ -94,29 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541330598256 |
-| Players | 4/8 |
-| Host Name | %путь пива% |
+| Lobby ID | 28576541330795384 |
+| Players | 1/8 |
+| Host Name | МаГиЧеСкОе НеВеЖеСтВо |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:24:35 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:24:47 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28576541329314237 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Amazon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:23:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541329235517 |
-| Players | 1/5 |
-| Host Name | Ghostpdd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:23:19 |
 
 
 |  | epic_boss_fight_nightmare |
