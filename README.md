@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541775198668 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | +7(952)812 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:14:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541771840866 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Ostapi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:09:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541773559624 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:12:25 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541775453515 |
-| Players | 9/10 |
-| Host Name | WAKE UP ХУЕСОСЫ |
+| Lobby ID | 28576541775604241 |
+| Players | 2/10 |
+| Host Name | TSecret.世界一 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:15:01 |
+| Lobby Creation Time | Thursday, December 28, 2023 04:15:14 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541775420156 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | vladkyd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:14:58 |
@@ -85,28 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541775120756 |
-| Players | 1/8 |
-| Host Name | POZNAI KOI E |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:14:34 |
+| Lobby ID | 28576541775661870 |
+| Players | 2/8 |
+| Host Name | Mastertinz |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 04:15:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541774444327 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | The Suspect |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:13:37 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541775445080 |
-| Players | 3/5 |
-| Host Name | RksmeN^++ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:15:01 |
 
 
