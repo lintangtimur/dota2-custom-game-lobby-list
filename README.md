@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541204630206 |
-| Players | 14/15 |
-| Host Name | 1337 Неко |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:05:40 |
+| Lobby ID | 28576541197512063 |
+| Players | 12/15 |
+| Host Name | Novasiphon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:55:47 |
 
 
 |  | ot3_desert_octet |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:07:01 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541197512063 |
-| Players | 14/15 |
-| Host Name | Novasiphon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:55:47 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541202002977 |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ADRENALINe |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:02:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541205885603 |
+| Players | 1/10 |
+| Host Name | Hey What Happened |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:07:22 |
 
 
