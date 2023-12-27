@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541387583763 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Dude |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:17:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541387533606 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | GrandPa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:17:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541386426997 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | nV- |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:16:06 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541389493456 |
+| Lobby ID | 28576541390341516 |
 | Players | 5/8 |
-| Host Name | ROCK HARD |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:18:53 |
+| Host Name | froz645 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:19:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541387993179 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | 四个倒霉蛋与五个幸运儿 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:17:32 |
@@ -76,47 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541389759784 |
-| Players | 2/10 |
-| Host Name | 52 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:19:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541388348451 |
-| Players | 2/24 |
-| Host Name | NapoleonTD |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:17:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541389587652 |
-| Players | 9/15 |
-| Host Name | сливок общества |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:18:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28576541389439873 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Sargent_pepper4 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:18:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541389769722 |
-| Players | 2/8 |
-| Host Name | оник |
+| Lobby ID | 28576541390570124 |
+| Players | 4/15 |
+| Host Name | TK.УЛЬТРА СОЛЕВОЙ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:19:08 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:19:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541373165832 |
+| Players | 7/10 |
+| Host Name | Akeno Gremory |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:03:59 |
 
 
 |  | epic_boss_fight_nightmare |
