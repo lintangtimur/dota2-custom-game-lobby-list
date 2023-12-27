@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541177699357 |
-| Players | 14/15 |
-| Host Name | Руся в деле |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:26:52 |
+| Lobby ID | 28576541179970486 |
+| Players | 1/15 |
+| Host Name | 毒毒毒毒毒 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:30:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541177653781 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Coal Collector |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:26:47 |
@@ -45,6 +45,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Первая кровь |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:25:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541179900226 |
+| Players | 3/10 |
+| Host Name | ウチハ-オビト |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:30:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541179906008 |
+| Players | 1/10 |
+| Host Name | Бейни Геров |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:30:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541179933625 |
+| Players | 3/8 |
+| Host Name | ZIvan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:30:12 |
 
 
 |  | epic_boss_fight_nightmare |
