@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541627083150 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | EGIRLSLUVME |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:31 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541626990366 |
-| Players | 9/10 |
-| Host Name | idc |
+| Lobby ID | 28576541627686345 |
+| Players | 3/10 |
+| Host Name | Makerka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 01:17:24 |
+| Lobby Creation Time | Thursday, December 28, 2023 01:18:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541622504582 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | ICE BEAR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 01:12:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541626806101 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Feminist parker |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:12 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541627175583 |
-| Players | 6/8 |
-| Host Name | Леха |
+| Players | 4/8 |
+| Host Name | Ir[A] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:37 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541626926849 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | 失踪的宇航员 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:20 |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541627082848 |
-| Players | 11/15 |
-| Host Name | Типочек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 01:17:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28576541627347973 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Клей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541627689462 |
+| Players | 1/10 |
+| Host Name | Kentaro Murata 迪克 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 01:18:10 |
 
 
 |  | epic_boss_fight_nightmare |
