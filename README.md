@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:22:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541176591369 |
-| Players | 2/10 |
-| Host Name | Белоснежный кайф |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:25:11 |
+| Lobby ID | 28576541177000464 |
+| Players | 12/15 |
+| Host Name | L9 RayCist Glider |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:25:49 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541165151465 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:07:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541177056387 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Fe"Nik"s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:25:54 |
@@ -59,46 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541176726069 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | WoodyPlant |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:25:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541176992339 |
-| Players | 1/24 |
-| Host Name | EpicBossFightEnjoyer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:25:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541177000464 |
-| Players | 12/15 |
-| Host Name | L9 RayCist Glider |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:25:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541175708536 |
-| Players | 14/15 |
-| Host Name | katrinn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:23:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541175918439 |
-| Players | 9/10 |
-| Host Name | 11 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:24:11 |
 
 
 |  | epic_boss_fight_nightmare |
