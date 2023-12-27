@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541235970895 |
-| Players | 2/15 |
-| Host Name | 9mice |
+| Players | 4/15 |
+| Host Name | Гинеколог-шахтер |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:45:46 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541235862886 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Daisy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:45:39 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541235722511 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 1. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:45:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541236361558 |
-| Players | 12/15 |
-| Host Name | Byratino |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:46:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541236684736 |
-| Players | 1/8 |
-| Host Name | . |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:46:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:46:42 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541236684736 |
+| Players | 1/8 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:46:37 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541233509757 |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | numcaps |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:42:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541237214755 |
+| Players | 1/5 |
+| Host Name | Mythical |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:47:16 |
 
 
