@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541595358026 |
-| Players | 5/8 |
-| Host Name | lost in the supermarket |
+| Players | 2/8 |
+| Host Name | Bullseye |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:43:07 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541595723956 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | HowDareYou |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:43:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541593353463 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | DYOR |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:40:59 |
@@ -86,9 +86,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541595564552 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Sandro |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 00:43:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541595794654 |
+| Players | 2/10 |
+| Host Name | allcash sss+ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:43:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541595813607 |
+| Players | 1/10 |
+| Host Name | JerryLee |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 00:43:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541592403270 |
+| Players | 14/15 |
+| Host Name | El Rompe Discotekas-影 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 00:39:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541595831459 |
+| Players | 2/10 |
+| Host Name | KURS DOLLARA™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:43:37 |
 
 
