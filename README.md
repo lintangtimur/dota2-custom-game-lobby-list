@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541573890736 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | nil |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:20:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541574601542 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | кунфу падла |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 00:20:56 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541571210006 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | izi pipilin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 00:17:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541574820782 |
-| Players | 2/15 |
-| Host Name | humilde-humano |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:21:09 |
+| Lobby ID | 28576541574157361 |
+| Players | 5/8 |
+| Host Name | LIGHTWEIGHT BABY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:20:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541574017082 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | Gorthaur the Cruel |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:20:19 |
@@ -65,13 +65,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:19:59 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541575213167 |
+| Players | 2/10 |
+| Host Name | залупечка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:21:34 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541574157361 |
-| Players | 5/8 |
-| Host Name | LIGHTWEIGHT BABY |
+| Lobby ID | 28576541575238175 |
+| Players | 1/8 |
+| Host Name | Be Grateful |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 00:21:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541575256625 |
+| Players | 1/15 |
+| Host Name | tom.pzdc |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 28, 2023 00:21:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541575260090 |
+| Players | 5/15 |
+| Host Name | KAMAZGOVNA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 00:20:28 |
+| Lobby Creation Time | Thursday, December 28, 2023 00:21:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541572020046 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Гнев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:18:13 |
