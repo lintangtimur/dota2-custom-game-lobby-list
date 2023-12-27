@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541290715860 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Сварщик-3godota2.com |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:45:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541290710935 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Khorinmaru ❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:45:55 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Buscador de las almas perdidas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:45:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541291129743 |
+| Players | 1/8 |
+| Host Name | Guitir |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:46:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541291118863 |
+| Players | 1/8 |
+| Host Name | SO/\O |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:46:20 |
 
 
 |  | epic_boss_fight_nightmare |
