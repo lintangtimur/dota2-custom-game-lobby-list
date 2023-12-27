@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541197512063 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Novasiphon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:55:47 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541200685292 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | :( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:00:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541200685022 |
-| Players | 2/8 |
-| Host Name | Смокунчик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:00:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541201188444 |
-| Players | 3/8 |
-| Host Name | Секс ферма эльфов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:00:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:59:08 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541201188444 |
+| Players | 3/8 |
+| Host Name | Секс ферма эльфов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:00:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541200401555 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mr.Henky |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:59:50 |
