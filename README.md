@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541718232755 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Bniuoas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:01:07 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541728826828 |
-| Players | 14/15 |
-| Host Name | ghost rider |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 03:14:05 |
+| Lobby ID | 28576541730615608 |
+| Players | 4/15 |
+| Host Name | smaCkD |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:16:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541730586836 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | SOLO |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:16:12 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541730085931 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Голубок |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:15:36 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541730512852 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | MX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:16:07 |
@@ -144,24 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FAN DE EG DEL 2015😡 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:15:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541730260083 |
-| Players | 7/8 |
-| Host Name | Птицы идут |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:15:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541730615608 |
-| Players | 3/15 |
-| Host Name | smaCkD |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:16:14 |
 
 
 |  | epic_boss_fight_nightmare |
