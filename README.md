@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541671331567 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Makerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:06:45 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541671193339 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | julie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:06:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541670499236 |
-| Players | 7/8 |
-| Host Name | uncultured swine |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:05:48 |
+| Lobby ID | 28576541671529664 |
+| Players | 7/15 |
+| Host Name | MieliePap |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:06:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541668433422 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | MAPACHE_$INC0LA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:03:28 |
@@ -83,40 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:06:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541671529664 |
-| Players | 2/15 |
-| Host Name | xxx? |
+| Lobby ID | 28576541671686139 |
+| Players | 1/8 |
+| Host Name | mq/A/ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:06:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541671536071 |
-| Players | 1/15 |
-| Host Name | burN- |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:06:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541670684838 |
-| Players | 1/10 |
-| Host Name | ggwp |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 02:06:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541670551848 |
-| Players | 8/10 |
-| Host Name | Kendrick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:05:52 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:07:09 |
 
 
 |  | epic_boss_fight_normal |
