@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541809882798 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | .MT. |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 05:06:17 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:07:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541811571025 |
-| Players | 5/10 |
-| Host Name | Delusion |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 05:08:59 |
+| Lobby ID | 28576541812127578 |
+| Players | 6/15 |
+| Host Name | 100% |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:09:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541810329425 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | yn252 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:07:00 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:08:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541810735164 |
-| Players | 9/10 |
-| Host Name | максим пуля |
+| Lobby ID | 28576541812216767 |
+| Players | 1/24 |
+| Host Name | Tangerine |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 05:10:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541812235131 |
+| Players | 1/8 |
+| Host Name | prostate |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:07:38 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:10:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -125,15 +134,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 2/7 |
 | Host Name | Holmes |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:09:46 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541812044427 |
-| Players | 1/5 |
-| Host Name | Puding |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:09:46 |
 
 
