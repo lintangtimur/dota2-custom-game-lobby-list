@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541862350343 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 06:40:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541863820560 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | РУКОПАШНЫЙ СЕКС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:43:18 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541863754114 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Chad Thundercock |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:43:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541864089212 |
+| Players | 1/8 |
+| Host Name | perfect world player |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:43:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541864183278 |
+| Players | 4/8 |
+| Host Name | Mode:Великий уксус |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:44:00 |
 
 
 |  | epic_boss_fight_nightmare |
