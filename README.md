@@ -32,37 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541205280176 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | What a Dragg! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:06:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541208098677 |
-| Players | 7/8 |
-| Host Name | マーシャル |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:10:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541207351237 |
-| Players | 13/15 |
-| Host Name | ReMez |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:09:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541208463297 |
-| Players | 4/10 |
-| Host Name | 993+7? |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:10:58 |
 
 
 |  | ot3_desert_octet |
@@ -74,21 +47,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:11:04 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541208463297 |
+| Players | 4/10 |
+| Host Name | 993+7? |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:10:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541208676341 |
+| Players | 1/15 |
+| Host Name | PUTIN WORLD PRESIDENT |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:11:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541208699838 |
+| Players | 1/10 |
+| Host Name | Iunik |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:11:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541206242919 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Mr.Henky |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:07:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541208547329 |
-| Players | 3/5 |
-| Host Name | Sun4us |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:11:05 |
 
 
