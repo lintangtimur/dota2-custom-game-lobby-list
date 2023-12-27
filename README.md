@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541725847560 |
-| Players | 13/15 |
-| Host Name | Johan Pohan |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:10:25 |
+| Lobby ID | 28576541725915063 |
+| Players | 5/10 |
+| Host Name | We love |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 03:10:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541723895554 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | tilt queue enjoyer |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:07:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541725183269 |
-| Players | 9/15 |
+| Players | 6/15 |
 | Host Name | McDi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:09:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541724983980 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ♪ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:09:20 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 03:10:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541725915063 |
-| Players | 2/10 |
-| Host Name | We love |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 03:10:30 |
+| Lobby ID | 28576541726446553 |
+| Players | 1/8 |
+| Host Name | чукчарэла |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:11:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | M-khan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 03:05:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541726410326 |
-| Players | 1/10 |
-| Host Name | Vin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:11:07 |
 
 
