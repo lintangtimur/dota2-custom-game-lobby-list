@@ -5,28 +5,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541828115605 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | kaiser^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:36:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541828018090 |
-| Players | 9/10 |
-| Host Name | harty part |
+| Lobby ID | 28576541828305469 |
+| Players | 2/15 |
+| Host Name | Grey Blue |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:36:10 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:36:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541827269931 |
-| Players | 2/24 |
-| Host Name | Nox |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:34:54 |
+| Lobby ID | 28576541828493239 |
+| Players | 3/8 |
+| Host Name | PUPS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:36:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541826926246 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Fox |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:34:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541828062904 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Frozen |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:36:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541827461932 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | TypicalTN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:35:13 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:32:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541828305469 |
-| Players | 4/15 |
-| Host Name | HIT |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:36:40 |
 
 
 |  | epic_boss_fight_normal |
