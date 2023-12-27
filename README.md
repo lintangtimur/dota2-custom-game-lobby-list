@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541718509603 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | KHAN ZAMAY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:01:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541718121247 |
-| Players | 7/8 |
-| Host Name | Рибка_із_Зубами |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:00:59 |
+| Lobby ID | 28576541711831904 |
+| Players | 8/15 |
+| Host Name | GG Namas cholos |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 02:53:26 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541626647736 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | E R O S |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541715054988 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:57:17 |
@@ -122,27 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541718487076 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | тень |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:01:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541711831904 |
-| Players | 8/15 |
-| Host Name | GG Namas cholos |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:53:26 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576541719003084 |
+| Lobby ID | 28576541719114825 |
 | Players | 1/5 |
 | Host Name | 4MORT |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:02:03 |
+| Lobby Creation Time | Thursday, December 28, 2023 03:02:11 |
 
 
