@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541684909502 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Eduardo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:22:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541683737796 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:20:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541626647736 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541684976186 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Toji |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:22:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541682675965 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | TaLaNt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:19:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541685323009 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | M_C |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:22:33 |
@@ -86,10 +86,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541685865682 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | kkaranlamba |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:23:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541685989941 |
+| Players | 3/8 |
+| Host Name | Геннадий Треев |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:23:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541685952317 |
+| Players | 3/10 |
+| Host Name | Homicide |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:23:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541686015448 |
+| Players | 2/24 |
+| Host Name | Immortality |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:23:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541686022738 |
+| Players | 1/8 |
+| Host Name | MEGURU |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 02:23:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541686051636 |
+| Players | 6/8 |
+| Host Name | Владелец ЦУМА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:23:22 |
 
 
 |  | epic_boss_fight_nightmare |
