@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541818541189 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | Kazune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:20:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541781818342 |
-| Players | 5/15 |
+| Players | 2/15 |
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541823558356 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | ieagtonrns |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:28:37 |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:29:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541825066609 |
-| Players | 13/15 |
-| Host Name | reVerse |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:31:10 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541825268268 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Ведьмак из Костромы |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:31:30 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Raizel |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:31:33 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541825630004 |
+| Players | 1/5 |
+| Host Name | forever |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:32:07 |
 
 
