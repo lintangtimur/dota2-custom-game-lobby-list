@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541436540866 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | Eye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:02:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541439554005 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | инспектор пива |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:05:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541434171655 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | EsKunG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:00:01 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 22:05:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541439376122 |
-| Players | 12/15 |
-| Host Name | КОН ЧИ в меня |
+| Lobby ID | 28576541440121812 |
+| Players | 1/24 |
+| Host Name | Kori❄♡ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:04:57 |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:05:40 |
 
 
 |  | ot3_desert_octet |
@@ -101,49 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 22:05:18 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541439914116 |
-| Players | 3/10 |
-| Host Name | Whoe's Next!? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:05:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541440028212 |
-| Players | 1/8 |
-| Host Name | ken carson |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:05:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541440064162 |
-| Players | 1/10 |
-| Host Name | kishki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:05:37 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541434427890 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Suk Mai |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:00:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541435026324 |
-| Players | 1/10 |
-| Host Name | 乃乇卂丂ㄒ乂爪ㄖᗪD乇 |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:00:50 |
 
 
 |  | epic_boss_fight_nightmare |
