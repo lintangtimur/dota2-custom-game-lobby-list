@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541394180025 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Soup |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:23:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541394124766 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Conan The Barbero |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:23:03 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541394567359 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | chibake |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:23:27 |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541395069058 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Макима |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:23:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541395361172 |
+| Players | 5/15 |
+| Host Name | Дай мид, сука |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:24:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Andreas Maler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:22:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541395337431 |
+| Players | 1/5 |
+| Host Name | にこ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:24:09 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576541395358446 |
+| Players | 1/7 |
+| Host Name | haxa® |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:24:10 |
 
 
