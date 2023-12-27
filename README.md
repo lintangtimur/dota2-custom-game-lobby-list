@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541326924109 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | SIX NALL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:21:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541348955742 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | ded |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:41:54 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541349275612 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | DJ life |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:42:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541349288298 |
-| Players | 7/8 |
-| Host Name | Anyway |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:42:13 |
+| Lobby ID | 28576541349782519 |
+| Players | 2/10 |
+| Host Name | MIRROOOOOX 2.0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:42:40 |
 
 
 |  | epic_boss_fight_nightmare |
