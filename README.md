@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541703424266 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | sideral_frio |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:43:31 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541704148080 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | CCCR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:44:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541699103673 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | •⁷⁷⁷ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:38:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541703992094 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | BigTimeTimmyJim |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:44:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541704078368 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Задоджил рот |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:44:17 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541704533474 |
-| Players | 6/15 |
-| Host Name | Superdeterminist |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:44:49 |
+| Lobby ID | 28576541704338566 |
+| Players | 1/15 |
+| Host Name | I Am No One |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 28, 2023 02:44:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541698675779 |
-| Players | 13/24 |
+| Players | 20/24 |
 | Host Name | MAGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:37:53 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:40:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541704348516 |
-| Players | 1/15 |
-| Host Name | Qal3awi |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 02:44:36 |
+| Lobby ID | 28576541704594451 |
+| Players | 4/10 |
+| Host Name | sa_ru |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:44:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,55 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:39:18 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541704338566 |
-| Players | 1/15 |
-| Host Name | I Am No One |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 02:44:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541704590736 |
-| Players | 1/10 |
-| Host Name | ⓌⓛⓁⓂⒺⓇ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:44:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541704594451 |
-| Players | 3/10 |
-| Host Name | sa_ru |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:44:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541704657185 |
-| Players | 3/10 |
-| Host Name | Hangrys |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:44:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541704667996 |
-| Players | 4/10 |
-| Host Name | Matve172 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:44:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541696278920 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | M-khan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:35:06 |
