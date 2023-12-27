@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541845498090 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Shura |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:07:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541844922999 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | FrameSports |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:06:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541845911933 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | El Mata Por Gusto |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:08:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541846698184 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | TypicalTN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:09:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541846528513 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 51 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:09:26 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541846742800 |
-| Players | 5/10 |
-| Host Name | ДАУБИ!!!! |
+| Players | 1/10 |
+| Host Name | DAJAK✌ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:09:51 |
 
@@ -119,10 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 06:09:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541846829465 |
+| Players | 1/15 |
+| Host Name | Hummer |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 06:10:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541845221468 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 黄瓜 (CR) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 06:06:59 |
