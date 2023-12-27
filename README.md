@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541805710539 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Dreams3D2Y giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:59:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541806121333 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Fictionxx |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:00:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541805575496 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | M.R-YoEL |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:59:31 |
@@ -59,37 +59,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541804937492 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | let me offlane |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:58:30 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541806327057 |
-| Players | 1/8 |
-| Host Name | I ADORE YOU FREY |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:00:41 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541806342243 |
-| Players | 4/15 |
-| Host Name | Die chocks |
+| Players | 6/15 |
+| Host Name | id spz gil |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:00:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541806385135 |
+| Lobby ID | 28576541806482278 |
 | Players | 2/10 |
-| Host Name | 健全なチームの常識 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:00:47 |
+| Host Name | DistRick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:00:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541806498029 |
+| Players | 5/8 |
+| Host Name | Огонёк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:00:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541806519771 |
+| Players | 1/10 |
+| Host Name | мп5 на холике♥ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:00:59 |
 
 
 |  | epic_boss_fight_nightmare |
