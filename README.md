@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541871282065 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | No me jodas o fedeo..!! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:58:29 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541870813956 |
-| Players | 2/8 |
-| Host Name | Pablo de los Backyardigans |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 06:57:32 |
+| Lobby ID | 28576541871583276 |
+| Players | 1/8 |
+| Host Name | Kurama |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:59:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541853542118 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | ;] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:22:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541870319883 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Euphoria |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:56:30 |
@@ -85,29 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541870538980 |
-| Players | 13/15 |
-| Host Name | Marshall |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 06:56:57 |
+| Lobby ID | 28576541871561661 |
+| Players | 3/15 |
+| Host Name | khaaf179 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 06:59:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541871509371 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | SleepLess |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:58:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541871532167 |
-| Players | 1/15 |
-| Host Name | columbia |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 06:58:59 |
 
 
 |  | epic_boss_fight_nightmare |
