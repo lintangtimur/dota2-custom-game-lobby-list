@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541499343881 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | GASTON |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:03:19 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:02:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541499599300 |
-| Players | 9/15 |
-| Host Name | Love |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:03:35 |
+| Lobby ID | 28576541499942453 |
+| Players | 1/8 |
+| Host Name | pder cooks |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:03:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541498904620 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Mixtrack |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:02:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541496659003 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | ` wheredaavocados™ 🥑 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:00:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541499212887 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Saito; |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:03:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541499437112 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | bastard =) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:03:25 |
@@ -86,34 +86,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541499688278 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Levi Ackerman |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:03:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541499756296 |
-| Players | 1/24 |
-| Host Name | Nsn |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:03:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541499766169 |
-| Players | 1/24 |
-| Host Name | rurarr |
+| Lobby ID | 28576541499842911 |
+| Players | 1/15 |
+| Host Name | yonanoku |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:03:45 |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:03:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541499875851 |
+| Players | 3/8 |
+| Host Name | Airos - MUTANT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:03:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541499995031 |
+| Players | 2/24 |
+| Host Name | Road to 6800 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:03:59 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576541494443281 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | Maqs |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:58:29 |
@@ -126,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mweh. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:01:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541494658587 |
+| Players | 9/10 |
+| Host Name | GreShnik |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:58:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541499970832 |
+| Players | 2/5 |
+| Host Name | MonkyJesus |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:03:57 |
 
 
