@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541236083169 |
-| Players | 6/15 |
-| Host Name | Dragon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:45:54 |
+| Lobby ID | 28576541235970895 |
+| Players | 2/15 |
+| Host Name | 9mice |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:45:46 |
 
 
 |  | ot3_gardens_duo |
@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:19:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541235156363 |
-| Players | 5/8 |
-| Host Name | Отец |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:44:47 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541235722511 |
@@ -58,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541235970895 |
+| Lobby ID | 28576541236361558 |
 | Players | 1/15 |
-| Host Name | 9mice |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:45:46 |
+| Host Name | Byratino |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:46:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | numcaps |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:42:48 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576541236463791 |
+| Players | 1/7 |
+| Host Name | hatdog |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:46:22 |
 
 
