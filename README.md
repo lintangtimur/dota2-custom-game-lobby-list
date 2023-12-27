@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541227568852 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:35:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541230786392 |
-| Players | 7/8 |
-| Host Name | me pro you noob :P |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:39:27 |
+| Lobby ID | 28576541231303810 |
+| Players | 2/10 |
+| Host Name | Shevrassa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:40:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541231139297 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | -батя вчлене |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:39:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541230968728 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | shadow |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:39:41 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541231262003 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Burr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:40:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541230637954 |
-| Players | 14/15 |
-| Host Name | КОНЧЕНАЯ МРАЗЬ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:39:16 |
 
 
 |  | ot3_gardens_duo |
@@ -99,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ZaaL |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:40:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541231369541 |
+| Players | 2/15 |
+| Host Name | $pΣc†rØphØbiΛ#2k7 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:40:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541231406900 |
+| Players | 1/15 |
+| Host Name | Chad Landlord |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:40:14 |
 
 
 |  | epic_boss_fight_nightmare |
