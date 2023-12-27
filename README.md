@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541251813204 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | HUGE |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:04:11 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:01:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541249856699 |
-| Players | 23/24 |
-| Host Name | 安德鲁森图书馆管理员 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:01:58 |
+| Lobby ID | 28576541252336118 |
+| Players | 2/10 |
+| Host Name | ZaaL |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:04:47 |
 
 
 |  | ot3_gardens_duo |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541251454975 |
-| Players | 14/15 |
-| Host Name | メメント-モリ |
+| Lobby ID | 28576541252407259 |
+| Players | 4/15 |
+| Host Name | Khorinmaru ❤ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:03:46 |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:04:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:04:17 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541252336118 |
-| Players | 2/10 |
-| Host Name | ZaaL |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:04:47 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541249520140 |
@@ -95,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541249456122 |
-| Players | 2/5 |
-| Host Name | Anthony Soprano Jr. |
+| Players | 1/5 |
+| Host Name | angel |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:01:31 |
 
