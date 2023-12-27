@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541748615824 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Calcifer |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 03:38:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541747963902 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ASESINO DE KBROS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:38:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541748855921 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 30 перкасэтов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:39:13 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541747869569 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | MAGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:37:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541748616841 |
-| Players | 4/8 |
-| Host Name | GreenI |
+| Lobby ID | 28576541749268549 |
+| Players | 2/15 |
+| Host Name | PYANYY DED |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:38:54 |
+| Lobby Creation Time | Thursday, December 28, 2023 03:39:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541748522754 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | ♀×º°”MOHOWK”°º×♀ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:38:47 |
@@ -94,28 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541748876552 |
-| Players | 6/15 |
-| Host Name | Dekant |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:39:15 |
+| Lobby ID | 28576541749129050 |
+| Players | 1/15 |
+| Host Name | kJJ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 03:39:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541749075925 |
-| Players | 3/8 |
-| Host Name | LOSOSNYA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:39:31 |
+| Lobby ID | 28576541749096311 |
+| Players | 2/10 |
+| Host Name | elon tocosh |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 03:39:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541747678423 |
+| Players | 9/10 |
+| Host Name | butterfly MODE: STRAIGHT UP |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 03:37:41 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541745489659 |
-| Players | 9/10 |
-| Host Name | YoNPe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:34:53 |
+| Lobby ID | 28576541749205483 |
+| Players | 6/10 |
+| Host Name | Byaka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 03:39:41 |
 
 
