@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541179351296 |
-| Players | 1/15 |
-| Host Name | Shadowfriend |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:29:20 |
+| Lobby ID | 28576541179285979 |
+| Players | 7/15 |
+| Host Name | DOOM SURFER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:29:14 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541178271023 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | +BIG BALLS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:27:44 |
@@ -58,26 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541179151023 |
-| Players | 9/10 |
-| Host Name | GTO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:29:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541179285979 |
-| Players | 4/15 |
-| Host Name | DOOM SURFER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:29:14 |
+| Lobby ID | 28576541179520905 |
+| Players | 1/10 |
+| Host Name | Bracon |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:29:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541176894850 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 1HP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:25:39 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jusplayin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:27:36 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576541179444866 |
+| Players | 2/7 |
+| Host Name | Mr.Бомбастик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:29:28 |
 
 
