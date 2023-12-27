@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541748615824 |
-| Players | 8/15 |
-| Host Name | YOUNG ALEXXドラゴン |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 03:38:54 |
+| Lobby ID | 28576541750248866 |
+| Players | 2/15 |
+| Host Name | Эркю́ль Пуаро́ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:41:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541747678423 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | butterfly MODE: STRAIGHT UP |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 03:37:41 |
@@ -95,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541749814255 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Misery_ar run |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:40:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541750231084 |
+| Players | 4/8 |
+| Host Name | ★[RocK]•Tamplier•★ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 03:41:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541750285600 |
+| Players | 1/10 |
+| Host Name | GM_rus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 03:41:08 |
 
 
