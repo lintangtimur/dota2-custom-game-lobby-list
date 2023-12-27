@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541215340430 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | onaforp xessib |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:19:58 |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TMMR |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:55:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541247012228 |
-| Players | 10/15 |
-| Host Name | GraF044 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:58:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541247307493 |
-| Players | 1/15 |
-| Host Name | 踹断瘸子那条好腿灬 |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:59:03 |
 
 
 |  | ot3_necropolis_ffa |
