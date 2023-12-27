@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541833699979 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | killing is my bussiness.., |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:46:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541833936489 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | ☆ARCE☆ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:46:34 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541834569366 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Vanquix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:47:40 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541834386459 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Egotoro |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:47:21 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541834743508 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ЊЋ▲ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:47:58 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541834885499 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | BigTimeTimmyJim |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 05:48:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541834890634 |
-| Players | 1/8 |
+| Lobby ID | 28576541834994788 |
+| Players | 1/15 |
 | Host Name | Zion T zioN |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 05:48:13 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:48:24 |
 
 
 |  | epic_boss_fight_normal |
