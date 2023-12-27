@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541794639650 |
-| Players | 8/15 |
-| Host Name | †๖ۣۣۜFȺ₦₮ØӍ† |
+| Lobby ID | 28576541794307944 |
+| Players | 2/8 |
+| Host Name | xituro |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:42:47 |
+| Lobby Creation Time | Thursday, December 28, 2023 04:42:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:42:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541793218701 |
-| Players | 6/10 |
-| Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 04:40:39 |
+| Lobby ID | 28576541794248448 |
+| Players | 3/24 |
+| Host Name | Cocained |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 04:42:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541794546369 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | ------in omnia partus-------- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:42:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541794656731 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | coac1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:42:48 |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541794328562 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | skkkkkkr |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:42:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541794307944 |
-| Players | 2/8 |
-| Host Name | xituro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:42:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541794248448 |
-| Players | 2/24 |
-| Host Name | Cocained |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:42:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541794807268 |
-| Players | 2/15 |
-| Host Name | Ion Zyna |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 04:43:02 |
 
 
 |  | epic_boss_fight_nightmare |
