@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541711514328 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Señor de la noche |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:53:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541711502627 |
-| Players | 7/15 |
-| Host Name | x13kz |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:53:02 |
+| Lobby ID | 28576541711969325 |
+| Players | 1/10 |
+| Host Name | ekna |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:53:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541710786987 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | AnOnYmO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:52:11 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:40:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541710850767 |
-| Players | 8/10 |
-| Host Name | сигаретный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:52:15 |
+| Lobby ID | 28576541711830902 |
+| Players | 2/8 |
+| Host Name | Anux1 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 02:53:26 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541711683983 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:53:15 |
@@ -95,37 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541711831904 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ensalada de carne |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:53:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541711830902 |
-| Players | 1/8 |
-| Host Name | Anux1 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:53:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541711838426 |
-| Players | 3/8 |
-| Host Name | eshkere bird |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:53:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541707655850 |
-| Players | 9/10 |
-| Host Name | sHIZA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:48:28 |
 
 
 |  | epic_boss_fight_normal |
