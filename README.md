@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541310716378 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | ุexw_onoma |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:05:42 |
@@ -56,28 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:06:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541316078559 |
-| Players | 1/10 |
-| Host Name | Отчаяние Тьмы |
+| Lobby ID | 28576541316103297 |
+| Players | 8/15 |
+| Host Name | гойда спирит |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:10:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541316090938 |
-| Players | 2/8 |
-| Host Name | вчера мне было 8... |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:10:57 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:10:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541313650191 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Aonka |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:08:34 |
