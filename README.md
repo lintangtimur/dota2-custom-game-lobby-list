@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541174873714 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | xD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:22:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541175751024 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Chevrolet Cruze 2013 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:23:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541175892493 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Zom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:24:08 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541176090933 |
+| Lobby ID | 28576541176176942 |
 | Players | 2/8 |
-| Host Name | EvilArthas |
+| Host Name | cанта клаус |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:24:26 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:24:34 |
 
 
 |  | epic_boss_fight_nightmare |
