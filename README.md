@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:56:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541361593915 |
-| Players | 9/10 |
-| Host Name | Griefing is ezer than playing |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:53:28 |
+| Lobby ID | 28576541366252246 |
+| Players | 3/15 |
+| Host Name | id spz gil |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:57:44 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541365515353 |
-| Players | 5/24 |
+| Players | 1/24 |
 | Host Name | Saint |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:57:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541365206404 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:56:47 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541365055884 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | яра сист |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:56:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541366125136 |
-| Players | 1/15 |
-| Host Name | Spliff |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:57:37 |
+| Lobby ID | 28576541366279601 |
+| Players | 2/8 |
+| Host Name | Di Haxyiu |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:57:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -126,6 +126,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | onaforp xessib |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:57:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541366236769 |
+| Players | 1/15 |
+| Host Name | The [P]ro I TeTikCi |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:57:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541366434032 |
+| Players | 4/8 |
+| Host Name | hi im the solon siblings |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:57:54 |
 
 
 |  | epic_boss_fight_nightmare |
