@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541589206208 |
-| Players | 4/8 |
+| Players | 8/8 |
 | Host Name | TYSESH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:36:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541588115023 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | aaroneverr |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 00:35:18 |
@@ -49,26 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541588728223 |
-| Players | 2/8 |
-| Host Name | Таня Ногти |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:35:58 |
+| Lobby ID | 28576541589899382 |
+| Players | 1/8 |
+| Host Name | Camila Cabello |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 00:37:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541589514561 |
-| Players | 8/15 |
-| Host Name | KASUTORA |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:36:48 |
+| Lobby ID | 28576541589992276 |
+| Players | 1/10 |
+| Host Name | Homicídio |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 00:37:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541589123553 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | WSPMTT |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 00:36:23 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541589549895 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Davidka |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:36:51 |
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PERRO PERUANO |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:36:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541589906895 |
+| Players | 1/8 |
+| Host Name | ради неё |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:37:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541590043424 |
+| Players | 1/15 |
+| Host Name | Democrat :) |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 00:37:22 |
 
 
 |  | epic_boss_fight_nightmare |
