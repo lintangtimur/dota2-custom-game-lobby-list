@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:44:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541837500273 |
-| Players | 1/8 |
-| Host Name | За Орду!!! |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:52:52 |
+| Lobby ID | 28576541837847949 |
+| Players | 5/10 |
+| Host Name | PingU! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:53:29 |
 
 
 |  | ot3_desert_octet |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541809705367 |
-| Players | 1/10 |
-| Host Name | 820 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:06:00 |
+| Lobby ID | 28576541837825272 |
+| Players | 4/10 |
+| Host Name | XCLARAX |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:53:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,47 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541837851102 |
-| Players | 12/15 |
-| Host Name | Potmarrow |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 05:53:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541838077997 |
-| Players | 8/10 |
-| Host Name | Garrimajo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:53:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541837847949 |
-| Players | 1/10 |
-| Host Name | PingU! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:53:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541837825272 |
-| Players | 3/10 |
-| Host Name | XCLARAX |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:53:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541836350102 |
-| Players | 9/10 |
-| Host Name | elon tocosh |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:50:49 |
+| Lobby ID | 28576541838263968 |
+| Players | 10/15 |
+| Host Name | Xydrogen? |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:54:14 |
 
 
 |  | epic_boss_fight_normal |
