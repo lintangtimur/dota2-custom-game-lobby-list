@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541180561500 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Kishii 💓❤ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:31:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541179900226 |
-| Players | 9/10 |
-| Host Name | ウチハ-オビト |
+| Lobby ID | 28576541181412572 |
+| Players | 6/15 |
+| Host Name | paranoednotmentallystable |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:30:09 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:32:24 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541176571544 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Первая кровь |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:25:09 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541181009038 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Voland |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:31:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541181412572 |
-| Players | 3/15 |
-| Host Name | paranoednotmentallystable |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:32:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541181619060 |
-| Players | 3/8 |
-| Host Name | Feedachyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:32:43 |
 
 
 |  | epic_boss_fight_hard |
