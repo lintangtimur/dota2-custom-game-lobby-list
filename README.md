@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541235970895 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Гинеколог-шахтер |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:45:46 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541238127305 |
-| Players | 3/8 |
-| Host Name | zahizr |
+| Players | 1/8 |
+| Host Name | reze |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:48:21 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541237808935 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | lost |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:47:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541237986551 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | South China Sea |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:48:11 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541238281283 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | _ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:48:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541233509757 |
-| Players | 9/10 |
-| Host Name | numcaps |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:42:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mythical |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:47:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541238325825 |
-| Players | 1/5 |
-| Host Name | Лавровый лист |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:48:35 |
 
 
