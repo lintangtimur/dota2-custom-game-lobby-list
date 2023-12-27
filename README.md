@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541744292284 |
-| Players | 21/24 |
-| Host Name | Sasaum |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 03:33:21 |
+| Lobby ID | 28576541746343699 |
+| Players | 2/10 |
+| Host Name | Seasons of L |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 03:35:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541746288211 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | тупой мужлан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:35:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541746467101 |
-| Players | 6/15 |
-| Host Name | ia_ebal_2o |
+| Lobby ID | 28576541746545887 |
+| Players | 4/10 |
+| Host Name | гадалка на понос |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:36:08 |
+| Lobby Creation Time | Thursday, December 28, 2023 03:36:14 |
 
 
 |  | ot3_desert_octet |
@@ -56,31 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 03:35:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541745837600 |
-| Players | 9/10 |
-| Host Name | Крип-Пехотинец |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:35:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541746343699 |
-| Players | 2/10 |
-| Host Name | Seasons of L |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 03:35:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541746338912 |
-| Players | 2/10 |
-| Host Name | гадалка на понос |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:35:58 |
+| Lobby ID | 28576541746600003 |
+| Players | 2/8 |
+| Host Name | Phantom~ |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 28, 2023 03:36:18 |
 
 
 |  | epic_boss_fight_nightmare |
