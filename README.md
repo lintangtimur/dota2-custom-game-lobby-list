@@ -5,34 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541832706994 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | 504 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:44:24 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541837500273 |
+| Players | 1/8 |
+| Host Name | Taison V. Akhal |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:52:52 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541836350102 |
-| Players | 9/10 |
-| Host Name | elon tocosh |
+| Lobby ID | 28576541837547316 |
+| Players | 1/10 |
+| Host Name | XCLARAX |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:50:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541837311371 |
-| Players | 9/15 |
-| Host Name | Puding |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:52:33 |
+| Lobby Creation Time | Thursday, December 28, 2023 05:52:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541781818342 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541834007388 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | ChelascueS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:46:41 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541837256759 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | чугун |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:52:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541837500273 |
-| Players | 1/8 |
-| Host Name | Taison V. Akhal |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:52:52 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541834242397 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | level3315 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:47:06 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ` |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Thursday, December 28, 2023 05:52:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541837592676 |
+| Players | 1/5 |
+| Host Name | DUQUE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 05:53:02 |
 
 
