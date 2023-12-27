@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541178337868 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | ZiGGurat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:27:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541176571544 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Первая кровь |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:25:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541178271023 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | +BIG BALLS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:27:44 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:26:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541177699357 |
-| Players | 14/15 |
-| Host Name | сын бляди, почему мид проигран? |
+| Lobby ID | 28576541178479916 |
+| Players | 1/10 |
+| Host Name | Makerka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:26:52 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:28:03 |
 
 
 |  | epic_boss_fight_nightmare |
