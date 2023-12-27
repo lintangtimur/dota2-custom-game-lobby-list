@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541312534843 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 09#Lieutenant:vefteg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:07:27 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:06:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541312651972 |
-| Players | 12/15 |
-| Host Name | no horny |
+| Lobby ID | 28576541313371558 |
+| Players | 3/10 |
+| Host Name | 14 |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:07:34 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:08:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541310716378 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ุexw_onoma |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:05:42 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mia Khalifa.Onlyfans✪ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:58:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541313292410 |
-| Players | 3/8 |
-| Host Name | [LT]smelikovrussia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:08:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541313371558 |
-| Players | 3/10 |
-| Host Name | 14 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:08:17 |
 
 
 |  | epic_boss_fight_nightmare |
