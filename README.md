@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541203461788 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:04:04 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541206363163 |
-| Players | 1/24 |
-| Host Name | Pulsar N250 (BAJAJ) |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:08:01 |
+| Lobby ID | 28576541206421758 |
+| Players | 4/24 |
+| Host Name | Puzzle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:08:07 |
 
 
 |  | ot3_desert_octet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:06:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541205368027 |
-| Players | 5/8 |
-| Host Name | космический пенсил |
+| Lobby ID | 28576541206142057 |
+| Players | 6/15 |
+| Host Name | ПЕНА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:06:40 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:07:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541206271913 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | [GER]DAVIDHO |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:07:54 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | werty |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:07:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541206142057 |
-| Players | 5/15 |
-| Host Name | ПЕНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:07:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541206421758 |
-| Players | 3/24 |
-| Host Name | Puzzle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:08:07 |
 
 
 |  | epic_boss_fight_nightmare |
