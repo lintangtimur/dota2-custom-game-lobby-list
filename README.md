@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541431968613 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | MagiskeMogens |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:57:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541434171655 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | EsKunG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:00:01 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541435243117 |
-| Players | 4/24 |
-| Host Name | Cancer era mofos |
+| Players | 5/24 |
+| Host Name | ปู่มหามุนี |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:01:02 |
 
@@ -74,20 +74,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:59:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541435495565 |
-| Players | 7/8 |
-| Host Name | Я и 4 агента |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:01:16 |
+| Lobby ID | 28576541435752517 |
+| Players | 2/10 |
+| Host Name | Bulbi |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:01:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541434427890 |
 | Players | 2/10 |
-| Host Name | Suk Mai |
+| Host Name | bingbongbiang |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:00:16 |
 
