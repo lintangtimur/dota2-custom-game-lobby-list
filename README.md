@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541708006490 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | butterfly MODE: STRAIGHT UP |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:48:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541700966614 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:40:37 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541708182756 |
-| Players | 1/10 |
-| Host Name | dog spirit |
+| Players | 2/10 |
+| Host Name | Likeability |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:49:05 |
 
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:47:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541707415695 |
-| Players | 14/15 |
-| Host Name | KrYtOi_Persik |
+| Lobby ID | 28576541708254660 |
+| Players | 4/8 |
+| Host Name | мужик.... я тебя ур |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:48:11 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:49:10 |
 
 
 |  | ot3_desert_octet |
@@ -101,31 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:47:30 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541708254660 |
-| Players | 5/8 |
-| Host Name | KILLEP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:49:10 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541708267052 |
-| Players | 1/15 |
-| Host Name | ĐǾĐ₲Ę℟ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:49:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541708272265 |
-| Players | 1/8 |
-| Host Name | seiya |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:49:11 |
+| Lobby ID | 28576541708380957 |
+| Players | 3/15 |
+| Host Name | Egorchius |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:49:19 |
 
 
 |  | epic_boss_fight_normal |
