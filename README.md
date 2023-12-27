@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541173827004 |
+| Lobby ID | 28576541173926056 |
 | Players | 1/15 |
-| Host Name | Raiden Simp ;:3 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:21:00 |
+| Host Name | ĐØɆ₴ ł₮ ₴₮₳ⱤɆ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:21:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541170705835 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 软绵绵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:16:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541173464591 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | A. Einstein prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:20:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541173650061 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Tisay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:20:44 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541173754562 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Neizen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:20:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541174017602 |
+| Players | 1/10 |
+| Host Name | Горобчик Русофоб |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:21:18 |
 
 
