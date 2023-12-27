@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541644356578 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 01:36:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541643790509 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | EPEEB.giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:35:53 |
@@ -41,46 +41,82 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541644802721 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Kuzonoha |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:37:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541644544239 |
-| Players | 4/8 |
-| Host Name | 🕷 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 01:36:43 |
+| Lobby ID | 28576541645181632 |
+| Players | 1/10 |
+| Host Name | XBOPOCT 777 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 01:37:25 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541644661397 |
-| Players | 9/10 |
-| Host Name | STJ |
+| Lobby ID | 28576541645130756 |
+| Players | 6/10 |
+| Host Name | 讓我們給 |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 01:36:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541644671115 |
-| Players | 5/15 |
-| Host Name | A.D.E.D |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 01:36:52 |
+| Lobby Creation Time | Thursday, December 28, 2023 01:37:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541645070847 |
-| Players | 4/8 |
-| Host Name | faceless |
+| Lobby ID | 28576541645170173 |
+| Players | 3/8 |
+| Host Name | qq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 01:37:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541645110961 |
+| Players | 1/10 |
+| Host Name | D4RKY1$U$ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 01:37:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541645134078 |
+| Players | 2/10 |
+| Host Name | фембой боб |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 01:37:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541645211544 |
+| Players | 1/8 |
+| Host Name | canchis |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 01:37:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541645261454 |
+| Players | 1/15 |
+| Host Name | 剑道万古长如夜 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Thursday, December 28, 2023 01:37:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541645263022 |
+| Players | 1/8 |
+| Host Name | Ivanzolo2004 |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 01:37:18 |
+| Lobby Creation Time | Thursday, December 28, 2023 01:37:31 |
 
 
 |  | epic_boss_fight_normal |
