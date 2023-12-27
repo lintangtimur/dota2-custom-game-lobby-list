@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541746343699 |
-| Players | 6/10 |
-| Host Name | Seasons of L |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 03:35:59 |
+| Lobby ID | 28576541748894949 |
+| Players | 4/10 |
+| Host Name | go next |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:39:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541748615824 |
-| Players | 1/15 |
-| Host Name | 无聊的 |
+| Players | 3/15 |
+| Host Name | Calcifer |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 03:38:54 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541747869569 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | MAGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:37:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541748522754 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ♀×º°”MOHOWK”°º×♀ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:38:47 |
@@ -95,28 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541748876552 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Dekant |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:39:15 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541748894949 |
-| Players | 3/10 |
-| Host Name | go next |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:39:17 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541748942774 |
-| Players | 6/8 |
-| Host Name | QaimaQ |
+| Lobby ID | 28576541749075925 |
+| Players | 3/8 |
+| Host Name | LOSOSNYA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 03:39:20 |
+| Lobby Creation Time | Thursday, December 28, 2023 03:39:31 |
 
 
 |  | epic_boss_fight_nightmare |
