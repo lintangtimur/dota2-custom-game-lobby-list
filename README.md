@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541683737796 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:20:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541626647736 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:22:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541682675965 |
-| Players | 23/24 |
-| Host Name | TaLaNt |
+| Lobby ID | 28576541686780399 |
+| Players | 2/10 |
+| Host Name | zavod |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:19:34 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:24:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541685850165 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | скука |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:23:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541685323009 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | M_C |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:22:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541686635446 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | AxuJlec |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:24:02 |
@@ -128,10 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:23:38 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541686860070 |
+| Players | 2/8 |
+| Host Name | Phantom33 |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 28, 2023 02:24:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541684146284 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ARROW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:21:13 |
