@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541671193339 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | julie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:06:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541669362509 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | peruano promedio |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:04:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541672495429 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Акула |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:08:04 |
@@ -95,18 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541672650037 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | what she want? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:08:15 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541670700563 |
-| Players | 4/5 |
-| Host Name | Knox. |
+| Lobby ID | 28576541672756221 |
+| Players | 3/10 |
+| Host Name | Boba Fett |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:06:02 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:08:22 |
 
 
