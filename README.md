@@ -2,31 +2,31 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541481958017 |
-| Players | 22/24 |
-| Host Name | Now I am become death |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:46:10 |
+| Lobby ID | 28576541485446664 |
+| Players | 8/10 |
+| Host Name | hrvatska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:49:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541486148589 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Pavel wickedsick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:50:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541486139188 |
-| Players | 4/8 |
-| Host Name | pnzsvns |
+| Lobby ID | 28576541486502507 |
+| Players | 2/10 |
+| Host Name | халамидник |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:50:16 |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:50:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541482704848 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | rokia101 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:46:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541483616515 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Mr Perturbado |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:47:47 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 初音ミク |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:48:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541467734338 |
+| Players | 22/24 |
+| Host Name | tavo |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:32:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541486505835 |
+| Players | 2/24 |
+| Host Name | Cloud |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:50:38 |
 
 
 |  | epic_boss_fight_nightmare |
