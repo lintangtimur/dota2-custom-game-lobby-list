@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541338271514 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:31:50 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541340308577 |
-| Players | 12/15 |
-| Host Name | ★Bartimeus★ |
+| Lobby ID | 28576541340852496 |
+| Players | 5/15 |
+| Host Name | can't stop won't stop |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:33:46 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:34:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541325805619 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Space |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:20:07 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XleByIIIeK_C_XpEHoM |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:34:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541339761824 |
-| Players | 14/15 |
-| Host Name | Macan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:33:15 |
 
 
 |  | epic_boss_fight_normal |
