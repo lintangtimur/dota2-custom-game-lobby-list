@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541870903093 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | unprocurable |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:42 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541870319883 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Euphoria |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:56:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541870257685 |
-| Players | 7/8 |
-| Host Name | ICHZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:56:22 |
+| Lobby ID | 28576541870911756 |
+| Players | 10/24 |
+| Host Name | CAPTAIN  giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 06:57:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541870538980 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Marshall |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:56:57 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541870911756 |
-| Players | 5/24 |
-| Host Name | CAPTAIN  giordota.com |
+| Lobby ID | 28576541871081552 |
+| Players | 3/15 |
+| Host Name | STEW |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 06:57:43 |
+| Lobby Creation Time | Thursday, December 28, 2023 06:58:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:24 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541869292863 |
-| Players | 4/5 |
-| Host Name | Masashi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:54:23 |
+| Lobby ID | 28576541871015919 |
+| Players | 2/10 |
+| Host Name | Holmes |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 06:57:56 |
 
 
