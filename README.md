@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541679111175 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Feminist parker |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:15:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541679891659 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | Maxmax636 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:16:27 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541678470641 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | wh1tn3s_OPOSYM |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:14:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541677171514 |
-| Players | 22/24 |
-| Host Name | L |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:13:26 |
+| Lobby ID | 28576541680193701 |
+| Players | 2/10 |
+| Host Name | сигаретный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:16:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:16:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541679989366 |
-| Players | 5/10 |
-| Host Name | Gs.XPG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:16:33 |
+| Lobby ID | 28576541680277518 |
+| Players | 4/15 |
+| Host Name | Nick |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:16:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MarcoSL |115 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:16:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541680193701 |
-| Players | 2/10 |
-| Host Name | сигаретный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:16:47 |
 
 
 |  | epic_boss_fight_nightmare |
