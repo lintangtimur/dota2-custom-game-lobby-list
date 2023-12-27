@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541848725223 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Serenity |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:13:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541848085125 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Ratasor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:12:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541846968341 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:10:18 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541848423320 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Emeritus |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:13:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541849016899 |
+| Players | 2/10 |
+| Host Name | красный ультомат |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:14:07 |
 
 
 |  | epic_boss_fight_nightmare |
