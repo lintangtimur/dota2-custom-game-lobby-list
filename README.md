@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541119374828 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | B E R S E R K |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 15:51:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541213892545 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Se Acaba el Tiempo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:18:05 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541214308418 |
-| Players | 2/8 |
-| Host Name | эль соло лобо |
+| Players | 1/8 |
+| Host Name | chibake |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:18:38 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541211908989 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | JM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:15:30 |
