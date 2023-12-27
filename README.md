@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:37:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541532623670 |
-| Players | 9/10 |
-| Host Name | xorto.bazidli |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:37:04 |
+| Lobby ID | 28576541533681192 |
+| Players | 2/8 |
+| Host Name | Dr.Jafar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:38:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541531784597 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | GASTON |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:36:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541527707570 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Ximp |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:32:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541531854103 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | El tipo N |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:36:18 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541532208019 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | ria |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:36:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541533367187 |
-| Players | 10/15 |
-| Host Name | 勝利 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:37:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541533681192 |
-| Players | 3/8 |
-| Host Name | Dr.Jafar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:38:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zireael |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:38:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541533912956 |
+| Players | 1/5 |
+| Host Name | zewsss |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:38:24 |
 
 
