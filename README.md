@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541700112889 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | jhano |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 02:39:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541699103673 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | •⁷⁷⁷ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:38:23 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:40:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541701297752 |
-| Players | 9/10 |
-| Host Name | mom |
+| Lobby ID | 28576541701950759 |
+| Players | 6/8 |
+| Host Name | LolGol |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:41:01 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:41:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541701889259 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | ArcAngeling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:41:43 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541699865147 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Skin Man |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:39:18 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541701859956 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | ♪ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:41:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541701913502 |
-| Players | 1/8 |
-| Host Name | ADMITO QUE SOY GUAPO. |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:41:45 |
+| Lobby ID | 28576541701987146 |
+| Players | 2/10 |
+| Host Name | Salera |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 02:41:50 |
 
 
 |  | epic_boss_fight_nightmare |
