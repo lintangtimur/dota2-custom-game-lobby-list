@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541282101080 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | SKIBIDI DOB DOB DOB YES YES |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:37:02 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:26:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541283206107 |
-| Players | 1/8 |
-| Host Name | Clementine |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:38:12 |
+| Lobby ID | 28576541282593051 |
+| Players | 8/15 |
+| Host Name | schokobaer |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:37:34 |
 
 
 |  | ot3_gardens_duo |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Valyrian雨 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:37:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541282593051 |
-| Players | 6/15 |
-| Host Name | schokobaer |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:37:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541283268954 |
-| Players | 3/8 |
-| Host Name | Ryan Gosling |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:38:16 |
 
 
 |  | epic_boss_fight_nightmare |
