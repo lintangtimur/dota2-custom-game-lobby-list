@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541577168567 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | N8 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:23:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541578897773 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | MDLuFFy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:25:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541579483574 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | TORONTOTORKNYLO |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:26:05 |
@@ -110,6 +110,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:26:12 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541579673894 |
+| Players | 3/8 |
+| Host Name | MonyThor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:26:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541579682214 |
+| Players | 2/10 |
+| Host Name | Вечно грустный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:26:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541561151217 |
@@ -122,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541579312215 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Гнев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:25:54 |
@@ -130,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576541579306152 |
-| Players | 4/5 |
-| Host Name | SERG_ARM |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:25:54 |
+| Lobby ID | 28576541579666662 |
+| Players | 1/5 |
+| Host Name | Tonald Drump |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, December 28, 2023 00:26:16 |
 
 
