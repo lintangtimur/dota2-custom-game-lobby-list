@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541295180934 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Ghostly/. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:50:25 |
@@ -50,46 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541295673347 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Mirtorius |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:50:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541278099217 |
-| Players | 23/24 |
-| Host Name | 0.1% |
+| Lobby ID | 28576541294333903 |
+| Players | 14/15 |
+| Host Name | Whole lotta swag |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:32:49 |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:49:34 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541294103867 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:49:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541294407377 |
-| Players | 1/5 |
-| Host Name | Butterbread |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:49:38 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28576541294830824 |
-| Players | 1/7 |
-| Host Name | ggwp |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:50:04 |
 
 
 |  | epic_boss_fight_nightmare |
