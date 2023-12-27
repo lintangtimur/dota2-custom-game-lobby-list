@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541839250036 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | abcXYZ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:56:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541839317363 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | projeckt;5 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:56:08 |
@@ -74,28 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:54:39 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541839792321 |
-| Players | 1/10 |
-| Host Name | COUSCOUS Le Grand Frère |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:57:00 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541839377347 |
-| Players | 7/8 |
-| Host Name | ЖОПОСРАНЧИК• |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 05:56:15 |
+| Lobby ID | 28576541838759302 |
+| Players | 2/8 |
+| Host Name | Yatoshiwa on spotify |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:55:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541839983672 |
+| Players | 1/24 |
+| Host Name | 504 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:57:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541839823370 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | ♂typhoon♂ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:57:03 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Летающая Сперма |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:57:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541839233460 |
+| Players | 1/8 |
+| Host Name | миша мавашы |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:55:59 |
 
 
 |  | epic_boss_fight_normal |
