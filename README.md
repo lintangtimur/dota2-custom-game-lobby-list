@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541241674385 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | dog spirit |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:52:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541242482939 |
-| Players | 12/15 |
-| Host Name | Gialias |
+| Lobby ID | 28576541243426519 |
+| Players | 1/10 |
+| Host Name | ПАРАЛИМПИЕЦ |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:53:27 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:54:33 |
 
 
 |  | ot3_desert_octet |
@@ -38,10 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:19:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541243366993 |
+| Players | 6/8 |
+| Host Name | he |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:54:29 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541242583755 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | EP |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:53:34 |
