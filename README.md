@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:52:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541307326015 |
-| Players | 14/15 |
-| Host Name | служу хозяйке |
+| Lobby ID | 28576541308122742 |
+| Players | 3/10 |
+| Host Name | Valyrian雨 |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:02:23 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:03:10 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541305868099 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Saint |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:00:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541307699110 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Borov |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:45 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541307934154 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Koala Killer |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:58 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541308122742 |
-| Players | 3/10 |
-| Host Name | Valyrian雨 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:03:10 |
+| Lobby ID | 28576541306834129 |
+| Players | 8/10 |
+| Host Name | SimpleJust 🇺🇦 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:01:54 |
 
 
 |  | epic_boss_fight_nightmare |
