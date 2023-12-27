@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541262954011 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | but I'm trying |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:16:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541262265685 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | ROCK HARD |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:15:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541262594096 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Captain Awei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:16:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541262703046 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | PsiopManager |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:16:19 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:16:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541263100996 |
-| Players | 1/24 |
-| Host Name | ☭HAMMER-GANG☭ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:16:46 |
+| Lobby ID | 28576541263206421 |
+| Players | 2/15 |
+| Host Name | Nami |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:16:53 |
 
 
 |  | ot3_desert_octet |
@@ -117,24 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | кот (или пёс) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:16:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541263199682 |
-| Players | 1/15 |
-| Host Name | Я выбрал влиться |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:16:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541263206421 |
-| Players | 1/15 |
-| Host Name | Nami |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:16:53 |
 
 
 |  | epic_boss_fight_hard |
