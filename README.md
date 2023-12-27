@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541443527601 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | tavo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:08:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541445934706 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | nacko LoaL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:11:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541446865110 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ммм... бляди) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:12:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541444698944 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Titulado de Trovo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:10:04 |
@@ -101,19 +101,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 22:10:39 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541447217672 |
+| Players | 3/8 |
+| Host Name | Heikko |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:12:29 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541447192021 |
+| Lobby ID | 28576541447253101 |
 | Players | 1/15 |
-| Host Name | BRO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:12:27 |
+| Host Name | Albacross |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:12:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541447258043 |
+| Players | 11/15 |
+| Host Name | Katawa |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:12:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541446379180 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Da Wae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:11:41 |
