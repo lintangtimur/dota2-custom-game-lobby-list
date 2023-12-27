@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541645312633 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | LoKi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:37:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541646994781 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 123 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 01:39:28 |
@@ -104,28 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541647806811 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | bon voyage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:40:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541644710986 |
-| Players | 14/15 |
-| Host Name | MhSilver |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 01:36:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541647147383 |
-| Players | 14/15 |
-| Host Name | Board |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 01:39:39 |
+| Lobby ID | 28576541647920315 |
+| Players | 2/10 |
+| Host Name | uncrowned king无冕 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 01:40:32 |
 
 
 |  | epic_boss_fight_normal |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541645895962 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Captain Black Bubna |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 01:38:13 |
