@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541272492086 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | SCRAT |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:26:55 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541272240694 |
+| Lobby ID | 28576541276967074 |
 | Players | 4/8 |
-| Host Name | шашлык артем |
+| Host Name | буханка пива |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:26:39 |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:31:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541276911877 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 安德鲁森图书馆管理员 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:31:35 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541276967074 |
-| Players | 3/8 |
-| Host Name | буханка пива |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:31:38 |
+| Lobby ID | 28576541277768889 |
+| Players | 1/8 |
+| Host Name | кусай клитр |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:32:28 |
 
 
 |  | epic_boss_fight_normal |
@@ -121,19 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541272508876 |
-| Players | 9/10 |
-| Host Name | свиня джакузі |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:26:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28576541276882147 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Shaughnessy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:31:33 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576541277822317 |
+| Players | 1/7 |
+| Host Name | scriblee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:32:32 |
 
 
