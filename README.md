@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541805166678 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Malboro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:58:52 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541805317966 |
-| Players | 6/10 |
-| Host Name | 1250 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:59:07 |
+| Lobby ID | 28576541805710539 |
+| Players | 2/10 |
+| Host Name | Dreams3D2Y giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 04:59:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 04:57:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541805473902 |
-| Players | 1/10 |
-| Host Name | 健全なチームの常識 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 04:59:21 |
+| Lobby ID | 28576541805575496 |
+| Players | 4/15 |
+| Host Name | M.R-YoEL |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 04:59:31 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541804448619 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | SrGato |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:57:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541804662361 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | zeta zeta |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:58:04 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541805534275 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | Вагиклин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:59:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541805760872 |
+| Players | 1/8 |
+| Host Name | $%&@dota&%"! |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 04:59:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541805753867 |
+| Players | 2/10 |
+| Host Name | 202 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 04:59:48 |
 
 
 |  | epic_boss_fight_nightmare |
