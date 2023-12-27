@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541588865323 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | cicada |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:36:07 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541587594563 |
-| Players | 22/24 |
-| Host Name | Matthew. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 00:34:44 |
+| Lobby ID | 28576541588115023 |
+| Players | 2/24 |
+| Host Name | aaroneverr |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 00:35:18 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541588496101 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Жека Кабина |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:35:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541588495816 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MIRROL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:35:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541587543191 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Ah Zai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:34:41 |
@@ -86,18 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541588728223 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Таня Ногти |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:35:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541588115023 |
-| Players | 1/24 |
-| Host Name | aaroneverr |
+| Lobby ID | 28576541589123553 |
+| Players | 1/15 |
+| Host Name | WSPMTT |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 00:35:18 |
+| Lobby Creation Time | Thursday, December 28, 2023 00:36:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541589017666 |
+| Players | 3/10 |
+| Host Name | Secretary-specific |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 00:36:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541589047362 |
+| Players | 1/10 |
+| Host Name | OnlyGOD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:36:18 |
 
 
