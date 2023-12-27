@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541398307887 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | погоди погоди |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:26:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541397050824 |
-| Players | 23/24 |
-| Host Name | 大鲶鱼 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:25:43 |
+| Lobby ID | 28576541399426682 |
+| Players | 2/8 |
+| Host Name | УДАЛИ ДОТУ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:27:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541397906868 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Harvest Dawn |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:26:29 |
@@ -83,39 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:23:00 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541399129446 |
-| Players | 9/10 |
-| Host Name | zxc zerо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:27:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541399426682 |
-| Players | 2/8 |
-| Host Name | УДАЛИ ДОТУ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:27:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541399634209 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | hi im the solon siblings |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:28:04 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541395439894 |
-| Players | 9/10 |
-| Host Name | にこ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:24:15 |
+| Lobby ID | 28576541399711946 |
+| Players | 5/10 |
+| Host Name | Засадилдо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:28:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541399773560 |
+| Players | 1/5 |
+| Host Name | Эвил Артас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:28:11 |
 
 
