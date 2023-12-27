@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541335785023 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | АГЕНТ ГАБЕНА №3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:29:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541334971270 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 'Suthep Thaugsuban |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:28:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541336291189 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Neber_rebels |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:29:58 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541336263200 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 52愛 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:29:57 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576541333254992 |
-| Players | 9/10 |
-| Host Name | pepega |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:27:07 |
+| Lobby ID | 28576541331521766 |
+| Players | 2/5 |
+| Host Name | troffi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:25:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:24:50 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541331521766 |
-| Players | 2/5 |
-| Host Name | troffi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:25:28 |
+| Lobby ID | 28576541336614204 |
+| Players | 3/10 |
+| Host Name | subsonic |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:30:17 |
 
 
