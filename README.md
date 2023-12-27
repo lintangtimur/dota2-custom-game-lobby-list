@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541233210786 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Khorinmaru ❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:42:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541230968728 |
-| Players | 14/15 |
-| Host Name | shadow |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:39:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | numcaps |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:42:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541233555401 |
-| Players | 1/5 |
-| Host Name | Uzendayo~! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:42:51 |
 
 
