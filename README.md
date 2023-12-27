@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541119374828 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | [Sir].BaNooBaBus Hairyman The2nd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 15:51:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541231285436 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ZaaL |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:40:05 |
@@ -87,7 +87,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576541231645716 |
 | Players | 12/15 |
-| Host Name | Hau Na #4 |
+| Host Name | Se Acaba el Tiempo |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:40:32 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541230999528 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:39:43 |
