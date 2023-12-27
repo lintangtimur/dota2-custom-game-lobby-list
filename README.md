@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541307326015 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | служу хозяйке |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541306633163 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:01:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541305868099 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Saint |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:00:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541307699110 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Borov |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541307727082 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | ~$amahasla$~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:46 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541308122742 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Valyrian雨 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:03:10 |
@@ -113,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541307814018 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | DOBBY IS A FREE ELF |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541308106279 |
-| Players | 1/5 |
-| Host Name | Mr.MaK |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:03:09 |
 
 
