@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541583010188 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Лариса Ивановна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:29:51 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:28:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541582485268 |
-| Players | 10/15 |
-| Host Name | Panzerjäger Tiger Elefant |
+| Lobby ID | 28576541583392023 |
+| Players | 3/8 |
+| Host Name | Tr1ckSSSt3r |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 00:29:17 |
+| Lobby Creation Time | Thursday, December 28, 2023 00:30:16 |
 
 
 |  | ot3_gardens_duo |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541581812381 |
-| Players | 7/8 |
-| Host Name | ✪Tekken✪ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:28:34 |
+| Lobby ID | 28576541579977352 |
+| Players | 4/8 |
+| Host Name | Ed Dubu |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, December 28, 2023 00:26:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541582969172 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Loyal po ako! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:29:48 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541579977352 |
-| Players | 7/8 |
-| Host Name | בפומת |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:26:36 |
+| Lobby ID | 28576541580011570 |
+| Players | 4/8 |
+| Host Name | mason margielo mindset |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 00:26:38 |
 
 
 |  | epic_boss_fight_nightmare |
