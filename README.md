@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541223152777 |
-| Players | 7/15 |
-| Host Name | эль соло лобо |
+| Lobby ID | 28576541223238185 |
+| Players | 2/10 |
+| Host Name | Раз два |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:29:53 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:29:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541222847121 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | чбк_Вашинктон |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:29:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541221614443 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:27:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541214885637 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Dobro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:19:23 |
