@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541805940417 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | yuduoyu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:00:05 |
@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576541807416615 |
 | Players | 2/8 |
-| Host Name | АДСКИЙ САТАНА |
+| Host Name | Aruxoc |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:02:23 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541807781473 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Джохар Дудаев© |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 05:02:57 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:02:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541807807017 |
-| Players | 2/15 |
-| Host Name | Матье Бал |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:02:59 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541804937492 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | let me offlane |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:58:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541807877168 |
+| Players | 6/15 |
+| Host Name | ofc |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:03:06 |
 
 
 |  | epic_boss_fight_nightmare |
