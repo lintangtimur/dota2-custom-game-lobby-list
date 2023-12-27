@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541276967074 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | буханка пива |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:31:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541276911877 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 安德鲁森图书馆管理员 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:31:35 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:32:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541276994748 |
-| Players | 11/15 |
-| Host Name | ت󠀡󠀡 |
+| Lobby ID | 28576541278298964 |
+| Players | 1/10 |
+| Host Name | WoodyPlant |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:31:40 |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:33:02 |
 
 
 |  | epic_boss_fight_normal |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | scriblee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:32:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28576541278336358 |
+| Players | 1/5 |
+| Host Name | Migros Ostschweiz |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 19:33:04 |
 
 
