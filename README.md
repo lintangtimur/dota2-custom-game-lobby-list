@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541333449403 |
-| Players | 1/8 |
-| Host Name | Hi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:27:18 |
+| Lobby ID | 28576541334247561 |
+| Players | 6/10 |
+| Host Name | optimus sprite |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:28:03 |
 
 
 |  | ot3_desert_octet |
@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:21:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541330532016 |
-| Players | 19/24 |
-| Host Name | Harry Podchill |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:24:32 |
+| Lobby ID | 28576541334195449 |
+| Players | 1/8 |
+| Host Name | kolibrik_ZXC |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:28:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541333933338 |
+| Lobby ID | 28576541334129003 |
 | Players | 4/8 |
-| Host Name | Her name Kani |
+| Host Name | Fumimochi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:27:45 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:27:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,38 +65,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:27:51 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541334080992 |
-| Players | 1/15 |
-| Host Name | Raycon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:27:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541333210054 |
-| Players | 6/8 |
-| Host Name | 托比 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:27:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541334080192 |
-| Players | 2/15 |
-| Host Name | Aham Cachota |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:27:53 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28576541329314237 |
-| Players | 3/7 |
-| Host Name | Amazon |
+| Players | 2/7 |
+| Host Name | minerva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:23:24 |
 
