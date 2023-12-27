@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541684909502 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Eduardo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:22:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541683737796 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:20:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541626647736 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
@@ -32,34 +32,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541684976186 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Toji |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 02:22:09 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541686015448 |
+| Players | 6/24 |
+| Host Name | Immortality |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:23:20 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541686780399 |
-| Players | 4/10 |
-| Host Name | zavod |
+| Lobby ID | 28576541687292076 |
+| Players | 2/10 |
+| Host Name | Zipp0_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:24:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541686896144 |
-| Players | 3/8 |
-| Host Name | Тинкер Сергей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:24:20 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:24:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541685323009 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | M_C |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:22:33 |
@@ -77,46 +77,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541683133562 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Zion T zioN |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 02:20:05 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541686283066 |
-| Players | 5/15 |
-| Host Name | Atlas Troll |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 02:23:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541686051636 |
-| Players | 6/8 |
-| Host Name | Владелец ЦУМА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:23:22 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541686444889 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | quacc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:23:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541686015448 |
-| Players | 2/24 |
-| Host Name | Immortality |
+| Lobby ID | 28576541687293187 |
+| Players | 6/10 |
+| Host Name | aishiteru |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:23:20 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:24:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541687437523 |
+| Players | 2/10 |
+| Host Name | 混蛋 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:24:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541687479844 |
+| Players | 2/8 |
+| Host Name | писька |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:25:00 |
 
 
 |  | epic_boss_fight_nightmare |
