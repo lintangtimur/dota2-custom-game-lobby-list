@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541713624662 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Raureif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:55:35 |
@@ -137,6 +137,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:55:50 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541713950238 |
+| Players | 3/8 |
+| Host Name | oflidismatvej |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:55:58 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541710924878 |
@@ -146,12 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:52:21 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541713834169 |
-| Players | 1/5 |
+| Lobby ID | 28576541714005329 |
+| Players | 1/10 |
 | Host Name | Tonald Drump |
 | Region | INDIA |
-| Lobby Creation Time | Thursday, December 28, 2023 02:55:50 |
+| Lobby Creation Time | Thursday, December 28, 2023 02:56:02 |
 
 
