@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541854821663 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | PARKA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:25:14 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541854993621 |
-| Players | 10/15 |
-| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 06:25:35 |
+| Lobby ID | 28576541855671508 |
+| Players | 2/15 |
+| Host Name | sooshiant |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 28, 2023 06:26:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541853542118 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Gms_fan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:22:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541854470124 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Canela pasión |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:24:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541854172806 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mr.Popo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:23:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541855376440 |
-| Players | 1/10 |
+| Players | 9/10 |
 | Host Name | mom |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:26:19 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541855447082 |
-| Players | 2/8 |
-| Host Name | Солевая шлюха |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:26:27 |
+| Lobby ID | 28576541855546895 |
+| Players | 3/8 |
+| Host Name | Misha.Lomiw |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 06:26:39 |
 
 
 |  | epic_boss_fight_nightmare |
