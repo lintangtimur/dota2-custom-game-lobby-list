@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541381854420 |
-| Players | 6/8 |
-| Host Name | Shiiet |
+| Lobby ID | 28576541382805311 |
+| Players | 9/10 |
+| Host Name | Echorhythm❜a |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:11:59 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:12:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541382724657 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | dance w/me |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:12:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541361346455 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | SIX NALL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:53:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541371420964 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Бубен 2 куртки |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:02:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541381767330 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | wabisabi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:11:55 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:12:32 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541382805311 |
-| Players | 7/10 |
-| Host Name | Echorhythm❜a |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:12:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541381853277 |
-| Players | 10/15 |
-| Host Name | naswuai崩壊 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:11:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541379672353 |
@@ -113,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541380243411 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:10:30 |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541382926211 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Мамут Рахал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:12:57 |
