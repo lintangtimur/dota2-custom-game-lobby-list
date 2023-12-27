@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541235970895 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Гинеколог-шахтер |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:45:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541237785900 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Finna |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:47:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541237808935 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | lost |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:47:58 |
@@ -77,27 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541237986551 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | South China Sea |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:48:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541238281283 |
-| Players | 12/15 |
-| Host Name | _ |
+| Lobby ID | 28576541238468501 |
+| Players | 1/8 |
+| Host Name | sftr |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:48:32 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:48:45 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541237334986 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mythical |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:47:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541238542726 |
+| Players | 1/10 |
+| Host Name | Someone |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:48:50 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28576541238615781 |
+| Players | 4/7 |
+| Host Name | subsonic |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:48:56 |
 
 
