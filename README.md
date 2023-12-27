@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541585576647 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Luciana <3 :3 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 00:32:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541587839602 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | якурюшадоудемона |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:35:00 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541587767082 |
-| Players | 3/15 |
-| Host Name | Cypher |
+| Players | 6/15 |
+| Host Name | toffi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:34:56 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541587679019 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | DysonGod |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:34:50 |
@@ -104,10 +104,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541587932324 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Inoculisfurorem |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 00:35:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541588118605 |
+| Players | 4/8 |
+| Host Name | автостоянка |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 00:35:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541588121033 |
+| Players | 5/8 |
+| Host Name | сайлент хилл |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 00:35:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541588115023 |
+| Players | 1/24 |
+| Host Name | aaroneverr |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 00:35:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541588122006 |
+| Players | 1/8 |
+| Host Name | l0s0k |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:35:19 |
 
 
 |  | epic_boss_fight_nightmare |
