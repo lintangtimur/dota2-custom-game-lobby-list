@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541870903093 |
-| Players | 9/15 |
-| Host Name | unprocurable |
+| Lobby ID | 28576541871250666 |
+| Players | 1/15 |
+| Host Name | God Rays |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 06:57:42 |
+| Lobby Creation Time | Thursday, December 28, 2023 06:58:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541870855770 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | вася санстрайк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541870319883 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Euphoria |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:56:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541870911756 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | CAPTAIN  giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541870538980 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Marshall |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:56:57 |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:56 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28576541871161497 |
-| Players | 1/7 |
-| Host Name | Eajinaevone |
+| Lobby ID | 28576541871234258 |
+| Players | 2/5 |
+| Host Name | CiccioMalo |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 06:58:14 |
+| Lobby Creation Time | Thursday, December 28, 2023 06:58:23 |
 
 
