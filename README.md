@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541833699979 |
-| Players | 14/15 |
-| Host Name | killing is my bussiness.., |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:46:09 |
+| Lobby ID | 28576541835401423 |
+| Players | 8/15 |
+| Host Name | Assister |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:49:08 |
 
 
 |  | ot3_gardens_duo |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 05:06:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541833936489 |
-| Players | 23/24 |
-| Host Name | ☆ARCE☆ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 05:46:34 |
+| Lobby ID | 28576541835453605 |
+| Players | 1/8 |
+| Host Name | < blank > |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:49:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541833698329 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | muchacho |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 05:46:08 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541834994788 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Zion T zioN |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 05:48:24 |
@@ -130,11 +130,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541835401423 |
-| Players | 2/15 |
-| Host Name | Assister |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 05:49:08 |
+| Lobby ID | 28576541835487196 |
+| Players | 1/15 |
+| Host Name | UgotSky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:49:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541835499497 |
+| Players | 3/15 |
+| Host Name | ToTi |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 05:49:18 |
 
 
 |  | epic_boss_fight_normal |
