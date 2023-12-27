@@ -13,38 +13,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541423661955 |
-| Players | 14/15 |
-| Host Name | VRODE LENS |
+| Lobby ID | 28576541424382648 |
+| Players | 10/15 |
+| Host Name | ВЕТЕРАН КАЙФА ∞ ka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:50:12 |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:50:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541424106130 |
-| Players | 2/10 |
-| Host Name | Hoshino☆ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:50:37 |
+| Lobby ID | 28576541424713830 |
+| Players | 3/8 |
+| Host Name | Aristotle |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:51:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541421050291 |
-| Players | 4/24 |
-| Host Name | Zero Two |
+| Players | 2/24 |
+| Host Name | mrbi1995 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:47:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541420166691 |
-| Players | 19/24 |
-| Host Name | Miku |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:46:59 |
+| Lobby ID | 28576541421897980 |
+| Players | 7/8 |
+| Host Name | ESPADA NEGATIV |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 21:48:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,43 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541422581823 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | ت󠀡󠀡 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:49:12 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541421897980 |
-| Players | 6/8 |
-| Host Name | ESPADA NEGATIV |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:48:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541424382648 |
-| Players | 3/15 |
-| Host Name | ВЕТЕРАН КАЙФА ∞ ka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:50:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541424384715 |
-| Players | 5/8 |
-| Host Name | Wex |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:50:52 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28576541423246385 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | YatoroGood |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:49:49 |
