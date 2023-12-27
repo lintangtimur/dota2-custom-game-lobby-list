@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541626647736 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Classic throw |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541700966614 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Truck-kun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:40:37 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541711830902 |
-| Players | 6/8 |
-| Host Name | BlackOUT- |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:53:26 |
+| Lobby ID | 28576541714788492 |
+| Players | 2/8 |
+| Host Name | ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:56:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541706841957 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | AleJandro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:47:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541714326896 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | :p |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 02:56:25 |
@@ -101,37 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:54:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541714651200 |
-| Players | 5/10 |
-| Host Name | Sour [WP] |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:56:48 |
+| Lobby ID | 28576541714932995 |
+| Players | 3/8 |
+| Host Name | lost in the supermarket |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:57:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541714743650 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | НОХЧО БОРЗ 95🐺 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 02:56:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541714788492 |
-| Players | 1/8 |
-| Host Name | ? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:56:58 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541710924878 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | NyarLa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:52:21 |
