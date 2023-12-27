@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541868330204 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Jovito |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 06:52:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541862350343 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 06:40:15 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541853542118 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | ;] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:22:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541868133777 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | =) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:52:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541868369723 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | Murdoc |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:52:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541868752703 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | SrуMaмЯрakッ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:53:16 |
@@ -86,16 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541868768677 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:53:18 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541867921162 |
+| Players | 8/10 |
+| Host Name | La Joya |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 06:51:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541868411813 |
+| Players | 14/15 |
+| Host Name | le_Chapun |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:52:34 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541866435630 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Danielicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:48:34 |
