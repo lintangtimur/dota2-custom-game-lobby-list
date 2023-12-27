@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541806023815 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | 202 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 05:00:13 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541804330984 |
-| Players | 2/10 |
-| Host Name | Lisi Globus |
+| Players | 1/10 |
+| Host Name | Люблю письки |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:57:34 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541805575496 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | M.R-YoEL |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:59:31 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541804937492 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | let me offlane |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:58:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541804448619 |
-| Players | 9/10 |
-| Host Name | SrGato |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 04:57:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | $%&@dota&%"! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:59:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541806083672 |
+| Players | 2/15 |
+| Host Name | Raureif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 05:00:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541806121333 |
+| Players | 2/8 |
+| Host Name | Fictionxx |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 05:00:22 |
 
 
 |  | epic_boss_fight_nightmare |
