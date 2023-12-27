@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541235498348 |
-| Players | 3/15 |
-| Host Name | asl番 |
+| Lobby ID | 28576541235653885 |
+| Players | 4/15 |
+| Host Name | тайлер дерден |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:45:12 |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:45:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 18:44:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541235196400 |
-| Players | 7/10 |
-| Host Name | swap commends |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 18:44:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541233509757 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541234269585 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SUP IS MY LIFE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:43:44 |
