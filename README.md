@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541576607859 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | marlin.max |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 00:23:02 |
@@ -29,57 +29,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:23:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541573701125 |
-| Players | 3/8 |
-| Host Name | Berserk's blood |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 00:19:59 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541577541232 |
-| Players | 9/10 |
-| Host Name | Detect |
+| Lobby ID | 28576541577769144 |
+| Players | 1/10 |
+| Host Name | 윌리엄 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 00:24:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541577817298 |
+| Players | 3/8 |
+| Host Name | победитель |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 00:24:01 |
+| Lobby Creation Time | Thursday, December 28, 2023 00:24:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541577677502 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | P1xel |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:24:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541577544113 |
-| Players | 7/8 |
-| Host Name | WALTI |
+| Lobby ID | 28576541577737702 |
+| Players | 4/10 |
+| Host Name | 666666 igrushka otchima |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 00:24:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541577702330 |
-| Players | 3/8 |
-| Host Name | крабовый абалдуй |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 00:24:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541577732033 |
-| Players | 1/15 |
-| Host Name |  |
-| Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 00:24:14 |
 
 
