@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541774319532 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ꧁༺₦Ї₦ℑ₳༻꧂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 04:13:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541789656028 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | DOOM RAMON |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:35:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541786070003 |
-| Players | 16/24 |
+| Players | 14/24 |
 | Host Name | Monke |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:30:05 |
@@ -68,36 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541790097319 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Пиструн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:35:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541789961997 |
-| Players | 4/8 |
-| Host Name | -conman |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:35:46 |
+| Lobby ID | 28576541790267905 |
+| Players | 6/15 |
+| Host Name | Zoda |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 04:36:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541790157261 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | VskrivatelEby4ek |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 04:36:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541790156559 |
-| Players | 1/15 |
-| Host Name | GraF044 |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:36:03 |
 
 
