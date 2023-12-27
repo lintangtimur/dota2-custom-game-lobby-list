@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541841490896 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | AERO'DYNAMIC |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:00:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541842078860 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | GNEBMONSTER |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:01:09 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541842220767 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | paxan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:01:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541842248395 |
-| Players | 1/10 |
-| Host Name | arthas is alive |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 06:01:27 |
 
 
 |  | epic_boss_fight_normal |
