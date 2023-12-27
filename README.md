@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:43:16 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541558603100 |
-| Players | 6/8 |
-| Host Name | xxGodInstincxX |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:04:06 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541555956656 |
-| Players | 16/24 |
-| Host Name | Now I am become death |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 00:01:18 |
+| Lobby ID | 28576541554812599 |
+| Players | 9/24 |
+| Host Name | Hektisch |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 00:00:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541561240756 |
+| Players | 6/10 |
+| Host Name | Комар-парижанин |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 00:06:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,58 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:00:51 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541559252102 |
-| Players | 2/10 |
-| Host Name | / |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 00:04:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541557971953 |
-| Players | 3/10 |
-| Host Name | < blank > |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 00:03:26 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541557770973 |
-| Players | 11/15 |
-| Host Name | £雨٭:̶͟͞͞☆ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 00:03:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541554845827 |
-| Players | 6/10 |
-| Host Name | Crocodilo amassado |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 00:00:09 |
+| Lobby ID | 28576541560997563 |
+| Players | 8/15 |
+| Host Name | Werewolf.GR |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 00:06:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541554812599 |
-| Players | 10/24 |
-| Host Name | Hektisch |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:00:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541560467910 |
-| Players | 3/8 |
-| Host Name | Tr1ckSSSt3r |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:06:02 |
+| Lobby ID | 28576541561266026 |
+| Players | 1/24 |
+| Host Name | NightSuki ツユ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 00:06:52 |
 
 
 |  | ot3_desert_octet |
@@ -101,21 +65,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 00:05:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541560444848 |
-| Players | 11/15 |
-| Host Name | ❅ |
+| Lobby ID | 28576541561302335 |
+| Players | 1/8 |
+| Host Name | трубодур абрамов |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:06:00 |
+| Lobby Creation Time | Thursday, December 28, 2023 00:06:54 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541557148443 |
-| Players | 3/5 |
-| Host Name | FAITH |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 00:02:33 |
+| Lobby ID | 28576541560845552 |
+| Players | 9/10 |
+| Host Name | 52 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 00:06:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541561095325 |
+| Players | 2/10 |
+| Host Name | Deiymos™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 00:06:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541561151217 |
+| Players | 1/10 |
+| Host Name | Magnum Dong |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 00:06:44 |
 
 
