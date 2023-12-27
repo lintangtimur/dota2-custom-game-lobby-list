@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541853542118 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Gms_fan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:22:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541863705610 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | га дэм |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:43:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541863763888 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Mode:Великий уксус |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:43:11 |
@@ -92,28 +92,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 06:43:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541859746362 |
-| Players | 14/15 |
-| Host Name | Atlas Troll |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 06:34:56 |
+| Lobby ID | 28576541863820560 |
+| Players | 2/10 |
+| Host Name | РУКОПАШНЫЙ СЕКС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:43:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541862221170 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | SampleRadical |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:39:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541863860633 |
+| Players | 1/15 |
+| Host Name | 情书举世无双.ヾ |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Thursday, December 28, 2023 06:43:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541863562017 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Holmes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:42:47 |
