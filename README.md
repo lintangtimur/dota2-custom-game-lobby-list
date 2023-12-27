@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:03:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541668601789 |
-| Players | 2/8 |
-| Host Name | sfxooz // сухоза |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:03:39 |
+| Lobby ID | 28576541666656629 |
+| Players | 8/10 |
+| Host Name | CCCR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:01:28 |
 
 
 |  | ot3_desert_octet |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541668567488 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Krol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:03:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541668347558 |
-| Players | 10/15 |
-| Host Name | TRADE COMEND |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 02:03:22 |
+| Lobby ID | 28576541669215827 |
+| Players | 2/10 |
+| Host Name | capybara mindset |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:04:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:03:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541668552815 |
-| Players | 8/10 |
-| Host Name | _NIPPLECUTTER6669_420 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 02:03:36 |
+| Lobby ID | 28576541669091657 |
+| Players | 8/15 |
+| Host Name | SAMOED |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 02:04:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541662571763 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | EL REAL CARRY LLEGO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 01:56:53 |
@@ -81,33 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Berserk's blood |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 02:00:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541666656629 |
-| Players | 8/10 |
-| Host Name | CCCR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:01:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28576541662290067 |
-| Players | 23/24 |
-| Host Name | EPEEB.giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 01:56:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541669091657 |
-| Players | 2/15 |
-| Host Name | SAMOED |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 02:04:13 |
 
 
 |  | epic_boss_fight_nightmare |
