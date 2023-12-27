@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541227568852 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:35:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541231699045 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | абсолют ник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:40:36 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541231645716 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Se Acaba el Tiempo |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:40:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541232205542 |
+| Players | 6/8 |
+| Host Name | Hau Na #4 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:41:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541232210366 |
+| Players | 3/8 |
+| Host Name | sadness时间 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 18:41:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541230999528 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 18:39:43 |
