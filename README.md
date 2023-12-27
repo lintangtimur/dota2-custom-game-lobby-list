@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:21:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541327537066 |
-| Players | 7/8 |
-| Host Name | bararāku saika! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:21:45 |
+| Lobby ID | 28576541327925326 |
+| Players | 9/15 |
+| Host Name | no horny |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:22:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541320088770 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ..c.I.e.. |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:14:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541325805619 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | OK Computer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:20:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541326006139 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | jnikko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:20:18 |
@@ -68,45 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541327749293 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 14 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:21:56 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541327925326 |
-| Players | 2/15 |
-| Host Name | no horny |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:22:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541327947224 |
-| Players | 6/8 |
-| Host Name | Leanquisitor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:22:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541324430246 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | EP |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:18:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28576541327474560 |
-| Players | 9/10 |
-| Host Name | Topson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:21:41 |
 
 
