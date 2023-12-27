@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541297372361 |
-| Players | 19/24 |
-| Host Name | emo |
+| Lobby ID | 28576541308566733 |
+| Players | 1/8 |
+| Host Name | ГАТУЙСРАКУ |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 19:52:35 |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:03:36 |
 
 
 |  | ot3_gardens_duo |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 19:53:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541306834129 |
-| Players | 9/10 |
-| Host Name | SimpleJust 🇺🇦 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:01:54 |
+| Lobby ID | 28576541308562815 |
+| Players | 1/8 |
+| Host Name | Ghosty ❤ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:03:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541302954621 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Mia Khalifa.Onlyfans✪ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 19:58:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541307699110 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Borov |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541307727082 |
-| Players | 4/10 |
+| Players | 1/10 |
 | Host Name | ~$amahasla$~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:46 |
@@ -95,43 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541307934154 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Koala Killer |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541308566733 |
-| Players | 1/8 |
-| Host Name | ГАТУЙСРАКУ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:03:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541308562815 |
-| Players | 1/8 |
-| Host Name | Ghosty ❤ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:03:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541308643056 |
-| Players | 2/8 |
-| Host Name | Fumimochi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:03:41 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541307814018 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | DOBBY IS A FREE ELF |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:02:51 |
