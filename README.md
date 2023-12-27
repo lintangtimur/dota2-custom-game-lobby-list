@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541528683948 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 戯作 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:33:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541530691540 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Kajiro |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:35:06 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541525878686 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | SrGato |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:30:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541530389700 |
-| Players | 7/10 |
-| Host Name | Маркетплейс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:34:47 |
+| Lobby ID | 28576541530613089 |
+| Players | 2/8 |
+| Host Name | Геннадий Треев |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:35:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541529001876 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Блядь ебаная |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 23:33:22 |
@@ -110,40 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 23:34:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541529614069 |
-| Players | 11/15 |
-| Host Name | bA™aN |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:34:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541530613089 |
-| Players | 2/8 |
-| Host Name | Геннадий Треев |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:35:01 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541530790795 |
-| Players | 1/10 |
-| Host Name | vas ebet ⇒ z1pex |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:35:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541528036283 |
-| Players | 14/15 |
-| Host Name | Maybe~ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, December 27, 2023 23:32:23 |
+| Lobby ID | 28576541530957236 |
+| Players | 5/10 |
+| Host Name | БОЛЬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 23:35:22 |
 
 
 |  | epic_boss_fight_nightmare |
