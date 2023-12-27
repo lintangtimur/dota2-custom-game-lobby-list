@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541781818342 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:23:59 |
@@ -50,43 +50,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541845884213 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Lucero ❤ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:08:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541844174378 |
-| Players | 22/24 |
-| Host Name | PIPHELS |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, December 28, 2023 06:05:02 |
+| Lobby ID | 28576541845998551 |
+| Players | 7/15 |
+| Host Name | coac1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:08:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541844708153 |
-| Players | 6/8 |
-| Host Name | 76561198254294132 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 06:06:02 |
+| Lobby ID | 28576541845911933 |
+| Players | 2/8 |
+| Host Name | El Mata Por Gusto |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 06:08:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541844908217 |
-| Players | 13/15 |
-| Host Name | Creed |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 06:06:24 |
+| Lobby ID | 28576541845990923 |
+| Players | 3/8 |
+| Host Name | Кастрюля Хуев |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 06:08:25 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541845815759 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | 27 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:08:05 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541845911933 |
-| Players | 1/8 |
-| Host Name | El Mata Por Gusto |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 06:08:16 |
+| Lobby ID | 28576541846018394 |
+| Players | 4/8 |
+| Host Name | Fernandos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 06:08:28 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541845221468 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 黄瓜 (CR) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 06:06:59 |
