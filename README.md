@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541360809324 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | MY SOLDIER |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:52:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541357934042 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Aposentado |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:50:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541350031752 |
-| Players | 21/24 |
+| Players | 19/24 |
 | Host Name | FOREVER YOUNG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:42:54 |
@@ -40,9 +40,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541360761744 |
-| Players | 7/8 |
-| Host Name | mmr genocide |
+| Lobby ID | 28576541360774742 |
+| Players | 1/8 |
+| Host Name | АДСКИЙ САТАНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:52:43 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541360466605 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | пон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:52:27 |
@@ -83,28 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 20:53:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541360774742 |
-| Players | 1/8 |
-| Host Name | АДСКИЙ САТАНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:52:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541361199014 |
-| Players | 2/8 |
-| Host Name | JaaJ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 20:53:06 |
+| Lobby ID | 28576541361346455 |
+| Players | 1/24 |
+| Host Name | SIX NALL |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, December 27, 2023 20:53:15 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541360760464 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | Soul_King |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 20:52:43 |
