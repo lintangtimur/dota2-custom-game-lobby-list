@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541719793293 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | MX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 03:03:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541626647736 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | E R O S |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 01:17:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541725847560 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Johan Pohan |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:10:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541723895554 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | tilt queue enjoyer |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:07:59 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 02:59:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541725508985 |
-| Players | 6/8 |
-| Host Name | 123123123123123123 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 03:10:00 |
+| Lobby ID | 28576541725183269 |
+| Players | 9/15 |
+| Host Name | McDi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 03:09:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541725166999 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Si me matas extrañas a tu ex :( |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:09:34 |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541721728707 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | M-khan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 03:05:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541726410326 |
+| Players | 1/10 |
+| Host Name | Vin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:11:07 |
 
 
