@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541180561500 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Kishii 💓❤ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:31:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541181412572 |
-| Players | 11/15 |
-| Host Name | paranoednotmentallystable |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:32:24 |
+| Lobby ID | 28576541181751961 |
+| Players | 5/10 |
+| Host Name | sayonara雨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:32:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541119374828 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | B E R S E R K |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 15:51:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541165151465 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, December 27, 2023 17:07:34 |
@@ -47,48 +47,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 17:25:09 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541182132694 |
+| Players | 12/15 |
+| Host Name | smol_man |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:33:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541182340223 |
+| Players | 2/15 |
+| Host Name | ت󠀡󠀡 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:33:48 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541181009038 |
-| Players | 7/8 |
-| Host Name | Voland |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:31:48 |
+| Lobby ID | 28576541182215653 |
+| Players | 3/8 |
+| Host Name | Shisha |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:33:37 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541181751961 |
-| Players | 2/10 |
-| Host Name | sayonara雨 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:32:55 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28576541179444866 |
-| Players | 6/7 |
-| Host Name | Mr.Бомбастик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:29:28 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541181956091 |
-| Players | 1/5 |
-| Host Name | Alprizxc |
+| Lobby ID | 28576541182080054 |
+| Players | 4/10 |
+| Host Name | Just subscribe for Linda H |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:33:13 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:33:25 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28576541181950153 |
-| Players | 1/5 |
-| Host Name | ssr |
+| Lobby ID | 28576541182188900 |
+| Players | 1/10 |
+| Host Name | pepeLaugh |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 17:33:13 |
+| Lobby Creation Time | Wednesday, December 27, 2023 17:33:34 |
 
 
