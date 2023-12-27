@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541433961925 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | overdose  |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:59:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541432078964 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Sniper Handal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:58:03 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541431968613 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | MagiskeMogens |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:57:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541433552300 |
-| Players | 7/8 |
-| Host Name | c'est |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:59:26 |
+| Lobby ID | 28576541434171655 |
+| Players | 2/15 |
+| Host Name | EsKunG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:00:01 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541433885538 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | sideral_frio |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:59:45 |
@@ -74,58 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, December 27, 2023 21:59:44 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28576541433904065 |
-| Players | 6/10 |
-| Host Name | VIE.bet |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, December 27, 2023 21:59:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541434104294 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | ЭгоиСт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:59:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541434171655 |
-| Players | 2/15 |
-| Host Name | EsKunG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:00:01 |
+| Lobby ID | 28576541434420782 |
+| Players | 2/8 |
+| Host Name | Zoned |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:00:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541434321443 |
-| Players | 3/8 |
-| Host Name | !OLE! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:00:10 |
+| Lobby ID | 28576541434482533 |
+| Players | 6/8 |
+| Host Name | pder cooks |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:00:19 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541433650854 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | MILF HUNTER |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, December 27, 2023 21:59:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28576541434305026 |
-| Players | 1/5 |
-| Host Name | Suk Mai |
-| Region | INDIA |
-| Lobby Creation Time | Wednesday, December 27, 2023 22:00:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Киса |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, December 27, 2023 22:00:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28576541434427890 |
+| Players | 1/10 |
+| Host Name | Suk Mai |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, December 27, 2023 22:00:16 |
 
 
