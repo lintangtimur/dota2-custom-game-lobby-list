@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541794307944 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | xituro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:42:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541795668730 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | paz |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:44:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541794248448 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Cocained |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:42:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541794546369 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | J!N |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 04:42:39 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541795880303 |
-| Players | 2/15 |
-| Host Name | AKIRA |
+| Players | 6/15 |
+| Host Name | Baglale-Baglale |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 04:44:38 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541795585970 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Gerzson12 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 04:44:12 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28576541795481481 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | VOIDRAPTOR21 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 04:44:02 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28576541795942640 |
+| Players | 1/7 |
+| Host Name | KenjiS |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 04:44:44 |
 
 
