@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541739861505 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | LOCO CHESS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 03:27:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541741442017 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Дякую |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:29:45 |
@@ -95,16 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541741480061 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | shadow |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:29:48 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28576541741901625 |
+| Players | 1/8 |
+| Host Name | Julwer1k |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 03:30:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28576541731537472 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | GAGA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 03:17:23 |
