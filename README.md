@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713990768613 |
-| Players | 12/15 |
-| Host Name | Splicer |
+| Lobby ID | 28583713991157135 |
+| Players | 8/10 |
+| Host Name | cancer. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 17:31:25 |
+| Lobby Creation Time | Thursday, December 28, 2023 17:31:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713990609081 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | в 24 выйду по удо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:31:11 |
@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713991175948 |
-| Players | 3/24 |
-| Host Name | I'm Milk |
+| Players | 1/24 |
+| Host Name | Phantacy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:32:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713991157135 |
-| Players | 3/10 |
-| Host Name | cancer. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 17:31:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713990579461 |
-| Players | 9/10 |
-| Host Name | Why is everyone afraid of me? |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 17:31:09 |
 
 
 |  | epic_boss_fight_nightmare |
