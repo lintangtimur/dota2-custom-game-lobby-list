@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713878933318 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | актер живодер каскадер |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:30:52 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713820665493 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | asd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:39:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713881499968 |
-| Players | 7/8 |
-| Host Name | Ramen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:35:27 |
+| Lobby ID | 28583713882387229 |
+| Players | 3/10 |
+| Host Name | Dead_Dragon |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:37:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713880870765 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 14:34:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713882414393 |
+| Players | 3/15 |
+| Host Name | Ethereal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:37:06 |
 
 
 |  | epic_boss_fight_nightmare |
