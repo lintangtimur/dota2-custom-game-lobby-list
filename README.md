@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713886558805 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | MrSuperman|002| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:44:34 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:39:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713886268007 |
-| Players | 7/8 |
-| Host Name | Kärss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:44:04 |
+| Lobby ID | 28583713886867811 |
+| Players | 5/24 |
+| Host Name | ALEXISTHEPOGIMAN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:45:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,28 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:43:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713885890499 |
-| Players | 3/8 |
-| Host Name | Axiz |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 14:43:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713886867811 |
-| Players | 5/24 |
-| Host Name | ALEXISTHEPOGIMAN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:45:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713884505274 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SakalFTW |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:40:51 |
