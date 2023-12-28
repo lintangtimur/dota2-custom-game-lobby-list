@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:35:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713918988310 |
-| Players | 7/8 |
-| Host Name | в 24 выйду по удо |
+| Lobby ID | 28583713922267400 |
+| Players | 5/15 |
+| Host Name | getawaygetawaygetawaygetawaygeta |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:39:37 |
+| Lobby Creation Time | Thursday, December 28, 2023 15:45:09 |
 
 
 |  | ot3_gardens_duo |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713921373306 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | M4ik3ru ☠ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:43:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713922229192 |
-| Players | 1/8 |
-| Host Name | Chris |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 15:45:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713922268545 |
-| Players | 1/15 |
-| Host Name | Detelinara{RUBIN} |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:45:09 |
 
 
 |  | epic_boss_fight_nightmare |
