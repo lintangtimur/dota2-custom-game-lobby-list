@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713701169082 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | O Pai |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:34:04 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713703325602 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Atomic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:38:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713703050007 |
-| Players | 1/10 |
-| Host Name | Адидас (Junior) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:38:07 |
+| Lobby ID | 28583713702953041 |
+| Players | 3/15 |
+| Host Name | NeDix! |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:37:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713701805078 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | XFullHouse |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:35:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713703236278 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | JUDE BELLINGHAM |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:38:31 |
@@ -94,19 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713702953041 |
-| Players | 3/15 |
-| Host Name | NeDix! |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:37:54 |
+| Lobby ID | 28583713703602029 |
+| Players | 4/15 |
+| Host Name | Deus |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 08:39:19 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713703531150 |
-| Players | 1/5 |
-| Host Name | 2945819566 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Thursday, December 28, 2023 08:39:10 |
+| Lobby ID | 28583713703624674 |
+| Players | 3/8 |
+| Host Name | BigBoyAbuDhabi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:39:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713703554114 |
+| Players | 1/10 |
+| Host Name | Tōdō Aoi |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:39:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713703609173 |
+| Players | 1/10 |
+| Host Name | Mweh. |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 08:39:20 |
 
 
