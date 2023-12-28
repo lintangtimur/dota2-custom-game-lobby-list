@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713927033712 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | 小百合 平野 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:52:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713927469219 |
-| Players | 10/15 |
-| Host Name | Usim |
+| Lobby ID | 28583713928674653 |
+| Players | 3/10 |
+| Host Name | AkameAnime |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:53:41 |
+| Lobby Creation Time | Thursday, December 28, 2023 15:55:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713927842106 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Mischievous Hooligan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 15:54:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713928380558 |
-| Players | 3/8 |
-| Host Name | Chuxan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:55:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713928405828 |
-| Players | 1/10 |
-| Host Name | helloff ⛔TRADE BANNED⛔ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 15:55:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:54:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713924251011 |
-| Players | 9/10 |
-| Host Name | OnlyGOD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:48:26 |
 
 
