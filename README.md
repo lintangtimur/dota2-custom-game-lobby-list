@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713825846740 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ErvinGabriel {FTF2∫Time-Fire} |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:49:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713827356665 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | S∀︎Y∀︎N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:52:48 |
