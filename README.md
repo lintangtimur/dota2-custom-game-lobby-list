@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713752312269 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | TORONTOCOSH |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:20:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713751510400 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | harcaritios |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:19:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713752933155 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:21:55 |
@@ -103,11 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713753131935 |
-| Players | 3/15 |
-| Host Name | Katie Porter will save us |
+| Lobby ID | 28583713751567260 |
+| Players | 14/15 |
+| Host Name | RON |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:19:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713749107417 |
+| Players | 23/24 |
+| Host Name | Kaido |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 10:14:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713753245578 |
+| Players | 1/15 |
+| Host Name | Microfry |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 10:22:19 |
+| Lobby Creation Time | Thursday, December 28, 2023 10:22:34 |
 
 
 |  | epic_boss_fight_nightmare |
