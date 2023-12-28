@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713824449621 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ждите меня на след инте |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:47:04 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713823612578 |
-| Players | 8/10 |
-| Host Name | infinity |
+| Lobby ID | 28583713824938462 |
+| Players | 4/10 |
+| Host Name | 알렉산드라 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:45:24 |
+| Lobby Creation Time | Thursday, December 28, 2023 12:48:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713824091125 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | STEFON |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:46:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713824905382 |
-| Players | 5/8 |
-| Host Name | HOY PIERDO, MAÑANA GANO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:47:58 |
 
 
 |  | epic_boss_fight_nightmare |
