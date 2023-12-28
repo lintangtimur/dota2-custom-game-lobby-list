@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:38:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713676566924 |
-| Players | 10/15 |
-| Host Name | Skin Man |
+| Lobby ID | 28583713676969754 |
+| Players | 5/8 |
+| Host Name | Axiz |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 07:41:30 |
+| Lobby Creation Time | Thursday, December 28, 2023 07:42:21 |
 
 
 |  | ot3_desert_octet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:42:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713675531096 |
-| Players | 7/8 |
-| Host Name | Hartmann |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 07:39:15 |
+| Lobby ID | 28583713677041461 |
+| Players | 2/15 |
+| Host Name | diesdas duschdas |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 07:42:30 |
 
 
 |  | ot3_gardens_duo |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | rseoz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:41:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713676974818 |
-| Players | 3/8 |
-| Host Name | TOMA PERRO BRAZO DE 35 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 07:42:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713676969754 |
-| Players | 1/8 |
-| Host Name | Axiz |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 07:42:21 |
 
 
 |  | epic_boss_fight_nightmare |
