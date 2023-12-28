@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713704544692 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Kaido |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:41:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713705651242 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | El Gotto Cuba |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:43:50 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713705473309 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Sin ella no soy nada:( |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:43:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713706088866 |
-| Players | 1/24 |
-| Host Name | 陰陽 |
+| Lobby ID | 28583713706168021 |
+| Players | 3/8 |
+| Host Name | ... |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:44:46 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:44:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mweh. |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 08:39:20 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28583713706087518 |
-| Players | 1/7 |
-| Host Name | Flexflouzen |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 08:44:46 |
 
 
