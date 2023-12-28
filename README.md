@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713690732300 |
-| Players | 7/10 |
-| Host Name | @prolux |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:11:57 |
+| Lobby ID | 28583713691244205 |
+| Players | 1/24 |
+| Host Name | S |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:13:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713690296772 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Ella ya es feliz conmigo◕_◕ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:10:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713690747771 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | VanCleef |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:11:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713689032215 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:08:13 |
@@ -67,20 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713691005137 |
-| Players | 13/15 |
-| Host Name | Turtle |
+| Lobby ID | 28583713691117026 |
+| Players | 3/15 |
+| Host Name | Jaylaps Brozingis |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:12:32 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:12:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713691117026 |
-| Players | 2/15 |
-| Host Name | Jaylaps Brozingis |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:12:46 |
+| Lobby ID | 28583713688972393 |
+| Players | 14/15 |
+| Host Name | Aetheris |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:08:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713691310799 |
+| Players | 2/10 |
+| Host Name | TOUCH ME |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:13:10 |
 
 
 |  | epic_boss_fight_nightmare |
