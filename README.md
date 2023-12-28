@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713729850882 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Pliquetor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:34:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | SampleRadical |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713729956363 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 161 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:34:53 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 09:34:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713730395960 |
-| Players | 11/15 |
-| Host Name | BallxGod |
+| Lobby ID | 28583713729372982 |
+| Players | 1/10 |
+| Host Name | Крип-Пехотинец |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 09:35:49 |
+| Lobby Creation Time | Thursday, December 28, 2023 09:33:40 |
 
 
 |  | ot3_gardens_duo |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cuida Televisores |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:35:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713729372982 |
-| Players | 2/10 |
-| Host Name | :)) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 09:33:40 |
 
 
