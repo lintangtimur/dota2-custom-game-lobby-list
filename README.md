@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | DooBop |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713710211417 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mr.Popo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:53:32 |
@@ -83,33 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:53:02 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713710199994 |
-| Players | 8/10 |
-| Host Name | 1KlasNumberOne |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:53:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713710247995 |
-| Players | 2/15 |
-| Host Name | Sandstorm |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:53:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713710240662 |
-| Players | 6/15 |
-| Host Name | Leo <3 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:53:35 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713710399385 |
@@ -119,13 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:53:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713710505395 |
-| Players | 2/8 |
-| Host Name | forbidden |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:54:09 |
+| Lobby ID | 28583713710247995 |
+| Players | 4/15 |
+| Host Name | Sandstorm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:53:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713710240662 |
+| Players | 8/15 |
+| Host Name | Leo <3 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:53:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713709718595 |
+| Players | 14/15 |
+| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:52:30 |
 
 
 |  | epic_boss_fight_nightmare |
