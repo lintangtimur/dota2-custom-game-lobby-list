@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714032591613 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | twitch.tv/moskvinio |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:27:23 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714032067051 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Haktaru |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:26:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714033058476 |
+| Players | 6/8 |
+| Host Name | I am |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:27:57 |
 
 
 |  | epic_boss_fight_nightmare |
