@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713810275861 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Boaty McBoatface |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:18:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713811303857 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:20:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713811393073 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | alofoke |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:20:53 |
@@ -94,17 +94,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713810105697 |
-| Players | 1/24 |
-| Host Name | DarkMoon |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:18:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28583713810124150 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Cerdo Comunista |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:18:21 |
