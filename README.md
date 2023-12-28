@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713720548397 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | [w]Easy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:15:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713714328519 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Infinity Bull |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:02:13 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:59:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713721170759 |
-| Players | 1/8 |
-| Host Name | Metalias |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 09:16:43 |
+| Lobby ID | 28583713721281512 |
+| Players | 3/15 |
+| Host Name | Coltello Per MDMA |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 09:16:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713720796152 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | lLitOl |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:15:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713721140571 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | seshollowaterboyz. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:16:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713720825309 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MK |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:16:00 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 09:16:15 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713721281512 |
-| Players | 1/15 |
-| Host Name | Coltello Per MDMA |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 09:16:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713721111690 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dndama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:16:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713715186141 |
+| Players | 8/10 |
+| Host Name | MESSI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 09:04:01 |
 
 
