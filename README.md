@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714097110246 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Angelico |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 19:39:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714105298023 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Stengah |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:47:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714113274309 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | chezy chez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:55:27 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 19:44:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714112739883 |
-| Players | 8/10 |
-| Host Name | Геннадий Треев |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:54:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583714112886856 |
-| Players | 12/24 |
-| Host Name | YouKnowMyName |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:55:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714113517785 |
-| Players | 7/8 |
-| Host Name | Qootak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:55:41 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714113760572 |
@@ -101,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 19:55:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714110759734 |
-| Players | 9/10 |
-| Host Name | aaa |
+| Lobby ID | 28583714112886856 |
+| Players | 15/24 |
+| Host Name | YouKnowMyName |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:53:01 |
+| Lobby Creation Time | Thursday, December 28, 2023 19:55:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583714113979016 |
+| Players | 1/10 |
+| Host Name | xxoda04 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:56:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714114035867 |
+| Players | 1/8 |
+| Host Name | Twitchy Priest |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:56:11 |
 
 
 |  | epic_boss_fight_nightmare |
