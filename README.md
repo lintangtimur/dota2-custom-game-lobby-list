@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713800039219 |
-| Players | 22/24 |
-| Host Name | U-Dawg |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:58:00 |
+| Lobby ID | 28583713805630693 |
+| Players | 1/10 |
+| Host Name | аллё |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 12:09:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713805131466 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | RAW [MUTED] |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:08:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713805577644 |
-| Players | 1/24 |
-| Host Name | Kicho |
+| Players | 3/24 |
+| Host Name | Recluse.Jean |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:09:08 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713803284715 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | onaforp xessib |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:04:31 |
