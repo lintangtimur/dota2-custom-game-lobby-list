@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713712743685 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Flyn Raider *Vip Zone*TRADEIT.GG |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 08:58:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713713164396 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Tribilin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:59:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713711221007 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | Yes Chef! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:55:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713712704078 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Maximus |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:58:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713712734305 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:58:52 |
