@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713974166485 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 17:07:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713976029709 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Pochison |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:09:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713975280136 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:08:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713976489408 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Ksavar? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:10:35 |
