@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713798648596 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:55:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713802157247 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | El MALDITO CREEP |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:02:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713801352580 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Joy Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:00:38 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713801102652 |
-| Players | 3/10 |
-| Host Name | ZzzDddRrr |
+| Players | 4/10 |
+| Host Name | WTF?!о_0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:00:08 |
 
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KLL |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 11:59:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713802343448 |
+| Players | 5/8 |
+| Host Name | POWER RANGER  WHITE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:02:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713802348445 |
+| Players | 2/15 |
+| Host Name | El whiskas |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:02:39 |
 
 
 |  | epic_boss_fight_nightmare |
