@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714047520403 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | overdose  |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:45:21 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714001993731 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | [PONYVAKLA] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:47:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714052553919 |
-| Players | 3/8 |
-| Host Name | Menacin |
+| Lobby ID | 28583714052334821 |
+| Players | 7/10 |
+| Host Name | Absolut v potoke spermi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:51:12 |
+| Lobby Creation Time | Thursday, December 28, 2023 18:50:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714052565729 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Kvesty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:51:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714053047341 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | KnICE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:51:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714052410305 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Hektisch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:51:02 |
@@ -86,37 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714052339335 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | ☢Yazheek☢ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:50:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714052334821 |
-| Players | 8/10 |
-| Host Name | Absolut v potoke spermi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:50:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714052725332 |
-| Players | 14/15 |
-| Host Name | דָּוִד בֶּן־גּוּ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:51:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714053232133 |
-| Players | 1/15 |
-| Host Name | По сути да, друган |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:51:59 |
 
 
 |  | epic_boss_fight_nightmare |
