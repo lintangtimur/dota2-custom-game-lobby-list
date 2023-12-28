@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714035839857 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Bloodrake |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:31:20 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:08:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714030212424 |
-| Players | 22/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:24:24 |
+| Lobby ID | 28583714035948436 |
+| Players | 9/10 |
+| Host Name | (/_-) |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:31:29 |
 
 
 |  | ot3_desert_octet |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:31:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714034760311 |
-| Players | 3/8 |
-| Host Name | дибил |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:30:02 |
+| Lobby ID | 28583714036378623 |
+| Players | 2/24 |
+| Host Name | テマリ |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 18:32:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714035948436 |
-| Players | 9/10 |
-| Host Name | (/_-) |
+| Lobby ID | 28583714036353009 |
+| Players | 3/10 |
+| Host Name | the.n?W.#' |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:31:29 |
+| Lobby Creation Time | Thursday, December 28, 2023 18:31:58 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Гена Цидармян |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:31:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583714036357645 |
+| Players | 1/10 |
+| Host Name | 谜兔 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:31:58 |
 
 
