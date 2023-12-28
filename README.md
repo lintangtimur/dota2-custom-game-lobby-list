@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 16:16:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713950290379 |
-| Players | 9/10 |
-| Host Name | PSG.LGBT |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:30:15 |
+| Lobby ID | 28583713951145488 |
+| Players | 6/8 |
+| Host Name | Æ F3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 16:31:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713950701682 |
-| Players | 1/15 |
-| Host Name | maga.sultanmuradov |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:30:54 |
+| Lobby ID | 28583713951165091 |
+| Players | 13/15 |
+| Host Name | Juninett |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 16:31:38 |
 
 
 |  | ot3_desert_octet |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713951013197 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Геннадий Треев |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:31:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713951145488 |
-| Players | 6/8 |
-| Host Name | Æ F3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:31:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713951165091 |
-| Players | 3/15 |
-| Host Name | Juninett |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:31:38 |
+| Lobby ID | 28583713950290379 |
+| Players | 9/10 |
+| Host Name | PSG.LGBT |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:30:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Welcome to recuit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:29:55 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28583713951378254 |
-| Players | 2/7 |
-| Host Name | Unnamed |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 16:31:58 |
 
 
