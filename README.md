@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713878933318 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | актер живодер каскадер |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:30:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713879825594 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ашкудишка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:32:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713880296809 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | ЛЮБЛЮ ТВОЮ МАМУ=) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:33:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713880870765 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 14:34:18 |
@@ -113,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713879939483 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | gore video is the best movie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:32:39 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28583713881306064 |
-| Players | 1/7 |
-| Host Name | Бас Щекочет Яйца |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:35:06 |
 
 
