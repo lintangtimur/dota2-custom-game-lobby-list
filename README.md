@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713943310796 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | DeathRuin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:19:15 |
@@ -41,37 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713943231516 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:19:08 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713941088479 |
-| Players | 13/15 |
-| Host Name | Moccio望 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:15:43 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713943821493 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Sunlover |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:20:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713943836253 |
-| Players | 1/8 |
-| Host Name | SeYak1ra |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:20:04 |
+| Lobby ID | 28583713943940671 |
+| Players | 3/15 |
+| Host Name | Iraya |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:20:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:17:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583713942826734 |
-| Players | 1/5 |
-| Host Name | Frost |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:18:29 |
 
 
