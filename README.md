@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713764573997 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | ATREIDES J. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:45:51 |
@@ -105,7 +105,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28583713764386511 |
 | Players | 2/15 |
-| Host Name | プーチンは悪魔だ |
+| Host Name | Crimson |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:45:29 |
 
