@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713751567260 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | RON |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:19:07 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713750412042 |
-| Players | 6/8 |
-| Host Name | Hanzo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 10:16:46 |
+| Lobby ID | 28583713752121696 |
+| Players | 1/8 |
+| Host Name | sideral_frio |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:20:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713752047096 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Glue Sommelier |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:20:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713751510400 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | harcaritios |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:19:00 |
