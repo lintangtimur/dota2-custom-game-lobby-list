@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714069521562 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Babushka_Betman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:10:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714070009473 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Fungus the Bogeyman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:10:48 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714070137994 |
-| Players | 1/24 |
-| Host Name | El Snickito |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:10:57 |
+| Lobby ID | 28583714070166903 |
+| Players | 3/24 |
+| Host Name | MOO-LAH!! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:10:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583714070260848 |
+| Players | 1/10 |
+| Host Name | ★☜☢SHoToKaN☢☞★ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:11:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Good Night |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:07:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583714057724467 |
-| Players | 9/10 |
-| Host Name | venom876 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:57:08 |
 
 
 |  | epic_boss_fight_normal |
