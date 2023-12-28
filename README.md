@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:53:22 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583714054695935 |
-| Players | 22/24 |
-| Host Name | NOT WOW HOOMANE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:53:40 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714054538574 |
-| Players | 14/15 |
-| Host Name | Locomobile | The Chimney |
+| Lobby ID | 28583714056480782 |
+| Players | 3/15 |
+| Host Name | Синь Де Сы |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:53:29 |
+| Lobby Creation Time | Thursday, December 28, 2023 18:55:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714056080529 |
+| Players | 4/8 |
+| Host Name | Pure~  will be fine |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:55:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,36 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714055930604 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Пенное АУЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:55:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714056080529 |
-| Players | 4/8 |
-| Host Name | Pure~  will be fine |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:55:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583714055528420 |
-| Players | 8/10 |
-| Host Name | Nigglet |
+| Lobby ID | 28583714056570868 |
+| Players | 1/24 |
+| Host Name | Jerry |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:54:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583714055671398 |
-| Players | 3/5 |
-| Host Name | Steel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:54:48 |
+| Lobby Creation Time | Thursday, December 28, 2023 18:55:49 |
 
 
