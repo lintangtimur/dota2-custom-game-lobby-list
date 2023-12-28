@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713769004487 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | harcaritios |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:54:53 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713782184513 |
-| Players | 2/10 |
-| Host Name | pos 1 |
+| Players | 1/10 |
+| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:21:50 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713779386715 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Bobe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:16:09 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713781900778 |
-| Players | 17/24 |
+| Players | 14/24 |
 | Host Name | Rocky Lujan Carrion |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:21:15 |
@@ -131,19 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713781991175 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:21:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713782272493 |
-| Players | 1/10 |
-| Host Name | пожизненное |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 11:22:00 |
 
 
 |  | epic_boss_fight_nightmare |
