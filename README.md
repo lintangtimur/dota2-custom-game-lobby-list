@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714027786440 |
-| Players | 4/10 |
-| Host Name | ABSOLUTE |
+| Players | 5/10 |
+| Host Name | アレクサンダー |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:21:22 |
 
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 17:47:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714014342169 |
-| Players | 22/24 |
-| Host Name | Первая кровь |
+| Lobby ID | 28583714028158967 |
+| Players | 2/10 |
+| Host Name | Matrix in python |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:03:56 |
+| Lobby Creation Time | Thursday, December 28, 2023 18:21:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:21:57 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714028158967 |
-| Players | 2/10 |
-| Host Name | Matrix in python |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:21:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714028457394 |
-| Players | 1/8 |
-| Host Name | ебалка дырова |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:22:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714024969098 |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tony Slark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:17:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583714028528257 |
+| Players | 1/5 |
+| Host Name | 𝓔𝓛_𝓹𝓲𝓼𝔂𝓪 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:22:18 |
 
 
