@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713814285774 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | COVID 19 |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:26:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713812766104 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | EL PERRO JUDIO |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:23:37 |
@@ -113,10 +113,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713814911117 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Why Always ME ? |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:27:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713815960689 |
+| Players | 3/8 |
+| Host Name | <blank> |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 12:29:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713816029612 |
+| Players | 5/8 |
+| Host Name | lip |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:30:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713816027772 |
+| Players | 1/10 |
+| Host Name | WINTER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 12:30:08 |
 
 
 |  | epic_boss_fight_nightmare |
