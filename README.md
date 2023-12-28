@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713689992197 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | küçük orospu |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 08:10:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713694228747 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | :_V |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:19:21 |
@@ -56,22 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:19:45 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713694814158 |
+| Players | 6/15 |
+| Host Name | carrot |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:20:35 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713692420338 |
-| Players | 7/8 |
-| Host Name | Lorenzo el Gallo (Cuti) |
+| Lobby ID | 28583713694831573 |
+| Players | 1/8 |
+| Host Name | <Raffagga> |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:15:29 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:20:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713694402714 |
-| Players | 7/10 |
-| Host Name | га дэм |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:19:43 |
+| Lobby ID | 28583713694903986 |
+| Players | 3/8 |
+| Host Name | Aloha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:20:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -83,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:20:06 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28583713694806578 |
-| Players | 2/7 |
-| Host Name | Founder浣熊 |
+| Lobby ID | 28583713694815957 |
+| Players | 1/5 |
+| Host Name | бля уебка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:20:34 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:20:35 |
 
 
