@@ -38,6 +38,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 17:32:00 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713991579243 |
+| Players | 2/10 |
+| Host Name | jajabuz |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 17:32:34 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713986334441 |
