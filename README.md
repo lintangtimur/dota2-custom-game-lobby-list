@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | สำลัก คำสิง |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713762352322 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ® |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:41:16 |
@@ -119,21 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713763112845 |
-| Players | 1/10 |
-| Host Name | Hector Fushiguro |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:42:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583713763107498 |
-| Players | 1/5 |
-| Host Name | Nicholas Nelson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 10:42:51 |
+| Lobby ID | 28583713763129211 |
+| Players | 3/15 |
+| Host Name | BigTimeTimmyJim |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 10:42:54 |
 
 
