@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713770885813 |
-| Players | 4/8 |
-| Host Name | серега пивас |
+| Players | 2/8 |
+| Host Name | Акула |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:58:44 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713772407194 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | iseedeadp3ople |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:01:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713771645392 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | SENDERO LUMINOSON'T |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:00:17 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713770491072 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Snake® |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:57:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713771423873 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | onaforp xessib |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:59:50 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713772063367 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Rosé- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:01:08 |
@@ -119,10 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:02:04 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713763053759 |
+| Players | 23/24 |
+| Host Name | gaston |
+| Region | Unknown |
+| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713771444974 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Hou` |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:59:52 |
