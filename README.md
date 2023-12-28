@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714097110246 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Angelico |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 19:39:16 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714103222346 |
-| Players | 22/24 |
-| Host Name | 大川岛 |
+| Lobby ID | 28583714112896330 |
+| Players | 1/24 |
+| Host Name | NOT WOW HOOMANE |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:45:33 |
+| Lobby Creation Time | Thursday, December 28, 2023 19:55:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714105298023 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Stengah |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:47:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714112120588 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | £ Neoxa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:54:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714112739883 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Геннадий Треев |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:54:56 |
@@ -77,37 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714112886856 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | YouKnowMyName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:55:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714112896330 |
-| Players | 1/24 |
-| Host Name | NOT WOW HOOMANE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:55:05 |
+| Lobby ID | 28583714113274309 |
+| Players | 2/15 |
+| Host Name | lost angels |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:55:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714112335801 |
-| Players | 6/8 |
-| Host Name | chickenwithsombrero |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:54:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714113128287 |
-| Players | 1/15 |
-| Host Name | lost angels |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:55:19 |
+| Lobby ID | 28583714113314473 |
+| Players | 2/8 |
+| Host Name | Qootak |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:55:30 |
 
 
 |  | epic_boss_fight_nightmare |
