@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713755238634 |
-| Players | 7/15 |
-| Host Name | STEW |
+| Lobby ID | 28583713755733862 |
+| Players | 4/8 |
+| Host Name | el kchero de chosica uwu |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:26:41 |
+| Lobby Creation Time | Thursday, December 28, 2023 10:27:41 |
 
 
 |  | ot3_desert_octet |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713754946632 |
-| Players | 9/10 |
-| Host Name | Karl_Nesios |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 10:26:05 |
+| Lobby ID | 28583713755752783 |
+| Players | 1/10 |
+| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 10:27:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713750802437 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Daee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:17:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583713755667979 |
-| Players | 2/5 |
-| Host Name | Mr Niggle |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, December 28, 2023 10:27:33 |
 
 
