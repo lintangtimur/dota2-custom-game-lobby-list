@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713762555421 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Ella ya es feliz conmigo◕_◕ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:41:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713762159058 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | 83a5c6610 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:40:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713762163552 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Уничтожитель гул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:40:52 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:41:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713758986743 |
-| Players | 14/15 |
-| Host Name | ''IFRIT'' |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:34:16 |
 
 
