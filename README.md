@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713856683705 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | 萧瑟 HLA Jeans  Lindaestrell |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:49:56 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:31:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713855400403 |
-| Players | 13/15 |
-| Host Name | Мистер Бензин |
+| Lobby ID | 28583713856782614 |
+| Players | 8/10 |
+| Host Name | matchmaking player |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 13:47:32 |
+| Lobby Creation Time | Thursday, December 28, 2023 13:50:07 |
 
 
 |  | ot3_desert_octet |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:50:07 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713856782614 |
-| Players | 7/10 |
-| Host Name | matchmaking player |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 13:50:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713853975461 |
@@ -81,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:44:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713855855206 |
-| Players | 9/10 |
-| Host Name | Zero Two |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:48:23 |
 
 
 |  | epic_boss_fight_normal |
