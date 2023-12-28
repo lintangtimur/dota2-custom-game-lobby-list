@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713833633241 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Fantazia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:05:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713831937119 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | молоденькая |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:01:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713820665493 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | asd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:39:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713833535968 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Afterthought |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:05:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713833438483 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ivan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:04:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713831492036 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 13:00:58 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:03:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713829041676 |
-| Players | 9/10 |
-| Host Name | Sat High IQ. |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 12:56:07 |
 
 
