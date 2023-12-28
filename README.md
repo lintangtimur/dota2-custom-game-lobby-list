@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713852358616 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Jacinto Soto Coronado Vilchez |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:41:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713853598510 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Reinhardt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:44:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713852654616 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Elsindroan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:42:22 |
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Мистер Бензин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:47:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713853512471 |
+| Players | 14/15 |
+| Host Name | Сафронов, поставь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 13:44:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713855835446 |
+| Players | 1/8 |
+| Host Name | Тася Чевхуева |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:48:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713855836113 |
+| Players | 6/8 |
+| Host Name | Megamente |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 13:48:21 |
 
 
 |  | epic_boss_fight_nightmare |
