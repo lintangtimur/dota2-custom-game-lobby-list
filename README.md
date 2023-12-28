@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714114689959 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | XD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:56:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714105298023 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Stengah |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:47:39 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:44:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714114253108 |
-| Players | 8/10 |
-| Host Name | xxoda04 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:56:24 |
+| Lobby ID | 28583714114827930 |
+| Players | 1/8 |
+| Host Name | Vitrex1111 |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 19:56:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714102215750 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | EG.Kixzy. |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 28, 2023 19:44:33 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714114649891 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | q |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:56:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714114827930 |
-| Players | 1/8 |
-| Host Name | Vitrex1111 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 19:56:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | crestfallen |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:54:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583714114898341 |
+| Players | 1/5 |
+| Host Name | 1000-7?sf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:57:01 |
 
 
