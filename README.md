@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714020782023 |
-| Players | 6/8 |
-| Host Name | fncl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:12:25 |
+| Lobby ID | 28583714021949440 |
+| Players | 4/10 |
+| Host Name | Алексей Мариевич |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:13:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714021483392 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Ayesha♥♥♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:13:21 |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:13:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714021954322 |
-| Players | 1/10 |
-| Host Name | fanat sebya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:13:56 |
+| Lobby ID | 28583714022016349 |
+| Players | 1/8 |
+| Host Name | 1 pos only |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:14:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583714022054597 |
+| Players | 1/15 |
+| Host Name | In L♥ve With a Fat Pikachu =3 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 18:14:04 |
 
 
 |  | epic_boss_fight_nightmare |
