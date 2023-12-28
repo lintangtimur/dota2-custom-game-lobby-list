@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713706604861 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713706314126 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | sniper free |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713707026537 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Rasaar |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:46:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713707111435 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ATREIDES J. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:46:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713706889267 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | NANDITO (U) GRONE TLV ROJINEGRO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:46:29 |
@@ -103,20 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713705121951 |
-| Players | 9/10 |
-| Host Name | mortem |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:42:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713707122827 |
-| Players | 1/8 |
-| Host Name | Doraemon |
+| Lobby ID | 28583713706364993 |
+| Players | 8/10 |
+| Host Name | 66565564 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:46:59 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:45:21 |
 
 
 |  | epic_boss_fight_nightmare |
