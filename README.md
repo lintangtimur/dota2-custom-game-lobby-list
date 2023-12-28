@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713714328519 |
-| Players | 23/24 |
-| Host Name | Mayne |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 09:02:13 |
+| Lobby ID | 28583713723020900 |
+| Players | 2/10 |
+| Host Name | FlexerPG |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 09:20:35 |
 
 
 |  | ot3_desert_octet |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 09:20:18 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713723020900 |
-| Players | 2/10 |
-| Host Name | FlexerPG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 09:20:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713722208576 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713723008673 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | [VGB]NUBISHKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:20:33 |
