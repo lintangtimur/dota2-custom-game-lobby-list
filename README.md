@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713785867091 |
-| Players | 11/15 |
-| Host Name | Aggressive Koala |
+| Lobby ID | 28583713786507282 |
+| Players | 1/10 |
+| Host Name | Run Yo Pockets |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:29:15 |
+| Lobby Creation Time | Thursday, December 28, 2023 11:30:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713785755056 |
-| Players | 3/10 |
-| Host Name | WIZARD |
+| Players | 2/10 |
+| Host Name | 【﻿ｙｈａｎ】 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 11:29:02 |
 
@@ -126,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JerryLee |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:30:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713786507282 |
-| Players | 1/10 |
-| Host Name | Run Yo Pockets |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:30:33 |
 
 
 |  | epic_boss_fight_nightmare |
