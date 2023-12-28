@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713932692570 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | ` wheredaavocados™ 🥑 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:02:07 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713932634598 |
-| Players | 9/15 |
-| Host Name | MGE BRATOK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:02:01 |
+| Lobby ID | 28583713933539199 |
+| Players | 8/15 |
+| Host Name | Hawks_Fury |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 16:03:28 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713933110861 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | Дмитрий Масло |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:02:47 |
@@ -59,18 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713933334056 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Xaxa |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 16:03:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713930673942 |
-| Players | 8/10 |
-| Host Name | gore video is the best movie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:58:52 |
+| Lobby ID | 28583713933789032 |
+| Players | 3/10 |
+| Host Name | Ctrl_XaLiBuR |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 16:03:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713933812940 |
+| Players | 4/8 |
+| Host Name | усы в моче |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 16:03:54 |
 
 
