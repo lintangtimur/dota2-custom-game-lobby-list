@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713760042384 |
-| Players | 6/8 |
-| Host Name | ScoobyGooberMan |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 10:36:26 |
+| Lobby ID | 28583713760139021 |
+| Players | 1/8 |
+| Host Name | :( M O T A :( |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:36:38 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713712842326 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:59:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713758986743 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ''IFRIT'' |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:34:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713744475914 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | DOTA Veteran |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
@@ -59,27 +59,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713759842885 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | AnGlz__Strike |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:36:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713759853179 |
-| Players | 7/8 |
-| Host Name | EG. Strawberry |
+| Lobby ID | 28583713758180217 |
+| Players | 9/10 |
+| Host Name | FILIPINAS SAD :c |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:36:02 |
+| Lobby Creation Time | Thursday, December 28, 2023 10:32:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713760185893 |
+| Players | 2/10 |
+| Host Name | alien |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:36:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713760181762 |
+| Players | 1/15 |
+| Host Name | herp 105.4 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 10:36:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713760200974 |
+| Players | 6/15 |
+| Host Name | ScoobyGooberMan |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 10:36:45 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713758086319 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:32:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713760147792 |
+| Players | 1/5 |
+| Host Name | The Grills |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:36:39 |
 
 
