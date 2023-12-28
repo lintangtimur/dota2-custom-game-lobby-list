@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713785351806 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | При вардах? |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:28:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713784671572 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | underr. |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:26:51 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713744475914 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | DOTA Veteran |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713769004487 |
-| Players | 22/24 |
-| Host Name | **Lucía** |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, December 28, 2023 10:54:53 |
+| Lobby ID | 28583713785867091 |
+| Players | 5/15 |
+| Host Name | Aggressive Koala |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 11:29:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,46 +83,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:23:53 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713781806685 |
-| Players | 19/24 |
-| Host Name | »DatMPy◘ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 11:21:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713784073170 |
-| Players | 8/15 |
-| Host Name | NoMercy |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 11:25:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713784673312 |
-| Players | 14/15 |
-| Host Name | ~$amahasla$~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:26:51 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713785755056 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | helloff ⛔TRADE BANNED⛔ |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 11:29:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713784073170 |
+| Players | 11/15 |
+| Host Name | NoMercy |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:25:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713786022937 |
+| Players | 2/24 |
+| Host Name | [       7       ] |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 11:29:34 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713785094511 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:27:42 |
