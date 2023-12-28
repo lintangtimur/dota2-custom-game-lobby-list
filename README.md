@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713751567260 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | RON |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:19:07 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713751049946 |
-| Players | 14/15 |
-| Host Name | protocatechuate |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 10:18:04 |
+| Lobby ID | 28583713751699995 |
+| Players | 4/10 |
+| Host Name | el f1 nunca me hizo reflexionar |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:19:23 |
 
 
 |  | ot3_desert_octet |
@@ -67,29 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713750443710 |
-| Players | 12/15 |
-| Host Name | 63 y.o. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 10:16:49 |
+| Lobby ID | 28583713752047096 |
+| Players | 2/15 |
+| Host Name | Glue Sommelier |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 10:20:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713751510400 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | harcaritios |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:19:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713751699995 |
-| Players | 2/10 |
-| Host Name | el f1 nunca me hizo reflexionar |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:19:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713750802437 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Daee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:17:33 |
