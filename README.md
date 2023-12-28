@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713755793368 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Tu viejo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:27:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713755054705 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | twitch.tv/aleschaaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:26:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713755016824 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:26:14 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713755932384 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:28:05 |
