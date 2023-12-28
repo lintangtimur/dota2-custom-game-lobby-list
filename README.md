@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713818920940 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | молоденькая |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:35:54 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713818001263 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:34:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713813842391 |
-| Players | 14/15 |
-| Host Name | Lindvia| ZaiSe |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 12:25:45 |
+| Lobby ID | 28583713819104703 |
+| Players | 1/10 |
+| Host Name | La Pixiris |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:36:17 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713817680773 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | ManiK |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:33:27 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | я в шоу  Трумана |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:35:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713819104703 |
-| Players | 1/10 |
-| Host Name | La Pixiris |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:36:17 |
 
 
 |  | epic_boss_fight_nightmare |
