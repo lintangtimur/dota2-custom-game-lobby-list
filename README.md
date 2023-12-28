@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713831566073 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:01:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713829636580 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Poyo Joestar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:57:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713831894213 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Сантьяго Арматур |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:01:45 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 13:00:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713832828015 |
+| Players | 1/8 |
+| Host Name | [D]iomegod |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 13:03:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713832863373 |
+| Players | 3/8 |
+| Host Name | There are no former ghouls |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:03:41 |
 
 
 |  | epic_boss_fight_nightmare |
