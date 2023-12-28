@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714038817445 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | noob 2.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:34:55 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714039778727 |
-| Players | 6/15 |
-| Host Name | Kenshin |
+| Players | 5/15 |
+| Host Name | Creeposhka |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:36:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583714040075496 |
+| Players | 2/10 |
+| Host Name | порнодемон |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:36:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714039383098 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Гена Цидармян |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:35:36 |
