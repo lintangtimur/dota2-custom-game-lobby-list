@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714138235482 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Now I am become death |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 20:19:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714166567987 |
-| Players | 23/24 |
-| Host Name | V1ncentzo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:44:45 |
+| Lobby ID | 28583714171569569 |
+| Players | 3/10 |
+| Host Name | Slyrak |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 20:49:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,55 +32,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714166236844 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | AKKAR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:44:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714171569569 |
-| Players | 1/10 |
-| Host Name | Slyrak |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 20:49:13 |
+| Lobby ID | 28583714172101788 |
+| Players | 1/8 |
+| Host Name | acsess |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:49:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714171213637 |
-| Players | 9/10 |
-| Host Name | H8M4CH1N3 |
+| Lobby ID | 28583714172103505 |
+| Players | 12/15 |
+| Host Name | BALANCA.NET |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:48:54 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:49:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583714172164122 |
+| Players | 7/10 |
+| Host Name | Ghost Grave |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:49:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583714172268185 |
+| Players | 3/24 |
+| Host Name | overflow |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, December 28, 2023 20:49:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583714172286447 |
+| Players | 2/10 |
+| Host Name | PIDROгидар |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:49:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714171356752 |
-| Players | 5/8 |
-| Host Name | доброхук |
+| Lobby ID | 28583714172439693 |
+| Players | 1/8 |
+| Host Name | Eldarko15 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:49:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714171535652 |
-| Players | 12/15 |
-| Host Name | bikabaka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:49:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714171872427 |
-| Players | 1/15 |
-| Host Name | 因为它是 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 20:49:29 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:49:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Butterfly Burton |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:43:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583714170375349 |
-| Players | 6/10 |
-| Host Name | ♂ I'm Performance Artist ♂ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:48:09 |
 
 
