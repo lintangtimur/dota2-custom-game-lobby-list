@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713752933155 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:21:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713754086475 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | SuperShy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:24:18 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713754097330 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | ploxo_mne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:24:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713754542225 |
+| Players | 1/24 |
+| Host Name | Yonwalther |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:25:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713754559491 |
+| Players | 1/24 |
+| Host Name | CHOLITO DE CONO CON PLATA |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:25:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713754578903 |
+| Players | 1/8 |
+| Host Name | Arcane Blink <3 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 10:25:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713750802437 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Daee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:17:33 |
