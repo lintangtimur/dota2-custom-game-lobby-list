@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713879799253 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Jacinto Soto Coronado Vilchez |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 14:32:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713880296809 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | ЛЮБЛЮ ТВОЮ МАМУ=) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:33:17 |
