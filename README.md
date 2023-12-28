@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28576541871282065 |
 | Players | 7/10 |
-| Host Name | No me jodas o fedeo..!! |
+| Host Name | CPP |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:58:29 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541871730273 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Kurama |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:59:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541871895135 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | izi pipilin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 06:59:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541870319883 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Euphoria |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:56:30 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AMANTE DE COLOMBIANAS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:00:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541872606795 |
+| Players | 1/15 |
+| Host Name | Laxus |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 07:01:15 |
 
 
 |  | epic_boss_fight_nightmare |
