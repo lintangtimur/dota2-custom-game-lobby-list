@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713927842106 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Mischievous Hooligan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 15:54:17 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | positive vibes' |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:56:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713929765470 |
+| Players | 4/8 |
+| Host Name | Maybe |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 15:57:24 |
 
 
 |  | epic_boss_fight_nightmare |
