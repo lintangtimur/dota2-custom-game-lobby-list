@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714035524647 |
-| Players | 7/15 |
-| Host Name | subarashi |
+| Lobby ID | 28583714035788720 |
+| Players | 2/10 |
+| Host Name | гомункул |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:30:57 |
+| Lobby Creation Time | Thursday, December 28, 2023 18:31:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714031675127 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Хрaнитель Семени |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:26:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714030212424 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:24:24 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:29:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714034743680 |
-| Players | 9/10 |
-| Host Name | HU57L3R |
+| Lobby ID | 28583714035694526 |
+| Players | 1/8 |
+| Host Name | Dalk12 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:30:01 |
+| Lobby Creation Time | Thursday, December 28, 2023 18:31:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:30:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714034737337 |
-| Players | 3/10 |
-| Host Name | маник |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:30:00 |
+| Lobby ID | 28583714035492873 |
+| Players | 5/8 |
+| Host Name | ёптышь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:30:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714035120689 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | masato |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:30:28 |
@@ -101,42 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:30:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714035492873 |
-| Players | 5/8 |
-| Host Name | ёптышь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:30:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714035534584 |
-| Players | 1/15 |
-| Host Name | Pickle Rick |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:30:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714035687845 |
-| Players | 4/8 |
-| Host Name | Ёбырь Гитлера |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:31:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714035687979 |
-| Players | 2/10 |
-| Host Name | Геннадий Треев |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:31:09 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28583714029628198 |
@@ -149,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714033586011 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Scrappy CoCo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:28:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583714035826340 |
+| Players | 1/10 |
+| Host Name | Гена Цидармян |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:31:19 |
 
 
