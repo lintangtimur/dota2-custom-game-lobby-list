@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714028258871 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:21:57 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:21:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714027100543 |
-| Players | 22/24 |
-| Host Name | 米粉 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:20:30 |
+| Lobby ID | 28583714029146373 |
+| Players | 2/15 |
+| Host Name | NaVi'Miracle- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:23:05 |
 
 
 |  | ot3_gardens_duo |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714028970658 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | INZOI |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:22:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714028987854 |
-| Players | 7/8 |
-| Host Name | I want? |
+| Lobby ID | 28583714029278416 |
+| Players | 2/10 |
+| Host Name | Matrix in python |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:22:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714029146373 |
-| Players | 1/15 |
-| Host Name | NaVi'Miracle- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:23:05 |
+| Lobby Creation Time | Thursday, December 28, 2023 18:23:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,21 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:22:18 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583714029143552 |
-| Players | 1/5 |
-| Host Name | MaxON |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:23:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714029129562 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | momo&peach princess |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:23:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583714029346449 |
+| Players | 3/5 |
+| Host Name | IOFA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:23:20 |
 
 
