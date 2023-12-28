@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713707026537 |
-| Players | 6/15 |
+| Players | 3/15 |
 | Host Name | Rasaar |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:46:47 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713707111435 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ATREIDES J. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:46:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713706370269 |
-| Players | 5/10 |
-| Host Name | egorych横 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:45:22 |
+| Lobby ID | 28583713707283853 |
+| Players | 3/8 |
+| Host Name | kelthusadELpro |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:47:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713706889267 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | NANDITO (U) GRONE TLV ROJINEGRO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:46:29 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 161 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713707283853 |
-| Players | 1/8 |
-| Host Name | kelthusadELpro |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:47:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713704620807 |
-| Players | 23/24 |
-| Host Name | < blank > |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:41:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mweh. |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 08:39:20 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28583713707405266 |
+| Players | 1/7 |
+| Host Name | Eajinaevone |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:47:35 |
 
 
