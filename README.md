@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:11:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713806776238 |
-| Players | 14/15 |
-| Host Name | Потерь нет |
+| Lobby ID | 28583713807791786 |
+| Players | 1/8 |
+| Host Name | 大雞巴 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 12:11:37 |
+| Lobby Creation Time | Thursday, December 28, 2023 12:13:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713805944917 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | MD. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:09:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713805952107 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Griga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:09:54 |
@@ -85,19 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713807791786 |
+| Lobby ID | 28583713808061805 |
 | Players | 1/8 |
-| Host Name | 大雞巴 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 12:13:41 |
+| Host Name | Richi Rage |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:14:13 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28583713807231024 |
-| Players | 9/10 |
-| Host Name | Sakata Gintoki |
+| Lobby ID | 28583713808059524 |
+| Players | 1/5 |
+| Host Name | Random |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 12:12:34 |
+| Lobby Creation Time | Thursday, December 28, 2023 12:14:13 |
 
 
