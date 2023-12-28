@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713837580036 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Glue Sommelier |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:13:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713834946517 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | mk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:07:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713836940627 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | I brought u flowers |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:11:50 |
@@ -92,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:14:48 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713838566775 |
-| Players | 1/8 |
-| Host Name | Dereck Zoolander. |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 13:14:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713838631152 |
-| Players | 3/24 |
-| Host Name | BB |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 13:15:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713838655338 |
@@ -119,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:15:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713838711360 |
-| Players | 1/15 |
-| Host Name | Lazy Lady |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:15:14 |
+| Lobby ID | 28583713838631152 |
+| Players | 3/24 |
+| Host Name | BB |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 13:15:05 |
 
 
 |  | epic_boss_fight_nightmare |
