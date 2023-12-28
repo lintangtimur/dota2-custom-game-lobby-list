@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713825846740 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ErvinGabriel {FTF2∫Time-Fire} |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:49:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713826177627 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:50:28 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713827356665 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | S∀︎Y∀︎N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:52:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713827550622 |
+| Players | 2/10 |
+| Host Name | WTF?!о_0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 12:53:12 |
 
 
 |  | epic_boss_fight_normal |
