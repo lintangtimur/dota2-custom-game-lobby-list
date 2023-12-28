@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714138235482 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Now I am become death |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 20:19:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714153335203 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | gazdratjopi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:32:52 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 20:30:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714153379264 |
-| Players | 8/10 |
-| Host Name | Арангутанг |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:32:54 |
+| Lobby ID | 28583714151860179 |
+| Players | 14/15 |
+| Host Name | FRONO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:31:33 |
 
 
 |  | ot3_desert_octet |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 20:32:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714154404959 |
-| Players | 1/8 |
-| Host Name | sᴠɪɴᴏᴛᴀ ᴀʜᴀᴡɪc |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:33:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714154544657 |
-| Players | 1/15 |
-| Host Name | NOOB SAG |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:33:57 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714154572356 |
@@ -99,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 4YI7A4YI7C |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:33:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583714154544657 |
+| Players | 6/15 |
+| Host Name | NOOB SAG |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:33:57 |
 
 
 |  | epic_boss_fight_normal |
