@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713885519343 |
-| Players | 9/15 |
-| Host Name | Эйнштейн |
+| Lobby ID | 28583713886558805 |
+| Players | 7/15 |
+| Host Name | MrSuperman|002| |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:42:43 |
+| Lobby Creation Time | Thursday, December 28, 2023 14:44:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713878933318 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | актер живодер каскадер |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:30:52 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713820665493 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | asd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:39:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713885248623 |
-| Players | 18/24 |
-| Host Name | patisonti |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:42:14 |
+| Lobby ID | 28583713886268007 |
+| Players | 1/8 |
+| Host Name | Kärss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:44:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713885753821 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Балдежный Пердеж |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:43:09 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:43:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713886268007 |
-| Players | 1/8 |
-| Host Name | Kärss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:44:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713886271116 |
-| Players | 4/8 |
-| Host Name | 巴尼|Barni |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:44:04 |
+| Lobby ID | 28583713886721685 |
+| Players | 1/24 |
+| Host Name | champkku555 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:44:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PRABRORO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:42:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713886521541 |
+| Players | 2/5 |
+| Host Name | ГУБКА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:44:30 |
 
 
