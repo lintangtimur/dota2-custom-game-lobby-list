@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714008703105 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | "pa1n" |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:56:25 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 17:55:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714009309321 |
+| Players | 2/8 |
+| Host Name | телеграмм рассылки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 17:57:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714004926794 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:51:18 |
