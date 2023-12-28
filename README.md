@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713703602029 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Deus |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 08:39:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713703730375 |
-| Players | 1/10 |
-| Host Name | Адидас (Junior) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:39:36 |
+| Lobby ID | 28583713704620807 |
+| Players | 3/24 |
+| Host Name | < blank > |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:41:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713704236321 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Joe Biden |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:40:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713702953041 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:37:54 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713702957217 |
-| Players | 22/24 |
-| Host Name | VanCleef |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:37:55 |
+| Lobby ID | 28583713704544692 |
+| Players | 1/24 |
+| Host Name | Kaido |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:41:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713704478462 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | who cares |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:41:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713704536101 |
+| Players | 12/15 |
+| Host Name | Aetheris |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:41:23 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713703554114 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Tōdō Aoi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:39:13 |
