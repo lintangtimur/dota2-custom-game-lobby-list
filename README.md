@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713785036421 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | isn't like holding to the center |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:27:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713786507282 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:30:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713787041682 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | onaforp xessib |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:31:38 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713786022937 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | [       7       ] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:29:34 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713787197597 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | afk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:31:57 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713787284304 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | DonFlag |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:32:08 |
@@ -131,18 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713787787706 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | STEW |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:33:10 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713788663751 |
-| Players | 1/10 |
-| Host Name | Exstetra |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 11:34:57 |
+| Lobby ID | 28583713788686545 |
+| Players | 5/8 |
+| Host Name | ♫♫♫♫♫♫ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:35:00 |
 
 
