@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713677614717 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:43:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713680540735 |
-| Players | 6/8 |
-| Host Name | ME LEDER |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 07:50:03 |
+| Lobby ID | 28583713678737155 |
+| Players | 14/15 |
+| Host Name | ooOOoOoooOOoOOOoo |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 07:46:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713680244720 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Mr.Popo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:49:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713680749465 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | VanCleef |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:50:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713680246929 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Vaas Montenegro |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 07:49:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713680136992 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | [ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 07:49:11 |
@@ -65,13 +65,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:49:17 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713680540735 |
+| Players | 6/8 |
+| Host Name | ME LEDER |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 07:50:03 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713680303091 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | SiKUrSKI |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:49:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713681109800 |
+| Players | 1/8 |
+| Host Name | St1p✙ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 07:51:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713681116476 |
+| Players | 1/15 |
+| Host Name | 御无双 |
+| Region | Unknown |
+| Lobby Creation Time | Thursday, December 28, 2023 07:51:18 |
 
 
 |  | epic_boss_fight_nightmare |
