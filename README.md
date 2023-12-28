@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713876724589 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | a1dargo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:26:53 |
@@ -49,24 +49,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713877335019 |
-| Players | 3/8 |
-| Host Name | Jami |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, December 28, 2023 14:27:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713875679568 |
-| Players | 7/10 |
-| Host Name | Atlas Troll |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 14:24:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28583713876555130 |
 | Players | 2/8 |
 | Host Name | xdxdxd |
@@ -74,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:26:34 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713875452489 |
+| Lobby ID | 28583713875679568 |
 | Players | 9/10 |
-| Host Name | HUDDA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:24:35 |
+| Host Name | Atlas Troll |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 14:24:59 |
 
 
