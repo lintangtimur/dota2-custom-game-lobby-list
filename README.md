@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713902314917 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | User |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:11:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713900595544 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 30191073010 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:08:50 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713902480908 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Jacinto Soto Coronado Vilchez |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 15:12:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713902650838 |
+| Players | 2/10 |
+| Host Name | NO CREO NI EN MI MISMO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 15:12:25 |
 
 
 |  | epic_boss_fight_nightmare |
