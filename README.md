@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713749344912 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Skin Man |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:14:35 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713748443176 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 161 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:12:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713748815086 |
-| Players | 1/15 |
-| Host Name | Nogambler |
+| Lobby ID | 28583713749422202 |
+| Players | 1/24 |
+| Host Name | House |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:13:31 |
+| Lobby Creation Time | Thursday, December 28, 2023 10:14:45 |
 
 
 |  | ot3_desert_octet |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713749382636 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | EL BARTROM |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:14:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713749422202 |
-| Players | 1/24 |
-| Host Name | House |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:14:45 |
 
 
 |  | epic_boss_fight_nightmare |
