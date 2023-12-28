@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714097110246 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ö↔◘↓Anthony↓•◄´] |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 19:39:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714096663657 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Kazune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:38:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714099356160 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | JIuMoH4eG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:41:37 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714093241531 |
-| Players | 6/8 |
-| Host Name | ROCK HARD |
-| Region | INDIA |
-| Lobby Creation Time | Thursday, December 28, 2023 19:35:18 |
+| Lobby ID | 28583714099740419 |
+| Players | 2/8 |
+| Host Name | per aspera ad astra |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:42:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714099519765 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | crow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:41:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714099530898 |
-| Players | 8/10 |
-| Host Name | ZaaL |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:41:48 |
 
 
 |  | ot3_gardens_duo |
