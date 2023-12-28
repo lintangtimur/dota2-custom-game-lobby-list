@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713977361437 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 17:11:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713976839077 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Ayesha♥♥♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:11:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713978695358 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Боря морозов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:13:54 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | easy mode |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:13:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713979127049 |
+| Players | 5/8 |
+| Host Name | Bajaira no riba |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 17:14:33 |
 
 
 |  | epic_boss_fight_nightmare |
