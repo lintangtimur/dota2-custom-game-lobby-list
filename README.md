@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713868274956 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | O Pai |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 14:11:32 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:39:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713870361428 |
-| Players | 7/8 |
-| Host Name | Пяточный имплант |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:15:22 |
+| Lobby ID | 28583713871729420 |
+| Players | 2/15 |
+| Host Name | Devod |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 14:17:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713871106013 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 巴尼|Barni |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:16:44 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 76561199196836346 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:17:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713871729420 |
-| Players | 1/15 |
-| Host Name | Devod |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 14:17:53 |
 
 
 |  | epic_boss_fight_nightmare |
