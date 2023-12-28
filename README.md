@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713810928523 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | ABC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:19:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713811195147 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | актер живодер каскадер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:20:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713812255335 |
-| Players | 1/15 |
+| Players | 12/15 |
 | Host Name | Тирс Тирс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:22:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713810072213 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Cruzado-Style-Papiricas |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:18:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713811303857 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:20:42 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713812247354 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | ¨EinHeRjaR¨ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:22:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713812766104 |
+| Players | 1/24 |
+| Host Name | EL PERRO JUDIO |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 12:23:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713807742147 |
+| Players | 8/8 |
+| Host Name | 76561199196836346 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 12:13:35 |
 
 
 |  | epic_boss_fight_nightmare |
