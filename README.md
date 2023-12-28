@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713776719463 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | zeta male |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:10:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713774717875 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:06:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713773138804 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:03:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713776681565 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Teregue |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 11:10:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713777015971 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Spamming 1 hero = Go Report me |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:11:20 |
@@ -110,39 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:10:16 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713777011204 |
-| Players | 1/8 |
-| Host Name | wifi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:11:19 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713777269074 |
+| Players | 1/15 |
+| Host Name | Cute_Fedd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 11:11:52 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713775353693 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | MERRY XMAS BITCHES |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:07:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583713776989903 |
-| Players | 1/5 |
-| Host Name | ТАЩИМ ВЕСЕЛО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:11:17 |
 
 
