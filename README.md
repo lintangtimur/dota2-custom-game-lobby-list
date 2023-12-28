@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714018366201 |
-| Players | 3/8 |
-| Host Name | ㅔㅂㅍ 어ㅠ나ㅏㅜㅍㄹ |
+| Lobby ID | 28583714020483773 |
+| Players | 11/15 |
+| Host Name | SNALIEN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:09:12 |
+| Lobby Creation Time | Thursday, December 28, 2023 18:12:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714001993731 |
-| Players | 4/15 |
+| Players | 1/15 |
 | Host Name | [PONYVAKLA] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:47:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714020418474 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | BabissGr |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:11:56 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714019936548 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | uncultured swine |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:11:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714020483773 |
-| Players | 1/15 |
-| Host Name | SNALIEN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:12:01 |
 
 
 |  | epic_boss_fight_nightmare |
