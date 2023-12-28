@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713847237350 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Belifan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:31:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713857739330 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | кудрявый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:51:54 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713856812531 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 13:50:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713857536182 |
-| Players | 8/10 |
-| Host Name | Denji |
+| Lobby ID | 28583713858331673 |
+| Players | 1/15 |
+| Host Name | k3yj1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 13:51:31 |
+| Lobby Creation Time | Thursday, December 28, 2023 13:53:03 |
 
 
 |  | ot3_gardens_duo |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mischievous Hooligan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:53:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713858331673 |
-| Players | 1/15 |
-| Host Name | k3yj1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 13:53:03 |
 
 
 |  | epic_boss_fight_nightmare |
