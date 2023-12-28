@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713818001263 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:34:04 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:32:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713819933321 |
-| Players | 4/8 |
-| Host Name | Tin Ling |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:37:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713819919770 |
-| Players | 1/15 |
-| Host Name | WinNee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 12:37:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713820040609 |
@@ -90,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | We love |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:38:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713819919770 |
+| Players | 2/15 |
+| Host Name | WinNee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 12:37:54 |
 
 
 |  | epic_boss_fight_nightmare |
