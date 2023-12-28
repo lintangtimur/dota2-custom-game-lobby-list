@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713935941649 |
-| Players | 13/15 |
-| Host Name | Dolphinling |
+| Lobby ID | 28583713936532467 |
+| Players | 1/8 |
+| Host Name | Вика Проказница |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:07:22 |
+| Lobby Creation Time | Thursday, December 28, 2023 16:08:20 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713936139054 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | usless person |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:07:41 |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713936579968 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Геннадий Треев |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:08:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713936532467 |
-| Players | 1/8 |
-| Host Name | Вика Проказница |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:08:20 |
 
 
 |  | epic_boss_fight_nightmare |
