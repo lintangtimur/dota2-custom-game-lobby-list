@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714105298023 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Stengah |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:47:39 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714118777303 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | hakkerskaldyr |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:00:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714119213914 |
+| Players | 2/8 |
+| Host Name | Мои руки тянутся к твоему члену |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:01:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714118243710 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 600 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:00:15 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583714119206732 |
+| Players | 1/5 |
+| Host Name | 恋爱不如打dota |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Thursday, December 28, 2023 20:01:11 |
 
 
