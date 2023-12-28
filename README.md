@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714115930991 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | pressure |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:58:01 |
@@ -77,27 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714115224349 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Kazune |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:57:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714115593159 |
-| Players | 5/8 |
-| Host Name | absolute 絕對 |
+| Lobby ID | 28583714116058165 |
+| Players | 2/10 |
+| Host Name | フ六violetフ六 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:57:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714115619785 |
-| Players | 7/8 |
-| Host Name | Viedeshiz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:57:43 |
+| Lobby Creation Time | Thursday, December 28, 2023 19:58:08 |
 
 
