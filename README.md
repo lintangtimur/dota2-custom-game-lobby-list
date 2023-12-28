@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713831062664 |
-| Players | 1/24 |
-| Host Name | Black Raven |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 13:00:07 |
+| Lobby ID | 28583713830998953 |
+| Players | 1/8 |
+| Host Name | Diane Nguyen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:00:00 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:57:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713830349598 |
-| Players | 14/15 |
-| Host Name | sonic |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 12:58:42 |
+| Lobby ID | 28583713831230672 |
+| Players | 3/8 |
+| Host Name | ƒuke |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:00:27 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713826563804 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | onaforp xessib |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:51:14 |
@@ -74,46 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:56:01 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713831492036 |
+| Players | 1/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 13:00:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713831493091 |
+| Players | 1/15 |
+| Host Name | ? |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:00:58 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713829570654 |
-| Players | 8/10 |
-| Host Name | 76561199196836346 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 12:57:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713830998953 |
-| Players | 1/8 |
-| Host Name | Diane Nguyen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:00:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713831230672 |
-| Players | 3/8 |
-| Host Name | ƒuke |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:00:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713831300118 |
-| Players | 4/8 |
-| Host Name | Lizardo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 13:00:35 |
+| Lobby ID | 28583713829845013 |
+| Players | 9/10 |
+| Host Name | PP |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 12:57:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713829041676 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Sat High IQ. |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 12:56:07 |
