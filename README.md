@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713792028400 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Yujiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:41:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713792099303 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Loquendo (2010) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:42:00 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:41:57 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713792491055 |
-| Players | 7/8 |
-| Host Name | Burger-Man |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 11:42:49 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713792542577 |
@@ -99,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | egoisto (шизоид) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:42:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713792682270 |
+| Players | 2/8 |
+| Host Name | Yo Toro雨 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:43:12 |
 
 
 |  | epic_boss_fight_nightmare |
