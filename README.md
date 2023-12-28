@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713770081469 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | K(-)МШоТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:57:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713767743730 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:52:18 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713763053759 |
-| Players | 23/24 |
-| Host Name | gaston |
-| Region | Unknown |
-| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
+| Lobby ID | 28583713770707390 |
+| Players | 11/24 |
+| Host Name | Percibal |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:58:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,21 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:57:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713770586484 |
-| Players | 9/10 |
-| Host Name | Alberik |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:58:08 |
+| Lobby ID | 28583713770785246 |
+| Players | 2/8 |
+| Host Name | ЛИЛ ДОЖДЬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:58:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713770707390 |
-| Players | 9/24 |
-| Host Name | Percibal |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:58:22 |
+| Lobby ID | 28583713763053759 |
+| Players | 19/24 |
+| Host Name | gaston |
+| Region | Unknown |
+| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713771058081 |
+| Players | 1/5 |
+| Host Name | is isdir $$$$%$$$$$$ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:59:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713771059864 |
+| Players | 1/10 |
+| Host Name | Hou` |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 10:59:06 |
 
 
