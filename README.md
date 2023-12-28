@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713933539199 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Hawks_Fury |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 16:03:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713933110861 |
-| Players | 9/10 |
-| Host Name | Дмитрий Масло |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:02:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713933334056 |
-| Players | 4/8 |
-| Host Name | Xaxa |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 16:03:08 |
 
 
 |  | ot3_gardens_duo |
@@ -76,10 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713933812940 |
-| Players | 4/8 |
-| Host Name | усы в моче |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:03:54 |
+| Lobby ID | 28583713933334056 |
+| Players | 5/8 |
+| Host Name | Xaxa |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 16:03:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713933936491 |
+| Players | 1/15 |
+| Host Name | MGH |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 28, 2023 16:04:06 |
 
 
