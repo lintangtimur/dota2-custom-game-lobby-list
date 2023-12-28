@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713746166042 |
-| Players | 12/15 |
-| Host Name | °°DRAKE°° |
+| Lobby ID | 28583713746782732 |
+| Players | 1/24 |
+| Host Name | manjiro sano |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 10:08:00 |
+| Lobby Creation Time | Thursday, December 28, 2023 10:09:17 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713746694829 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:09:06 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713746658769 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | logical |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:09:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713746782732 |
-| Players | 1/24 |
-| Host Name | manjiro sano |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 10:09:17 |
 
 
 |  | epic_boss_fight_nightmare |
