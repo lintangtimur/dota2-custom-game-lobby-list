@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713824319378 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | ------in omnia partus-------- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:46:48 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713825897012 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Батя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:49:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713825695503 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:49:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713826177627 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:50:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713825063239 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | theShano |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:48:16 |
@@ -96,7 +96,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28583713826760946 |
 | Players | 1/8 |
-| Host Name | † |
+| Host Name | Тася Чевхуева |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:51:37 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713824445140 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | capitalline1012 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 12:47:03 |
