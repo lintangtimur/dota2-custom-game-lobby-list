@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 7/24 |
-| Host Name | DooBop |
+| Players | 6/24 |
+| Host Name | SampleRadical |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713704544692 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Kaido |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:41:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713712317563 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:57:59 |
@@ -59,37 +59,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713711415567 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Langlyaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:56:06 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713711221007 |
+| Players | 11/15 |
+| Host Name | Yes Chef! |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:55:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713712704078 |
+| Players | 3/10 |
+| Host Name | Maximus |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:58:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713712701835 |
+| Players | 2/10 |
+| Host Name | ValUha |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:58:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713712727720 |
+| Players | 5/8 |
+| Host Name | SOY PANSEXUAL |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:58:51 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713709964794 |
-| Players | 16/24 |
-| Host Name | House |
+| Lobby ID | 28583713712734305 |
+| Players | 1/24 |
+| Host Name | The Gaymer |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:53:01 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:58:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713712436947 |
-| Players | 2/10 |
-| Host Name | PRIEST |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:58:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713712455011 |
+| Lobby ID | 28583713712743685 |
 | Players | 1/10 |
-| Host Name | Bubba |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:58:17 |
+| Host Name | Missoka Avara |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 08:58:53 |
 
 
 |  | epic_boss_fight_nightmare |
