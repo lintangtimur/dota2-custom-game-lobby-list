@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713941535862 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | ?????? |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 16:16:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713952002175 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 16:32:57 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 16:34:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713952433527 |
-| Players | 6/10 |
-| Host Name | (/_-) |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:33:38 |
+| Lobby ID | 28583713953553520 |
+| Players | 1/15 |
+| Host Name | boring |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:35:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dua Lipa & Halsey <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:34:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713953497109 |
+| Players | 6/15 |
+| Host Name | VskrivatelEby4ek |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:35:20 |
 
 
 |  | epic_boss_fight_nightmare |
