@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713890494611 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | I am the supreme gentleman |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:51:32 |
