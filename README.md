@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:37:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713674414583 |
-| Players | 10/15 |
-| Host Name | twitch.tv/1eapjke |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 07:36:49 |
+| Lobby ID | 28583713674400524 |
+| Players | 7/24 |
+| Host Name | Larry Capija |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 07:36:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713674777042 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | King' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:37:36 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713674413727 |
-| Players | 4/15 |
-| Host Name | c0nus prime |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 07:36:49 |
+| Lobby ID | 28583713674821454 |
+| Players | 1/15 |
+| Host Name | WASD |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 07:37:41 |
 
 
 |  | ot3_gardens_duo |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:36:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713674400524 |
-| Players | 6/24 |
-| Host Name | Larry Capija |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 07:36:47 |
 
 
 |  | epic_boss_fight_nightmare |
