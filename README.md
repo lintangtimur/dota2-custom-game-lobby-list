@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713669642731 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | IQ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 07:26:21 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713666316733 |
-| Players | 5/8 |
-| Host Name | пивной бочок |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 07:19:06 |
+| Lobby ID | 28583713669980773 |
+| Players | 1/8 |
+| Host Name | Robert Lewangoalski |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 07:27:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713669902733 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | DNTRX24 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:26:55 |
@@ -59,18 +59,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713669938752 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | DonPudge |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:27:00 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713670026485 |
+| Players | 1/8 |
+| Host Name | milk with knives |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 07:27:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713670055850 |
+| Players | 1/8 |
+| Host Name | A.S.A.L.A |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 07:27:15 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713669970101 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | BlueDeimos |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:27:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713669999179 |
+| Players | 1/10 |
+| Host Name | gamer word bathwater |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 07:27:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713670019252 |
+| Players | 1/10 |
+| Host Name | 黄瓜 (CR) |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 07:27:11 |
 
 
