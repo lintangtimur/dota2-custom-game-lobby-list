@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714090179789 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:32:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714046724877 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 18:44:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714093548920 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Butterfly |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:35:37 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714092258805 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | NDA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:34:17 |
