@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713997896474 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Underwater Hunter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:41:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713998198488 |
-| Players | 1/24 |
-| Host Name | El Snickito |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 17:41:57 |
 
 
 |  | epic_boss_fight_nightmare |
