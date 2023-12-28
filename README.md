@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714054242633 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ™<con>™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:53:09 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:53:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714054244629 |
-| Players | 12/15 |
-| Host Name | ЇЇ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:53:09 |
+| Lobby ID | 28583714054897626 |
+| Players | 7/10 |
+| Host Name | kfcdog132 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:53:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714054142714 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:53:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714046724877 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 18:44:25 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:53:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714054897626 |
-| Players | 3/10 |
-| Host Name | kfcdog132 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:53:54 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714055162283 |
-| Players | 4/8 |
-| Host Name | Ёбырь Гитлера |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:54:12 |
+| Lobby ID | 28583714055338113 |
+| Players | 3/8 |
+| Host Name | 水口冂升 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:54:24 |
 
 
 |  | epic_boss_fight_nightmare |
