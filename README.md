@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713941535862 |
-| Players | 13/15 |
-| Host Name | ?????? |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 16:16:26 |
+| Lobby ID | 28583713954520713 |
+| Players | 7/15 |
+| Host Name | Cocained |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 16:36:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713953265757 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Series |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:34:58 |
@@ -45,23 +45,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | леша решала |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:37:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713954520713 |
-| Players | 7/15 |
-| Host Name | Cocained |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:36:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713953359682 |
-| Players | 9/10 |
-| Host Name | Someone |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:35:06 |
 
 
