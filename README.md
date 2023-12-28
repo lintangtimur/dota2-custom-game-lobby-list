@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | SampleRadical |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713712842326 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:59:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713728793139 |
-| Players | 7/8 |
-| Host Name | El señor de la noche |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:32:29 |
+| Lobby ID | 28583713729685444 |
+| Players | 2/10 |
+| Host Name | Mr.Popo |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 09:34:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713724411690 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | 1212121212 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:23:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713729459396 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | •Crazy Life• ☻ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:33:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713729345426 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Valashu Ars Elahad |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:33:37 |
@@ -95,19 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713729519911 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | [w]Easy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:33:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713729635729 |
-| Players | 4/8 |
-| Host Name | RICK |
+| Lobby ID | 28583713729660286 |
+| Players | 1/10 |
+| Host Name | Wild-cn |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Thursday, December 28, 2023 09:34:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713729710941 |
+| Players | 2/15 |
+| Host Name | RANDOMEANDO :v |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:34:13 |
+| Lobby Creation Time | Thursday, December 28, 2023 09:34:22 |
 
 
 |  | epic_boss_fight_nightmare |
