@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713867200007 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | andreyvinogradoff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:09:29 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713866153592 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | makaka |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 14:07:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713863422398 |
-| Players | 14/15 |
-| Host Name | cascanueces2012 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 14:02:30 |
+| Lobby ID | 28583713867570904 |
+| Players | 5/10 |
+| Host Name | Keeper |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:10:10 |
 
 
 |  | ot3_desert_octet |
@@ -59,27 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713866825841 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:08:47 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583713867570904 |
-| Players | 4/10 |
-| Host Name | Keeper |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:10:10 |
+| Lobby ID | 28583713865783211 |
+| Players | 8/10 |
+| Host Name | Mweh. |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 14:06:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583713865783211 |
-| Players | 9/10 |
-| Host Name | Mweh. |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 14:06:54 |
+| Lobby ID | 28583713867884931 |
+| Players | 3/10 |
+| Host Name | nasryaqwer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:10:46 |
 
 
