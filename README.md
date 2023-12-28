@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714056570868 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Jerry |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:55:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714059588876 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | .KarmA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:59:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714059160924 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | eblanisto. hyesosto |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:58:47 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714059342258 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Reckless Nostalgia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:59:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714059595502 |
-| Players | 9/10 |
-| Host Name | DoomDED |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:59:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:59:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714060313074 |
-| Players | 4/8 |
-| Host Name | Mode:Великий уксус |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:00:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714057724467 |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Oflaend |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:57:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583714060402865 |
+| Players | 1/10 |
+| Host Name | you? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:00:12 |
 
 
