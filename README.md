@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713784005335 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Ник Вуйчич PRIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:25:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713744475914 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | DOTA Veteran |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713783197211 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Torstol |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:23:53 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713784073170 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | EL MOTIKUKO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:25:39 |
@@ -131,10 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713784671572 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | underr. |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:26:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713784845119 |
+| Players | 3/8 |
+| Host Name | Ese Papu Timido |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 11:27:12 |
 
 
 |  | epic_boss_fight_nightmare |
