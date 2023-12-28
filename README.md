@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713974600538 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Yafa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:07:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713974566524 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | xXxВячесLOVExXx |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:07:42 |
@@ -47,6 +47,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 17:07:06 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713974704799 |
+| Players | 5/10 |
+| Host Name | 666 crying |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 17:07:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713974758589 |
+| Players | 6/8 |
+| Host Name | Palozhen |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 17:07:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713974803706 |
+| Players | 1/15 |
+| Host Name | выеби меня пиздой. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 17:08:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713974801648 |
+| Players | 1/15 |
+| Host Name | анатолий крестов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 17:08:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713972247550 |
@@ -54,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | VancouverOsaka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:04:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713974782254 |
+| Players | 1/5 |
+| Host Name | dyrachoy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 17:08:01 |
 
 
