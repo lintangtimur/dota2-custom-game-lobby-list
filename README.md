@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713668241199 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | MasterMindHiro :D |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:23:17 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713668118914 |
-| Players | 6/8 |
-| Host Name | Z+ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 07:23:00 |
+| Lobby ID | 28583713668645102 |
+| Players | 2/8 |
+| Host Name | ☣▶ ▷ Pomidor4ek◀ ◁☣ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 07:24:10 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541853542118 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | ;] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:22:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713667046943 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | pÀ©h☻dÁn |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:20:37 |
@@ -83,30 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:23:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713668494520 |
-| Players | 1/8 |
-| Host Name | milk with knives |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 07:23:50 |
+| Lobby ID | 28583713668557423 |
+| Players | 6/10 |
+| Host Name | Emperor Palestine |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 07:23:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713668556312 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | TUCA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:23:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713668557423 |
-| Players | 4/10 |
-| Host Name | Emperor Palestine |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 07:23:59 |
 
 
