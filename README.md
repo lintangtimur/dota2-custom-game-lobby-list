@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713760956676 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Apollinem |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:38:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713763840950 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Teregue |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 10:44:22 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713762352322 |
-| Players | 21/24 |
-| Host Name | ® |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:41:16 |
+| Lobby ID | 28583713764067566 |
+| Players | 1/10 |
+| Host Name | pomodomo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:44:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713763069671 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:47 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | harcaritios |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713764067566 |
-| Players | 1/10 |
-| Host Name | pomodomo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 10:44:50 |
 
 
 |  | epic_boss_fight_nightmare |
