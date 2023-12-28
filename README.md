@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714011429096 |
-| Players | 7/8 |
-| Host Name | Cha Cha Cha |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:00:04 |
+| Lobby ID | 28583714012347581 |
+| Players | 7/10 |
+| Host Name | JIuMoH4eG |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:01:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714001993731 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | [PONYVAKLA] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:47:16 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714012279286 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Zaheal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:01:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714012347581 |
-| Players | 5/10 |
-| Host Name | JIuMoH4eG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:01:17 |
+| Lobby ID | 28583714012473425 |
+| Players | 2/24 |
+| Host Name | LethalBacon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:01:27 |
 
 
 |  | epic_boss_fight_nightmare |
