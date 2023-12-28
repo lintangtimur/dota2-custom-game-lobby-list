@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713713128631 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:59:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | SampleRadical |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713713956176 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Te Meto El Dedo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:01:26 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713713863422 |
-| Players | 11/15 |
-| Host Name | Atomic |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 09:01:14 |
+| Lobby ID | 28583713714187462 |
+| Players | 1/15 |
+| Host Name | NeDix! |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 09:01:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713713949105 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Starboy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:01:25 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 09:01:43 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713714143087 |
-| Players | 3/7 |
-| Host Name | нахуй иди |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 09:01:49 |
+| Lobby ID | 28583713714273015 |
+| Players | 6/10 |
+| Host Name | Pi Mode |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 09:02:06 |
 
 
