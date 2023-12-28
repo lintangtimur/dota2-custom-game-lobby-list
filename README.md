@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714116267758 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Lizard |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:58:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714115294622 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | bigboiboi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:57:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714105298023 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Stengah |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:47:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714113760572 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 19:55:56 |
