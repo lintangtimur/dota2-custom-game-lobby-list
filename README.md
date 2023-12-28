@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714161763690 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:40:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714156761496 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | What a Dragg! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:35:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714156583504 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:35:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714161105072 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | smol_man |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:39:49 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714162398733 |
-| Players | 3/8 |
-| Host Name | ≈NEGODIY≈ |
+| Lobby ID | 28583714162541700 |
+| Players | 2/8 |
+| Host Name | last way |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:40:59 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:41:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | forever |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 20:29:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583714159124126 |
-| Players | 9/10 |
-| Host Name | EpicBossFightEnjoyer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:38:04 |
 
 
 |  | epic_boss_fight_hard |
