@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713770885813 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | серега пивас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:58:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713770081469 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | K(-)МШоТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:57:05 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713767743730 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:52:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713762214365 |
-| Players | 6/8 |
-| Host Name | Ya ya mijo ya |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 10:40:58 |
+| Lobby ID | 28583713763053759 |
+| Players | 22/24 |
+| Host Name | gaston |
+| Region | Unknown |
+| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713770707390 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:58:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713770491072 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Snake® |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:57:56 |
@@ -101,13 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:58:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713763053759 |
-| Players | 19/24 |
-| Host Name | gaston |
-| Region | Unknown |
-| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
+| Lobby ID | 28583713771170304 |
+| Players | 1/15 |
+| Host Name | Ni8shade |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 10:59:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713771156812 |
+| Players | 1/10 |
+| Host Name | 22032 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:59:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713771175391 |
+| Players | 1/10 |
+| Host Name | El sin papito |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:59:20 |
 
 
 |  | epic_boss_fight_normal |
