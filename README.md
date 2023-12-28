@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713691117026 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Jaylaps Brozingis |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:12:46 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:10:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713691161192 |
-| Players | 2/24 |
-| Host Name | It's poshooooo ! |
+| Lobby ID | 28583713691397070 |
+| Players | 3/8 |
+| Host Name | corx |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:12:52 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:13:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713690747771 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | VanCleef |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:11:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713689032215 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:08:13 |
@@ -59,34 +59,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713691391897 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Buxan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:13:20 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713691458716 |
+| Players | 5/10 |
+| Host Name | WoodyPlant |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:13:29 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713691397070 |
-| Players | 1/8 |
-| Host Name | corx |
+| Lobby ID | 28583713691462064 |
+| Players | 3/8 |
+| Host Name | JUDE BELLINGHAM |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:13:21 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:13:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713685785406 |
-| Players | 8/10 |
-| Host Name | Avöcadö.FG |
+| Lobby ID | 28583713691672050 |
+| Players | 1/24 |
+| Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:01:17 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:13:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713691341600 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | BlueDeimos |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:13:14 |
