@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713687975238 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:05:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | d00fie |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713688387416 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | SUMIMASEN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:06:52 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | alexander  yc |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:06:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713688539224 |
+| Players | 1/8 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:07:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713688548720 |
+| Players | 1/24 |
+| Host Name | Worm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:07:12 |
 
 
 |  | epic_boss_fight_nightmare |
