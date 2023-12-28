@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:47:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713905530146 |
-| Players | 9/10 |
-| Host Name | Semezya |
+| Lobby ID | 28583713906625552 |
+| Players | 2/8 |
+| Host Name | снюхал весь пакет |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:17:13 |
+| Lobby Creation Time | Thursday, December 28, 2023 15:19:04 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:12:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713906162010 |
-| Players | 2/8 |
-| Host Name | молчание бурят |
+| Lobby ID | 28583713906596540 |
+| Players | 1/15 |
+| Host Name | Ryan O'Reily |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:18:17 |
+| Lobby Creation Time | Thursday, December 28, 2023 15:19:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,28 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:18:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713906596540 |
-| Players | 1/15 |
-| Host Name | Ryan O'Reily |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:19:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713906625552 |
-| Players | 1/8 |
-| Host Name | снюхал весь пакет |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:19:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713905011436 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Jet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:16:21 |
