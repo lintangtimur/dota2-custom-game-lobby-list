@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713762486392 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:41:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713764221564 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | zeta male |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:45:08 |
@@ -110,31 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:45:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713765128535 |
-| Players | 2/8 |
-| Host Name | el poder del mainkra |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:46:59 |
+| Lobby ID | 28583713765223075 |
+| Players | 1/24 |
+| Host Name | Kumiiii |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 10:47:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713765210826 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | noname |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:47:10 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713763467241 |
-| Players | 1/10 |
-| Host Name | Shiro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 10:43:36 |
+| Lobby ID | 28583713765285030 |
+| Players | 4/8 |
+| Host Name | UMANO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:47:19 |
 
 
 |  | epic_boss_fight_normal |
