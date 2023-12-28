@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713701358178 |
-| Players | 2/8 |
-| Host Name | ABRE LAS PIERNAS NOMA |
+| Players | 3/8 |
+| Host Name | Dispersion |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:34:28 |
 
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:35:27 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713702087821 |
+| Players | 2/10 |
+| Host Name | Zabby |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:36:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713699481583 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 黄瓜 (CR) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:30:29 |
