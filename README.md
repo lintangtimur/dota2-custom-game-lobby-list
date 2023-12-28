@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714014932567 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | xXxВячесLOVExXx |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:04:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714012473425 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | LethalBacon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:01:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714014342169 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:03:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714015127282 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | дибил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:04:58 |
@@ -86,16 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714015000012 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | twitch.tv/moskvinio |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:04:48 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583714015265103 |
+| Players | 1/10 |
+| Host Name | Геннадий Треев |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:05:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714015009067 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Voglio solo il suo amore . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:04:49 |
