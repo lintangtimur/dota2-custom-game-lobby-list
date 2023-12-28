@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713836940627 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | I brought u flowers |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:11:50 |
@@ -90,6 +90,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | novohaZZke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:14:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713838566775 |
+| Players | 1/8 |
+| Host Name | Dereck Zoolander. |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 13:14:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713838597972 |
+| Players | 2/8 |
+| Host Name | ИшАчЕлЛо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 13:15:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713838631152 |
+| Players | 3/24 |
+| Host Name | BB |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 13:15:05 |
 
 
 |  | epic_boss_fight_nightmare |
