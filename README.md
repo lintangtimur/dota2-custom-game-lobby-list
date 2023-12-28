@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713878933318 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | актер живодер каскадер |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:30:52 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:33:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713880296809 |
-| Players | 14/15 |
-| Host Name | ЛЮБЛЮ ТВОЮ МАМУ=) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:33:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713880870765 |
-| Players | 3/10 |
-| Host Name | Despicision |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 14:34:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713880877868 |
-| Players | 1/24 |
-| Host Name | Cuh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:34:19 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713881036079 |
@@ -99,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Марко Ройс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:34:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713880870765 |
+| Players | 2/10 |
+| Host Name | Despicision |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 14:34:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713881508583 |
+| Players | 1/24 |
+| Host Name | Cuh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:35:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713881499968 |
+| Players | 1/8 |
+| Host Name | Ramen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:35:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713879939483 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | gore video is the best movie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:32:39 |
