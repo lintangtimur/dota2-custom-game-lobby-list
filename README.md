@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713692855241 |
-| Players | 1/24 |
-| Host Name | RiftBreaker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:16:25 |
+| Lobby ID | 28583713712743685 |
+| Players | 2/10 |
+| Host Name | Flyn Raider *Vip Zone*TRADEIT.GG |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 08:58:53 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713712317563 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:57:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713711999825 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | D. ♠デNï̷k̷ä ̵̵͋̀͋̀ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:57:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713712043059 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | // |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:57:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713711415567 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Langlyaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:56:06 |
@@ -83,40 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:58:48 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713712701835 |
-| Players | 2/10 |
-| Host Name | ValUha |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:58:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713712727720 |
-| Players | 5/8 |
-| Host Name | SOY PANSEXUAL |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:58:51 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713712734305 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | The Gaymer |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:58:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713712743685 |
-| Players | 1/10 |
-| Host Name | Missoka Avara |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 08:58:53 |
 
 
 |  | epic_boss_fight_nightmare |
