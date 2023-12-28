@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713705900377 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Recep Tayyip Erdoğan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:44:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713704236321 |
-| Players | 9/10 |
-| Host Name | Bubba |
+| Lobby ID | 28583713705651242 |
+| Players | 3/8 |
+| Host Name | El Gotto Cuba |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:40:44 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:43:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:43:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713705651242 |
-| Players | 2/8 |
-| Host Name | El Gotto Cuba |
+| Lobby ID | 28583713706088866 |
+| Players | 1/24 |
+| Host Name | 陰陽 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:43:50 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:44:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713703554114 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Tōdō Aoi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:39:13 |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713703609173 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mweh. |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 08:39:20 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28583713706011989 |
-| Players | 1/5 |
-| Host Name | -GeOz- |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:44:37 |
+| Lobby ID | 28583713706087518 |
+| Players | 1/7 |
+| Host Name | Flexflouzen |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 08:44:46 |
 
 
