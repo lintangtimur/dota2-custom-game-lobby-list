@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713927033712 |
-| Players | 23/24 |
-| Host Name | 小百合 平野 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:52:58 |
+| Lobby ID | 28583713928906141 |
+| Players | 3/8 |
+| Host Name | SeYak1ra |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:56:00 |
 
 
 |  | ot3_gardens_duo |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:55:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713926772645 |
-| Players | 1/15 |
-| Host Name | only 1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:52:33 |
+| Lobby ID | 28583713927842106 |
+| Players | 3/24 |
+| Host Name | Mischievous Hooligan |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 15:54:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713927842106 |
-| Players | 3/24 |
-| Host Name | Mischievous Hooligan |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 15:54:17 |
+| Lobby ID | 28583713928932415 |
+| Players | 1/24 |
+| Host Name | PenoDewey |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 15:56:03 |
 
 
 |  | epic_boss_fight_nightmare |
