@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713752351238 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | sideral_frio |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:20:43 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:20:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713752047096 |
-| Players | 14/15 |
-| Host Name | Glue Sommelier |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 10:20:06 |
+| Lobby ID | 28583713752936642 |
+| Players | 1/24 |
+| Host Name | Kokodrile |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:21:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713751510400 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | harcaritios |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:19:00 |
@@ -89,15 +89,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 10:21:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713752936642 |
-| Players | 1/24 |
-| Host Name | Kokodrile |
-| Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:21:55 |
 
 
