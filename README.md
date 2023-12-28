@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713720548397 |
-| Players | 6/8 |
-| Host Name | [w]Easy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 09:15:25 |
+| Lobby ID | 28583713721637305 |
+| Players | 1/15 |
+| Host Name | zzzzz |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 09:17:43 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713721281512 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Coltello Per MDMA |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:16:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713720944746 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | VENDO TERRENOS 945310902 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:16:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713721140571 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | seshollowaterboyz. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:16:39 |
@@ -81,32 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Piu Piu Gaaaaaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:17:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713721637305 |
-| Players | 1/15 |
-| Host Name | zzzzz |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:17:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713721111690 |
-| Players | 3/10 |
-| Host Name | Dndama |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 09:16:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713715186141 |
-| Players | 9/10 |
-| Host Name | MESSI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 09:04:01 |
 
 
