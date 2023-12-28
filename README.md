@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714103343506 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ANTKVICH |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:45:40 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714103999020 |
-| Players | 13/15 |
-| Host Name | intro |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:46:20 |
+| Lobby ID | 28583714104499201 |
+| Players | 1/15 |
+| Host Name | Gonzalito Gonzales |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 19:46:50 |
 
 
 |  | ot3_desert_octet |
@@ -95,34 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714104448308 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | MinZ <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:46:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714104499201 |
-| Players | 1/15 |
-| Host Name | Gonzalito Gonzales |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 19:46:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714104634530 |
-| Players | 4/8 |
-| Host Name | Ярик лапа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:46:59 |
+| Lobby ID | 28583714104827379 |
+| Players | 3/8 |
+| Host Name | RØSTØR |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, December 28, 2023 19:47:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714102216818 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Z_SPAWN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:44:33 |
