@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714087250162 |
-| Players | 5/24 |
+| Players | 2/24 |
 | Host Name | [C]all_Me_[P].o.r |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:29:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714046724877 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 18:44:25 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714088942404 |
-| Players | 14/15 |
-| Host Name | Crimson; |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:30:51 |
+| Lobby ID | 28583714090001742 |
+| Players | 9/15 |
+| Host Name | DarkMount |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:31:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 19:31:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714089601255 |
-| Players | 5/8 |
-| Host Name | RING MASTER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:31:31 |
+| Lobby ID | 28583714090179789 |
+| Players | 1/24 |
+| Host Name | Oversea Sexy Guy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:32:07 |
 
 
 |  | ot3_desert_octet |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:27:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714090001742 |
-| Players | 3/15 |
-| Host Name | DarkMount |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:31:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28583714088579577 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Butterfly Burton |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:30:28 |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714088418937 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | 再干中单  重拾自信 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:30:18 |
@@ -157,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28583714090064821 |
+| Lobby ID | 28583714090191104 |
 | Players | 1/5 |
 | Host Name | 𒉭wild ocean𒉭 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:32:00 |
+| Lobby Creation Time | Thursday, December 28, 2023 19:32:07 |
 
 
