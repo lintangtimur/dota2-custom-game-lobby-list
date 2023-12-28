@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714038817445 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | noob 2.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:34:55 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714039115489 |
-| Players | 2/8 |
-| Host Name | НА ЯИЧКАХ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:35:17 |
+| Lobby ID | 28583714039349021 |
+| Players | 4/8 |
+| Host Name | Pure~  will be fine |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:35:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714017672652 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:08:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714031675127 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | FeelMyPain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:26:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714038833212 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Твоя мама |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:34:56 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714039217142 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | L u 4 i s t i y   P i r o j o k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:35:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714039260612 |
+| Players | 2/8 |
+| Host Name | darl park |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:35:27 |
 
 
 |  | epic_boss_fight_nightmare |
