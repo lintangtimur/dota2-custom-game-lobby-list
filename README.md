@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713767894661 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:52:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713768100957 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 黃人韋厷隹 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:53:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713766282606 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | EJ-Smill3 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:49:21 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:40:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713763053759 |
-| Players | 21/24 |
-| Host Name | harcaritios |
-| Region | Unknown |
-| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
+| Lobby ID | 28583713768008683 |
+| Players | 7/10 |
+| Host Name | Saeko-chan ♥twitch.tv/zecarlos |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:52:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713768208853 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Боулинг яйцами |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:53:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713766910203 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Mia Khalifa.Onlyfans✪ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:50:37 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713768191631 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | PORQUERÍA DE EVENTO CONCHESUMARE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:53:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713768008683 |
-| Players | 3/10 |
-| Host Name | Saeko-chan ♥twitch.tv/zecarlos |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:52:51 |
 
 
 |  | epic_boss_fight_nightmare |
