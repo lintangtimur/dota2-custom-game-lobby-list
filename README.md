@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713847237350 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Belifan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:31:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713855400403 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Мистер Бензин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:47:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713856812531 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 13:50:11 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713856782614 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | matchmaking player |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:50:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713856917086 |
-| Players | 3/8 |
-| Host Name | There are no former ghouls |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:50:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713856921179 |
-| Players | 1/8 |
-| Host Name | target practice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 13:50:23 |
 
 
 |  | epic_boss_fight_nightmare |
