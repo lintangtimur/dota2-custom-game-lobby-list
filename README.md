@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | d00fie |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713691462064 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | JUDE BELLINGHAM |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:13:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713692638836 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | [Pota] Cal_93 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:15:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713692848202 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Pliquetor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:16:24 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mike, Persuader of Youthful Men |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:16:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713693177329 |
+| Players | 2/24 |
+| Host Name | izi pipilin |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:17:06 |
 
 
 |  | epic_boss_fight_nightmare |
