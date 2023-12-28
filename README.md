@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713819104703 |
-| Players | 9/10 |
-| Host Name | La Pixiris |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:36:17 |
+| Lobby ID | 28583713821894058 |
+| Players | 4/10 |
+| Host Name | Amboba |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 12:41:55 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713820665493 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Wowzer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:39:23 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ROFLwaffle |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:41:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713821894058 |
-| Players | 2/10 |
-| Host Name | Amboba |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 12:41:55 |
 
 
