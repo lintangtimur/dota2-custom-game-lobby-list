@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713661838647 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Yapst |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:11:18 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713662171500 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | BoTan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:11:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713660394131 |
-| Players | 7/8 |
-| Host Name | жуйка |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 07:10:13 |
+| Lobby ID | 28576541875138059 |
+| Players | 23/24 |
+| Host Name | -qwerty |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 07:06:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713661255452 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Maresha |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, December 28, 2023 07:10:48 |
@@ -56,28 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:07:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713661431950 |
-| Players | 14/15 |
-| Host Name | *^A^* |
+| Lobby ID | 28583713662672245 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 07:10:57 |
+| Lobby Creation Time | Thursday, December 28, 2023 07:11:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541853542118 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | ;] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:22:45 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713662835382 |
+| Players | 1/8 |
+| Host Name | ICHZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 07:12:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713661037678 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Cerberus_7 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 07:10:33 |
