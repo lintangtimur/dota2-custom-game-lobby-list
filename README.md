@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713678827221 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Estudiar Part time es lo mio |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:46:20 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713679556726 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 4308 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 07:47:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713678347284 |
-| Players | 9/10 |
-| Host Name | Balin |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 07:45:18 |
+| Lobby ID | 28583713679219011 |
+| Players | 8/15 |
+| Host Name | Turtle |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 07:47:11 |
 
 
 |  | ot3_desert_octet |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713679168983 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:47:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713679219011 |
-| Players | 8/15 |
-| Host Name | Turtle |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 07:47:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713679655114 |
-| Players | 1/10 |
-| Host Name | Ископаемое |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 07:48:08 |
 
 
 |  | epic_boss_fight_nightmare |
