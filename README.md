@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713953849613 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Калдун(кало дун) |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:35:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713953265757 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Series |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:34:58 |
@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713953949273 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Kr1cketq |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:36:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713954067546 |
+| Players | 2/8 |
+| Host Name | Mate |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:36:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Someone |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:35:06 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28583713954010661 |
+| Players | 1/7 |
+| Host Name | Inggar |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:36:09 |
 
 
