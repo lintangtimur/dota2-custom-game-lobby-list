@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713846019864 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | SoloWay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:29:24 |
@@ -56,28 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:51:14 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713846539957 |
+| Players | 2/10 |
+| Host Name | РОСТ 150 ВЕС ЕЩЕ БОЛЬШЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 13:30:24 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713844429081 |
-| Players | 23/24 |
-| Host Name | 萧瑟 HLA Jeans  Lindaestrell |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 13:26:19 |
+| Lobby ID | 28583713846537301 |
+| Players | 2/24 |
+| Host Name | CNN fake news |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:30:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713845753230 |
-| Players | 6/8 |
-| Host Name | Guardian |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:28:53 |
+| Lobby ID | 28583713846662142 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 13:30:38 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713845230691 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | ggwp |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:27:53 |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:29:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713846600846 |
+| Players | 1/5 |
+| Host Name | DONUT MATCHA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:30:30 |
 
 
