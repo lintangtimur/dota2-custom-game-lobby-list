@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 20:27:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714146839226 |
-| Players | 9/10 |
-| Host Name | Dj Onny |
+| Lobby ID | 28583714147861709 |
+| Players | 5/15 |
+| Host Name | аааааааааааааааа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:26:58 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:27:55 |
 
 
 |  | ot3_necropolis_ffa |
