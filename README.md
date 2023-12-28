@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714050250598 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | FIN-FIN :))) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:48:32 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714050419685 |
-| Players | 14/15 |
-| Host Name | Бегущий в подвале |
+| Lobby ID | 28583714051558157 |
+| Players | 4/15 |
+| Host Name | shieldferal |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:48:44 |
+| Lobby Creation Time | Thursday, December 28, 2023 18:50:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714031675127 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | ☆ VAZ ☆ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:26:14 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:49:18 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714051491519 |
-| Players | 2/15 |
-| Host Name | Umba Qumba |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:49:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714048575201 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714049792157 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:48:01 |
