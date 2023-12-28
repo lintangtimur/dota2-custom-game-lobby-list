@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | DooBop |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713695585782 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 大大hate myself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:22:13 |
@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:22:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713695291960 |
-| Players | 8/10 |
-| Host Name | No me jodas o fedeo..!! |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:21:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713695748843 |
-| Players | 5/8 |
-| Host Name | TU VECINO 👑🐼 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:22:34 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713696373063 |
+| Lobby ID | 28583713696455321 |
 | Players | 1/24 |
 | Host Name | LA BAJEZA ME CONSUME |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:23:53 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:24:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BlueDeimos |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:20:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583713696381418 |
-| Players | 2/5 |
-| Host Name | selegna🖤 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:23:54 |
 
 
