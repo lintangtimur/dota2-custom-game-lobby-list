@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714135419693 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | NothingFeelsRight |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 28, 2023 20:16:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714123966974 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:05:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714140012360 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Дмитрий Масло |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:20:40 |
@@ -85,18 +85,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714140536606 |
-| Players | 1/24 |
-| Host Name | AKKAR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:21:09 |
+| Lobby ID | 28583714140666585 |
+| Players | 2/24 |
+| Host Name | 渦幕 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714140552503 |
 | Players | 2/8 |
-| Host Name | Theo |
+| Host Name | 死神AvarmicH死神 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:21:10 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714140571302 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | a1dargo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:21:11 |
@@ -121,11 +121,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714140666585 |
+| Lobby ID | 28583714140710957 |
 | Players | 1/24 |
-| Host Name | 渦幕 |
+| Host Name | AKKAR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583714140845814 |
+| Players | 1/24 |
+| Host Name | V1ncentzo |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:21:16 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:26 |
 
 
 |  | epic_boss_fight_nightmare |
