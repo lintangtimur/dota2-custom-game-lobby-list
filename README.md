@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713935418883 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | в 24 выйду по удо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:06:31 |
@@ -29,40 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:54:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713931380996 |
-| Players | 1/8 |
-| Host Name | Play with dog = loss |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:00:00 |
+| Lobby ID | 28583713935182986 |
+| Players | 1/15 |
+| Host Name | quffrevan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 16:06:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713935256126 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | العسل الحلو |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:06:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713935119764 |
-| Players | 14/15 |
-| Host Name | Satanovski |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:06:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713935182986 |
-| Players | 2/15 |
-| Host Name | quffrevan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:06:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tommy Shelby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:06:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713935746352 |
+| Players | 1/10 |
+| Host Name | Shiro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:07:03 |
 
 
