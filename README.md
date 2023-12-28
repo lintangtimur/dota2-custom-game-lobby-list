@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713884795818 |
-| Players | 6/10 |
-| Host Name | 76561199196836346 |
+| Lobby ID | 28583713885519343 |
+| Players | 1/15 |
+| Host Name | charli |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:41:23 |
+| Lobby Creation Time | Thursday, December 28, 2023 14:42:43 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:39:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713884886267 |
-| Players | 1/10 |
-| Host Name | Балдежный Пердеж |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:41:34 |
+| Lobby ID | 28583713885248623 |
+| Players | 5/24 |
+| Host Name | patisonti |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:42:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,36 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713884715556 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:41:14 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713885248623 |
-| Players | 3/24 |
-| Host Name | patisonti |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:42:14 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713884505274 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | SakalFTW |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:40:51 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583713885305820 |
-| Players | 1/5 |
-| Host Name | Mefrey |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:42:20 |
+| Lobby ID | 28583713885460752 |
+| Players | 1/10 |
+| Host Name | PRABRORO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:42:37 |
 
 
