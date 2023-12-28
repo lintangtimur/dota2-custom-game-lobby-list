@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713760640452 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | DonFlag |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:37:39 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | สำลัก คำสิง |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713759842885 |
-| Players | 22/24 |
-| Host Name | AnGlz__Strike |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:36:01 |
+| Lobby ID | 28583713761110834 |
+| Players | 7/24 |
+| Host Name | Camel |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 10:38:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:38:18 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713761110834 |
-| Players | 7/24 |
-| Host Name | Camel |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 10:38:37 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713761271717 |
-| Players | 2/8 |
-| Host Name | ☣▶ ▷ Pomidor4ek◀ ◁☣ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 10:38:58 |
+| Lobby ID | 28583713761346932 |
+| Players | 1/8 |
+| Host Name | Ghoul FFF Rank |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:39:08 |
 
 
