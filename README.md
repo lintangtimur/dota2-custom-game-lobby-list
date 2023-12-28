@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713780868807 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | @nirvana_sf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:19:09 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713781382863 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | MTH |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:20:12 |
@@ -122,9 +122,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713781900778 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Rocky Lujan Carrion |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:21:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713781952279 |
+| Players | 5/8 |
+| Host Name | NicoMB_Luchi<3 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:21:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713781991175 |
+| Players | 1/8 |
+| Host Name | AkiKo Annaisha kim Sung |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:21:26 |
 
 
