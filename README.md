@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28583713923798010 |
 | Players | 12/24 |
-| Host Name | Cuh |
+| Host Name | Thienly |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:47:41 |
 
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:35:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713923598336 |
-| Players | 8/10 |
-| Host Name | дунул паровозика |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:47:21 |
+| Lobby ID | 28583713924443990 |
+| Players | 5/15 |
+| Host Name | Super hahol |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:48:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Stronger |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 15:48:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713924483758 |
-| Players | 1/15 |
-| Host Name | LiquorHole |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:48:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713924443990 |
-| Players | 2/15 |
-| Host Name | Super hahol |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:48:45 |
 
 
 |  | epic_boss_fight_nightmare |
