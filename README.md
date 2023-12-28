@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713724972888 |
-| Players | 7/8 |
-| Host Name | JUDE BELLINGHAM |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:24:37 |
+| Lobby ID | 28583713725525676 |
+| Players | 11/15 |
+| Host Name | MHA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 09:25:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713712842326 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:59:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713724411690 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 1212121212 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:23:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713724856283 |
-| Players | 17/24 |
+| Players | 23/24 |
 | Host Name | TatsuGod™ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:24:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713725546527 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | →Nevve← |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:25:48 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 09:25:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713725525676 |
-| Players | 12/15 |
-| Host Name | MHA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 09:25:45 |
+| Lobby ID | 28583713726126865 |
+| Players | 2/8 |
+| Host Name | Avus |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 09:27:00 |
 
 
