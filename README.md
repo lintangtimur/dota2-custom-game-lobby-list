@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713852358616 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Jacinto Soto Coronado Vilchez |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:41:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713853512471 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Сафронов, поставь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:44:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713853598510 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Reinhardt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:44:10 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:31:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713853970976 |
-| Players | 1/10 |
-| Host Name | DIZI |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:44:51 |
+| Lobby ID | 28583713854081747 |
+| Players | 1/8 |
+| Host Name | Lost in Pinoyland |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 13:45:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713853975461 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:44:51 |
