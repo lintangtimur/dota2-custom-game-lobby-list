@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713941535862 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | ?????? |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 16:16:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713950290379 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | PSG.LGBT |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:30:15 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713950701682 |
-| Players | 3/15 |
-| Host Name | Red Days Forever |
+| Players | 1/15 |
+| Host Name | maga.sultanmuradov |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:30:54 |
 
@@ -45,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Juninett |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:31:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713951013197 |
+| Players | 1/10 |
+| Host Name | Геннадий Треев |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:31:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713951042732 |
+| Players | 3/8 |
+| Host Name | Фимоз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 16:31:26 |
 
 
 |  | epic_boss_fight_nightmare |
