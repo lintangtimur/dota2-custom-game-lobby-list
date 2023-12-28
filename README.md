@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714135419693 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | NothingFeelsRight |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 28, 2023 20:16:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714138235482 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Now I am become death |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 20:19:02 |
@@ -85,46 +85,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714139089567 |
-| Players | 3/8 |
-| Host Name | pahakir08 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:19:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714134696611 |
-| Players | 10/15 |
-| Host Name | niWo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:15:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28583714140247486 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | best 4 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:20:53 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714135424675 |
-| Players | 3/7 |
-| Host Name | step step!! |
+| Lobby ID | 28583714134696611 |
+| Players | 14/15 |
+| Host Name | niWo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:16:26 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:15:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583714140430596 |
+| Players | 1/24 |
+| Host Name | AKKAR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583714138893466 |
+| Lobby ID | 28583714140446110 |
 | Players | 1/10 |
 | Host Name | hel1c+a |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:19:39 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583714140466481 |
+| Players | 3/5 |
+| Host Name | Тайлер Дерден |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:05 |
 
 
