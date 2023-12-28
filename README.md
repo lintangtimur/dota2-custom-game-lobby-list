@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713741077400 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | (One) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:57:39 |
@@ -59,28 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713741780376 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | El vago de la Sunat |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:59:05 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713742205210 |
+| Players | 2/24 |
+| Host Name | Jeellyz |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 09:59:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713739170325 |
+| Players | 22/24 |
+| Host Name | SuperChef |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 09:53:47 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713742205805 |
+| Lobby ID | 28583713742304351 |
 | Players | 1/15 |
-| Host Name | BadAmus(><) |
+| Host Name | Mora |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:59:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713742202236 |
-| Players | 4/10 |
-| Host Name | ♥♦HiSoKa♣♠ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:59:56 |
+| Lobby Creation Time | Thursday, December 28, 2023 10:00:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713741070315 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:57:38 |
