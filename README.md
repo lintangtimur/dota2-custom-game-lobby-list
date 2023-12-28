@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714058826995 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Squeeze |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:58:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714064230709 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 迪克 KABAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:04:27 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 19:03:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714064162875 |
-| Players | 1/8 |
-| Host Name | nxcyner |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:04:23 |
+| Lobby ID | 28583714065233729 |
+| Players | 4/10 |
+| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:05:34 |
 
 
 |  | ot3_desert_octet |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 19:05:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714065085408 |
-| Players | 4/8 |
-| Host Name | капитан пидр |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:05:24 |
+| Lobby ID | 28583714065300054 |
+| Players | 8/15 |
+| Host Name | Ranni |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:05:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714065098738 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ｄｙｒａｃｈｙｏ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:05:25 |
@@ -130,20 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714065233729 |
-| Players | 4/10 |
-| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
+| Lobby ID | 28583714065577350 |
+| Players | 2/10 |
+| Host Name | Gena |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:05:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714065300054 |
-| Players | 6/15 |
-| Host Name | Ranni |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:05:39 |
+| Lobby Creation Time | Thursday, December 28, 2023 19:05:57 |
 
 
 |  | epic_boss_fight_nightmare |
