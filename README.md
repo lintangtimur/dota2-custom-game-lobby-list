@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713906596540 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Ryan O'Reily |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:19:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713906950374 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | goldfeesh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:19:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713907042435 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Я ПОРОХИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:19:46 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Stronger |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 15:20:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713907390525 |
-| Players | 2/8 |
-| Host Name | матье бал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:20:21 |
 
 
 |  | epic_boss_fight_nightmare |
