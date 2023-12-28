@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713792794110 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Butterfly Flaky Crust |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:43:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713794560165 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Jalain Almeida |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:47:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713795788407 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | sosamba2010 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:49:28 |
