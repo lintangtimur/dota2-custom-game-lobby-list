@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713873547307 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | WINLINE | forzeroone |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:21:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713873592214 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | 알렉산드라 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 14:21:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713874640566 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:23:08 |
