@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714047520403 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ПРОКЛЯТИЕ ГАБЕНА |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:45:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714060941285 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | kangkong chips |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:00:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714063625099 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | EdgarP04 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 19:03:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714063621718 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | OnlyFarms |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:03:47 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714063959801 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:04:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583714059385087 |
-| Players | 23/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:59:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | you? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:00:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583714064091266 |
-| Players | 1/5 |
-| Host Name | Taxi AШOT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:04:18 |
 
 
