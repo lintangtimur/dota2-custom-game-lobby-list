@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713684748936 |
-| Players | 7/8 |
-| Host Name | Aloha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 07:59:05 |
+| Lobby ID | 28583713685352393 |
+| Players | 2/15 |
+| Host Name | Drim |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:00:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713684091937 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Delusion |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:57:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713685058926 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | _Lok1_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:59:45 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:59:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713684924140 |
-| Players | 1/15 |
-| Host Name | RON |
+| Lobby ID | 28583713682920681 |
+| Players | 21/24 |
+| Host Name | ChInOx |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 07:59:28 |
+| Lobby Creation Time | Thursday, December 28, 2023 07:55:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713685005165 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | P福特メ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:59:38 |
@@ -103,10 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713685286529 |
+| Lobby ID | 28583713685342509 |
 | Players | 1/15 |
-| Host Name | VAC auditor |
+| Host Name | Elysium |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:00:13 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:00:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713682564089 |
+| Players | 23/24 |
+| Host Name | Mr. Boo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 07:54:25 |
 
 
