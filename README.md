@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713742205210 |
-| Players | 7/24 |
-| Host Name | MoonRay |
+| Players | 4/24 |
+| Host Name | nedd_ford96 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:59:56 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713741077400 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | (One) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:57:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713743231205 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:02:00 |
@@ -59,27 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713743720110 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ''IFRIT'' |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:02:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713742881284 |
-| Players | 13/24 |
-| Host Name | Talento Nada |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:01:18 |
+| Lobby ID | 28583713743904856 |
+| Players | 1/10 |
+| Host Name | DJ BustaNut |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 10:03:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713742750449 |
-| Players | 11/15 |
-| Host Name | OLDBUSH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 10:01:02 |
+| Lobby ID | 28583713744137118 |
+| Players | 5/10 |
+| Host Name | MK |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 10:03:49 |
 
 
