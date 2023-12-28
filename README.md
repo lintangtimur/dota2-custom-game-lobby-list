@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 16:16:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713953497109 |
-| Players | 13/15 |
-| Host Name | VskrivatelEby4ek |
+| Lobby ID | 28583713953849613 |
+| Players | 1/8 |
+| Host Name | Калдун(кало дун) |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:35:20 |
+| Lobby Creation Time | Thursday, December 28, 2023 16:35:54 |
 
 
 |  | ot3_desert_octet |
@@ -38,22 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 16:35:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713953209551 |
-| Players | 7/8 |
-| Host Name | Dua Lipa & Halsey <3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:34:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713953825192 |
-| Players | 2/8 |
-| Host Name | ヘル エンジェル |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 16:35:52 |
+| Lobby ID | 28583713953949273 |
+| Players | 2/15 |
+| Host Name | Kr1cketq |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:36:03 |
 
 
 |  | epic_boss_fight_nightmare |
