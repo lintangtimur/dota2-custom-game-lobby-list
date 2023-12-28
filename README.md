@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714135419693 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | NothingFeelsRight |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 28, 2023 20:16:26 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 20:05:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714140012360 |
-| Players | 8/10 |
-| Host Name | Дмитрий Масло |
+| Lobby ID | 28583714140710957 |
+| Players | 1/24 |
+| Host Name | AKKAR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:20:40 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714141383635 |
-| Players | 2/8 |
-| Host Name | dota enjoyer |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:21:56 |
+| Lobby ID | 28583714141289862 |
+| Players | 1/8 |
+| Host Name | 111 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:51 |
 
 
 |  | ot3_gardens_duo |
@@ -103,47 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714140571302 |
-| Players | 12/15 |
-| Host Name | a1dargo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:21:11 |
+| Lobby ID | 28583714141631478 |
+| Players | 1/15 |
+| Host Name | WolFyKah |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:22:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714140710957 |
-| Players | 1/24 |
-| Host Name | AKKAR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:21:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714141289862 |
-| Players | 1/8 |
-| Host Name | 111 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:21:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714141456765 |
-| Players | 1/10 |
-| Host Name | ubanfreeze |
+| Lobby ID | 28583714141560994 |
+| Players | 2/24 |
+| Host Name | V1ncentzo |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:22:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714141463410 |
-| Players | 1/15 |
-| Host Name | Abyssal |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 20:22:00 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:22:06 |
 
 
 |  | epic_boss_fight_nightmare |
