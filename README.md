@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713935418883 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | в 24 выйду по удо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:06:31 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713935265120 |
-| Players | 9/10 |
-| Host Name | #idinaxyi MaLo9_ToP |
+| Lobby ID | 28583713935256126 |
+| Players | 5/10 |
+| Host Name | العسل الحلو |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:06:16 |
+| Lobby Creation Time | Thursday, December 28, 2023 16:06:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713935119764 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Satanovski |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:06:02 |
@@ -65,28 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 16:06:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713935214524 |
-| Players | 4/8 |
-| Host Name | дибил |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:06:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713935256126 |
-| Players | 5/10 |
-| Host Name | العسل الحلو |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:06:15 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28583713935267223 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Tommy Shelby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:06:16 |
