@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713755054705 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | twitch.tv/aleschaaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:26:18 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713754817168 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Tuliks |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:25:49 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Daee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:17:33 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713755576373 |
+| Players | 2/5 |
+| Host Name | Mr Niggle |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 28, 2023 10:27:22 |
 
 
