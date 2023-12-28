@@ -11,28 +11,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 16:16:26 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713951145488 |
-| Players | 1/8 |
-| Host Name | akula2707o7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:31:36 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713951013197 |
-| Players | 7/10 |
-| Host Name | Геннадий Треев |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:31:23 |
+| Lobby ID | 28583713952002175 |
+| Players | 6/10 |
+| Host Name | Despicision |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 16:32:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713952014681 |
+| Players | 6/8 |
+| Host Name | Æ F3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 16:32:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713950354263 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:30:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713951603760 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | INZOI |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:32:19 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 16:32:20 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713952099013 |
+| Players | 1/15 |
+| Host Name | 我不会玩 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:33:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713948232421 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28583713950084338 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | Welcome to recuit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:29:55 |
