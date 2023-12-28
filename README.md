@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713819422970 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Gatosor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:36:55 |
@@ -56,10 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:34:04 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713818393058 |
+| Players | 7/8 |
+| Host Name | Уничтожитель гул |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 12:34:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713821123875 |
+| Players | 1/8 |
+| Host Name | гавно666 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 12:40:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713819681906 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ♫...Cheese |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:37:26 |
