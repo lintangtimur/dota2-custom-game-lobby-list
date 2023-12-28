@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713795156828 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | 83a5c6610 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:48:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713795231831 |
-| Players | 3/8 |
-| Host Name | Capitan wawa |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 11:48:21 |
+| Lobby ID | 28583713794907722 |
+| Players | 9/10 |
+| Host Name | Griga |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 11:47:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713795384649 |
-| Players | 2/8 |
-| Host Name | Шкибиди туалет ст |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:48:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713794907722 |
-| Players | 9/10 |
-| Host Name | Griga |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:47:43 |
+| Lobby ID | 28583713795577890 |
+| Players | 1/8 |
+| Host Name | Ghosper |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:49:02 |
 
 
 |  | epic_boss_fight_normal |
@@ -103,19 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583713793380718 |
-| Players | 9/10 |
-| Host Name | buggy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 11:44:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28583713793935454 |
 | Players | 1/10 |
 | Host Name | www.twitch.tv/gezetone |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:45:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713795568992 |
+| Players | 1/10 |
+| Host Name | Sakata Gintoki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 11:49:01 |
 
 
