@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713969251573 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 16:59:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713968949584 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Kucher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:59:14 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713969206326 |
-| Players | 3/24 |
-| Host Name | NOs |
+| Players | 1/24 |
+| Host Name | Ronald |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 28, 2023 16:59:37 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713969853904 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Покемон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:00:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713967330072 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Bender |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:56:46 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | (--pwetmalu--) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:59:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713969957381 |
+| Players | 1/10 |
+| Host Name | pepeLaugh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 17:00:46 |
 
 
