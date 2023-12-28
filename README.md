@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713820040609 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | We love |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:38:09 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WinNee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:37:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713815791658 |
-| Players | 9/10 |
-| Host Name | Maharaja Lawana |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 12:29:38 |
 
 
 |  | epic_boss_fight_nightmare |
