@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713825250832 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:48:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713826177627 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:50:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713827356665 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | S∀︎Y∀︎N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:52:48 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WTF?!о_0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:53:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713827961699 |
+| Players | 4/8 |
+| Host Name | Cloudy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 12:54:01 |
 
 
 |  | epic_boss_fight_normal |
