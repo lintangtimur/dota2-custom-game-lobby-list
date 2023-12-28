@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713698833054 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Grift |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:29:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713699200303 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Miwa-Cictory |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:29:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713698893229 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | poopman (FORTNITE) |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:29:13 |
@@ -77,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713698562179 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Porque no estudias "Sin Viejo" ? |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:28:31 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713694588202 |
-| Players | 9/10 |
-| Host Name | BlueDeimos |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:20:06 |
+| Lobby ID | 28583713699461783 |
+| Players | 1/8 |
+| Host Name | PinguinoParador |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:30:26 |
 
 
