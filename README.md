@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713856812531 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 13:50:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713858331673 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | k3yj1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:53:03 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713859962146 |
-| Players | 3/8 |
-| Host Name | There are no former ghouls |
+| Lobby ID | 28583713860023282 |
+| Players | 1/8 |
+| Host Name | never lose |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:56:05 |
+| Lobby Creation Time | Thursday, December 28, 2023 13:56:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713853975461 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:44:51 |
