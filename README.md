@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:20:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713905516986 |
-| Players | 23/24 |
-| Host Name | Maztake |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:17:12 |
+| Lobby ID | 28583713908254164 |
+| Players | 1/8 |
+| Host Name | lokoespartano |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 15:21:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 凉凉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:21:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583713908009178 |
-| Players | 2/5 |
-| Host Name | актёр на бездаре |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:21:24 |
 
 
