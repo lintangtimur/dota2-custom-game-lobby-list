@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713792542577 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | egoisto (шизоид) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:42:55 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Don payiyo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:44:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713794013203 |
+| Players | 1/15 |
+| Host Name | ... |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:45:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713794042198 |
+| Players | 1/15 |
+| Host Name | Дайте мне белые к |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 11:45:58 |
 
 
 |  | epic_boss_fight_normal |
