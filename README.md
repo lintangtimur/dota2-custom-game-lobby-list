@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713913854503 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Shankeeto #FreePalestine |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 15:31:11 |
@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713911815622 |
-| Players | 22/24 |
-| Host Name | 小百合 平野 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:27:48 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713902480908 |
@@ -56,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:12:07 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713911210956 |
-| Players | 1/7 |
-| Host Name | Demolition Daddy |
+| Lobby ID | 28583713914983987 |
+| Players | 2/10 |
+| Host Name | twitch.tv/p0ma3abp |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:26:47 |
+| Lobby Creation Time | Thursday, December 28, 2023 15:33:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713914088047 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | HɅKɅRI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:31:34 |
