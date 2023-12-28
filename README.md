@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:20:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713872893925 |
-| Players | 6/8 |
-| Host Name | очко мам |
+| Lobby ID | 28583713871669315 |
+| Players | 9/10 |
+| Host Name | 76561199196836346 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:19:59 |
+| Lobby Creation Time | Thursday, December 28, 2023 14:17:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WINLINE | forzeroone |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:21:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713873608360 |
-| Players | 1/10 |
-| Host Name | Hentai? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:21:17 |
 
 
