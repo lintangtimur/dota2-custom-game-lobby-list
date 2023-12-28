@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713785036421 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | isn't like holding to the center |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:27:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713744475914 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DOTA Veteran |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713783197211 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Torstol |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:23:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713781806685 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:21:04 |
@@ -104,16 +104,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713784673312 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | ~$amahasla$~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:26:51 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713779386715 |
+| Players | 23/24 |
+| Host Name | Bobe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 11:16:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713785313533 |
+| Players | 1/8 |
+| Host Name | iseedeadp3ople |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 11:28:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713785094511 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Любимые дрова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:27:42 |
