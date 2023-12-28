@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713714385380 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Томас Nix Шелби |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:02:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 14/24 |
+| Players | 12/24 |
 | Host Name | SampleRadical |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:59:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713714867939 |
-| Players | 1/24 |
-| Host Name | KHAEИ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:03:21 |
+| Lobby ID | 28583713715209673 |
+| Players | 5/10 |
+| Host Name | KILL ME IF U CAN |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 09:04:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713713949105 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Starboy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:01:25 |
@@ -74,30 +74,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 09:03:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713715128282 |
-| Players | 3/8 |
-| Host Name | jack |
+| Lobby ID | 28583713715270390 |
+| Players | 1/24 |
+| Host Name | KHAEИ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:03:54 |
+| Lobby Creation Time | Thursday, December 28, 2023 09:04:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713715292343 |
+| Players | 1/15 |
+| Host Name | jhejo96 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 09:04:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713715209673 |
-| Players | 5/10 |
-| Host Name | KILL ME IF U CAN |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 09:04:04 |
+| Lobby ID | 28583713715283527 |
+| Players | 2/10 |
+| Host Name | EL WERE |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 09:04:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713712734305 |
+| Players | 24/24 |
+| Host Name | D ~ He♥ly |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:58:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713715186141 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:04:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713715246310 |
+| Players | 1/10 |
+| Host Name | Uncle Frank |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 09:04:09 |
 
 
