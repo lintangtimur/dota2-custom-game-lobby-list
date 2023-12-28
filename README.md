@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713800039219 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | deadmanhours |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:58:00 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:55:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713801103979 |
-| Players | 9/10 |
-| Host Name | Why Always ME ? |
+| Lobby ID | 28583713802157247 |
+| Players | 1/8 |
+| Host Name | El MALDITO CREEP |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:00:08 |
+| Lobby Creation Time | Thursday, December 28, 2023 12:02:15 |
 
 
 |  | ot3_desert_octet |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:59:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713802157247 |
-| Players | 1/8 |
-| Host Name | El MALDITO CREEP |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:02:15 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713800512532 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Poseidon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:58:58 |
