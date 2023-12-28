@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713932692570 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | ` wheredaavocados™ 🥑 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:02:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713932634598 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | MGE BRATOK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:02:01 |
@@ -56,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 16:02:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713933334056 |
+| Players | 1/8 |
+| Host Name | Xaxa |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 16:03:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713930673942 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | gore video is the best movie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:58:52 |
