@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713841120638 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Vendetta |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:19:54 |
@@ -83,21 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:20:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713841379770 |
+| Players | 4/8 |
+| Host Name | HI FEED |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 13:20:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713841387430 |
+| Players | 1/15 |
+| Host Name | =p |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:20:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713839191891 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Barry Delight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:16:10 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583713840368007 |
-| Players | 1/5 |
-| Host Name | ENEKANDO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:18:26 |
+| Lobby ID | 28583713841343171 |
+| Players | 1/10 |
+| Host Name | Akavir |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 13:20:20 |
 
 
