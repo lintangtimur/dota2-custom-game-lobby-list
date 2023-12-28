@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | สำลัก คำสิง |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713764927314 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:46:35 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713765990642 |
-| Players | 14/15 |
-| Host Name | Hawaiian |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 10:48:45 |
+| Lobby ID | 28583713765966596 |
+| Players | 1/24 |
+| Host Name | Perro chusco |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:48:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | harcaritios |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713765966596 |
-| Players | 1/24 |
-| Host Name | Perro chusco |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:48:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713766584570 |
-| Players | 1/8 |
-| Host Name | Microfry |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 10:49:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28583713766635490 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Pedro Gubakol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:50:03 |
