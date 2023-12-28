@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:57:10 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713825250832 |
+| Players | 23/24 |
+| Host Name | manjiro sano |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 12:48:38 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28583713829252630 |
