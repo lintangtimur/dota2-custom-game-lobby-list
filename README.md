@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714095263427 |
-| Players | 12/15 |
-| Host Name | ⭕⃤ yamamoto_x |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:37:23 |
+| Lobby ID | 28583714095572505 |
+| Players | 1/24 |
+| Host Name | 普类阿木 |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 19:37:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714095458662 |
-| Players | 7/10 |
-| Host Name | cf |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:37:35 |
+| Lobby ID | 28583714093241531 |
+| Players | 7/8 |
+| Host Name | ROCK HARD |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, December 28, 2023 19:35:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,48 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 19:30:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714093241531 |
-| Players | 5/8 |
-| Host Name | ROCK HARD |
-| Region | INDIA |
-| Lobby Creation Time | Thursday, December 28, 2023 19:35:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583714095566283 |
-| Players | 1/24 |
-| Host Name | 普类阿木 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:37:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583714095572505 |
-| Players | 1/24 |
-| Host Name | 米粉 |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 19:37:42 |
+| Lobby ID | 28583714095777317 |
+| Players | 1/15 |
+| Host Name | ☆《♤♡ARIAS♡♤》☆ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:37:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714092258805 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | NDA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:34:17 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583714095582370 |
-| Players | 1/5 |
-| Host Name | nuni.asain |
+| Lobby ID | 28583714095666725 |
+| Players | 2/10 |
+| Host Name | atsubasu.fx |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:37:43 |
+| Lobby Creation Time | Thursday, December 28, 2023 19:37:48 |
 
 
