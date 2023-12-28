@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714005234520 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Quemea |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:51:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714005425396 |
-| Players | 1/10 |
-| Host Name | overdose  |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 17:51:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714005561139 |
-| Players | 1/10 |
-| Host Name | Golly |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 17:52:10 |
 
 
 |  | epic_boss_fight_nightmare |
