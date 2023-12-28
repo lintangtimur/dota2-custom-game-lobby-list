@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714115930991 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | pressure |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:58:01 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714113760572 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 19:55:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583714115224349 |
-| Players | 23/24 |
-| Host Name | Kazune |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:57:20 |
 
 
 |  | ot3_gardens_duo |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | フ六violetフ六 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:58:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714116267758 |
+| Players | 2/8 |
+| Host Name | Lizard |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:58:20 |
 
 
