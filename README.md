@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713874640566 |
-| Players | 9/10 |
-| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:23:08 |
+| Lobby ID | 28583713874181270 |
+| Players | 7/8 |
+| Host Name | Kärss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:22:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713873592214 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 알렉산드라 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 14:21:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713875266281 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Aɾȥıɱαɳ™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:24:15 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713875679568 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Atlas Troll |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 14:24:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713874181270 |
-| Players | 5/8 |
-| Host Name | Kärss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:22:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713875452489 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | PANTHEON |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:24:35 |
