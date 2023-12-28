@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714022054597 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 18:14:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714021483392 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Injoker.Death |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:13:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714022902590 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | adam_security83 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:15:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714022771294 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 砰！！！ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:14:58 |
@@ -68,9 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714022296236 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | tv/swedenstrong |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:14:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583714023228914 |
+| Players | 5/15 |
+| Host Name | osas |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:15:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714023258152 |
+| Players | 4/8 |
+| Host Name | капитан пидр |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:15:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714023254818 |
+| Players | 2/8 |
+| Host Name | Fat Goose |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:15:36 |
 
 
