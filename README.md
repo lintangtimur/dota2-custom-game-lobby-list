@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714028258871 |
-| Players | 16/24 |
+| Players | 13/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:21:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714029461959 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | yoru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:23:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714029146373 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | NaVi'Miracle- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:23:05 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | masato |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:23:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714029841862 |
+| Players | 3/8 |
+| Host Name | Витек Богдан |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:23:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583714027714336 |
+| Players | 14/15 |
+| Host Name | OmbreDehorsÀDos- |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 18:21:17 |
 
 
 |  | epic_boss_fight_nightmare |
