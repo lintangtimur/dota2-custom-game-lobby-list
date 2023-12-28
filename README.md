@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713873547307 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | WINLINE | forzeroone |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:21:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713873393433 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:20:53 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:22:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713874640566 |
+| Players | 2/10 |
+| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:23:08 |
 
 
