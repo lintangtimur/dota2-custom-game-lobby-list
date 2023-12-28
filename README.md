@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714046290733 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | GreenR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:43:55 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:46:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714048516473 |
-| Players | 7/10 |
-| Host Name | Лиза |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:46:31 |
+| Lobby ID | 28583714049002190 |
+| Players | 3/15 |
+| Host Name | Haktaru |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:47:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:46:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714048613430 |
-| Players | 14/15 |
-| Host Name | ОГУРЧИК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:46:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714049002190 |
-| Players | 1/15 |
-| Host Name | Haktaru |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:47:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714048575201 |
@@ -119,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:46:35 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583714048586867 |
-| Players | 1/5 |
-| Host Name | PowerJebada |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 18:46:36 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583714048695995 |
+| Lobby ID | 28583714049233333 |
 | Players | 1/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:46:44 |
+| Lobby Creation Time | Thursday, December 28, 2023 18:47:21 |
 
 
 |  | epic_boss_fight_normal |
