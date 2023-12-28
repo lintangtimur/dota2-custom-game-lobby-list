@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713693177329 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | izi pipilin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:17:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713692420469 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Mr.Popo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:15:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713692638836 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | The Betrayer |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:15:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713692420338 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Lorenzo el Gallo (Cuti) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:15:29 |
@@ -67,19 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713693569714 |
-| Players | 1/15 |
-| Host Name | El  domador de catrases |
+| Lobby ID | 28583713693624410 |
+| Players | 6/15 |
+| Host Name | miko |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:17:56 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:18:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583713691341600 |
-| Players | 9/10 |
-| Host Name | BlueDeimos |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:13:14 |
+| Lobby ID | 28583713693625979 |
+| Players | 2/10 |
+| Host Name | Scrappy CoCo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:18:03 |
 
 
