@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541871763603 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | milk with knives |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 06:59:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541872682485 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Soy un pato pez |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:01:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541853542118 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | ;] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:22:45 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541870823311 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | egoueni |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28576541872893226 |
-| Players | 12/15 |
-| Host Name | Serj Tankian |
+| Lobby ID | 28576541873264034 |
+| Players | 2/24 |
+| Host Name | Augustus Waters (OMP) JK |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 07:01:50 |
+| Lobby Creation Time | Thursday, December 28, 2023 07:02:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:01:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541872172767 |
-| Players | 5/8 |
-| Host Name | Chichilo |
+| Lobby ID | 28576541873377427 |
+| Players | 1/15 |
+| Host Name | 𝓪𝓲𝓶𝒆𝓻 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 07:00:19 |
+| Lobby Creation Time | Thursday, December 28, 2023 07:02:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541872187838 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | PUDGE POS 5 ENJOYER |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 07:00:21 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541873224747 |
-| Players | 1/24 |
+| Players | 9/24 |
 | Host Name | НАЙДЖЕЛ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 07:02:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28576541873261365 |
+| Players | 1/24 |
+| Host Name | abcXYZ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 07:02:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28576541873313893 |
+| Players | 4/10 |
+| Host Name | РУКОПАШНЫЙ СЕКС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 07:02:44 |
 
 
 |  | epic_boss_fight_nightmare |
