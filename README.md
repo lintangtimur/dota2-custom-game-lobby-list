@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713776631754 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:10:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713779082238 |
-| Players | 5/8 |
+| Players | 2/8 |
 | Host Name | El Mata Por Gusto |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:15:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713778147725 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:13:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713779264537 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Hummer |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:15:54 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713778055319 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | ☆ARCE☆ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:13:30 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713778152304 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | All Muted |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 11:13:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713778437755 |
-| Players | 1/8 |
-| Host Name | Кортик(unluck) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:14:14 |
+| Lobby ID | 28583713779307382 |
+| Players | 2/15 |
+| Host Name | Villy |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:15:59 |
 
 
 |  | ot3_necropolis_ffa |
