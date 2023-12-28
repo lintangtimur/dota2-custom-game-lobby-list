@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713976985492 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | майонез обжорка |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:11:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713977162436 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Sashok |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 17:11:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713977211179 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Sm |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 17:11:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713975024082 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Hardcore_Smartie |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:08:23 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 17:11:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713977398083 |
-| Players | 1/8 |
-| Host Name | Быдло |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 17:11:59 |
 
 
 |  | epic_boss_fight_nightmare |
