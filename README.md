@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713842136609 |
-| Players | 6/8 |
-| Host Name | Megamente |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 13:21:53 |
+| Lobby ID | 28583713842152654 |
+| Players | 1/8 |
+| Host Name | yokohama |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 13:21:55 |
 
 
 |  | epic_boss_fight_nightmare |
