@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713745824358 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | unranked swede tryhard |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:07:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713741077400 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | (One) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:57:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713744475914 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DOTA Veteran |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713745769694 |
+| Lobby ID | 28583713746325600 |
 | Players | 1/8 |
-| Host Name | pinpoollo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:07:12 |
+| Host Name | SUPERSPERMA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:08:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713746184939 |
-| Players | 4/24 |
+| Players | 10/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:08:03 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713746166042 |
-| Players | 6/15 |
-| Host Name | ScoobyGooberMan |
+| Players | 3/15 |
+| Host Name | °°DRAKE°° |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:08:00 |
 
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713746205197 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | بچه کوسه |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:08:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713746325600 |
-| Players | 1/8 |
-| Host Name | SUPERSPERMA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 10:08:19 |
+| Lobby ID | 28583713746576623 |
+| Players | 6/10 |
+| Host Name | ScoobyGooberMan |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 10:08:51 |
 
 
 |  | epic_boss_fight_nightmare |
