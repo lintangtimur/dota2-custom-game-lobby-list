@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:59:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713761110834 |
-| Players | 23/24 |
-| Host Name | Camel |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 10:38:37 |
+| Lobby ID | 28583713762245573 |
+| Players | 2/10 |
+| Host Name | Seasons of L |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 10:41:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713760474188 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | quiescent |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:37:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713762214365 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | High |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 10:40:58 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Уничтожитель гул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:40:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713762323627 |
+| Players | 2/10 |
+| Host Name | Shigami |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:41:12 |
 
 
