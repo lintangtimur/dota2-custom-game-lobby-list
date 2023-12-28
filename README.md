@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714065156012 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ГАТУЙСРАКУ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:05:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714066534816 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Ryan Gosling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:07:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714066408773 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Wing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:06:53 |
@@ -113,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714057724467 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | venom876 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:57:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583714067245763 |
+| Players | 1/5 |
+| Host Name | Good Night |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:07:48 |
 
 
