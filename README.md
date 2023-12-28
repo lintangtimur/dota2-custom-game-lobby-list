@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713856683705 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | Jdc tunes |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:49:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713858325492 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Mischievous Hooligan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:53:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713861683967 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:59:16 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713858073603 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:52:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713862227141 |
-| Players | 12/15 |
-| Host Name | I |
+| Lobby ID | 28583713862958154 |
+| Players | 4/10 |
+| Host Name | f333 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:00:17 |
+| Lobby Creation Time | Thursday, December 28, 2023 14:01:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713862490411 |
-| Players | 5/8 |
-| Host Name | kyford |
+| Players | 3/8 |
+| Host Name | Писюличка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:00:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713863138907 |
+| Players | 1/8 |
+| Host Name | . |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 14:01:58 |
 
 
 |  | epic_boss_fight_nightmare |
