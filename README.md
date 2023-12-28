@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:54:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713681852801 |
-| Players | 1/24 |
-| Host Name | สำลัก คำสิง |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
+| Lobby ID | 28583713780868807 |
+| Players | 2/15 |
+| Host Name | @nirvana_sf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 11:19:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713779665756 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Amado |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:16:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713779978345 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Estudia sonso |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:17:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713779386715 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Bobe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:16:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713780354462 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:18:07 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713780717329 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | tomatospid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:18:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713780825991 |
-| Players | 1/24 |
-| Host Name | Виталик Бустер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:19:04 |
 
 
 |  | epic_boss_fight_nightmare |
