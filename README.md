@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713834403136 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Hecker |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:06:47 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713826563804 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | onaforp xessib |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:51:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713832828015 |
-| Players | 7/8 |
-| Host Name | [D]iomegod |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 13:03:37 |
+| Lobby ID | 28583713834946517 |
+| Players | 4/24 |
+| Host Name | mk |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:07:50 |
 
 
 |  | ot3_desert_octet |
@@ -77,27 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713834979200 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | [DMG]//3L_M4LTR4 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:07:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713835587799 |
+| Players | 1/8 |
+| Host Name | angelito :3 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 13:09:05 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713834946517 |
-| Players | 3/24 |
-| Host Name | mk |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:07:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713835478035 |
-| Players | 1/10 |
-| Host Name | Dead_Dragon |
+| Lobby ID | 28583713835604833 |
+| Players | 1/24 |
+| Host Name | *улюлюканье* |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:08:52 |
+| Lobby Creation Time | Thursday, December 28, 2023 13:09:08 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28583713835549968 |
+| Players | 1/7 |
+| Host Name | グリムセクリティ セブ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 13:09:01 |
 
 
