@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | สำลัก คำสิง |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713768100957 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Venomalesh Ponnada |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:53:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713769103410 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | AYUDA TENGO CALOR |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:55:05 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713769511052 |
+| Lobby ID | 28583713769596074 |
 | Players | 1/8 |
-| Host Name | sideral_frio |
+| Host Name | psycho |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:56:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713769631678 |
+| Players | 1/10 |
+| Host Name | CANCER SEBERO |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:55:55 |
+| Lobby Creation Time | Thursday, December 28, 2023 10:56:10 |
 
 
 |  | epic_boss_fight_nightmare |
