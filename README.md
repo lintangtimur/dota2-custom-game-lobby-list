@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713692362426 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Cassie |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:15:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713689992197 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ^.^ |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 08:10:21 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713689032215 |
-| Players | 14/15 |
-| Host Name | CameraMan |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:08:13 |
+| Lobby ID | 28583713692638836 |
+| Players | 1/15 |
+| Host Name | Marsl |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:15:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713692420338 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | IA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:15:29 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713692638836 |
-| Players | 1/15 |
-| Host Name | Marsl |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:15:57 |
+| Lobby ID | 28583713692692443 |
+| Players | 2/15 |
+| Host Name | Mike, Persuader of Youthful Men |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:16:04 |
 
 
 |  | epic_boss_fight_nightmare |
