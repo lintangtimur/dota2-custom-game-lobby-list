@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713768100957 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 黃人韋厷隹 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:53:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | harcaritios |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713768208853 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Боулинг яйцами |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:53:15 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713766910203 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Mia Khalifa.Onlyfans✪ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:50:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713767855968 |
-| Players | 10/10 |
-| Host Name | paat |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 10:52:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713768008683 |
-| Players | 3/10 |
-| Host Name | Saeko-chan ♥twitch.tv/zecarlos |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:52:51 |
 
 
 |  | ot3_desert_octet |
@@ -126,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PORQUERÍA DE EVENTO CONCHESUMARE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:53:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713768008683 |
+| Players | 3/10 |
+| Host Name | Saeko-chan ♥twitch.tv/zecarlos |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:52:51 |
 
 
 |  | epic_boss_fight_nightmare |
