@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713774392475 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:05:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713772090626 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | J |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:01:12 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713773138804 |
-| Players | 3/24 |
-| Host Name | 6T9 |
+| Players | 2/24 |
+| Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:03:19 |
 
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713774417577 |
-| Players | 1/8 |
-| Host Name | удалил доту день 1 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 11:05:57 |
+| Lobby ID | 28583713774516832 |
+| Players | 6/8 |
+| Host Name | The chosen one ♠ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:06:10 |
 
 
 |  | epic_boss_fight_normal |
