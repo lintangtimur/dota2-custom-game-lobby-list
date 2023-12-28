@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Meowington |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713738694368 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 161 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:52:49 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713738634380 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 09:52:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713738783349 |
+| Players | 1/15 |
+| Host Name | Пакувальник |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 09:53:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713738826317 |
+| Players | 1/15 |
+| Host Name | SCUERO EL TERROR DE ILABAYA |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 09:53:05 |
 
 
 |  | epic_boss_fight_nightmare |
