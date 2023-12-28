@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:44:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714096608560 |
-| Players | 21/24 |
-| Host Name | 普类阿木 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:38:45 |
+| Lobby ID | 28583714098274046 |
+| Players | 1/15 |
+| Host Name | danling |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:40:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714097688092 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | pressure |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:39:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714098055854 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | СВЭЭЭЭК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:40:15 |
@@ -76,19 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714097983674 |
-| Players | 2/10 |
-| Host Name | леша решала |
+| Lobby ID | 28583714098537816 |
+| Players | 3/10 |
+| Host Name | 14 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:40:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583714095666725 |
-| Players | 8/10 |
-| Host Name | atsubasu.fx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:37:48 |
+| Lobby Creation Time | Thursday, December 28, 2023 19:40:45 |
 
 
