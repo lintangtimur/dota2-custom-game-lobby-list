@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713686861122 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:03:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713688895318 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ЛДД |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:07:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713688425417 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | alexander  yc |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:06:57 |
@@ -59,10 +59,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | d00fie |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713688932554 |
+| Players | 3/24 |
+| Host Name | Worm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:08:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713689009120 |
+| Players | 4/24 |
+| Host Name | Liquid.METUMBOATUMAMA ✖_✖ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:08:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713688972393 |
+| Players | 2/15 |
+| Host Name | Aetheris |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:08:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713688182163 |
+| Players | 9/10 |
+| Host Name | Griga |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:06:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713688982664 |
+| Players | 1/8 |
+| Host Name | дырка майндсет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:08:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713689018251 |
+| Players | 1/10 |
+| Host Name | Homicídio |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 08:08:12 |
 
 
 |  | epic_boss_fight_nightmare |
