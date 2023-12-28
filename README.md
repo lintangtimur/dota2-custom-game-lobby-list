@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713752312269 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | TORONTOCOSH |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:20:38 |
@@ -86,17 +86,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713752933155 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:21:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713753079980 |
+| Players | 2/10 |
+| Host Name | ♥ȺӀҽ×ą~Ꝉօѵҽ♥ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:22:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713753131935 |
+| Players | 3/15 |
+| Host Name | Katie Porter will save us |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 10:22:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713748324094 |
 | Players | 2/10 |
-| Host Name | アニメ壁紙 |
+| Host Name | Zik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:12:32 |
 
