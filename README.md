@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713796055596 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:50:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713796447402 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Overpaid Alcoholic |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:50:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713794560165 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Jalain Almeida |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:47:00 |
@@ -74,28 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:49:28 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713796934865 |
-| Players | 1/8 |
-| Host Name | dream memory |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:51:46 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713797032699 |
+| Lobby ID | 28583713797073878 |
 | Players | 1/24 |
 | Host Name | Kaido |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 11:51:58 |
+| Lobby Creation Time | Thursday, December 28, 2023 11:52:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713796652819 |
+| Players | 2/8 |
+| Host Name | Tin Ling |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:51:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713795568992 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:49:01 |
