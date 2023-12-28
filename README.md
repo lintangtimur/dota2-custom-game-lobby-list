@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713686861122 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:03:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713687403626 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | el lame chuchas |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:04:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713686480279 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Pansito con Queso |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:02:45 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | d00fie |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713686644259 |
-| Players | 7/8 |
-| Host Name | 161 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:03:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713687026637 |
-| Players | 7/10 |
-| Host Name | Dead_Dragon |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:03:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:04:54 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713687026637 |
+| Players | 7/10 |
+| Host Name | Dead_Dragon |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:03:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713686532569 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | mel |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:02:52 |
