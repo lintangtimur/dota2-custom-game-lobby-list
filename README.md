@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714041678685 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | ℍ𝕒𝕡𝕡𝕪 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 18:38:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714042106580 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Aquastyle |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:38:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714041467958 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | sut1k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:38:07 |
@@ -101,21 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:38:17 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583714042132646 |
+| Players | 1/24 |
+| Host Name | JalenGreen 4 Rockets |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Thursday, December 28, 2023 18:38:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714039383098 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | PushTheTempo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:35:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583714042118066 |
-| Players | 2/5 |
-| Host Name | NewbieSteve |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, December 28, 2023 18:38:54 |
 
 
