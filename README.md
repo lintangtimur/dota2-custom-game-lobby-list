@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713741077400 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | (One) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:57:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713745403722 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Marttince |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:06:26 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713745493271 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | DOVAKIIN:) |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:06:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713744388011 |
-| Players | 20/24 |
-| Host Name | Yonwalther |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:04:20 |
+| Lobby ID | 28583713744825931 |
+| Players | 1/8 |
+| Host Name | 41C |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Thursday, December 28, 2023 10:05:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713745389069 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | քֆɢ.ʟɢɖ♫B®∆¥∆n♫ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:06:24 |
@@ -101,28 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713745840654 |
-| Players | 2/10 |
-| Host Name | بچه کوسه |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 10:07:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713744825931 |
-| Players | 1/8 |
-| Host Name | 41C |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Thursday, December 28, 2023 10:05:15 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713745151382 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | NERF 5AFRA3 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:05:55 |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713745114151 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:05:50 |
