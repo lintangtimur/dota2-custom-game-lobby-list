@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | สำลัก คำสิง |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713763347635 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | [w]Easy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:43:21 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713762245573 |
-| Players | 9/10 |
-| Host Name | Seasons of L |
+| Lobby ID | 28583713763840950 |
+| Players | 3/10 |
+| Host Name | Teregue |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 10:41:02 |
+| Lobby Creation Time | Thursday, December 28, 2023 10:44:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713762214365 |
-| Players | 3/8 |
-| Host Name | TúSoloLLamaQueDeUnaYoAhíLeCaig |
+| Players | 1/8 |
+| Host Name | Ya ya mijo ya |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 10:40:58 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713763129211 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | BigTimeTimmyJim |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:54 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713763840950 |
-| Players | 2/10 |
-| Host Name | Teregue |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 10:44:22 |
+| Lobby ID | 28583713764067566 |
+| Players | 1/10 |
+| Host Name | pomodomo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:44:50 |
 
 
 |  | epic_boss_fight_nightmare |
