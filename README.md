@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713794560165 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Jalain Almeida |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:47:00 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:49:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713795061627 |
-| Players | 7/8 |
-| Host Name | hola |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 11:48:01 |
+| Lobby ID | 28583713796056168 |
+| Players | 2/10 |
+| Host Name | 雨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 11:50:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713796055596 |
+| Players | 1/15 |
+| Host Name | PASHAPASHTET |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 11:50:00 |
 
 
 |  | epic_boss_fight_normal |
