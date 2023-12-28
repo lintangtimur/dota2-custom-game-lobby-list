@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713711221007 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Yes Chef! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:55:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713710240662 |
-| Players | 13/15 |
-| Host Name | Leo <3 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:53:35 |
+| Lobby ID | 28583713711780386 |
+| Players | 1/10 |
+| Host Name | PRIEST |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:56:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | House |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:53:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713709973955 |
-| Players | 5/8 |
-| Host Name | Stringer |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:53:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713711780386 |
-| Players | 1/10 |
-| Host Name | PRIEST |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:56:52 |
 
 
 |  | epic_boss_fight_nightmare |
