@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713770885813 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Акула |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:58:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713771645392 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | SENDERO LUMINOSON'T |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:00:17 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:59:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713772063367 |
-| Players | 7/8 |
-| Host Name | Rosé- |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 11:01:08 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713772519933 |
@@ -122,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 23/24 |
+| Players | 24/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713772802602 |
+| Players | 1/8 |
+| Host Name | Nikolay.♥ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 11:02:38 |
 
 
 |  | epic_boss_fight_nightmare |
