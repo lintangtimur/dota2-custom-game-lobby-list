@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713762486392 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:41:33 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713764927314 |
-| Players | 2/8 |
-| Host Name | $%&@dota&%"! |
+| Players | 3/8 |
+| Host Name | Starboy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:46:35 |
 
