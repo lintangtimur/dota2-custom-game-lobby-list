@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:49:28 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713797073878 |
-| Players | 1/24 |
-| Host Name | Kaido |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 11:52:03 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713796652819 |
@@ -90,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tin Ling |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:51:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713797244300 |
+| Players | 1/10 |
+| Host Name | Glorioso Proposito |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:52:23 |
 
 
 |  | epic_boss_fight_nightmare |
