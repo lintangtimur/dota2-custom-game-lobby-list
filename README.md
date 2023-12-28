@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713800039219 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | U-Dawg |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:58:00 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713804514377 |
-| Players | 6/8 |
-| Host Name | JUANITO ALIMAÑA |
+| Players | 7/8 |
+| Host Name | Gatopardo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:07:00 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713803527637 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | 初音ミク |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:05:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713804664375 |
-| Players | 1/24 |
-| Host Name | HINCHA DE GRUPO 5 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 12:07:18 |
+| Lobby ID | 28583713804508620 |
+| Players | 11/15 |
+| Host Name | K(-)МШоТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 12:07:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:04:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713804508620 |
-| Players | 1/15 |
-| Host Name | K(-)МШоТ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 12:07:00 |
+| Lobby ID | 28583713804847014 |
+| Players | 5/10 |
+| Host Name | STEW |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:07:40 |
 
 
 |  | epic_boss_fight_nightmare |
