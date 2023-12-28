@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713996347122 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Alfrood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:39:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713996572544 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Soulripper |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:39:36 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713994754444 |
-| Players | 3/8 |
-| Host Name | YAVERICK |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 17:37:04 |
+| Lobby ID | 28583713996908319 |
+| Players | 2/8 |
+| Host Name | дибил |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 17:40:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713996800689 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | ANIME SAVAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:39:56 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713996623448 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Jmaster210 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:39:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713996908319 |
-| Players | 1/8 |
-| Host Name | дибил |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 17:40:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AGENT U |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:38:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713997073965 |
+| Players | 3/5 |
+| Host Name | Delicioza |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 17:40:19 |
 
 
