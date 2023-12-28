@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713695909136 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:22:54 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713696647652 |
-| Players | 8/10 |
-| Host Name | BE |
+| Lobby ID | 28583713697059129 |
+| Players | 1/10 |
+| Host Name | DQ_SAMA |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:24:27 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:25:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713696455321 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | LA BAJEZA ME CONSUME |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:24:03 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SabrosonxD322 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:25:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713697022711 |
+| Players | 3/15 |
+| Host Name | 恨 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:25:15 |
 
 
 |  | epic_boss_fight_nightmare |
