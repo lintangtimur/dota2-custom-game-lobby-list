@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713758886509 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ZoriKoT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:34:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713759258323 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Rubenur |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:34:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713758986743 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | ''IFRIT'' |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:34:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713744475914 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | DOTA Veteran |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713759853179 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | EG. Strawberry |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:36:02 |
