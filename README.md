@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713829636580 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Poyo Joestar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:57:18 |
@@ -83,19 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:57:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713830998953 |
+| Players | 1/8 |
+| Host Name | Diane Nguyen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:00:00 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713830972194 |
+| Lobby ID | 28583713831062664 |
 | Players | 1/24 |
 | Host Name | Black Raven |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 12:59:57 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 13:00:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713829041676 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 777 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 12:56:07 |
