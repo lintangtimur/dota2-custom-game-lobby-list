@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713686480279 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Pansito con Queso |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:02:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713687184995 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | DJ23- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:04:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | d00fie |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713686644259 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 161 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:03:06 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:03:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713687482323 |
-| Players | 1/15 |
-| Host Name | (ramonfreak) |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:04:54 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713687481989 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Casting Brazzer |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:04:54 |
