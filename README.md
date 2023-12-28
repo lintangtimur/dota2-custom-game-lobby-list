@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713815271392 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | DIVINE SLAYER! |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 12:28:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713814492787 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | K(-)МШоТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:27:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713814454507 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Dushane |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:26:58 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713812766104 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | EL PERRO JUDIO |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:23:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713816220490 |
+| Players | 1/15 |
+| Host Name | nothing but lies |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 12:30:31 |
 
 
 |  | epic_boss_fight_nightmare |
