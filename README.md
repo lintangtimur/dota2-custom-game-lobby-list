@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713738783349 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Пакувальник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:53:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713739130785 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Kath |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:53:42 |
@@ -74,28 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 09:53:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713739236092 |
-| Players | 6/8 |
-| Host Name | Galletita Enamorada |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:53:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713739278391 |
-| Players | 2/15 |
-| Host Name | Yes Chef! |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 09:54:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713737541382 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | BlueDeimos |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 09:50:29 |
