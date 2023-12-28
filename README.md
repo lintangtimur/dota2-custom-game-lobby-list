@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713819728138 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | RATUZEL |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:37:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713819422970 |
-| Players | 10/24 |
+| Players | 7/24 |
 | Host Name | Gatosor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:36:55 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:32:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713819832509 |
-| Players | 1/15 |
-| Host Name | Adonays |
+| Lobby ID | 28583713819933321 |
+| Players | 4/8 |
+| Host Name | Tin Ling |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:37:44 |
+| Lobby Creation Time | Thursday, December 28, 2023 12:37:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:37:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713819933321 |
-| Players | 4/8 |
-| Host Name | Tin Ling |
+| Lobby ID | 28583713820040609 |
+| Players | 5/15 |
+| Host Name | We love |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:37:56 |
+| Lobby Creation Time | Thursday, December 28, 2023 12:38:09 |
 
 
 |  | epic_boss_fight_nightmare |
