@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:34:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713916906472 |
-| Players | 8/10 |
-| Host Name | Балдежный Пердеж |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:36:11 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713916071955 |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | мне 12 и я zxc absolute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:36:26 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28583713917446933 |
+| Players | 1/7 |
+| Host Name | メガフォン |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:37:05 |
 
 
