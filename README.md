@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713687757174 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | чича дунин |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:05:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713687184995 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | DJ23- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:04:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | d00fie |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -94,15 +94,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713687970089 |
-| Players | 1/10 |
-| Host Name | arthas is alive |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 08:05:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28583713687975238 |
 | Players | 2/10 |
 | Host Name | not quite my tempo |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713686532569 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | mel |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:02:52 |
