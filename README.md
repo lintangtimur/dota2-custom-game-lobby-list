@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713737427197 |
-| Players | 14/15 |
-| Host Name | yasin |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 09:50:16 |
+| Lobby ID | 28583713738484015 |
+| Players | 1/8 |
+| Host Name | PENE  NEGRO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 09:52:24 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713735079651 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:45:33 |
@@ -40,56 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713738006927 |
-| Players | 4/8 |
-| Host Name | Быстрая смерть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 09:51:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713738356550 |
+| Lobby ID | 28583713738694368 |
 | Players | 1/8 |
-| Host Name | 76561199196836346 |
+| Host Name | 161 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 09:52:08 |
+| Lobby Creation Time | Thursday, December 28, 2023 09:52:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713736120457 |
-| Players | 9/10 |
-| Host Name | Seasons of L |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, December 28, 2023 09:47:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713738231245 |
-| Players | 4/15 |
-| Host Name | Paulo Londrui |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:51:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713738429287 |
-| Players | 5/8 |
-| Host Name | Chambear Me Corrompío |
+| Lobby ID | 28583713738634380 |
+| Players | 1/10 |
+| Host Name | Run Yo Pockets |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 09:52:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583713735632321 |
-| Players | 2/5 |
-| Host Name | EGEON ELECATONQUIRO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:46:39 |
+| Lobby Creation Time | Thursday, December 28, 2023 09:52:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BlueDeimos |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 09:50:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713738624282 |
+| Players | 2/5 |
+| Host Name | EGEON ELECATONQUIRO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 09:52:41 |
 
 
