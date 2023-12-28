@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713784671572 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | underr. |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:26:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713785036421 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | isn't like holding to the center |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:27:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713786916351 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:31:23 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713786582138 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | γηΩσ/בר-אבא |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:30:42 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713786426714 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | JerryLee |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:30:23 |
