@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:29:13 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713698562179 |
-| Players | 11/15 |
-| Host Name | Porque no estudias "Sin Viejo" ? |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:28:31 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713699461783 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PinguinoParador |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:30:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713699481583 |
+| Players | 1/10 |
+| Host Name | 黄瓜 (CR) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:30:29 |
 
 
