@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713714187462 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 09:01:55 |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Томас Nix Шелби |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:02:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713713128631 |
-| Players | 14/15 |
-| Host Name | Vάιŝ♡√•∆ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:59:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713714697025 |
-| Players | 1/15 |
-| Host Name | Michiking |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:02:59 |
 
 
