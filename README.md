@@ -41,46 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713741077400 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | (One) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:57:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713742442230 |
-| Players | 2/8 |
-| Host Name | ЧУШПАН SLAYER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 10:00:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713743720110 |
-| Players | 2/15 |
-| Host Name | ''IFRIT'' |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:02:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713742881284 |
-| Players | 10/24 |
-| Host Name | Talento Nada |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:01:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713742750449 |
-| Players | 9/15 |
-| Host Name | OLDBUSH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 10:01:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,5 +54,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:02:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713743720110 |
+| Players | 1/15 |
+| Host Name | ''IFRIT'' |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:02:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713742881284 |
+| Players | 13/24 |
+| Host Name | Talento Nada |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:01:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713742750449 |
+| Players | 11/15 |
+| Host Name | OLDBUSH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:01:02 |
 
 
