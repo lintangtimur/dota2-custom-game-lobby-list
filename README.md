@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713731943786 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | baoeq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:39:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713731753162 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | Pulsar N250 (BAJAJ) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:38:38 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Duil |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:39:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713732922947 |
+| Players | 1/8 |
+| Host Name | High |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 09:41:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713732986519 |
+| Players | 1/15 |
+| Host Name | 💀SKIBIDI  CIENTIFICO💀 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 09:41:14 |
 
 
