@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713878933318 |
-| Players | 7/24 |
-| Host Name | OMAR |
+| Players | 4/24 |
+| Host Name | актер живодер каскадер |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:30:52 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713879825594 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | FREE PALESTINE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:32:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713880296809 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | ЛЮБЛЮ ТВОЮ МАМУ=) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:33:17 |
@@ -86,16 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713880877868 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Cuh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:34:19 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713881036079 |
+| Players | 2/10 |
+| Host Name | Марко Ройс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:34:36 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713878924955 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | weg64 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:30:51 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713879939483 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | gore video is the best movie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:32:39 |
