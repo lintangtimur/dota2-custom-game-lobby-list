@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713716058071 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | Lulzorness |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 09:05:54 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | SampleRadical |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713715065658 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Buxan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:03:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713715348022 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Michiking |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:04:22 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713715270390 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:04:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713715785381 |
-| Players | 5/8 |
-| Host Name | marbella se la come doblada :v |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:05:19 |
 
 
 |  | ot3_gardens_duo |
@@ -117,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Uncle Frank |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:04:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713716193359 |
+| Players | 1/5 |
+| Host Name | Rivendell |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 09:06:11 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28583713716195015 |
+| Players | 2/7 |
+| Host Name | Founder浣熊 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 09:06:11 |
 
 
