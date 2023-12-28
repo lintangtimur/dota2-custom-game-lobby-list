@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713805577644 |
+| Players | 3/24 |
+| Host Name | Alberto Kenya Fujimori Fujimori |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:09:08 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713805630693 |
-| Players | 1/10 |
-| Host Name | аллё |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 12:09:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713805131466 |
-| Players | 11/15 |
-| Host Name | RAW [MUTED] |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 12:08:14 |
+| Lobby ID | 28583713805816428 |
+| Players | 2/10 |
+| Host Name | Don payiyo |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:09:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713802934012 |
-| Players | 6/8 |
-| Host Name | MARATHON??? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 12:03:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DOTA Veteran |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713805577644 |
-| Players | 2/24 |
-| Host Name | Alberto Kenya Fujimori Fujimori |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:09:08 |
 
 
 |  | epic_boss_fight_nightmare |
