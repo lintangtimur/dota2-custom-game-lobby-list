@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713843407061 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:24:21 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713841952250 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 黄瓜 (Chingger) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:21:31 |
