@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713754559491 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:25:17 |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713754350462 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | nirvana |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:24:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713757537614 |
+| Players | 2/10 |
+| Host Name | Mr Niggle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 10:31:20 |
 
 
