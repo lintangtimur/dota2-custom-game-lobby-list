@@ -56,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:34:27 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713916449787 |
+| Players | 3/24 |
+| Host Name | Con Mèo |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 15:35:26 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713916071955 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mweh. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:34:48 |
