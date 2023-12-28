@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713779665756 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Amado |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:16:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713778152304 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | All Muted |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 11:13:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713779978345 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | EL MAS RATA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:17:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713780354462 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:18:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713776681565 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Teregue |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 11:10:38 |
@@ -101,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:15:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713776631754 |
-| Players | 9/10 |
-| Host Name | Run Yo Pockets |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:10:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713780100233 |
-| Players | 14/15 |
-| Host Name | Xibalba |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:17:35 |
+| Lobby ID | 28583713780717329 |
+| Players | 1/8 |
+| Host Name | tomatospid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 11:18:51 |
 
 
 |  | epic_boss_fight_nightmare |
