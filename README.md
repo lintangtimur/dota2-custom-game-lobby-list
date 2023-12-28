@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713774088782 |
-| Players | 13/15 |
-| Host Name | Томатный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:05:16 |
+| Lobby ID | 28583713776859476 |
+| Players | 3/15 |
+| Host Name | Mr.Bass |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:11:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713763053759 |
-| Players | 22/24 |
-| Host Name | gaston |
-| Region | Unknown |
-| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
+| Lobby ID | 28583713776858474 |
+| Players | 2/8 |
+| Host Name | The unknown cannot be destroyed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 11:11:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713772090626 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:01:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713773138804 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:03:19 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713776370133 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Набросок человека |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:09:57 |
@@ -119,19 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:10:43 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713776777966 |
-| Players | 1/8 |
-| Host Name | Яdkekrj |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:10:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713775353693 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | MERRY XMAS BITCHES |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:07:52 |
