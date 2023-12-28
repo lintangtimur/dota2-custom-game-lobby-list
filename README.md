@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713704544692 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Kaido |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:41:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713707785129 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Monkey D Luffy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:48:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713707999933 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ALLAHU AKBAR |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:48:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713706889267 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | NANDITO (U) GRONE TLV ROJINEGRO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:46:29 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713706585663 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | 161 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:49 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713707607566 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 𒇫𒄆 Skvirtoslav 𒂝𒀱 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:48:00 |
@@ -126,6 +126,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Maldito Tedy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:48:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713708220255 |
+| Players | 1/15 |
+| Host Name | Porque no estudias "Sin Viejo" ? |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:49:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713708263442 |
+| Players | 4/10 |
+| Host Name | Чудик три |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:49:24 |
 
 
 |  | epic_boss_fight_nightmare |
