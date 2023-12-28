@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714130109218 |
-| Players | 3/8 |
-| Host Name | gasn03 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:11:32 |
+| Lobby ID | 28583714144302009 |
+| Players | 1/8 |
+| Host Name | в 24 выйду по удо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:24:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714144811930 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | 睡fuckerock眠 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:25:06 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 20:24:32 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714144302009 |
-| Players | 1/8 |
-| Host Name | в 24 выйду по удо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:24:38 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714145206876 |
+| Lobby ID | 28583714145474439 |
 | Players | 1/15 |
 | Host Name | 大王叫我来巡山 |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 20:25:28 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:25:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wolf22 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:21:46 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583714145317166 |
+| Players | 1/5 |
+| Host Name | Miki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:25:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583714145395333 |
+| Players | 1/10 |
+| Host Name | Hell's Paradise |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:25:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583714145461138 |
+| Players | 2/10 |
+| Host Name | Yui |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 28, 2023 20:25:41 |
 
 
