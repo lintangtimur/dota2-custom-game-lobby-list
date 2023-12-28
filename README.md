@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 8/24 |
-| Host Name | FTD |
+| Players | 6/24 |
+| Host Name | DooBop |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
 
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713695390877 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | K(-)МШоТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:21:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713695651155 |
-| Players | 1/8 |
-| Host Name | MA ;) Rmzzz |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 08:22:22 |
+| Lobby ID | 28583713695909136 |
+| Players | 3/15 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:22:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713695172180 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | PERRITO BORRACHO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:21:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713695234742 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 1KlasNumberOne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:21:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713695291960 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | No me jodas o fedeo..!! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:21:36 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713695868486 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 161 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:22:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713695909136 |
-| Players | 1/15 |
-| Host Name | TMMR |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:22:54 |
 
 
 |  | epic_boss_fight_nightmare |
