@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713706416175 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Голодный |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:27 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713705473309 |
-| Players | 13/15 |
-| Host Name | Sin ella no soy nada:( |
+| Lobby ID | 28583713706364993 |
+| Players | 9/10 |
+| Host Name | 66565564 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:43:27 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:45:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713706585663 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 161 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:49 |
@@ -119,10 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:48:00 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713707721085 |
+| Players | 1/15 |
+| Host Name | cummy bottom boy |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:48:15 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713703554114 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Tōdō Aoi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:39:13 |
