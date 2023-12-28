@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714001993731 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | [PONYVAKLA] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:47:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714058826995 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Squeeze |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:58:24 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714060941285 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | kangkong chips |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:00:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714064230709 |
-| Players | 6/8 |
-| Host Name | 迪克 KABAN |
+| Lobby ID | 28583714065098738 |
+| Players | 6/10 |
+| Host Name | ｄｙｒａｃｈｙｏ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:04:27 |
+| Lobby Creation Time | Thursday, December 28, 2023 19:05:25 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 19:05:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714059385087 |
-| Players | 23/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:59:03 |
+| Lobby ID | 28583714065577350 |
+| Players | 2/10 |
+| Host Name | Gena |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:05:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,28 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714065300054 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Ranni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:05:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714065098738 |
-| Players | 6/10 |
-| Host Name | ｄｙｒａｃｈｙｏ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:05:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714065577350 |
-| Players | 2/10 |
-| Host Name | Gena |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:05:57 |
 
 
 |  | epic_boss_fight_nightmare |
