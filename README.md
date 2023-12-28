@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:09:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713834385906 |
-| Players | 14/24 |
-| Host Name | Afterthought |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 13:06:45 |
+| Lobby ID | 28583713836598161 |
+| Players | 1/8 |
+| Host Name | Durial |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:11:08 |
 
 
 |  | ot3_desert_octet |
