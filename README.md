@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 19:22:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714081966864 |
-| Players | 5/8 |
-| Host Name | Dark_Death |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 19:23:33 |
+| Lobby ID | 28583714082317393 |
+| Players | 6/15 |
+| Host Name | гроза сифонов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:23:55 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714076774706 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | El Snickito |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:18:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714080553695 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | shatunchick.twitch.tv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:22:04 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714082317393 |
+| Lobby ID | 28583714082489958 |
 | Players | 1/15 |
-| Host Name | гроза сифонов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:23:55 |
+| Host Name | Sssst |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:24:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714078051075 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 谜兔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:19:27 |
