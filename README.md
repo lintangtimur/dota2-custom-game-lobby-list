@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714103222346 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:45:33 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714102215750 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ฮาฟฟู่ |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 28, 2023 19:44:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714108350672 |
-| Players | 6/8 |
-| Host Name | ZMAJ111 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:50:39 |
+| Lobby ID | 28583714109811577 |
+| Players | 1/15 |
+| Host Name | HUGE |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 19:52:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714109637860 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Mr. Spooky Cookie |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:51:55 |
