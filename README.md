@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713870462630 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 一叶之秋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:15:33 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713871669315 |
-| Players | 9/10 |
-| Host Name | 76561199196836346 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:17:46 |
+| Lobby ID | 28583713873592214 |
+| Players | 3/10 |
+| Host Name | 알렉산드라 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 14:21:15 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713871729420 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Tamalin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 14:17:53 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:19:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713873233318 |
-| Players | 2/8 |
-| Host Name | Мои руки тянутся к твоему члену |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:20:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713873547307 |
@@ -92,21 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:21:10 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583713873592214 |
-| Players | 3/10 |
-| Host Name | 알렉산드라 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 14:21:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583713873594045 |
-| Players | 1/5 |
-| Host Name | Plartenilid|YT |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:21:15 |
+| Lobby ID | 28583713873608360 |
+| Players | 2/10 |
+| Host Name | Hentai? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:21:17 |
 
 
