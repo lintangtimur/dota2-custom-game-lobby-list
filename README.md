@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714132414498 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Патрон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:13:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583714124442804 |
-| Players | 23/24 |
-| Host Name | RiftBreaker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:06:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714132664986 |
-| Players | 1/15 |
-| Host Name | DOLG. bloSSom |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 20:13:54 |
 
 
 |  | ot3_desert_octet |
@@ -119,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 20:13:53 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583714132664986 |
+| Players | 1/15 |
+| Host Name | DOLG. bloSSom |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 20:13:54 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714132987317 |
+| Lobby ID | 28583714133275731 |
 | Players | 2/10 |
 | Host Name | Iван Яйцекрут |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:14:11 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:14:27 |
 
 
 |  | epic_boss_fight_hard |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28583714132431229 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Butterfly Burton |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:13:41 |
