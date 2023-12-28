@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714014342169 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:03:56 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:08:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714021483392 |
-| Players | 22/24 |
-| Host Name | Injoker.Death |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:13:21 |
+| Lobby ID | 28583714023519953 |
+| Players | 2/10 |
+| Host Name | -MMR (24) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:15:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714022771294 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 砰！！！ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:14:58 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714023228914 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | osas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:15:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714023519953 |
-| Players | 2/10 |
-| Host Name | -MMR (24) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:15:56 |
 
 
