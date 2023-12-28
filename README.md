@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713990579461 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | gatekeeper |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:31:09 |
@@ -23,16 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713990768613 |
-| Players | 3/15 |
-| Host Name | Venom Oguzok |
+| Players | 4/15 |
+| Host Name | Splicer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:31:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713990903664 |
+| Players | 3/8 |
+| Host Name | philthy |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 17:31:36 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713986334441 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | jesus is a jerk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:25:03 |
