@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713740077035 |
-| Players | 7/8 |
-| Host Name | PENE  NEGRO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:55:37 |
+| Lobby ID | 28583713740827027 |
+| Players | 3/15 |
+| Host Name | zclek |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 09:57:09 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713740154243 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:55:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713739794180 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | [w]Easy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:55:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713739170325 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 09:53:47 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713740402651 |
-| Players | 3/10 |
-| Host Name | takerusan |
+| Players | 2/10 |
+| Host Name | Meow?BOOM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:56:17 |
 
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713739500606 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Yes Chef! |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 09:54:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713740827027 |
-| Players | 1/15 |
-| Host Name | zclek |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 09:57:09 |
 
 
 |  | epic_boss_fight_normal |
