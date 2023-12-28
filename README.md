@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713916822246 |
-| Players | 7/8 |
-| Host Name | Kenpachi Zaraki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:36:03 |
+| Lobby ID | 28583713763053759 |
+| Players | 1/24 |
+| Host Name | gaston |
+| Region | Unknown |
+| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
 
 
 |  | ot3_desert_octet |
@@ -23,28 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713915189192 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | 4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:33:22 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713763053759 |
-| Players | 1/24 |
-| Host Name | gaston |
-| Region | Unknown |
-| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713917672957 |
-| Players | 1/15 |
+| Lobby ID | 28583713917805230 |
+| Players | 2/15 |
+| Host Name | Ruska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:37:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713917842031 |
+| Players | 1/8 |
 | Host Name | Юта Оккоцу |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:37:27 |
+| Lobby Creation Time | Thursday, December 28, 2023 15:37:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713916357228 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | OnlyGOD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:35:17 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | мне 12 и я zxc absolute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:36:26 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28583713917446933 |
-| Players | 1/7 |
-| Host Name | メガフォン |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:37:05 |
 
 
