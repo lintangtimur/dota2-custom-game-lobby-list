@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713961630565 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:48:09 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713962058567 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | дибил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:48:49 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713953553520 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | boring |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:35:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713961793816 |
-| Players | 1/15 |
-| Host Name | 346396041 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Thursday, December 28, 2023 16:48:24 |
+| Lobby ID | 28583713962106613 |
+| Players | 7/10 |
+| Host Name | ekna |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 16:48:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713962106613 |
+| Lobby ID | 28583713962184643 |
 | Players | 1/10 |
-| Host Name | ekna |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:48:53 |
+| Host Name | Papi Culo |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:49:01 |
 
 
 |  | epic_boss_fight_normal |
