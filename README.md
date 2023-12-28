@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713770793406 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:58:33 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713767743730 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:52:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713771494885 |
-| Players | 6/10 |
-| Host Name | bleizer |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:59:59 |
+| Lobby ID | 28583713763053759 |
+| Players | 22/24 |
+| Host Name | gaston |
+| Region | Unknown |
+| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
 
 
 |  | ot3_gardens_duo |
@@ -101,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:59:50 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713763053759 |
-| Players | 21/24 |
-| Host Name | gaston |
-| Region | Unknown |
-| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713771967943 |
+| Lobby ID | 28583713772063367 |
 | Players | 1/8 |
-| Host Name | Mr. Negi Generation 6 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:00:57 |
+| Host Name | Rosé- |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:01:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | x65nchanter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:00:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713772071832 |
+| Players | 1/10 |
+| Host Name | mel |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 11:01:09 |
 
 
