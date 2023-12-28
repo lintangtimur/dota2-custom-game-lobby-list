@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713796460190 |
-| Players | 14/15 |
-| Host Name | SuperUnicorn47 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:50:49 |
+| Lobby ID | 28583713797975344 |
+| Players | 1/10 |
+| Host Name | Dead_Dragon |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 11:53:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713797502967 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ESTOY CANSADO DE PERDER |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:52:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713797358363 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ------in omnia partus-------- |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:52:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713797257232 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Kaido |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:52:24 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:52:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713797975344 |
-| Players | 1/10 |
-| Host Name | Dead_Dragon |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 11:53:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713797965023 |
-| Players | 1/24 |
-| Host Name | FFF |
+| Lobby ID | 28583713798042637 |
+| Players | 1/15 |
+| Host Name | Re Zero |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:53:50 |
+| Lobby Creation Time | Thursday, December 28, 2023 11:53:59 |
 
 
 |  | epic_boss_fight_nightmare |
