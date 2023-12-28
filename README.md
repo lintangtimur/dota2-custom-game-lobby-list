@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713901007737 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | acsess |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:09:32 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ДілоБулоНеВБабіні |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:08:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713902004369 |
+| Players | 1/15 |
+| Host Name | Jacinto Soto Coronado Vilchez |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 15:11:16 |
 
 
 |  | epic_boss_fight_nightmare |
