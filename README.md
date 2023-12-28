@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713752933155 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:21:55 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713755733862 |
-| Players | 4/8 |
-| Host Name | el kchero de chosica uwu |
+| Lobby ID | 28583713755793368 |
+| Players | 1/10 |
+| Host Name | Tu viejo |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:27:41 |
+| Lobby Creation Time | Thursday, December 28, 2023 10:27:49 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713755054705 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | twitch.tv/aleschaaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:26:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713754559491 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | CHOLITO DE CONO CON PLATA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:25:17 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:27:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713755238634 |
+| Players | 3/15 |
+| Host Name | X-CHOLAPSE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:26:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Daee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:17:33 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713755847224 |
+| Players | 2/5 |
+| Host Name | Mr Niggle |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 28, 2023 10:27:55 |
 
 
