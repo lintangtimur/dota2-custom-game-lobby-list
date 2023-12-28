@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713856683705 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Jdc tunes |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:49:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713858325492 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Mischievous Hooligan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:53:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713858758427 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | DIOR |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:53:51 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713856812531 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 13:50:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713858331673 |
-| Players | 14/15 |
-| Host Name | k3yj1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 13:53:03 |
+| Lobby ID | 28583713860023282 |
+| Players | 2/8 |
+| Host Name | never lose |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:56:11 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:52:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713860023282 |
-| Players | 1/8 |
-| Host Name | never lose |
+| Lobby ID | 28583713860435664 |
+| Players | 5/10 |
+| Host Name | Sk4znt |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:56:11 |
+| Lobby Creation Time | Thursday, December 28, 2023 13:56:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713860464697 |
+| Players | 1/15 |
+| Host Name | pitufo valiente |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 13:57:01 |
 
 
 |  | epic_boss_fight_nightmare |
