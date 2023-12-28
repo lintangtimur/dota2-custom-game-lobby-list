@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713675702671 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Vaxsal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:39:37 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713675169099 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | YaoMingTheGOAT |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:38:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713675843302 |
-| Players | 1/15 |
-| Host Name | w0of0o |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 07:39:57 |
+| Lobby ID | 28583713675937819 |
+| Players | 6/10 |
+| Host Name | Голодный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 07:40:09 |
 
 
 |  | ot3_necropolis_ffa |
