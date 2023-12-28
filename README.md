@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713807585029 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Акула |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:13:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713805944917 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | MD. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:09:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713808231069 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | vagabond |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:14:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -86,27 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713808665501 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | M a u u |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:15:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583713808693545 |
-| Players | 3/8 |
-| Host Name | OD PANDREX |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:15:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713808703397 |
-| Players | 1/15 |
-| Host Name | zpp |
-| Region | Unknown |
-| Lobby Creation Time | Thursday, December 28, 2023 12:15:30 |
+| Lobby ID | 28583713808771123 |
+| Players | 1/10 |
+| Host Name | Genesis-Exodus |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 12:15:38 |
 
 
