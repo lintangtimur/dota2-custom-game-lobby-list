@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713885753821 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Балдежный Пердеж |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:43:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713879594978 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | leonidas godota2.com/ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 14:32:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713886867811 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ALEXISTHEPOGIMAN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:45:07 |
@@ -83,21 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:46:23 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713887928169 |
+| Players | 1/10 |
+| Host Name | BARINOV1VOEVAL |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 14:47:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713885460752 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | PRABRORO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:42:37 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583713887824788 |
-| Players | 1/7 |
-| Host Name | АЮ |
+| Lobby ID | 28583713887907486 |
+| Players | 1/10 |
+| Host Name | rohanec1993 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:46:49 |
+| Lobby Creation Time | Thursday, December 28, 2023 14:46:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713884505274 |
+| Players | 9/10 |
+| Host Name | SakalFTW |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:40:51 |
 
 
