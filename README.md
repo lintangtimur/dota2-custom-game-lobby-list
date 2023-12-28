@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713715065895 |
-| Players | 4/8 |
-| Host Name | INF.hunk. |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:03:46 |
+| Lobby ID | 28583713714385380 |
+| Players | 5/8 |
+| Host Name | Томас Nix Шелби |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 09:02:20 |
 
 
 |  | ot3_desert_octet |
@@ -83,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 09:03:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713714385380 |
-| Players | 7/8 |
-| Host Name | Томас Nix Шелби |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 09:02:20 |
+| Lobby ID | 28583713715209673 |
+| Players | 5/10 |
+| Host Name | KILL ME IF U CAN |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 09:04:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713715186141 |
+| Players | 1/10 |
+| Host Name | MESSI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 09:04:01 |
 
 
