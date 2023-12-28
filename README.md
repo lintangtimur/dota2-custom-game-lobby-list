@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713953497109 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | VskrivatelEby4ek |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:35:20 |
@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713953209551 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Dua Lipa & Halsey <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:34:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713953825192 |
+| Players | 2/8 |
+| Host Name | ヘル エンジェル |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 16:35:52 |
 
 
 |  | epic_boss_fight_nightmare |
