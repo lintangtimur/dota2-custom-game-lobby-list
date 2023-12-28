@@ -23,55 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713686861122 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:03:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713687975238 |
-| Players | 6/10 |
-| Host Name | not quite my tempo |
+| Lobby ID | 28583713688539224 |
+| Players | 2/8 |
+| Host Name | BigKing Assault Mode |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:05:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713688182163 |
-| Players | 6/10 |
-| Host Name | Griga |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:06:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713687184995 |
-| Players | 21/24 |
-| Host Name | DJ23- |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:04:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713681852801 |
-| Players | 4/24 |
-| Host Name | d00fie |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:07:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713688387416 |
-| Players | 10/15 |
-| Host Name | SUMIMASEN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:06:52 |
+| Lobby ID | 28583713688895318 |
+| Players | 2/15 |
+| Host Name | ЛДД |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:07:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,28 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:06:57 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713688539224 |
-| Players | 1/8 |
-| Host Name | BigKing Assault Mode |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:07:11 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713688548720 |
-| Players | 1/24 |
-| Host Name | Worm |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:07:12 |
+| Lobby ID | 28583713681852801 |
+| Players | 3/24 |
+| Host Name | d00fie |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713686532569 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | mel |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:02:52 |
