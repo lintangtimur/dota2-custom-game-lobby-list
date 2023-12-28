@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713768100957 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 黃人韋厷隹 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:53:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713768570873 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Богдан Боголюбов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:54:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713767743730 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:52:18 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713768956559 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:54:47 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | harcaritios |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:54:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713769090974 |
+| Players | 1/24 |
+| Host Name | Dani| |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:55:04 |
 
 
 |  | epic_boss_fight_normal |
