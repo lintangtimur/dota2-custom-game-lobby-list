@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714081746807 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | eh? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:23:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714082834226 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Тайлер Путин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:24:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714082866776 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Papiroska |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:24:29 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ROCK HARD |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 28, 2023 19:24:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714083372793 |
+| Players | 2/8 |
+| Host Name | Шалунишка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:25:01 |
 
 
 |  | epic_boss_fight_nightmare |
