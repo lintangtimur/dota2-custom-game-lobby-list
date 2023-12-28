@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713865100842 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | immortal before new year |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:05:38 |
@@ -68,27 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713863790417 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | JULI PERDONAME |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 14:03:12 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713865189665 |
-| Players | 2/15 |
-| Host Name | ЛЮБЛЮ ТВОЮ МАМУ=) |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:05:48 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713865297463 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | quiescent |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:06:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713865421723 |
+| Players | 4/8 |
+| Host Name | BoBoss |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:06:14 |
 
 
