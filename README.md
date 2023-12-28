@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713692855241 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:16:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713704544692 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Kaido |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:41:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713704620807 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:41:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713704236321 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Bubba |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:40:44 |
@@ -50,19 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713704219215 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Trishtam |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:40:42 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713705445409 |
+| Players | 1/10 |
+| Host Name | egorych横 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:43:23 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713705394484 |
+| Lobby ID | 28583713705085224 |
+| Players | 7/15 |
+| Host Name | Турбоёб |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:42:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713705473309 |
 | Players | 1/15 |
-| Host Name | Seckse |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:43:17 |
+| Host Name | Sin ella no soy nada:( |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:43:27 |
 
 
 |  | epic_boss_fight_nightmare |
