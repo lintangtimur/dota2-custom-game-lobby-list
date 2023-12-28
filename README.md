@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714041129421 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | лена мефедрон |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:37:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714001993731 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | [PONYVAKLA] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:47:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714041291265 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | z1ma prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:37:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714041325923 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | впуклый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:37:57 |
@@ -92,10 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:38:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714041609356 |
+| Players | 1/8 |
+| Host Name | 混蛋 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:38:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583714041607215 |
+| Players | 2/24 |
+| Host Name | JalenGreen 4 Rockets |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 18:38:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714036357645 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 谜兔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:31:58 |
@@ -105,7 +123,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28583714039383098 |
 | Players | 7/10 |
-| Host Name | Гена Цидармян |
+| Host Name | PushTheTempo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:35:36 |
 
