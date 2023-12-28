@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714022054597 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 18:14:04 |
@@ -38,21 +38,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:08:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714023519953 |
-| Players | 2/10 |
-| Host Name | -MMR (24) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:15:56 |
+| Lobby ID | 28583714024206533 |
+| Players | 1/24 |
+| Host Name | Reikn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:16:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714022902590 |
+| Lobby ID | 28583714023856276 |
 | Players | 3/8 |
-| Host Name | adam_security83 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:15:08 |
+| Host Name | ZXC_PARMEZAN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:16:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583714023924064 |
+| Players | 6/15 |
+| Host Name | Fat Goose |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:16:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583714024250159 |
+| Players | 1/10 |
+| Host Name | Bzoon+H |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 28, 2023 18:16:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583714023903218 |
+| Players | 2/5 |
+| Host Name | Ooops |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:16:26 |
 
 
