@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713704478462 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | who cares |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:41:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713704620807 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:41:35 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28583713704236321 |
 | Players | 6/10 |
-| Host Name | Joe Biden |
+| Host Name | Bubba |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:40:44 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713702953041 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:37:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713704544692 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Kaido |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:41:25 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Trishtam |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:40:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713703602029 |
+| Players | 14/15 |
+| Host Name | Deus |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, December 28, 2023 08:39:19 |
 
 
 |  | epic_boss_fight_nightmare |
