@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541874586324 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | cігем |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 07:05:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541873496687 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | El Gotto Cuba |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 07:03:07 |
@@ -47,31 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28576541874599180 |
-| Players | 1/24 |
-| Host Name | SampleRadical |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 07:05:27 |
+| Lobby ID | 28576541874553279 |
+| Players | 3/15 |
+| Host Name | websites |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 07:05:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541874818348 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Mr.Popo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:05:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541873377427 |
-| Players | 14/15 |
-| Host Name | 𝓪𝓲𝓶𝒆𝓻 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 07:02:52 |
+| Lobby ID | 28576541874727471 |
+| Players | 5/8 |
+| Host Name | egoisto |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 07:05:43 |
 
 
 |  | ot3_desert_octet |
@@ -95,37 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541874332246 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | MX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:04:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28576541874553279 |
-| Players | 2/15 |
-| Host Name | websites |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 07:05:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541874727471 |
-| Players | 4/8 |
-| Host Name | egoisto |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 07:05:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28576541874904519 |
-| Players | 2/8 |
-| Host Name | LIL TILL |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 07:06:06 |
 
 
 |  | epic_boss_fight_nightmare |
