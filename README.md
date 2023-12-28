@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713856683705 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Cornomaniac |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:49:56 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713847237350 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Belifan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:31:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713856782522 |
-| Players | 12/15 |
-| Host Name | Locomobile | The Chimney |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:50:07 |
+| Lobby ID | 28583713857739330 |
+| Players | 6/8 |
+| Host Name | кудрявый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 13:51:54 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713820665493 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | asd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:39:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713856812531 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 13:50:11 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:51:31 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713858073603 |
+| Players | 1/10 |
+| Host Name | CORRALITO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 13:52:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713857739330 |
-| Players | 4/8 |
-| Host Name | кудрявый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 13:51:54 |
+| Lobby ID | 28583713858141106 |
+| Players | 1/8 |
+| Host Name | Pikachu187 |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 13:52:41 |
 
 
 |  | epic_boss_fight_nightmare |
