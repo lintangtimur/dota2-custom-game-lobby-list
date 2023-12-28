@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713740077035 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | PENE  NEGRO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:55:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713735079651 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | justforfun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:45:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713740154243 |
-| Players | 3/24 |
+| Players | 14/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:55:46 |
@@ -50,73 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713739561679 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Ren.B |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 09:54:34 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713740182706 |
-| Players | 2/10 |
-| Host Name | Meow?BOOM |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 09:55:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713739170325 |
-| Players | 11/24 |
-| Host Name | SuperChef |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 09:53:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713739436926 |
-| Players | 14/15 |
-| Host Name | ATREIDES J. |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:54:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713739488533 |
-| Players | 9/10 |
-| Host Name | Atlas Troll |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 09:54:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713739500606 |
-| Players | 3/15 |
-| Host Name | Yes Chef! |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 09:54:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713739794180 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | [w]Easy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:55:03 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713739170325 |
+| Players | 13/24 |
+| Host Name | SuperChef |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 09:53:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713740402651 |
+| Players | 3/10 |
+| Host Name | takerusan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 09:56:17 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713740348582 |
-| Players | 1/15 |
-| Host Name | RolandShooter99 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 09:56:10 |
+| Lobby ID | 28583713739500606 |
+| Players | 5/15 |
+| Host Name | Yes Chef! |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 09:54:27 |
 
 
 |  | epic_boss_fight_normal |
