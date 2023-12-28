@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714014342169 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:03:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714021483392 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Injoker.Death |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:13:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714022771294 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 砰！！！ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:14:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714022296236 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | tv/swedenstrong |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:14:22 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714023228914 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | osas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:15:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714023258152 |
-| Players | 4/8 |
-| Host Name | капитан пидр |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:15:36 |
+| Lobby ID | 28583714023339054 |
+| Players | 1/15 |
+| Host Name | 游不动 下不过 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:15:42 |
 
 
 |  | ot3_necropolis_ffa |
