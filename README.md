@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713888084466 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ’Mr . Big |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 14:47:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713908773596 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Stall_10 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:22:41 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:12:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713906950374 |
-| Players | 22/24 |
-| Host Name | goldfeesh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:19:37 |
+| Lobby ID | 28583713909304244 |
+| Players | 4/15 |
+| Host Name | TK.УЛЬТРА СОЛЕВОЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:23:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,27 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713908254164 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | lokoespartano |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 15:21:48 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713909287806 |
+| Players | 3/8 |
+| Host Name | snowflake |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:23:34 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713907005556 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Кофточка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:19:42 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583713907921523 |
-| Players | 2/5 |
-| Host Name | 凉凉 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:21:15 |
 
 
