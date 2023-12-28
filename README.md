@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714070624552 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Dalk12 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:11:29 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714071062515 |
+| Lobby ID | 28583714071160618 |
 | Players | 1/8 |
-| Host Name | not pudge |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:11:58 |
+| Host Name | ROCK HARD |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, December 28, 2023 19:12:05 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714070526677 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ZaaL |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:11:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714071097266 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Зоя Ибрагимовна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:12:01 |
