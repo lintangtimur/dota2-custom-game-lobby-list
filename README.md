@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713787787706 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | STEW |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:33:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713785036421 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | isn't like holding to the center |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:27:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713789624620 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | General |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:36:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713786582138 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | γηΩσ/בר-אבא |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:30:42 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | onaforp xessib |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:31:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713786022937 |
+| Players | 23/24 |
+| Host Name | [       7       ] |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 11:29:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713789840259 |
+| Players | 1/24 |
+| Host Name | твердая какашка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 11:37:20 |
 
 
 |  | epic_boss_fight_nightmare |
