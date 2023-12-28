@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713692855241 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:16:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713704544692 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Kaido |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:41:25 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:52:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713710956912 |
-| Players | 1/15 |
-| Host Name | Psico |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:55:07 |
+| Lobby ID | 28583713710935258 |
+| Players | 1/8 |
+| Host Name | 11111111111111111111111111111111 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:55:04 |
 
 
 |  | ot3_gardens_duo |
@@ -83,55 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:53:02 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713710399385 |
-| Players | 1/8 |
-| Host Name | ScorpioN |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:53:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713709724580 |
-| Players | 6/8 |
-| Host Name | soy muy pingon |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:52:31 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713710240662 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Leo <3 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:53:35 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713709718595 |
-| Players | 12/15 |
-| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:52:30 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713710935258 |
-| Players | 1/8 |
-| Host Name | 11111111111111111111111111111111 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:55:04 |
+| Lobby ID | 28583713709724580 |
+| Players | 7/8 |
+| Host Name | soy muy pingon |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:52:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713709921342 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Scrappy CoCo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:52:55 |
