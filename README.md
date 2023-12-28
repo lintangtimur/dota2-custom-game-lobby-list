@@ -41,9 +41,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713964534240 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Ninja of Hidden Shame |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:52:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713965056750 |
+| Players | 1/8 |
+| Host Name | ismail ahmad kanabawi |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:53:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713965129800 |
+| Players | 1/5 |
+| Host Name | Cago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 16:53:26 |
 
 
