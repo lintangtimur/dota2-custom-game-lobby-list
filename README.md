@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713712842326 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:59:05 |
@@ -41,34 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713713164396 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | El terror de los creeps |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:59:46 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713712043059 |
-| Players | 7/8 |
-| Host Name | // |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:57:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713712734305 |
-| Players | 19/24 |
-| Host Name | D ~ He♥ly |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:58:52 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713711221007 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Yes Chef! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:55:41 |
