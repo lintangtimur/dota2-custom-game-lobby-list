@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714138235482 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Now I am become death |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 20:19:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714157367425 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:36:29 |
@@ -101,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 20:38:15 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714159665506 |
-| Players | 4/8 |
-| Host Name | вовик1998) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:38:33 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714159674050 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | Трусики в Крови |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:38:34 |
