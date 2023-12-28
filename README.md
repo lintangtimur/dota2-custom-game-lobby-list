@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714002763414 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | ded |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:48:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714002420439 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | X-ART |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:47:51 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:49:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714003579836 |
+| Players | 2/8 |
+| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 17:49:27 |
 
 
 |  | epic_boss_fight_nightmare |
