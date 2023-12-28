@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713790566781 |
-| Players | 11/15 |
-| Host Name | Moonlight |
+| Lobby ID | 28583713787787706 |
+| Players | 14/15 |
+| Host Name | STEW |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 11:38:47 |
+| Lobby Creation Time | Thursday, December 28, 2023 11:33:10 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713790086627 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Батя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:37:50 |
@@ -103,38 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713790275406 |
-| Players | 9/10 |
-| Host Name | Трахаю жопой |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 11:38:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713787787706 |
-| Players | 14/15 |
-| Host Name | STEW |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 11:33:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28583713790737039 |
 | Players | 1/10 |
 | Host Name | tocosh |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:39:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713791037169 |
-| Players | 6/10 |
-| Host Name | LNDA |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 11:39:44 |
 
 
 |  | epic_boss_fight_nightmare |
