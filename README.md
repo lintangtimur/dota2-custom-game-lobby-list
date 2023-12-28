@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714162541700 |
-| Players | 6/8 |
-| Host Name | EStripper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:41:06 |
+| Lobby ID | 28583714164780791 |
+| Players | 5/8 |
+| Host Name | шельма |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 20:43:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714161763690 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:40:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714164150226 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ГенаЦидармян |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:42:35 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 20:35:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714164840142 |
+| Players | 1/8 |
+| Host Name | Шашлык Машлык Пуд |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:43:13 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28583714149572533 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714163723532 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ghoststalkerZP |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:42:11 |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Butterfly Burton |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:43:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583714164788067 |
+| Players | 1/10 |
+| Host Name | Apr15,1989 –Jun 4, 1989 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:43:10 |
 
 
