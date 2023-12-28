@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713738783349 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Пакувальник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:53:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713738694368 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 161 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:52:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713739130785 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Kath |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:53:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713739165435 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | EL BARTROM |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:53:46 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 09:53:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713739436926 |
+| Players | 1/15 |
+| Host Name | ATREIDES J. |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 09:54:20 |
 
 
 |  | epic_boss_fight_nightmare |
