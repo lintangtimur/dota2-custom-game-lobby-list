@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713913854503 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Shankeeto #FreePalestine |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 15:31:11 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28583713911210956 |
-| Players | 2/7 |
-| Host Name | iseiseise |
+| Players | 1/7 |
+| Host Name | Demolition Daddy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:26:47 |
 
