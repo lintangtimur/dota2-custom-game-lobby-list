@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714169768381 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Viedeshiz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:47:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583714170042478 |
+| Players | 8/15 |
+| Host Name | ♚❤❤❤❤❤❤❤♛ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:47:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714170044912 |
+| Players | 2/8 |
+| Host Name | Naaratot |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:47:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714166527408 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | qiellaeviely |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:44:43 |
@@ -94,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583714169765240 |
+| Lobby ID | 28583714170187374 |
 | Players | 1/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:47:36 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:47:59 |
 
 
