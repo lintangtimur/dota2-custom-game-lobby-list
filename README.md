@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713880325318 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 14:33:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713888084466 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | ’Mr . Big |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 14:47:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713901007737 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | acsess |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:09:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713900595544 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | ДілоБулоНеВБабіні |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:08:50 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713902004369 |
+| Lobby ID | 28583713902115307 |
 | Players | 1/15 |
 | Host Name | Jacinto Soto Coronado Vilchez |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 15:11:16 |
+| Lobby Creation Time | Thursday, December 28, 2023 15:11:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713899424701 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | gore video is the best movie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:06:54 |
