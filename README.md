@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713769004487 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | harcaritios |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:54:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713780868807 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | @nirvana_sf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:19:09 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:18:51 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713781350784 |
-| Players | 9/10 |
-| Host Name | el TUPAC AMARU 111 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 11:20:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713781382863 |
-| Players | 3/15 |
-| Host Name | MTH |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:20:12 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713781806685 |
@@ -110,12 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:21:04 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713777683870 |
-| Players | 9/10 |
-| Host Name | 起个名真纠结 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 11:12:44 |
+| Lobby ID | 28583713781382863 |
+| Players | 5/15 |
+| Host Name | MTH |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 11:20:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713781864813 |
+| Players | 1/15 |
+| Host Name | Sr. Wick |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:21:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713781876981 |
+| Players | 1/10 |
+| Host Name | Joe Biden |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:21:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713781900778 |
+| Players | 2/24 |
+| Host Name | Rocky Lujan Carrion |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:21:15 |
 
 
