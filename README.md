@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:02:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713773434165 |
-| Players | 7/10 |
-| Host Name | La vieja del roro |
+| Lobby ID | 28583713773823264 |
+| Players | 3/15 |
+| Host Name | P |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:03:55 |
+| Lobby Creation Time | Thursday, December 28, 2023 11:04:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713773485200 |
-| Players | 1/10 |
-| Host Name | WoodyPlant |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:04:02 |
+| Lobby ID | 28583713770793406 |
+| Players | 9/10 |
+| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 10:58:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713772090626 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | J |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:01:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713773138804 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 6T9 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:03:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713772663139 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:02:21 |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:02:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28583713773823264 |
-| Players | 3/15 |
-| Host Name | P |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:04:43 |
+| Lobby ID | 28583713773910025 |
+| Players | 1/5 |
+| Host Name | ChaHyunsuu|•키스해도 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 11:04:54 |
 
 
