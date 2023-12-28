@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713810224813 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | waiting for death |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:18:33 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713810124150 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Cerdo Comunista |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:18:21 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713811123876 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Яж Гуевреев |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:20:21 |
@@ -126,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:20:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713811525227 |
-| Players | 2/8 |
-| Host Name | Pasa la coca CTMR!!! |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:21:09 |
 
 
 |  | epic_boss_fight_nightmare |
