@@ -14,46 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713915338801 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | wqeqwrqtqeqw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:33:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713915435059 |
-| Players | 4/8 |
-| Host Name | flar |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 15:33:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713763053759 |
-| Players | 1/24 |
-| Host Name | gaston |
-| Region | Unknown |
-| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713902480908 |
-| Players | 1/15 |
-| Host Name | ?????? |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 15:12:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713914983987 |
-| Players | 5/10 |
-| Host Name | twitch.tv/p0ma3abp |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:33:02 |
 
 
 |  | ot3_desert_octet |
@@ -65,12 +29,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:33:22 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713914088047 |
-| Players | 9/10 |
-| Host Name | HɅKɅRI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:31:34 |
+| Lobby ID | 28583713763053759 |
+| Players | 1/24 |
+| Host Name | gaston |
+| Region | Unknown |
+| Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713915534262 |
+| Players | 1/8 |
+| Host Name | Ramen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:33:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713914983987 |
+| Players | 7/10 |
+| Host Name | twitch.tv/p0ma3abp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:33:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713915581941 |
+| Players | 1/15 |
+| Host Name | ?????? |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 15:34:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713915558755 |
+| Players | 1/5 |
+| Host Name | iseiseise |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 15:33:58 |
 
 
