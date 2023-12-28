@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714153335203 |
-| Players | 5/8 |
-| Host Name | gazdratjopi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:32:52 |
+| Lobby ID | 28583714155560047 |
+| Players | 3/8 |
+| Host Name | Федя шпингалеты |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:34:51 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714155643327 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | sᴠɪɴᴏᴛᴀ ᴀʜᴀᴡɪc |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:34:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714150596549 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Jude Bellingham |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 20:30:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714155328550 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Wukash |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:34:39 |
@@ -67,35 +67,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714155981683 |
-| Players | 6/8 |
-| Host Name | 黒い太陽 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:35:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714155460644 |
-| Players | 5/8 |
-| Host Name | Древний Рус |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:34:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714155560047 |
-| Players | 2/8 |
-| Host Name | Федя шпингалеты |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:34:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28583714156002671 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | сигма плеер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:35:15 |
@@ -108,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | forever |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 20:29:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583714153874483 |
-| Players | 7/10 |
-| Host Name | pepega |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:33:21 |
 
 
 |  | epic_boss_fight_normal |
