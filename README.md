@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713675272675 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:38:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713675826976 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | EL VENGADOR DE HERALDOS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:39:55 |
@@ -32,46 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713675702671 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | Vaxsal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:39:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713675169099 |
-| Players | 14/15 |
-| Host Name | YaoMingTheGOAT |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 07:38:26 |
+| Lobby ID | 28583713675531096 |
+| Players | 6/8 |
+| Host Name | adrian_herrera_cou |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 07:39:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713675937819 |
+| Lobby ID | 28583713674616884 |
 | Players | 6/10 |
-| Host Name | Голодный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 07:40:09 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 07:37:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713675885081 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Playing without brain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:40:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713675531096 |
-| Players | 4/8 |
-| Host Name | Layla. |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 07:39:15 |
 
 
 |  | epic_boss_fight_nightmare |
