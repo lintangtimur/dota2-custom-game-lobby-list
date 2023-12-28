@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713800765739 |
+| Lobby ID | 28583713801038584 |
 | Players | 1/24 |
-| Host Name | Yonwalther |
+| Host Name | DarkJewelry |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 11:59:28 |
+| Lobby Creation Time | Thursday, December 28, 2023 12:00:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713800982915 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | KLL |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 11:59:54 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kaido |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:52:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713801103979 |
+| Players | 1/10 |
+| Host Name | Why Always ME ? |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:00:08 |
 
 
 |  | epic_boss_fight_nightmare |
