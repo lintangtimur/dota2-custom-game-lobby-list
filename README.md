@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714095263427 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ⭕⃤ yamamoto_x |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:37:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714090179789 |
-| Players | 22/24 |
-| Host Name | Oversea Sexy Guy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:32:07 |
+| Lobby ID | 28583714095458662 |
+| Players | 7/10 |
+| Host Name | cf |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:37:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,27 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714093241531 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | ROCK HARD |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 28, 2023 19:35:18 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714095134179 |
-| Players | 1/5 |
-| Host Name | nuni.asain |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:37:15 |
+| Lobby ID | 28583714095566283 |
+| Players | 1/24 |
+| Host Name | 普类阿木 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:37:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583714095572505 |
+| Players | 1/24 |
+| Host Name | 米粉 |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 19:37:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714092258805 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | NDA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:34:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583714095582370 |
+| Players | 1/5 |
+| Host Name | nuni.asain |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:37:43 |
 
 
