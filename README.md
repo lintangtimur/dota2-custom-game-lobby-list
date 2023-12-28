@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 16:16:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713949674398 |
-| Players | 2/8 |
-| Host Name | stupid banana |
+| Lobby ID | 28583713949544325 |
+| Players | 7/15 |
+| Host Name | esi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:29:16 |
+| Lobby Creation Time | Thursday, December 28, 2023 16:29:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713950003493 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Пяточный имплант |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:29:48 |
@@ -36,24 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Oxypopper |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:28:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713949284992 |
-| Players | 8/10 |
-| Host Name | Геннадий Треев |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:28:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713949544325 |
-| Players | 5/15 |
-| Host Name | esi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 16:29:04 |
 
 
 |  | epic_boss_fight_nightmare |
