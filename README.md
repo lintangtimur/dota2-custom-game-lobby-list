@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713907691386 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | II |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:20:52 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maztake |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:17:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713907927982 |
-| Players | 4/8 |
-| Host Name | insaniac |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:21:16 |
 
 
 |  | ot3_gardens_duo |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 凉凉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:21:15 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713908009178 |
+| Players | 1/5 |
+| Host Name | актёр на бездаре |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:21:24 |
 
 
