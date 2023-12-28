@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | DooBop |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713700198662 |
-| Players | 7/15 |
-| Host Name | AeftaTV |
+| Lobby ID | 28583713700739358 |
+| Players | 1/8 |
+| Host Name | soy muy pingon |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:32:00 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:33:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713700609223 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | DURACHYO |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:32:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713700424459 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | YOH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:32:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713700627285 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Turtle |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:32:55 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Perlacho |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:33:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713700782250 |
+| Players | 4/8 |
+| Host Name | Gman |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:33:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713700797819 |
+| Players | 2/10 |
+| Host Name | TOUCH ME |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:33:16 |
 
 
 |  | epic_boss_fight_nightmare |
