@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28583713955741150 |
 | Players | 3/24 |
-| Host Name | Tiger |
+| Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:38:51 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713955955867 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | N E Y M 1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:39:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713955509639 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | (--pwetmalu--) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 16:38:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28583713956555162 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | zxcasddsa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:40:07 |
