@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713765627614 |
-| Players | 7/8 |
-| Host Name | noname |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:48:01 |
+| Lobby ID | 28583713764221564 |
+| Players | 7/10 |
+| Host Name | zeta male |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 10:45:08 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713765223075 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Kumiiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:47:11 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713764927314 |
-| Players | 4/8 |
-| Host Name | Starboy |
+| Players | 3/8 |
+| Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:46:35 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713764457766 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | ccured |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:45:37 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713764526206 |
-| Players | 6/15 |
-| Host Name | Fadealy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 10:45:46 |
+| Lobby ID | 28583713765990642 |
+| Players | 3/15 |
+| Host Name | Hawaiian |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 10:48:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,28 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | harcaritios |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713764221564 |
-| Players | 4/10 |
-| Host Name | zeta male |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 10:45:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713764573997 |
-| Players | 13/15 |
-| Host Name | ATREIDES J. |
+| Lobby ID | 28583713765966596 |
+| Players | 1/24 |
+| Host Name | Perro chusco |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:45:51 |
+| Lobby Creation Time | Thursday, December 28, 2023 10:48:42 |
 
 
 |  | epic_boss_fight_normal |
