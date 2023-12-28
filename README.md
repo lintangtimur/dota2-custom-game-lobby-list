@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714135419693 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | NothingFeelsRight |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 28, 2023 20:16:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714140012360 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Дмитрий Масло |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:20:40 |
@@ -83,31 +83,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 20:19:36 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583714140536606 |
+| Players | 1/24 |
+| Host Name | AKKAR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:09 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714140247486 |
-| Players | 6/8 |
-| Host Name | best 4 |
+| Lobby ID | 28583714140552503 |
+| Players | 2/8 |
+| Host Name | Theo |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:20:53 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714134696611 |
-| Players | 14/15 |
-| Host Name | niWo |
+| Lobby ID | 28583714140571302 |
+| Players | 2/15 |
+| Host Name | a1dargo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:15:45 |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:11 |
+
+
+|  | ot3_demo |
+| ------ | ------ |
+| Lobby ID | 28583714140459022 |
+| Players | 1/1 |
+| Host Name | Doggos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714140430596 |
+| Lobby ID | 28583714140666585 |
 | Players | 1/24 |
-| Host Name | AKKAR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:21:03 |
+| Host Name | 渦幕 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:21:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hel1c+a |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:21:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583714140466481 |
-| Players | 3/5 |
-| Host Name | Тайлер Дерден |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:21:05 |
 
 
