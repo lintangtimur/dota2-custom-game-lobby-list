@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713878933318 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | актер живодер каскадер |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:30:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713881508583 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Cuh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:35:28 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713882414393 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Ethereal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:37:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713882552685 |
+| Players | 4/8 |
+| Host Name | 黒い太陽 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:37:21 |
 
 
 |  | epic_boss_fight_nightmare |
