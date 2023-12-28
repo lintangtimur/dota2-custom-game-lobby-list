@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713746836143 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Madman |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:09:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713746694829 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:09:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713744475914 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | DOTA Veteran |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713746325600 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SUPERSPERMA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:08:19 |
@@ -74,19 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:09:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713747506433 |
-| Players | 1/24 |
-| Host Name | [JnM]Nickname |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 10:10:50 |
+| Lobby ID | 28583713747616908 |
+| Players | 1/15 |
+| Host Name | Morphorfrost |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 10:11:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713747607990 |
+| Players | 1/15 |
+| Host Name | Great Admiral of Mongol Empire |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 10:11:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713745114151 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:05:50 |
