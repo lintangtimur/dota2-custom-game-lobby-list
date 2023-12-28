@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713760139021 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | :( M O T A :( |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:36:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713758986743 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | ''IFRIT'' |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:34:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713759842885 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | AnGlz__Strike |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:36:01 |
@@ -67,17 +67,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713758180217 |
-| Players | 9/10 |
-| Host Name | FILIPINAS SAD :c |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:32:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28583713760185893 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | alien |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:36:44 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713758086319 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | nine |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:32:27 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | The Grills |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:36:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713760373341 |
+| Players | 1/5 |
+| Host Name | Slokker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:37:07 |
 
 
