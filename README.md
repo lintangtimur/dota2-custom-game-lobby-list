@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 19:44:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714101748978 |
-| Players | 4/15 |
-| Host Name | Bean |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, December 28, 2023 19:44:05 |
+| Lobby ID | 28583714102593952 |
+| Players | 1/24 |
+| Host Name | Saint |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 19:44:56 |
 
 
 |  | ot3_desert_octet |
@@ -47,20 +47,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:44:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583714101373235 |
-| Players | 9/10 |
-| Host Name | hachel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:43:42 |
+| Lobby ID | 28583714102834103 |
+| Players | 1/24 |
+| Host Name | jnikko |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:45:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714102215750 |
 | Players | 7/24 |
-| Host Name | 花前月下》基友多多 |
+| Host Name | 123 |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 28, 2023 19:44:33 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714102284454 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | be lol epic Denis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:44:37 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | boz |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 19:44:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583714102593952 |
-| Players | 1/24 |
-| Host Name | Saint |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 19:44:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714101376756 |
-| Players | 8/10 |
-| Host Name | леша решала |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:43:42 |
 
 
 |  | epic_boss_fight_normal |
