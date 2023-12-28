@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | SampleRadical |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713731425801 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:37:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713712842326 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:59:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713731943786 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | baoeq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:39:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713731859808 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:38:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713732325889 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | [M]iresk[A] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:39:49 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 09:39:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713732375633 |
-| Players | 3/8 |
-| Host Name | ЛИЛ ДОЖДЬ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 09:39:56 |
+| Lobby ID | 28583713732401983 |
+| Players | 1/24 |
+| Host Name | Yvan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 09:39:59 |
 
 
