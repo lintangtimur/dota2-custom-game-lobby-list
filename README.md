@@ -68,36 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713884715556 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:41:14 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713885248623 |
+| Players | 3/24 |
+| Host Name | patisonti |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:42:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713884505274 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | SakalFTW |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:40:51 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713885229458 |
-| Players | 2/10 |
-| Host Name | Dea |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 14:42:12 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28583713885230154 |
+| Lobby ID | 28583713885305820 |
 | Players | 1/5 |
-| Host Name | zemo |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, December 28, 2023 14:42:12 |
+| Host Name | Mefrey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:42:20 |
 
 
