@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 07:32:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28576541853542118 |
-| Players | 23/24 |
-| Host Name | ;] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 06:22:45 |
+| Lobby ID | 28583713672533112 |
+| Players | 1/10 |
+| Host Name | WhoThe... |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 07:32:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713671975947 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Vicioso |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:31:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713671729783 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | chupete |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:30:55 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713671385738 |
-| Players | 12/15 |
-| Host Name | Duck man |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 07:30:10 |
+| Lobby ID | 28583713672685697 |
+| Players | 1/15 |
+| Host Name | Elysium |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 07:33:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713671868157 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | All muted |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:31:13 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 76561199196836346 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:32:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713672533112 |
-| Players | 1/10 |
-| Host Name | WhoThe... |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 07:32:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713671929982 |
-| Players | 9/10 |
-| Host Name | MEEEeeep |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 07:31:21 |
 
 
 |  | epic_boss_fight_nightmare |
