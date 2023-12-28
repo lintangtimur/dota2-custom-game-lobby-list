@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714171704236 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | gasn03 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:49:20 |
@@ -32,46 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714166236844 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | AKKAR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:44:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714172101788 |
-| Players | 1/8 |
-| Host Name | acsess |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:49:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714172103505 |
-| Players | 12/15 |
-| Host Name | BALANCA.NET |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:49:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714172164122 |
-| Players | 7/10 |
-| Host Name | Ghost Grave |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:49:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583714172268185 |
-| Players | 3/24 |
-| Host Name | overflow |
-| Region | INDIA |
-| Lobby Creation Time | Thursday, December 28, 2023 20:49:50 |
 
 
 |  | ot3_gardens_duo |
@@ -86,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714172439693 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Eldarko15 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 20:49:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583714172164122 |
+| Players | 7/10 |
+| Host Name | Ghost Grave |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:49:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583714172268185 |
+| Players | 5/24 |
+| Host Name | overflow |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, December 28, 2023 20:49:50 |
 
 
 |  | epic_boss_fight_normal |
