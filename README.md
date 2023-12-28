@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713685855824 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Madafacar |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:01:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713687026637 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Dead_Dragon |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:03:55 |
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713687045530 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Pasan |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:03:58 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713685415886 |
-| Players | 9/10 |
-| Host Name | =( |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:00:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713685785406 |
-| Players | 2/10 |
-| Host Name | Danielicious |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:01:17 |
+| Lobby ID | 28583713687184995 |
+| Players | 1/24 |
+| Host Name | DJ23- |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:04:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mel |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:02:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713685785406 |
+| Players | 2/10 |
+| Host Name | Danielicious |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:01:17 |
 
 
