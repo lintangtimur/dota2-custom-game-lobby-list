@@ -67,29 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714015522261 |
-| Players | 7/8 |
-| Host Name | Midas farming club |
+| Lobby ID | 28583714016129518 |
+| Players | 3/8 |
+| Host Name | glados #bloodrust |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:05:29 |
+| Lobby Creation Time | Thursday, December 28, 2023 18:06:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714016054616 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | The GayLord |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:06:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714016129518 |
-| Players | 1/8 |
-| Host Name | glados #bloodrust |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:06:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Voglio solo il suo amore . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:04:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583714016195944 |
+| Players | 1/10 |
+| Host Name | MaZilla |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:06:22 |
 
 
