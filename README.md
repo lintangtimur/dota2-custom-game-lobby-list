@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713706604861 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713706314126 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | sniper free |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713707026537 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Rasaar |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:46:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713706889267 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | NANDITO (U) GRONE TLV ROJINEGRO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:46:29 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713706364993 |
-| Players | 8/10 |
-| Host Name | 66565564 |
+| Lobby ID | 28583713707283853 |
+| Players | 1/8 |
+| Host Name | kelthusadELpro |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:45:21 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:47:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713704620807 |
+| Players | 23/24 |
+| Host Name | < blank > |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:41:35 |
 
 
 |  | epic_boss_fight_nightmare |
