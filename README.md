@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713687058468 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Deus |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 08:03:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713688895318 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ЛДД |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:07:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | d00fie |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713689009120 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | Liquid.METUMBOATUMAMA ✖_✖ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:08:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713688972393 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Aetheris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:08:06 |
@@ -117,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Homicídio |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 08:08:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713689032215 |
+| Players | 1/15 |
+| Host Name | CameraMan |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:08:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713689050881 |
+| Players | 3/15 |
+| Host Name | Da Butchar |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:08:16 |
 
 
 |  | epic_boss_fight_nightmare |
