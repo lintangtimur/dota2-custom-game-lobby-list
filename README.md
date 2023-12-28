@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713882387229 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Dead_Dragon |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:37:03 |
@@ -77,43 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713880870765 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 14:34:18 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713882414393 |
-| Players | 11/15 |
-| Host Name | Ethereal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:37:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713882686290 |
-| Players | 3/15 |
-| Host Name | 无聊的 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 14:37:35 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713882817403 |
-| Players | 3/8 |
-| Host Name | fenn1k |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:37:49 |
+| Lobby ID | 28583713882876310 |
+| Players | 2/8 |
+| Host Name | EVian |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:37:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713878924955 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | weg64 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:30:51 |
@@ -126,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jet |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 14:36:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583713882842453 |
-| Players | 4/5 |
-| Host Name | Сукуна Рёмен |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:37:52 |
 
 
