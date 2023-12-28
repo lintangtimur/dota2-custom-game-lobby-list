@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713666176565 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | assace |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:18:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713665574651 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | NVD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:17:23 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541853542118 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | ;] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:22:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713665460374 |
-| Players | 8/10 |
-| Host Name | slayer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 07:17:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713666016844 |
-| Players | 7/10 |
-| Host Name | Kurisu |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 07:18:23 |
 
 
 |  | ot3_necropolis_ffa |
