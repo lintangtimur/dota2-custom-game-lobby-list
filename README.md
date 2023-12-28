@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713664905053 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | [RV] ¨¨¨¨¨¨¨¨¨¨¨¨¨ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:15:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713662672245 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:11:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713665265106 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | feliz nevede |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:16:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541853542118 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | ;] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:22:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713665500838 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Canela pasión |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:17:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713665525490 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | ꊼ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:17:17 |
@@ -85,20 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713665518913 |
-| Players | 1/15 |
-| Host Name | Djdcoolcry®#1337# |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 07:17:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28583713665574651 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | NVD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:17:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713665644067 |
+| Players | 2/24 |
+| Host Name | assace |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 07:17:32 |
 
 
 |  | epic_boss_fight_nightmare |
