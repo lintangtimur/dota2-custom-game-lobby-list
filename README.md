@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713931716252 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 僕らの力の違いを見せ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:00:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713927842106 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Mischievous Hooligan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 15:54:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713929135931 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | PenoDewey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:56:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713931550723 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | terasu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:00:17 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Play with dog = loss |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:00:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713931884364 |
+| Players | 2/15 |
+| Host Name | PARLIAMENT |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:00:49 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gore video is the best movie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:58:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713931893292 |
+| Players | 1/10 |
+| Host Name | ÑẾ҉ㄨǺ҉eốn_ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:00:50 |
 
 
