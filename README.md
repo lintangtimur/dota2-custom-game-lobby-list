@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713768100957 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Venomalesh Ponnada |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:53:02 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:54:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713769090974 |
-| Players | 1/24 |
-| Host Name | Sandro |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 10:55:04 |
+| Lobby ID | 28583713770015924 |
+| Players | 1/15 |
+| Host Name | Ahappypuppy |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 10:56:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713767743730 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:52:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713762214365 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ya ya mijo ya |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 10:40:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713769631678 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | CANCER SEBERO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:56:10 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | psycho |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:56:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713770081469 |
+| Players | 1/15 |
+| Host Name | K(-)МШоТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:57:05 |
 
 
 |  | epic_boss_fight_nightmare |
