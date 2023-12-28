@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713856683705 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Jdc tunes |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:49:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713861683967 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:59:16 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713861533439 |
-| Players | 2/24 |
-| Host Name | Sign the Contract Big Boy |
+| Players | 1/24 |
+| Host Name | 神说天堂满了你去地狱 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:58:59 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713862227141 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | I |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 14:00:17 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713861942396 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Akavir |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:59:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713857260155 |
+| Players | 9/10 |
+| Host Name | Sukeru-san |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:51:01 |
 
 
