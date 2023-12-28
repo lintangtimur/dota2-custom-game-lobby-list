@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713846019864 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | SoloWay |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:29:24 |
@@ -76,24 +76,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713847343924 |
-| Players | 3/8 |
-| Host Name | Anti-Communism |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, December 28, 2023 13:31:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713846833078 |
-| Players | 1/15 |
-| Host Name | nattyboons |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 13:30:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28583713847237350 |
 | Players | 1/8 |
 | Host Name | [D]iomegod |
@@ -101,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:31:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713847367752 |
-| Players | 1/8 |
-| Host Name | PENETON |
+| Lobby ID | 28583713846833078 |
+| Players | 2/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 13:30:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713847457413 |
+| Players | 1/10 |
+| Host Name | CORRALITO |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 13:32:00 |
+| Lobby Creation Time | Thursday, December 28, 2023 13:32:11 |
 
 
 |  | epic_boss_fight_nightmare |
