@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713863790417 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | JULI PERDONAME |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 14:03:12 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:08:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713867132917 |
-| Players | 2/8 |
-| Host Name | zazzle |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:09:21 |
+| Lobby ID | 28583713867570904 |
+| Players | 4/10 |
+| Host Name | Keeper |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:10:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mweh. |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 14:06:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583713867554221 |
-| Players | 1/5 |
-| Host Name | Vũ Trí Ba Tá Trợ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:10:08 |
 
 
