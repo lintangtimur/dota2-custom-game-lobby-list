@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:19:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713840681838 |
-| Players | 5/8 |
-| Host Name | Kurokawa |
+| Lobby ID | 28583713841555472 |
+| Players | 2/10 |
+| Host Name | [MST]ж♥у♥ж♥а |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 13:19:03 |
+| Lobby Creation Time | Thursday, December 28, 2023 13:20:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713820665493 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | asd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:39:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713839996357 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:17:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713838631152 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | BB |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:15:05 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:20:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713841555472 |
-| Players | 1/10 |
-| Host Name | [MST]ж♥у♥ж♥а |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 13:20:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713839191891 |
-| Players | 8/10 |
-| Host Name | Barry Delight |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:16:10 |
+| Lobby ID | 28583713841638968 |
+| Players | 1/15 |
+| Host Name | nothing but lies |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:20:54 |
 
 
 |  | epic_boss_fight_nightmare |
