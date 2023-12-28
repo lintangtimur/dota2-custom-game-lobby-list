@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713975024082 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | [A]DmiralLight |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:08:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713974801648 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | анатолий крестов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 17:08:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713975280136 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:08:46 |
@@ -58,19 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713975280730 |
-| Players | 5/8 |
-| Host Name | Левин/Правин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 17:08:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713975356064 |
+| Lobby ID | 28583713975486195 |
 | Players | 1/8 |
-| Host Name | MAZOLO |
+| Host Name | best 4 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 17:09:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713975531557 |
+| Players | 4/15 |
+| Host Name | Momento mori |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 17:08:53 |
+| Lobby Creation Time | Thursday, December 28, 2023 17:09:09 |
 
 
