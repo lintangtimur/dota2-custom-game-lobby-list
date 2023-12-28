@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541875551203 |
-| Players | 1/10 |
-| Host Name | IDEALES |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 07:07:28 |
+| Lobby ID | 28576541875874344 |
+| Players | 5/8 |
+| Host Name | Cringe |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 07:08:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28576541875669508 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | lefruto |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 07:07:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541874553279 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | websites |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:05:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541875138059 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | -qwerty |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:06:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541875027864 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Hola |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:06:21 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | cheems |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 07:07:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28576541875896333 |
+| Players | 2/15 |
+| Host Name | mode=giga |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 07:08:10 |
 
 
