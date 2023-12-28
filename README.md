@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714135419693 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | NothingFeelsRight |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, December 28, 2023 20:16:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714139036901 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Геннадий Треев |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:19:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714135968371 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | NOT WOW HOOMANE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:16:56 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 20:19:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714138531287 |
-| Players | 7/8 |
-| Host Name | ВЗАИМНАЯ ПОХВАЛА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:19:19 |
+| Lobby ID | 28583714138065493 |
+| Players | 9/10 |
+| Host Name | Emperor Palestine |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:18:53 |
 
 
 |  | ot3_gardens_duo |
@@ -101,13 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 20:19:33 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583714123287626 |
+| Players | 14/15 |
+| Host Name | SyX |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 20:05:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583714139453210 |
+| Players | 1/24 |
+| Host Name | Fena! |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 20:20:10 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714138065493 |
-| Players | 9/10 |
-| Host Name | Emperor Palestine |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:18:53 |
+| Lobby ID | 28583714139457306 |
+| Players | 4/10 |
+| Host Name | Остеохандроз ануса |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:20:10 |
 
 
 |  | epic_boss_fight_hard |
