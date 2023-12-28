@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713931716252 |
-| Players | 7/10 |
-| Host Name | 僕らの力の違いを見せ |
+| Lobby ID | 28583713931884364 |
+| Players | 6/15 |
+| Host Name | PARLIAMENT |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:00:33 |
+| Lobby Creation Time | Thursday, December 28, 2023 16:00:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713929135931 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | PenoDewey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:56:22 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Play with dog = loss |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:00:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713931884364 |
-| Players | 6/15 |
-| Host Name | PARLIAMENT |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:00:49 |
 
 
 |  | epic_boss_fight_normal |
