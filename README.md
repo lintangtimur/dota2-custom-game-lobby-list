@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713737161760 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | DIKEY |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:49:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Meowington |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713735079651 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Lore~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:45:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713736946048 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Sushi Devourer |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 09:49:18 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713737428413 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | BISCUIT OLIVA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:50:16 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713737427197 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | yasin |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:50:16 |
@@ -113,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713737212813 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Travis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:49:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713737541382 |
+| Players | 4/10 |
+| Host Name | BlueDeimos |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 09:50:29 |
 
 
