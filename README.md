@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714085805769 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:27:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714088675637 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:30:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714088933349 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | FIFOFUKO |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:30:50 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 19:31:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714089210736 |
-| Players | 4/8 |
-| Host Name | БИБЕР |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:31:07 |
+| Lobby ID | 28583714089445921 |
+| Players | 1/15 |
+| Host Name | Jude Bellingham |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 19:31:21 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28583714087849255 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 𒉭wild ocean𒉭 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:29:43 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714088418937 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 再干中单  重拾自信 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:30:18 |
