@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713704544692 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Kaido |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:41:25 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713712317563 |
-| Players | 11/15 |
-| Host Name | . |
+| Lobby ID | 28583713705473309 |
+| Players | 7/15 |
+| Host Name | Sin ella no soy nada:( |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:57:59 |
+| Lobby Creation Time | Thursday, December 28, 2023 08:43:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713711415567 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Langlyaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:56:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713711221007 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Yes Chef! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:55:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713712704078 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Maximus |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:58:48 |
