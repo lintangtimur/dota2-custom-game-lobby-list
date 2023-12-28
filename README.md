@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713850013016 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Afterthought |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:37:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713850146721 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | AlpaguXCIX |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:37:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713849084470 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:35:22 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:32:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713850388837 |
-| Players | 2/15 |
-| Host Name | lo acepto no juego como antes :c |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 13:37:55 |
 
 
 |  | epic_boss_fight_nightmare |
