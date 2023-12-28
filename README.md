@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713810072213 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Cruzado-Style-Papiricas |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:18:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713811303857 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:20:42 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:17:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713811393073 |
-| Players | 14/15 |
-| Host Name | alofoke |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 12:20:53 |
 
 
 |  | ot3_gardens_duo |
