@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713818393058 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Мразота |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:34:50 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713817680773 |
+| Lobby ID | 28583713819422970 |
 | Players | 1/24 |
-| Host Name | Nikitendo ◢ ◤ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 12:33:27 |
+| Host Name | Gatosor |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:36:55 |
 
 
 |  | ot3_desert_octet |
@@ -69,18 +69,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28583713818826594 |
 | Players | 1/15 |
-| Host Name | mQ |
+| Host Name | WinNee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:35:43 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713813842391 |
+| Players | 14/15 |
+| Host Name | non-toxic player |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 12:25:45 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713819422970 |
+| Lobby ID | 28583713819583272 |
 | Players | 1/24 |
-| Host Name | Gatosor |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:36:55 |
+| Host Name | Nikitendo ◢ ◤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 12:37:14 |
 
 
 |  | epic_boss_fight_nightmare |
