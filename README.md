@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713791880656 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Recluse.Jean |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:41:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713744475914 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | DOTA Veteran |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713790289321 |
-| Players | 4/8 |
-| Host Name | tomatospid |
+| Players | 1/8 |
+| Host Name | El Mata Por Gusto |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:38:14 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713792791232 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Yo Toro雨 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:43:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713792838112 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ❄️MIlF HuntΣr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:43:32 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713793276454 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Pussy Destroyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:44:24 |
