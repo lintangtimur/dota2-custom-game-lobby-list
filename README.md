@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713856683705 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Jdc tunes |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:49:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713858325492 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Mischievous Hooligan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:53:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713861150842 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | SKAMER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:58:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713820665493 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | asd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:39:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713860777075 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | emperor |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:57:36 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 13:58:59 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713861683967 |
+| Players | 6/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 13:59:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713857260155 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Sukeru-san |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:51:01 |
