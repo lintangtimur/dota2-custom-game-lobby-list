@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713883859758 |
-| Players | 13/15 |
-| Host Name | Locomobile | The Chimney |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:39:41 |
+| Lobby ID | 28583713884795818 |
+| Players | 6/10 |
+| Host Name | 76561199196836346 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:41:23 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713820665493 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | asd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:39:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713884693468 |
-| Players | 1/24 |
-| Host Name | Tiger |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:41:12 |
+| Lobby ID | 28583713884886267 |
+| Players | 1/10 |
+| Host Name | Балдежный Пердеж |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:41:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:41:14 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713884886267 |
-| Players | 1/10 |
-| Host Name | Балдежный Пердеж |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:41:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713884795818 |
-| Players | 6/10 |
-| Host Name | 76561199196836346 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:41:23 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713884505274 |
@@ -99,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SakalFTW |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:40:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713885229458 |
+| Players | 2/10 |
+| Host Name | Dea |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, December 28, 2023 14:42:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713885230154 |
+| Players | 1/5 |
+| Host Name | zemo |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 28, 2023 14:42:12 |
 
 
