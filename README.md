@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713895193520 |
-| Players | 9/15 |
-| Host Name | Сафронов, поставь |
+| Lobby ID | 28583713895786790 |
+| Players | 1/8 |
+| Host Name | .mxhlxght |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:59:43 |
+| Lobby Creation Time | Thursday, December 28, 2023 15:00:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713888893244 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | O Pai |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 14:48:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713895314153 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 巴尼|Barni |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:59:55 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:56:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713894457684 |
-| Players | 7/8 |
-| Host Name | Axiz |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 14:58:27 |
+| Lobby ID | 28583713895815929 |
+| Players | 7/15 |
+| Host Name | Дымооок |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:00:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713894490225 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | >Ace< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:58:30 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | $VD_7,62x54 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 15:00:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713895691957 |
+| Players | 7/10 |
+| Host Name | ОпсТима |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:00:35 |
 
 
 |  | epic_boss_fight_normal |
