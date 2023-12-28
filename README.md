@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | สำลัก คำสิง |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713744475914 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | DOTA Veteran |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | harcaritios |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713766829613 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | DDDD |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 10:50:27 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713766910203 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Mia Khalifa.Onlyfans✪ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:50:37 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713767855968 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | paat |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:52:32 |
@@ -117,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Saeko-chan ♥twitch.tv/zecarlos |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:52:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713768191631 |
+| Players | 1/24 |
+| Host Name | PORQUERÍA DE EVENTO CONCHESUMARE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:53:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713768208853 |
+| Players | 1/15 |
+| Host Name | YASHA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:53:15 |
 
 
 |  | epic_boss_fight_nightmare |
