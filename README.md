@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:31:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713814285774 |
-| Players | 7/8 |
-| Host Name | COVID 19 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, December 28, 2023 12:26:38 |
+| Lobby ID | 28583713817041433 |
+| Players | 1/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 12:32:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713809527987 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:17:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713816413046 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Виталик Бустер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:30:54 |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713817041433 |
-| Players | 1/24 |
-| Host Name | Gaben Naam Ka Kutta Paalu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 12:32:09 |
+| Lobby ID | 28583713812766104 |
+| Players | 23/24 |
+| Host Name | EL PERRO JUDIO |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 12:23:37 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713814917701 |
-| Players | 6/10 |
-| Host Name | thach dai ca |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 12:27:53 |
+| Lobby ID | 28583713817113769 |
+| Players | 1/24 |
+| Host Name | SoWyer |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:32:18 |
 
 
 |  | epic_boss_fight_nightmare |
