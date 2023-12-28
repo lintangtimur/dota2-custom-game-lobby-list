@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713687058468 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Deus |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 08:03:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713689050881 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Da Butchar |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 08:08:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713688895318 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ЛДД |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:07:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713688425417 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | alexander  yc |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:06:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713689009120 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Liquid.METUMBOATUMAMA ✖_✖ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:08:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713688972393 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Aetheris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:08:06 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:09:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713689441704 |
-| Players | 4/8 |
-| Host Name | mario |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:09:07 |
+| Lobby ID | 28583713689510947 |
+| Players | 1/10 |
+| Host Name | KaTheDirector |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:09:16 |
 
 
 |  | epic_boss_fight_nightmare |
