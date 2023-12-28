@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713776859476 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Mr.Bass |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 11:11:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713776719463 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | zeta male |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 11:10:43 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713772090626 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 11:01:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713774717875 |
-| Players | 7/10 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:06:34 |
+| Lobby ID | 28583713777443863 |
+| Players | 4/15 |
+| Host Name | Come On Larvae Let's Go Party |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 11:12:14 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713776681565 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Teregue |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 11:10:38 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713776509218 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Акула |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 11:10:16 |
@@ -113,45 +113,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 16/24 |
+| Players | 13/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713777269074 |
-| Players | 1/15 |
-| Host Name | Cute_Fedd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:11:52 |
+| Lobby ID | 28583713777694483 |
+| Players | 1/10 |
+| Host Name | Hoo Lee Sheet |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 11:12:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713776370133 |
-| Players | 14/15 |
-| Host Name | Набросок человека |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 11:09:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713777443863 |
-| Players | 4/15 |
-| Host Name | Come On Larvae Let's Go Party |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 11:12:14 |
+| Lobby ID | 28583713777758730 |
+| Players | 1/8 |
+| Host Name | poolq |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, December 28, 2023 11:12:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583713775353693 |
-| Players | 9/10 |
-| Host Name | MERRY XMAS BITCHES |
+| Lobby ID | 28583713777683870 |
+| Players | 2/10 |
+| Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 11:07:52 |
+| Lobby Creation Time | Thursday, December 28, 2023 11:12:44 |
 
 
