@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713827244267 |
-| Players | 3/8 |
-| Host Name | <blank> |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 12:52:35 |
+| Lobby ID | 28583713827076798 |
+| Players | 5/8 |
+| Host Name | Тася Чевхуева |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 12:52:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713825250832 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:48:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713825846740 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | ErvinGabriel {FTF2∫Time-Fire} |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:49:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -49,33 +49,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713825695503 |
-| Players | 12/15 |
-| Host Name | Moonlight |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:49:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713826177627 |
-| Players | 6/24 |
-| Host Name | 青衣 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 12:50:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713825063239 |
-| Players | 8/10 |
-| Host Name | theShano |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 12:48:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28583713826563804 |
 | Players | 1/15 |
 | Host Name | onaforp xessib |
@@ -83,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:51:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713827076798 |
-| Players | 4/8 |
-| Host Name | Тася Чевхуева |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 12:52:15 |
+| Lobby ID | 28583713826177627 |
+| Players | 5/24 |
+| Host Name | 青衣 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 12:50:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713827356665 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | S∀︎Y∀︎N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 12:52:48 |
