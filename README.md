@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713931465963 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | gig |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:00:09 |
@@ -38,37 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:56:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713931422676 |
-| Players | 3/15 |
-| Host Name | Among Us |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, December 28, 2023 16:00:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713931380996 |
-| Players | 2/8 |
-| Host Name | Play with dog = loss |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:00:00 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713931550723 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | terasu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:00:17 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713931380996 |
+| Players | 1/8 |
+| Host Name | Play with dog = loss |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:00:00 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28583713930230719 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Taxi AШOT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:58:09 |
