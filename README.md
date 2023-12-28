@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713693177329 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | izi pipilin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:17:06 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713692638836 |
-| Players | 11/15 |
-| Host Name | The Betrayer |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:15:57 |
+| Lobby ID | 28583713693699473 |
+| Players | 3/15 |
+| Host Name | jack |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:18:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713692420338 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Lorenzo el Gallo (Cuti) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:15:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713693624410 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | miko |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:18:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713693625979 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Scrappy CoCo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:18:03 |
