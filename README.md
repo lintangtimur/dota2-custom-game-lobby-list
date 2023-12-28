@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713698130812 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | キャリーSurprise. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:27:37 |
@@ -76,20 +76,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713698446306 |
-| Players | 12/15 |
-| Host Name | Куст |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:28:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28583713698562179 |
 | Players | 4/15 |
 | Host Name | Porque no estudias "Sin Viejo" ? |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:28:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713698838405 |
+| Players | 3/15 |
+| Host Name | Da Butchar |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:29:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713698833054 |
+| Players | 1/15 |
+| Host Name | Grift |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:29:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713698850124 |
+| Players | 5/8 |
+| Host Name | пивной бочок |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:29:08 |
 
 
 |  | epic_boss_fight_nightmare |
