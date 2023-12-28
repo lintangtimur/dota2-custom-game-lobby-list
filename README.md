@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713681852801 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | DooBop |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:52:54 |
@@ -29,20 +29,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:41:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713705900377 |
-| Players | 14/15 |
-| Host Name | Recep Tayyip Erdoğan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:44:22 |
+| Lobby ID | 28583713706604861 |
+| Players | 2/10 |
+| Host Name | SALAMANDER_KING |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:45:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713706416175 |
-| Players | 2/8 |
-| Host Name | MA ;) Rmzzz |
+| Players | 1/8 |
+| Host Name | Голодный |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:27 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713705473309 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Sin ella no soy nada:( |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:43:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713706364993 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 66565564 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:21 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 161 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:45:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713706591340 |
-| Players | 4/8 |
-| Host Name | giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:45:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713706604861 |
-| Players | 2/10 |
-| Host Name | SALAMANDER_KING |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:45:52 |
 
 
 |  | epic_boss_fight_nightmare |
