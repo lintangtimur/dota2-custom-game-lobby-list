@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713696535132 |
-| Players | 9/10 |
-| Host Name | whos your daddeh  !!! |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:24:13 |
+| Lobby ID | 28583713697548858 |
+| Players | 2/10 |
+| Host Name | K292 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 08:26:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:25:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713696455321 |
-| Players | 23/24 |
-| Host Name | LA BAJEZA ME CONSUME |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:24:03 |
+| Lobby ID | 28583713697712980 |
+| Players | 2/8 |
+| Host Name | who cares |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 08:26:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713697022711 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | ZENDO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:25:15 |
@@ -108,33 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr. Boo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 08:25:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713697548858 |
-| Players | 2/10 |
-| Host Name | K292 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:26:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713697712980 |
-| Players | 2/8 |
-| Host Name | who cares |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:26:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713694588202 |
-| Players | 9/10 |
-| Host Name | BlueDeimos |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 08:20:06 |
 
 
 |  | epic_boss_fight_nightmare |
