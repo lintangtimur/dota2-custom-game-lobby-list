@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714028258871 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:21:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714033649359 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | toxicity=my love language |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:28:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714031675127 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | BORGWARNER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:26:14 |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:28:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714033376543 |
-| Players | 7/8 |
-| Host Name | crow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:28:21 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714033746954 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | JVNKO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:28:49 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28583714029628198 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | 𝓔𝓛_𝓹𝓲𝓼𝔂𝓪 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:23:41 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714033586011 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Scrappy CoCo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:28:36 |
