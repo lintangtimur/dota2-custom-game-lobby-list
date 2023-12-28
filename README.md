@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713842743077 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | 永远不要提前开香槟 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:23:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713843407061 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:24:21 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28583713843356893 |
 | Players | 2/8 |
-| Host Name | Delica |
+| Host Name | Swap commends |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:24:15 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713838631152 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | BB |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:15:05 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ctrl_XaLiBuR |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:24:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713843782275 |
+| Players | 5/8 |
+| Host Name | Mercedes-Benz GLE-класс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 13:25:05 |
 
 
 |  | epic_boss_fight_nightmare |
