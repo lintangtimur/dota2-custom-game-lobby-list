@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713810928523 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | ABC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:19:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713813074646 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Yves Saint Laurent |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:24:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713810072213 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Cruzado-Style-Papiricas |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:18:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713812766104 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | EL PERRO JUDIO |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:23:37 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713813393186 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | Rho AIas외로운 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:24:51 |
@@ -112,19 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713813842391 |
-| Players | 3/15 |
-| Host Name | как дела?zxcursed |
+| Lobby ID | 28583713813990631 |
+| Players | 1/15 |
+| Host Name | nothing but lies |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 12:25:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713811044548 |
-| Players | 9/10 |
-| Host Name | Barry Delight |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 12:20:11 |
+| Lobby Creation Time | Thursday, December 28, 2023 12:26:03 |
 
 
