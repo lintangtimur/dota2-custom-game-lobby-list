@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713916449787 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Con Mèo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 15:35:26 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713917998641 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | BOOM CHAKALAKAA !! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:37:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713918719267 |
-| Players | 14/15 |
-| Host Name | ~Feainnewedd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:39:09 |
+| Lobby ID | 28583713919539527 |
+| Players | 3/10 |
+| Host Name | xA |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 15:40:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:39:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713919316004 |
-| Players | 5/10 |
-| Host Name | Keeper |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:40:09 |
+| Lobby ID | 28583713919445805 |
+| Players | 4/8 |
+| Host Name | Jami |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, December 28, 2023 15:40:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713919470309 |
+| Players | 2/15 |
+| Host Name | Lil Pencil |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:40:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OnlyGOD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:35:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713919531203 |
+| Players | 1/5 |
+| Host Name | аборт трактором |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:40:31 |
 
 
