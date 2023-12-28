@@ -38,19 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713915534262 |
-| Players | 6/8 |
-| Host Name | Ramen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:33:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713915858239 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | kyrales |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:34:27 |
@@ -58,11 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713916673875 |
-| Players | 1/10 |
+| Lobby ID | 28583713916906472 |
+| Players | 3/10 |
+| Host Name | Балдежный Пердеж |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:36:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713916822246 |
+| Players | 1/8 |
 | Host Name | Kenpachi Zaraki |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:35:48 |
+| Lobby Creation Time | Thursday, December 28, 2023 15:36:03 |
 
 
 |  | epic_boss_fight_nightmare |
