@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713758886509 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ZoriKoT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 10:34:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713758831300 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ronal |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:33:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713757387876 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 10:31:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713757358372 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 10:30:58 |
@@ -101,10 +101,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:34:11 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713758986743 |
+| Players | 1/15 |
+| Host Name | ''IFRIT'' |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 10:34:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713752933155 |
+| Players | 23/24 |
+| Host Name | Salival |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 10:21:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713759025504 |
+| Players | 3/8 |
+| Host Name | ЛИЛ ДОЖДЬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 10:34:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713758086319 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 10:32:27 |
