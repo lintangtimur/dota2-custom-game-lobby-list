@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713673801813 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | RON |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:35:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713674055169 |
-| Players | 8/10 |
-| Host Name | V I S |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 07:36:02 |
+| Lobby ID | 28583713674320673 |
+| Players | 4/15 |
+| Host Name | c0nus prime |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 07:36:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,6 +54,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:36:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713674334249 |
+| Players | 2/10 |
+| Host Name | BatMan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 07:36:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713674055169 |
+| Players | 8/10 |
+| Host Name | V I S |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 07:36:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713673960422 |
+| Players | 14/15 |
+| Host Name | SampleRadical |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 07:35:50 |
 
 
 |  | epic_boss_fight_nightmare |
