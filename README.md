@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713879799253 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Jacinto Soto Coronado Vilchez |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 14:32:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713879594978 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | El Inka de Huaycan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 14:32:02 |
@@ -58,24 +58,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713880297457 |
-| Players | 1/8 |
-| Host Name | Пяточный имплант |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:33:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713880296809 |
-| Players | 2/15 |
-| Host Name | ЛЮБЛЮ ТВОЮ МАМУ=) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:33:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28583713880325318 |
 | Players | 1/8 |
 | Host Name | xdxdxd |
@@ -83,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:33:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713880383977 |
-| Players | 1/24 |
-| Host Name | THE•疯HATTER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:33:27 |
+| Lobby ID | 28583713880296809 |
+| Players | 5/15 |
+| Host Name | ЛЮБЛЮ ТВОЮ МАМУ=) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 14:33:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713879939483 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | gore video is the best movie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:32:39 |
