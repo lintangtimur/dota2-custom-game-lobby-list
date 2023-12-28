@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713731425801 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:37:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713732544719 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Witchblade(маленький) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:40:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713731943786 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | baoeq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 09:39:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713732325889 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | [M]iresk[A] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:39:49 |
@@ -103,10 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713732986519 |
+| Lobby ID | 28583713733048319 |
+| Players | 3/15 |
+| Host Name | KILL ME IF U CAN |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 09:41:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713733052906 |
 | Players | 1/15 |
 | Host Name | 💀SKIBIDI  CIENTIFICO💀 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:41:14 |
+| Lobby Creation Time | Thursday, December 28, 2023 09:41:22 |
 
 
