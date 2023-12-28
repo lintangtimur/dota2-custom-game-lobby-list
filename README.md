@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713906625552 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | снюхал весь пакет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:19:04 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713906596540 |
-| Players | 11/15 |
-| Host Name | Ryan O'Reily |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:19:02 |
+| Lobby ID | 28583713907243630 |
+| Players | 1/10 |
+| Host Name | Stronger |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 15:20:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713907042435 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Pokemon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:19:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713907243630 |
-| Players | 1/10 |
-| Host Name | Stronger |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 15:20:06 |
+| Lobby ID | 28583713907691386 |
+| Players | 2/15 |
+| Host Name | 死ぬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:20:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713907718877 |
+| Players | 2/8 |
+| Host Name | Повер Пират |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:20:55 |
 
 
 |  | epic_boss_fight_nightmare |
