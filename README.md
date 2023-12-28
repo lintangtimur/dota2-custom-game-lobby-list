@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541874586324 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Chad Thundercock |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 07:05:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541853542118 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | ;] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 06:22:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541874599180 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | SampleRadical |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:05:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28576541873377427 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | 𝓪𝓲𝓶𝒆𝓻 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:02:52 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28576541874561331 |
-| Players | 5/8 |
-| Host Name | school romance |
+| Lobby ID | 28576541874727471 |
+| Players | 3/8 |
+| Host Name | egoisto |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 07:05:22 |
+| Lobby Creation Time | Thursday, December 28, 2023 07:05:43 |
 
 
 |  | epic_boss_fight_nightmare |
