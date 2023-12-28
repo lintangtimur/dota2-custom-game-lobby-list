@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714074187898 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Tetra |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:15:21 |
@@ -56,28 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 19:13:25 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714074301688 |
-| Players | 7/8 |
-| Host Name | kexeek29 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:15:28 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583714074694273 |
-| Players | 8/10 |
-| Host Name | Nigward |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:15:53 |
+| Lobby ID | 28583714075041498 |
+| Players | 2/10 |
+| Host Name | my enemies make me stronger |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 19:16:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714073796898 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ♛︎ⓈⒾⒼⓂⒶ彡 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:14:55 |
