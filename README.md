@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:39:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713703325602 |
-| Players | 14/15 |
-| Host Name | Atomic |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:38:43 |
+| Lobby ID | 28583713704236321 |
+| Players | 2/10 |
+| Host Name | Joe Biden |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:40:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713702957217 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | VanCleef |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 08:37:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713704219215 |
+| Players | 1/8 |
+| Host Name | Trishtam |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:40:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713704290032 |
+| Players | 4/8 |
+| Host Name | DANYXZYZ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:40:51 |
 
 
 |  | epic_boss_fight_nightmare |
