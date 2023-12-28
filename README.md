@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713940318653 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | ABC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:14:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713942134609 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | gig |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:17:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713941950722 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Damaroo |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:17:05 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | аборт трактором |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:17:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28583713942235731 |
+| Players | 1/10 |
+| Host Name | Mawen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 16:17:33 |
 
 
