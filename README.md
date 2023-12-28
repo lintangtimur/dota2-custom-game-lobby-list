@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713931465963 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | gig |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:00:09 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Play with dog = loss |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:00:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713931550723 |
+| Players | 1/8 |
+| Host Name | terasu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 16:00:17 |
 
 
 |  | epic_boss_fight_normal |
