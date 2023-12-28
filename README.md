@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713995171138 |
-| Players | 2/24 |
-| Host Name | Reinhardt |
+| Players | 3/24 |
+| Host Name | Marcus Face |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:37:39 |
 
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713995395027 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | L9 RayCist Glider |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 17:37:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713995602766 |
-| Players | 4/8 |
-| Host Name | tw.tv/kellerov_ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 17:38:15 |
 
 
 |  | epic_boss_fight_nightmare |
