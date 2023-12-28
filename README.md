@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713911199399 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | E N J O Y |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:26:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713888084466 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ’Mr . Big |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, December 28, 2023 14:47:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713911344340 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | в 24 выйду по удо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 15:27:00 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713911350977 |
-| Players | 14/15 |
-| Host Name | 病んだ想像力 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:27:01 |
+| Lobby ID | 28583713908254164 |
+| Players | 7/8 |
+| Host Name | lokoespartano |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, December 28, 2023 15:21:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713911815622 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 小百合 平野 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:27:48 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713908254164 |
-| Players | 7/8 |
-| Host Name | lokoespartano |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 15:21:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583713907005556 |
-| Players | 1/10 |
-| Host Name | Кофточка |
+| Lobby ID | 28583713912083146 |
+| Players | 1/8 |
+| Host Name | ismail11091984r |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 15:19:42 |
+| Lobby Creation Time | Thursday, December 28, 2023 15:28:15 |
 
 
 |  | epic_boss_fight_hard |
