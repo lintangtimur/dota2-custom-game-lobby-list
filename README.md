@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713833633241 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Fantazia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 13:05:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713763053759 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | gaston |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713833535968 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Afterthought |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:05:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713828996209 |
-| Players | 12/15 |
-| Host Name | JeOS |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:56:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713831492036 |
-| Players | 14/24 |
-| Host Name | Black Raven |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 13:00:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713832828015 |
-| Players | 1/8 |
-| Host Name | [D]iomegod |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 13:03:37 |
 
 
 |  | ot3_gardens_duo |
@@ -99,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ivan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:04:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713831492036 |
+| Players | 16/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, December 28, 2023 13:00:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713832828015 |
+| Players | 3/8 |
+| Host Name | [D]iomegod |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 13:03:37 |
 
 
 |  | epic_boss_fight_nightmare |
