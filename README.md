@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713726126865 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | MA ;) Rmzzz |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:27:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713726235991 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:27:14 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713712842326 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 08:59:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713726569078 |
-| Players | 14/15 |
-| Host Name | Abrahan Seelano |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 09:27:55 |
+| Lobby ID | 28583713727004878 |
+| Players | 6/8 |
+| Host Name | Galletita Enamorada |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 09:28:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713724411690 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | 1212121212 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:23:28 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713726485336 |
-| Players | 4/15 |
-| Host Name | ''IFRIT'' |
+| Players | 3/15 |
+| Host Name | ajdkasn |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:27:45 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713726935239 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | TatTOO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 09:28:41 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 09:28:45 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713727004878 |
-| Players | 6/8 |
-| Host Name | Galletita Enamorada |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:28:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713726296667 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 09:27:21 |
