@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 11:58:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713798648596 |
-| Players | 7/8 |
-| Host Name | isn't like holding to the center |
+| Lobby ID | 28583713802490219 |
+| Players | 3/15 |
+| Host Name | Nemro |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 11:55:12 |
+| Lobby Creation Time | Thursday, December 28, 2023 12:02:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713802157247 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | El MALDITO CREEP |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:02:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713801038584 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | DarkJewelry |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:00:01 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KLL |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 11:59:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713802490219 |
-| Players | 2/15 |
-| Host Name | Nemro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 12:02:56 |
 
 
 |  | epic_boss_fight_nightmare |
