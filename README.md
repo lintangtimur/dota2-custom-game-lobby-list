@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714105298023 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Stengah |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:47:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714121032892 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Bless |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 20:02:55 |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 20:01:17 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714118243710 |
-| Players | 9/10 |
-| Host Name | 600 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 20:00:15 |
+| Lobby ID | 28583714121395597 |
+| Players | 5/15 |
+| Host Name | Шабиль |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:03:16 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28583714120147331 |
+| Players | 1/7 |
+| Host Name | WTF |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 20:02:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | суглинок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:59:18 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28583714120147331 |
-| Players | 1/7 |
-| Host Name | WTF |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 20:02:04 |
 
 
