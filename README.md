@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714103222346 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:45:33 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714109637860 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Mr. Spooky Cookie |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:51:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714109882315 |
+| Players | 2/8 |
+| Host Name | Endsieg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:52:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714110063243 |
+| Players | 2/8 |
+| Host Name | Techno † |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:52:19 |
 
 
 |  | epic_boss_fight_nightmare |
