@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714022054597 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 18:14:04 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:13:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714021906765 |
-| Players | 12/15 |
-| Host Name | popka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:13:52 |
+| Lobby ID | 28583714022902590 |
+| Players | 1/8 |
+| Host Name | adam_security83 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:15:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:14:58 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28583714022316041 |
-| Players | 9/10 |
-| Host Name | swap нигерс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:14:23 |
+| Lobby ID | 28583714022956983 |
+| Players | 1/5 |
+| Host Name | (つ◉益◉)つKEMI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:15:13 |
 
 
