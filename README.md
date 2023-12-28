@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 17:47:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583714054242633 |
-| Players | 7/8 |
-| Host Name | ™<con>™ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:53:09 |
+| Lobby ID | 28583714054427654 |
+| Players | 1/15 |
+| Host Name | ח |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 18:53:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714054695935 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | NOT WOW HOOMANE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:53:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714054897626 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | kfcdog132 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:53:54 |
@@ -68,36 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714054538574 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:53:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714054427654 |
-| Players | 1/15 |
-| Host Name | ח |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 18:53:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714055338113 |
-| Players | 3/8 |
-| Host Name | 水口冂升 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:54:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28583714049792157 |
-| Players | 9/10 |
-| Host Name | ♂ I'm Performance Artist ♂ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:48:01 |
 
 
