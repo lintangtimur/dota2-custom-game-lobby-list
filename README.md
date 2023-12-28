@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714022054597 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 18:14:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714014342169 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:03:56 |
@@ -50,36 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714022902590 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | adam_security83 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:15:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714022771294 |
-| Players | 5/8 |
-| Host Name | 砰！！！ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:14:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583714023254818 |
-| Players | 2/8 |
-| Host Name | Fat Goose |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:15:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714023228914 |
-| Players | 14/15 |
-| Host Name | osas |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 18:15:33 |
 
 
