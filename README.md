@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713744475914 |
-| Players | 1/8 |
-| Host Name | Tháng nghìn đô |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, December 28, 2023 10:04:31 |
+| Lobby ID | 28583713818393950 |
+| Players | 6/10 |
+| Host Name | Afterthought |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:34:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713813842391 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Lindvia| ZaiSe |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 12:25:45 |
@@ -38,42 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 10:42:45 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713817113769 |
-| Players | 23/24 |
-| Host Name | SoWyer |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:32:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713817680773 |
-| Players | 8/24 |
-| Host Name | ManiK |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 12:33:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713817041433 |
-| Players | 6/24 |
-| Host Name | Gaben Naam Ka Kutta Paalu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 12:32:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713817894585 |
-| Players | 6/10 |
-| Host Name | STEW |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:33:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713818393058 |
@@ -83,22 +47,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 12:34:50 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713817680773 |
+| Players | 7/24 |
+| Host Name | ManiK |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 12:33:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583713817041433 |
+| Players | 8/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 12:32:09 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713818393950 |
-| Players | 4/10 |
-| Host Name | Afterthought |
+| Lobby ID | 28583713817894585 |
+| Players | 8/10 |
+| Host Name | STEW |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:34:50 |
+| Lobby Creation Time | Thursday, December 28, 2023 12:33:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713818641711 |
-| Players | 1/15 |
-| Host Name | tiny fiddle |
+| Lobby ID | 28583713818740873 |
+| Players | 4/15 |
+| Host Name | BELLINMIAU |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 12:35:20 |
+| Lobby Creation Time | Thursday, December 28, 2023 12:35:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713818826594 |
+| Players | 1/15 |
+| Host Name | я в шоу  Трумана |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 12:35:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713818871969 |
+| Players | 3/8 |
+| Host Name | MAISONdes |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:35:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:29:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28583713818581496 |
-| Players | 2/5 |
-| Host Name | 20zip |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 12:35:13 |
 
 
