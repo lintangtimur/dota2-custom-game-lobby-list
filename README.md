@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713955741150 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Tiger |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:38:51 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713954665926 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | леша решала |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:37:11 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713955955867 |
-| Players | 1/15 |
-| Host Name | В главном меню |
+| Players | 5/15 |
+| Host Name | N E Y M 1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:39:11 |
 
@@ -32,10 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713953553520 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | boring |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 16:35:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713956400563 |
+| Players | 1/8 |
+| Host Name | Damaroo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 16:39:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -50,18 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28583713955956155 |
-| Players | 2/7 |
-| Host Name | САНЯ_КАДОХИН |
+| Players | 1/7 |
+| Host Name | TOMMYHELLATRIGGER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 16:39:11 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28583713955967759 |
+| Lobby ID | 28583713956471889 |
 | Players | 1/7 |
-| Host Name | [  ] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 16:39:12 |
+| Host Name | zxcasddsa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 16:39:59 |
 
 
