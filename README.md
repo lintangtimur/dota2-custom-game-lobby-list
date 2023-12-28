@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713850842432 |
-| Players | 1/24 |
-| Host Name | Shadow Fiend-zone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 13:38:46 |
+| Lobby ID | 28583713849982955 |
+| Players | 4/10 |
+| Host Name | Константин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 13:37:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713849084470 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 13:35:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713847983309 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Disconnected |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 13:33:13 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zombicus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 13:38:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713849982955 |
-| Players | 3/10 |
-| Host Name | Константин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 13:37:08 |
 
 
 |  | epic_boss_fight_nightmare |
