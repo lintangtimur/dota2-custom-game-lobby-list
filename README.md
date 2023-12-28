@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714072745927 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Furina |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:13:48 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714072117462 |
-| Players | 7/8 |
-| Host Name | per aspera ad astra |
+| Lobby ID | 28583714073109478 |
+| Players | 1/8 |
+| Host Name | 667 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:13:08 |
+| Lobby Creation Time | Thursday, December 28, 2023 19:14:12 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 19:13:06 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583714073031095 |
+| Players | 4/15 |
+| Host Name | SexControl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:14:07 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583714073002594 |
-| Players | 5/8 |
-| Host Name | Daiifery |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 19:14:05 |
+| Lobby ID | 28583714073138079 |
+| Players | 4/8 |
+| Host Name | агент габена |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:14:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714073112955 |
+| Players | 4/8 |
+| Host Name | усы в моче |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 19:14:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714071160618 |
+| Players | 7/8 |
+| Host Name | 美汁汁儿！ |
+| Region | INDIA |
+| Lobby Creation Time | Thursday, December 28, 2023 19:12:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28583714067245763 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Good Night |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 19:07:48 |
