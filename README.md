@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28583713705085224 |
-| Players | 5/15 |
-| Host Name | Турбоёб |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:42:37 |
+| Lobby ID | 28583713705040060 |
+| Players | 14/15 |
+| Host Name | Michiking |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 08:42:31 |
 
 
 |  | ot3_desert_octet |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:40:44 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583713705121951 |
-| Players | 9/10 |
-| Host Name | mortem |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 08:42:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713704544692 |
-| Players | 3/24 |
-| Host Name | Kaido |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 08:41:25 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713704219215 |
@@ -74,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 08:40:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713705040060 |
-| Players | 8/15 |
-| Host Name | Michiking |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:42:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583713705035152 |
-| Players | 1/15 |
-| Host Name | JALQBULL |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 08:42:31 |
+| Lobby ID | 28583713704544692 |
+| Players | 4/24 |
+| Host Name | Kaido |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 08:41:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713703609173 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mweh. |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, December 28, 2023 08:39:20 |
