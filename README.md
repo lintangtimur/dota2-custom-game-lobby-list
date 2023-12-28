@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714115294622 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | bigboiboi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:57:24 |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714113760572 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 19:55:56 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28583714117388200 |
-| Players | 12/15 |
-| Host Name | Moreman_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 19:59:25 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714116739480 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | SleepLess |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 19:58:48 |
