@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714015979719 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ra2th |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:06:05 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583714015522261 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Midas farming club |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:05:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28583714015265103 |
-| Players | 1/10 |
-| Host Name | Геннадий Треев |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 18:05:09 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583714016054616 |
-| Players | 3/15 |
-| Host Name | Fasters |
+| Players | 2/15 |
+| Host Name | The GayLord |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:06:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714016129518 |
+| Players | 1/8 |
+| Host Name | glados #bloodrust |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:06:17 |
 
 
 |  | epic_boss_fight_nightmare |
