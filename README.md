@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714056570868 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Jerry |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:55:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583714058635207 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | exqzme |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 18:58:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583714046724877 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 18:44:25 |
@@ -92,6 +92,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 18:58:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583714059342258 |
+| Players | 2/8 |
+| Host Name | Reckless Nostalgia |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 18:59:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28583714059385087 |
+| Players | 6/24 |
+| Host Name | TheBlindShibaInuSaekssiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:59:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583714056480782 |
+| Players | 13/15 |
+| Host Name | Синь Де Сы |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:55:43 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714057724467 |
@@ -104,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583714057963740 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | lucie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 18:57:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583714059475262 |
+| Players | 1/5 |
+| Host Name | 一克撕Q撕ME |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 18:59:09 |
 
 
