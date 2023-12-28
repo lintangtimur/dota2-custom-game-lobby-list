@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713673801813 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | RON |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:35:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713673234702 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | LOBOAN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:34:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713672742044 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:33:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713673320697 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Modo autista |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:34:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713673869359 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Atomic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, December 28, 2023 07:35:38 |
@@ -68,19 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713673960422 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | SampleRadical |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 07:35:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713674055169 |
+| Players | 7/10 |
+| Host Name | V I S |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 07:36:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28583713674116504 |
+| Players | 2/10 |
+| Host Name | TOUCH ME |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 07:36:10 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713674024923 |
+| Lobby ID | 28583713674125079 |
 | Players | 2/8 |
 | Host Name | Ambatacum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 07:35:58 |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, December 28, 2023 07:36:11 |
 
 
 |  | epic_boss_fight_nightmare |
