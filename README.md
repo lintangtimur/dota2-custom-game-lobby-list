@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713863920186 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 14:03:26 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28583713866153592 |
-| Players | 1/8 |
-| Host Name | Axiz |
+| Players | 2/8 |
+| Host Name | makaka |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 14:07:34 |
 
