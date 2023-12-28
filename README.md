@@ -65,39 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:33:20 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713881508583 |
-| Players | 20/24 |
-| Host Name | Cuh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, December 28, 2023 14:35:28 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713883859758 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, December 28, 2023 14:39:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28583713883590515 |
-| Players | 1/15 |
-| Host Name | shade |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 14:39:11 |
+| Lobby ID | 28583713884526719 |
+| Players | 5/8 |
+| Host Name | YO NAJAT (EL BRAVO) |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 14:40:54 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28583713884369385 |
-| Players | 2/5 |
-| Host Name | Быть добру |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, December 28, 2023 14:40:36 |
+| Lobby ID | 28583713884505274 |
+| Players | 1/10 |
+| Host Name | SakalFTW |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 14:40:51 |
 
 
