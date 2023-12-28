@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713817113769 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | SoWyer |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:32:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28583713817041433 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 12:32:09 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28583713818393950 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Afterthought |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 12:34:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28583713818641711 |
+| Players | 1/15 |
+| Host Name | tiny fiddle |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 12:35:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 12:29:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28583713818581496 |
+| Players | 2/5 |
+| Host Name | 20zip |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 12:35:13 |
 
 
