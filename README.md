@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 14:47:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713913854503 |
-| Players | 14/15 |
-| Host Name | Shankeeto #FreePalestine |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 15:31:11 |
+| Lobby ID | 28583713913744185 |
+| Players | 8/10 |
+| Host Name | Sk4znt |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, December 28, 2023 15:31:00 |
 
 
 |  | ot3_desert_octet |
@@ -56,19 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, December 28, 2023 15:33:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28583713913744185 |
-| Players | 9/10 |
-| Host Name | Sk4znt |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, December 28, 2023 15:31:00 |
+| Lobby ID | 28583713915189192 |
+| Players | 2/24 |
+| Host Name | BANGGGG 大丈夫 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, December 28, 2023 15:33:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713915231829 |
+| Players | 1/8 |
+| Host Name | Право на поплакат |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, December 28, 2023 15:33:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28583713914088047 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | HɅKɅRI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, December 28, 2023 15:31:34 |
