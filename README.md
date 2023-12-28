@@ -50,37 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28583713739561679 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Ren.B |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 09:54:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28583713740154243 |
-| Players | 22/24 |
-| Host Name | KHAEИ |
+| Lobby ID | 28583713741780376 |
+| Players | 2/10 |
+| Host Name | El vago de la Sunat |
 | Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:55:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28583713739170325 |
-| Players | 23/24 |
-| Host Name | SuperChef |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, December 28, 2023 09:53:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28583713740952027 |
-| Players | 4/8 |
-| Host Name | VIH |
-| Region | PERU |
-| Lobby Creation Time | Thursday, December 28, 2023 09:57:24 |
+| Lobby Creation Time | Thursday, December 28, 2023 09:59:05 |
 
 
 |  | ot3_gardens_duo |
@@ -90,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SwedishPagan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, December 28, 2023 09:58:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28583713740952027 |
+| Players | 4/8 |
+| Host Name | VIH |
+| Region | PERU |
+| Lobby Creation Time | Thursday, December 28, 2023 09:57:24 |
 
 
 |  | epic_boss_fight_normal |
