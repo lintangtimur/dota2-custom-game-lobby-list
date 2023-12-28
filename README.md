@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28576541873556728 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | BLACKTOO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:03:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541870823311 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | egoueni |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, December 28, 2023 06:57:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541873264034 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Augustus Waters (OMP) JK |
 | Region | PERU |
 | Lobby Creation Time | Thursday, December 28, 2023 07:02:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28576541872187838 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | PUDGE POS 5 ENJOYER |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, December 28, 2023 07:00:21 |
