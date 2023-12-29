@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584784575143810 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Avena 3 Ursitas |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, December 29, 2023 22:20:54 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584784576787044 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | AFK |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 29, 2023 22:22:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584784576457439 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 29, 2023 22:22:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584784577002994 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 25R4mdall (H) |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 29, 2023 22:22:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584784579339615 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ВиталяБластОФ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 29, 2023 22:24:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584784579489080 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | LVI |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 29, 2023 22:24:44 |
@@ -83,31 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 29, 2023 22:24:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28584784579619467 |
-| Players | 5/8 |
-| Host Name | яйца вкус лаванда |
+| Lobby ID | 28584784578216955 |
+| Players | 9/10 |
+| Host Name | Lumberjack |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 29, 2023 22:24:51 |
+| Lobby Creation Time | Friday, December 29, 2023 22:23:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28584784579640925 |
-| Players | 3/8 |
-| Host Name | Veliki Mag Loki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 29, 2023 22:24:52 |
+| Lobby ID | 28584784568092618 |
+| Players | 21/24 |
+| Host Name | Mirage- |
+| Region | PERU |
+| Lobby Creation Time | Friday, December 29, 2023 22:14:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584784579643598 |
-| Players | 5/8 |
-| Host Name | Трахать? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 29, 2023 22:24:52 |
+| Lobby ID | 28584784579843824 |
+| Players | 1/15 |
+| Host Name |  |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, December 29, 2023 22:25:03 |
 
 
 |  | epic_boss_fight_challenger |
