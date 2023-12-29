@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 29, 2023 22:14:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584784568418748 |
-| Players | 9/10 |
-| Host Name | Hanni- |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, December 29, 2023 22:14:58 |
+| Lobby ID | 28584784568762019 |
+| Players | 1/15 |
+| Host Name | all mute |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 29, 2023 22:15:17 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28584784568142406 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | я упырь? |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 29, 2023 22:14:44 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, December 29, 2023 22:14:47 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28584784567224261 |
-| Players | 9/10 |
-| Host Name | Dolphins are mammals, not fish |
+| Lobby ID | 28584784568694976 |
+| Players | 1/5 |
+| Host Name | Eyelexandreaz |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 29, 2023 22:13:55 |
+| Lobby Creation Time | Friday, December 29, 2023 22:15:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584784567429948 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Portulak |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 29, 2023 22:14:05 |
@@ -126,23 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | forever |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 29, 2023 22:14:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28584784568694976 |
-| Players | 2/5 |
-| Host Name | Eyelexandreaz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 29, 2023 22:15:14 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28584784568740387 |
-| Players | 2/7 |
-| Host Name | ✵CatPudge✵ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 29, 2023 22:15:16 |
 
 
