@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28584784574212383 |
-| Players | 1/15 |
-| Host Name | ЛИЛ ДОЖДЬ |
+| Lobby ID | 28584784574748559 |
+| Players | 4/8 |
+| Host Name | Yamete |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 29, 2023 22:20:05 |
+| Lobby Creation Time | Friday, December 29, 2023 22:20:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28584784565562518 |
-| Players | 22/24 |
-| Host Name | Lard |
+| Lobby ID | 28584784574724099 |
+| Players | 4/10 |
+| Host Name | kidnappededqw |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, December 29, 2023 22:12:29 |
+| Lobby Creation Time | Friday, December 29, 2023 22:20:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584784568092618 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Mirage- |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 29, 2023 22:14:41 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28584784574485449 |
 | Players | 1/8 |
-| Host Name | Munooke |
+| Host Name | Kirill Kolychev |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 29, 2023 22:20:19 |
 
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584784574223859 |
-| Players | 8/15 |
-| Host Name | Levkan-医者 |
+| Players | 11/15 |
+| Host Name | Нет пути |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 29, 2023 22:20:05 |
 
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584784574555605 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | BPLD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 29, 2023 22:20:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28584784574801858 |
+| Players | 1/8 |
+| Host Name | Munooke |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, December 29, 2023 22:20:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ушёл в нирвану и у |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 29, 2023 22:20:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28584784574504533 |
-| Players | 1/10 |
-| Host Name | Hakai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, December 29, 2023 22:20:20 |
 
 
