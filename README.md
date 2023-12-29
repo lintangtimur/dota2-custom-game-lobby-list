@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28584784579339615 |
-| Players | 9/10 |
-| Host Name | ВиталяБластОФ |
+| Lobby ID | 28584784581058683 |
+| Players | 2/10 |
+| Host Name | AdmiralAids Dog and his Aimils |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 29, 2023 22:24:36 |
+| Lobby Creation Time | Friday, December 29, 2023 22:26:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584784577002994 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | 25R4mdall (H) |
 | Region | PERU |
 | Lobby Creation Time | Friday, December 29, 2023 22:22:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584784579876878 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Anwe2k |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 29, 2023 22:25:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28584784580519457 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | lonely^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, December 29, 2023 22:25:38 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584784580815919 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Just One More | POS 13 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, December 29, 2023 22:25:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28584784581058683 |
-| Players | 2/10 |
-| Host Name | AdmiralAids Dog and his Aimils |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, December 29, 2023 22:26:07 |
 
 
 |  | epic_boss_fight_challenger |
@@ -122,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584784580834807 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | JiNong |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, December 29, 2023 22:25:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28584784581069260 |
-| Players | 1/10 |
-| Host Name | The MmR Tourist |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, December 29, 2023 22:26:08 |
 
 
