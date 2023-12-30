@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785416754553 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | 76561199027529133 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:23:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28584785419661615 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | unranked swede tryhard |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:27:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785419689337 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | 地獄 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 17:27:10 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | нет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 17:27:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28584785420311346 |
+| Players | 1/15 |
+| Host Name | kanedarckk .-. |
+| Region | PERU |
+| Lobby Creation Time | Saturday, December 30, 2023 17:27:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28584785420436372 |
+| Players | 1/15 |
+| Host Name | Игрок 6 позиции |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 30, 2023 17:28:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584785417723291 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | ama neden |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:24:41 |
