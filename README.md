@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28584785400060436 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | [野性] 妖妖0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:01:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28584785400175094 |
-| Players | 9/10 |
-| Host Name | -⁧⁧trankvill |
+| Lobby ID | 28584785400718754 |
+| Players | 7/8 |
+| Host Name | КОСТЯ МИРНЫЙ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 17:01:55 |
+| Lobby Creation Time | Saturday, December 30, 2023 17:02:38 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584785400619826 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | nut- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 17:02:30 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 30, 2023 17:01:56 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28584785400718754 |
-| Players | 5/8 |
-| Host Name | КОСТЯ МИРНЫЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 17:02:38 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28584785384465702 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | свиня джакузі |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:57:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28584785401445977 |
+| Players | 1/10 |
+| Host Name | casadh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 30, 2023 17:03:35 |
 
 
