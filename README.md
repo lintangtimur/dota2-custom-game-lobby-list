@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584785364472948 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Darkness |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 30, 2023 16:14:46 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 30, 2023 16:51:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28584785392681718 |
-| Players | 10/15 |
-| Host Name | empty |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:52:08 |
+| Lobby ID | 28584785393517520 |
+| Players | 3/10 |
+| Host Name | glinomes |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 30, 2023 16:53:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785384278795 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:40:58 |
@@ -56,13 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 30, 2023 16:52:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584785393517520 |
-| Players | 1/10 |
-| Host Name | glinomes |
+| Lobby ID | 28584785393618710 |
+| Players | 1/15 |
+| Host Name | Dyno |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 30, 2023 16:53:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28584785393628921 |
+| Players | 2/8 |
+| Host Name | Шапи Касатка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 30, 2023 16:53:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28584785393633788 |
+| Players | 1/8 |
+| Host Name | Say No More |
 | Region | EUROPE |
-| Lobby Creation Time | Saturday, December 30, 2023 16:53:14 |
+| Lobby Creation Time | Saturday, December 30, 2023 16:53:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28584785393660344 |
+| Players | 1/8 |
+| Host Name | .Enotuk.poloskynchik. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 30, 2023 16:53:25 |
 
 
 |  | epic_boss_fight_normal |
