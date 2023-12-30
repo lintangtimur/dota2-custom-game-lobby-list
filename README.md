@@ -31,38 +31,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584785404112129 |
-| Players | 12/15 |
-| Host Name | -ㄥㄩ爪Ĩ几卂 |
+| Lobby ID | 28584785405346848 |
+| Players | 7/15 |
+| Host Name | вова объебос2 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 17:07:03 |
+| Lobby Creation Time | Saturday, December 30, 2023 17:08:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28584785404938259 |
+| Lobby ID | 28584785403140673 |
 | Players | 6/8 |
-| Host Name | удалил доту день 3 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 30, 2023 17:08:07 |
+| Host Name | unranked swede tryhard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 30, 2023 17:05:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28584785405096103 |
-| Players | 1/10 |
-| Host Name | not the | pLoS |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 30, 2023 17:08:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28584785405255200 |
-| Players | 1/8 |
-| Host Name | Swap commends |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, December 30, 2023 17:08:32 |
+| Lobby ID | 28584785405308284 |
+| Players | 9/10 |
+| Host Name | Вова Адидас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 30, 2023 17:08:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584785403637864 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:06:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28584785405527357 |
+| Players | 1/10 |
+| Host Name | Ubivau negrov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 30, 2023 17:08:54 |
 
 
