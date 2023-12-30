@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785411755814 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 17:16:57 |
@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28584785416754553 |
 | Players | 3/24 |
-| Host Name | Amongus(real) |
+| Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:23:27 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785417406219 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | вова объебос2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 17:24:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28584785417227080 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | lkasjdf;laskdf |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:24:03 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 30, 2023 17:24:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28584785418029332 |
+| Players | 1/8 |
+| Host Name | 托比 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 30, 2023 17:25:04 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28584785384465702 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | 教练我想学 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:41:13 |
@@ -104,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584785417723291 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ama neden |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:24:41 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28584785417954446 |
-| Players | 1/5 |
-| Host Name | Akashi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 17:24:58 |
 
 
