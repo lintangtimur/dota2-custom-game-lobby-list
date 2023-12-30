@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 30, 2023 16:55:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584785384278795 |
-| Players | 23/24 |
-| Host Name | Arkky |
+| Lobby ID | 28584785396284532 |
+| Players | 4/15 |
+| Host Name | LudoeD |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:40:58 |
+| Lobby Creation Time | Saturday, December 30, 2023 16:56:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785395245695 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | BTV HINDOT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:55:30 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | отсосал пылесосу |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:56:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28584785396284532 |
-| Players | 3/15 |
-| Host Name | LudoeD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:56:51 |
 
 
 |  | epic_boss_fight_normal |
