@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785402342168 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | jouissance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 17:04:45 |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 30, 2023 16:55:00 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28584785407480419 |
+| Players | 1/24 |
+| Host Name | KomtingKons |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, December 30, 2023 17:11:26 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584785406374342 |
-| Players | 14/15 |
-| Host Name | positive mental attidute only |
+| Lobby ID | 28584785407504053 |
+| Players | 4/15 |
+| Host Name | skyscrapers |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 17:10:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28584785406967910 |
-| Players | 8/10 |
-| Host Name | poldya8 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 17:10:46 |
+| Lobby Creation Time | Saturday, December 30, 2023 17:11:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AlexKendrick |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:10:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28584785407142862 |
-| Players | 1/8 |
-| Host Name | oleg1vsworld |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, December 30, 2023 17:11:00 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ubivau negrov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 17:09:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28584785407502327 |
+| Players | 3/10 |
+| Host Name | No Hesi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 30, 2023 17:11:28 |
 
 
