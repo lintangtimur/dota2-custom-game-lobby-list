@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28584785399857907 |
-| Players | 6/8 |
-| Host Name | Шалушай |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 17:01:31 |
+| Lobby ID | 28584785400175429 |
+| Players | 1/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | INDIA |
+| Lobby Creation Time | Saturday, December 30, 2023 17:01:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785400013272 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | envia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 17:01:43 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 30, 2023 17:01:55 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28584785400175429 |
-| Players | 1/24 |
-| Host Name | Gaben Naam Ka Kutta Paalu |
-| Region | INDIA |
-| Lobby Creation Time | Saturday, December 30, 2023 17:01:55 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28584785384465702 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584785395976607 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Kendrick |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 30, 2023 16:56:27 |
