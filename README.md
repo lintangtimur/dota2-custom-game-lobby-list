@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785384278795 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:40:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28584785387086104 |
-| Players | 20/24 |
-| Host Name | ⍨  S O F T  ⍨ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 30, 2023 16:44:40 |
+| Lobby ID | 28584785388723407 |
+| Players | 1/8 |
+| Host Name | 75AM |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 30, 2023 16:46:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584785388354887 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | DoomDED |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:46:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785388359937 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Али ибн Гофрен |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:46:23 |
@@ -71,15 +71,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/15 |
 | Host Name | 出棋不意必自闭 |
 | Region | JAPAN |
-| Lobby Creation Time | Saturday, December 30, 2023 16:46:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28584785388500916 |
-| Players | 1/8 |
-| Host Name | лучший друг |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:46:34 |
 
 
@@ -104,25 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584785387024096 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Wkap |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:44:35 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28584785388480144 |
-| Players | 1/7 |
-| Host Name | Werner Das Wachsame Wiesel |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 30, 2023 16:46:33 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584785388520686 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:46:36 |
