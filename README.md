@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28584785388723407 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 75AM |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:46:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584785388354887 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | DoomDED |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:46:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785388500086 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | 出棋不意必自闭 |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 30, 2023 16:46:34 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785388949004 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ловкий Гуанабана |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:47:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28584785388978568 |
+| Players | 5/8 |
+| Host Name | qwre |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 30, 2023 16:47:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28584785388962942 |
+| Players | 2/24 |
+| Host Name | Pause Malone! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 30, 2023 16:47:13 |
 
 
 |  | epic_boss_fight_normal |
