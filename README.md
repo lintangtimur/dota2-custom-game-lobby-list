@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584785384596794 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | PC_PS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:41:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785384048816 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:40:39 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785384581748 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | 口內射精 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:41:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28584785384688701 |
+| Players | 2/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 30, 2023 16:41:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28584785384788901 |
+| Players | 1/15 |
+| Host Name | babyJesus- |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, December 30, 2023 16:41:38 |
 
 
 |  | epic_boss_fight_nightmare |
