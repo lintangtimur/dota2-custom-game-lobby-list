@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785390727137 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Cringe Rover |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:49:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28584785391785042 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Axiz |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 30, 2023 16:50:58 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785391891063 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | puhveli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:51:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28584785392047485 |
+| Players | 1/8 |
+| Host Name | самый грустный. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 30, 2023 16:51:19 |
 
 
 |  | epic_boss_fight_nightmare |
