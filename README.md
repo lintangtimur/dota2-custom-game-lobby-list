@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584785364472948 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Darkness |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 30, 2023 16:14:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28584785371253582 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:23:44 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584785382977009 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Muichiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 30, 2023 16:39:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584785384596794 |
-| Players | 9/10 |
-| Host Name | PC_PS |
+| Lobby ID | 28584785383762489 |
+| Players | 14/15 |
+| Host Name | 🟥🟧🟨🟩🟦🟪 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:41:23 |
+| Lobby Creation Time | Saturday, December 30, 2023 16:40:16 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785385629794 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | A1ZEN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:42:45 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584785385622051 |
+| Lobby ID | 28584785386040892 |
 | Players | 1/15 |
-| Host Name | СyberVlastelin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:42:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28584785383762489 |
-| Players | 13/15 |
-| Host Name | 🟥🟧🟨🟩🟦🟪 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:40:16 |
+| Host Name | 一根葱 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 30, 2023 16:43:18 |
 
 
 |  | epic_boss_fight_nightmare |
