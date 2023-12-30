@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 30, 2023 16:23:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28584785323983774 |
-| Players | 18/24 |
-| Host Name | Arkky |
+| Lobby ID | 28584785380058837 |
+| Players | 2/10 |
+| Host Name | V II |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 15:21:08 |
+| Lobby Creation Time | Saturday, December 30, 2023 16:35:22 |
 
 
 |  | ot3_desert_octet |
@@ -56,82 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 30, 2023 16:14:46 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28584785379010212 |
-| Players | 9/10 |
-| Host Name | 76561198138890862 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 30, 2023 16:33:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28584785379479504 |
-| Players | 1/8 |
-| Host Name | jizn za nerzula |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 30, 2023 16:34:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28584785379465857 |
-| Players | 7/8 |
-| Host Name | Мне похуй |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:34:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785379770964 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Тащер в макасах |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:34:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28584785377553486 |
-| Players | 8/10 |
-| Host Name | kitaec |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:32:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28584785380058837 |
-| Players | 2/10 |
-| Host Name | V II |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:35:22 |
+| Lobby ID | 28584785379479504 |
+| Players | 4/8 |
+| Host Name | jizn za nerzula |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 30, 2023 16:34:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584785377654244 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Lukas🇺🇦 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:32:10 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28584785376824974 |
-| Players | 1/5 |
-| Host Name | КВАС СЕКС ЕСКОРТ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 30, 2023 16:31:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584785377556648 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Han |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:32:03 |
