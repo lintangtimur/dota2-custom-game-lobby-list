@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785394865366 |
-| Players | 19/24 |
-| Host Name | WoodyPlant |
+| Players | 21/24 |
+| Host Name | Cow Tow |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 30, 2023 16:55:00 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785409464598 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 我柜子动了 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:14:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28584785410701458 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | SUKUNA |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 30, 2023 17:15:34 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584785411119858 |
-| Players | 1/15 |
-| Host Name | Faint snow |
+| Lobby ID | 28584785411236534 |
+| Players | 4/15 |
+| Host Name | metro boomin make it boom |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 17:16:07 |
+| Lobby Creation Time | Saturday, December 30, 2023 17:16:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584785409143525 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | BMNK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 17:13:35 |
