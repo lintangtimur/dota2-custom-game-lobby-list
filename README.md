@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 30, 2023 17:04:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28584785392430887 |
-| Players | 1/8 |
-| Host Name | deceived the world and himself |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:51:49 |
+| Lobby ID | 28584785402300677 |
+| Players | 5/10 |
+| Host Name | merzny |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 30, 2023 17:04:41 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785400180439 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Hungry FOR Sassana PUSS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:01:56 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 30, 2023 17:04:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28584785402300677 |
-| Players | 5/10 |
-| Host Name | merzny |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 30, 2023 17:04:41 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28584785384465702 |
@@ -95,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584785401445977 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | casadh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:03:35 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28584785402205810 |
-| Players | 1/5 |
-| Host Name | НОвичёк на стиле |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 17:04:34 |
 
 
