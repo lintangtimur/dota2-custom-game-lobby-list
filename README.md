@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28584785405819294 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:09:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785402342168 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | jouissance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 17:04:45 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785407581510 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | KomtingKons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:11:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28584785407568836 |
-| Players | 7/10 |
-| Host Name | STAS TOXIC UGOL` |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 30, 2023 17:11:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28584785408394046 |
-| Players | 3/15 |
-| Host Name | ячмо |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 30, 2023 17:12:38 |
 
 
 |  | ot3_gardens_duo |
@@ -85,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584785405763483 |
-| Players | 14/15 |
-| Host Name | еблык 52 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 17:09:12 |
+| Lobby ID | 28584785408394046 |
+| Players | 4/15 |
+| Host Name | ячмо |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 30, 2023 17:12:38 |
 
 
 |  | epic_boss_fight_normal |
