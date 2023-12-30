@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28584785400619826 |
-| Players | 9/10 |
-| Host Name | nut- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 17:02:30 |
+| Lobby ID | 28584785402017315 |
+| Players | 2/8 |
+| Host Name | [野性] 妖妖0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, December 30, 2023 17:04:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785401672807 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | H A R A L D |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:03:53 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, December 30, 2023 17:04:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584785402017315 |
-| Players | 2/8 |
-| Host Name | [野性] 妖妖0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 30, 2023 17:04:19 |
+| Lobby ID | 28584785402246546 |
+| Players | 2/15 |
+| Host Name | 大妖精 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Saturday, December 30, 2023 17:04:37 |
 
 
 |  | epic_boss_fight_normal |
@@ -103,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28584785402152780 |
-| Players | 2/5 |
-| Host Name | EMPRISONNE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, December 30, 2023 17:04:30 |
+| Lobby ID | 28584785402205810 |
+| Players | 1/5 |
+| Host Name | НОвичёк на стиле |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 30, 2023 17:04:34 |
 
 
