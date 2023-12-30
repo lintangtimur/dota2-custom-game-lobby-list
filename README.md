@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785397156730 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | AAAAAAAAAAAAAAAAA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:58:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584785396889184 |
-| Players | 6/8 |
-| Host Name | Forgotten |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:57:39 |
+| Lobby ID | 28584785397986085 |
+| Players | 4/15 |
+| Host Name | Хаги Ваги |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 30, 2023 16:59:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584785397571497 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | marked as actor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:58:33 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Геннадий Треев |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:58:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28584785397986085 |
-| Players | 1/15 |
-| Host Name | Хаги Ваги |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 30, 2023 16:59:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -87,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28584785395976607 |
 | Players | 5/10 |
-| Host Name | Eddie.Lin |
+| Host Name | Kendrick |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, December 30, 2023 16:56:27 |
 
