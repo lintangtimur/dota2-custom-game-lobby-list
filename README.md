@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584785364472948 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Darkness |
 | Region | PERU |
 | Lobby Creation Time | Saturday, December 30, 2023 16:14:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584785391355595 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | лошара133000800вольт500маликпбщх |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:50:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785384278795 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:40:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785390976156 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ℍ𝕒𝕡𝕡𝕪 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:49:55 |
@@ -67,35 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28584785388978568 |
-| Players | 4/8 |
-| Host Name | qwre |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:47:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28584785391709406 |
-| Players | 2/15 |
-| Host Name | +left |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:50:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28584785391716304 |
-| Players | 4/15 |
-| Host Name | Neil Bright |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, December 30, 2023 16:50:53 |
+| Lobby ID | 28584785391785042 |
+| Players | 3/8 |
+| Host Name | Axiz |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 30, 2023 16:50:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28584785388520686 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:46:36 |
