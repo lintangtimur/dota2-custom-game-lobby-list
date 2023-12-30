@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785384278795 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:40:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28584785388723407 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 75AM |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:46:53 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584785388359937 |
-| Players | 12/15 |
-| Host Name | Али ибн Гофрен |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, December 30, 2023 16:46:23 |
+| Lobby ID | 28584785388500086 |
+| Players | 2/15 |
+| Host Name | 出棋不意必自闭 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, December 30, 2023 16:46:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28584785388500086 |
+| Lobby ID | 28584785388949004 |
 | Players | 1/15 |
-| Host Name | 出棋不意必自闭 |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, December 30, 2023 16:46:34 |
+| Host Name | ловкий Гуанабана |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 30, 2023 16:47:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 教练我想学 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:41:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28584785387024096 |
-| Players | 9/10 |
-| Host Name | Wkap |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 30, 2023 16:44:35 |
 
 
 |  | epic_boss_fight_nightmare |
