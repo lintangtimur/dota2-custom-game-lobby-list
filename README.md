@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785418313111 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Evil Spirit |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, December 30, 2023 17:25:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584785418454717 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ADHD boyyy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 17:25:36 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28584785417227080 |
-| Players | 6/8 |
-| Host Name | lkasjdf;laskdf |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, December 30, 2023 17:24:03 |
+| Lobby ID | 28584785418787638 |
+| Players | 1/8 |
+| Host Name | Владелец |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, December 30, 2023 17:26:02 |
 
 
 |  | epic_boss_fight_normal |
