@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785394865366 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | WoodyPlant |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 30, 2023 16:55:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785384278795 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:40:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28584785392926477 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, December 30, 2023 16:52:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28584785394707286 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | DARWI |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, December 30, 2023 16:54:48 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28584785394810494 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Zzyz'a |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, December 30, 2023 16:54:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28584785394942818 |
+| Players | 2/8 |
+| Host Name | ColdCola |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 30, 2023 16:55:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28584785394958974 |
+| Players | 1/8 |
+| Host Name | KONSKAIZALYPA/Kapibarа |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, December 30, 2023 16:55:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28584785395072110 |
+| Players | 2/24 |
+| Host Name | Leonidas |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, December 30, 2023 16:55:16 |
 
 
 |  | epic_boss_fight_normal |
