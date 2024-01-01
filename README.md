@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242781989609 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Robert Lewangoalski |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:21:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242783269020 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Goodmorning |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 1, 2024 23:22:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242781405375 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | no jodas toy asao |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:21:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242779942653 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:19:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242780725141 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Nuterez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:20:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242783326667 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Albus Dumbledore |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:22:59 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242782440653 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | очко мам |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:22:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242783661323 |
+| Players | 3/8 |
+| Host Name | Роман Валерьевич |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:23:20 |
 
 
 |  | epic_boss_fight_nightmare |
