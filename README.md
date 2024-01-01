@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549760802409 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:02:06 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | The not to be named one |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549765601580 |
-| Players | 13/15 |
-| Host Name | azsumdovolniq |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:07:47 |
+| Lobby ID | 28590549766258401 |
+| Players | 2/24 |
+| Host Name | Sopita |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:08:34 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549765152707 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | .apathethic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:07:15 |
@@ -83,46 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:07:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549766031154 |
-| Players | 1/8 |
-| Host Name | Gringo karl |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:08:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549765679484 |
-| Players | 7/8 |
-| Host Name | Lautreamont |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:07:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549765461783 |
-| Players | 14/15 |
-| Host Name | Duro de cobrar |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:07:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549766258401 |
-| Players | 1/24 |
-| Host Name | Sopita |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:08:34 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549766263913 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ХозяинТвоейМечты |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:08:34 |
@@ -131,25 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549766299628 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | UB1CA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:08:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549766321451 |
-| Players | 1/10 |
-| Host Name | 中年手残 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:08:38 |
+| Lobby ID | 28590549766406366 |
+| Players | 1/8 |
+| Host Name | все пиздец |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:08:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549754100515 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | | R@PT()R | ^_^ | |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:54:10 |
@@ -158,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549765900851 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | atsubasu.fx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:08:08 |
@@ -167,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549766284716 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Chilly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:08:36 |
