@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242554380139 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | ХУЛИо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:52:59 |
@@ -23,45 +23,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242549917608 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | frin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:48:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242553796417 |
-| Players | 9/10 |
-| Host Name | MeTTaxa |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:52:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242552924072 |
-| Players | 14/24 |
-| Host Name | 中年手残 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:51:35 |
+| Lobby ID | 28589242555290554 |
+| Players | 3/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:53:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242554346406 |
-| Players | 5/8 |
-| Host Name | 死 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:52:57 |
+| Lobby ID | 28589242554880560 |
+| Players | 3/8 |
+| Host Name | Peon Redfield |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 1, 2024 19:53:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242551330250 |
-| Players | 8/10 |
-| Host Name | ID : 氷 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:50:05 |
+| Lobby ID | 28589242554848675 |
+| Players | 5/10 |
+| Host Name | RksmeN^++ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:53:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242555317542 |
+| Players | 1/5 |
+| Host Name | Rick |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:53:53 |
 
 
