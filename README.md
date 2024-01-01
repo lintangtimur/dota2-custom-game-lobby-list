@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549605158446 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | shu |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:10:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242837716387 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | [L] |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:18:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549607395755 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | !SSensation |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:12:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549607377094 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Siuuuuu !!! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:12:37 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:12:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549607833662 |
-| Players | 12/15 |
-| Host Name | печенька |
+| Lobby ID | 28590549608020404 |
+| Players | 3/8 |
+| Host Name | depressed igrushka otchima |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:13:07 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:13:19 |
 
 
 |  | ot3_desert_octet |
@@ -119,21 +119,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:13:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549608020404 |
-| Players | 3/8 |
-| Host Name | depressed igrushka otchima |
+| Lobby ID | 28590549608176749 |
+| Players | 1/15 |
+| Host Name | melker22 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:13:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549608171113 |
+| Players | 3/15 |
+| Host Name | N1ck |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:13:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549608231953 |
+| Players | 1/15 |
+| Host Name | Prince of Pensia |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:13:19 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:13:32 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549607716282 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | >!! fight me !!< |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:12:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549608253461 |
+| Players | 1/5 |
+| Host Name | бешенный уебан |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:13:33 |
 
 
