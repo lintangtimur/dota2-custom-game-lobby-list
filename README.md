@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242422074462 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:25:37 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 17:30:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242425879510 |
-| Players | 6/8 |
-| Host Name | wmex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:30:44 |
+| Lobby ID | 28589242426602196 |
+| Players | 1/24 |
+| Host Name | YouKnowMyName |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 17:31:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242425900201 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | BAAS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:30:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242426170547 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Money? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:31:07 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242425651685 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | KIWI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:30:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242426186665 |
-| Players | 1/10 |
-| Host Name | bruh |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 1, 2024 17:31:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | qiellaeveily |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 17:31:14 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28589242426475339 |
-| Players | 1/7 |
-| Host Name | II |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 17:31:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242426530592 |
-| Players | 1/5 |
-| Host Name | Butterfly |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 17:31:36 |
 
 
