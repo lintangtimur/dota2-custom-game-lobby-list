@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242486724389 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:44:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242482930062 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | фанат скайзи |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:40:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242486604427 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Ты лох,вот и плох |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:44:34 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242486985328 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ДілоБулоНеВБабіні |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:45:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242487175201 |
+| Players | 1/8 |
+| Host Name | NIKO NIKO NI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:45:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242484205946 |
+| Players | 23/24 |
+| Host Name | Lulalelilo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:41:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hyper- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:41:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242487070916 |
-| Players | 1/5 |
-| Host Name | 卡利亚里 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, January 1, 2024 18:45:06 |
 
 
