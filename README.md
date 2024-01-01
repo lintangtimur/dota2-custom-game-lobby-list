@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242521123872 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Ergo Igamogre |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:20:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242521468534 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Son of Sanguinius |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:21:03 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242521480173 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Genryūsai Shigekuni Yamamoto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:21:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242521473620 |
-| Players | 1/15 |
-| Host Name | Zhiltoid |
+| Lobby ID | 28589242521829122 |
+| Players | 1/8 |
+| Host Name | 死 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:21:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242520965580 |
-| Players | 14/15 |
-| Host Name | STRANGER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:20:32 |
+| Lobby Creation Time | Monday, January 1, 2024 19:21:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242519010530 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 谜兔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:18:36 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242521608672 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | ONYX |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:21:11 |
