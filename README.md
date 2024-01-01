@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242458647391 |
-| Players | 4/10 |
-| Host Name | solo_feed ^^ RU |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:12:25 |
+| Lobby ID | 28589242458955432 |
+| Players | 2/8 |
+| Host Name | crazymom93 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:12:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242458107858 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | eva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242458955432 |
-| Players | 1/8 |
-| Host Name | crazymom93 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:12:47 |
 
 
 |  | epic_boss_fight_normal |
@@ -101,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:11:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242457496947 |
-| Players | 8/10 |
-| Host Name | Fafara |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:11:02 |
+| Lobby ID | 28589242459099303 |
+| Players | 1/5 |
+| Host Name | Ve!ian forever⁜※ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:12:57 |
 
 
