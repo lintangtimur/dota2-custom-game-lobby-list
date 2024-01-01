@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242442905595 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Nah, i'd win |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:52:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242442223201 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Shrimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:51:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242442610738 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Strelok228 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:52:30 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Meh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:53:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242443111819 |
-| Players | 1/10 |
-| Host Name | 배주현 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 17:53:10 |
 
 
