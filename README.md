@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242793872879 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Elerne |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:33:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242798812275 |
-| Players | 3/8 |
-| Host Name | Friz? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 23:38:32 |
+| Lobby ID | 28589242798872766 |
+| Players | 1/10 |
+| Host Name | S |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 1, 2024 23:38:36 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242794685836 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | TorontoLadprao |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:34:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242798383327 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | кишкапор |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 1, 2024 23:38:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242798470669 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Masturbeast |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:38:12 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242798777065 |
+| Lobby ID | 28589242798989791 |
 | Players | 1/8 |
 | Host Name | やの𝘟りび やの𝘟り |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:38:30 |
+| Lobby Creation Time | Monday, January 1, 2024 23:38:43 |
 
 
 |  | epic_boss_fight_normal |
