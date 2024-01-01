@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242471521612 |
-| Players | 13/15 |
-| Host Name | ZeYork |
+| Lobby ID | 28589242472224445 |
+| Players | 2/15 |
+| Host Name | spirit |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:27:37 |
+| Lobby Creation Time | Monday, January 1, 2024 18:28:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242472205811 |
+| Players | 3/8 |
+| Host Name | САНЯ УНИЧТОЖИТЕЛ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:28:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kongandeu |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 1, 2024 18:28:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242472301342 |
+| Players | 1/10 |
+| Host Name | nsk_0220 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:28:31 |
 
 
