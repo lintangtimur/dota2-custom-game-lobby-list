@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242802077391 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Почему я? run |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:41:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242801759639 |
-| Players | 1/15 |
-| Host Name | Agent Orange |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 23:41:32 |
+| Lobby ID | 28589242799048833 |
+| Players | 23/24 |
+| Host Name | Modo chill |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 23:38:47 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242801592189 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | omnislash in Kiev |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:41:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242801943668 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Я тень |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:41:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242801345848 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Evol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:41:06 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:39:46 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242802160494 |
+| Players | 6/15 |
+| Host Name | Молодой дурачье |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:41:57 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242801287908 |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Andreas Maler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:41:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242802195330 |
+| Players | 1/10 |
+| Host Name | Kurimawski |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 23:41:59 |
 
 
