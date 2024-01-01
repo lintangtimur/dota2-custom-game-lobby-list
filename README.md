@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 20:22:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242739836260 |
-| Players | 14/15 |
-| Host Name | LEO |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 1, 2024 22:40:20 |
+| Lobby ID | 28589242757480350 |
+| Players | 1/8 |
+| Host Name | metori |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:57:35 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:56:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242757157726 |
-| Players | 10/15 |
-| Host Name | limit.ww |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:57:16 |
+| Lobby ID | 28589242754671068 |
+| Players | 3/8 |
+| Host Name | 小倉朝日 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 1, 2024 22:54:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242757310076 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | qweshmel |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 22:57:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242755517162 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Cloud |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:55:39 |
@@ -77,19 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242757424041 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Like |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:57:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242754671068 |
-| Players | 3/8 |
-| Host Name | 小倉朝日 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 1, 2024 22:54:50 |
+| Lobby ID | 28589242757565232 |
+| Players | 1/24 |
+| Host Name | JHON |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 22:57:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242757608844 |
+| Players | 1/15 |
+| Host Name | mamania |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:57:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242757634832 |
+| Players | 1/15 |
+| Host Name | adeptus mechanicus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:57:44 |
 
 
 |  | epic_boss_fight_normal |
