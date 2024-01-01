@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | The not to be named one |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549762624596 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Me van a matar causa PIPIPI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549762717359 |
-| Players | 10/15 |
-| Host Name | Tranquility |
+| Lobby ID | 28590549763257298 |
+| Players | 4/8 |
+| Host Name | шб в канаву |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:04:22 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:05:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549762901292 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 27[AZOV] |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:35 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549762934676 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Mr.kakashkin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549762942863 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | bottle |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:38 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549763096999 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | denitrox |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549763168398 |
+| Players | 1/24 |
+| Host Name | Kael |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:04:54 |
 
 
 |  | epic_boss_fight_nightmare |
