@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242544092091 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | xddd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:43:16 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242546582059 |
-| Players | 12/15 |
-| Host Name | доминик дэ коко |
+| Lobby ID | 28589242547374254 |
+| Players | 6/15 |
+| Host Name | beardrinker |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:45:39 |
+| Lobby Creation Time | Monday, January 1, 2024 19:46:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242541626234 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | kZe.idontgiveafuck!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:40:54 |
@@ -47,22 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:45:22 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242546971670 |
+| Players | 6/10 |
+| Host Name | PoP MaXiS |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 1, 2024 19:46:01 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242545186208 |
-| Players | 6/8 |
-| Host Name | Mike Wardovsky |
+| Lobby ID | 28589242547634520 |
+| Players | 3/8 |
+| Host Name | ਜ਼ਡੋਹ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:44:19 |
+| Lobby Creation Time | Monday, January 1, 2024 19:46:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242546971670 |
-| Players | 5/10 |
-| Host Name | PoP MaXiS |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 1, 2024 19:46:01 |
+| Lobby ID | 28589242547692736 |
+| Players | 4/10 |
+| Host Name | Gays_Tapo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:46:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242547849398 |
+| Players | 2/10 |
+| Host Name | denouement of eternity |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:46:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242546036716 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ♪ Ragrats-. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:45:08 |
