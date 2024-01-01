@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242452315549 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Radical Highway |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:04:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242452448986 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ABOBA BOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:04:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242451833921 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:04:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242451685021 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | -ㄥㄩ爪Ĩ几卂 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:03:53 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | crestfallen |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:59:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242452887528 |
+| Players | 1/10 |
+| Host Name | Zero Two |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:05:23 |
 
 
