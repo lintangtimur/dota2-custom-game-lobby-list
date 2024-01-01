@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242672311289 |
-| Players | 6/8 |
-| Host Name | Lenin |
+| Players | 4/8 |
+| Host Name | SosiskaKiller228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:37:51 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242668638697 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Leo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:34:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242664560959 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ARCHER |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 1, 2024 21:31:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242674275100 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | 超ヤベー! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:39:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242652121134 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Grey |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:20:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242672240485 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | guruguru |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:37:47 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ʍɛօաʍɛօա♡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:38:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242674707198 |
+| Players | 2/10 |
+| Host Name | Веталь Пума |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 21:39:57 |
 
 
 |  | epic_boss_fight_normal |
