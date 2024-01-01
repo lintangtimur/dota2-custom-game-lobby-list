@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549768948546 |
-| Players | 23/24 |
-| Host Name | ファドゥカ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:11:46 |
+| Lobby ID | 28590549765109901 |
+| Players | 2/8 |
+| Host Name | INBossik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:07:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549770710821 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | REM |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:13:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -56,67 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:08:54 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549769890919 |
-| Players | 8/10 |
-| Host Name | Chippi Chippi Chappa Chappa |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:12:54 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549765109901 |
-| Players | 2/8 |
-| Host Name | INBossik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:07:11 |
+| Lobby ID | 28590549771596107 |
+| Players | 5/8 |
+| Host Name | ◥◣F . E . A . R ◢◤ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:14:56 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549769993524 |
-| Players | 2/10 |
-| Host Name | SleepLess |
+| Lobby ID | 28590549771598875 |
+| Players | 4/10 |
+| Host Name | eewqqwewq |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:13:01 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:14:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549770633551 |
-| Players | 13/15 |
-| Host Name | Majkoo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:13:46 |
+| Lobby ID | 28590549771497961 |
+| Players | 1/10 |
+| Host Name | Biborten! |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:14:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549770868753 |
-| Players | 2/8 |
-| Host Name | Estudia sonso |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:14:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549770985045 |
-| Players | 3/15 |
-| Host Name | Touji Fushiguro |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:14:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549771017585 |
-| Players | 3/8 |
-| Host Name | Bapef |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:14:14 |
+| Lobby ID | 28590549771589518 |
+| Players | 5/8 |
+| Host Name | Ted |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:14:56 |
 
 
 |  | epic_boss_fight_normal |
@@ -130,10 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549769125318 |
-| Players | 8/10 |
-| Host Name | ♂ I'm Performance Artist ♂ |
+| Lobby ID | 28590549771537524 |
+| Players | 1/10 |
+| Host Name | difteriya |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:11:59 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:14:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549771536606 |
+| Players | 1/10 |
+| Host Name | SakalFTW |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:14:52 |
 
 
