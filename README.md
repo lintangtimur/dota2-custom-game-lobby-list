@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242665999706 |
-| Players | 7/8 |
-| Host Name | ВОЛГА 149.200 |
+| Lobby ID | 28589242666150728 |
+| Players | 3/8 |
+| Host Name | swap commends |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:32:17 |
+| Lobby Creation Time | Monday, January 1, 2024 21:32:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242660226166 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:27:16 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:32:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242666150728 |
-| Players | 3/8 |
-| Host Name | swap commends |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:32:26 |
+| Lobby ID | 28589242666266781 |
+| Players | 2/15 |
+| Host Name | langir |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:32:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242661918005 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Puta Madre |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:28:44 |
@@ -135,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tommy Shelby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:32:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242666331378 |
+| Players | 1/5 |
+| Host Name | MAQA7X |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 21:32:35 |
 
 
