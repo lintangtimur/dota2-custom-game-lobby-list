@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242474004992 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | anki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:30:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242474125683 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Chino Moreno |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:30:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242473938102 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Rantown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:30:25 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242474359905 |
-| Players | 2/10 |
-| Host Name | Jonathan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:30:54 |
+| Lobby ID | 28589242474495571 |
+| Players | 1/10 |
+| Host Name | VAHUE |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:31:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242474522394 |
+| Players | 1/8 |
+| Host Name | G1uc0se |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, January 1, 2024 18:31:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242473270370 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 七瀬 遙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:29:38 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242473512566 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | Anton-Gandon {pivo} |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:29:55 |
