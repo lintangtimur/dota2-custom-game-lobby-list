@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549746546504 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | AntennaTim |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:45:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549743946378 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | pipipipi |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:42:16 |
@@ -86,28 +86,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549749552133 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Спортик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:48:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549749692793 |
-| Players | 1/8 |
-| Host Name | あなたの死は避けられ |
-| Region | STOCKHOLM |
+| Lobby ID | 28590549749693120 |
+| Players | 3/15 |
+| Host Name | Shogoth |
+| Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:49:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549746690824 |
+| Players | 23/24 |
+| Host Name | Cel |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:45:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549749693120 |
+| Lobby ID | 28590549749817085 |
 | Players | 1/15 |
-| Host Name | Shogoth |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:49:00 |
+| Host Name | doom13524 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:49:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549747963767 |
+| Players | 3/8 |
+| Host Name | Thrumy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:46:58 |
 
 
 |  | epic_boss_fight_normal |
