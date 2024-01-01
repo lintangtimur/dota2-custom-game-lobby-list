@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242465581203 |
-| Players | 14/15 |
-| Host Name | Daismon |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:20:38 |
+| Lobby ID | 28589242467000064 |
+| Players | 3/15 |
+| Host Name | metoda |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:22:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242466269167 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:21:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242466622012 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ❤️✰𝘅𝘅𝘅✰❤ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:21:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242450603328 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | DarKahiser |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242463781704 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:18:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242466486297 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | LeoNarDo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:21:44 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242466725971 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | h43 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:22:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242457862366 |
-| Players | 23/24 |
-| Host Name | Al'do |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:11:28 |
 
 
 |  | epic_boss_fight_nightmare |
