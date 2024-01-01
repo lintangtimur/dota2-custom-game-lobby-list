@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242739836260 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | LEO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 1, 2024 22:40:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242750397816 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | ym |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:50:34 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242749471985 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ♀×º°”MOHOWK”°º×♀ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:49:40 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242743968792 |
-| Players | 23/24 |
-| Host Name | 白いぽっちゃり |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 22:44:20 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242751503551 |
-| Players | 12/15 |
-| Host Name | kejsi |
+| Lobby ID | 28589242751960524 |
+| Players | 4/15 |
+| Host Name | АХХА, ПРИКИНЬ ТЕЧ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:51:39 |
+| Lobby Creation Time | Monday, January 1, 2024 22:52:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242751881977 |
+| Players | 5/24 |
+| Host Name | Minoru Kagenou |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:52:01 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242751727933 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | 85943734753895 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:51:52 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | meow |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:51:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242751718957 |
-| Players | 1/5 |
-| Host Name | mudak |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:51:52 |
 
 
