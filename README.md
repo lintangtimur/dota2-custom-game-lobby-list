@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242739836260 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | LEO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 1, 2024 22:40:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242743968792 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 白いぽっちゃり |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:44:20 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242746290123 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Xunse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:46:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242747227287 |
-| Players | 9/15 |
-| Host Name | 🚬 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:47:29 |
+| Lobby ID | 28589242747734841 |
+| Players | 2/8 |
+| Host Name | Naska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:47:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242747232460 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ExSide- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:47:30 |
@@ -113,10 +113,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242747443386 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Lumberjack |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:47:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242747790497 |
+| Players | 6/8 |
+| Host Name | сук ебатель |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:48:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242747227287 |
+| Players | 14/15 |
+| Host Name | 🚬 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:47:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242747857041 |
+| Players | 1/10 |
+| Host Name | Я вижу все |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:48:06 |
 
 
 |  | epic_boss_fight_normal |
