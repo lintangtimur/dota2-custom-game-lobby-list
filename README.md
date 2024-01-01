@@ -50,34 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242479289445 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | monday left me broken |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:36:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242479297237 |
-| Players | 1/24 |
-| Host Name | подписюнчик |
+| Lobby ID | 28589242480795224 |
+| Players | 8/15 |
+| Host Name | Re.deys |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:36:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242479330791 |
-| Players | 6/8 |
-| Host Name | wmex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:36:32 |
+| Lobby Creation Time | Monday, January 1, 2024 18:38:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242480736248 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | フ六violetフ六 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:38:08 |
