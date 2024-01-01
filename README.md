@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549667571981 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | [DD] Дet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:17:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549665543660 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | ÆA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:14:54 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549667634802 |
-| Players | 7/24 |
+| Players | 3/24 |
 | Host Name | Gatsby.. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:17:10 |
@@ -121,29 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549667657843 |
-| Players | 1/10 |
-| Host Name | depressive kid)? |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:17:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28590549667717060 |
 | Players | 2/10 |
 | Host Name | Adorableあざ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:17:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549663037483 |
-| Players | 1/5 |
-| Host Name | sparanuk669 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:12:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -155,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:14:15 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590549667632212 |
-| Players | 1/10 |
-| Host Name | Muramasa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:17:09 |
+| Lobby ID | 28590549667857777 |
+| Players | 1/5 |
+| Host Name | sparanuk669 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:17:24 |
 
 
