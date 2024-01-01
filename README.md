@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549788758900 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 『ᛁᛗᛈᚢᛚᛊᛖ』 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:36:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549789843268 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ._. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:37:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549788018671 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | LA CALILA |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:35:09 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:35:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549790056841 |
-| Players | 6/10 |
-| Host Name | From rivertosea PalestineHUISOSI |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:37:41 |
+| Lobby ID | 28590549784168598 |
+| Players | 14/15 |
+| Host Name | Moonlight |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:30:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549789661930 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | KsuKasss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:37:11 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549790050060 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | How u doin? |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:37:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549784168598 |
-| Players | 13/15 |
-| Host Name | Moonlight |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:30:23 |
 
 
 |  | epic_boss_fight_challenger |
