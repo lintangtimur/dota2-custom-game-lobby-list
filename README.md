@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549875515217 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Елка Кашки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:38:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549874656764 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | 3L 1L3G4L |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:36:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549875018454 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | hAggU pLaYeR |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:37:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549875434513 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | el nuevo feder |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:37:59 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549875162519 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | RezNovAli |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:37:33 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549875281713 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | twitch.tv/Flyppykps |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:37:44 |
@@ -117,24 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Писятдва |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:38:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549875506861 |
-| Players | 1/8 |
-| Host Name | глент вагнер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:38:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549875685369 |
-| Players | 3/8 |
-| Host Name | guts |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:38:23 |
 
 
 |  | epic_boss_fight_nightmare |
