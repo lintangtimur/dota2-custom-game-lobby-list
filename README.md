@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549598800965 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Grog the Frog |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:03:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549597358321 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Shearinex |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:01:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549596982068 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | bdy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:01:23 |
@@ -140,37 +140,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549599131647 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Hanni- |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:03:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549599207140 |
-| Players | 12/15 |
-| Host Name | no way |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:03:48 |
+| Lobby ID | 28590549599452197 |
+| Players | 2/10 |
+| Host Name | you are stupid girl<3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:04:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549599201840 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | гойда братья |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:03:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549599238971 |
-| Players | 7/8 |
-| Host Name | красти крабс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:03:50 |
 
 
 |  | ot3_gardens_duo |
@@ -189,5 +180,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | borsch |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:03:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549598970436 |
+| Players | 1/5 |
+| Host Name | ClaFish |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:03:32 |
 
 
