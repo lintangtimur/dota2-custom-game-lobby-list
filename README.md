@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242429636496 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | бомбардирОчка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:35:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242429634658 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Malam Bantay MU! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:35:42 |
@@ -86,16 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242430992617 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Раздал Стиля |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:37:31 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242431031690 |
+| Players | 6/10 |
+| Host Name | Лора Пьяна Aka Дура |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:37:34 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242430171838 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Iku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:36:25 |
@@ -112,17 +121,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242429854129 |
-| Players | 1/5 |
-| Host Name | Tess Tickles |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, January 1, 2024 17:36:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
 | Lobby ID | 28589242430115912 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | cheesepomidore |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:36:21 |
