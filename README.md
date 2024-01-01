@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549880801795 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:46:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549882919351 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | ленин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:50:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549880959285 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:47:04 |
@@ -76,17 +76,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549883345332 |
+| Lobby ID | 28590549883428742 |
 | Players | 1/15 |
-| Host Name | Ninguém |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:50:59 |
+| Host Name | Kiri |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:51:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549883432995 |
+| Players | 2/15 |
+| Host Name | Leopold "Butters" Stotch |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:51:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549883452114 |
+| Players | 5/8 |
+| Host Name | Сендальф Герий |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:51:09 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549883080264 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | ceviche |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:50:33 |
