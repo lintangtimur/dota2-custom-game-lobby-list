@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549814921908 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | MBI |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:09:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549814645856 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | onme |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:09:20 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549814678262 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | notnormal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:09:22 |
@@ -108,6 +108,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:09:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549815158310 |
+| Players | 4/8 |
+| Host Name | Сын Пелея カッシー |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:10:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549815170975 |
+| Players | 2/10 |
+| Host Name | mr.cum |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:10:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549812556261 |
+| Players | 7/8 |
+| Host Name | Kermitt |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:06:34 |
 
 
 |  | epic_boss_fight_nightmare |
