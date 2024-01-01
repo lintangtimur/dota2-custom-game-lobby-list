@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549638390675 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:45:37 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549641674553 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | New Year |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:49:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549640789070 |
-| Players | 6/8 |
-| Host Name | ПиВнОй БОМЖ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:48:11 |
+| Lobby ID | 28590549641794801 |
+| Players | 1/10 |
+| Host Name | para tu comsumo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:49:15 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549640554046 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | saparaskrayb |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:47:56 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:49:00 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549641419098 |
-| Players | 8/15 |
-| Host Name | привет |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:48:51 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549640480584 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | tsukiyomi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:47:51 |
@@ -117,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Han Jee-han  한 지한 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:48:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549641150287 |
-| Players | 1/5 |
-| Host Name | Sussy Baka Junior |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:48:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549641753208 |
-| Players | 2/5 |
-| Host Name | PlayingTheAngel |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:49:13 |
 
 
