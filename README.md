@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549709054243 |
-| Players | 4/8 |
-| Host Name | Haster |
+| Players | 6/8 |
+| Host Name | tw.tv/olexandrich |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:02:41 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549706902067 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | XrossX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:00:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549705742784 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Rize - 気 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:59:01 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549709211293 |
-| Players | 6/15 |
-| Host Name | Party rock! |
+| Lobby ID | 28590549709344892 |
+| Players | 1/15 |
+| Host Name | jungle drow |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:02:52 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:03:01 |
 
 
 |  | ot3_desert_octet |
@@ -113,37 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549709180382 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | tv/tocinodota |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:02:50 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549699642883 |
-| Players | 23/24 |
-| Host Name | Штефан |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:52:14 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549709271243 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Risehush |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:02:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549709314240 |
-| Players | 1/15 |
-| Host Name | MasingWa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:02:58 |
+| Lobby ID | 28590549707740660 |
+| Players | 5/8 |
+| Host Name | juzzwardo |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:01:14 |
 
 
 |  | epic_boss_fight_nightmare |
