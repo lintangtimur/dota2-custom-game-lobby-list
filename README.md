@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242474495571 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | VAHUE |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:31:03 |
@@ -59,18 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242474689469 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Грусть ???? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:31:16 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242475038242 |
+| Players | 1/8 |
+| Host Name | АндудВанЛав |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:31:40 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242472843565 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Kongandeu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:29:09 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28589242475148278 |
+| Players | 3/7 |
+| Host Name | likerchik СаСтрайк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:31:48 |
 
 
