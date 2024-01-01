@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242476232985 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | eva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:33:01 |
@@ -40,26 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242477029316 |
-| Players | 4/8 |
-| Host Name | Демидий ствол |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:33:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242476053635 |
-| Players | 7/10 |
-| Host Name | Working rich |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:32:49 |
+| Lobby ID | 28589242477102998 |
+| Players | 2/8 |
+| Host Name | Kalimoria |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:34:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242477045752 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | never give up |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:33:57 |
@@ -67,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242477102998 |
-| Players | 1/8 |
-| Host Name | Kalimoria |
+| Lobby ID | 28589242477312302 |
+| Players | 3/8 |
+| Host Name | d0shiru |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:34:01 |
+| Lobby Creation Time | Monday, January 1, 2024 18:34:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242475885680 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:32:38 |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fafara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:33:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242477121752 |
-| Players | 2/5 |
-| Host Name | акс фаршмак |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:34:02 |
 
 
