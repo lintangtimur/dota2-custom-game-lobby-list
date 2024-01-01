@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242450603328 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | coa7279 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242458955432 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Dezlt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:12:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242458107858 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | eva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:46 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242459183743 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Була Ураган |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:13:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242459187207 |
-| Players | 1/15 |
-| Host Name | slipknotik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:13:04 |
+| Lobby ID | 28589242458647391 |
+| Players | 7/10 |
+| Host Name | solo_feed ^^ RU |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:12:25 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242459257677 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Optimal |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:13:09 |
@@ -103,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242457548592 |
-| Players | 1/10 |
-| Host Name | 930 |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 1, 2024 18:11:05 |
+| Lobby ID | 28589242459331770 |
+| Players | 3/10 |
+| Host Name | 10K Behavior Score |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:13:14 |
 
 
