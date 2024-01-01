@@ -49,26 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549775572069 |
-| Players | 14/15 |
-| Host Name | Крали Марко |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:19:46 |
+| Lobby ID | 28590549775992148 |
+| Players | 1/15 |
+| Host Name | zhen |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:20:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549775439724 |
-| Players | 8/10 |
-| Host Name | ЭльфийскаяЗая |
+| Lobby ID | 28590549775885539 |
+| Players | 6/8 |
+| Host Name | пися попа кака |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:19:36 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:20:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549772917439 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:16:32 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:20:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549775885539 |
-| Players | 6/8 |
-| Host Name | пися попа кака |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:20:09 |
+| Lobby ID | 28590549776070640 |
+| Players | 2/10 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:20:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549776070069 |
+| Players | 1/10 |
+| Host Name | ShaV |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:20:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549775595905 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Жорик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:19:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549775927233 |
-| Players | 2/5 |
-| Host Name | Grudvik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:20:12 |
 
 
