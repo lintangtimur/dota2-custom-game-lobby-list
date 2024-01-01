@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242492225323 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | флопя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:50:42 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242500508252 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Cucumba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:59:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242498835140 |
-| Players | 20/24 |
-| Host Name | 노루 noru 노루 noru 노루 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:57:51 |
+| Lobby ID | 28589242502299109 |
+| Players | 2/8 |
+| Host Name | shakal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:01:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242501858731 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | те100стерон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:01:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242502062100 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | MoHaKo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:01:15 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:01:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242502216936 |
+| Players | 2/10 |
+| Host Name | САМЫЙ СЧАСТЛИВЫЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:01:25 |
 
 
 |  | epic_boss_fight_nightmare |
