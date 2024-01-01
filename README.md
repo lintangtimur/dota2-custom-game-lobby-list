@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242756752865 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Ka-De |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:56:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242760817542 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | Zico |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:00:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242758187929 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Ban¡¡¡ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:58:16 |
@@ -92,11 +92,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:00:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242760527298 |
-| Players | 4/8 |
-| Host Name | чукчарэла |
+| Lobby ID | 28589242760528547 |
+| Players | 8/10 |
+| Host Name | СЛАВИК-ДОМИНАТОР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:00:33 |
 
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ASESINO DE KBROS |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:00:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242760528547 |
-| Players | 5/10 |
-| Host Name | СЛАВИК-ДОМИНАТОР |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:00:33 |
 
 
 |  | epic_boss_fight_normal |
@@ -144,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KV |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:56:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242756791575 |
+| Players | 4/5 |
+| Host Name | BONCHINCHE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:56:54 |
 
 
