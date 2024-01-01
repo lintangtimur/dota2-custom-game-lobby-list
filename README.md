@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549760802409 |
-| Players | 23/24 |
-| Host Name | Indio Boca Mole |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:02:06 |
+| Lobby ID | 28590549769101158 |
+| Players | 3/8 |
+| Host Name | Alpacho |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:11:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549768719471 |
-| Players | 5/8 |
-| Host Name | juzzwardo |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:11:30 |
+| Lobby ID | 28590549766984005 |
+| Players | 3/8 |
+| Host Name | SI TAN SOLO PUDIERA ESCRIBIR TMR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:09:26 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549766543721 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:08:54 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549769040690 |
-| Players | 3/15 |
-| Host Name | Kabzy |
+| Players | 12/15 |
+| Host Name | ャ egoist. Yowe |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:11:53 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549769160465 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ≫ん£ L I C Oん≪ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:12:01 |
@@ -95,37 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549766761334 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Punk Fools- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:09:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549766984005 |
-| Players | 3/8 |
-| Host Name | SI TAN SOLO PUDIERA ESCRIBIR TMR |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:09:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549769101158 |
-| Players | 2/8 |
-| Host Name | Alpacho |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:11:57 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549769127142 |
-| Players | 4/10 |
-| Host Name | Radical Highway |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:11:59 |
+| Lobby ID | 28590549769437154 |
+| Players | 2/10 |
+| Host Name | с новым гойда! |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:12:21 |
 
 
 |  | epic_boss_fight_normal |
