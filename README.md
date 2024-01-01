@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549646101738 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | tocosh |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:53:54 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549644243613 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:51:52 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:36:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549645425188 |
-| Players | 6/8 |
-| Host Name | Difs |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:53:10 |
+| Lobby ID | 28590549647090728 |
+| Players | 2/10 |
+| Host Name | Gus |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:55:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549643552040 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | IEdumpling |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:51:08 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549646976189 |
-| Players | 2/15 |
-| Host Name | raiver |
+| Players | 13/15 |
+| Host Name | Создатель секса |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:54:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549644856298 |
-| Players | 9/10 |
-| Host Name | Я ЕБАШУ КАК ПЕЛЕ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:52:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549645185885 |
-| Players | 4/8 |
-| Host Name | Cacho con jordans |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:52:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,22 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:49:37 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549645185885 |
+| Players | 4/8 |
+| Host Name | Cacho con jordans |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:52:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549647138193 |
+| Players | 2/24 |
+| Host Name | ⚔️VAN HELSING⚔ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:55:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549647149850 |
+| Players | 4/8 |
+| Host Name | 释放你的灵魂 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:55:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549646983763 |
+| Lobby ID | 28590549647158732 |
 | Players | 1/15 |
-| Host Name | Moris |
+| Host Name | raiver |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:54:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549646951082 |
-| Players | 2/10 |
-| Host Name | bonjour |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:54:51 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:55:05 |
 
 
 |  | epic_boss_fight_nightmare |
