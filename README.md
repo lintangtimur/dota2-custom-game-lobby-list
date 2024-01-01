@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549760802409 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:02:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549765152707 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | .apathethic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:07:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549765405819 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | vip3r |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:07:33 |
@@ -92,46 +92,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:13 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549764306835 |
-| Players | 9/10 |
-| Host Name | _unnamed |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:06:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549765461783 |
-| Players | 4/15 |
-| Host Name | Duro de cobrar |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:07:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549765605454 |
-| Players | 8/15 |
-| Host Name | Тильтроник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:07:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549765679484 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Lautreamont |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:07:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549765461783 |
+| Players | 7/15 |
+| Host Name | Duro de cobrar |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:07:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549765805968 |
+| Players | 2/10 |
+| Host Name | ваня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:08:01 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549754100515 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | | R@PT()R | ^_^ | |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:54:10 |
