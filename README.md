@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242452315549 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Radical Highway |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:04:40 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:04:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242451833921 |
-| Players | 23/24 |
-| Host Name | 大川岛 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:04:04 |
+| Lobby ID | 28589242453151408 |
+| Players | 1/15 |
+| Host Name | Proudas#UltimateRust |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:05:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242453144307 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Ry_An |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:05:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242453151408 |
-| Players | 1/15 |
-| Host Name | Proudas#UltimateRust |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:05:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242452887528 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Zero Two |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:05:23 |
