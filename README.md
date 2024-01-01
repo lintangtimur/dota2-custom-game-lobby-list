@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549711173214 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Rip van Winkle |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:05:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549710515843 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:04:18 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549712390289 |
-| Players | 9/15 |
-| Host Name | Aylardex Vlael |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:06:23 |
+| Lobby ID | 28590549713077694 |
+| Players | 1/8 |
+| Host Name | twitch.tv/Flyppykps |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:07:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549711657180 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Godzilla |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:05:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549707960011 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Cacel |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:01:28 |
@@ -104,10 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549712964651 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Slunya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:07:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549712980434 |
+| Players | 1/10 |
+| Host Name | le_Chapun |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:07:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549713021220 |
+| Players | 2/10 |
+| Host Name | PEPELALA !@32 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:07:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549713132466 |
+| Players | 5/8 |
+| Host Name | Дрочислав |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:07:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,13 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:04:03 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28590549710383487 |
-| Players | 9/10 |
-| Host Name | The lightning SiBeRiA* |
+| Lobby ID | 28590549712542012 |
+| Players | 1/7 |
+| Host Name | Slayer |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:04:10 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:06:33 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,18 +167,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549712510932 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | СексНаркотикАлко |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:06:31 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28590549712542012 |
-| Players | 1/7 |
-| Host Name | Slayer |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:06:33 |
 
 
