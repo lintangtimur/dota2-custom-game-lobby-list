@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549842379317 |
-| Players | 5/8 |
-| Host Name | PICK NORMAL POS4 HERO MORONS) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:47:38 |
+| Lobby ID | 28590549842133193 |
+| Players | 7/15 |
+| Host Name | Roger Rabbit |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:47:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549842226883 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:47:25 |
@@ -50,43 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549842346246 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | chema |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:47:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549842133193 |
-| Players | 8/15 |
-| Host Name | Roger Rabbit |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:47:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549840748873 |
-| Players | 23/24 |
-| Host Name | FrameSports |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:45:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549842252396 |
-| Players | 6/8 |
-| Host Name | Flux |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:47:27 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549836151866 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | DJANGO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:38:44 |
