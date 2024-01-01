@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549803252036 |
-| Players | 21/24 |
-| Host Name | Movistar Perú Oficial |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:54:28 |
+| Lobby ID | 28590549804483861 |
+| Players | 6/8 |
+| Host Name | Вульфъ Спекторъ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:56:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549805021400 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ≫ん£ L I C Oん≪ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:56:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549805233079 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Eduardo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:57:04 |
@@ -86,37 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549803929507 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | FrameSports |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:55:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549804483861 |
-| Players | 6/8 |
-| Host Name | Вульфъ Спекторъ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:56:05 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549805231561 |
-| Players | 1/10 |
+| Lobby ID | 28590549805463666 |
+| Players | 2/10 |
 | Host Name | AVICI enjoyer |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:57:03 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:57:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549805327986 |
-| Players | 1/8 |
-| Host Name | Kawazaki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:57:11 |
+| Lobby ID | 28590549805476167 |
+| Players | 4/8 |
+| Host Name | К'ЮПИ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:57:23 |
 
 
 |  | epic_boss_fight_nightmare |
