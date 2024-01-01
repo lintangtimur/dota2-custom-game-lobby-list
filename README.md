@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242482003234 |
-| Players | 6/15 |
-| Host Name | ZzzRiicE |
+| Lobby ID | 28589242482564873 |
+| Players | 4/8 |
+| Host Name | 混蛋 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:39:30 |
+| Lobby Creation Time | Monday, January 1, 2024 18:40:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242479515908 |
+| Lobby ID | 28589242482518105 |
 | Players | 1/8 |
-| Host Name | Hi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:36:45 |
+| Host Name | фанат скайзи |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:40:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242482288484 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Hanni- |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:39:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242479289445 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | monday left me broken |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:36:29 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242482395028 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 躍動 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Monday, January 1, 2024 18:39:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242482463129 |
+| Players | 1/8 |
+| Host Name | фанат мышки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:40:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242482550241 |
+| Players | 1/8 |
+| Host Name | DanyMean333 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:40:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242482550765 |
+| Players | 1/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:40:06 |
 
 
 |  | epic_boss_fight_normal |
