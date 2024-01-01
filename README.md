@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549750244105 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | 1um |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:49:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549746546504 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | AntennaTim |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:45:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549743946378 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | pipipipi |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:42:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549749934801 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Lion the onLIONe |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:49:16 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:49:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549750270806 |
-| Players | 1/8 |
-| Host Name | bocchi the rock |
+| Lobby ID | 28590549750330307 |
+| Players | 8/24 |
+| Host Name | .legitAVaGe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:49:40 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:49:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,37 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549749817085 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | doom13524 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:49:08 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549750330307 |
-| Players | 7/24 |
-| Host Name | .legitAVaGe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:49:44 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549749947911 |
-| Players | 8/10 |
-| Host Name | cl_lw 0 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:49:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549750481048 |
-| Players | 3/8 |
-| Host Name | 君弱いもん |
+| Lobby ID | 28590549750623722 |
+| Players | 2/10 |
+| Host Name | Ramiel |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:49:55 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:50:05 |
 
 
 |  | epic_boss_fight_normal |
