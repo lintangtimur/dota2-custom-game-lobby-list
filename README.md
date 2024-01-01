@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242708039277 |
-| Players | 2/24 |
-| Host Name | Choocs |
+| Players | 5/24 |
+| Host Name | Evol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:10:16 |
 
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242708324050 |
-| Players | 3/10 |
-| Host Name | )))()())))()) |
+| Players | 7/10 |
+| Host Name | Baklan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:10:32 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242699419199 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:02:17 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:02:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242706111348 |
-| Players | 6/8 |
-| Host Name | external stability |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:08:28 |
+| Lobby ID | 28589242708445782 |
+| Players | 1/24 |
+| Host Name | Ban¡¡¡ |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 22:10:38 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242708137561 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | МЕДОЕД |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:10:22 |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242707951419 |
-| Players | 4/8 |
-| Host Name | Awewe |
+| Players | 3/8 |
+| Host Name | vehemence |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:10:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242708306887 |
-| Players | 1/24 |
-| Host Name | Akio |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 1, 2024 22:10:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242703146847 |
-| Players | 9/10 |
-| Host Name | Andreas Maler |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:05:43 |
 
 
 |  | epic_boss_fight_nightmare |
