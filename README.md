@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549800808429 |
-| Players | 4/24 |
+| Players | 10/24 |
 | Host Name | Mirage- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:51:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549798082215 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | notpso |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:47:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549801277820 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Wall Street |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:51:55 |
@@ -67,35 +67,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549801334340 |
-| Players | 10/15 |
-| Host Name | АЛЬФА-БАНК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:51:59 |
+| Lobby ID | 28590549801640856 |
+| Players | 8/15 |
+| Host Name | virtyozzi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:52:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549802005965 |
+| Players | 6/8 |
+| Host Name | CharbeL |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:52:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549801448204 |
+| Lobby ID | 28590549801642053 |
 | Players | 2/10 |
-| Host Name | ̶M̶∀Dℕ℮$Ṧ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:52:08 |
+| Host Name | GOD MODE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:52:22 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549790092765 |
-| Players | 9/10 |
-| Host Name | DJANGO |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:37:43 |
+| Lobby ID | 28590549801567557 |
+| Players | 2/10 |
+| Host Name | пенис гриндер |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:52:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549797038055 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | шлёпки скайп |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:46:30 |
