@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549659998397 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Fabos |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:08:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549658473695 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | #W Kiwi € / \♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:07:15 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549659816228 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | PARADIGM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:08:41 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549659493955 |
-| Players | 3/10 |
-| Host Name | Medio metro |
+| Players | 1/10 |
+| Host Name | IkaRoS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:08:20 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549658734626 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | PEPESOR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:07:32 |
@@ -101,12 +101,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:07:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549659004211 |
-| Players | 7/8 |
-| Host Name | GearWill |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:07:49 |
+| Lobby ID | 28590549660468108 |
+| Players | 1/15 |
+| Host Name | SHMITY |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:09:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549659847071 |
+| Players | 13/15 |
+| Host Name | Great Admiral of Mongol Empire |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:08:43 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549660550852 |
+| Players | 2/10 |
+| Host Name | Addan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:09:28 |
 
 
