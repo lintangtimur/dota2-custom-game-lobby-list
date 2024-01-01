@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 17:44:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242447760392 |
-| Players | 10/15 |
-| Host Name | Гин 13 км от вас! |
+| Lobby ID | 28589242445592528 |
+| Players | 6/8 |
+| Host Name | БЫДЛО |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:58:57 |
+| Lobby Creation Time | Monday, January 1, 2024 17:56:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,34 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242445423831 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | losing streak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:56:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242445592528 |
-| Players | 6/8 |
-| Host Name | БЫДЛО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:56:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242444931929 |
-| Players | 14/15 |
-| Host Name | maku |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:55:26 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242443080656 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | ChowChow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:53:07 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242447851658 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Kongandeu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:59:04 |
