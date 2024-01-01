@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549845594568 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | YellowHead |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:52:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549845885904 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Kawazaki |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:52:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549845416714 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | TYRAEL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:52:00 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ТрудныйCSер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:52:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549846002793 |
-| Players | 1/15 |
-| Host Name | ТЮ,ТАК А ТЫ ШО ТАМ? |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:52:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549845312301 |
-| Players | 3/5 |
-| Host Name | МВД РФ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:51:51 |
 
 
