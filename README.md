@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549842133193 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Roger Rabbit |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:47:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549841858187 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:46:53 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549842609168 |
-| Players | 1/15 |
-| Host Name | full retard |
+| Lobby ID | 28590549842592440 |
+| Players | 9/15 |
+| Host Name | jabroni |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:47:58 |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:47:57 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:47:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549842592440 |
-| Players | 5/15 |
-| Host Name | jabroni |
+| Lobby ID | 28590549842655654 |
+| Players | 1/8 |
+| Host Name | krizek𒉭 |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:47:57 |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:48:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549842682194 |
+| Players | 6/24 |
+| Host Name | Dяєαмснαsєяs |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:48:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549841558176 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:46:27 |
