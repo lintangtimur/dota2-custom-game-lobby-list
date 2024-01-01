@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242480094045 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Ya absolut |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:37:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242478796396 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:35:56 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:36:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242480382786 |
-| Players | 11/15 |
-| Host Name | ГачиМастер |
+| Lobby ID | 28589242480736248 |
+| Players | 1/10 |
+| Host Name | フ六violetフ六 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:37:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242480567667 |
-| Players | 5/8 |
-| Host Name | KEMPACHI |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 18:37:56 |
+| Lobby Creation Time | Monday, January 1, 2024 18:38:08 |
 
 
 |  | epic_boss_fight_nightmare |
