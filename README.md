@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242766915138 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | BaByFaiL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:06:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242760497056 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | VOID EL CONSTRUCTOR |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:00:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242767598775 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:07:28 |
@@ -59,52 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242767770145 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | kJJ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:07:38 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242768198196 |
-| Players | 7/8 |
-| Host Name | Thienkhao |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:08:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242769986770 |
-| Players | 5/8 |
-| Host Name | Friz? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:09:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242769712813 |
-| Players | 4/10 |
-| Host Name | новогодний  еблан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:09:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242769701639 |
-| Players | 6/10 |
-| Host Name | Я вижу все |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:09:29 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242769944323 |
-| Players | 1/15 |
+| Players | 12/15 |
 | Host Name | Stengah |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:09:44 |
@@ -112,38 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242770071470 |
-| Players | 1/10 |
-| Host Name | CherryPadlo |
+| Lobby ID | 28589242769701639 |
+| Players | 7/10 |
+| Host Name | Я вижу все |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:09:51 |
+| Lobby Creation Time | Monday, January 1, 2024 23:09:29 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242768143617 |
-| Players | 9/10 |
-| Host Name | Eclipse24/7 |
+| Lobby ID | 28589242770329429 |
+| Players | 6/10 |
+| Host Name | jorik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:08:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242770090260 |
-| Players | 2/8 |
-| Host Name | L2 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:09:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242770151636 |
-| Players | 1/8 |
-| Host Name | [_The_Fresh_] |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 23:09:56 |
+| Lobby Creation Time | Monday, January 1, 2024 23:10:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242768926530 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Saturday Evening Puss |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:08:45 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242770453354 |
+| Players | 1/5 |
+| Host Name | Ауе Тат4ры |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:10:13 |
 
 
