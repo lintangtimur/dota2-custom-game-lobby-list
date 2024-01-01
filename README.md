@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242533854905 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Tripa Seca BOLADÃO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 19:33:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242539595838 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | alone♥ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:38:57 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242539647165 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Duncan MacLeod |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 1, 2024 19:39:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242540217795 |
+| Players | 3/8 |
+| Host Name | ./-> \:'/| |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:39:32 |
 
 
 |  | epic_boss_fight_nightmare |
