@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242428160075 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ʀʏυʍ¿ɴcʜ∀ε |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 17:33:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242434387966 |
-| Players | 9/10 |
-| Host Name | МЕРКАНТИЛЬНЫЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:41:59 |
+| Lobby ID | 28589242436280010 |
+| Players | 5/24 |
+| Host Name | Anita Max Wynn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 17:44:23 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242429484224 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 17:35:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242435900026 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Funky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:43:53 |
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242436249170 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | SleepLess |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:44:21 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242436280010 |
-| Players | 5/24 |
-| Host Name | Anita Max Wynn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 17:44:23 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242434521417 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | 930 |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 1, 2024 17:42:09 |
