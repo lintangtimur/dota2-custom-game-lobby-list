@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549844692071 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Art Vandelay |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:50:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549844973840 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Jim |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:51:22 |
@@ -86,27 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549845238233 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Lakky` |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:51:44 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549836151866 |
-| Players | 8/10 |
-| Host Name | DJANGO |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:38:44 |
+| Lobby ID | 28590549845341536 |
+| Players | 1/8 |
+| Host Name | ТрудныйCSер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:51:53 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590549845165539 |
-| Players | 1/5 |
+| Lobby ID | 28590549845312301 |
+| Players | 2/5 |
 | Host Name | МВД РФ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:51:38 |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:51:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549845374337 |
+| Players | 1/10 |
+| Host Name | conchatumare |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:51:56 |
 
 
