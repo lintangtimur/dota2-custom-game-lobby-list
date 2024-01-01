@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242520879732 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | reZaTь RysК1х |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:20:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242521123872 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Ergo Igamogre |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:20:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242521480173 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Genryūsai Shigekuni Yamamoto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:21:03 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242521608672 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | ONYX |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:21:11 |
