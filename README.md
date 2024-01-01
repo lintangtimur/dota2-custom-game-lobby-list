@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:28:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549622745722 |
-| Players | 7/8 |
-| Host Name | Grog the Frog |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:29:02 |
+| Lobby ID | 28590549622724005 |
+| Players | 5/10 |
+| Host Name | evilive |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:01 |
 
 
 |  | ot3_gardens_duo |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549622793688 |
-| Players | 1/8 |
-| Host Name | Fabulous |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:29:05 |
+| Lobby ID | 28590549623158695 |
+| Players | 6/8 |
+| Host Name | Папа Гетто |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -121,29 +121,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549622479261 |
-| Players | 9/10 |
-| Host Name | Bottom G |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:28:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549622724005 |
-| Players | 5/10 |
-| Host Name | evilive |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:29:01 |
+| Lobby ID | 28590549623119237 |
+| Players | 1/10 |
+| Host Name | パルビン |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549622711521 |
-| Players | 8/15 |
-| Host Name | Run Forest |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:29:00 |
+| Lobby ID | 28590549623126757 |
+| Players | 5/15 |
+| Host Name | Snowflake:3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549623129072 |
+| Players | 1/15 |
+| Host Name | Baglale-Baglale |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549622477080 |
+| Players | 9/10 |
+| Host Name | tangerine |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:28:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549623199813 |
+| Players | 4/8 |
+| Host Name | full focus. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549623211696 |
+| Players | 3/8 |
+| Host Name | ШИЗАНУТЫЙ АМНЯМ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549623216697 |
+| Players | 2/10 |
+| Host Name | I refuse the sun and the moon |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:33 |
 
 
 |  | epic_boss_fight_challenger |
