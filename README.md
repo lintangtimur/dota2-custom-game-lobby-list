@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549632367526 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Костя Громов |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:39:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549629545899 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Pray |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:36:13 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:04:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549632227190 |
-| Players | 5/10 |
-| Host Name | залупандр |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:39:03 |
+| Lobby ID | 28590549632490719 |
+| Players | 5/24 |
+| Host Name | Gaben Prophet |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:39:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:39:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549632391408 |
-| Players | 2/15 |
-| Host Name | Nigeri$ass1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:39:14 |
+| Lobby ID | 28590549629900431 |
+| Players | 7/8 |
+| Host Name | PLODOTVOR |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:36:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549629900431 |
-| Players | 7/8 |
-| Host Name | PLODOTVOR |
+| Lobby ID | 28590549632566437 |
+| Players | 2/8 |
+| Host Name | I HATE SNICKERS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:39:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549632588445 |
+| Players | 3/10 |
+| Host Name | touch |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:36:35 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:39:26 |
 
 
 |  | epic_boss_fight_challenger |
@@ -135,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AWENG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:38:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549632369655 |
-| Players | 1/5 |
-| Host Name | Вчерашний Ебарь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:39:13 |
 
 
