@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242510845187 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 'le Yan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:10:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242514542627 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | 躍動 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Monday, January 1, 2024 19:14:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242513736632 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 19:13:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242513707753 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | психопатыш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:13:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242514447034 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | this pudge love moma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:14:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242513881113 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | винстон синий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:13:30 |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242513602818 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | inadequate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:13:12 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242514548356 |
-| Players | 1/10 |
-| Host Name | WoTianMu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:14:09 |
+| Lobby ID | 28589242514773700 |
+| Players | 1/5 |
+| Host Name | Hunt Hoe-Down |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 1, 2024 19:14:23 |
 
 
