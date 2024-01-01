@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549770710821 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | REM |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:13:52 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549772335767 |
-| Players | 9/15 |
-| Host Name | qwweer |
+| Lobby ID | 28590549772668257 |
+| Players | 3/8 |
+| Host Name | TripleS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:15:50 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:16:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549771720870 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Stringer |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:15:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549772464933 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | smokey nagata ඞ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:15:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549772362359 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | IEdumpling |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:15:52 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | te mato pauseo te tecleo y tepeo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:15:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549772419468 |
-| Players | 3/8 |
-| Host Name | ⓈⓃⒶⓀⒺ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:15:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549772541454 |
-| Players | 1/8 |
-| Host Name | Право на поплакат |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:16:05 |
 
 
 |  | epic_boss_fight_normal |
