@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549683743256 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | R3sist4nce. |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:34:46 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549687399341 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | агент ПШОДА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:38:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549687432486 |
-| Players | 4/8 |
-| Host Name | Flux |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:38:46 |
+| Lobby ID | 28590549687539028 |
+| Players | 1/10 |
+| Host Name | XX |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:38:53 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549685674150 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:36:51 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549684770124 |
-| Players | 6/8 |
-| Host Name | Spamming 1 hero = Go Report me |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:35:53 |
+| Lobby ID | 28590549687606295 |
+| Players | 1/8 |
+| Host Name | Орущая Чайка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:38:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -144,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | epileptick1d |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:38:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549687270408 |
-| Players | 3/5 |
-| Host Name | GEAN CARLOS |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:38:35 |
 
 
