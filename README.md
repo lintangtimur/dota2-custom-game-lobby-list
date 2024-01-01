@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242457862366 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Al'do |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242450603328 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | DarKahiser |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242463781704 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:18:30 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:19:00 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242464751634 |
-| Players | 8/15 |
-| Host Name | токсин паук |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:19:39 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242464837098 |
@@ -92,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:19:46 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242465394995 |
+| Players | 1/15 |
+| Host Name | luck in my *** |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 1, 2024 18:20:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242463619081 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Belike柠檬ICE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:18:19 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | посейдот |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:18:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242465034919 |
-| Players | 1/5 |
-| Host Name | Miminzuki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:19:59 |
 
 
 |  | epic_boss_fight_nightmare |
