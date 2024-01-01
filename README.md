@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549727722670 |
-| Players | 2/24 |
-| Host Name | octalink2.0 |
+| Players | 1/24 |
+| Host Name | Feminazi♡ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:23:38 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549729525873 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Выключатель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:25:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549728502597 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Gah |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:24:33 |
@@ -83,13 +83,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:20:02 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549729866701 |
+| Players | 1/8 |
+| Host Name | Закись Кампота |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:26:08 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549729745135 |
-| Players | 8/15 |
-| Host Name | Subi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:26:00 |
+| Lobby ID | 28590549729937817 |
+| Players | 1/15 |
+| Host Name | Папороть |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:26:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549729906243 |
+| Players | 5/15 |
+| Host Name | Bobslej |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:26:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549728796935 |
+| Players | 8/10 |
+| Host Name | SEVEN YEARS OF MUSIC SCHOOL |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:24:54 |
 
 
 |  | epic_boss_fight_hard |
