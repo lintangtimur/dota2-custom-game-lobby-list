@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242772307578 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Naska |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:12:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242767598775 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:07:28 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:07:38 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242773378723 |
-| Players | 7/10 |
-| Host Name | Я вижу все |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:13:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242773470455 |
-| Players | 9/15 |
-| Host Name | Детригнус |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:13:11 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242765024181 |
@@ -90,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 涙の息子 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:04:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242773470455 |
+| Players | 10/15 |
+| Host Name | Детригнус |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:13:11 |
 
 
 |  | epic_boss_fight_nightmare |
