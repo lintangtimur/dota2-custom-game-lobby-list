@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242457862366 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Al'do |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:28 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | La parquita |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:14:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242461650918 |
-| Players | 6/8 |
-| Host Name | Tekr0 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:16:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242461728112 |
-| Players | 12/15 |
-| Host Name | poka♡ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:16:06 |
 
 
 |  | epic_boss_fight_nightmare |
