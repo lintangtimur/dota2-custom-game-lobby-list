@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549582930486 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Remington Jones |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:45:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549582882513 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | You get me,fam? |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:45:51 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 00:37:34 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549583071107 |
+| Players | 6/24 |
+| Host Name | 2929 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:46:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549583005047 |
-| Players | 1/15 |
-| Host Name | 9x1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:46:00 |
+| Lobby ID | 28590549583048418 |
+| Players | 2/15 |
+| Host Name | offlane plss. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:46:02 |
 
 
 |  | epic_boss_fight_nightmare |
