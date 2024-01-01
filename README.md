@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549710486538 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | D99 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:04:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549707960011 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Cacel |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:01:28 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549710756430 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | 299148ce172bacf8f2b011a9e3d60ea4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:04:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549710803745 |
-| Players | 5/15 |
-| Host Name | [ZА]КАЛДУЮ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:04:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549710882499 |
-| Players | 6/8 |
-| Host Name | Mary Guertena |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:04:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -135,5 +117,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | The lightning SiBeRiA* |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:04:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549711103764 |
+| Players | 1/5 |
+| Host Name | azertyuiopqsdfghjklmwxcvbn |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:04:57 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28590549711134622 |
+| Players | 1/7 |
+| Host Name | IX |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:05:00 |
 
 
