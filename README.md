@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549862049577 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | D-MF |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:16:53 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 06:12:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549861061086 |
-| Players | 12/15 |
-| Host Name | Σ오로러시ψ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:15:23 |
+| Lobby ID | 28590549862635533 |
+| Players | 2/10 |
+| Host Name | Tima世界的 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:17:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549861448327 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:15:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549862359302 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | СИГАНЕНОК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:17:21 |
@@ -85,20 +85,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549862478404 |
+| Lobby ID | 28590549862561038 |
 | Players | 1/8 |
-| Host Name | WHAT XUXA FUE |
+| Host Name | mario |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:17:32 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:17:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549862394563 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | sukasukaxd |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:17:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549862562911 |
+| Players | 1/8 |
+| Host Name | WHAT XUXA FUE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:17:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549862614727 |
+| Players | 1/15 |
+| Host Name | Silverchild habbibi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:17:44 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549861891056 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:16:39 |
