@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242422074462 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:25:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242453665324 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | NIKO NIKO NI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:06:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242453407398 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:06:02 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242453151408 |
-| Players | 9/15 |
-| Host Name | Proudas#UltimateRust |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:05:43 |
+| Lobby ID | 28589242454058685 |
+| Players | 5/15 |
+| Host Name | aaaaaa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:06:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242453687713 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | shakal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:06:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242453482163 |
-| Players | 1/15 |
-| Host Name | pEnduUu The Explorer |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 1, 2024 18:06:07 |
+| Lobby ID | 28589242454196616 |
+| Players | 7/8 |
+| Host Name | G1uc0se |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, January 1, 2024 18:07:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242452448986 |
+| Players | 7/8 |
+| Host Name | ABOBA BOY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:04:50 |
 
 
 |  | epic_boss_fight_nightmare |
