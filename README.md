@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 20:19:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242582840788 |
-| Players | 5/8 |
-| Host Name | очко мам |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:19:08 |
+| Lobby ID | 28589242583496759 |
+| Players | 2/24 |
+| Host Name | 123456 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 20:19:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242582507445 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Дамир аль-Медведи |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 20:18:50 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242582343015 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 20:18:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242583504342 |
-| Players | 3/8 |
-| Host Name | zxclarity |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:19:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242583496759 |
-| Players | 1/24 |
-| Host Name | 123456 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 20:19:43 |
 
 
 |  | epic_boss_fight_nightmare |
