@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242498724707 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | psix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:57:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242498448373 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | DeVIP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:57:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242498479232 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 18:57:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242495928707 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:54:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242498835140 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:57:51 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | G1uc0se |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Monday, January 1, 2024 18:57:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242499103322 |
+| Players | 1/15 |
+| Host Name | MagicalLeeopleurodon |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, January 1, 2024 18:58:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242499145304 |
+| Players | 4/8 |
+| Host Name | d0shiru |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:58:11 |
 
 
 |  | epic_boss_fight_normal |
