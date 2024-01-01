@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549772668257 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | TripleS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:16:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549771720870 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | Stringer |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:15:05 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:14:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549772464933 |
-| Players | 8/10 |
-| Host Name | smokey nagata ඞ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:15:59 |
+| Lobby ID | 28590549772735646 |
+| Players | 4/15 |
+| Host Name | shining |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:16:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549772362359 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | IEdumpling |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:15:52 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549772016826 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | te mato pauseo te tecleo y tepeo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:15:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549772853789 |
+| Players | 4/8 |
+| Host Name | ❟❛❟Uchiha❟❛❟ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:16:28 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,17 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549771537524 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | difteriya |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:14:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549771536606 |
-| Players | 1/10 |
-| Host Name | SakalFTW |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:14:52 |
 
