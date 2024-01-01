@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549710541732 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Muerto en Vida |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:04:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549710159716 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | J6 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:03:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549711488521 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Thrallaros |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:05:23 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549711822089 |
-| Players | 4/8 |
-| Host Name | ашот Бочаров |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:05:45 |
+| Lobby ID | 28590549711845533 |
+| Players | 2/8 |
+| Host Name | Пули_От_Дедули |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:05:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549710383487 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | The lightning SiBeRiA* |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:04:10 |
