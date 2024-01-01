@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242467132637 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:22:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242466269167 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:21:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242468880676 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Hanni- |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:24:34 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242468797943 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Младший лейтенан |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:24:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242469212253 |
+| Players | 1/24 |
+| Host Name | 大川岛 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:24:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CELESTIAL BEING |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:18:44 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28589242469234077 |
+| Players | 1/7 |
+| Host Name | HAMMER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:24:59 |
 
 
