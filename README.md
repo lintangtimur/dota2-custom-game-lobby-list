@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242541535404 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Nocomments.no |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:40:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242533854905 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Tripa Seca BOLADÃO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 19:33:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242541863989 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:41:07 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kZe.idontgiveafuck!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:40:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242539731148 |
-| Players | 8/10 |
-| Host Name | bruh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:39:04 |
 
 
