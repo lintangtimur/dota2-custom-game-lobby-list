@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 17:44:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242438499498 |
-| Players | 7/8 |
-| Host Name | Chieftain |
+| Lobby ID | 28589242439089270 |
+| Players | 2/10 |
+| Host Name | zuzya prime |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:47:13 |
+| Lobby Creation Time | Monday, January 1, 2024 17:47:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242438926911 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Cool Llama |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:47:45 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:47:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242439089270 |
-| Players | 2/10 |
-| Host Name | zuzya prime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:47:58 |
 
 
 |  | epic_boss_fight_nightmare |
