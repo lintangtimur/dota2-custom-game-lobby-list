@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549634520164 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | lil mir |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:41:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549632490719 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Gaben Prophet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:39:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549633107168 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | -[foW] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:40:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549633809349 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Ahuritita |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:40:44 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:41:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549634779265 |
+| Players | 3/10 |
+| Host Name | 3x3x3x3x3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:41:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549634906470 |
+| Players | 3/24 |
+| Host Name | chelik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:41:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549629738998 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Neverrain |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:36:25 |
