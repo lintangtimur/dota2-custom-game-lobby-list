@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549836593571 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | SyX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:39:22 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549835719675 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Zag |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:38:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549836033759 |
-| Players | 19/24 |
-| Host Name | Rize - 気 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:38:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549837083495 |
-| Players | 1/15 |
-| Host Name | курьер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:40:03 |
 
 
 |  | ot3_desert_octet |
@@ -83,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:34:16 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549835061606 |
-| Players | 6/8 |
-| Host Name | PENE  NEGRO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:37:13 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549837059135 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | skrff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:40:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549837294406 |
+| Players | 3/8 |
+| Host Name | бля вы... я забыл |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:40:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549836273195 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | THOR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:38:54 |
