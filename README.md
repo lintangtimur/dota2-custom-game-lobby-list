@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242533068851 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | rood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:32:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242532333329 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Sandra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:31:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242521123872 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | xxzd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:20:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242533109741 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | •••ツVERY GOODツ••• |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:32:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242532954627 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ВОВА АДИДАС |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:32:32 |
@@ -76,37 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242533233040 |
-| Players | 9/10 |
-| Host Name | Фара |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:32:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242533513064 |
+| Lobby ID | 28589242533854905 |
 | Players | 1/10 |
 | Host Name | Tripa Seca BOLADÃO |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 1, 2024 19:33:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242533216267 |
-| Players | 3/5 |
-| Host Name | Rainbow |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:32:47 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 1, 2024 19:33:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242533605580 |
-| Players | 1/10 |
+| Lobby ID | 28589242533776905 |
+| Players | 2/10 |
 | Host Name | pos1 |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:33:10 |
+| Lobby Creation Time | Monday, January 1, 2024 19:33:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242533912182 |
+| Players | 2/5 |
+| Host Name | .mpwr |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:33:28 |
 
 
