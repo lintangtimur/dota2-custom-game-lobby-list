@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242713309272 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Hitokire182 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:15:08 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:18:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242720097957 |
-| Players | 13/15 |
-| Host Name | Fearx |
+| Lobby ID | 28589242720321784 |
+| Players | 5/8 |
+| Host Name | yamamoto ryuichi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:21:30 |
+| Lobby Creation Time | Monday, January 1, 2024 22:21:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242719343496 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | MelomaN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:20:48 |
@@ -101,30 +101,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:20:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242720321784 |
-| Players | 5/8 |
-| Host Name | yamamoto ryuichi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:21:43 |
+| Lobby ID | 28589242720759690 |
+| Players | 2/15 |
+| Host Name | Riley ★ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:22:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242718840228 |
-| Players | 8/10 |
-| Host Name | Вова Адидас |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:20:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242719798144 |
-| Players | 8/10 |
-| Host Name | Secretary-specific |
+| Lobby ID | 28589242720884550 |
+| Players | 1/15 |
+| Host Name | capt.noodles |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 22:21:13 |
+| Lobby Creation Time | Monday, January 1, 2024 22:22:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242720846510 |
+| Players | 1/10 |
+| Host Name | frogduk24 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 22:22:13 |
 
 
