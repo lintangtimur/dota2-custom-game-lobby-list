@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549779047509 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Rizzrack J'Kzð |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:24:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549780351975 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:25:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549782217403 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | пенис гриндер |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:27:58 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549780237498 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | SNC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:25:33 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549779952801 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:25:12 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549781952000 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Feedytharex |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:27:39 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549782307533 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | Prince of Pensia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:28:05 |
