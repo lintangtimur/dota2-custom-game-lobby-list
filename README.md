@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242539059518 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | It‘s time |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:38:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242541130438 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ໔ৡ♡♡ЖуЛиК ♡♡ৡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:40:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242541626234 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | kZe.idontgiveafuck!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:40:54 |
@@ -85,46 +85,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242542394598 |
-| Players | 4/8 |
-| Host Name | melancholy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:41:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242540708371 |
-| Players | 14/15 |
-| Host Name | GOZONE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:40:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28589242542449871 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Гундрик |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:41:41 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242540708371 |
+| Players | 13/15 |
+| Host Name | GOZONE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:40:01 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242539731148 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | bruh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:39:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242542456524 |
-| Players | 1/5 |
-| Host Name | nukelot |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:41:42 |
 
 
