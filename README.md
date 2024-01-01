@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549806610787 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Scrub, career felon |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:58:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549805756829 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | SyX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:57:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549806081304 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | CHAT=MUTED (CAPS LOCK BROKEN) |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:58:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549803929507 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | FrameSports |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:55:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549806672153 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | FODASE |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:58:56 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549807138909 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Peak Comedy |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:59:32 |
@@ -113,16 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549807224904 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | kejsi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:59:38 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549807346538 |
+| Players | 1/24 |
+| Host Name | Snow |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:59:48 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549803993517 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ТЁТКА ПОЕЛА! |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:55:27 |
