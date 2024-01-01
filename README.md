@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242818207417 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:58:30 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:59:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242819984721 |
-| Players | 8/10 |
-| Host Name | ЧТО ТАКОЕ ПОБЕДА? |
+| Lobby ID | 28589242820459705 |
+| Players | 4/8 |
+| Host Name | #brorust Neckz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:00:20 |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:00:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242819457974 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | szunari |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:59:47 |
@@ -50,19 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242820260823 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Karl_Nesios |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:00:37 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242820342047 |
+| Players | 2/8 |
+| Host Name | Волосатая Бубна |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:00:42 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242819616640 |
-| Players | 8/15 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 1, 2024 23:59:57 |
+| Lobby ID | 28589242820476240 |
+| Players | 1/15 |
+| Host Name | Secura^Madara |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:00:50 |
 
 
 |  | epic_boss_fight_normal |
