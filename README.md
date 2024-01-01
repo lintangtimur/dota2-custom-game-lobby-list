@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549564797133 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | ++ its trash |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:30:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549564979961 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | iNgame |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:30:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549564988818 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | -Archadia- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:30:21 |
@@ -68,52 +68,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549561904483 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Yo, Panthro |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:27:23 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549565285892 |
+| Players | 2/8 |
+| Host Name | Почему я? run |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:30:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549561775530 |
+| Players | 4/8 |
+| Host Name | Героинокоптер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:27:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549565253411 |
+| Players | 1/8 |
+| Host Name | 永遠に死んだ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:30:32 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549563905526 |
+| Lobby ID | 28590549562566236 |
 | Players | 15/15 |
-| Host Name | Harry Styles |
+| Host Name | ~$amahasla$~ |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:29:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549564670214 |
-| Players | 3/8 |
-| Host Name | White Spirit |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:30:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549559396972 |
-| Players | 3/8 |
-| Host Name | gerich |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:24:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549564299828 |
-| Players | 10/10 |
-| Host Name | Glennou |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:29:44 |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:28:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549554868677 |
-| Players | 9/10 |
+| Players | 10/10 |
 | Host Name | chakalitos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:21:16 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549564618682 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Tanjiro Kamado |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:30:03 |
@@ -137,37 +137,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 00:30:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549565046242 |
-| Players | 3/8 |
-| Host Name | 369Miko |
+| Lobby ID | 28590549564299828 |
+| Players | 9/10 |
+| Host Name | Glennou |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:30:23 |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:29:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590549562566236 |
-| Players | 14/15 |
-| Host Name | ~$amahasla$~ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:28:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549562992221 |
-| Players | 10/10 |
-| Host Name | NikeNorbert |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:28:28 |
+| Lobby ID | 28590549565142164 |
+| Players | 2/5 |
+| Host Name | Anunnaki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:30:27 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549564878591 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Вова Адидас |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:30:16 |
