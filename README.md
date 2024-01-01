@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 06:28:28 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549870043819 |
+| Players | 3/8 |
+| Host Name | New Jazzik run banditcamp.com |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:29:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549868470402 |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kanito |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:26:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549870041287 |
-| Players | 4/5 |
-| Host Name | Mr Magic |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:29:24 |
 
 
