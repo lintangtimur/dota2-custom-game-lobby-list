@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549683156862 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | luispinto71977 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:34:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549684228368 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | 85943734753895 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:35:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549683173909 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Classic throw |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:34:09 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:24:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549683694389 |
-| Players | 7/8 |
-| Host Name | Kiryu Moeka艾 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:34:43 |
+| Lobby ID | 28590549684259682 |
+| Players | 13/15 |
+| Host Name | Sp3hx |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:35:20 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549683989656 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | "World's Worst Criminal" Dragon |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:35:02 |
@@ -119,33 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:35:13 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549684040297 |
-| Players | 9/10 |
-| Host Name | Бурить=Сосать |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:35:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549684239933 |
-| Players | 4/10 |
-| Host Name | убийца крипов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:35:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549684259682 |
-| Players | 7/15 |
-| Host Name | Sp3hx |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:35:20 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549684320510 |
@@ -153,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Communist Trash |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:35:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549684464267 |
+| Players | 1/15 |
+| Host Name | DANTE SPARTA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:35:33 |
 
 
 |  | epic_boss_fight_hard |
