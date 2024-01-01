@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242492940119 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Me and 9 dogs |
 | Region | CHILE |
 | Lobby Creation Time | Monday, January 1, 2024 18:51:30 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:01:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242503111377 |
-| Players | 6/8 |
-| Host Name | Toxin |
+| Lobby ID | 28589242504245175 |
+| Players | 2/10 |
+| Host Name | )))()())))()) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:02:21 |
+| Lobby Creation Time | Monday, January 1, 2024 19:03:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242503491218 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 123 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:02:45 |
@@ -54,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:54:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242504121138 |
+| Players | 7/15 |
+| Host Name | лп enjoyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:03:24 |
 
 
