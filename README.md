@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242489434016 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:47:41 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242491351905 |
-| Players | 5/15 |
-| Host Name | Trigger finger |
+| Players | 4/15 |
+| Host Name | flmnt |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:49:45 |
 
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:50:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242491686093 |
-| Players | 1/8 |
-| Host Name | ''Yahiiko'' |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 18:50:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242490171376 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bambam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:48:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242491768059 |
+| Players | 1/10 |
+| Host Name | WhyBaby? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:50:12 |
 
 
