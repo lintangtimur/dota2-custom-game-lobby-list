@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:48:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242554880560 |
-| Players | 1/8 |
-| Host Name | Ergo Igamogre |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 1, 2024 19:53:28 |
+| Lobby ID | 28589242556572407 |
+| Players | 2/10 |
+| Host Name | ЧВК Рыган |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:55:04 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242555490546 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | очко мам |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:54:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242555790081 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | evo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:54:20 |
