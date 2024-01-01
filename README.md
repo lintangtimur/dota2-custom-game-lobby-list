@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242531209782 |
-| Players | 14/24 |
-| Host Name | Sup |
+| Players | 17/24 |
+| Host Name | jack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:30:49 |
 
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242530226467 |
-| Players | 2/15 |
-| Host Name | OTEЦ |
+| Players | 1/15 |
+| Host Name | waXter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:29:51 |
 
@@ -67,44 +67,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242532009319 |
-| Players | 1/15 |
-| Host Name | NaxodKA |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 1, 2024 19:31:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242532311642 |
-| Players | 3/10 |
-| Host Name | DoubleDD |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:31:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28589242532296063 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | CptMiddleDoor |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:31:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242532311642 |
+| Players | 5/10 |
+| Host Name | DoubleDD |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:31:54 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28584787122113565 |
-| Players | 1/8 |
-| Host Name | VeVoid |
+| Lobby ID | 28589242532742653 |
+| Players | 2/8 |
+| Host Name | u |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 02:29:49 |
+| Lobby Creation Time | Monday, January 1, 2024 19:32:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242529799973 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:29:26 |
