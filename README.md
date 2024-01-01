@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549686388246 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | U VV4NТ D33Z N4T ? [SIUU] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:37:37 |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:35:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549686360310 |
-| Players | 5/8 |
-| Host Name | I want? |
+| Lobby ID | 28590549686934659 |
+| Players | 1/10 |
+| Host Name | Демо-рыцарь |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:37:36 |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:38:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549686792926 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | juzzwardo |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:38:04 |
