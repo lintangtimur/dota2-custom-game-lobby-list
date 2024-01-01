@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242425713122 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Bambony |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 1, 2024 17:30:31 |
@@ -40,11 +40,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242425883998 |
+| Lobby ID | 28589242425900201 |
+| Players | 3/15 |
+| Host Name | BAAS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:30:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242425152192 |
+| Players | 7/8 |
+| Host Name | pma))) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:29:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242426009644 |
 | Players | 1/15 |
-| Host Name | Me and 9 dogs |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 17:30:44 |
+| Host Name | FRACTION |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:30:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242426020272 |
+| Players | 2/10 |
+| Host Name | ∆m¡®‡‡¤§§€¡N |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 1, 2024 17:30:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -67,10 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242425854904 |
+| Lobby ID | 28589242425966253 |
+| Players | 1/10 |
+| Host Name | qiellaeveily |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 1, 2024 17:30:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242425931845 |
 | Players | 1/10 |
 | Host Name | bruh |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, January 1, 2024 17:30:42 |
+| Lobby Creation Time | Monday, January 1, 2024 17:30:48 |
 
 
