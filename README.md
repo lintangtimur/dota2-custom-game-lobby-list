@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549649526360 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | CERF |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:57:38 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549648035382 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Zen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:56:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549649698703 |
-| Players | 7/8 |
-| Host Name | These Bitches Love SOSA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:57:49 |
+| Lobby ID | 28590549650335873 |
+| Players | 3/15 |
+| Host Name | M e l a n c h o l y |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:29 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:58:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549649789984 |
-| Players | 8/10 |
-| Host Name | Hovra |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:57:55 |
+| Lobby ID | 28590549650326115 |
+| Players | 11/15 |
+| Host Name | Suddenlazer |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:29 |
 
 
 |  | ot3_desert_octet |
@@ -110,39 +110,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:57:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549650335873 |
-| Players | 1/15 |
-| Host Name | M e l a n c h o l y |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:58:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549650326115 |
-| Players | 5/15 |
-| Host Name | Suddenlazer |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:58:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549649707053 |
-| Players | 14/15 |
-| Host Name | Синь Де Сы |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:57:49 |
+| Lobby ID | 28590549650562202 |
+| Players | 1/8 |
+| Host Name | Lautreamont |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549649075537 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | spoilt9111 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:57:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549650556016 |
+| Players | 1/5 |
+| Host Name | XxX_vIoLeT_dEmOn_XxX |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549650604911 |
+| Players | 1/5 |
+| Host Name | гы |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:47 |
 
 
