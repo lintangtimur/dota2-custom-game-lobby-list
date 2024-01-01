@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242702282079 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | 84 анальных трещин |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:04:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242700352515 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | wi wi |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:03:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242701468796 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | chibake |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:04:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242699419199 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:02:17 |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242702546081 |
-| Players | 1/15 |
-| Host Name | Klein |
+| Players | 5/15 |
+| Host Name | OPIUMPRIME |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:05:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242702641876 |
+| Players | 1/24 |
+| Host Name | Average Russian Player |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 22:05:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242699778585 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Kapal lawd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:02:38 |
