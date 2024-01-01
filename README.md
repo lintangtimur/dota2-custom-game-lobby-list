@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549881659312 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ELGORDOMAINKRAH |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:48:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549880959285 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:47:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549881313724 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | мои яички съели п |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:47:39 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | МИДЛАЙНА |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:48:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549881853742 |
+| Players | 1/15 |
+| Host Name | MONO |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:48:32 |
 
 
 |  | epic_boss_fight_nightmare |
