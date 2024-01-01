@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549791891368 |
-| Players | 1/15 |
-| Host Name | After Lane - Insane |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:39:59 |
+| Lobby ID | 28590549792129329 |
+| Players | 1/8 |
+| Host Name | птичийпепел |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:40:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549791845561 |
-| Players | 1/15 |
-| Host Name | ShinyClaw |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:39:56 |
+| Lobby ID | 28590549791639901 |
+| Players | 3/10 |
+| Host Name | Крип-Пехотинец |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:39:40 |
 
 
 |  | ot3_desert_octet |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549791527230 |
-| Players | 6/8 |
-| Host Name | 🔥🌪Hells-Riper🌪🔥 |
+| Lobby ID | 28590549791367724 |
+| Players | 3/8 |
+| Host Name | Uci |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:39:32 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:39:20 |
 
 
 |  | ot3_desert_octet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:39:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549790764556 |
-| Players | 7/8 |
-| Host Name | Sathanus |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:38:35 |
+| Lobby ID | 28590549788378427 |
+| Players | 3/10 |
+| Host Name | BoeJiden |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:35:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,46 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549789474621 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | ATEMX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:36:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549788378427 |
-| Players | 3/10 |
-| Host Name | BoeJiden |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:35:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549791367724 |
-| Players | 3/8 |
-| Host Name | Uci |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:39:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549791639901 |
-| Players | 2/10 |
-| Host Name | Крип-Пехотинец |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:39:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549791871039 |
-| Players | 5/8 |
-| Host Name | Чикатило |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:39:58 |
 
 
 |  | epic_boss_fight_nightmare |
