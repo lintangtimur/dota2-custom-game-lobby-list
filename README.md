@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549695701925 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Дашка |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:47:52 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:47:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549697292686 |
-| Players | 3/10 |
-| Host Name | #DFined |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:49:39 |
+| Lobby ID | 28590549697642052 |
+| Players | 4/8 |
+| Host Name | Dragnork |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:50:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549693890880 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Hazard |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:45:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549697559013 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | koma prime |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:49:56 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549697064578 |
-| Players | 2/8 |
-| Host Name | Anzû |
+| Players | 1/8 |
+| Host Name | Bjuckler |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:49:23 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549696868476 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Snow |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:49:10 |
@@ -95,25 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549697487187 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Touch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:49:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549697561787 |
-| Players | 1/8 |
-| Host Name | aik |
+| Lobby ID | 28590549697715611 |
+| Players | 2/10 |
+| Host Name | Dante57 |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:49:57 |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:50:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549696220995 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | 123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:48:27 |
