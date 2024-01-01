@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242765588948 |
-| Players | 6/15 |
-| Host Name | Grim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:05:31 |
+| Lobby ID | 28589242767044461 |
+| Players | 1/8 |
+| Host Name | LooPer |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 23:06:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242766915138 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | b |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:06:49 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242766102681 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | TOTSUGEKI |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:06:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242765961230 |
-| Players | 12/15 |
-| Host Name | Feedeo Nicolini! |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 23:05:52 |
+| Lobby ID | 28589242767267944 |
+| Players | 3/8 |
+| Host Name | meepo.peed.or |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 23:07:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242760497056 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | VOID EL CONSTRUCTOR |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:00:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242766469435 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | МИШКА БРАТИШКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:06:23 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242767022176 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | loid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:06:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242767044461 |
-| Players | 1/8 |
-| Host Name | LooPer |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 23:06:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242767054688 |
-| Players | 4/8 |
-| Host Name | ИБУКЛИН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:06:57 |
 
 
 |  | epic_boss_fight_normal |
