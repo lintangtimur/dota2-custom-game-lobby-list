@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549761811897 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | mc boss/ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:03:18 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549759447795 |
-| Players | 9/10 |
-| Host Name | Tripa Seca BOLADÃO |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:00:30 |
+| Lobby ID | 28590549761822855 |
+| Players | 7/10 |
+| Host Name | cf |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:03:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549759962432 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | cce |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:01:06 |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549760802409 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:02:06 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549761822855 |
-| Players | 5/10 |
-| Host Name | А это я) |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:03:19 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549761806504 |
-| Players | 3/8 |
-| Host Name | NeDyrachyo |
+| Lobby ID | 28590549761917210 |
+| Players | 2/8 |
+| Host Name | ФренCock |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:03:18 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:03:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ÑẾ҉ㄨǺ҉eốn_ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:00:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549761905781 |
+| Players | 1/5 |
+| Host Name | Дошираковая Ломк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:03:25 |
 
 
