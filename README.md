@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242437378297 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Hazbullah king |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:45:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242436280010 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Anita Max Wynn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:44:23 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 17:35:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242437118988 |
-| Players | 11/15 |
-| Host Name | Detelinara{RUBIN} |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 17:45:28 |
+| Lobby ID | 28589242437777382 |
+| Players | 4/10 |
+| Host Name | ★STARK★ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:46:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NIKO NIKO NI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:46:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242437655453 |
-| Players | 3/8 |
-| Host Name | Тема петушок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:46:09 |
 
 
 |  | epic_boss_fight_nightmare |
