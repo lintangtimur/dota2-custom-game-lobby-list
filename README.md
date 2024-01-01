@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549766984005 |
-| Players | 5/8 |
-| Host Name | SI TAN SOLO PUDIERA ESCRIBIR TMR |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:09:26 |
+| Lobby ID | 28590549770396629 |
+| Players | 3/8 |
+| Host Name | R1der♡ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:13:30 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549769833940 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Dragon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:12:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549768948546 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Чунга Чанга |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:11:46 |
@@ -112,20 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549767425418 |
-| Players | 7/8 |
-| Host Name | артёмка капитан |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:09:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549770212088 |
-| Players | 1/8 |
-| Host Name | Дрочислав |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:13:17 |
+| Lobby ID | 28590549770323903 |
+| Players | 3/8 |
+| Host Name | Roflan_Ebalo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:13:25 |
 
 
 |  | epic_boss_fight_normal |
