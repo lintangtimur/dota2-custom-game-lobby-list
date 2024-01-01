@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242684333694 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:48:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242676868657 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | ВЫЖИВАЛОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:41:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242683170530 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | CheezyPizza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:47:27 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242684126022 |
-| Players | 13/15 |
-| Host Name | Residen[X] |
+| Lobby ID | 28589242685197097 |
+| Players | 4/15 |
+| Host Name | Itachi Uchiha |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:48:19 |
+| Lobby Creation Time | Monday, January 1, 2024 21:49:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,35 +112,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242684776694 |
-| Players | 2/10 |
-| Host Name | NothingToSay |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 1, 2024 21:48:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242685040936 |
-| Players | 6/8 |
-| Host Name | XnestiX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:49:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242685009919 |
-| Players | 3/10 |
-| Host Name | rino ceronte |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:49:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28589242685056572 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | swdge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:49:09 |
