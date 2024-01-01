@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242422074462 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:25:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242458259360 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | anki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242458415364 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ♥Fox in Boots♥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:12:08 |
@@ -83,6 +83,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:12:08 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242457432927 |
+| Players | 14/15 |
+| Host Name | Леха Тарабрин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:10:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242458647391 |
+| Players | 1/10 |
+| Host Name | solo_feed ^^ RU |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:12:25 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242456707121 |
@@ -104,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242457496947 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Fafara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:02 |
