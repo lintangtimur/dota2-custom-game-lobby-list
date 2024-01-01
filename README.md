@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549863384984 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Camila Cabello |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:18:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549863552596 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | IO |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:19:11 |
@@ -92,30 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 06:19:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549862561038 |
-| Players | 7/8 |
-| Host Name | mario |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:17:40 |
+| Lobby ID | 28590549863663117 |
+| Players | 1/10 |
+| Host Name | Sakata Gintoki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:19:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590549863617809 |
-| Players | 1/15 |
-| Host Name | KILLMONGER |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:19:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549863618250 |
-| Players | 3/8 |
-| Host Name | SLEEP |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:19:17 |
+| Lobby ID | 28590549863708849 |
+| Players | 1/5 |
+| Host Name | Ась |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:19:25 |
 
 
