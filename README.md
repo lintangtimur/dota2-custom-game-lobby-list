@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549873529834 |
-| Players | 14/15 |
-| Host Name | Hellsing |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:34:56 |
+| Lobby ID | 28590549874981158 |
+| Players | 3/10 |
+| Host Name | メノリ-ラヴ-ヴェリク |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:37:15 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549874656764 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 3L 1L3G4L |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:36:44 |
@@ -47,33 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549874587085 |
-| Players | 1/8 |
-| Host Name | айву ily |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:36:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549874504270 |
-| Players | 7/8 |
-| Host Name | XANDER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:36:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549873567708 |
-| Players | 5/8 |
-| Host Name | [N]estarada |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:35:00 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549875018454 |
@@ -86,18 +59,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549874924368 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | hate love |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:37:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549873567708 |
+| Players | 5/8 |
+| Host Name | [N]estarada |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:35:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549875128534 |
+| Players | 1/8 |
+| Host Name | айву ily |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:37:30 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549874981158 |
-| Players | 5/10 |
-| Host Name | メノリ-ラヴ-ヴェリク |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:37:15 |
+| Lobby ID | 28590549875151191 |
+| Players | 1/10 |
+| Host Name | PSG.LGD AME- |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:37:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549875162519 |
+| Players | 1/8 |
+| Host Name | RezNovAli |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:37:33 |
 
 
