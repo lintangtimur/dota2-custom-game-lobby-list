@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549815766125 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Oshh |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:10:48 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:17:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549821516636 |
-| Players | 7/15 |
-| Host Name | HyvesXL |
+| Lobby ID | 28590549822086829 |
+| Players | 4/10 |
+| Host Name | RavenShadow |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:18:26 |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:19:11 |
 
 
 |  | ot3_necropolis_ffa |
