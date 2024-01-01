@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549855334470 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | M_C |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:06:43 |
@@ -49,56 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549856819577 |
-| Players | 7/8 |
-| Host Name | LieMaN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:08:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549856926550 |
-| Players | 12/15 |
-| Host Name | win? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:09:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549856027449 |
-| Players | 8/15 |
-| Host Name | samowamo |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:07:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549854196900 |
-| Players | 13/24 |
-| Host Name | :D |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:05:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549856329512 |
-| Players | 10/15 |
-| Host Name | Noelle |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:08:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549856997052 |
-| Players | 7/10 |
-| Host Name | ƁǺÑDĘ℟Ǻ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:09:13 |
+| Lobby ID | 28590549857236885 |
+| Players | 3/8 |
+| Host Name | you are a BETA MALE!! |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:09:35 |
 
 
 |  | ot3_gardens_duo |
@@ -110,22 +65,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 06:09:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549857236885 |
-| Players | 3/8 |
-| Host Name | you are a BETA MALE!! |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:09:35 |
+| Lobby ID | 28590549856027449 |
+| Players | 13/15 |
+| Host Name | samowamo |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:07:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549857303546 |
-| Players | 4/8 |
-| Host Name | chambaMAN |
+| Lobby ID | 28590549854196900 |
+| Players | 14/24 |
+| Host Name | :D |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:09:41 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:05:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549856329512 |
+| Players | 11/15 |
+| Host Name | Noelle |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:08:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549856997052 |
+| Players | 8/10 |
+| Host Name | ƁǺÑDĘ℟Ǻ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:09:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549856232350 |
+| Players | 5/8 |
+| Host Name | [N]estarada |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:08:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549857415776 |
+| Players | 1/24 |
+| Host Name | xClaiir3x |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:09:51 |
 
 
 |  | epic_boss_fight_nightmare |
