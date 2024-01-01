@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549728502597 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Gah |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:24:33 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:26:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549731573213 |
-| Players | 12/15 |
-| Host Name | Cel |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:28:05 |
+| Lobby ID | 28590549732079130 |
+| Players | 6/10 |
+| Host Name | MAHLER HAMMER |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:28:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549731723072 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Nash1495 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:28:15 |
@@ -135,33 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ressentiment |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:28:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549732079130 |
-| Players | 6/10 |
-| Host Name | MAHLER HAMMER |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:28:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549732081224 |
-| Players | 1/15 |
-| Host Name | Milamber |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:28:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549732101432 |
-| Players | 1/15 |
-| Host Name | ТВОЯ МАМКА У МЕНЯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:28:41 |
 
 
 |  | epic_boss_fight_hard |
