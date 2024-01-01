@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242568581153 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 20:06:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242569213901 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | F-14 Tomcat |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 20:06:44 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 20:06:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242569492314 |
-| Players | 4/8 |
-| Host Name | Dawae_129 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 20:07:00 |
 
 
 |  | epic_boss_fight_nightmare |
