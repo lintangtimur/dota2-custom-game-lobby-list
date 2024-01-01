@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549634520164 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | lil mir |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:41:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549632490719 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Gaben Prophet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:39:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549633107168 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | -[foW] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:40:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549633809349 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | Ahuritita |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:40:44 |
@@ -94,17 +94,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549634013826 |
-| Players | 11/15 |
-| Host Name | Железный Гомосек |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:40:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28590549634153344 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:41:06 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28590549620559766 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:26:44 |
