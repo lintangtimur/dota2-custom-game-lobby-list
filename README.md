@@ -4,109 +4,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242550212266 |
-| Players | 13/15 |
-| Host Name | NAKIEL |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 19:49:03 |
+| Lobby ID | 28589242561575378 |
+| Players | 6/15 |
+| Host Name | El dota O yo |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 1, 2024 19:59:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242555441721 |
-| Players | 23/24 |
-| Host Name | sdasd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:54:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242557374851 |
-| Players | 9/10 |
-| Host Name | depression & obsession |
+| Lobby ID | 28589242564684477 |
+| Players | 2/24 |
+| Host Name | Яндекс елда |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:55:50 |
+| Lobby Creation Time | Monday, January 1, 2024 20:02:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242558681094 |
-| Players | 6/8 |
-| Host Name | hoop.angel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:57:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242555846138 |
-| Players | 4/8 |
-| Host Name | Peon Redfield |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:54:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242557550839 |
-| Players | 4/10 |
-| Host Name | PaZatronik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:55:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242557320496 |
-| Players | 1/8 |
-| Host Name | ''Yahiiko'' |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 19:55:47 |
+| Lobby ID | 28589242564149792 |
+| Players | 5/8 |
+| Host Name | 狂热激战A-Rev.3 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, January 1, 2024 20:02:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242558848305 |
-| Players | 3/15 |
-| Host Name | バカ 𒉭 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:57:10 |
+| Lobby ID | 28589242564492939 |
+| Players | 1/15 |
+| Host Name | 栗悟飯与海龟波 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 20:02:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242554380139 |
+| Lobby ID | 28589242564164316 |
 | Players | 10/15 |
-| Host Name | ХУЛИо |
+| Host Name | sleepy space cat |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:52:59 |
+| Lobby Creation Time | Monday, January 1, 2024 20:02:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242558899439 |
-| Players | 1/8 |
-| Host Name | Arrr-arr!!! tastydrop |
+| Lobby ID | 28589242562707777 |
+| Players | 3/10 |
+| Host Name | lunacy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:57:13 |
+| Lobby Creation Time | Monday, January 1, 2024 20:00:45 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242557190002 |
-| Players | 4/7 |
-| Host Name | likerchik СаСтрайк |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:55:39 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242558964702 |
-| Players | 1/5 |
+| Lobby ID | 28589242564357184 |
+| Players | 1/10 |
 | Host Name | 7-Ghost |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:57:17 |
+| Lobby Creation Time | Monday, January 1, 2024 20:02:17 |
 
 
