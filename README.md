@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549836593571 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | SyX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:39:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549836033759 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Rize - 気 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:38:35 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549835608680 |
-| Players | 14/15 |
-| Host Name | vier |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:37:59 |
+| Lobby ID | 28590549837083495 |
+| Players | 1/15 |
+| Host Name | курьер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:40:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549832966389 |
-| Players | 10/24 |
+| Players | 7/24 |
 | Host Name | Dread |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:34:16 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549835061606 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PENE  NEGRO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:37:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549836555442 |
-| Players | 1/10 |
-| Host Name | pato |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:39:19 |
+| Lobby ID | 28590549837059135 |
+| Players | 3/15 |
+| Host Name | skrff |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:40:01 |
 
 
 |  | epic_boss_fight_nightmare |
