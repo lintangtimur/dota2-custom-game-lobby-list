@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549663926032 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | The Cat say Meow |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:13:09 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549659238813 |
-| Players | 6/15 |
-| Host Name | ~Soulles |
+| Players | 3/15 |
+| Host Name | Rory IVIercury |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:08:04 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549658804445 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | パルビン |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:07:36 |
@@ -67,47 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549664249959 |
-| Players | 3/8 |
-| Host Name | ЧЕМПИОН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:13:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28590549663017977 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Neferpitou |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:12:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549663750860 |
-| Players | 6/8 |
-| Host Name | Mahdias |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:12:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549664276064 |
-| Players | 1/15 |
-| Host Name | jungle drow |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:13:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549664142708 |
-| Players | 14/15 |
-| Host Name | Бордюр 21 |
+| Lobby ID | 28590549664583940 |
+| Players | 2/10 |
+| Host Name | miz |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:13:23 |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:13:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549662120309 |
+| Players | 14/15 |
+| Host Name | danling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:11:10 |
 
 
 |  | epic_boss_fight_normal |
