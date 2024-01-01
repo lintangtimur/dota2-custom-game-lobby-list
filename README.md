@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242649164583 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | SIX NALL |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 21:17:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242657791324 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | One More Night |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:25:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242657250757 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:24:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242652121134 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Grey |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:20:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242658420202 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | патрик бейтман |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:25:41 |
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242658546376 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | DUKI |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:25:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242658909441 |
-| Players | 6/10 |
-| Host Name | моделирую шмоделирую |
+| Lobby ID | 28589242659061174 |
+| Players | 2/8 |
+| Host Name | 護士管理員 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:26:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242658909287 |
-| Players | 2/15 |
-| Host Name | Agent Orange |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 1, 2024 21:26:07 |
+| Lobby Creation Time | Monday, January 1, 2024 21:26:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242658245086 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SUP IS MY LIFE |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 1, 2024 21:25:32 |
