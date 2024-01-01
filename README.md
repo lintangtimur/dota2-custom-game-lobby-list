@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242829827888 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | JZZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:10:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242828984265 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 4 Deditos :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:09:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242825590712 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | ₆⁶₆ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:06:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242830045636 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | matematic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:10:38 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 00:03:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242826843576 |
-| Players | 2/15 |
-| Host Name | ~Penguin™ |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:07:22 |
+| Lobby ID | 28589242829821786 |
+| Players | 6/8 |
+| Host Name | ifreake |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:10:24 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 00:10:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242829821786 |
-| Players | 6/8 |
-| Host Name | ifreake |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:10:24 |
+| Lobby ID | 28589242824900199 |
+| Players | 14/15 |
+| Host Name | JrY |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:05:23 |
 
 
 |  | epic_boss_fight_nightmare |
