@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:28:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549673004526 |
-| Players | 7/10 |
-| Host Name | селявка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:22:59 |
+| Lobby ID | 28590549678454896 |
+| Players | 3/15 |
+| Host Name | 𝖂𝖆𝖓𝖙𝖔𝖓𝖞 |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:28:59 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549676395898 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | samn |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:26:44 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28590549678373164 |
 | Players | 2/8 |
-| Host Name | GreenI |
+| Host Name | rikitikitavi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:28:53 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549678037360 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | I HATE SNICKERS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:28:31 |
@@ -119,58 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:27:00 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549676598896 |
-| Players | 9/10 |
-| Host Name | ŧiмøη |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:26:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549676932827 |
-| Players | 12/24 |
-| Host Name | Rylaii |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:27:19 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549678445596 |
-| Players | 3/15 |
+| Players | 14/15 |
 | Host Name | 絞め殺す者 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:28:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549677951998 |
-| Players | 9/10 |
-| Host Name | S.A |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:28:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549678454896 |
-| Players | 3/15 |
-| Host Name | Dexzor |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:28:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549678468181 |
-| Players | 5/8 |
-| Host Name | Immortality |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:29:00 |
+| Lobby ID | 28590549676932827 |
+| Players | 13/24 |
+| Host Name | Rylaii |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:27:19 |
 
 
 |  | epic_boss_fight_hard |
