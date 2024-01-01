@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242441113489 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ZHO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:50:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242441760634 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | anki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:51:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242441784583 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | G |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:51:24 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bEAm/-Solar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:45:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242441443196 |
-| Players | 9/10 |
-| Host Name | monay |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 17:50:57 |
 
 
