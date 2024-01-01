@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242694172700 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | eriC |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:57:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242698758582 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Hushy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:01:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242699532710 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | ... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:02:24 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242699486351 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | Jura |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:02:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242699780990 |
+| Players | 1/24 |
+| Host Name |  |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 22:02:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242699778585 |
+| Players | 1/10 |
+| Host Name | Kapal lawd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 22:02:38 |
 
 
