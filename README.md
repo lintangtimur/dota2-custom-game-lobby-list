@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242723836345 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | афывйцу |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:25:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242731037382 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | PewPew |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:31:56 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:30:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242731462268 |
+| Players | 2/8 |
+| Host Name | TEMAKP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:32:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242731460343 |
+| Players | 1/8 |
+| Host Name | I am invincible雨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:32:20 |
 
 
 |  | epic_boss_fight_nightmare |
