@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242482395028 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 躍動 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Monday, January 1, 2024 18:39:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242484205946 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:41:56 |
@@ -87,7 +87,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28589242485178753 |
 | Players | 13/15 |
-| Host Name | Скелетон |
+| Host Name | олег |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:42:59 |
 
@@ -103,20 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242485784002 |
-| Players | 3/8 |
-| Host Name | ЧІНАЗЕС |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 1, 2024 18:43:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28589242485756559 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Toxin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:43:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242485953931 |
+| Players | 1/15 |
+| Host Name | Abyssal |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:43:51 |
 
 
 |  | epic_boss_fight_normal |
