@@ -68,18 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242448228452 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | nemesis |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:59:32 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242447851658 |
-| Players | 7/10 |
-| Host Name | Kongandeu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 17:59:04 |
+| Lobby ID | 28589242448431736 |
+| Players | 1/8 |
+| Host Name | #idinaxyi MaLo9_ToP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:59:47 |
 
 
