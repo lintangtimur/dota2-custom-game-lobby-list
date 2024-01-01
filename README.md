@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242421871919 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | can'ttrust white |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:25:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242422180734 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 1, 2024 17:25:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242422620484 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Я ИГРАЛ КАК ПЕЛЕ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:26:21 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lokoespartano |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 17:26:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242422978428 |
-| Players | 4/8 |
-| Host Name | никола тесла |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:26:50 |
 
 
 |  | epic_boss_fight_nightmare |
