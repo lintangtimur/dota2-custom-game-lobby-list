@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242504121138 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | лп enjoyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:03:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242503491218 |
-| Players | 7/10 |
-| Host Name | 123 |
+| Lobby ID | 28589242504533558 |
+| Players | 1/8 |
+| Host Name | фанат скайзи |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:02:45 |
+| Lobby Creation Time | Monday, January 1, 2024 19:03:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242502536217 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | dzmrdhni |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:01:44 |
@@ -56,12 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:54:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242500424919 |
-| Players | 13/15 |
-| Host Name | Че аниме пацаны? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:59:32 |
+| Lobby ID | 28589242504571123 |
+| Players | 1/10 |
+| Host Name | Smart |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:03:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242504591742 |
+| Players | 1/10 |
+| Host Name | ChowChow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:03:54 |
 
 
