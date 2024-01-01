@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242787912244 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:27:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242787154326 |
-| Players | 10/15 |
-| Host Name | DGL |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 23:26:51 |
+| Lobby ID | 28589242790346629 |
+| Players | 4/8 |
+| Host Name | 123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:30:01 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242790134963 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Shade1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:29:48 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242789466902 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Илюня |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:29:09 |
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:29:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242790171467 |
-| Players | 5/8 |
-| Host Name | Bahog Nawng |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 23:29:51 |
+| Lobby ID | 28589242790360346 |
+| Players | 1/10 |
+| Host Name | sashahowever |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 23:30:02 |
 
 
 |  | epic_boss_fight_hard |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242789615132 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | aaa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:29:18 |
