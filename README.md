@@ -59,27 +59,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549845465674 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | $$-_-$$ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:52:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549845416714 |
-| Players | 13/15 |
-| Host Name | TYRAEL |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:52:00 |
+| Lobby ID | 28590549846381362 |
+| Players | 3/10 |
+| Host Name | Dolphinling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:53:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549846181330 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Матье Балл |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:53:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549846420349 |
+| Players | 2/10 |
+| Host Name | Francis |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:53:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549846432287 |
+| Players | 2/8 |
+| Host Name | xdxdxd |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:53:30 |
 
 
