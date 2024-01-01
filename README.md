@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242521829122 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 死 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:21:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242520089581 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:19:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242522098127 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Родился на мидлей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:21:41 |
@@ -77,17 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242522465376 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | io |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:22:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242522473567 |
-| Players | 5/8 |
-| Host Name | НЫА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:22:03 |
 
@@ -101,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:22:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242522622714 |
+| Players | 4/8 |
+| Host Name | Team.Underdog(-ben0) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:22:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242520314566 |
@@ -112,17 +112,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242521608672 |
-| Players | 4/5 |
-| Host Name | ONYX |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:21:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
 | Lobby ID | 28589242522302400 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | Loohe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:21:53 |
