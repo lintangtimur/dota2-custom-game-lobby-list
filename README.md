@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242458158977 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | フ六violetフ六 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242450603328 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | coa7279 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242458415364 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ♥Fox in Boots♥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:12:08 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:12:08 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242457432927 |
-| Players | 14/15 |
-| Host Name | Леха Тарабрин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:10:57 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242458647391 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | solo_feed ^^ RU |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:12:25 |
