@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242688580238 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Mekanism |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:52:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242681209444 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | MakimaGOD |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:45:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242689908660 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Moccio望 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:53:33 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242677834336 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Jesucristo el Robot del Futuro |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:42:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242689896734 |
-| Players | 14/15 |
-| Host Name | metoda |
+| Lobby ID | 28589242690455136 |
+| Players | 3/10 |
+| Host Name | nut- |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:53:32 |
+| Lobby Creation Time | Monday, January 1, 2024 21:54:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242690243800 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 小魚魚魚魚？🐠🐠🐠 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:53:52 |
@@ -119,28 +119,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:53:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242690351953 |
-| Players | 3/8 |
-| Host Name | 85943734753895 |
+| Lobby ID | 28589242690351111 |
+| Players | 1/10 |
+| Host Name | ninon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:53:58 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242688914214 |
-| Players | 9/10 |
-| Host Name | A- |
+| Lobby ID | 28589242690518638 |
+| Players | 1/24 |
+| Host Name | jnikko |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 21:52:37 |
+| Lobby Creation Time | Monday, January 1, 2024 21:54:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242689950043 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Saturday Evening Puss |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:53:35 |
