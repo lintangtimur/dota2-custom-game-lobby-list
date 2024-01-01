@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549882640336 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Good день |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:49:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549886432998 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | УБИВАТЬ УБИВАТЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:56:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549886033254 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:55:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549886031407 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:55:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549886639829 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ЗА ЯШУ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:56:39 |
@@ -92,13 +92,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 06:56:34 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549886945488 |
+| Players | 1/10 |
+| Host Name | TOSENO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:57:10 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549886841762 |
+| Lobby ID | 28590549886938808 |
+| Players | 5/8 |
+| Host Name | andre.dz |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:57:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549886937066 |
 | Players | 1/8 |
-| Host Name | STERBLICH |
+| Host Name | Mango |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:57:00 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:57:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549880801795 |
+| Players | 23/24 |
+| Host Name | Indio Boca Mole |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:46:48 |
 
 
 |  | epic_boss_fight_challenger |
