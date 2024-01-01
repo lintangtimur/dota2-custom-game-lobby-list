@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549608402807 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | hide |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:13:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549605158446 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | shu |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:10:13 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549608176749 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | melker22 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:13:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549608417176 |
-| Players | 2/10 |
-| Host Name | JOJO is back...? |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:13:44 |
+| Lobby ID | 28590549608726285 |
+| Players | 1/8 |
+| Host Name | タタール語 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:14:04 |
 
 
 |  | ot3_gardens_duo |
@@ -101,31 +101,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:12:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549608676291 |
-| Players | 3/8 |
-| Host Name | Xtello |
+| Lobby ID | 28590549608875470 |
+| Players | 2/15 |
+| Host Name | 0 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:14:01 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:14:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549607853352 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | ||€xîdîum|| |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:13:08 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549608794728 |
+| Players | 5/10 |
+| Host Name | Boba Fett |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:14:09 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549608726285 |
-| Players | 1/8 |
-| Host Name | タタール語 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:14:04 |
+| Lobby ID | 28590549608800677 |
+| Players | 2/8 |
+| Host Name | небольшой тролленг |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:14:09 |
 
 
 |  | epic_boss_fight_nightmare |
