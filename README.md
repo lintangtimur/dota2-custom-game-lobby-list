@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549711207373 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | XinQ cosplayer |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:05:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549719356294 |
-| Players | 6/10 |
-| Host Name | play like pele |
+| Lobby ID | 28590549719465104 |
+| Players | 14/15 |
+| Host Name | ⛥スwhite princeス⛥怒savag |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:14:09 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:14:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549716465794 |
-| Players | 1/8 |
-| Host Name | kchaviejas |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:10:56 |
+| Lobby ID | 28590549719575427 |
+| Players | 1/24 |
+| Host Name | [DG] Smurf Aposentado |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:14:23 |
 
 
 |  | ot3_desert_octet |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549717119413 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:11:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549719465104 |
-| Players | 2/15 |
-| Host Name | ⛥スwhite princeス⛥怒savag |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:14:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549719457439 |
-| Players | 1/15 |
-| Host Name | фу women отойди |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:14:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | пiвная sиsьк@ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:13:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549719472265 |
-| Players | 3/5 |
-| Host Name | Shake |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:14:17 |
 
 
