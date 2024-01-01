@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549586977713 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Feedytharex |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:50:22 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549587679127 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | パルビン |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:51:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549588293333 |
-| Players | 10/15 |
-| Host Name | бойцовский хуй |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:51:46 |
+| Lobby ID | 28590549588728855 |
+| Players | 5/8 |
+| Host Name | ARCHER |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:52:15 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242837716387 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | [L] |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:18:34 |
@@ -59,63 +59,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549587333452 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | kJJ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:50:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549584187250 |
-| Players | 6/10 |
-| Host Name | Desrespect |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:47:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549588539395 |
-| Players | 9/10 |
-| Host Name | lustmymind |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:52:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549588728855 |
-| Players | 1/8 |
-| Host Name | ARCHER |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:52:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549588562144 |
-| Players | 2/10 |
-| Host Name | Magadan RQ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:52:04 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549588650618 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Dм|try Zageeв |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:52:10 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549588316946 |
+| Lobby ID | 28590549589027499 |
+| Players | 2/24 |
+| Host Name | kisper |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:52:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549588949814 |
+| Players | 1/10 |
+| Host Name | diegotsfye |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:52:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549588972295 |
+| Players | 5/15 |
+| Host Name | kono Dio da! |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:52:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549589133050 |
 | Players | 5/10 |
-| Host Name | Вова Адидас |
+| Host Name | Magadan RQ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:51:48 |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:52:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549589368014 |
+| Players | 2/10 |
+| Host Name | JOJO is back...? |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:52:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549589363488 |
+| Players | 1/5 |
+| Host Name | 💯< ΰӆҝ∩ℴẘℕ >💯 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:52:58 |
 
 
