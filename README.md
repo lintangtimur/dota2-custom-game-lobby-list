@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242785312616 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Lawliet- |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:25:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242785645726 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 23:25:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242780725141 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Nuterez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:20:21 |
@@ -74,22 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:24:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242785871401 |
-| Players | 1/15 |
-| Host Name | Sm |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 1, 2024 23:25:34 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242785909112 |
+| Lobby ID | 28589242786014460 |
 | Players | 1/10 |
 | Host Name | WaRRioR |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, January 1, 2024 23:25:36 |
+| Lobby Creation Time | Monday, January 1, 2024 23:25:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242786054063 |
+| Players | 5/8 |
+| Host Name | TANK_040 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 23:25:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242786073422 |
+| Players | 5/8 |
+| Host Name | - green |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:25:46 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28589242782541181 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | trailerswift |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:22:11 |
