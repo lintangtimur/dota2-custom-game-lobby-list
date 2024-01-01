@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549656056100 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | JImmy Cooks |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:04:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549653160096 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Yp.V |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:01:31 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549656308136 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Nebghik |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:04:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549656645335 |
-| Players | 5/8 |
-| Host Name | Brrr |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:05:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549655109392 |
-| Players | 1/24 |
-| Host Name | Aizm11 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:03:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,13 +74,76 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:03:36 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549655109392 |
+| Players | 1/24 |
+| Host Name | Aizm11 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:03:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549656698841 |
+| Players | 1/10 |
+| Host Name | GTO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:05:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549656746189 |
+| Players | 2/8 |
+| Host Name | AB1BA$ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:05:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549656798505 |
+| Players | 4/8 |
+| Host Name | GhostDark |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:05:27 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549656632405 |
-| Players | 3/15 |
-| Host Name | free_† |
+| Lobby ID | 28590549654357244 |
+| Players | 14/15 |
+| Host Name | andreyvinogradoff |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:02:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549656354629 |
+| Players | 14/15 |
+| Host Name | kayrat.kg1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:04:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549656808183 |
+| Players | 6/8 |
+| Host Name | loke |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:05:16 |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:05:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549656786536 |
+| Players | 1/8 |
+| Host Name |  |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:05:26 |
 
 
 |  | epic_boss_fight_nightmare |
