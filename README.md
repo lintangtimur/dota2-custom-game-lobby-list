@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242477102998 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kalimoria |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:34:01 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242476334202 |
+| Lobby ID | 28589242477045752 |
 | Players | 14/15 |
-| Host Name | I  JaNbo  I |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:33:08 |
+| Host Name | never give up |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:33:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,21 +65,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:34:39 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242475885680 |
-| Players | 8/10 |
-| Host Name | FAITH |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:32:38 |
+| Lobby ID | 28589242477822580 |
+| Players | 6/10 |
+| Host Name | Jami |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, January 1, 2024 18:34:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242477876648 |
+| Players | 4/8 |
+| Host Name | no girlfriend = no problem |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:34:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242477980115 |
+| Players | 2/8 |
+| Host Name | Cago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:35:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242477532613 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | KumaBear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:34:30 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242477934608 |
+| Players | 2/10 |
+| Host Name | loser zxc king ϒwhite princeϒ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:34:57 |
 
 
