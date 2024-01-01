@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:04:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549622349220 |
-| Players | 1/8 |
-| Host Name | ВОЛК С ЛУЗСТРИК |
+| Lobby ID | 28590549623216697 |
+| Players | 2/10 |
+| Host Name | I refuse the sun and the moon |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:28:37 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:33 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549621356054 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 8 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:27:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549611625673 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:17:12 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549622061780 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 100 Percent Maximum No Chill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:28:19 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549623119237 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | パルビン |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:29:26 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549623126757 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Snowflake:3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:29:27 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549623129072 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Baglale-Baglale |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:29:27 |
@@ -150,18 +150,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28590549622477080 |
 | Players | 9/10 |
-| Host Name | tangerine |
+| Host Name | Amigos0000 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:28:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549623199813 |
-| Players | 4/8 |
-| Host Name | full focus. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:29:31 |
+| Lobby ID | 28590549623209027 |
+| Players | 1/15 |
+| Host Name | 若橙 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -173,13 +173,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:29:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549623216697 |
-| Players | 2/10 |
-| Host Name | I refuse the sun and the moon |
+| Lobby ID | 28590549623361839 |
+| Players | 5/8 |
+| Host Name | Подик Жижкин |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:29:33 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549623366849 |
+| Players | 1/24 |
+| Host Name | TaLaNt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549623365373 |
+| Players | 3/8 |
+| Host Name | Undead |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:29:42 |
 
 
 |  | epic_boss_fight_challenger |
