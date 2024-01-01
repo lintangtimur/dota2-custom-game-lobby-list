@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242537017311 |
-| Players | 1/24 |
-| Host Name | Oxypopper |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:36:27 |
+| Lobby ID | 28589242536094019 |
+| Players | 7/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:35:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,33 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hanni- |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:37:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242536094019 |
-| Players | 7/8 |
-| Host Name | Hi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:35:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242537891089 |
-| Players | 11/15 |
-| Host Name | Игрок 6 позиции |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:37:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242538122387 |
-| Players | 2/8 |
-| Host Name | Fruit jelly |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:37:32 |
 
 
 |  | epic_boss_fight_nightmare |
