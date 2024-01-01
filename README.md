@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549825210801 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | .legitAVaGe |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:23:28 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549825524128 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | FULL PMA MODe/allmuted/swap cm |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:23:55 |
@@ -139,20 +139,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549825661593 |
-| Players | 1/10 |
-| Host Name | бегите |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:24:06 |
+| Lobby ID | 28590549825771186 |
+| Players | 2/10 |
+| Host Name | KAWASAKII |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:24:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549825672804 |
-| Players | 1/10 |
-| Host Name | кмс по сливу птс |
+| Lobby ID | 28590549825760976 |
+| Players | 2/10 |
+| Host Name | 115 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:24:07 |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:24:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549825785914 |
+| Players | 4/8 |
+| Host Name | BoeJiden |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:24:17 |
 
 
 |  | epic_boss_fight_nightmare |
