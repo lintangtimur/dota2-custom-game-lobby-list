@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242731786630 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Oni |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 22:32:38 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242732490942 |
-| Players | 4/8 |
-| Host Name | DZHIHAD |
+| Lobby ID | 28589242732639309 |
+| Players | 2/8 |
+| Host Name | ЧЕМПИОН |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:33:19 |
+| Lobby Creation Time | Monday, January 1, 2024 22:33:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242732044177 |
-| Players | 9/24 |
+| Players | 5/24 |
 | Host Name | addicted to losing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:32:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242731462268 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | TEMAKP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:32:20 |
@@ -85,10 +85,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242732493887 |
+| Lobby ID | 28589242732527508 |
+| Players | 5/10 |
+| Host Name | Не Ки Кун |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:33:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242732578766 |
 | Players | 3/10 |
-| Host Name | Bishamon |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 1, 2024 22:33:19 |
+| Host Name | Mireska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:33:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242729074066 |
+| Players | 15/15 |
+| Host Name | Serenity |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:30:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242732706124 |
+| Players | 1/10 |
+| Host Name | Travis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 22:33:31 |
 
 
