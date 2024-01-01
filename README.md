@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242436721512 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:44:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242441113489 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ZHO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:50:32 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242442666001 |
+| Lobby ID | 28589242442905595 |
 | Players | 3/8 |
-| Host Name | СОЛЬ - Пробовал |
+| Host Name | Nah, i'd win |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:52:34 |
+| Lobby Creation Time | Monday, January 1, 2024 17:52:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242442223201 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Shrimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:51:59 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242442610738 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Strelok228 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:52:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242442905595 |
-| Players | 2/8 |
-| Host Name | Nah, i'd win |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:52:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bEAm/-Solar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:45:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242443080656 |
+| Players | 2/10 |
+| Host Name | Meh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 17:53:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242443111819 |
+| Players | 1/10 |
+| Host Name | 배주현 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 17:53:10 |
 
 
