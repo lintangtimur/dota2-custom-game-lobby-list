@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242432272194 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Bruh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:39:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242426920007 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | impulse 101 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:32:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242434472973 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | metoda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:42:05 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 5 cm Savage |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:41:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242434521417 |
+| Players | 1/10 |
+| Host Name | 930 |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 1, 2024 17:42:09 |
 
 
