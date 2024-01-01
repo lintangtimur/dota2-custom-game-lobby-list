@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242688580238 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Mekanism |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:52:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242677834336 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Jesucristo el Robot del Futuro |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:42:42 |
@@ -95,19 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242689896734 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | metoda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:53:32 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242690243800 |
+| Players | 1/15 |
+| Host Name | 小魚魚魚魚？🐠🐠🐠 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 21:53:52 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242689778617 |
-| Players | 5/8 |
-| Host Name | Bob |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:53:26 |
+| Lobby ID | 28589242690238358 |
+| Players | 3/8 |
+| Host Name | swap commends |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 21:53:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242690351953 |
+| Players | 3/8 |
+| Host Name | 85943734753895 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 21:53:58 |
 
 
 |  | epic_boss_fight_nightmare |
