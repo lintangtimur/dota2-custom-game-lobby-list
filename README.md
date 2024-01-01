@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549815766125 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Oshh |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:10:48 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549819233961 |
-| Players | 5/15 |
-| Host Name | JamAnKo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:15:22 |
+| Lobby ID | 28590549820602889 |
+| Players | 4/15 |
+| Host Name | spl |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:17:13 |
 
 
 |  | ot3_desert_octet |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:16:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549819417659 |
-| Players | 12/15 |
-| Host Name | ≫ん£ L I C Oん≪ |
+| Lobby ID | 28590549820486431 |
+| Players | 8/10 |
+| Host Name | !!!Goblin Osborn!!! |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:15:37 |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:17:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549819644198 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Impala67 |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:15:56 |
@@ -117,24 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | aДУН |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:17:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549820473232 |
-| Players | 1/15 |
-| Host Name | 🥀十億年 💔 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:17:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549820486431 |
-| Players | 5/10 |
-| Host Name | !!!Goblin Osborn!!! |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:17:03 |
 
 
 |  | epic_boss_fight_nightmare |
