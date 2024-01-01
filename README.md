@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549727722670 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Feminazi♡ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:23:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549731723072 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Nash1495 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:28:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549728502597 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Gah |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:24:33 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549731834189 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ressentiment |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:28:23 |
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549732408126 |
-| Players | 2/15 |
-| Host Name | Big Krtkus |
+| Players | 3/15 |
+| Host Name | swap нигерс |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:29:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549732482973 |
+| Players | 1/8 |
+| Host Name | ¿? |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:29:07 |
 
 
 |  | epic_boss_fight_hard |
@@ -140,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549727876497 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | kaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:23:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549732424211 |
-| Players | 1/5 |
-| Host Name | Чернь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:29:03 |
 
 
