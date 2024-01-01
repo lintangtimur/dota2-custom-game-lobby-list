@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242731870625 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Miking |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:32:43 |
@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242734837534 |
+| Lobby ID | 28589242730819393 |
 | Players | 14/15 |
-| Host Name | Pasuk |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:35:33 |
+| Host Name | PAIN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:31:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242732781374 |
-| Players | 9/10 |
-| Host Name | let's win |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:33:35 |
+| Lobby ID | 28589242731820991 |
+| Players | 8/10 |
+| Host Name | HUGE |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 1, 2024 22:32:41 |
 
 
 |  | ot3_desert_octet |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242735353593 |
-| Players | 3/8 |
-| Host Name | doom spotify |
+| Players | 6/8 |
+| Host Name | Вальгалище |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:36:03 |
 
@@ -117,42 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Влад Картофель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:35:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242729074066 |
-| Players | 14/15 |
-| Host Name | Serenity |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:30:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242735582893 |
-| Players | 4/8 |
-| Host Name | Таня Ногти |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:36:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242731820991 |
-| Players | 9/10 |
-| Host Name | Креветка |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 1, 2024 22:32:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242732706124 |
-| Players | 9/10 |
-| Host Name | Travis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 22:33:31 |
 
 
 |  | epic_boss_fight_nightmare |
