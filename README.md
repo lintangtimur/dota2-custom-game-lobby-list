@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242492940119 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Me and 9 dogs |
 | Region | CHILE |
 | Lobby Creation Time | Monday, January 1, 2024 18:51:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242510845187 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | 'le Yan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:10:23 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:08:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242513130315 |
-| Players | 7/8 |
-| Host Name | Missing you happiness |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:12:44 |
+| Lobby ID | 28589242514032697 |
+| Players | 7/15 |
+| Host Name | Не в сети |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:13:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242513707753 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | психопатыш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:13:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242513966735 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | факамакака |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:13:35 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242513881113 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | винстон синий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:13:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242514032697 |
-| Players | 5/15 |
-| Host Name | Не в сети |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:13:39 |
 
 
 |  | epic_boss_fight_normal |
