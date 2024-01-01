@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:22:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242520089581 |
-| Players | 22/24 |
-| Host Name | www.instumblr.top |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:19:40 |
+| Lobby ID | 28589242523581571 |
+| Players | 5/15 |
+| Host Name | DN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:23:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242518179413 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:17:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242523778070 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ROCK HARD |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 1, 2024 19:23:24 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:23:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242523581571 |
-| Players | 3/15 |
-| Host Name | DN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:23:12 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242520314566 |
-| Players | 2/10 |
-| Host Name | Моджахед |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:19:53 |
+| Lobby ID | 28589242522856297 |
+| Players | 8/10 |
+| Host Name | SUP IS MY LIFE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:22:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bEbeB |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:22:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242522856297 |
-| Players | 7/10 |
-| Host Name | SUP IS MY LIFE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:22:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242524219162 |
-| Players | 1/5 |
-| Host Name | 啦啦啦啦 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 1, 2024 19:23:51 |
 
 
