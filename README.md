@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549734837163 |
-| Players | 1/10 |
-| Host Name | Gise fue más |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:31:48 |
+| Lobby ID | 28590549735189634 |
+| Players | 7/15 |
+| Host Name | Rudi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:32:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549732837371 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Lion the onLIONe |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:29:31 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549734822865 |
-| Players | 8/15 |
-| Host Name | Time Over |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:31:47 |
+| Lobby ID | 28590549735256563 |
+| Players | 2/10 |
+| Host Name | 0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:32:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:30:36 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549735100326 |
-| Players | 3/10 |
-| Host Name | aik |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:32:06 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28590549726663240 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | Maqs |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:22:24 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OpenAl(ℬoτ) ✔ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:32:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549735244469 |
+| Players | 3/5 |
+| Host Name | ♡𝑍𝐸𝐹𝐼𝑅𝐾𝐴 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:32:17 |
 
 
