@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549713541384 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | DJ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:07:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549709180382 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | tv/tocinodota |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:02:50 |
@@ -110,22 +110,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:07:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549714030083 |
-| Players | 3/8 |
-| Host Name | sad ァpainァ chen abuzer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:08:13 |
+| Lobby ID | 28590549714356823 |
+| Players | 2/10 |
+| Host Name | Proxypop |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:08:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549714006183 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | aiwan2023 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:08:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549714461542 |
+| Players | 1/8 |
+| Host Name | el pollito pio |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:08:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549714411947 |
+| Players | 1/24 |
+| Host Name | 福 fergieツ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:08:38 |
 
 
 |  | epic_boss_fight_nightmare |
