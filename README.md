@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242532673575 |
-| Players | 3/8 |
-| Host Name | 混蛋 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:32:15 |
+| Lobby ID | 28589242533068851 |
+| Players | 9/24 |
+| Host Name | rood |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:32:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242532333329 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Sandra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:31:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242521123872 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | xxzd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:20:42 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242530226467 |
-| Players | 1/15 |
-| Host Name | waXter |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:29:51 |
+| Lobby ID | 28589242533109741 |
+| Players | 8/15 |
+| Host Name | •••ツVERY GOODツ••• |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:32:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242532954627 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ВОВА АДИДАС |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:32:32 |
@@ -76,47 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242532311642 |
-| Players | 9/10 |
-| Host Name | DoubleDD |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:31:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242533068851 |
-| Players | 9/24 |
-| Host Name | rood |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:32:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242533109741 |
-| Players | 2/15 |
-| Host Name | •••ツVERY GOODツ••• |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:32:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28589242533233040 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Фара |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:32:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242529799973 |
-| Players | 8/10 |
-| Host Name | InYourDick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:29:26 |
+| Lobby ID | 28589242533513064 |
+| Players | 1/10 |
+| Host Name | Tripa Seca BOLADÃO |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, January 1, 2024 19:33:04 |
 
 
 |  | epic_boss_fight_normal |
