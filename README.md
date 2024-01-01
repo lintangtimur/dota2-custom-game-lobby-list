@@ -95,28 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242663721511 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | капитан ромка |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:30:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242663948626 |
-| Players | 7/8 |
-| Host Name | 黑暗殺手 [グ] |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:30:30 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242664232541 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Edmon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:30:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242664424288 |
+| Players | 1/8 |
+| Host Name | ebica |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:30:54 |
 
 
 |  | epic_boss_fight_nightmare |
