@@ -31,26 +31,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242731786630 |
-| Players | 12/15 |
-| Host Name | Oni |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 1, 2024 22:32:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242732639309 |
-| Players | 2/8 |
-| Host Name | ЧЕМПИОН |
+| Lobby ID | 28589242732772256 |
+| Players | 7/15 |
+| Host Name | Grim |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:33:27 |
+| Lobby Creation Time | Monday, January 1, 2024 22:33:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242729074066 |
+| Players | 14/15 |
+| Host Name | Serenity |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:30:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242732044177 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | addicted to losing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:32:53 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242732527508 |
-| Players | 5/10 |
-| Host Name | Не Ки Кун |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:33:21 |
+| Lobby ID | 28589242732781374 |
+| Players | 1/10 |
+| Host Name | let's win |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:33:35 |
 
 
 |  | ot3_gardens_duo |
@@ -103,19 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242729074066 |
-| Players | 15/15 |
-| Host Name | Serenity |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:30:04 |
+| Lobby ID | 28589242732895978 |
+| Players | 1/15 |
+| Host Name | Nice*1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:33:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242732706124 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Travis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:33:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242732882182 |
+| Players | 1/5 |
+| Host Name | JuJu |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:33:41 |
 
 
