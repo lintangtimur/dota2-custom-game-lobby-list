@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242672311289 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Lenin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:37:51 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242664560959 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | ARCHER |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 1, 2024 21:31:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242672883216 |
-| Players | 11/15 |
-| Host Name | Соре за просолку |
+| Lobby ID | 28589242674210592 |
+| Players | 3/8 |
+| Host Name | Тру няшка |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:38:20 |
+| Lobby Creation Time | Monday, January 1, 2024 21:39:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242652121134 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Grey |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:20:05 |
@@ -86,37 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242673244252 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ʍɛօաʍɛօա♡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:38:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242673331312 |
-| Players | 6/24 |
-| Host Name | CUMандир |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:38:43 |
+| Lobby ID | 28589242673971411 |
+| Players | 8/10 |
+| Host Name | SILVER |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:39:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242673609392 |
+| Lobby ID | 28589242674275100 |
 | Players | 1/15 |
-| Host Name | 离上坎下 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 21:38:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242673971411 |
-| Players | 3/10 |
-| Host Name | SILVER |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:39:17 |
+| Host Name | 超ヤベー! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 21:39:34 |
 
 
 |  | epic_boss_fight_normal |
