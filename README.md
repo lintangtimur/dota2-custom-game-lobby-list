@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242535735292 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ☭Fuck Bluehole Inc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:35:13 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242537891260 |
-| Players | 2/10 |
-| Host Name | .. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:37:18 |
+| Lobby ID | 28589242537985066 |
+| Players | 4/10 |
+| Host Name | Donald Trump |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:37:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242536475529 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:35:56 |
