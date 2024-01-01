@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242523102277 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Возьми норм 5-ку |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:22:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242518179413 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:17:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242522134603 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Prokuror |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:21:43 |
@@ -74,6 +74,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:23:03 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242523537775 |
+| Players | 4/10 |
+| Host Name | Cyrex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:23:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242523581571 |
+| Players | 1/15 |
+| Host Name | DN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:23:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242522997557 |
+| Players | 5/15 |
+| Host Name | Son1#33 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:22:36 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242520314566 |
@@ -85,38 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242522302400 |
-| Players | 1/5 |
-| Host Name | Top G |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:21:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242522856297 |
-| Players | 5/10 |
-| Host Name | SUP IS MY LIFE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:22:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242523284019 |
-| Players | 1/10 |
-| Host Name | турбо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:22:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
 | Lobby ID | 28589242521608672 |
 | Players | 4/5 |
 | Host Name | ONYX |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:21:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242522856297 |
+| Players | 6/10 |
+| Host Name | SUP IS MY LIFE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:22:27 |
 
 
 |  | epic_boss_fight_nightmare |
