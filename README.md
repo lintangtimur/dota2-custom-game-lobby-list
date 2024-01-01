@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242660573180 |
-| Players | 4/15 |
-| Host Name | СИНДРОМ БОГА |
+| Players | 7/15 |
+| Host Name | Lambiq |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:27:34 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242660716977 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Hungry FOR Sassana PUSS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:27:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242660226166 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:27:16 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242660710505 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | стояковский |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:27:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242661199557 |
+| Players | 2/10 |
+| Host Name | ? |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:28:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -121,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242660799413 |
+| Lobby ID | 28589242661201779 |
 | Players | 1/10 |
 | Host Name | Hiraeth |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 21:27:46 |
+| Lobby Creation Time | Monday, January 1, 2024 21:28:07 |
 
 
