@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242541535404 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Nocomments.no |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:40:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242539059518 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | It‘s time |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:38:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242540969811 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | A$AP ROCKY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:40:16 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242541626234 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | kZe.idontgiveafuck!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:40:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242541717931 |
-| Players | 5/8 |
-| Host Name | KEMPACHI |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 19:40:59 |
+| Lobby ID | 28589242541863989 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:41:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bruh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:39:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242541922886 |
+| Players | 1/10 |
+| Host Name | aiaw66 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:41:11 |
 
 
