@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242505988432 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | PRIEST |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:05:21 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:03:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242505976893 |
-| Players | 13/15 |
-| Host Name | Aghanim |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:05:20 |
+| Lobby ID | 28589242505960552 |
+| Players | 3/8 |
+| Host Name | абсолют |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:05:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242505236947 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | trey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:04:35 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242505532904 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ROCK HARD |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 1, 2024 19:04:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242505960552 |
-| Players | 3/8 |
-| Host Name | абсолют |
+| Lobby ID | 28589242506698198 |
+| Players | 2/15 |
+| Host Name | 76561198344937130 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:05:19 |
+| Lobby Creation Time | Monday, January 1, 2024 19:06:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242504983409 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | KIWI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:04:19 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28589242506757367 |
+| Players | 1/7 |
+| Host Name | Unbreakable |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:06:09 |
 
 
