@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242649164583 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | SIX NALL |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 21:17:30 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 20:22:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242664232541 |
-| Players | 7/10 |
-| Host Name | Edmon |
+| Lobby ID | 28589242663735416 |
+| Players | 7/15 |
+| Host Name | Jacque Fresco fan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:30:44 |
+| Lobby Creation Time | Monday, January 1, 2024 21:30:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242663160448 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | jnikko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:29:50 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:20:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242663735416 |
-| Players | 4/15 |
-| Host Name | Piсkachu |
+| Lobby ID | 28589242665032782 |
+| Players | 3/8 |
+| Host Name | solid heart |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:30:19 |
+| Lobby Creation Time | Monday, January 1, 2024 21:31:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242664851962 |
-| Players | 2/8 |
-| Host Name | Grim sleeper |
+| Lobby ID | 28589242665080583 |
+| Players | 3/8 |
+| Host Name | always lose |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:31:17 |
+| Lobby Creation Time | Monday, January 1, 2024 21:31:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242657392296 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | OnlyGOD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:24:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242664982401 |
+| Players | 1/5 |
+| Host Name | Бергамот |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:31:23 |
 
 
