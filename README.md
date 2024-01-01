@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242833666215 |
+| Lobby ID | 28589242834296727 |
 | Players | 1/8 |
-| Host Name | MORACLE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:14:22 |
+| Host Name | YourHope |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:15:01 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 00:10:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242833839432 |
-| Players | 6/8 |
-| Host Name | positive vibes' |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:14:33 |
+| Lobby ID | 28589242834038874 |
+| Players | 6/10 |
+| Host Name | Akira |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:14:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242833773168 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | блять да как его мобилизовать |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:14:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242834038874 |
-| Players | 1/10 |
-| Host Name | buqashka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:14:45 |
 
 
 |  | epic_boss_fight_hard |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242832941512 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Han Jee-han  한 지한 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:13:38 |
