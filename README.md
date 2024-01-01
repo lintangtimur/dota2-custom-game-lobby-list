@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242436721512 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:44:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242429484224 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 17:35:31 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242443565124 |
-| Players | 2/8 |
-| Host Name | RESURRECTED |
+| Players | 1/8 |
+| Host Name | rafalyambo |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:53:46 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242443480200 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | I.M.Sin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:53:39 |
@@ -86,25 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242443577923 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Itachi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:53:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242443690874 |
-| Players | 1/24 |
-| Host Name | 🤪🚼😈 |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 17:53:56 |
+| Lobby ID | 28589242443774492 |
+| Players | 4/10 |
+| Host Name | Vimeson |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:54:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242443407483 |
+| Players | 2/8 |
+| Host Name | King_Lich |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:53:34 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242437032522 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | bEAm/-Solar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:45:21 |
