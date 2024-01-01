@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242435147991 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kabina |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:42:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242436280010 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Anita Max Wynn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:44:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242436108462 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | АЛЛАХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:44:10 |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 17:44:57 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242436865484 |
-| Players | 1/15 |
-| Host Name | Neo Dio |
-| Region | CHILE |
-| Lobby Creation Time | Monday, January 1, 2024 17:45:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242434521417 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 930 |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 1, 2024 17:42:09 |
