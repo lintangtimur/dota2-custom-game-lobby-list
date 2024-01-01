@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242694172700 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Хороший_Рашист=200 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:57:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242690243800 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Lucifer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:53:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242692398303 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ddd |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:55:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242677834336 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Jesucristo el Robot del Futuro |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:42:42 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242694160716 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | . |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:57:28 |
@@ -110,13 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:57:18 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242694787644 |
+| Players | 3/10 |
+| Host Name | Aslambek |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:58:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242694846356 |
+| Players | 1/15 |
+| Host Name | blackdeath234 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:58:06 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242694745889 |
-| Players | 3/8 |
-| Host Name | Pohyzxc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:58:00 |
+| Lobby ID | 28589242693324405 |
+| Players | 2/8 |
+| Host Name | 745263d12 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:56:42 |
 
 
 |  | epic_boss_fight_nightmare |
