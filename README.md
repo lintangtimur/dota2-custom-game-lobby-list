@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549805756829 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | SyX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:57:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549806081304 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | CHAT=MUTED (CAPS LOCK BROKEN) |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:58:10 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549803929507 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | FrameSports |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:55:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549806298257 |
-| Players | 7/10 |
-| Host Name | wake up |
+| Lobby ID | 28590549806814636 |
+| Players | 6/8 |
+| Host Name | Kawazaki |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:58:26 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:59:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549806275772 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | Kostya =) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:58:25 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549806672153 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | FODASE |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:58:56 |
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ТЁТКА ПОЕЛА! |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:55:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549806056614 |
-| Players | 1/10 |
-| Host Name | DLove |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:58:08 |
 
 
