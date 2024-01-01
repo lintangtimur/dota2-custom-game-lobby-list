@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242541535404 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Nocomments.no |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:40:48 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242533854905 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | Tripa Seca BOLADÃO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 19:33:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242541484429 |
-| Players | 9/10 |
-| Host Name | COCOA RAMPAGE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:40:45 |
+| Lobby ID | 28589242542449871 |
+| Players | 4/8 |
+| Host Name | Гундрик |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:41:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242541863989 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:41:07 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kZe.idontgiveafuck!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:40:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242542449871 |
-| Players | 4/8 |
-| Host Name | Гундрик |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:41:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242540708371 |
-| Players | 13/15 |
-| Host Name | GOZONE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:40:01 |
 
 
 |  | epic_boss_fight_nightmare |
