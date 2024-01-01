@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242485958561 |
-| Players | 14/15 |
-| Host Name | 5poz farm or fid |
+| Lobby ID | 28589242486412969 |
+| Players | 5/8 |
+| Host Name | I am invincible雨 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:43:51 |
+| Lobby Creation Time | Monday, January 1, 2024 18:44:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242484205946 |
-| Players | 23/24 |
-| Host Name | Lulalelilo |
+| Lobby ID | 28589242486601288 |
+| Players | 1/24 |
+| Host Name | FireRage |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:41:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242486412969 |
-| Players | 2/8 |
-| Host Name | I am invincible雨 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:44:22 |
+| Lobby Creation Time | Monday, January 1, 2024 18:44:34 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242483679964 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Hyper- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:41:21 |
