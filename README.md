@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:51:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242510845187 |
-| Players | 23/24 |
-| Host Name | 'le Yan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:10:23 |
+| Lobby ID | 28589242513881113 |
+| Players | 7/8 |
+| Host Name | винстон синий |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:13:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:08:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242514542627 |
-| Players | 6/8 |
-| Host Name | 躍動 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, January 1, 2024 19:14:09 |
+| Lobby ID | 28589242515092430 |
+| Players | 1/15 |
+| Host Name | ZiGGurat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:14:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,54 +50,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242513736632 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 19:13:21 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242513707753 |
-| Players | 6/10 |
-| Host Name | психопатыш |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:13:19 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242514447034 |
-| Players | 12/15 |
-| Host Name | this pudge love moma |
+| Lobby ID | 28589242515073824 |
+| Players | 9/15 |
+| Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:14:03 |
+| Lobby Creation Time | Monday, January 1, 2024 19:14:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242513881113 |
-| Players | 4/8 |
-| Host Name | винстон синий |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:13:30 |
+| Lobby ID | 28589242515232696 |
+| Players | 1/24 |
+| Host Name | Trafalgar Law |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:14:51 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242513602818 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | inadequate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:13:12 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242514773700 |
-| Players | 1/5 |
-| Host Name | Hunt Hoe-Down |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 1, 2024 19:14:23 |
+| Lobby ID | 28589242515348211 |
+| Players | 1/10 |
+| Host Name | ? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:14:58 |
 
 
