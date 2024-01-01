@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242474004992 |
-| Players | 7/8 |
-| Host Name | anki |
+| Lobby ID | 28589242474578618 |
+| Players | 1/8 |
+| Host Name | Olinchlen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:30:29 |
+| Lobby Creation Time | Monday, January 1, 2024 18:31:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242453025766 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:05:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242474125683 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Chino Moreno |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:30:38 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:30:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242473938102 |
-| Players | 11/15 |
-| Host Name | Rantown |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:30:25 |
+| Lobby ID | 28589242474522394 |
+| Players | 1/8 |
+| Host Name | G1uc0se |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, January 1, 2024 18:31:05 |
 
 
 |  | ot3_gardens_duo |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242474522394 |
-| Players | 1/8 |
-| Host Name | G1uc0se |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Monday, January 1, 2024 18:31:05 |
+| Lobby ID | 28589242474678688 |
+| Players | 5/8 |
+| Host Name | ПИДАРАСЫ ЕБУЧИЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:31:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242474689469 |
+| Players | 2/15 |
+| Host Name | Грусть ???? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:31:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242473270370 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 七瀬 遙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:29:38 |
