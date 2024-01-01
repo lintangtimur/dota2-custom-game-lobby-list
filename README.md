@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549736567385 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Крип-Пехотинец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:33:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549733777238 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | tv/tocinodota |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:30:36 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549736261345 |
-| Players | 13/15 |
-| Host Name | John Bones |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:33:26 |
+| Lobby ID | 28590549736708852 |
+| Players | 9/15 |
+| Host Name | BUCK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:33:57 |
 
 
 |  | ot3_desert_octet |
@@ -128,13 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:33:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549736708852 |
-| Players | 2/15 |
-| Host Name | BUCK |
+| Lobby ID | 28590549736892221 |
+| Players | 5/10 |
+| Host Name | Какал с пистолетом |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:33:57 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:34:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549735405460 |
+| Players | 9/10 |
+| Host Name | Enzek |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:32:28 |
 
 
 |  | epic_boss_fight_hard |
@@ -157,10 +166,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590549736596399 |
+| Lobby ID | 28590549736885689 |
 | Players | 1/5 |
 | Host Name | Huipompam |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:33:49 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:34:09 |
 
 
