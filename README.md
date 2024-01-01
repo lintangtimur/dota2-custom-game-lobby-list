@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242667515907 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:33:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242672732815 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 躍動 |
 | Region | PWUNICOM |
 | Lobby Creation Time | Monday, January 1, 2024 21:38:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242672883216 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Соре за просолку |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:38:20 |
@@ -83,37 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:37:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242672964592 |
-| Players | 1/15 |
-| Host Name | 离上坎下 |
+| Lobby ID | 28589242673244252 |
+| Players | 1/24 |
+| Host Name | ʍɛօաʍɛօա♡ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 21:38:24 |
+| Lobby Creation Time | Monday, January 1, 2024 21:38:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242672910775 |
-| Players | 6/10 |
-| Host Name | SuperCojones |
+| Players | 7/10 |
+| Host Name | Паша друг Леши |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:38:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242673052033 |
-| Players | 3/8 |
-| Host Name | Тру няшка |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:38:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242669378676 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:35:16 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242672026061 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | crestfallen |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:37:36 |
