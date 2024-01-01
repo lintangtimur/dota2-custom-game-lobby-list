@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242436108462 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | АЛЛАХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:44:10 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242436721512 |
+| Players | 1/24 |
+| Host Name | GrandPa |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 17:44:57 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242435900026 |
-| Players | 8/15 |
-| Host Name | Funky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:43:53 |
+| Lobby ID | 28589242436865484 |
+| Players | 1/15 |
+| Host Name | Neo Dio |
+| Region | CHILE |
+| Lobby Creation Time | Monday, January 1, 2024 17:45:08 |
 
 
 |  | epic_boss_fight_nightmare |
