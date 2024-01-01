@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:21:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549726800175 |
-| Players | 8/10 |
-| Host Name | ваня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:22:34 |
+| Lobby ID | 28590549727226115 |
+| Players | 3/8 |
+| Host Name | Desrespect |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:23:03 |
 
 
 |  | ot3_desert_octet |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549726123099 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | SNC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:21:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549727218669 |
-| Players | 4/15 |
-| Host Name | Strudelsalat |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:23:03 |
+| Lobby ID | 28590549725851607 |
+| Players | 9/10 |
+| Host Name | n0l1k` |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:21:29 |
 
 
 |  | ot3_gardens_duo |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:23:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549727226115 |
-| Players | 2/8 |
-| Host Name | Desrespect |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:23:03 |
+| Lobby ID | 28590549727376472 |
+| Players | 2/10 |
+| Host Name | Gost |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:23:14 |
 
 
 |  | epic_boss_fight_hard |
@@ -135,23 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maqs |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:22:24 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28590549727131931 |
-| Players | 2/7 |
-| Host Name | Vlada. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:22:57 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549727219736 |
-| Players | 1/5 |
-| Host Name | Sergeant Cheburashka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:23:03 |
 
 
