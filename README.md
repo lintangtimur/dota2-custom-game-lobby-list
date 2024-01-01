@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242802371327 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Imagine3MasterStuckInPubs |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 23:42:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242802859442 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | sleepwalker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:42:40 |
@@ -86,28 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242802984940 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | beardrinker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:42:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242803203419 |
-| Players | 6/8 |
-| Host Name | GQ |
+| Lobby ID | 28589242803319553 |
+| Players | 2/10 |
+| Host Name | Eth Myass |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 23:43:01 |
+| Lobby Creation Time | Monday, January 1, 2024 23:43:08 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28589242801287908 |
-| Players | 1/5 |
-| Host Name | illegal |
+| Lobby ID | 28589242803129804 |
+| Players | 1/7 |
+| Host Name | HAMMER |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:41:03 |
+| Lobby Creation Time | Monday, January 1, 2024 23:42:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:41:59 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28589242803129804 |
-| Players | 1/7 |
-| Host Name | HAMMER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:42:56 |
 
 
