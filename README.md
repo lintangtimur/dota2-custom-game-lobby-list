@@ -38,28 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:16:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242777110222 |
-| Players | 9/10 |
-| Host Name | °LANBORGHINI° |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 23:16:47 |
+| Lobby ID | 28589242772308103 |
+| Players | 6/8 |
+| Host Name | Peon Redfield |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 23:12:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242778850925 |
-| Players | 9/10 |
-| Host Name | Очкомир |
+| Lobby ID | 28589242778976757 |
+| Players | 2/24 |
+| Host Name | FoX |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 23:18:29 |
+| Lobby Creation Time | Monday, January 1, 2024 23:18:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242778778412 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | DEDDENNE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:18:25 |
@@ -77,37 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242777457896 |
-| Players | 4/8 |
-| Host Name | Руки из жопы |
+| Players | 5/8 |
+| Host Name | xxGodInstincxX |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 23:17:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242777735159 |
-| Players | 7/8 |
-| Host Name | 나는 최고가 될 것이다 |
+| Lobby ID | 28589242779152035 |
+| Players | 3/10 |
+| Host Name | uncultured swine |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 23:17:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242772308103 |
-| Players | 6/8 |
-| Host Name | Peon Redfield |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 23:12:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242778976757 |
-| Players | 2/24 |
-| Host Name | котаныч |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 23:18:36 |
+| Lobby Creation Time | Monday, January 1, 2024 23:18:47 |
 
 
 |  | epic_boss_fight_hard |
