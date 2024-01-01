@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549651404556 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Atomic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:59:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549649526360 |
-| Players | 23/24 |
-| Host Name | CERF |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:57:38 |
+| Lobby ID | 28590549652022603 |
+| Players | 1/8 |
+| Host Name | Почему я? run |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:00:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549650146751 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | TK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:58:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549649809918 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Joann |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:57:56 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:58:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549652136255 |
-| Players | 1/8 |
-| Host Name | Gagged |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:00:25 |
+| Lobby ID | 28590549650326115 |
+| Players | 11/15 |
+| Host Name | Suddenlazer |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:29 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549651879018 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Nerel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:00:09 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549651907769 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | PLODOTVOR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:00:10 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549652068796 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Shambooh ֎ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:00:21 |
@@ -130,29 +130,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549652022603 |
-| Players | 1/8 |
-| Host Name | Почему я? run |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:00:18 |
+| Lobby ID | 28590549652326867 |
+| Players | 5/8 |
+| Host Name | hide |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:00:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549652154208 |
-| Players | 1/8 |
-| Host Name | hide |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:00:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549650326115 |
-| Players | 14/15 |
-| Host Name | Suddenlazer |
+| Lobby ID | 28590549652356777 |
+| Players | 5/8 |
+| Host Name | Xmitt |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:58:29 |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:00:39 |
 
 
 |  | epic_boss_fight_normal |
@@ -167,18 +158,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549650740510 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:58:55 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549652184592 |
-| Players | 2/7 |
-| Host Name | маг под элсд |
+| Lobby ID | 28590549649075537 |
+| Players | 9/10 |
+| Host Name | spoilt9111 |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:00:28 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:57:09 |
 
 
