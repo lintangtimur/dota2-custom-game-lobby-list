@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549754007291 |
-| Players | 4/10 |
-| Host Name | сигаретный |
+| Lobby ID | 28590549753936249 |
+| Players | 6/10 |
+| Host Name | осёл |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:54:03 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:53:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549752609922 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 贝 Spike |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:52:23 |
@@ -31,10 +31,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549753832135 |
-| Players | 14/15 |
-| Host Name | pupo4ek |
-| Region | STOCKHOLM |
+| Lobby ID | 28590549753833465 |
+| Players | 1/15 |
+| Host Name | BAJANDO PEPIÁN |
+| Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:53:51 |
 
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549753726661 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Mori~ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:53:43 |
@@ -83,31 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:51:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549753875178 |
-| Players | 1/8 |
-| Host Name | タタール語 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:53:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549753833465 |
-| Players | 1/15 |
-| Host Name | BAJANDO PEPIÁN |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:53:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549753936249 |
-| Players | 2/10 |
-| Host Name | осёл |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:53:58 |
+| Lobby ID | 28590549754157428 |
+| Players | 5/15 |
+| Host Name | Zico |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:54:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:52:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549754100515 |
+| Players | 1/10 |
+| Host Name | | R@PT()R | ^_^ | |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:54:10 |
 
 
