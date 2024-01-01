@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 17:25:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242430992617 |
-| Players | 13/15 |
-| Host Name | Раздал Стиля |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:37:31 |
+| Lobby ID | 28589242429634658 |
+| Players | 22/24 |
+| Host Name | Malam Bantay MU! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 17:35:42 |
 
 
 |  | ot3_desert_octet |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242429585917 |
-| Players | 2/8 |
-| Host Name | DEM20111102 |
+| Lobby ID | 28589242431509803 |
+| Players | 4/8 |
+| Host Name | DDP |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:35:39 |
+| Lobby Creation Time | Monday, January 1, 2024 17:38:12 |
 
 
 |  | ot3_gardens_duo |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tyrone de los Backyardigans |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 17:33:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242431031690 |
-| Players | 8/10 |
-| Host Name | Лора Пьяна Aka Дура |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:37:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242426920007 |
-| Players | 10/24 |
-| Host Name | impulse 101 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:32:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242429634658 |
-| Players | 20/24 |
-| Host Name | Malam Bantay MU! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 17:35:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242431509803 |
-| Players | 2/8 |
-| Host Name | DDP |
+| Lobby ID | 28589242426920007 |
+| Players | 6/24 |
+| Host Name | impulse 101 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:38:12 |
+| Lobby Creation Time | Monday, January 1, 2024 17:32:07 |
 
 
 |  | epic_boss_fight_nightmare |
