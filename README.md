@@ -40,29 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242680149046 |
+| Lobby ID | 28589242680371800 |
 | Players | 1/15 |
-| Host Name | Nehpsy |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 1, 2024 21:44:46 |
+| Host Name | I have no enemies |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 21:44:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242676410701 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | TheOneBehind[A]ll |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 1, 2024 21:41:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242679640394 |
-| Players | 8/10 |
-| Host Name | Raymond |
+| Lobby ID | 28589242680303346 |
+| Players | 5/15 |
+| Host Name | GhasT |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:44:19 |
+| Lobby Creation Time | Monday, January 1, 2024 21:44:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242672240485 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | RichieZones |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:37:47 |
@@ -92,39 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:42:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242680303346 |
-| Players | 4/15 |
-| Host Name | GhasT |
+| Lobby ID | 28589242680526714 |
+| Players | 3/8 |
+| Host Name | Wizhn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:44:55 |
+| Lobby Creation Time | Monday, January 1, 2024 21:45:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242677091938 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | <<CAT>> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:42:03 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242680322287 |
-| Players | 1/5 |
-| Host Name | www.twitch.tv/gezetone |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:44:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242680344173 |
+| Lobby ID | 28589242680480808 |
 | Players | 1/10 |
 | Host Name | JM |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 21:44:57 |
+| Lobby Creation Time | Monday, January 1, 2024 21:45:04 |
 
 
