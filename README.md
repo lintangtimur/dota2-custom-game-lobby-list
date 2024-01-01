@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549868388500 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Γιάννης Μπέζος |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:26:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549867710047 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:25:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549868305167 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 痛苦与黑暗 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:26:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549865223325 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:21:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549868587534 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | МИДЛАЙНА |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:27:06 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 06:27:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549866686696 |
-| Players | 14/15 |
-| Host Name | wallet warrior |
+| Lobby ID | 28590549868738838 |
+| Players | 2/10 |
+| Host Name | メノリ-ラヴ-ヴェリク |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:27:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549868819716 |
+| Players | 2/10 |
+| Host Name | Слава сыр колбасс |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:24:02 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:27:28 |
 
 
 |  | epic_boss_fight_nightmare |
