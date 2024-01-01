@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242759911187 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:59:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242760145025 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | RuBeN |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:00:11 |
@@ -77,10 +77,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242758187929 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Ban¡¡¡ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:58:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242760497056 |
+| Players | 1/10 |
+| Host Name | VOID EL CONSTRUCTOR |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 23:00:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242760527298 |
+| Players | 1/8 |
+| Host Name | чукчарэла |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:00:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242760532167 |
+| Players | 1/8 |
+| Host Name | ASESINO DE KBROS |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 23:00:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242760528547 |
+| Players | 3/10 |
+| Host Name | СЛАВИК-ДОМИНАТОР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:00:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242760662384 |
+| Players | 6/8 |
+| Host Name | fc |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 23:00:41 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BONCHINCHE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:56:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242760417220 |
-| Players | 3/5 |
-| Host Name | fall. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:00:27 |
 
 
