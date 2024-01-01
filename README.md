@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549864079487 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:19:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549863591931 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | ae-in |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:19:14 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549864337481 |
-| Players | 14/15 |
-| Host Name | мазерати |
+| Lobby ID | 28590549864974635 |
+| Players | 4/10 |
+| Host Name | Copvix |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:20:23 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:21:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549864663073 |
-| Players | 9/15 |
-| Host Name | sharingan |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:20:53 |
+| Lobby ID | 28590549864907116 |
+| Players | 1/8 |
+| Host Name | ivvy league |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:21:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549864716242 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Miracle- prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:20:58 |
@@ -86,28 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549864582996 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | 𝕮𝖚𝖗𝖘𝖊𝖉⸸ |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:20:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549864907116 |
-| Players | 1/8 |
-| Host Name | ivvy league |
+| Lobby ID | 28590549865068206 |
+| Players | 3/15 |
+| Host Name | hausuli |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:21:15 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:21:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549862561038 |
-| Players | 7/8 |
-| Host Name | TSR.iJean_x |
+| Lobby ID | 28590549865084560 |
+| Players | 3/10 |
+| Host Name | Angel |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:17:40 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:21:31 |
 
 
 |  | epic_boss_fight_nightmare |
