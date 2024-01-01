@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242422074462 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:25:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242457862366 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Al'do |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242450603328 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | coa7279 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242458259360 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | anki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:57 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:05:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242457062956 |
-| Players | 4/8 |
-| Host Name | Papapa |
+| Lobby ID | 28589242458415364 |
+| Players | 1/15 |
+| Host Name | ♥Fox in Boots♥ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:10:30 |
+| Lobby Creation Time | Monday, January 1, 2024 18:12:08 |
 
 
 |  | ot3_desert_octet |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | eva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242458417041 |
+| Players | 1/15 |
+| Host Name | Depraved Opossum |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:12:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fafara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242458356444 |
-| Players | 2/5 |
-| Host Name | жестко зигую |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:12:04 |
 
 
