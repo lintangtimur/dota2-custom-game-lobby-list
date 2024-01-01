@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549735402641 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | maria.alexandra |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:32:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549735793005 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | ElHombreQueCarreoAlIncarreable |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:32:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549727722670 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | Feminazi♡ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:23:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549735774048 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:32:53 |
@@ -113,10 +113,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549735908204 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | HALLOMANN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:33:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549735960013 |
+| Players | 1/10 |
+| Host Name | estoy sad |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:33:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549736046087 |
+| Players | 1/24 |
+| Host Name | D ~ He♥ly |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:33:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549736055771 |
+| Players | 1/10 |
+| Host Name | CherryPadlo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:33:12 |
 
 
 |  | epic_boss_fight_hard |
