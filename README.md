@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242781134336 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | котаныч |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:20:45 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:24:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242786129301 |
-| Players | 4/15 |
-| Host Name | Plan B |
+| Lobby ID | 28589242785312616 |
+| Players | 7/8 |
+| Host Name | Lawliet- |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 23:25:49 |
+| Lobby Creation Time | Monday, January 1, 2024 23:25:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242785645726 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 23:25:20 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242786225957 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ASBM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:25:55 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242784556879 |
-| Players | 2/5 |
-| Host Name | Кукурузная крупа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:24:15 |
+| Lobby ID | 28589242786449378 |
+| Players | 2/15 |
+| Host Name | HW ™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 23:26:09 |
 
 
 |  | epic_boss_fight_hard |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | trailerswift |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:22:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242786443287 |
+| Players | 1/10 |
+| Host Name | lexazxc |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 23:26:08 |
 
 
