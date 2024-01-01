@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242467132637 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:22:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242470357275 |
-| Players | 7/8 |
-| Host Name | senerzyy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:26:17 |
+| Lobby ID | 28589242471962071 |
+| Players | 1/24 |
+| Host Name | Anita Max Wynn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:28:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242471426961 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | x) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:27:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242469212253 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:24:57 |
@@ -77,25 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242471521612 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | ZeYork |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:27:37 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242471962071 |
-| Players | 1/24 |
-| Host Name | Anita Max Wynn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:28:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242471923929 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Kongandeu |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 1, 2024 18:28:05 |
