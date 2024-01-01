@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242837716387 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | [L] |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:18:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549604366291 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | SyX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:09:22 |
@@ -113,25 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549605919366 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | это хорошо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:11:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549605376418 |
-| Players | 13/15 |
-| Host Name | adidas |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:10:27 |
+| Lobby ID | 28590549606049611 |
+| Players | 1/24 |
+| Host Name | MAGINER |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:11:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549605627604 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | パルビン |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:10:43 |
@@ -148,46 +148,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549606053897 |
-| Players | 3/8 |
-| Host Name | Crenzy |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:11:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549606049611 |
-| Players | 1/24 |
-| Host Name | MAGINER |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:11:11 |
+| Lobby ID | 28590549606209552 |
+| Players | 4/8 |
+| Host Name | Папа Гетто |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:11:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549601401726 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Muramasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:06:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549600906580 |
-| Players | 4/5 |
-| Host Name | BONCHINCHE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:05:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549606028729 |
-| Players | 3/5 |
-| Host Name | Varb1n Jr 84 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:11:09 |
 
 
