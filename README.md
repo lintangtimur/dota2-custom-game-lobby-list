@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549827800492 |
-| Players | 15/24 |
+| Players | 22/24 |
 | Host Name | Iguana |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:27:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549827514120 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | PROCRASTINATOR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:26:44 |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:27:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549828891753 |
-| Players | 5/10 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:28:38 |
+| Lobby ID | 28590549829623217 |
+| Players | 3/8 |
+| Host Name | Lunatikid |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:29:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549828461471 |
-| Players | 9/10 |
-| Host Name | Full-Time Griefer |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:28:02 |
+| Lobby ID | 28590549829430274 |
+| Players | 7/8 |
+| Host Name | Ghoul FFF Rank |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:29:22 |
 
 
 |  | ot3_gardens_duo |
@@ -139,35 +139,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549829283908 |
-| Players | 2/15 |
-| Host Name | X |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:29:10 |
+| Lobby ID | 28590549829713608 |
+| Players | 3/15 |
+| Host Name | Firecruz |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:29:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549829369337 |
-| Players | 3/8 |
-| Host Name | Joik77 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:29:18 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549823725352 |
-| Players | 9/10 |
-| Host Name | | R@PT()R | ^_^ | |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:21:26 |
+| Lobby ID | 28590549829627467 |
+| Players | 2/10 |
+| Host Name | Dani |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:29:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549825321616 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Soda popinski |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:23:37 |
