@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242489434016 |
-| Players | 22/24 |
-| Host Name | Pandora's Actor™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:47:41 |
+| Lobby ID | 28589242492225323 |
+| Players | 3/24 |
+| Host Name | флопя |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:50:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,31 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:51:09 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242492225323 |
-| Players | 2/24 |
-| Host Name | флопя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:50:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242493199786 |
-| Players | 12/15 |
-| Host Name | Nuclear |
+| Lobby ID | 28589242493822333 |
+| Players | 2/15 |
+| Host Name | кебаб |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:51:47 |
+| Lobby Creation Time | Monday, January 1, 2024 18:52:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242490171376 |
-| Players | 9/10 |
-| Host Name | Kongandeu |
+| Lobby ID | 28589242493656473 |
+| Players | 4/10 |
+| Host Name | 谜兔 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:48:28 |
+| Lobby Creation Time | Monday, January 1, 2024 18:52:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -67,10 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242493656473 |
-| Players | 1/10 |
-| Host Name | 谜兔 |
+| Lobby ID | 28589242490301007 |
+| Players | 7/10 |
+| Host Name | Bambam |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:52:17 |
+| Lobby Creation Time | Monday, January 1, 2024 18:48:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242493808653 |
+| Players | 1/5 |
+| Host Name | x |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:52:27 |
 
 
