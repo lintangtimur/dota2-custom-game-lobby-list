@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242447445008 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | samurai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:58:34 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 17:56:03 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242443080656 |
-| Players | 8/10 |
-| Host Name | ChowChow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 17:53:07 |
+| Lobby ID | 28589242448228452 |
+| Players | 3/15 |
+| Host Name | nemesis |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 17:59:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kongandeu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:59:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242447663349 |
-| Players | 2/10 |
-| Host Name | Unfun pepe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 17:58:50 |
 
 
