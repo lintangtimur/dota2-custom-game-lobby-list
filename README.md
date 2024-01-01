@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:11:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549716997982 |
-| Players | 9/10 |
-| Host Name | Scrol |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:11:31 |
+| Lobby ID | 28590549717334865 |
+| Players | 6/8 |
+| Host Name | опера бой |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:11:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549716819881 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Tuco |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:11:19 |
@@ -122,19 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549716142646 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | M_C |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:10:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549710515843 |
-| Players | 14/15 |
-| Host Name | Rover |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:04:18 |
+| Lobby ID | 28590549717514137 |
+| Players | 1/8 |
+| Host Name | 3,14caSSo |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:12:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549717607871 |
+| Players | 5/10 |
+| Host Name | Jhony Ty Deski |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:12:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | M-khan |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:04:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549713566356 |
-| Players | 1/5 |
-| Host Name | OZAI |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:07:42 |
 
 
