@@ -4,74 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549713541384 |
-| Players | 20/24 |
-| Host Name | DJ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:07:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549715605743 |
-| Players | 3/8 |
-| Host Name | gokirus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:09:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549712293239 |
-| Players | 8/10 |
-| Host Name | Kouran |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:06:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549710091731 |
-| Players | 4/10 |
-| Host Name | Новенький |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:03:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549689205857 |
-| Players | 5/24 |
-| Host Name | Fucking Pencil |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549715745940 |
-| Players | 1/15 |
-| Host Name | Methrattenkochmann |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:10:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549714170162 |
-| Players | 7/8 |
-| Host Name | Estudia sonso |
+| Lobby ID | 28590549714798554 |
+| Players | 8/24 |
+| Host Name | Cml |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:08:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549715576603 |
-| Players | 8/10 |
-| Host Name | 4iP & dail) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:09:56 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:09:04 |
 
 
 |  | ot3_desert_octet |
@@ -83,6 +20,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:02:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549712293239 |
+| Players | 8/10 |
+| Host Name | Kouran |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:06:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549715665383 |
+| Players | 4/8 |
+| Host Name | tomatospid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:10:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549689205857 |
+| Players | 3/24 |
+| Host Name | Fucking Pencil |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549715745940 |
+| Players | 11/15 |
+| Host Name | Methrattenkochmann |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:10:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549715933906 |
+| Players | 1/24 |
+| Host Name | ПОДЗАЛУПНЫЙ КОК |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:10:20 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549711207373 |
@@ -92,46 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:05:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549715665383 |
-| Players | 2/8 |
-| Host Name | tomatospid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:10:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549713021220 |
-| Players | 7/10 |
-| Host Name | PEPELALA !@32 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:07:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549714356823 |
-| Players | 9/10 |
-| Host Name | Proxypop |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:08:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549714798554 |
-| Players | 7/24 |
-| Host Name | Cml |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:09:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549710287354 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | M-khan |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:04:03 |
