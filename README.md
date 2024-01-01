@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:04:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549626817318 |
-| Players | 2/10 |
-| Host Name | Nerel |
+| Lobby ID | 28590549627429254 |
+| Players | 5/8 |
+| Host Name | Lobotomy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:33:21 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:34:00 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549626694882 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Forgotten |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:33:13 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549625723215 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:32:10 |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549627269198 |
-| Players | 1/15 |
-| Host Name | Insane |
+| Lobby ID | 28590549627367434 |
+| Players | 5/15 |
+| Host Name | RevolverMan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:33:50 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:33:56 |
 
 
 |  | epic_boss_fight_challenger |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28590549620559766 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | MAQA7X |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:26:44 |
