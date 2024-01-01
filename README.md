@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:34:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549628865476 |
-| Players | 4/8 |
-| Host Name | Ander ™ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:35:30 |
+| Lobby ID | 28590549628795671 |
+| Players | 2/24 |
+| Host Name | Pray |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:35:26 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549628260218 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | sq |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:34:52 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549628201195 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Brunera |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:34:48 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549628267315 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Leonxs.JRRM |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:34:53 |
@@ -146,13 +146,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:35:03 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549628968355 |
+| Players | 3/15 |
+| Host Name | kodviramursa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:35:37 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549628795671 |
+| Lobby ID | 28590549628980466 |
 | Players | 1/24 |
-| Host Name | Pray |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:35:26 |
+| Host Name | Señor Jose |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:35:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549629058049 |
+| Players | 3/8 |
+| Host Name | iminacord |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:35:42 |
 
 
 |  | epic_boss_fight_challenger |
