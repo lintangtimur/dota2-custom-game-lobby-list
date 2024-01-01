@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549614428444 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Holybang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:20:11 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549619013205 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | pLatysma |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:25:05 |
@@ -103,20 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549620976748 |
-| Players | 3/10 |
-| Host Name | davzt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:27:10 |
+| Lobby ID | 28590549621130418 |
+| Players | 2/10 |
+| Host Name | Brunera |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:27:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549621009201 |
-| Players | 1/8 |
-| Host Name | Cacho con jordans |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:27:12 |
+| Lobby ID | 28590549621139467 |
+| Players | 6/8 |
+| Host Name | SUPERpyperHERO |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:27:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,33 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Барабайнулся |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:27:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549621080527 |
-| Players | 1/10 |
-| Host Name | PakazsOP |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:27:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549621139467 |
-| Players | 1/8 |
-| Host Name | SUPERpyperHERO |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:27:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549621130418 |
-| Players | 1/10 |
-| Host Name | Brunera |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:27:20 |
 
 
 |  | epic_boss_fight_challenger |
@@ -176,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549620248698 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Belike柠檬ICE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:26:24 |
