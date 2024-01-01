@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549695701925 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Дашка |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:47:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549693890880 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Hazard |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:45:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549697559013 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | koma prime |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:49:56 |
@@ -94,20 +94,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549697487187 |
-| Players | 9/15 |
-| Host Name | Touch |
+| Lobby ID | 28590549697829032 |
+| Players | 5/15 |
+| Host Name | Dante57 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:49:52 |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:50:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549697715611 |
-| Players | 2/10 |
-| Host Name | Dante57 |
+| Players | 1/10 |
+| Host Name | EHOT_B_KEDAX |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:50:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549693381610 |
+| Players | 15/15 |
+| Host Name | Intrepid™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:45:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549689941506 |
+| Players | 22/24 |
+| Host Name | Pandora's Actor™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:41:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549693132849 |
+| Players | 23/24 |
+| Host Name | Я предал Христа |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:45:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549697859892 |
+| Players | 7/10 |
+| Host Name | loke |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:50:16 |
 
 
 |  | epic_boss_fight_nightmare |
