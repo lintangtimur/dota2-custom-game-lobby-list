@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 20:22:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242693089290 |
-| Players | 7/10 |
-| Host Name | highfive |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:56:29 |
+| Lobby ID | 28589242693588077 |
+| Players | 6/8 |
+| Host Name | Brimstone |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 21:56:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242692685683 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:56:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242692398303 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ddd |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:55:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242693324405 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | 745263d12 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:56:42 |
@@ -104,34 +104,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242693503947 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | nando |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:56:52 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242693588077 |
-| Players | 3/8 |
-| Host Name | Brimstone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 21:56:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242689950043 |
-| Players | 9/10 |
-| Host Name | Saturday Evening Puss |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:53:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242691449073 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | GAGA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:54:59 |
