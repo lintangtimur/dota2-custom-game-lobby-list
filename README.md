@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242509999349 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | snowpain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:09:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242510614332 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | goy dwaga dwaga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:10:08 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:10:21 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242511151928 |
+| Players | 1/8 |
+| Host Name | Fidel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:10:42 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242504571123 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242504983409 |
-| Players | 4/5 |
+| Players | 2/5 |
 | Host Name | KIWI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:04:19 |
