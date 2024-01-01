@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549796349921 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | sangre y luto |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:45:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549798093961 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | pisces |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:47:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549798082215 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:47:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549796495393 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | zzzzz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:45:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549798140241 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Riko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:47:54 |
@@ -112,11 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549797900070 |
-| Players | 1/8 |
-| Host Name | EVian |
+| Lobby ID | 28590549798301000 |
+| Players | 4/8 |
+| Host Name | Пиво топ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:47:36 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:48:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549798182545 |
+| Players | 3/10 |
+| Host Name | PIZDABOL228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:47:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549798329271 |
+| Players | 6/8 |
+| Host Name | good mf |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:48:08 |
 
 
 |  | epic_boss_fight_nightmare |
