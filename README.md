@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242485560775 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Nah I`d Cook |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:43:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242484205946 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:41:56 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242485178753 |
-| Players | 13/15 |
-| Host Name | олег |
+| Lobby ID | 28589242485958561 |
+| Players | 6/15 |
+| Host Name | 5poz farm or fid |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:42:59 |
+| Lobby Creation Time | Monday, January 1, 2024 18:43:51 |
 
 
 |  | ot3_gardens_duo |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242485756559 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Toxin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:43:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242485953931 |
-| Players | 1/15 |
-| Host Name | Abyssal |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:43:51 |
+| Lobby ID | 28589242485990131 |
+| Players | 4/8 |
+| Host Name | 混蛋 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:43:53 |
 
 
 |  | epic_boss_fight_normal |
