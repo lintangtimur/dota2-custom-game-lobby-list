@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242436721512 |
-| Players | 14/24 |
+| Players | 11/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:44:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242455526604 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | чего вам бояться |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:08:37 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242453407398 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:06:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242454563954 |
-| Players | 4/8 |
-| Host Name | LOKOTb |
+| Lobby ID | 28589242455858544 |
+| Players | 1/10 |
+| Host Name | Sora |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:07:27 |
+| Lobby Creation Time | Monday, January 1, 2024 18:09:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,37 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242455755362 |
-| Players | 4/8 |
-| Host Name | Демидий ствол |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:08:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242455752501 |
+| Lobby ID | 28589242455935185 |
 | Players | 1/15 |
 | Host Name | 随便玩玩 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:08:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242452887528 |
-| Players | 7/10 |
-| Host Name | Zero Two |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:05:23 |
+| Lobby Creation Time | Monday, January 1, 2024 18:09:07 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28589242455637470 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Boobslook |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:08:45 |
