@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242420382640 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | ДИЗЕЛЬ В ЯЙЦАХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:23:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242419459700 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | bobaboo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:22:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242420301566 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Sehuda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:23:12 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LOKI |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 1, 2024 17:23:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242420410964 |
-| Players | 7/10 |
-| Host Name | АХАХАХАХА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:23:21 |
 
 
 |  | ot3_gardens_duo |
