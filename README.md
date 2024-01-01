@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242486601288 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | FireRage |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:44:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242466622012 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Drew |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:21:54 |
@@ -32,28 +32,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242484032286 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | mufox.EC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:41:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242488134305 |
-| Players | 14/15 |
-| Host Name | Αρταμίελ- |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:46:16 |
+| Lobby ID | 28589242488988460 |
+| Players | 2/8 |
+| Host Name | Санта Фалос |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:47:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242488503051 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | neshti |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:46:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242489074724 |
+| Players | 1/15 |
+| Host Name | GenocidAmeb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:47:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242486604427 |
+| Players | 8/10 |
+| Host Name | Ты лох,вот и плох |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:44:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242489079879 |
+| Players | 1/15 |
+| Host Name | Miki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:47:17 |
 
 
 |  | epic_boss_fight_nightmare |
