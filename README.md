@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242687484576 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Hanni- |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:51:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242686999918 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Твоя мама |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:50:53 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242687252926 |
-| Players | 2/8 |
-| Host Name | TSpirit.Cavaps |
+| Players | 4/8 |
+| Host Name | телеграмм рассылки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:51:06 |
 
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:50:33 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242687693597 |
+| Players | 5/15 |
+| Host Name | 刀丫亼米 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:51:30 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242686340936 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Kpblcastyle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:50:18 |
@@ -113,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242687201355 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | KumaBear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:51:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242687569820 |
-| Players | 1/5 |
-| Host Name | dotason1412 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 21:51:23 |
 
 
