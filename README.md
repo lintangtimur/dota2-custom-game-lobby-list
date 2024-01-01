@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242460022751 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 15635228974 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:14:03 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242460338666 |
-| Players | 7/8 |
-| Host Name | rafalyambo |
+| Lobby ID | 28589242460496508 |
+| Players | 8/15 |
+| Host Name | Hellfire, L'Art Spy |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:14:26 |
+| Lobby Creation Time | Monday, January 1, 2024 18:14:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:14:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242460496508 |
-| Players | 8/15 |
-| Host Name | Hellfire, L'Art Spy |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:14:37 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242459099303 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Ve!ian forever⁜※ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:12:57 |
@@ -86,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242459331770 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 10K Behavior Score |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:13:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242460130459 |
-| Players | 1/10 |
-| Host Name | RAY OF HOPE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:14:11 |
 
 
