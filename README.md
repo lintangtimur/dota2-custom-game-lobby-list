@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:16:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242778699390 |
-| Players | 4/8 |
-| Host Name | бро lose |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:18:20 |
+| Lobby ID | 28589242778850925 |
+| Players | 9/10 |
+| Host Name | Очкомир |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 23:18:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242778778412 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | DEDDENNE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:18:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242776426515 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:16:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242777735159 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 나는 최고가 될 것이다 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:17:23 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:12:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242778850925 |
-| Players | 4/10 |
-| Host Name | Очкомир |
+| Lobby ID | 28589242778976757 |
+| Players | 2/24 |
+| Host Name | котаныч |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 23:18:29 |
+| Lobby Creation Time | Monday, January 1, 2024 23:18:36 |
 
 
 |  | epic_boss_fight_hard |
