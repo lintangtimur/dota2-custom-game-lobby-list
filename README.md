@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242422941806 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | ? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:26:47 |
@@ -41,28 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242425900201 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | BAAS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:30:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242426009644 |
-| Players | 2/15 |
-| Host Name | FRACTION |
+| Lobby ID | 28589242426346296 |
+| Players | 2/10 |
+| Host Name | ∆m¡®‡‡¤§§€¡N |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:30:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242426180513 |
-| Players | 2/8 |
-| Host Name | *Nisha* |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 1, 2024 17:31:08 |
+| Lobby Creation Time | Monday, January 1, 2024 17:31:21 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 17:31:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242426218207 |
-| Players | 2/8 |
-| Host Name | Mojave courier |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:31:11 |
+| Lobby ID | 28589242426369723 |
+| Players | 1/15 |
+| Host Name | Tyrone de los Backyardigans |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 17:31:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242426186665 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | bruh |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 1, 2024 17:31:08 |
