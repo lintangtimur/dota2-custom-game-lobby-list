@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:17:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549774528845 |
-| Players | 7/8 |
-| Host Name | Silvester VStallovoy |
+| Lobby ID | 28590549774873965 |
+| Players | 3/10 |
+| Host Name | Tima世界的 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:18:30 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:18:55 |
 
 
 |  | ot3_gardens_duo |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549772917439 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:16:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549774855321 |
-| Players | 1/15 |
-| Host Name | Pasan |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:18:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549773979787 |
-| Players | 1/15 |
-| Host Name | elbajito |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:17:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549774329846 |
-| Players | 9/10 |
-| Host Name | Omar Solivie |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:18:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Am1le |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:18:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549774955042 |
+| Players | 6/15 |
+| Host Name | ma daa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:19:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549774195634 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Уеб@Н |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:18:05 |
