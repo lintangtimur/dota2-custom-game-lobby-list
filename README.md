@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549708414238 |
-| Players | 8/10 |
-| Host Name | FOX |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:01:58 |
+| Lobby ID | 28590549708616126 |
+| Players | 1/8 |
+| Host Name | ASESINO DE KBROS |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:02:12 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549706902067 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | XrossX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:00:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549708437116 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | GRATZ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:02:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549707983652 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | тильтозаврик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:01:30 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549707630676 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 1k Mycop |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:01:07 |
@@ -112,47 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549708440135 |
-| Players | 5/8 |
-| Host Name | ◥◣F . E . A . R ◢◤ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:02:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549707935772 |
-| Players | 13/15 |
-| Host Name | Mal6chik |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:01:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549707960011 |
-| Players | 1/24 |
-| Host Name | ✪ SOLO JUEGO OVERTHROW |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:01:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549708356073 |
-| Players | 3/8 |
-| Host Name | vonka merder |
+| Lobby ID | 28590549708644717 |
+| Players | 2/8 |
+| Host Name | Shiza |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:01:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549708616126 |
-| Players | 1/8 |
-| Host Name | ASESINO DE KBROS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:02:12 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:02:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -164,13 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:02:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549708644717 |
-| Players | 1/8 |
-| Host Name | タタール語 |
+| Lobby ID | 28590549707960011 |
+| Players | 1/24 |
+| Host Name | ✪ SOLO JUEGO OVERTHROW |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:01:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549708957465 |
+| Players | 2/10 |
+| Host Name | Ocean |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:02:14 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:02:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -180,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:02:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549708969312 |
+| Players | 1/5 |
+| Host Name | Zz |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:02:35 |
 
 
