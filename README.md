@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242546971670 |
-| Players | 2/10 |
-| Host Name | Yareyaredaze |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 1, 2024 19:46:01 |
+| Lobby ID | 28589242549163775 |
+| Players | 3/8 |
+| Host Name | Sakamoto |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:48:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242549148817 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Lawyer |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:48:04 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:47:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242541626234 |
-| Players | 23/24 |
-| Host Name | kZe.idontgiveafuck!!! |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:40:54 |
+| Lobby ID | 28589242549561085 |
+| Players | 1/15 |
+| Host Name | ClingClang |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 1, 2024 19:48:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242546289899 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:45:22 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242548921171 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | psiblades |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:47:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242549163775 |
-| Players | 1/8 |
-| Host Name | Sakamoto |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:48:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242549370448 |
-| Players | 1/15 |
-| Host Name | ClingClang |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 1, 2024 19:48:16 |
 
 
 |  | epic_boss_fight_nightmare |
