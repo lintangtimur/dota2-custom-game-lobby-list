@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549782680727 |
-| Players | 6/8 |
-| Host Name | anxiety disorders |
+| Lobby ID | 28590549782755699 |
+| Players | 3/15 |
+| Host Name | doft |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:28:33 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:28:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:23:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549782628988 |
-| Players | 6/15 |
-| Host Name | Stealth Storm |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:28:29 |
+| Lobby ID | 28590549782795926 |
+| Players | 3/8 |
+| Host Name | Boykisser |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:28:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549780237498 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | SNC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:25:33 |
@@ -104,27 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549781952000 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Feedytharex |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:27:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549782184045 |
-| Players | 9/10 |
-| Host Name | Бабун |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:27:56 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549782728826 |
-| Players | 1/5 |
-| Host Name | SeGeinV |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:28:36 |
 
 
