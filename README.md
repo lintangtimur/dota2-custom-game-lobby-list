@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242708039277 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | Evol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:10:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242708324050 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Baklan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:10:32 |
@@ -83,37 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:10:38 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242708130925 |
-| Players | 1/10 |
-| Host Name | Dragoran |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:10:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242708137561 |
-| Players | 9/15 |
-| Host Name | МЕДОЕД |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:10:22 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242707951419 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | vehemence |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:10:11 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242708137561 |
+| Players | 13/15 |
+| Host Name | МЕДОЕД |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:10:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242706528511 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Gentlesiree |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:08:52 |
