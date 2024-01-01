@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242479780793 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Бот Ганс |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:37:03 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242480094045 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Ya absolut |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:37:24 |
