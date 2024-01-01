@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242580681202 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | depression & obsession |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 20:17:11 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 20:06:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242579931320 |
-| Players | 6/8 |
-| Host Name | Morons Everywhere |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:16:30 |
+| Lobby ID | 28589242581274096 |
+| Players | 1/10 |
+| Host Name | Tripa Seca BOLADÃO |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 1, 2024 20:17:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242581146774 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Saallaat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 20:17:36 |
@@ -74,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 20:17:41 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242581274096 |
-| Players | 1/10 |
-| Host Name | Tripa Seca BOLADÃO |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 1, 2024 20:17:43 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242578524079 |
-| Players | 9/10 |
-| Host Name | ihhh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 20:15:13 |
+| Lobby ID | 28589242581324676 |
+| Players | 1/10 |
+| Host Name | Gandy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 20:17:46 |
 
 
