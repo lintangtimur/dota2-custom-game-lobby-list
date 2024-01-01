@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242760497056 |
-| Players | 9/10 |
-| Host Name | VOID EL CONSTRUCTOR |
+| Lobby ID | 28589242775450947 |
+| Players | 1/8 |
+| Host Name | it |
 | Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 23:00:32 |
+| Lobby Creation Time | Monday, January 1, 2024 23:15:08 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242767598775 |
-| Players | 11/24 |
+| Players | 9/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:07:28 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:14:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242774858626 |
-| Players | 9/15 |
-| Host Name | Raijin |
+| Lobby ID | 28589242775382649 |
+| Players | 2/8 |
+| Host Name | d0dster |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:14:33 |
+| Lobby Creation Time | Monday, January 1, 2024 23:15:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242774910851 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ☆ VAZ ☆ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:14:36 |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:14:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242775288826 |
-| Players | 1/8 |
-| Host Name | peruanos color tierra |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 1, 2024 23:14:58 |
+| Lobby ID | 28589242775361534 |
+| Players | 1/15 |
+| Host Name | beardrinker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:15:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242772515209 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Shinzou wo Sasageyo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:12:15 |
