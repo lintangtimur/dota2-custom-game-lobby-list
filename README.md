@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242463609796 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Murka - Itachi Uchiha )) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:18:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242463579232 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | фанат скайзи |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:18:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242457862366 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Al'do |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242453025766 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:05:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242462917417 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | лошара13 3000 800 волт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:17:28 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 屠尽日本狗 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:19:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242422074462 |
+| Players | 7/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 17:25:37 |
 
 
 |  | epic_boss_fight_nightmare |
