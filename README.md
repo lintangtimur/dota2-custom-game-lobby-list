@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549598462158 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | кириешка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:02:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549596094723 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:00:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549598271670 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Lfpic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:02:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549597994212 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | andreyvinogradoff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:02:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549596982068 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | bdy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:01:23 |
@@ -110,10 +110,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:00:11 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549598584529 |
+| Players | 4/10 |
+| Host Name | Jhony Ty Deski |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:03:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549598660393 |
+| Players | 4/10 |
+| Host Name | Tavo Tu Terror |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:03:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549598664497 |
+| Players | 1/8 |
+| Host Name | YATORO DE DIA,  TEATORO DE NOCHE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:03:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549598735023 |
+| Players | 5/8 |
+| Host Name | L |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:03:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549594025046 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Mawen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:58:10 |
