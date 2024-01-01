@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549791624245 |
-| Players | 9/15 |
-| Host Name | ЦЫБУЛЯ |
+| Lobby ID | 28590549791891368 |
+| Players | 1/15 |
+| Host Name | After Lane - Insane |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:39:39 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:39:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549791671333 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | laofix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:39:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549790764556 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Sathanus |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:38:35 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549789474621 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | ATEMX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:36:57 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549791367724 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Uci |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:39:20 |
@@ -128,30 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:39:58 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549787404726 |
-| Players | 2/7 |
-| Host Name | Падаль |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:34:23 |
+| Lobby ID | 28590549788498255 |
+| Players | 1/10 |
+| Host Name | PIKONEE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:35:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549790092765 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DJANGO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:37:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549788498255 |
-| Players | 2/10 |
-| Host Name | Reaper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:35:44 |
 
 
