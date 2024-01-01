@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242766915138 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | BaByFaiL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:06:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242765024181 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 涙の息子 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:04:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242767598775 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:07:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242767770145 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | kJJ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:07:38 |
@@ -77,55 +77,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242767526549 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | пт на светлое будущее |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:07:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242768143617 |
-| Players | 7/10 |
-| Host Name | Eclipse24/7 |
+| Lobby ID | 28589242766469435 |
+| Players | 3/8 |
+| Host Name | KeH2xa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:08:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242768452710 |
-| Players | 1/15 |
-| Host Name | never give up |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 23:08:17 |
+| Lobby Creation Time | Monday, January 1, 2024 23:06:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242768198196 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Thienkhao |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:08:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242768408275 |
-| Players | 2/8 |
-| Host Name | Фриц Хонка |
+| Lobby ID | 28589242767430908 |
+| Players | 9/10 |
+| Host Name | scufhunter |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:08:15 |
+| Lobby Creation Time | Monday, January 1, 2024 23:07:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242768441256 |
-| Players | 1/8 |
-| Host Name | [_The_Fresh_] |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 23:08:17 |
+| Lobby ID | 28589242768637053 |
+| Players | 2/10 |
+| Host Name | Mr. Nemo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:08:28 |
 
 
 |  | epic_boss_fight_normal |
