@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549766543721 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:08:54 |
@@ -76,29 +76,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549771497961 |
-| Players | 9/10 |
-| Host Name | Biborten! |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:14:49 |
+| Lobby ID | 28590549772020442 |
+| Players | 7/10 |
+| Host Name | Choomba |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:15:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549771802910 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | АЛЛАХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:15:11 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549772016826 |
+| Players | 1/10 |
+| Host Name | XrossX |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:15:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549771835436 |
-| Players | 1/8 |
+| Lobby ID | 28590549772071186 |
+| Players | 2/8 |
 | Host Name | Mаяковский |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:15:14 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:15:31 |
 
 
 |  | epic_boss_fight_normal |
