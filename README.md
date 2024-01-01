@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242730807959 |
-| Players | 3/10 |
-| Host Name | カツレツ♡ |
+| Players | 1/10 |
+| Host Name | Не Ки Кун |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:31:43 |
 
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:31:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242729725952 |
-| Players | 6/10 |
-| Host Name | 磁器 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 1, 2024 22:30:41 |
+| Lobby ID | 28589242731460343 |
+| Players | 1/8 |
+| Host Name | I am invincible雨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:32:20 |
 
 
 |  | ot3_desert_octet |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242731462268 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | TEMAKP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:32:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242731460343 |
-| Players | 1/8 |
-| Host Name | I am invincible雨 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:32:20 |
+| Lobby ID | 28589242731701120 |
+| Players | 1/10 |
+| Host Name | Biborten! |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:32:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:28:22 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28589242731338092 |
-| Players | 3/7 |
-| Host Name | Sayapin |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 1, 2024 22:32:13 |
 
 
