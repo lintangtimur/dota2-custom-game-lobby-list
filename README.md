@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242767044461 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:06:56 |
@@ -65,58 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:07:38 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242768637053 |
-| Players | 6/10 |
-| Host Name | Mr. Nemo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:08:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242767526549 |
-| Players | 7/8 |
-| Host Name | пт на светлое будущее |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:07:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242768676927 |
-| Players | 5/15 |
-| Host Name | Arne på språng! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:08:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242769139018 |
-| Players | 3/8 |
-| Host Name | HUSKI_77 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 23:08:57 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242769093902 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | SPERMA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:08:54 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242768676927 |
+| Players | 14/15 |
+| Host Name | never give up |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:08:30 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242767430908 |
-| Players | 9/10 |
-| Host Name | scufhunter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:07:19 |
+| Lobby ID | 28589242766102681 |
+| Players | 8/10 |
+| Host Name | TOTSUGEKI |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 23:06:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242768926530 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Saturday Evening Puss |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:08:45 |
