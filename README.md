@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242516424665 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | доDick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:16:01 |
@@ -22,20 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242518081481 |
-| Players | 13/15 |
-| Host Name | kvlt |
+| Lobby ID | 28589242518599252 |
+| Players | 5/15 |
+| Host Name | Я поднимаю меч, только ради себя |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:17:41 |
+| Lobby Creation Time | Monday, January 1, 2024 19:18:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242517987069 |
-| Players | 1/8 |
-| Host Name | fc |
+| Lobby ID | 28589242518438968 |
+| Players | 2/24 |
+| Host Name | 爱要弹蛋蛋 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:17:35 |
+| Lobby Creation Time | Monday, January 1, 2024 19:18:02 |
 
 
 |  | ot3_desert_octet |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242517292796 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | MAIMALAGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:16:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242518438968 |
-| Players | 2/24 |
-| Host Name | 爱要弹蛋蛋 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:18:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242518227157 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | pos1 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:17:50 |
