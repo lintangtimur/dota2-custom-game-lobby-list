@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242676868657 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | ВЫЖИВАЛОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:41:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242676410701 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | TheOneBehind[A]ll |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 1, 2024 21:41:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242680303346 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | GhasT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:44:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242677834336 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | pienso luego tiro six :C |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:42:42 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242680526714 |
-| Players | 3/8 |
-| Host Name | Wizhn |
+| Lobby ID | 28589242680581513 |
+| Players | 1/8 |
+| Host Name | 123 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:45:07 |
+| Lobby Creation Time | Monday, January 1, 2024 21:45:10 |
 
 
 |  | epic_boss_fight_nightmare |
