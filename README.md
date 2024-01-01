@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242693089290 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | highfive |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:56:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242692685683 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:56:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242692398303 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ddd |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:55:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242692329361 |
-| Players | 5/8 |
+| Players | 1/8 |
 | Host Name | Mudkip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:55:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242677834336 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Jesucristo el Robot del Futuro |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:42:42 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242693503947 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | nando |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:56:52 |
@@ -112,26 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242693512153 |
-| Players | 1/8 |
-| Host Name | токсичный уголёк |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:56:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242693565065 |
-| Players | 1/24 |
-| Host Name | Mr.Gold |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:56:55 |
+| Lobby ID | 28589242693588077 |
+| Players | 3/8 |
+| Host Name | Brimstone |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 21:56:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242689950043 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Saturday Evening Puss |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:53:35 |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242691449073 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | GAGA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:54:59 |
