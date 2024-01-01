@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242422915785 |
-| Players | 3/8 |
-| Host Name | lokoespartano |
+| Players | 1/8 |
+| Host Name | Me and 9 dogs |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 17:26:45 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242424542901 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Русский |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:28:56 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242424134979 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | greyshark mode? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:28:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242414135914 |
-| Players | 4/5 |
-| Host Name | ATWA |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 17:14:43 |
 
 
 |  | epic_boss_fight_nightmare |
