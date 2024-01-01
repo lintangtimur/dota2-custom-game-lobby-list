@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242518179413 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:17:47 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28589242527743507 |
 | Players | 6/15 |
-| Host Name | Rendet |
+| Host Name | Сафронов, поставь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:27:24 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242522532429 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 19:22:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242520089581 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:19:40 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242526889778 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Star Шлёпа |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:26:32 |
@@ -104,27 +104,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242528408844 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Weil_Loh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:28:03 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242528332778 |
-| Players | 1/5 |
-| Host Name | obi in way |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 1, 2024 19:27:59 |
+| Lobby ID | 28589242527816162 |
+| Players | 7/8 |
+| Host Name | Niga 4 pos |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:27:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242528548160 |
+| Players | 6/8 |
+| Host Name | сосопопуашвили |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:28:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242527590137 |
+| Lobby ID | 28589242528547007 |
 | Players | 1/10 |
-| Host Name | DCLOYS |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:27:15 |
+| Host Name | CP |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 1, 2024 19:28:11 |
 
 
