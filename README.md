@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:38:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242680983101 |
-| Players | 12/15 |
-| Host Name | meeto meeto meeto :3 |
+| Lobby ID | 28589242682753151 |
+| Players | 6/10 |
+| Host Name | Dondo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:45:32 |
+| Lobby Creation Time | Monday, January 1, 2024 21:47:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242676868657 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | ВЫЖИВАЛОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:41:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242681280276 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | 'le Yan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:45:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242681839410 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | D. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:46:16 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242682006027 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ForGotteN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:46:25 |
@@ -112,17 +112,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242682648698 |
-| Players | 2/8 |
-| Host Name | Джастин Мидер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:46:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28589242682587670 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Holera |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:46:56 |
