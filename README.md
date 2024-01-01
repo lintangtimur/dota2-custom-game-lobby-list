@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242728989234 |
-| Players | 1/8 |
-| Host Name | waiting for death |
-| Region | DUBAI |
+| Lobby ID | 28589242728991729 |
+| Players | 2/8 |
+| Host Name | ШАЙГИТЛЕРШАЙ |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:29:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242726732567 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Floydddddd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:27:52 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:29:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242728991729 |
-| Players | 1/8 |
-| Host Name | ШАЙГИТЛЕРШАЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:29:59 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242726619748 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242727264767 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:28:22 |
