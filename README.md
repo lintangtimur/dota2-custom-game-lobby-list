@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242546289899 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:45:22 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242549815559 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | limit.ww |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:48:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242549890187 |
-| Players | 2/8 |
-| Host Name | ZLblE_Черепаха |
+| Lobby ID | 28589242549917608 |
+| Players | 1/24 |
+| Host Name | frin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:48:45 |
+| Lobby Creation Time | Monday, January 1, 2024 19:48:47 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242543517194 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Inferno |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:42:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242546036716 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ♪ Ragrats-. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:45:08 |
