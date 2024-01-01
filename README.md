@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242482003234 |
-| Players | 1/15 |
-| Host Name | MoHaKo |
+| Players | 3/15 |
+| Host Name | ZzzRiicE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:39:30 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242466622012 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ❤️✰𝘅𝘅𝘅✰❤ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:21:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242481008954 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ТОПЛЯК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:38:26 |
@@ -50,16 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242479289445 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | monday left me broken |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:36:29 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242482175121 |
+| Players | 1/10 |
+| Host Name | SexyPanda |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:39:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242482288484 |
+| Players | 2/10 |
+| Host Name | Hanni- |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:39:48 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242479710982 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 11.12.13.2218 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:36:58 |
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242477934608 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Zi_Man |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:34:57 |
