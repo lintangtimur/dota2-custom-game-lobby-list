@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549832453145 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Nadie |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:33:33 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549833189857 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | t.tv/PIDORAS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:34:35 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549832959393 |
-| Players | 7/10 |
-| Host Name | ChapMan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:34:16 |
+| Lobby ID | 28590549833434412 |
+| Players | 2/10 |
+| Host Name | Hellsing...!! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:34:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549833301669 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Mr. WILLIAM M. LAMETRASEROS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:34:44 |
@@ -128,21 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:34:47 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590549833408750 |
-| Players | 6/10 |
-| Host Name | ♔☣☣☣MONSTER☣☣☣♔ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:34:53 |
+| Lobby ID | 28590549833085241 |
+| Players | 1/5 |
+| Host Name | hiasfabio |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:34:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590549833415126 |
-| Players | 6/8 |
-| Host Name | Neymar Junior |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:34:53 |
+| Lobby ID | 28590549833561338 |
+| Players | 1/5 |
+| Host Name | Ricardomr |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:35:06 |
 
 
