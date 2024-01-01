@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549838671132 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | I HATE SNICKERS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:42:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549838485955 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | KDA does not define me |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:42:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549837619505 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Cerdo Comunista |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:40:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549838578674 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Harvey Spectre |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:42:10 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MIGS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:42:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549838837310 |
+| Players | 1/24 |
+| Host Name | CHVK solnechko |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:42:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549838838274 |
+| Players | 1/24 |
+| Host Name | KERTTU EI OLE LELU |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:42:32 |
 
 
 |  | epic_boss_fight_nightmare |
