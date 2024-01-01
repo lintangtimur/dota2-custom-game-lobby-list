@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549638986078 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | DANTE SPARTA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:46:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549638390675 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:45:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549637232698 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 内恰第三，乐扣第四 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:44:23 |
@@ -104,16 +104,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549639158202 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Роберт |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:46:27 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549640219337 |
+| Players | 3/15 |
+| Host Name | m1ck1m0use |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:47:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549640281129 |
+| Players | 3/8 |
+| Host Name | ЛЮБЛЮ ГЛЕБАСИКА❤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:47:38 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549639904075 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | Emperor Showa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:47:15 |
@@ -121,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549640148096 |
+| Lobby ID | 28590549640336649 |
 | Players | 1/10 |
 | Host Name | tsukiyomi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:47:30 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:47:42 |
 
 
