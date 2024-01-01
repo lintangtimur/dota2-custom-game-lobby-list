@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549719372889 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | I HATE SNICKERS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:14:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549718482699 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Francis |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:13:10 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:05:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549719465104 |
-| Players | 14/15 |
-| Host Name | ⛥スwhite princeス⛥怒savag |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:14:16 |
+| Lobby ID | 28590549717119413 |
+| Players | 11/24 |
+| Host Name | PARC |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:11:39 |
 
 
 |  | ot3_desert_octet |
@@ -77,19 +77,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549716155573 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 福 fergieツ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:10:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549717119413 |
-| Players | 10/24 |
-| Host Name | PARC |
+| Lobby ID | 28590549719671303 |
+| Players | 2/15 |
+| Host Name | Sirena |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:14:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549718741840 |
+| Players | 9/10 |
+| Host Name | Biborg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:13:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549719711363 |
+| Players | 3/8 |
+| Host Name | дэд инсульт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:14:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549719803274 |
+| Players | 1/15 |
+| Host Name | HarryTD |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:11:39 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:14:39 |
 
 
 |  | epic_boss_fight_normal |
