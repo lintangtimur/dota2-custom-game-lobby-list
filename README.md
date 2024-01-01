@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549870806864 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:30:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549871251981 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Losyth♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:31:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549873262687 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:34:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549873355148 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Ukrainian Thunder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:34:40 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549873544010 |
-| Players | 1/10 |
-| Host Name | Puto el que lo lea |
+| Players | 4/10 |
+| Host Name | O z e n |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:34:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549873567708 |
+| Players | 2/8 |
+| Host Name | [N]estarada |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:35:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549873638630 |
+| Players | 1/8 |
+| Host Name | racetcavasyl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:35:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Администратор сарая |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:30:48 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28590549873639855 |
+| Players | 1/7 |
+| Host Name | Galearcher |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:35:07 |
 
 
