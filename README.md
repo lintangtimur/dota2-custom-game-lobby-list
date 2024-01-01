@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549760802409 |
-| Players | 14/24 |
+| Players | 12/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:02:06 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:00:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549761917210 |
-| Players | 7/8 |
-| Host Name | ФренCock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:03:26 |
+| Lobby ID | 28590549762782827 |
+| Players | 1/24 |
+| Host Name | The not to be named one |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -49,35 +49,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549762572871 |
-| Players | 5/8 |
-| Host Name | BaNi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:04:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549762363690 |
-| Players | 7/15 |
-| Host Name | VC 57260 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:03:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549762357038 |
-| Players | 1/15 |
-| Host Name | Tranquility |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:03:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28590549762597728 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | LA CALILA |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:13 |
@@ -86,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549762624596 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Me van a matar causa PIPIPI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549762717359 |
+| Players | 6/15 |
+| Host Name | Tranquility |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:04:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549761445059 |
+| Players | 14/15 |
+| Host Name | Ric Flair |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:02:52 |
 
 
 |  | epic_boss_fight_nightmare |
