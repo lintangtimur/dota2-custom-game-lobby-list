@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:04:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549627429254 |
-| Players | 5/8 |
-| Host Name | Lobotomy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:34:00 |
+| Lobby ID | 28590549630227036 |
+| Players | 2/10 |
+| Host Name | lustmymind |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:36:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549628980466 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | Señor Jose |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:35:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549628267315 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Leonxs.JRRM |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:34:53 |
@@ -128,19 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:36:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549630116045 |
-| Players | 6/8 |
-| Host Name | абобайбай |
+| Lobby ID | 28590549630202174 |
+| Players | 1/10 |
+| Host Name | bch |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:36:49 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:36:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549629900431 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | PLODOTVOR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:36:35 |
@@ -171,15 +171,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | адвокат габена |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:36:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549629813932 |
-| Players | 9/15 |
-| Host Name | SpeedWagon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:36:30 |
 
 
 |  | ot3_necropolis_ffa |
