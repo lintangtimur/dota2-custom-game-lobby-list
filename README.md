@@ -11,31 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:51:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242507929633 |
-| Players | 10/15 |
-| Host Name | Volker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:07:22 |
+| Lobby ID | 28589242508765856 |
+| Players | 2/10 |
+| Host Name | Hanni- |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:08:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242507603153 |
-| Players | 3/10 |
-| Host Name | Krosher |
+| Players | 2/10 |
+| Host Name | expa00 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:07:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242507652998 |
-| Players | 5/8 |
-| Host Name | НеЖёСтКиЙ♂♂♂ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:07:05 |
+| Lobby ID | 28589242508702180 |
+| Players | 5/10 |
+| Host Name | абсолют |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:08:10 |
 
 
 |  | ot3_gardens_duo |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ArtoftheStateAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:06:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242508702046 |
-| Players | 5/8 |
-| Host Name | СергейБигБон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:08:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242508702180 |
-| Players | 2/10 |
-| Host Name | абсолют |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:08:10 |
 
 
 |  | epic_boss_fight_nightmare |
