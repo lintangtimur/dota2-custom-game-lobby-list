@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:38:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242683464805 |
-| Players | 7/8 |
-| Host Name | ebica |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:47:43 |
+| Lobby ID | 28589242682306931 |
+| Players | 1/10 |
+| Host Name | Dango Deviluke |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 21:46:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242676868657 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ВЫЖИВАЛОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:41:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242683170530 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | CheezyPizza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:47:27 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:34:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242682962933 |
-| Players | 13/15 |
-| Host Name | 有钱人 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:47:16 |
+| Lobby ID | 28589242683781410 |
+| Players | 3/10 |
+| Host Name | Chogex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 21:48:00 |
 
 
 |  | ot3_desert_octet |
@@ -94,38 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242682006027 |
-| Players | 8/10 |
-| Host Name | ForGotteN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:46:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242682306931 |
-| Players | 1/10 |
-| Host Name | Dango Deviluke |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 21:46:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242683781410 |
-| Players | 1/10 |
-| Host Name | Chogex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:48:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28589242683819055 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | я...ТАЛАНТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:48:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242684046168 |
+| Players | 3/8 |
+| Host Name | 14cm |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:48:15 |
 
 
 |  | epic_boss_fight_normal |
