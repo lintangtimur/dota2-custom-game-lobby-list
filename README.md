@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549716457817 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:10:55 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549717721128 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Lautreamont |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:12:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549718302955 |
-| Players | 13/15 |
-| Host Name | Cpt. Burning Ass |
+| Lobby ID | 28590549718741840 |
+| Players | 2/10 |
+| Host Name | Biborg |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:12:58 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:13:28 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549718606248 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Shambooh ֎ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:13:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549716155573 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 福 fergieツ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:10:35 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:11:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549718479507 |
-| Players | 7/8 |
-| Host Name | 3,14caSSo |
+| Lobby ID | 28590549718751877 |
+| Players | 8/10 |
+| Host Name | 4pos |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:13:10 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:13:29 |
 
 
 |  | ot3_gardens_duo |
@@ -113,46 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549718587452 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | .legitAVaGe |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:13:17 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549718751877 |
-| Players | 4/10 |
-| Host Name | 4pos |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:13:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549718741840 |
-| Players | 2/10 |
-| Host Name | Biborg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:13:28 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549718778254 |
-| Players | 2/8 |
-| Host Name | Desrespect |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:13:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549718779341 |
-| Players | 1/8 |
+| Lobby ID | 28590549718968177 |
+| Players | 4/8 |
 | Host Name | 00000000000000000000000 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:13:31 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:13:42 |
 
 
 |  | epic_boss_fight_normal |
@@ -164,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:13:05 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549718411499 |
-| Players | 1/5 |
-| Host Name | Kawata Nahoya |
+| Lobby ID | 28590549718853241 |
+| Players | 1/10 |
+| Host Name | ♂ I'm Performance Artist ♂ |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:13:06 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:13:35 |
 
 
 |  | epic_boss_fight_nightmare |
