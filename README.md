@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549586355359 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Zafkiel |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:49:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549587348885 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | I'LL REWRITE THE ENDING |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:50:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549586838300 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Mirkww |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:50:13 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549587377214 |
-| Players | 1/15 |
-| Host Name | < blank > |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:50:48 |
+| Lobby ID | 28590549587333452 |
+| Players | 2/15 |
+| Host Name | kJJ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:50:45 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549587215313 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 永遠に死んだ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:50:38 |
@@ -86,54 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549586977713 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Feedytharex |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:50:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549587333452 |
-| Players | 2/15 |
-| Host Name | kJJ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:50:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549585257935 |
-| Players | 14/15 |
-| Host Name | BOURBONIC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:48:28 |
+| Lobby ID | 28590549587679127 |
+| Players | 1/8 |
+| Host Name | パルビン |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:51:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549587555398 |
-| Players | 2/8 |
-| Host Name | Почему я? run |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:51:00 |
+| Lobby ID | 28590549587743668 |
+| Players | 5/8 |
+| Host Name | Zima Blue 🎔 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:51:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549587407011 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 千面之王法拉利 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:50:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549587479125 |
-| Players | 1/5 |
-| Host Name | 1_Deus_1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:50:55 |
 
 
