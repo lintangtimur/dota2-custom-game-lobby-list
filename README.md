@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549602348651 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | F1k0g0 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:07:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549603266200 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ВЫЕБАЛ ДЕДА МОРОЗ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:08:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549599155715 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:03:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549604366291 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | SyX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:09:22 |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549605054767 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Chaban |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:10:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549605376418 |
+| Players | 1/15 |
+| Host Name | CyberJesus |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:10:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549600906580 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | BONCHINCHE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:05:38 |
