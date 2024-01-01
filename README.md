@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242515232696 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Trafalgar Law |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:14:51 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242517115315 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ANTONIO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:16:43 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242517649796 |
+| Players | 3/15 |
+| Host Name | envia |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:17:15 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242517233001 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Hunt Hoe-Down |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 1, 2024 19:16:50 |
