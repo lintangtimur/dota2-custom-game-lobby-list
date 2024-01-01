@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242531209782 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Sup |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:30:49 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:23:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242531762221 |
-| Players | 7/8 |
-| Host Name | T = 2π√(m/k) |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:31:22 |
+| Lobby ID | 28589242532333329 |
+| Players | 1/24 |
+| Host Name | Sandra |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:31:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:28:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242532106350 |
-| Players | 10/15 |
-| Host Name | Aotiris |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:31:42 |
+| Lobby ID | 28589242521123872 |
+| Players | 7/8 |
+| Host Name | xxzd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:20:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:31:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242532333329 |
-| Players | 1/24 |
-| Host Name | Sandra |
+| Lobby ID | 28584787122113565 |
+| Players | 1/8 |
+| Host Name | VeVoid |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:31:55 |
+| Lobby Creation Time | Monday, January 1, 2024 02:29:49 |
 
 
 |  | epic_boss_fight_nightmare |
