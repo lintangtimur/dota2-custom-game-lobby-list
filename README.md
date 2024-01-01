@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549609370826 |
-| Players | 14/15 |
+| Players | 12/15 |
 | Host Name | Xiao BB |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:14:46 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:04:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549616656518 |
-| Players | 6/10 |
-| Host Name | Average Saiyan |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:22:33 |
+| Lobby ID | 28590549616697920 |
+| Players | 1/24 |
+| Host Name | TaLaNt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:22:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549615643002 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | PEPELALA !@32 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:21:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549614181810 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:19:56 |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:17:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549612961423 |
-| Players | 21/24 |
-| Host Name | aaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:18:38 |
+| Lobby ID | 28590549616693742 |
+| Players | 14/15 |
+| Host Name | Q A I S™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:22:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549616125529 |
-| Players | 7/8 |
-| Host Name | Meddia |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:21:59 |
+| Lobby ID | 28590549616700335 |
+| Players | 2/15 |
+| Host Name | Delta |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:22:36 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549612961632 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | S |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:18:38 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549616628345 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | сигаретный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:22:31 |
@@ -155,31 +155,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:21:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549616693742 |
-| Players | 3/15 |
-| Host Name | Q A I S™ |
+| Lobby ID | 28590549616919409 |
+| Players | 1/10 |
+| Host Name | Baiden |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:22:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549616697920 |
-| Players | 1/24 |
-| Host Name | TaLaNt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:22:36 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:22:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549616700335 |
-| Players | 1/15 |
-| Host Name | Delta |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:22:36 |
+| Lobby ID | 28590549616914752 |
+| Players | 5/15 |
+| Host Name | Aylardex Vlael |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:22:50 |
 
 
 |  | epic_boss_fight_challenger |
