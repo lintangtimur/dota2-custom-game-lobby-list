@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242436721512 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:44:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242441113489 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | ZHO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:50:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242441620110 |
-| Players | 10/24 |
+| Players | 3/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 1, 2024 17:51:11 |
@@ -58,35 +58,53 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242441760634 |
-| Players | 7/8 |
-| Host Name | anki |
+| Lobby ID | 28589242442666001 |
+| Players | 3/8 |
+| Host Name | СОЛЬ - Пробовал |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:51:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242441784583 |
-| Players | 14/15 |
-| Host Name | G |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:51:24 |
+| Lobby Creation Time | Monday, January 1, 2024 17:52:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242442223201 |
-| Players | 1/24 |
+| Players | 9/24 |
 | Host Name | Shrimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:51:59 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242442582745 |
+| Players | 5/24 |
+| Host Name | Avent- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 17:52:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242442610738 |
+| Players | 4/15 |
+| Host Name | Strelok228 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 17:52:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242442905595 |
+| Players | 2/8 |
+| Host Name | Nah, i'd win |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:52:53 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242437032522 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | bEAm/-Solar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:45:21 |
