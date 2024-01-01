@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242828984265 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 4 Deditos :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:09:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242830069264 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | R u crzy?Socheko Vanda ni Besii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:10:40 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242836571406 |
-| Players | 10/15 |
-| Host Name | Игорь (Артём) |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:17:23 |
+| Lobby ID | 28589242837193017 |
+| Players | 2/15 |
+| Host Name | Я играл как ПЕЛЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:18:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242836338863 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ColdCola |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:17:08 |
@@ -128,12 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 00:17:25 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242835578079 |
-| Players | 2/7 |
-| Host Name | Зловещая Eбулka |
+| Lobby ID | 28589242837250128 |
+| Players | 1/10 |
+| Host Name | Andreas Maler |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:16:21 |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:18:05 |
 
 
