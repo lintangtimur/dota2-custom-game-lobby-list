@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242722944519 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | C.R.C |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:24:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242728027959 |
-| Players | 3/10 |
-| Host Name | J7 |
+| Lobby ID | 28589242729806933 |
+| Players | 5/15 |
+| Host Name | GoriLL@ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:29:05 |
+| Lobby Creation Time | Monday, January 1, 2024 22:30:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:26:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242729908550 |
+| Players | 3/15 |
+| Host Name | AlastoZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 22:30:51 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242728991729 |
-| Players | 3/8 |
-| Host Name | ШАЙГИТЛЕРШАЙ |
+| Lobby ID | 28589242729470732 |
+| Players | 1/8 |
+| Host Name | away from you |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:29:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242726732567 |
-| Players | 22/24 |
-| Host Name | Floydddddd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 22:27:52 |
+| Lobby Creation Time | Monday, January 1, 2024 22:30:27 |
 
 
 |  | ot3_desert_octet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:29:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242729235587 |
-| Players | 11/15 |
-| Host Name | 有钱人 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:30:13 |
+| Lobby ID | 28589242729640587 |
+| Players | 2/8 |
+| Host Name | Peon Redfield |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 22:30:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,29 +112,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242728040910 |
-| Players | 9/10 |
-| Host Name | n7k1 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:29:06 |
+| Lobby ID | 28589242729725952 |
+| Players | 5/10 |
+| Host Name | 磁器 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 1, 2024 22:30:41 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242726619748 |
-| Players | 1/5 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:27:45 |
+| Lobby ID | 28589242729510212 |
+| Players | 9/24 |
+| Host Name | TheWiseTomato |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 22:30:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242727264767 |
-| Players | 9/10 |
-| Host Name | ∮Ӥκ∁ӤӃ |
+| Lobby ID | 28589242729607716 |
+| Players | 1/8 |
+| Host Name | BTK |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 22:30:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242729604411 |
+| Players | 1/24 |
+| Host Name | manjiro sano |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 1, 2024 22:30:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242729818986 |
+| Players | 1/15 |
+| Host Name | школьник |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:28:22 |
+| Lobby Creation Time | Monday, January 1, 2024 22:30:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242729954776 |
+| Players | 3/8 |
+| Host Name | todziko |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:30:54 |
 
 
 |  | epic_boss_fight_nightmare |
