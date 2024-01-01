@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242568850274 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Robert Lewangoalski |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 20:06:24 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 20:16:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242581146774 |
-| Players | 9/15 |
-| Host Name | Saallaat |
+| Lobby ID | 28589242581591462 |
+| Players | 1/8 |
+| Host Name | from the dark |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:17:36 |
+| Lobby Creation Time | Monday, January 1, 2024 20:18:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | beardrinker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 20:17:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242581605014 |
-| Players | 3/8 |
-| Host Name | i have no enemies |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 20:18:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242581591462 |
-| Players | 1/8 |
-| Host Name | from the dark |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:18:00 |
 
 
 |  | epic_boss_fight_nightmare |
