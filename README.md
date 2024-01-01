@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549613071547 |
-| Players | 12/15 |
-| Host Name | Fr0d0x |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:18:45 |
+| Lobby ID | 28590549613306544 |
+| Players | 5/10 |
+| Host Name | Hades |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:19:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549612228380 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | pLatysma |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:17:51 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:17:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549609370826 |
-| Players | 14/15 |
-| Host Name | Xiao BB |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:14:46 |
+| Lobby ID | 28590549613242989 |
+| Players | 2/10 |
+| Host Name | Full-Time Griefer |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:18:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549611023181 |
-| Players | 23/24 |
-| Host Name | nissan-gtr |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:16:34 |
+| Lobby ID | 28590549612961423 |
+| Players | 1/24 |
+| Host Name | aaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:18:38 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549612987731 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Убийца Акаме |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:18:39 |
@@ -113,28 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549612961632 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | S |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:18:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549612961423 |
-| Players | 1/24 |
-| Host Name | aaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
+| Lobby ID | 28590549613425797 |
+| Players | 4/15 |
+| Host Name | How u doin? |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:19:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549613433763 |
+| Players | 1/15 |
+| Host Name | Penetron en Peru |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:18:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549613242989 |
-| Players | 2/10 |
-| Host Name | Full-Time Griefer |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:18:56 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:19:08 |
 
 
 |  | epic_boss_fight_challenger |
@@ -146,12 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:18:06 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590549611820121 |
-| Players | 2/7 |
-| Host Name | STEREO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:17:25 |
+| Lobby ID | 28590549613481976 |
+| Players | 1/5 |
+| Host Name | люблю твою СЕСТРУ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:19:11 |
 
 
