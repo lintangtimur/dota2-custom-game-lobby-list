@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242427767622 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Tyrone de los Backyardigans |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 17:33:14 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242426920007 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | impulse 101 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:32:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242429359684 |
-| Players | 6/10 |
-| Host Name | не контактирую/no c |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 17:35:21 |
+| Lobby ID | 28589242429857537 |
+| Players | 8/15 |
+| Host Name | envia |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:36:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242429634658 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Malam Bantay MU! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:35:42 |
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242429484224 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | egoisto |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 17:35:31 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242429764433 |
-| Players | 1/15 |
-| Host Name | PowerfirsT |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 1, 2024 17:35:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242426749917 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | bruh |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 1, 2024 17:31:53 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kongandeu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:35:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242429854129 |
+| Players | 1/5 |
+| Host Name | Tess Tickles |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, January 1, 2024 17:36:00 |
 
 
