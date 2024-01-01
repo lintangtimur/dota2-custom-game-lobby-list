@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242507929633 |
-| Players | 4/15 |
-| Host Name | Ебало? |
+| Players | 6/15 |
+| Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:07:22 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242507652998 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | MAESTRO |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:07:05 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242505960552 |
-| Players | 4/8 |
-| Host Name | абсолют |
+| Players | 5/8 |
+| Host Name | чудище 玉kill me玉 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:05:19 |
 
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242508082809 |
-| Players | 3/10 |
-| Host Name | )))()())))()) |
+| Players | 6/10 |
+| Host Name | avg ALFX-PVE ABUSER 1337 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:07:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242508286479 |
+| Players | 5/8 |
+| Host Name | СергейБигБон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:07:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KIWI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:04:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242508074337 |
-| Players | 1/5 |
-| Host Name | Top G |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:07:31 |
 
 
