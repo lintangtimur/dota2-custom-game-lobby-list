@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242492225323 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | флопя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:50:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242495647525 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ZOXA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:54:28 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28589242498448373 |
 | Players | 1/15 |
-| Host Name | shiAT |
+| Host Name | DeVIP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:57:27 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242498218500 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | снегопад |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:57:13 |
@@ -50,28 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242495928707 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:54:47 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242498451246 |
+| Players | 1/10 |
+| Host Name | Yare Yare Daze |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:57:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242498479232 |
+| Players | 1/24 |
+| Host Name | manjiro sano |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 1, 2024 18:57:29 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242497798198 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Adolf Шварценегр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:56:47 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242494302278 |
-| Players | 4/5 |
-| Host Name | БРАТ? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:53:00 |
 
 
 |  | epic_boss_fight_normal |
