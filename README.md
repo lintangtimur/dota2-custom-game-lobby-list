@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242686570339 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | [PG]Avalom |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:50:30 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242685463050 |
+| Lobby ID | 28589242687484576 |
 | Players | 8/10 |
-| Host Name | NothingToSay |
+| Host Name | Hanni- |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:49:31 |
+| Lobby Creation Time | Monday, January 1, 2024 21:51:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242686999918 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Твоя мама |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:50:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242685883775 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:49:54 |
@@ -74,20 +74,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:34:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242685408836 |
-| Players | 22/24 |
-| Host Name | ☠ Kira Yoshikage☢ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 21:49:28 |
+| Lobby ID | 28589242687252926 |
+| Players | 2/8 |
+| Host Name | TSpirit.Cavaps |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 21:51:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242677834336 |
 | Players | 9/24 |
-| Host Name | pienso luego tiro six :C |
+| Host Name | Jesucristo el Robot del Futuro |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:42:42 |
 
@@ -101,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:50:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242687252926 |
-| Players | 3/8 |
-| Host Name | TSpirit.Cavaps |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:51:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242686340936 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Kpblcastyle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:50:18 |
@@ -122,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242687201355 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | KumaBear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:51:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242687569820 |
+| Players | 1/5 |
+| Host Name | dotason1412 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 21:51:23 |
 
 
