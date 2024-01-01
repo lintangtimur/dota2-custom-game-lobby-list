@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242535143950 |
-| Players | 6/8 |
-| Host Name | someone clipped my wings |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:34:38 |
+| Lobby ID | 28589242534993674 |
+| Players | 1/10 |
+| Host Name | GADZHI GADZHIEV |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:34:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242532333329 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Sandra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:31:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242533854905 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Tripa Seca BOLADÃO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 19:33:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242534806649 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | i have no enemies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:34:19 |
@@ -74,30 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:34:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242534993674 |
-| Players | 1/10 |
-| Host Name | GADZHI GADZHIEV |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:34:29 |
+| Lobby ID | 28589242534104852 |
+| Players | 13/15 |
+| Host Name | AnexC5 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:33:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242535386564 |
+| Players | 1/15 |
+| Host Name | Lon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:34:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242534374284 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Travis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:33:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242535244390 |
-| Players | 2/5 |
-| Host Name | san40us |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:34:44 |
 
 
