@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:51:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242522997557 |
-| Players | 5/15 |
-| Host Name | Son1#33 |
+| Lobby ID | 28589242524163844 |
+| Players | 6/10 |
+| Host Name | Dolphinling |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:22:36 |
+| Lobby Creation Time | Monday, January 1, 2024 19:23:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242523581571 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | DN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:23:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242518179413 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:17:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242523778070 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ROCK HARD |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 1, 2024 19:23:24 |
@@ -74,19 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:23:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242524163844 |
-| Players | 4/10 |
-| Host Name | Dolphinling |
+| Lobby ID | 28589242524676210 |
+| Players | 1/8 |
+| Host Name | Спиздил крипа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:23:48 |
+| Lobby Creation Time | Monday, January 1, 2024 19:24:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242524749752 |
+| Players | 6/15 |
+| Host Name | Son1#33 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:24:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242524750181 |
+| Players | 1/24 |
+| Host Name | South China Sea |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:24:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242522856297 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SUP IS MY LIFE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:22:27 |
