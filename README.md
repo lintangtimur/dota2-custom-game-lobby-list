@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549769101158 |
-| Players | 6/8 |
-| Host Name | Alpacho |
+| Lobby ID | 28590549769437154 |
+| Players | 9/10 |
+| Host Name | с новым гойда! |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:11:57 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:12:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549766984005 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | SI TAN SOLO PUDIERA ESCRIBIR TMR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:09:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549767703216 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | lanki 52 tv/zerotwonice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:10:17 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549769160465 |
-| Players | 11/15 |
-| Host Name | ≫ん£ L I C Oん≪ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:12:01 |
+| Lobby ID | 28590549769774555 |
+| Players | 14/15 |
+| Host Name | Солевий медовик |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:12:46 |
 
 
 |  | ot3_desert_octet |
@@ -92,31 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:11:46 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549769725864 |
-| Players | 1/10 |
-| Host Name | Chippi Chippi Chappa Chappa |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:12:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549769437154 |
-| Players | 7/10 |
-| Host Name | с новым гойда! |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:12:21 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549768719471 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | juzzwardo |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:11:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549769833940 |
+| Players | 1/15 |
+| Host Name | Dragon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:12:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549769890919 |
+| Players | 2/10 |
+| Host Name | Chippi Chippi Chappa Chappa |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:12:54 |
 
 
 |  | epic_boss_fight_normal |
