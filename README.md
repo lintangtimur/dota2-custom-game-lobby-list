@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549773324877 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Neferpitou |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:17:02 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549774873965 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Tima世界的 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:18:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549775123180 |
-| Players | 3/8 |
-| Host Name | タタール語 |
+| Lobby ID | 28590549774955042 |
+| Players | 9/15 |
+| Host Name | ma daa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:19:13 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:19:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549772917439 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:16:32 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549774257564 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Am1le |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:18:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549774955042 |
-| Players | 8/15 |
-| Host Name | ma daa |
+| Lobby ID | 28590549775333448 |
+| Players | 1/10 |
+| Host Name | sQreen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:19:01 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:19:28 |
 
 
 |  | epic_boss_fight_nightmare |
