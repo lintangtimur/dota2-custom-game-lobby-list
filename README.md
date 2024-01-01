@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242681209444 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:45:43 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242695976544 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 1 v 23（°𓂍° ） |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:59:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242697099815 |
-| Players | 2/8 |
-| Host Name | я не макс, я макима |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:00:10 |
+| Lobby ID | 28589242677834336 |
+| Players | 23/24 |
+| Host Name | Jesucristo el Robot del Futuro |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 21:42:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,16 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242696919018 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | It's better to fade away |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:00:00 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242697370109 |
+| Players | 3/8 |
+| Host Name | M-L |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:00:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242697415779 |
+| Players | 3/10 |
+| Host Name | ? |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:00:27 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242696027461 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 499425216 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:59:11 |
