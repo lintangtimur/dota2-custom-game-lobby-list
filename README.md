@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242819645301 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ^^!¬¬ (Si cancila) |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:59:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242819457974 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | szunari |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:59:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242819616640 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 23:59:57 |
@@ -67,11 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242819955396 |
-| Players | 2/10 |
-| Host Name | ROHA |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:00:18 |
+| Lobby ID | 28589242819984721 |
+| Players | 5/10 |
+| Host Name | ЧТО ТАКОЕ ПОБЕДА? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:00:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242820032293 |
+| Players | 5/8 |
+| Host Name | дневной дрочер |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:00:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242819184494 |
+| Players | 14/15 |
+| Host Name | новогодняя |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:59:30 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242818504531 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:58:48 |
