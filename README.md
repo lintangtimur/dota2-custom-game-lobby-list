@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549716155573 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 福 fergieツ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:10:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549721882250 |
-| Players | 2/8 |
-| Host Name | KILLka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:17:01 |
+| Lobby ID | 28590549721898673 |
+| Players | 6/10 |
+| Host Name | kloun ♡ kisho arima |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:17:02 |
 
 
 |  | ot3_desert_octet |
@@ -121,26 +121,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549721489728 |
-| Players | 7/8 |
-| Host Name | NEVER MORE |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:16:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549721408468 |
-| Players | 12/15 |
-| Host Name | zaza enjoyer |
+| Lobby ID | 28590549720258509 |
+| Players | 3/8 |
+| Host Name | qhiooo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:16:28 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:15:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549722002937 |
+| Players | 2/8 |
+| Host Name | Apocalyps |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:17:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549721869303 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | ВАЛЕРА ТРУБЫ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:17:00 |
@@ -148,20 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549721885022 |
-| Players | 4/8 |
-| Host Name | obsolюt梅 |
+| Lobby ID | 28590549722069349 |
+| Players | 1/8 |
+| Host Name | why? |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:17:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549721898673 |
-| Players | 2/10 |
-| Host Name | kloun ♡ kisho arima |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:17:02 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:17:14 |
 
 
 |  | epic_boss_fight_normal |
