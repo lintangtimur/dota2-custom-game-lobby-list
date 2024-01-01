@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242831691187 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:12:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242831780751 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Sylveth |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:12:26 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 00:10:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242834038874 |
-| Players | 6/10 |
-| Host Name | Akira |
+| Lobby ID | 28589242834503481 |
+| Players | 1/8 |
+| Host Name | S1a3x |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:14:45 |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:15:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,22 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 00:13:27 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242834490513 |
+| Players | 1/10 |
+| Host Name | Ramon Ventura |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:15:13 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242833773168 |
-| Players | 9/15 |
-| Host Name | блять да как его мобилизовать |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:14:29 |
+| Lobby ID | 28589242834495456 |
+| Players | 1/15 |
+| Host Name | Mr_Mox |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:15:14 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242831569842 |
-| Players | 2/7 |
-| Host Name | sparanuk669 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:12:13 |
+| Lobby ID | 28589242834472961 |
+| Players | 1/5 |
+| Host Name | :) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:15:12 |
 
 
 |  | epic_boss_fight_nightmare |
