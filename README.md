@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242682306931 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Dango Deviluke |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:46:41 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:51:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242685883775 |
-| Players | 22/24 |
-| Host Name | Instantaneous Death//OT3.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 21:49:54 |
+| Lobby ID | 28589242689281426 |
+| Players | 6/15 |
+| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 1, 2024 21:52:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,29 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242685463050 |
-| Players | 9/10 |
-| Host Name | NothingToSay |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:49:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242689003335 |
-| Players | 6/8 |
-| Host Name | Snehule_ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:52:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242688898589 |
-| Players | 9/10 |
-| Host Name | Donald Trump |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:52:37 |
+| Lobby ID | 28589242689451981 |
+| Players | 2/10 |
+| Host Name | D0niL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 21:53:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,21 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:52:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242689281426 |
-| Players | 2/15 |
-| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 1, 2024 21:52:58 |
+| Lobby ID | 28589242688898589 |
+| Players | 9/10 |
+| Host Name | Donald Trump |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:52:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242688914214 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | A- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:52:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242687201355 |
+| Players | 9/10 |
+| Host Name | KumaBear |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 21:51:03 |
 
 
