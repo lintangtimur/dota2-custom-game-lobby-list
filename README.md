@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549880801795 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:46:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549884406094 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | crossj |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:52:45 |
@@ -74,49 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 06:54:32 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549884914635 |
-| Players | 9/10 |
-| Host Name | pox na game |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:53:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549884779919 |
-| Players | 2/15 |
-| Host Name | TOO ESTAS PVTAS QUIEREN MI ADN |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:53:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549885416769 |
-| Players | 10/15 |
-| Host Name | phaze |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:54:31 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549885426436 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | El Gotto Cuba |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:54:32 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549884779919 |
+| Players | 3/15 |
+| Host Name | TOO ESTAS PVTAS QUIEREN MI ADN |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:53:23 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549885542690 |
-| Players | 1/8 |
-| Host Name | White |
+| Lobby ID | 28590549885631436 |
+| Players | 6/8 |
+| Host Name | Bello |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:54:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549885645140 |
+| Players | 2/15 |
+| Host Name | YellowHead |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:54:44 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:54:55 |
 
 
 |  | epic_boss_fight_normal |
