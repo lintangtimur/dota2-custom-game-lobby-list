@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549682619122 |
-| Players | 9/10 |
-| Host Name | MeFe |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:33:32 |
+| Lobby ID | 28590549675740010 |
+| Players | 6/10 |
+| Host Name | f-16c block 50 war thunder |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:26:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549682760213 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Aylardex Vlael |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:33:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549678952550 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Buu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:29:32 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549679775041 |
-| Players | 2/8 |
-| Host Name | пиздатый типок |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:30:26 |
+| Lobby ID | 28590549682923265 |
+| Players | 1/8 |
+| Host Name | yuca |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:33:52 |
 
 
 |  | ot3_desert_octet |
@@ -101,24 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:33:38 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549675740010 |
-| Players | 6/10 |
-| Host Name | f-16c block 50 war thunder |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:26:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549682923265 |
-| Players | 1/8 |
-| Host Name | yuca |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:33:52 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28590549669317015 |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | handsome M |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:33:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549683148442 |
+| Players | 1/10 |
+| Host Name | LaZaR |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:34:07 |
 
 
