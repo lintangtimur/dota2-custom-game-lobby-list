@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549839555731 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | khaaf179 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:43:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549839970379 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | слепой окулист |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:44:09 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549839948393 |
-| Players | 7/10 |
-| Host Name | 6e3yMHbluJIopg |
+| Lobby ID | 28590549840337817 |
+| Players | 3/8 |
+| Host Name | Sakuragi |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:44:07 |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:44:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549840176405 |
-| Players | 3/15 |
+| Players | 14/15 |
 | Host Name | vicente |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:44:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549839219243 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | justyqw |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:43:05 |
@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:44:26 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549840300970 |
+| Players | 1/15 |
+| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:44:38 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549836151866 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | DJANGO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:38:44 |
