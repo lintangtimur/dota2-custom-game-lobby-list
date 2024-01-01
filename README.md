@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549760802409 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:02:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549765601580 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | azsumdovolniq |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:07:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549765152707 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | .apathethic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:07:15 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:07:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549762597728 |
-| Players | 7/8 |
-| Host Name | LA CALILA |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:04:13 |
+| Lobby ID | 28590549765805968 |
+| Players | 6/10 |
+| Host Name | ваня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:08:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,21 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:07:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549765805968 |
-| Players | 2/10 |
-| Host Name | ваня |
+| Lobby ID | 28590549765987002 |
+| Players | 3/8 |
+| Host Name | ЛЮБЛЮ ГЛЕБАСИКА❤ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:08:01 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:08:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549754100515 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | | R@PT()R | ^_^ | |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:54:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549765900851 |
+| Players | 2/10 |
+| Host Name | atsubasu.fx |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:08:08 |
 
 
