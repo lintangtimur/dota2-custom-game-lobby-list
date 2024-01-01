@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242524676210 |
+| Lobby ID | 28589242526939414 |
 | Players | 3/8 |
-| Host Name | Спиздил крипа |
+| Host Name | Arrr-arr!!! tastydrop |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:24:19 |
+| Lobby Creation Time | Monday, January 1, 2024 19:26:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242526092534 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | JustSoMuch |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:25:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242526338271 |
-| Players | 8/10 |
-| Host Name | 505 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 1, 2024 19:25:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242526889778 |
-| Players | 1/8 |
-| Host Name | Star Шлёпа |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:26:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,19 +94,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242526939414 |
+| Lobby ID | 28589242526889778 |
 | Players | 1/8 |
-| Host Name | Arrr-arr!!! tastydrop |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:26:35 |
+| Host Name | Star Шлёпа |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:26:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242527104953 |
+| Players | 2/10 |
+| Host Name | kkkk |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:26:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242527119095 |
+| Players | 1/10 |
+| Host Name | PRIEST |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 1, 2024 19:26:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242525738081 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ⋨Key*Sha⋩ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:25:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242527128859 |
+| Players | 1/5 |
+| Host Name | DCLOYS |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:26:47 |
 
 
