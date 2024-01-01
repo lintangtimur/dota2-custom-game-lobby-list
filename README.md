@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:49:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242554380139 |
-| Players | 14/15 |
-| Host Name | ХУЛИо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:52:59 |
+| Lobby ID | 28589242555441721 |
+| Players | 3/24 |
+| Host Name | sdasd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:54:00 |
 
 
 |  | ot3_desert_octet |
@@ -29,39 +29,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:48:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242555290554 |
-| Players | 3/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:53:51 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242554880560 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Peon Redfield |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 1, 2024 19:53:28 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242555450258 |
+| Players | 5/10 |
+| Host Name | NeK.O. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:54:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242555490546 |
+| Players | 1/8 |
+| Host Name | очко мам |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:54:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242555536927 |
+| Players | 4/10 |
+| Host Name | Vimeson |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:54:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242554848675 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | RksmeN^++ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:53:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242555317542 |
-| Players | 1/5 |
-| Host Name | Rick |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:53:53 |
 
 
