@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549876038283 |
-| Players | 9/10 |
-| Host Name | El Abusamadres Jones |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:38:58 |
+| Lobby ID | 28590549878070864 |
+| Players | 2/8 |
+| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:42:17 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549875018454 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | hAggU pLaYeR |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:37:19 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549877676125 |
-| Players | 14/15 |
-| Host Name | pwningdude |
+| Players | 12/15 |
+| Host Name | Хули вода горит |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:41:38 |
 
@@ -68,37 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549877979349 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | RuBeN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:42:08 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549877830086 |
-| Players | 4/10 |
-| Host Name | Dolphinling |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:41:53 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549877998865 |
-| Players | 1/15 |
-| Host Name | sharingan |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:42:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549878016815 |
-| Players | 1/10 |
-| Host Name | ♔☣☣☣MONSTER☣☣☣♔ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:42:11 |
+| Lobby ID | 28590549878051274 |
+| Players | 10/15 |
+| Host Name | Yamero |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:42:15 |
 
 
 |  | epic_boss_fight_nightmare |
