@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549853006204 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ПaPToBa9i Dev4ono4ka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:03:15 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549853288775 |
-| Players | 3/15 |
-| Host Name | Leo bot_2 |
+| Players | 2/15 |
+| Host Name | MC DRXCX BADAS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:03:40 |
 
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549853416035 |
-| Players | 8/10 |
-| Host Name | Dorwell |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:03:52 |
+| Lobby ID | 28590549853355572 |
+| Players | 1/15 |
+| Host Name | MIGS |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:03:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549852284590 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Scrappycoco |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:02:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549853460263 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ≫ん£ L I C Oん≪ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:03:56 |
@@ -85,11 +85,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549853355572 |
+| Lobby ID | 28590549853738889 |
+| Players | 3/15 |
+| Host Name | PT na nezhnost'♥ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:04:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549853728644 |
+| Players | 2/10 |
+| Host Name | Radical Highway |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:04:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549853742031 |
+| Players | 6/8 |
+| Host Name | Kawazaki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:04:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549853805757 |
 | Players | 1/15 |
-| Host Name | MIGS |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:03:46 |
+| Host Name | AquaBrat2 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:04:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549853814431 |
+| Players | 6/15 |
+| Host Name | Cruiser Aurora |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:04:27 |
 
 
 |  | epic_boss_fight_nightmare |
