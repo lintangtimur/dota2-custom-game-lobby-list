@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242492225323 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | флопя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:50:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242496116067 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | jiujitsu_supra |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:54:59 |
@@ -59,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242496708106 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Power Pooch |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:55:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242496704118 |
-| Players | 1/15 |
-| Host Name | From HERO to ZERO |
-| Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:55:37 |
 
 
@@ -83,28 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:55:41 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242495709390 |
+| Players | 14/15 |
+| Host Name | QUZZULLQUURT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:54:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242494326819 |
+| Players | 14/15 |
+| Host Name | Грешник / Sinner |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:53:02 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242494302278 |
-| Players | 4/5 |
-| Host Name | БРАТ? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:53:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242495919977 |
-| Players | 1/10 |
-| Host Name | x |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:54:46 |
+| Lobby ID | 28589242497148852 |
+| Players | 1/5 |
+| Host Name | SUSi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:56:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242496285507 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | 谜兔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:55:10 |
