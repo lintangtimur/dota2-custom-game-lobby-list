@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549778166547 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | интимный прыщик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:22:57 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549774476972 |
-| Players | 6/24 |
-| Host Name | stay with me |
+| Players | 2/24 |
+| Host Name | Пельмень_Райан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:18:26 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549776324871 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | жижа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:20:42 |
@@ -86,28 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549776752920 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:21:13 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549778171744 |
-| Players | 1/10 |
-| Host Name | >ReLaXX< |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:22:57 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549778143612 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | девственник) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:22:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549778406738 |
+| Players | 2/15 |
+| Host Name | Impala67 |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:23:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549778419989 |
+| Players | 4/10 |
+| Host Name | By_Spark |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:23:16 |
 
 
 |  | epic_boss_fight_nightmare |
