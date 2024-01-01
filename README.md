@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242707491793 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Diamond Chii 7u7 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:09:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242714684175 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | frasherzxc`10 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:16:26 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242715130588 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | - |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:16:51 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:16:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242715082377 |
-| Players | 7/8 |
-| Host Name | The Wock Johnson |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:16:48 |
+| Lobby ID | 28589242712478846 |
+| Players | 9/10 |
+| Host Name | AdamGod |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:14:22 |
 
 
 |  | ot3_gardens_duo |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЭТО ВТОРОЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:16:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242715295105 |
+| Players | 1/5 |
+| Host Name | x |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 22:17:00 |
 
 
