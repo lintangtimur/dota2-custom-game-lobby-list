@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242776871635 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | AlastoZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:16:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242772308103 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:12:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242778976757 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | FoX |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 23:18:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242778778412 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | DEDDENNE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:18:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242776426515 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:16:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242777457896 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | xxGodInstincxX |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 23:17:07 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Monster Hunter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:16:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242778887915 |
-| Players | 2/10 |
-| Host Name | золотой#bolotorust |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:18:31 |
 
 
 |  | epic_boss_fight_hard |
