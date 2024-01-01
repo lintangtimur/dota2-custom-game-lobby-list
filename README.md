@@ -40,26 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242700821112 |
-| Players | 4/8 |
-| Host Name | Гиркин |
+| Lobby ID | 28589242701468796 |
+| Players | 3/8 |
+| Host Name | chibake |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:03:34 |
+| Lobby Creation Time | Monday, January 1, 2024 22:04:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242700944924 |
-| Players | 12/15 |
-| Host Name | cognitive dissonance |
+| Lobby ID | 28589242701707754 |
+| Players | 2/15 |
+| Host Name | СПАНЧБОБ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:03:41 |
+| Lobby Creation Time | Monday, January 1, 2024 22:04:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242699419199 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:02:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242700352515 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | wi wi |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:03:09 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:03:48 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242701468796 |
-| Players | 2/8 |
-| Host Name | chibake |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:04:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242699778585 |
@@ -110,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:02:38 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242699989098 |
-| Players | 9/10 |
-| Host Name | абвыбвагыагавгву |
+| Lobby ID | 28589242701778692 |
+| Players | 1/5 |
+| Host Name | BeSAN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:02:49 |
+| Lobby Creation Time | Monday, January 1, 2024 22:04:27 |
 
 
