@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242450603328 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | coa7279 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242457062956 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Papapa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:10:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242457432927 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Леха Тарабрин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:10:57 |
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242457160163 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Абхазская вафля |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:10:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242457496947 |
+| Players | 1/10 |
+| Host Name | Fafara |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:11:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242457548592 |
+| Players | 1/10 |
+| Host Name | 930 |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 1, 2024 18:11:05 |
 
 
