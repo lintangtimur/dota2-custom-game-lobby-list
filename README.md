@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549868388500 |
-| Players | 14/15 |
-| Host Name | Γιάννης Μπέζος |
+| Lobby ID | 28590549868738838 |
+| Players | 3/10 |
+| Host Name | メノリ-ラヴ-ヴェリク |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:26:47 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:27:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549867710047 |
-| Players | 13/15 |
-| Host Name | Yaga |
+| Lobby ID | 28590549868895908 |
+| Players | 2/10 |
+| Host Name | 682 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:25:43 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:27:35 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549863591931 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Smurfosaurus-Rekt |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:19:14 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549868305167 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 痛苦与黑暗 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:26:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549865223325 |
-| Players | 23/24 |
-| Host Name | RiftBreaker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:21:44 |
+| Lobby ID | 28590549868819716 |
+| Players | 2/10 |
+| Host Name | Слава сыр колбасс |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:27:28 |
 
 
 |  | ot3_gardens_duo |
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549868615963 |
-| Players | 3/8 |
-| Host Name | Белгородский Туз |
+| Players | 5/8 |
+| Host Name | Тирлим Бом Бом |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:27:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549868738838 |
-| Players | 2/10 |
-| Host Name | メノリ-ラヴ-ヴェリク |
+| Lobby ID | 28590549868968936 |
+| Players | 4/8 |
+| Host Name | кирилл про 192 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:27:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549868819716 |
-| Players | 2/10 |
-| Host Name | Слава сыр колбасс |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:27:28 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:27:42 |
 
 
 |  | epic_boss_fight_nightmare |
