@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242831691187 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:12:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242831780751 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Sylveth |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:12:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242834296727 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | YourHope |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:15:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242834490513 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Ramon Ventura |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:15:13 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242834535876 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | ◢ 稲妻 ◤ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:15:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242834559604 |
-| Players | 1/10 |
-| Host Name | MelomaN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:15:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,5 +99,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NGX.RoR_kiler |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:15:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242834710934 |
+| Players | 3/10 |
+| Host Name | MelomaN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:15:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242834850706 |
+| Players | 1/8 |
+| Host Name | Kageno Flow影 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:15:36 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28589242834741987 |
+| Players | 1/7 |
+| Host Name | HardStyle |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:15:29 |
 
 
