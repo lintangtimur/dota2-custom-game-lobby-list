@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242722944519 |
-| Players | 3/10 |
-| Host Name | Dango Deviluke |
+| Players | 2/10 |
+| Host Name | C.R.C |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:24:15 |
 
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:23:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242723898467 |
-| Players | 3/8 |
-| Host Name | Luckyman |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:25:10 |
+| Lobby ID | 28589242724814860 |
+| Players | 2/15 |
+| Host Name | школьник |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:26:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242721353164 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | CorosionaL DamagE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:22:42 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:02:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242723198271 |
-| Players | 1/15 |
-| Host Name | comedordeperuvian |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 1, 2024 22:24:30 |
+| Lobby ID | 28589242724409458 |
+| Players | 2/8 |
+| Host Name | 85943734753895 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:25:39 |
 
 
 |  | ot3_gardens_duo |
@@ -99,42 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:25:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242723888704 |
-| Players | 1/8 |
-| Host Name | чёткая залупка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:25:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242724003262 |
-| Players | 14/15 |
-| Host Name | SF |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:25:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242724409458 |
-| Players | 2/8 |
-| Host Name | 85943734753895 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:25:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242724594477 |
-| Players | 2/8 |
-| Host Name | Star Шлёпа |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:25:50 |
 
 
 |  | epic_boss_fight_nightmare |
