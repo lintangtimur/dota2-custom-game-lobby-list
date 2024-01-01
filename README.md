@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242462789779 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Нервный(подрочил) |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:17:20 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242461767803 |
-| Players | 5/10 |
-| Host Name | дик сакер 2005 |
+| Players | 3/10 |
+| Host Name | Le Schnigleur |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:16:09 |
 
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242462917417 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | tuttifrutti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:17:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242463191954 |
+| Players | 3/8 |
+| Host Name | v1pzer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:17:48 |
 
 
 |  | epic_boss_fight_nightmare |
