@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242546582059 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | доминик дэ коко |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:45:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242545186208 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Mike Wardovsky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:44:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242545757336 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | PRIEST |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:44:52 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | z0rd1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:45:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242546971670 |
+| Players | 5/10 |
+| Host Name | PoP MaXiS |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 1, 2024 19:46:01 |
 
 
 |  | epic_boss_fight_nightmare |
