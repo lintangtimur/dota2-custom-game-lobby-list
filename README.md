@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549613306544 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Hades |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:19:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549610978739 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Robert Lewangoalski |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:16:31 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:17:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549612987731 |
-| Players | 5/8 |
-| Host Name | Убийца Акаме |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:18:39 |
+| Lobby ID | 28590549613498829 |
+| Players | 1/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:19:12 |
 
 
 |  | ot3_gardens_duo |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549613425797 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | How u doin? |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:19:07 |
@@ -148,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590549613481976 |
+| Lobby ID | 28590549613626191 |
 | Players | 1/5 |
 | Host Name | люблю твою СЕСТРУ |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:19:11 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:19:20 |
 
 
