@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242525545347 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:25:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242521123872 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ergo Igamogre |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:20:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242527743507 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Сафронов, поставь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:27:24 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242527587793 |
-| Players | 2/24 |
-| Host Name | Toñizonte |
+| Players | 1/24 |
+| Host Name | chico(®)panda☼ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 19:27:14 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242527438767 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | PRIEST |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:27:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242528548160 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | сосопопуашвили |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:28:12 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Star Шлёпа |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:26:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242528672404 |
-| Players | 6/8 |
-| Host Name | MagiCkastoy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:28:19 |
 
 
 |  | ot3_necropolis_ffa |
