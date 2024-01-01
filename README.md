@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242519436839 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | xorto.bazidli |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:19:02 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242519832548 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | бомбардирОчка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:19:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242519908982 |
-| Players | 10/15 |
-| Host Name | Было време когда |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:19:30 |
+| Lobby ID | 28589242519410517 |
+| Players | 3/8 |
+| Host Name | BIGMOM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:19:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242518179413 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:17:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242520089581 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:19:40 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242520334852 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:19:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242519410517 |
-| Players | 5/8 |
-| Host Name | BIGMOM |
+| Lobby ID | 28589242520588741 |
+| Players | 1/15 |
+| Host Name | ''Sonigear'' |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:19:01 |
+| Lobby Creation Time | Monday, January 1, 2024 19:20:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pos1 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:17:50 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28589242520389514 |
-| Players | 2/7 |
-| Host Name | w1nd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:19:58 |
 
 
