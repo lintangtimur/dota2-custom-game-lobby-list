@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549641596301 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Mirage- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:49:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549642501149 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 34 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:50:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549642296662 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | S |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:49:48 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549640554046 |
-| Players | 1/15 |
-| Host Name | saparaskrayb |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:47:56 |
+| Lobby ID | 28590549642733989 |
+| Players | 5/15 |
+| Host Name | Aylardex Vlael |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:50:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:49:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549641956893 |
-| Players | 1/8 |
-| Host Name | ЭТО ВЪЕБ |
+| Lobby ID | 28590549642628060 |
+| Players | 3/15 |
+| Host Name | 4 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:49:26 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:50:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Han Jee-han  한 지한 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:48:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549642639980 |
+| Players | 1/5 |
+| Host Name | BiBA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:50:10 |
 
 
