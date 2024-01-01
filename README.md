@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242752443601 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | DesolateShadowBladeAntiMage |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:52:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242752297289 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | PEPELALA !@32 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:52:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242752099962 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | lustmymind |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:52:14 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242751881977 |
-| Players | 6/24 |
-| Host Name | Minoru Kagenou |
+| Players | 1/24 |
+| Host Name | Слово Чушпана |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:52:01 |
 
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:51:26 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242752655167 |
+| Players | 1/8 |
+| Host Name | qweshmel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:52:47 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242752521913 |
-| Players | 1/10 |
-| Host Name | malefic123 |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 22:52:39 |
+| Lobby ID | 28589242752663616 |
+| Players | 2/10 |
+| Host Name | porcavacca(allmuted) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:52:48 |
 
 
 |  | epic_boss_fight_normal |
