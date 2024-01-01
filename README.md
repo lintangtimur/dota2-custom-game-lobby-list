@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549740119058 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Stringer |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:37:51 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549740215798 |
-| Players | 5/8 |
-| Host Name | 76561199082612660 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:37:58 |
+| Lobby ID | 28590549740347445 |
+| Players | 7/10 |
+| Host Name | Don Gon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:38:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549738618009 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 🅻🅾󠁳⁧⁧🆂🆃 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:36:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549737992445 |
-| Players | 12/24 |
+| Players | 20/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:35:25 |
@@ -119,13 +119,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:37:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549740559236 |
+| Players | 3/8 |
+| Host Name | банка пива |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:38:21 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549740446445 |
-| Players | 4/15 |
-| Host Name | O-0 |
+| Lobby ID | 28590549740640943 |
+| Players | 1/15 |
+| Host Name | Женя сыкун |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:38:13 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:38:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549740649308 |
+| Players | 1/8 |
+| Host Name | ZiZiJoNz |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:38:27 |
 
 
 |  | epic_boss_fight_hard |
@@ -140,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549738666383 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | >< |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:36:11 |
