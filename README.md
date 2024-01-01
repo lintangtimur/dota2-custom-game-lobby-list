@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242455526604 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | чего вам бояться |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:08:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242456050002 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | флопя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:09:16 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242456362905 |
+| Players | 3/8 |
+| Host Name | mode: suicide |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:09:39 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28589242455637470 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | rohanec1993 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:09:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242456330423 |
+| Players | 1/10 |
+| Host Name | Teddy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:09:37 |
 
 
