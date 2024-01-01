@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242467132637 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:22:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242470357275 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | senerzyy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:26:17 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242471521612 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | ZeYork |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:27:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242471962071 |
+| Players | 1/24 |
+| Host Name | Anita Max Wynn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:28:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242471923929 |
+| Players | 5/10 |
+| Host Name | Kongandeu |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 1, 2024 18:28:05 |
 
 
