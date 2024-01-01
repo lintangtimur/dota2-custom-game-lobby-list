@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549843587073 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | cummy bottom boy |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:49:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549842848730 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | allhopeisgone` |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:48:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549842567249 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | Voodoo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:47:55 |
@@ -58,18 +58,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549842922125 |
-| Players | 9/10 |
-| Host Name | Weizendelfin |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:48:26 |
+| Lobby ID | 28590549843440329 |
+| Players | 1/10 |
+| Host Name | <<<((八個惡魔))>>> |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:49:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549842682194 |
-| Players | 8/24 |
-| Host Name | Dяєαмснαsєяs |
+| Players | 4/24 |
+| Host Name | $WAAAAAG |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:48:05 |
 
@@ -83,28 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:49:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549843440329 |
-| Players | 1/10 |
-| Host Name | <<<((八個惡魔))>>> |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:49:11 |
+| Lobby ID | 28590549843756312 |
+| Players | 1/8 |
+| Host Name | LieMaN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:49:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549843670419 |
-| Players | 1/8 |
-| Host Name | SuicideDed |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:49:31 |
+| Lobby ID | 28590549839219243 |
+| Players | 7/8 |
+| Host Name | justyqw |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:43:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549836151866 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | DJANGO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:38:44 |
