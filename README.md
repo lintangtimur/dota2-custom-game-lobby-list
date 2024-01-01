@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242673638774 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | [L] |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 1, 2024 21:38:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242677210436 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | 9999 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:42:09 |
@@ -95,16 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242677193051 |
-| Players | 3/8 |
-| Host Name | egoisto | depressed monster |
+| Players | 4/8 |
+| Host Name | TOXIC + GNIDA Neoxa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:42:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242675907311 |
+| Players | 4/10 |
+| Host Name | Andrey_34 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 21:41:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242675828819 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Hemaviton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:40:57 |
@@ -117,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HAMMER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:41:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242676765923 |
-| Players | 1/5 |
-| Host Name | .................. |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 21:41:46 |
 
 
 |  | epic_boss_fight_nightmare |
