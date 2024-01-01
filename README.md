@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549597236466 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Gaben Prophet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:01:39 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549600082333 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | слизень пацан |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:04:44 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549598462158 |
-| Players | 3/8 |
-| Host Name | кириешка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:02:59 |
+| Lobby ID | 28590549599856907 |
+| Players | 5/8 |
+| Host Name | nicky sin micro agg |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:04:29 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242837716387 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | [L] |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:18:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549600165685 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Nesqui |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:04:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549597358321 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Shearinex |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:01:47 |
@@ -148,29 +148,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549599856907 |
-| Players | 5/8 |
-| Host Name | nicky sin micro agg |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:04:29 |
+| Lobby ID | 28590549600393766 |
+| Players | 6/8 |
+| Host Name | Xmitt |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:05:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549600452612 |
+| Players | 1/8 |
+| Host Name | СЫН DZABO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:05:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549600468603 |
+| Players | 3/10 |
+| Host Name | Why Are Burning Heaven? |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:05:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549599100593 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | VoidMaster |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:03:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549599595518 |
-| Players | 1/10 |
-| Host Name | dasdas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:04:13 |
 
 
 |  | epic_boss_fight_normal |
