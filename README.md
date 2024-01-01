@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549751915223 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | GAAAAAAAAAAAAAAAAAA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:51:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549754157428 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Zico |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:54:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549754486716 |
-| Players | 7/8 |
-| Host Name | A.I on Cola |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:54:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549753249723 |
-| Players | 14/15 |
-| Host Name | ≫ん£ L I C Oん≪ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:53:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -103,20 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549754828868 |
-| Players | 4/8 |
-| Host Name | ZXC ВОЛШЕБНИК |
+| Lobby ID | 28590549755001251 |
+| Players | 1/8 |
+| Host Name | Yūta Okkotsu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:55:03 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:55:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549754849097 |
-| Players | 3/8 |
-| Host Name | chronos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:55:04 |
+| Lobby ID | 28590549754995421 |
+| Players | 1/8 |
+| Host Name | Natso - |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:55:14 |
 
 
 |  | epic_boss_fight_nightmare |
