@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242539152877 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | GTO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:38:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242539595838 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | alone♥ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:38:57 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Duncan MacLeod |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 1, 2024 19:39:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242540217795 |
-| Players | 3/8 |
-| Host Name | ./-> \:'/| |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:39:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242538475781 |
-| Players | 8/10 |
-| Host Name | RksmeN^++ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:37:52 |
 
 
 |  | epic_boss_fight_nightmare |
