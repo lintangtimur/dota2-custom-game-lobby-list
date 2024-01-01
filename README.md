@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549876038283 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | El Abusamadres Jones |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:38:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549876688093 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | (=TOPSON=)LA=LEYENDA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:40:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549876148251 |
-| Players | 15/24 |
+| Players | 21/24 |
 | Host Name | Jesse Pinkman |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:39:09 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 06:37:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549877323453 |
-| Players | 2/10 |
-| Host Name | Leoric's pawn |
+| Lobby ID | 28590549877260995 |
+| Players | 14/15 |
+| Host Name | 17 - Muted - Can't roll |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:41:04 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:40:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sanny |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:40:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549877260995 |
-| Players | 7/15 |
-| Host Name | 17 - Muted - Can't roll |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:40:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549877256644 |
-| Players | 1/15 |
-| Host Name | MoNsTeR! |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:40:57 |
 
 
 |  | epic_boss_fight_nightmare |
