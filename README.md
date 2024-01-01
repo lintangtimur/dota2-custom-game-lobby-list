@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549576883566 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:39:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549587679127 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | パルビン |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:51:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549588650618 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Dм|try Zageeв |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:52:10 |
@@ -110,21 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 00:52:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549589368014 |
-| Players | 2/10 |
-| Host Name | JOJO is back...? |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:52:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549589363488 |
-| Players | 1/5 |
-| Host Name | 💯< ΰӆҝ∩ℴẘℕ >💯 |
+| Lobby ID | 28590549589512448 |
+| Players | 5/24 |
+| Host Name | (x_x) |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:52:58 |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:53:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549589515297 |
+| Players | 1/24 |
+| Host Name | 青衣 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:53:08 |
 
 
