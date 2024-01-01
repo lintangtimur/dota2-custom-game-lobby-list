@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242451833921 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:04:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242451685021 |
-| Players | 14/15 |
-| Host Name | -ㄥㄩ爪Ĩ几卂 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:03:53 |
+| Lobby ID | 28589242453025766 |
+| Players | 1/8 |
+| Host Name | Peon Redfield |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:05:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,19 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242453025766 |
-| Players | 1/8 |
-| Host Name | Peon Redfield |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:05:33 |
+| Lobby ID | 28589242453144307 |
+| Players | 2/15 |
+| Host Name | Ry_An |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:05:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242453151408 |
+| Players | 1/15 |
+| Host Name | Proudas#UltimateRust |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:05:43 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242448544425 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | crestfallen |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:59:56 |
