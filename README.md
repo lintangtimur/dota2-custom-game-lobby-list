@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242765024181 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | 涙の息子 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:04:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242771507291 |
-| Players | 6/15 |
-| Host Name | Бавтика |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 23:11:15 |
+| Lobby ID | 28589242772185853 |
+| Players | 3/24 |
+| Host Name | Light |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 23:11:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242767598775 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:07:28 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:07:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242771198216 |
-| Players | 23/24 |
-| Host Name | 不二周助 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 23:10:57 |
+| Lobby ID | 28589242772076616 |
+| Players | 4/10 |
+| Host Name | dCAWJIMBVIK |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 23:11:49 |
 
 
 |  | ot3_necropolis_ffa |
