@@ -31,35 +31,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549734612862 |
-| Players | 8/10 |
-| Host Name | Classified |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:31:33 |
+| Lobby ID | 28590549734537039 |
+| Players | 7/10 |
+| Host Name | AnDpep |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:31:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549727722670 |
-| Players | 23/24 |
-| Host Name | Feminazi♡ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:23:38 |
+| Lobby ID | 28590549734822865 |
+| Players | 8/15 |
+| Host Name | Time Over |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:31:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549734705276 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Лисос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:31:39 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549734537039 |
-| Players | 7/10 |
-| Host Name | AnDpep |
+| Lobby ID | 28590549735100326 |
+| Players | 3/10 |
+| Host Name | aik |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:31:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549734822865 |
-| Players | 1/15 |
-| Host Name | Картофельные очистки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:31:47 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:32:06 |
 
 
 |  | epic_boss_fight_hard |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Huipompam |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:31:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549735071549 |
+| Players | 1/10 |
+| Host Name | OpenAl(ℬoτ) ✔ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:32:04 |
 
 
