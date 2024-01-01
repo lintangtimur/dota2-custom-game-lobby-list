@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549732482973 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:29:07 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549732003026 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ≫ん£ L I C Oん≪ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:28:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549732079130 |
-| Players | 8/10 |
-| Host Name | MAHLER HAMMER |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:28:39 |
+| Lobby ID | 28590549732837371 |
+| Players | 1/8 |
+| Host Name | Lion the onLIONe |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:29:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549732733029 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | SD|ScaredFish |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:29:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549732408126 |
-| Players | 9/15 |
-| Host Name | swap нигерс |
+| Lobby ID | 28590549732884676 |
+| Players | 2/10 |
+| Host Name | ESPORT |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:29:02 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:29:34 |
 
 
 |  | epic_boss_fight_hard |
