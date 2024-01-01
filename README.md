@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242486412969 |
-| Players | 6/8 |
-| Host Name | I am invincible雨 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:44:22 |
+| Lobby ID | 28589242486804932 |
+| Players | 4/8 |
+| Host Name | POWER POOP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:44:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242466622012 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Drew |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:21:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242486601288 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | FireRage |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:44:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242486604427 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ДілоБулоНеВБабіні |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:44:34 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242486724389 |
-| Players | 1/15 |
-| Host Name | ГАВ ГАВИЧ |
+| Players | 4/15 |
+| Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:44:42 |
 
