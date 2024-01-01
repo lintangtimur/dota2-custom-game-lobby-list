@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242739330435 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | RazValutioN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:39:50 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:39:30 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242739615751 |
+| Players | 1/8 |
+| Host Name | Милана |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:40:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242737781214 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | osamabinvoker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:38:21 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rno Mosbacher |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:39:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242735718430 |
+| Players | 2/5 |
+| Host Name | Прилёг_посрать |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:36:24 |
 
 
