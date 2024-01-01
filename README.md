@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242487376333 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Ragtime cat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:45:26 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242482395028 |
-| Players | 6/8 |
-| Host Name | 躍動 |
+| Players | 5/8 |
+| Host Name | Louise |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Monday, January 1, 2024 18:39:55 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242487513176 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Sharki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:45:35 |
