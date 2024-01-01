@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242510812718 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Tripa Seca BOLADÃO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 19:10:21 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242509999349 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | snowpain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:09:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242510614332 |
-| Players | 14/15 |
-| Host Name | goy dwaga dwaga |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:10:08 |
+| Lobby ID | 28589242510484348 |
+| Players | 9/10 |
+| Host Name | пасынок пиналду |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:10:00 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242511566322 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Rasik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:11:07 |
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242509248004 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | BugSplat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:08:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242511680997 |
+| Players | 1/10 |
+| Host Name | Кецалун- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:11:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242511754071 |
+| Players | 1/5 |
+| Host Name | Рубашка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:11:19 |
 
 
