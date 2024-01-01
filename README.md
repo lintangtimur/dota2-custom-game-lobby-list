@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242492940119 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Me and 9 dogs |
 | Region | CHILE |
 | Lobby Creation Time | Monday, January 1, 2024 18:51:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242523102277 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Возьми норм 5-ку |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:22:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242520089581 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:19:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242518179413 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:17:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242522134603 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Prokuror |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:21:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242523537775 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Cyrex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:23:10 |
