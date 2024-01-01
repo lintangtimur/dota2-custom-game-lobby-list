@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242714429502 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | YUGIY CHEATING |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:16:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242718903480 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | AMBATUFAKINNAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:20:23 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242718528023 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | MR |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:20:02 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242719479995 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:20:55 |
