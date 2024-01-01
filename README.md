@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242729604411 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 22:30:34 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242734837534 |
-| Players | 7/15 |
-| Host Name | пукин вв - лох |
+| Players | 11/15 |
+| Host Name | Pasuk |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:35:33 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242732781374 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | let's win |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:33:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242732044177 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | addicted to losing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:32:53 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:26:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242734968666 |
-| Players | 7/10 |
-| Host Name | Влад Картофель |
+| Lobby ID | 28589242735349241 |
+| Players | 1/24 |
+| Host Name | bdy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:35:40 |
+| Lobby Creation Time | Monday, January 1, 2024 22:36:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:34:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242735353593 |
+| Players | 1/8 |
+| Host Name | doom spotify |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 22:36:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242732706124 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Travis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:33:31 |
