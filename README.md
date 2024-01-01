@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242649164583 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | SIX NALL |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 21:17:30 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242662944811 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Macaccosapo |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 21:29:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242660716977 |
-| Players | 22/24 |
-| Host Name | Hungry FOR Sassana PUSS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 21:27:41 |
+| Lobby ID | 28589242663129599 |
+| Players | 2/8 |
+| Host Name | shinitai |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 21:29:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242660226166 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:27:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242662729708 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | HAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:29:27 |
@@ -85,17 +85,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242662935017 |
-| Players | 2/8 |
-| Host Name | Sinon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:29:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28589242662948392 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | hoop.angel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:29:39 |
