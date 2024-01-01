@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242450603328 |
-| Players | 3/24 |
-| Host Name | DarKahiser |
+| Players | 2/24 |
+| Host Name | Drew |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
 
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:22:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242466725971 |
-| Players | 7/8 |
-| Host Name | h43 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:22:01 |
+| Lobby ID | 28589242467365765 |
+| Players | 7/10 |
+| Host Name | памперс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:22:46 |
 
 
 |  | ot3_desert_octet |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:22:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242467365765 |
-| Players | 5/10 |
-| Host Name | памперс |
+| Lobby ID | 28589242467663817 |
+| Players | 1/8 |
+| Host Name | олег,8лет пошлый |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:22:46 |
+| Lobby Creation Time | Monday, January 1, 2024 18:23:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242463619081 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Belike柠檬ICE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:18:19 |
