@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242486412969 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | I am invincible雨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:44:22 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FireRage |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:44:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242486604427 |
+| Players | 2/10 |
+| Host Name | ДілоБулоНеВБабіні |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:44:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242486724389 |
+| Players | 1/15 |
+| Host Name | ГАВ ГАВИЧ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:44:42 |
 
 
 |  | epic_boss_fight_normal |
