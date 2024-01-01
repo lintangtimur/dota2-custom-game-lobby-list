@@ -56,37 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 17:35:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242443913681 |
-| Players | 8/10 |
-| Host Name | Ya absolut |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 17:54:13 |
+| Lobby ID | 28589242444103963 |
+| Players | 2/8 |
+| Host Name | rafalyambo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:54:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242442223201 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Shrimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:51:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242443921590 |
-| Players | 1/8 |
-| Host Name | ? |
+| Lobby ID | 28589242444067844 |
+| Players | 5/15 |
+| Host Name | yshkalover |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:54:13 |
+| Lobby Creation Time | Monday, January 1, 2024 17:54:24 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242437032522 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | bEAm/-Solar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:45:21 |
@@ -94,10 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242443080656 |
-| Players | 6/10 |
-| Host Name | Meh |
+| Lobby ID | 28589242444086944 |
+| Players | 1/10 |
+| Host Name | vakirotasi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:54:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242444037968 |
+| Players | 1/10 |
+| Host Name | Unfun pepe |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 17:53:07 |
+| Lobby Creation Time | Monday, January 1, 2024 17:54:22 |
 
 
