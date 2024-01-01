@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242429484224 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 17:35:31 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 17:56:15 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242447078678 |
+| Players | 2/10 |
+| Host Name | дик сакер 2005 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:58:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242443080656 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ChowChow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:53:07 |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Saymon |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:57:55 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28589242446997002 |
-| Players | 1/7 |
-| Host Name | ENEKANDO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 17:58:01 |
 
 
