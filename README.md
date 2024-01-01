@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242437378297 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Hazbullah king |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:45:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242437777382 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ★STARK★ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:46:18 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 17:46:08 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242437993652 |
-| Players | 1/15 |
-| Host Name | 105 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 17:46:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242434521417 |
-| Players | 9/10 |
-| Host Name | 930 |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 1, 2024 17:42:09 |
+| Lobby ID | 28589242437475104 |
+| Players | 1/10 |
+| Host Name | HAMMER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:45:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bEAm/-Solar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:45:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242437475104 |
-| Players | 1/10 |
-| Host Name | HAMMER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:45:55 |
 
 
