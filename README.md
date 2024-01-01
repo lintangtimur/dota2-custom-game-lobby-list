@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549846420349 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Francis |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:53:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549847127199 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:54:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549847376762 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | MADARЫЧЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:54:56 |
@@ -92,6 +92,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:55:09 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549847569431 |
+| Players | 1/15 |
+| Host Name | dllm |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:55:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549847529853 |
+| Players | 2/8 |
+| Host Name | bailando |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:55:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549847565088 |
+| Players | 6/8 |
+| Host Name | LenSeiker |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:55:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549847561969 |
+| Players | 1/15 |
+| Host Name | Yatoro雨 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:55:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549846587543 |
@@ -104,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549836151866 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | DJANGO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:38:44 |
