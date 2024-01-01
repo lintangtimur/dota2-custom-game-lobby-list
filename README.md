@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549884406094 |
-| Players | 5/24 |
+| Players | 13/24 |
 | Host Name | crossj |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:52:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549884821488 |
-| Players | 13/15 |
-| Host Name | Hu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:53:28 |
+| Lobby ID | 28590549885263168 |
+| Players | 5/8 |
+| Host Name | Сендальф Герий |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:54:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549885024629 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 愛 PaH†uOH 恨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:53:49 |
@@ -94,29 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549885037132 |
-| Players | 3/8 |
-| Host Name | Puppetmon.六六六 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:53:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549884808616 |
-| Players | 9/10 |
-| Host Name | LaGallinaTuruleca |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:53:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549884934694 |
-| Players | 4/15 |
-| Host Name | Cruiser Aurora |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:53:40 |
+| Lobby ID | 28590549885316199 |
+| Players | 2/8 |
+| Host Name | Папа может |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:54:20 |
 
 
 |  | ot3_necropolis_ffa |
