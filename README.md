@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549644243613 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:51:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549648954501 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Genryūsai Shigekuni Yamamoto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:57:01 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549649203247 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | AtomiXs |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:57:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549649303714 |
+| Players | 4/8 |
+| Host Name | пивной передоз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:57:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549649075537 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | spoilt9111 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:57:09 |
