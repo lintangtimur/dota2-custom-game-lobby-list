@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242508765856 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Hanni- |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:08:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242508082809 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | avg ALFX-PVE ABUSER 1337 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:07:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242505298097 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | freshejka |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:04:39 |
@@ -65,10 +65,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:06:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242508986374 |
+| Players | 1/15 |
+| Host Name | ОтецБляяять |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:08:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242509016151 |
+| Players | 2/8 |
+| Host Name | dntscrdonlyrobbaondahadq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:08:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242509052426 |
+| Players | 1/8 |
+| Host Name | Hi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:08:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242509082294 |
+| Players | 1/8 |
+| Host Name | Гундрик |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:08:33 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242504571123 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Smart |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:03:53 |
