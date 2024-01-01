@@ -85,38 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549684617665 |
-| Players | 10/15 |
-| Host Name | Физмат |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:35:43 |
+| Lobby ID | 28590549684926424 |
+| Players | 6/15 |
+| Host Name | bountuk motors |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:36:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549684688127 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | DANTE SPARTA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:35:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549683989656 |
-| Players | 6/8 |
-| Host Name | "World's Worst Criminal" Dragon |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:35:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549684770124 |
-| Players | 1/8 |
-| Host Name | Spamming 1 hero = Go Report me |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:35:53 |
 
 
 |  | ot3_desert_octet |
@@ -128,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:35:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549684751277 |
-| Players | 2/10 |
-| Host Name | 《Я - легенда》 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:35:52 |
+| Lobby ID | 28590549684770124 |
+| Players | 1/8 |
+| Host Name | Spamming 1 hero = Go Report me |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:35:53 |
 
 
 |  | epic_boss_fight_hard |
@@ -173,12 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:35:53 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549684870328 |
-| Players | 2/5 |
-| Host Name | ку |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:35:59 |
+| Lobby ID | 28590549685043984 |
+| Players | 3/10 |
+| Host Name | kam |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:36:11 |
 
 
