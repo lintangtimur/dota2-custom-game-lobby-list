@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549827800492 |
-| Players | 22/24 |
-| Host Name | Iguana |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:27:07 |
+| Lobby ID | 28590549827867562 |
+| Players | 1/8 |
+| Host Name | СИГАНЕНОК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:27:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549827514120 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | PROCRASTINATOR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:26:44 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:20:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549828744765 |
-| Players | 1/15 |
-| Host Name | HoM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:28:26 |
+| Lobby ID | 28590549829160998 |
+| Players | 4/10 |
+| Host Name | Bolar |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:29:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549829623217 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Lunatikid |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:29:38 |
@@ -101,37 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:29:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549827752094 |
-| Players | 9/10 |
-| Host Name | jean_sixx |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:27:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549827867562 |
-| Players | 1/8 |
-| Host Name | СИГАНЕНОК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:27:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549829160998 |
-| Players | 3/10 |
-| Host Name | Bolar |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:29:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549829713608 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Firecruz |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:29:46 |
