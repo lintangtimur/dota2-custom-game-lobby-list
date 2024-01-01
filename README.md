@@ -11,28 +11,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:59:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549759127060 |
-| Players | 3/10 |
-| Host Name | ✞︎ ǬůėᏕಭSwẳᶉ†ɣ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:00:07 |
+| Lobby ID | 28590549759037641 |
+| Players | 1/24 |
+| Host Name | D ~ He♥ly |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:00:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549759148194 |
-| Players | 3/8 |
-| Host Name | Граблик |
+| Lobby ID | 28590549759133049 |
+| Players | 2/8 |
+| Host Name | Silvester VStallovoy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:00:08 |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:00:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549758946242 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:59:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549758983937 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | [ ] |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:59:56 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549759175964 |
-| Players | 1/15 |
-| Host Name | 4ukass |
+| Players | 9/15 |
+| Host Name | HEH SHIIIIIIT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:00:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549759037641 |
-| Players | 1/24 |
-| Host Name | D ~ He♥ly |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:00:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549759133049 |
-| Players | 1/8 |
-| Host Name | Silvester VStallovoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:00:07 |
 
 
 |  | epic_boss_fight_nightmare |
