@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242544738034 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Хаваю лузы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:43:53 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242544703877 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | 3YbNo1 F!kk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:43:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242544098013 |
-| Players | 7/8 |
-| Host Name | сырник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:43:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:42:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242533854905 |
-| Players | 9/10 |
-| Host Name | Tripa Seca BOLADÃO |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 1, 2024 19:33:25 |
+| Lobby ID | 28589242545148087 |
+| Players | 1/8 |
+| Host Name | фанат скайзи |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:44:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242545186208 |
+| Players | 2/8 |
+| Host Name | Betelgeuse |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:44:19 |
 
 
 |  | epic_boss_fight_nightmare |
