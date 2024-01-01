@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242754005064 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Ya Vova mne hyeva |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:54:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242753910321 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | 你説的都對餒 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:54:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242751281545 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 22:51:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242754386119 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Yakuza |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:54:33 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242754451491 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | калоссальная масса |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:54:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242754490905 |
+| Players | 2/10 |
+| Host Name | Zoom |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 22:54:39 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242751335231 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | meow |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:51:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242754629880 |
+| Players | 4/10 |
+| Host Name | AWENG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 22:54:47 |
 
 
