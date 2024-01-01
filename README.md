@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242785260658 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | =↕SoOPiTa↕= |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 1, 2024 23:24:57 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242794625153 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | СЫНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:34:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242794176084 |
-| Players | 13/15 |
-| Host Name | Vovka2015 |
+| Lobby ID | 28589242795161310 |
+| Players | 6/8 |
+| Host Name | Уксусная жопа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:33:51 |
+| Lobby Creation Time | Monday, January 1, 2024 23:34:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242794251942 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | гойда братья |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:33:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242793872879 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Elerne |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:33:33 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242792666005 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | 𝓪𝓲𝓶𝒆𝓻 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:32:21 |
@@ -122,28 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242795032538 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | when will this all end |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:34:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242795161310 |
-| Players | 6/8 |
-| Host Name | Уксусная жопа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:34:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242795308844 |
-| Players | 6/8 |
-| Host Name | 太極 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 23:35:01 |
+| Lobby ID | 28589242795509116 |
+| Players | 1/15 |
+| Host Name | Fedtepigen |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 23:35:12 |
 
 
 |  | epic_boss_fight_nightmare |
