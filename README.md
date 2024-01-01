@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549746550958 |
-| Players | 14/15 |
-| Host Name | Aseidan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:45:18 |
+| Lobby ID | 28590549746690824 |
+| Players | 1/24 |
+| Host Name | Cel |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:45:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549743946378 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Duhzeria |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:42:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549746804513 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Cocainum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:45:36 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549746526127 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Mirage- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:45:16 |
@@ -122,37 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549746802053 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | nemraz_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:45:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549746690824 |
-| Players | 1/24 |
-| Host Name | Cel |
+| Lobby ID | 28590549747284901 |
+| Players | 5/10 |
+| Host Name | JoJogan |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:45:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549746074415 |
-| Players | 10/15 |
-| Host Name | BOTA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:44:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549747173114 |
-| Players | 3/8 |
-| Host Name | савка cucumber |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:46:02 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:46:10 |
 
 
 |  | epic_boss_fight_hard |
