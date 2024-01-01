@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549792860410 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:41:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549791459004 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | LOCO CHESS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:39:26 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549792687746 |
-| Players | 8/10 |
-| Host Name | STASIK MANGO |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:40:59 |
+| Lobby ID | 28590549793229817 |
+| Players | 3/10 |
+| Host Name | Misterio |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:41:39 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549792679743 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | мне страшно |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:40:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549792994566 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Aylardex Vlael |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:41:22 |
@@ -90,6 +90,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Букакэ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:41:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549790056841 |
+| Players | 8/10 |
+| Host Name | From rivertosea PalestineHUISOSI |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:37:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549793280845 |
+| Players | 6/15 |
+| Host Name | Cruiser Aurora |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:41:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549793279077 |
+| Players | 3/8 |
+| Host Name | FagoBAaby♠ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:41:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549793320701 |
+| Players | 4/10 |
+| Host Name | BoeJiden |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:41:46 |
 
 
 |  | epic_boss_fight_nightmare |
