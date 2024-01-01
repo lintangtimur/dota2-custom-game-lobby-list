@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549611064497 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Resurrexion |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:16:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549611481571 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | 1mode: Retsu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:17:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549607853352 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | ||€xîdîum|| |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:13:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549609370826 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Xiao BB |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:14:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549611023181 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | nissan-gtr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:16:34 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:17:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549611567367 |
-| Players | 6/8 |
-| Host Name | Mazda Miata |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:17:09 |
+| Lobby ID | 28590549611743149 |
+| Players | 1/15 |
+| Host Name | ГРЯЗНАЯ ПОПА |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:17:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549611151240 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | я только посмотре |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:16:42 |
@@ -148,20 +148,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549610692017 |
-| Players | 9/10 |
-| Host Name | cl_lw 0 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:16:12 |
+| Lobby ID | 28590549611807336 |
+| Players | 2/10 |
+| Host Name | MARCUS RASHFOR LUJAN CARRION |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:17:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549611721551 |
-| Players | 5/8 |
-| Host Name | лесной болван |
+| Lobby ID | 28590549610181714 |
+| Players | 9/10 |
+| Host Name | Buğra |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:15:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549611862243 |
+| Players | 1/15 |
+| Host Name | 蟑螂恶霸 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:17:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549610740487 |
+| Players | 14/15 |
+| Host Name | GHOST |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:17:18 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:16:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -176,9 +194,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549611609977 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | 马穆特*拉哈尔 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:17:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549610396613 |
+| Players | 3/5 |
+| Host Name | Голубь в Майонезе |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:15:53 |
 
 
