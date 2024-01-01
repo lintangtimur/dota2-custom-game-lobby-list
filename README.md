@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549871591377 |
-| Players | 13/15 |
-| Host Name | Shambooh ֎ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:31:52 |
+| Lobby ID | 28590549871251981 |
+| Players | 2/24 |
+| Host Name | Losyth♥ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:31:20 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549871400423 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Competitive ACNH Player |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:31:34 |
@@ -83,22 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 06:32:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549871251981 |
-| Players | 2/24 |
-| Host Name | Losyth♥ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:31:20 |
+| Lobby ID | 28590549872654921 |
+| Players | 1/15 |
+| Host Name | WarriorFury |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:33:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549872659993 |
+| Players | 2/10 |
+| Host Name | удвоил кайф |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:33:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549871482434 |
-| Players | 6/8 |
-| Host Name | ABOBA BOY |
+| Lobby ID | 28590549872698062 |
+| Players | 2/8 |
+| Host Name | Monsieur bière |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:31:42 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:33:38 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Администратор сарая |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:30:48 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28590549872577784 |
-| Players | 1/7 |
-| Host Name | EcoHunter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:33:26 |
 
 
