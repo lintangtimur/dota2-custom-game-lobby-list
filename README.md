@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242492940119 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Me and 9 dogs |
 | Region | CHILE |
 | Lobby Creation Time | Monday, January 1, 2024 18:51:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242500424919 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Tonny |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:59:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242495928707 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:54:47 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242498835140 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:57:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242498874146 |
-| Players | 1/8 |
-| Host Name | G1uc0se |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Monday, January 1, 2024 18:57:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242500508252 |
-| Players | 3/10 |
-| Host Name | Cucumba |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:59:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -103,19 +85,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242500820874 |
+| Lobby ID | 28589242500508252 |
 | Players | 3/10 |
-| Host Name | abshaba user |
+| Host Name | Cucumba |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:59:57 |
+| Lobby Creation Time | Monday, January 1, 2024 18:59:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242499899129 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:58:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242501016083 |
+| Players | 1/10 |
+| Host Name | qiellaeveily |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:00:09 |
 
 
