@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549871232450 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | El Resolvedor |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:31:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549871312646 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Mazai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:31:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549871254744 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | FELIZ AÑO NUEVO!!!! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:31:20 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549871509018 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | пенис гриндер |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:31:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549871530090 |
-| Players | 2/8 |
-| Host Name | Медовая шЫрина RIP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:31:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -126,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shambooh ֎ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:31:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549871755307 |
+| Players | 2/8 |
+| Host Name | 寒い |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:32:08 |
 
 
 |  | epic_boss_fight_nightmare |
