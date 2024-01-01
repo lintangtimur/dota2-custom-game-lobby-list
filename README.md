@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242677872252 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 123 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:42:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242680303346 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | GhasT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:44:55 |
@@ -92,13 +92,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 21:42:42 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242680808026 |
+| Players | 1/10 |
+| Host Name | Njo! |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:45:22 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242680581513 |
+| Lobby ID | 28589242680894106 |
 | Players | 1/8 |
-| Host Name | 123 |
+| Host Name | очко мам |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:45:10 |
+| Lobby Creation Time | Monday, January 1, 2024 21:45:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242680907609 |
+| Players | 5/8 |
+| Host Name | Obey surströmming |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 21:45:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242680919657 |
+| Players | 1/8 |
+| Host Name | zef1n |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:45:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242680958155 |
+| Players | 3/8 |
+| Host Name | 훈수두면 짖는 개 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 1, 2024 21:45:31 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242680480808 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | JM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:45:04 |
