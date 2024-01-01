@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549632367526 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Костя Громов |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:39:12 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549632490719 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Gaben Prophet |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:39:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549632252211 |
-| Players | 11/15 |
-| Host Name | MR |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:39:05 |
+| Lobby ID | 28590549633107168 |
+| Players | 1/10 |
+| Host Name | -[foW] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:40:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hide |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:38:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549633110314 |
+| Players | 1/8 |
+| Host Name | ASESINO DE KBROS |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:40:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549633156893 |
+| Players | 1/15 |
+| Host Name | Пивной Элементаль |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:40:02 |
 
 
 |  | epic_boss_fight_nightmare |
