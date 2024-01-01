@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242436721512 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:44:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242452315549 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Radical Highway |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:04:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242451833921 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:04:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242451685021 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | -ㄥㄩ爪Ĩ几卂 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:03:53 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | coa7279 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242453025766 |
+| Players | 1/8 |
+| Host Name | Peon Redfield |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:05:33 |
 
 
 |  | epic_boss_fight_nightmare |
