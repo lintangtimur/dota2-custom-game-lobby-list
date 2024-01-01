@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549812219230 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | LOCO CHESS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:06:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -74,19 +74,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:09:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549814578578 |
-| Players | 1/15 |
-| Host Name | ПУТНИК |
+| Lobby ID | 28590549814591234 |
+| Players | 9/10 |
+| Host Name | wild dodge戦死 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:09:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549814631188 |
+| Players | 1/24 |
+| Host Name | anal ka bur |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:09:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549814645819 |
+| Players | 4/24 |
+| Host Name | wwweakness |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:09:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549814666716 |
+| Players | 4/15 |
+| Host Name | Tranquility |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:09:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549814645856 |
+| Players | 1/15 |
+| Host Name | Никита Самогон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:09:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549814678262 |
+| Players | 3/8 |
+| Host Name | notnormal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:09:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549813523207 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | СексНаркотикАлко |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:07:51 |
