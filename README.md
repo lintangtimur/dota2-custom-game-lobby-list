@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549811033892 |
-| Players | 6/10 |
-| Host Name | LEXACOCu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:04:35 |
+| Lobby ID | 28590549811180651 |
+| Players | 10/15 |
+| Host Name | ☆ VAZ ☆ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:04:46 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549807346538 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Snow |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:59:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549811123946 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | kael |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:04:42 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549811126164 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | good mf |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:04:42 |
@@ -110,21 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:04:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549811180651 |
-| Players | 5/15 |
-| Host Name | ☆ VAZ ☆ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:04:46 |
+| Lobby ID | 28590549811323196 |
+| Players | 3/10 |
+| Host Name | Chok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:04:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549809917159 |
-| Players | 2/10 |
-| Host Name | JOYOWOYO |
+| Players | 1/10 |
+| Host Name | Nekr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:03:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549811295481 |
+| Players | 1/5 |
+| Host Name | Магнит |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:04:55 |
 
 
