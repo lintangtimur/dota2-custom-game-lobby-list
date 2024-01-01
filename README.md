@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549769160465 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | ≫ん£ L I C Oん≪ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:12:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549768948546 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Чунга Чанга |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:11:46 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549766761334 |
-| Players | 8/10 |
-| Host Name | Punk Fools- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:09:09 |
+| Lobby ID | 28590549769725864 |
+| Players | 1/10 |
+| Host Name | Chippi Chippi Chappa Chappa |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:12:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549769437154 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | с новым гойда! |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:12:21 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549769604437 |
+| Lobby ID | 28590549768719471 |
 | Players | 4/8 |
-| Host Name | 4 especiales y yo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:12:33 |
+| Host Name | juzzwardo |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 04:11:30 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549769125318 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:11:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549769577689 |
-| Players | 1/5 |
-| Host Name | suzuyadeku0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:12:31 |
 
 
