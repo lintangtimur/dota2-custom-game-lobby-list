@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242436280010 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Anita Max Wynn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:44:23 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242429484224 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | olexanderkrasiukbinance |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 17:35:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242437777382 |
-| Players | 9/10 |
-| Host Name | ★STARK★ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:46:18 |
+| Lobby ID | 28589242438243113 |
+| Players | 1/15 |
+| Host Name | sEMJON |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 17:46:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242437032522 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | bEAm/-Solar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:45:21 |
