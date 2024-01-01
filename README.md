@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242466622012 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Drew |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 18:21:54 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242482463129 |
-| Players | 7/8 |
-| Host Name | фанат мышки |
+| Lobby ID | 28589242482564873 |
+| Players | 3/8 |
+| Host Name | 混蛋 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:40:00 |
+| Lobby Creation Time | Monday, January 1, 2024 18:40:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242482395028 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 躍動 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Monday, January 1, 2024 18:39:55 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242484032286 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | O SJBYIPLKSM:OJNL! N%PN@O{#%HN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:41:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242482564873 |
-| Players | 3/8 |
-| Host Name | 混蛋 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:40:07 |
+| Lobby ID | 28589242484205946 |
+| Players | 1/24 |
+| Host Name | Lulalelilo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:41:56 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242479710982 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | 11.12.13.2218 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:36:58 |
