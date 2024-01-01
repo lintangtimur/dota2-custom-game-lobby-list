@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242420301566 |
-| Players | 6/8 |
-| Host Name | Sehuda |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:23:12 |
+| Lobby ID | 28589242419459700 |
+| Players | 21/24 |
+| Host Name | bobaboo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 17:22:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,33 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 16:45:08 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242410715715 |
-| Players | 23/24 |
-| Host Name | Первая кровь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:10:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242420466503 |
-| Players | 2/10 |
-| Host Name | 🍌 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 17:23:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242419459700 |
-| Players | 19/24 |
-| Host Name | bobaboo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 17:22:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242421634178 |
@@ -63,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Böömer |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:25:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242420466503 |
+| Players | 3/10 |
+| Host Name | 🍌 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 17:23:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242421871919 |
+| Players | 1/8 |
+| Host Name | can'ttrust white |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 17:25:21 |
 
 
 |  | epic_boss_fight_normal |
