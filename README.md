@@ -2,111 +2,111 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242582877688 |
-| Players | 1/24 |
-| Host Name | Первая кровь |
+| Lobby ID | 28589242602286531 |
+| Players | 5/8 |
+| Host Name | АГЕНТ ГАБЕНА №3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:19:09 |
+| Lobby Creation Time | Monday, January 1, 2024 20:36:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242578805982 |
-| Players | 1/24 |
-| Host Name | manjiro sano |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 1, 2024 20:15:29 |
+| Lobby ID | 28589242599057354 |
+| Players | 5/24 |
+| Host Name | L@ZoVi4 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 20:33:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242568850274 |
-| Players | 6/8 |
-| Host Name | Robert Lewangoalski |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 20:06:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242581274096 |
-| Players | 1/10 |
-| Host Name | Tripa Seca BOLADÃO |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 1, 2024 20:17:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242579534567 |
-| Players | 3/15 |
-| Host Name | Xiao BB |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 20:16:09 |
+| Lobby ID | 28589242586200754 |
+| Players | 1/8 |
+| Host Name | SABER |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 1, 2024 20:22:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242582770027 |
-| Players | 1/24 |
-| Host Name | sans elle pourrais-je? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:19:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242583496759 |
-| Players | 2/24 |
-| Host Name | 123456 |
+| Lobby ID | 28589242600544974 |
+| Players | 19/24 |
+| Host Name | F.B.I |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 20:19:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242582507445 |
-| Players | 7/10 |
-| Host Name | Дамир аль-Медведи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:18:50 |
+| Lobby Creation Time | Monday, January 1, 2024 20:34:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242583882203 |
+| Lobby ID | 28589242601954174 |
 | Players | 1/15 |
-| Host Name | cinnabon |
+| Host Name | -RISITAS ^-^ |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 20:36:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242602138712 |
+| Players | 3/8 |
+| Host Name | 奇瓦瓦尼奇 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 20:36:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242602072920 |
+| Players | 6/15 |
+| Host Name | 6a6ka_c_rpu6amu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:20:04 |
+| Lobby Creation Time | Monday, January 1, 2024 20:36:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242602241029 |
+| Players | 7/8 |
+| Host Name | :D |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 20:36:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242581324676 |
-| Players | 2/10 |
-| Host Name | Gandy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:17:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28589242583815230 |
-| Players | 2/10 |
-| Host Name | ⋨Key*Sha⋩ |
+| Lobby ID | 28589242600685587 |
+| Players | 3/10 |
+| Host Name | Meeeeeeee |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 20:20:00 |
+| Lobby Creation Time | Monday, January 1, 2024 20:35:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242583822268 |
+| Lobby ID | 28589242600692750 |
 | Players | 1/10 |
-| Host Name | 谜兔 |
+| Host Name | Da |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 20:35:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242601554122 |
+| Players | 1/5 |
+| Host Name | Chocolate Star Fish |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 1, 2024 20:35:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242601991613 |
+| Players | 1/10 |
+| Host Name | 600 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 20:20:01 |
+| Lobby Creation Time | Monday, January 1, 2024 20:36:12 |
 
 
