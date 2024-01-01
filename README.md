@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549844449714 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Jalan el leoncito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:50:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549843908375 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:49:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549844316455 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Pescadero |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:50:26 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549842567249 |
-| Players | 23/24 |
-| Host Name | Voodoo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:47:55 |
+| Lobby ID | 28590549844263973 |
+| Players | 1/8 |
+| Host Name | медовый шейкер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:50:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549844622037 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Lycus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:50:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549843416301 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | 🥀十億年 💔 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:49:09 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549844263973 |
-| Players | 1/8 |
-| Host Name | медовый шейкер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:50:21 |
+| Lobby ID | 28590549844815165 |
+| Players | 6/8 |
+| Host Name | Последний самурай |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:51:08 |
 
 
 |  | epic_boss_fight_nightmare |
