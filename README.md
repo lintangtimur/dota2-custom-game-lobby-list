@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242476232985 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | eva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:33:01 |
@@ -50,36 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242477045752 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | never give up |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:33:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242477312302 |
-| Players | 3/8 |
-| Host Name | d0shiru |
-| Region | EUROPE |
+| Lobby ID | 28589242477307541 |
+| Players | 4/10 |
+| Host Name | GTO |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:34:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242475885680 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:32:38 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242477004263 |
-| Players | 1/10 |
-| Host Name | Fafara |
+| Lobby ID | 28589242477450145 |
+| Players | 1/5 |
+| Host Name | KumaBear |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:33:54 |
+| Lobby Creation Time | Monday, January 1, 2024 18:34:24 |
 
 
