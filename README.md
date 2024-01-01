@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549727764930 |
-| Players | 6/15 |
-| Host Name | doom13524 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:23:41 |
+| Lobby ID | 28590549725851607 |
+| Players | 8/10 |
+| Host Name | n0l1k` |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:21:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549726123099 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | SNC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:21:47 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549727722670 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | octalink2.0 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:23:38 |
@@ -139,11 +139,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549727972301 |
+| Lobby ID | 28590549728152204 |
 | Players | 1/8 |
 | Host Name | Funny Crow |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:23:56 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:24:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549728107354 |
+| Players | 2/8 |
+| Host Name | 玉emptiness玉 2к узник |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:24:05 |
 
 
 |  | epic_boss_fight_hard |
