@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242581274096 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Tripa Seca BOLADÃO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 20:17:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242582507445 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Дамир аль-Медведи |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 20:18:50 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242582343015 |
-| Players | 10/15 |
-| Host Name | I HATE STUPID KIDS |
+| Lobby ID | 28589242583882203 |
+| Players | 1/15 |
+| Host Name | cinnabon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:18:41 |
+| Lobby Creation Time | Monday, January 1, 2024 20:20:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gandy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 20:17:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242583815230 |
+| Players | 2/10 |
+| Host Name | ⋨Key*Sha⋩ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 20:20:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242583822268 |
+| Players | 1/10 |
+| Host Name | 谜兔 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 20:20:01 |
 
 
