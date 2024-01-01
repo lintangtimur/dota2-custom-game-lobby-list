@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549846602563 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:53:45 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549848935623 |
-| Players | 10/15 |
-| Host Name | daygee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:57:15 |
+| Lobby ID | 28590549848350885 |
+| Players | 6/8 |
+| Host Name | Cruzado-Style-Papiricas |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:56:24 |
 
 
 |  | ot3_desert_octet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549848488206 |
-| Players | 7/8 |
-| Host Name | EVian |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:56:36 |
+| Lobby ID | 28590549849384027 |
+| Players | 3/8 |
+| Host Name | с новым гойда! |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:57:55 |
 
 
 |  | ot3_desert_octet |
@@ -65,40 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:55:29 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549847127199 |
-| Players | 22/24 |
-| Host Name | Yonwalther |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:54:33 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549848350885 |
-| Players | 6/8 |
-| Host Name | Cruzado-Style-Papiricas |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:56:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549849120276 |
-| Players | 6/10 |
-| Host Name | bloody tears |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:57:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549849332371 |
-| Players | 4/10 |
-| Host Name | I'm you |
+| Lobby ID | 28590549849471285 |
+| Players | 3/8 |
+| Host Name | HAPPY NEW YEAR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:57:50 |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:58:02 |
 
 
 |  | epic_boss_fight_nightmare |
