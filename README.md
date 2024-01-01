@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549846602563 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:53:45 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549848749610 |
-| Players | 8/10 |
-| Host Name | YT EvilSeraf |
+| Lobby ID | 28590549848935623 |
+| Players | 4/15 |
+| Host Name | daygee |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:56:59 |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:57:15 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549847127199 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:54:33 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:56:24 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549848517420 |
-| Players | 9/10 |
-| Host Name | Думал не въебу? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:56:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549848935623 |
-| Players | 2/15 |
-| Host Name | daygee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:57:15 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549836151866 |
@@ -108,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DJANGO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:38:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549849063739 |
+| Players | 1/5 |
+| Host Name | 523 KrehS1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:57:26 |
 
 
