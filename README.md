@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242467132637 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Arkky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:22:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242466269167 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:21:28 |
@@ -38,37 +38,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242468880676 |
-| Players | 8/10 |
-| Host Name | Hanni- |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:24:34 |
+| Lobby ID | 28589242469793133 |
+| Players | 3/15 |
+| Host Name | Опущен и отпущен |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:25:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242453025766 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:05:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242469451031 |
-| Players | 5/15 |
-| Host Name | Laugengebäck |
+| Lobby ID | 28589242469921476 |
+| Players | 5/10 |
+| Host Name | UseThunder |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:25:14 |
+| Lobby Creation Time | Monday, January 1, 2024 18:25:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242469212253 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:24:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242463981491 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | CELESTIAL BEING |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:18:44 |
