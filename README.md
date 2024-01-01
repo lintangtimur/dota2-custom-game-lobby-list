@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242525545347 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:25:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242526192589 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Андрюша Чехантэ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:25:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242526092534 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | JustSoMuch |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:25:44 |
@@ -92,13 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:25:59 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242523191222 |
-| Players | 7/10 |
-| Host Name | bEbeB |
+| Lobby ID | 28589242526889778 |
+| Players | 1/8 |
+| Host Name | Star Шлёпа |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:26:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242526848319 |
+| Players | 1/8 |
+| Host Name | Папа Багетто |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:22:48 |
+| Lobby Creation Time | Monday, January 1, 2024 19:26:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242526939414 |
+| Players | 1/8 |
+| Host Name | Arrr-arr!!! tastydrop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:26:35 |
 
 
 |  | epic_boss_fight_nightmare |
