@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242479289445 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | monday left me broken |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:36:29 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:37:03 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242480094045 |
+| Players | 2/10 |
+| Host Name | Ya absolut |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:37:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242477532613 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242477934608 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Zi_Man |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:34:57 |
