@@ -77,28 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242536847740 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Sharki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:36:18 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242537017311 |
+| Players | 1/24 |
+| Host Name | Whiteteddy |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:36:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242536944815 |
-| Players | 5/8 |
-| Host Name | G1uc0se |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Monday, January 1, 2024 19:36:23 |
+| Lobby ID | 28589242537142606 |
+| Players | 1/8 |
+| Host Name | gxt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:36:35 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242534374284 |
-| Players | 9/10 |
-| Host Name | Travis |
+| Lobby ID | 28589242536782899 |
+| Players | 1/5 |
+| Host Name | 劏豬環 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:33:54 |
+| Lobby Creation Time | Monday, January 1, 2024 19:36:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:35:56 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242536782899 |
-| Players | 1/5 |
-| Host Name | 劏豬環 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:36:14 |
 
 
