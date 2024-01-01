@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242458955432 |
-| Players | 2/8 |
-| Host Name | crazymom93 |
+| Players | 1/8 |
+| Host Name | Dezlt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:12:47 |
 
@@ -56,40 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:05:33 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242458415364 |
-| Players | 11/15 |
-| Host Name | ♥Fox in Boots♥ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:12:08 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242458107858 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | eva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:11:46 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242456707121 |
-| Players | 4/5 |
-| Host Name | ₭np |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:10:04 |
+| Lobby ID | 28589242459183743 |
+| Players | 1/15 |
+| Host Name | Була Ураган |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:13:03 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242457548592 |
+| Lobby ID | 28589242459187207 |
+| Players | 1/15 |
+| Host Name | slipknotik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:13:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242459257677 |
 | Players | 1/10 |
-| Host Name | 930 |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 1, 2024 18:11:05 |
+| Host Name | Optimal |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:13:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ve!ian forever⁜※ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:12:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242457548592 |
+| Players | 1/10 |
+| Host Name | 930 |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 1, 2024 18:11:05 |
 
 
