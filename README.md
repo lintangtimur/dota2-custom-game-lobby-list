@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242448887908 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Guts |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 1, 2024 18:00:22 |
@@ -38,31 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 17:58:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242449495134 |
-| Players | 8/8 |
-| Host Name | пупуня vibe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:01:09 |
+| Lobby ID | 28589242450107244 |
+| Players | 6/24 |
+| Host Name | 노루 noru 노루 noru 노루 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:01:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242449929792 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | слепой окулист |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 18:01:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242445423831 |
-| Players | 22/24 |
-| Host Name | Monty Bot |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 17:56:03 |
+| Lobby ID | 28589242450637075 |
+| Players | 1/8 |
+| Host Name | DEM20111102 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:02:34 |
 
 
 |  | ot3_gardens_duo |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242450107244 |
-| Players | 6/24 |
-| Host Name | 노루 noru 노루 noru 노루 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:01:54 |
+| Lobby ID | 28589242450603328 |
+| Players | 1/24 |
+| Host Name | coa7279 |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 18:02:31 |
 
 
 |  | epic_boss_fight_nightmare |
