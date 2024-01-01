@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549823599434 |
-| Players | 7/8 |
-| Host Name | с новым гойда! |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:21:16 |
+| Lobby ID | 28590549824366719 |
+| Players | 2/10 |
+| Host Name | - |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:22:17 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549823205593 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Wolf Haley |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:20:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549823765151 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:21:29 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549823554431 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:21:12 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549823480811 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Chamito de Rappi |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:21:06 |
@@ -121,19 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549821368961 |
-| Players | 8/10 |
-| Host Name | kaaa |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:18:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28590549823725352 |
 | Players | 2/10 |
 | Host Name | | R@PT()R | ^_^ | |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:21:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549824439128 |
+| Players | 1/5 |
+| Host Name | Allen |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:22:23 |
 
 
