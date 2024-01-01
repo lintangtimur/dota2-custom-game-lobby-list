@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242724814860 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | школьник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:26:03 |
@@ -95,16 +95,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242723810605 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 22:25:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242724946548 |
+| Players | 2/8 |
+| Host Name | RESURRECTED |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:26:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242716395101 |
+| Players | 7/8 |
+| Host Name | perricksonia |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 22:18:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242724541089 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ÑẾ҉ㄨǺ҉eốn_ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 22:25:47 |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28589242724698842 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Hunt Hoe-Down |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 1, 2024 22:25:56 |
