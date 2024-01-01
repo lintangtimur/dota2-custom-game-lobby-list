@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242682306931 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Dango Deviluke |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 21:46:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242685056572 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | swdge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:49:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242685408836 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | ☠ Kira Yoshikage☢ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 21:49:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242685197097 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Itachi Uchiha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 21:49:17 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242685506606 |
-| Players | 4/8 |
-| Host Name | ZimoGorka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 21:49:33 |
+| Lobby ID | 28589242685510982 |
+| Players | 3/8 |
+| Host Name | LIL CHICHA |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 21:49:34 |
 
 
 |  | epic_boss_fight_nightmare |
