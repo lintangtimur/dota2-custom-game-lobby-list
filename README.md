@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242504533558 |
-| Players | 4/8 |
-| Host Name | фанат скайзи |
+| Lobby ID | 28589242507652998 |
+| Players | 3/8 |
+| Host Name | MAESTRO |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:03:51 |
+| Lobby Creation Time | Monday, January 1, 2024 19:07:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242507589004 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Bulbi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:07:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242507457130 |
-| Players | 1/8 |
-| Host Name | アレクサンダー |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:06:53 |
+| Lobby ID | 28589242507560928 |
+| Players | 5/24 |
+| Host Name | ArtoftheStateAT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:06:59 |
 
 
 |  | ot3_desert_octet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | freshejka |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:04:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242507560928 |
-| Players | 2/24 |
-| Host Name | ArtoftheStateAT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 19:06:59 |
 
 
 |  | epic_boss_fight_nightmare |
