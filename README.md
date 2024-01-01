@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242516424665 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | доDick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:16:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242515232696 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Trafalgar Law |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:14:51 |
@@ -59,18 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242516821556 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | 4 pos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:16:25 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242517115315 |
+| Players | 2/10 |
+| Host Name | ANTONIO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:16:43 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242517041573 |
+| Lobby ID | 28589242517233001 |
 | Players | 1/5 |
 | Host Name | Hunt Hoe-Down |
 | Region | INDIA |
-| Lobby Creation Time | Monday, January 1, 2024 19:16:39 |
+| Lobby Creation Time | Monday, January 1, 2024 19:16:50 |
 
 
