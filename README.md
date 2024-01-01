@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242469212253 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:24:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242472856493 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | Wmelyga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:29:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242453025766 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:05:33 |
@@ -58,19 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28589242471923929 |
-| Players | 2/10 |
-| Host Name | luckybymyside |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 1, 2024 18:28:05 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28589242472843565 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Kongandeu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:29:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242473068606 |
+| Players | 2/5 |
+| Host Name | 七瀬 遙 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 18:29:25 |
 
 
