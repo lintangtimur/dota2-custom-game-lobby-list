@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:01:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242502120167 |
-| Players | 9/15 |
-| Host Name | Locomobile | The Chimney |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:01:18 |
+| Lobby ID | 28589242503111377 |
+| Players | 6/8 |
+| Host Name | Toxin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:02:21 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242502536217 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | dzmrdhni |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:01:44 |
@@ -54,23 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:54:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242503111377 |
-| Players | 4/8 |
-| Host Name | Toxin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:02:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242503905707 |
-| Players | 1/8 |
-| Host Name | KEMPACHI |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 19:03:11 |
 
 
