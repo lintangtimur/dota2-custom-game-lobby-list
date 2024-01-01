@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242427472147 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | sensei |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:32:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242427767622 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | La parquita |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 17:33:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242426920007 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | impulse 101 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:32:07 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KIWI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:30:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242427935130 |
-| Players | 1/5 |
-| Host Name | Butterfly |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:33:27 |
 
 
