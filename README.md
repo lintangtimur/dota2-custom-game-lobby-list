@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28589242424075750 |
 | Players | 6/10 |
-| Host Name | GAGAUZ |
+| Host Name | Nevinoves |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:28:18 |
 
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28589242424542901 |
 | Players | 3/15 |
-| Host Name | euphoria |
+| Host Name | Русский |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:28:56 |
 
@@ -68,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242424166558 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | W4adaHasmurakar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:28:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28589242424646472 |
-| Players | 1/5 |
-| Host Name | Рубашка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:29:04 |
 
 
