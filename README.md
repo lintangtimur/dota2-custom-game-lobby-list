@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242579607352 |
-| Players | 11/24 |
+| Players | 20/24 |
 | Host Name | SSK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 20:16:13 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242582840788 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | очко мам |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 20:19:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242582244869 |
-| Players | 9/10 |
-| Host Name | Njo! |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 20:18:35 |
+| Lobby ID | 28589242582671111 |
+| Players | 1/15 |
+| Host Name | Jai_Gay_Ray |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 20:18:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,33 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 20:18:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242581146774 |
-| Players | 13/15 |
-| Host Name | Saallaat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:17:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242582507445 |
-| Players | 3/10 |
-| Host Name | Дамир аль-Медведи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:18:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242582547700 |
-| Players | 5/8 |
-| Host Name | swap commends |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 20:18:52 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242582770027 |
@@ -119,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 20:19:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242582671111 |
-| Players | 1/15 |
-| Host Name | Jai_Gay_Ray |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 20:18:58 |
+| Lobby ID | 28589242582507445 |
+| Players | 3/10 |
+| Host Name | Дамир аль-Медведи |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 20:18:50 |
 
 
 |  | epic_boss_fight_nightmare |
