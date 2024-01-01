@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:01:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549653581243 |
-| Players | 5/8 |
-| Host Name | qka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:01:58 |
+| Lobby ID | 28590549654357244 |
+| Players | 5/15 |
+| Host Name | Don Ø |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:02:49 |
 
 
 |  | ot3_gardens_duo |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549654524613 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Ramson |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:02:59 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549654723282 |
+| Players | 1/10 |
+| Host Name | ОчковаяКобра |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:03:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549653148647 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:01:30 |
@@ -95,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549650740510 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:58:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549654589722 |
+| Players | 1/5 |
+| Host Name | Sussy Baka Junior |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:03:04 |
 
 
