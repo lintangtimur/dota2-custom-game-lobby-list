@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242831691187 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:12:21 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242831780751 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Sylveth |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:12:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242830899844 |
-| Players | 6/8 |
-| Host Name | Shinobizxc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:11:31 |
+| Lobby ID | 28589242828984265 |
+| Players | 23/24 |
+| Host Name | 4 Deditos :v |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:09:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242830069264 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | R u crzy?Socheko Vanda ni Besii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:10:40 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242832880914 |
-| Players | 3/8 |
-| Host Name | Leo |
+| Lobby ID | 28589242832974247 |
+| Players | 6/8 |
+| Host Name | Гвардиан гривс |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:13:34 |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:13:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,45 +77,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242832761985 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:13:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242832824859 |
-| Players | 2/15 |
-| Host Name | ГенаЦидармян |
+| Lobby ID | 28589242833133058 |
+| Players | 3/8 |
+| Host Name | PIPIPIPAA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:13:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242833165049 |
+| Players | 2/10 |
+| Host Name | MAIMALAGA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:13:31 |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:13:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242830999650 |
+| Lobby ID | 28589242833260778 |
 | Players | 1/8 |
-| Host Name | a da |
+| Host Name | Why Are Burning Heaven? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:11:37 |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:13:57 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242831413960 |
-| Players | 9/10 |
-| Host Name | Wootmonster |
+| Lobby ID | 28589242833270083 |
+| Players | 3/15 |
+| Host Name | Phoenix |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:12:03 |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:13:57 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28589242831569842 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | sparanuk669 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:12:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242832941512 |
+| Players | 1/10 |
+| Host Name | Han Jee-han  한 지한 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:13:38 |
 
 
