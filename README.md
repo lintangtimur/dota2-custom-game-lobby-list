@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242429636496 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | бомбардирОчка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:35:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242428160075 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 1, 2024 17:33:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242428205677 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | #idinaxyi MaLo9_ToP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:33:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242429634658 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | Malam Bantay MU! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:35:42 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242430696445 |
-| Players | 10/15 |
-| Host Name | гичик |
+| Lobby ID | 28589242430992617 |
+| Players | 3/15 |
+| Host Name | Раздал Стиля |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:37:07 |
+| Lobby Creation Time | Monday, January 1, 2024 17:37:31 |
 
 
 |  | epic_boss_fight_nightmare |
