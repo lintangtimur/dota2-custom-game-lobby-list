@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549616919409 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Baiden |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:22:50 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:17:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549617400036 |
-| Players | 13/15 |
-| Host Name | tangerine |
+| Lobby ID | 28590549618071128 |
+| Players | 2/10 |
+| Host Name | rasmus |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:23:21 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:24:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549617938115 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | TOTSUGEKI |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:23:55 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549616203542 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | я...ТАЛАНТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:22:04 |
@@ -122,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549617360365 |
-| Players | 5/24 |
-| Host Name | AEA |
+| Players | 7/24 |
+| Host Name | LenSeiker |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:23:18 |
 
@@ -135,6 +135,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Шабит_Хапаев[95] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:23:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549618134200 |
+| Players | 1/15 |
+| Host Name | Кабаний сутенёр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:24:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549618141737 |
+| Players | 4/15 |
+| Host Name | я вижу все |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:24:08 |
 
 
 |  | epic_boss_fight_challenger |
