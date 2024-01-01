@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549821979805 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | K E I L Y |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:19:03 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549820843297 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Anthropologysali Kaur |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:17:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549822422540 |
-| Players | 10/15 |
-| Host Name | Superdeterminist |
+| Lobby ID | 28590549822686253 |
+| Players | 1/24 |
+| Host Name | MAGA |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:19:39 |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:20:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549822614172 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | db |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:19:55 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 05:19:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549822642335 |
-| Players | 6/8 |
-| Host Name | Kawazaki |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:19:57 |
+| Lobby ID | 28590549822660617 |
+| Players | 2/10 |
+| Host Name | ♥Alexa-Love♥ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:19:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549821368961 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | kaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:18:14 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sergeant Cheburashka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:17:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549822637915 |
-| Players | 1/5 |
-| Host Name | Подшкон Купидор |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:19:57 |
 
 
