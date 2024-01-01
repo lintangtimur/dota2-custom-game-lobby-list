@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:33:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242797995182 |
-| Players | 9/10 |
-| Host Name | 0.5 нетильтованое |
+| Lobby ID | 28589242798328567 |
+| Players | 1/8 |
+| Host Name | Friz? |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 23:37:43 |
+| Lobby Creation Time | Monday, January 1, 2024 23:38:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242785260658 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | =↕SoOPiTa↕= |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 1, 2024 23:24:57 |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:36:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242798003356 |
-| Players | 4/8 |
-| Host Name | . |
+| Lobby ID | 28589242798383327 |
+| Players | 6/10 |
+| Host Name | кишкапор |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 1, 2024 23:38:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242798470669 |
+| Players | 2/15 |
+| Host Name | сын таверны |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:37:43 |
+| Lobby Creation Time | Monday, January 1, 2024 23:38:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -68,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242798213367 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:37:56 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242798443272 |
+| Players | 2/5 |
+| Host Name | гена бетон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:38:10 |
 
 
