@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242550212266 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | NAKIEL |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 19:49:03 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242552470752 |
-| Players | 9/15 |
-| Host Name | Greta Thunberg |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:51:09 |
+| Lobby ID | 28589242554380139 |
+| Players | 2/15 |
+| Host Name | 777 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:52:59 |
 
 
 |  | ot3_desert_octet |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 19:48:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242553376077 |
-| Players | 6/8 |
-| Host Name | BLINK |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 1, 2024 19:52:01 |
+| Lobby ID | 28589242553796417 |
+| Players | 5/10 |
+| Host Name | MeTTaxa |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:52:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242552924072 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 中年手残 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:51:35 |
@@ -49,28 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242552942914 |
-| Players | 7/8 |
-| Host Name | Pos 1 slayer |
+| Lobby ID | 28589242554346406 |
+| Players | 1/8 |
+| Host Name | 死 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:51:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242553796417 |
-| Players | 2/10 |
-| Host Name | MeTTaxa |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 19:52:25 |
+| Lobby Creation Time | Monday, January 1, 2024 19:52:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242551330250 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ID : 氷 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:50:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242554249582 |
+| Players | 1/5 |
+| Host Name | chaplin8000 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 19:52:51 |
 
 
