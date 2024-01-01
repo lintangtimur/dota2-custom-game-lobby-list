@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242552470752 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Greta Thunberg |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:51:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242552924072 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | 中年手残 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:51:35 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242553796417 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | MeTTaxa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:52:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242554037095 |
-| Players | 3/8 |
-| Host Name | gamegade |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 19:52:39 |
 
 
 |  | epic_boss_fight_nightmare |
