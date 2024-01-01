@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549878996101 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | MIGS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:43:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549879077032 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Слава сыр колбасс |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:43:56 |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549878070864 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | asd |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:42:17 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549875547002 |
-| Players | 8/10 |
-| Host Name | Tu Rata Favorita |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:38:10 |
+| Lobby ID | 28590549879340037 |
+| Players | 3/10 |
+| Host Name | Missing you happiness |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:44:22 |
 
 
