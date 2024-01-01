@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549658286266 |
-| Players | 14/15 |
-| Host Name | HousingTrax I PMA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:07:02 |
+| Lobby ID | 28590549659998397 |
+| Players | 1/10 |
+| Host Name | Fabos |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:08:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549658473695 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | #W Kiwi € / \♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:07:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549659493955 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Medio metro |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:08:20 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549658817583 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Chandideadmoon |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:07:37 |
@@ -104,54 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549659004211 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | GearWill |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:07:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549660030774 |
-| Players | 3/8 |
-| Host Name | бомбардирОчка |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:08:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549659847071 |
-| Players | 8/15 |
-| Host Name | Great Admiral of Mongol Empire |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:08:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549659998397 |
-| Players | 3/10 |
-| Host Name | steliar |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:08:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549660245489 |
-| Players | 5/10 |
-| Host Name | GQ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:09:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549660248701 |
-| Players | 1/15 |
-| Host Name | Tzxcuw_ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:09:09 |
 
 
