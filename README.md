@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549648035382 |
-| Players | 6/8 |
-| Host Name | Zen |
+| Lobby ID | 28590549650562202 |
+| Players | 3/8 |
+| Host Name | Lautreamont |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:56:02 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549650335873 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | M e l a n c h o l y |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:58:29 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:58:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549650326115 |
-| Players | 11/15 |
-| Host Name | Suddenlazer |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:58:29 |
+| Lobby ID | 28590549650782950 |
+| Players | 3/8 |
+| Host Name | тугoсepя(пyзoжитeль) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:58 |
 
 
 |  | ot3_desert_octet |
@@ -110,13 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:57:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549650562202 |
-| Players | 1/8 |
-| Host Name | Lautreamont |
+| Lobby ID | 28590549650677569 |
+| Players | 6/10 |
+| Host Name | Flux |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549643552040 |
+| Players | 22/24 |
+| Host Name | IEdumpling |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:51:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549650797059 |
+| Players | 2/15 |
+| Host Name | 通テpainテ通 hate |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:58:44 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -137,12 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:58:44 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549650604911 |
-| Players | 1/5 |
-| Host Name | гы |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:58:47 |
+| Lobby ID | 28590549650740510 |
+| Players | 3/10 |
+| Host Name | FAQ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:55 |
 
 
