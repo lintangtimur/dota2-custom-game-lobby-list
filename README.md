@@ -185,28 +185,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549559422830 |
-| Players | 4/10 |
-| Host Name | rezetsu |
+| Players | 7/10 |
+| Host Name | Колик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:24:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549559237446 |
-| Players | 3/8 |
-| Host Name | Crenzy |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:24:41 |
+| Lobby ID | 28590549559507419 |
+| Players | 1/8 |
+| Host Name | Шахматист |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:25:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549559278379 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | Hero Slayer! |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:24:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549559508587 |
+| Players | 2/8 |
+| Host Name | Solo? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:25:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549559591637 |
+| Players | 1/10 |
+| Host Name | ABSOLUT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:25:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -243,5 +261,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Вова Адидас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:25:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549559616271 |
+| Players | 1/5 |
+| Host Name | Dester |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:25:10 |
 
 
