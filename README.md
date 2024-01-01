@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549831776952 |
-| Players | 6/8 |
-| Host Name | Turbo |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:32:37 |
+| Lobby ID | 28590549827878201 |
+| Players | 11/15 |
+| Host Name | vodka |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:27:14 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549831618696 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | UKRAINE€по персоне€ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:32:24 |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549831264012 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Harry Lyme |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:31:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549827878201 |
-| Players | 10/15 |
-| Host Name | vodka |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:27:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549830676488 |
-| Players | 14/15 |
-| Host Name | Mr_Bramkl ツ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:31:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549831826887 |
-| Players | 1/15 |
-| Host Name | JamAnKo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:32:41 |
 
 
 |  | epic_boss_fight_normal |
