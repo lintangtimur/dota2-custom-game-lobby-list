@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242460022751 |
-| Players | 22/24 |
-| Host Name | 15635228974 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 18:14:03 |
+| Lobby ID | 28589242462789779 |
+| Players | 5/15 |
+| Host Name | Нервный(подрочил) |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:17:20 |
 
 
 |  | ot3_necropolis_ffa |
