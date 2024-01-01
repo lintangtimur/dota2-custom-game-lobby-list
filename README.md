@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242740619442 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | очко мам |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:41:05 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:40:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242740493200 |
-| Players | 11/15 |
-| Host Name | hate me ass you do |
+| Lobby ID | 28589242741061155 |
+| Players | 1/10 |
+| Host Name | kakarasik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:40:58 |
+| Lobby Creation Time | Monday, January 1, 2024 22:41:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242740324816 |
-| Players | 9/10 |
-| Host Name | kamiru |
+| Lobby ID | 28589242740999298 |
+| Players | 2/10 |
+| Host Name | BodyBuilder (Антон) |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 22:40:48 |
+| Lobby Creation Time | Monday, January 1, 2024 22:41:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242740979543 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Cain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 22:41:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242741142572 |
+| Players | 1/10 |
+| Host Name | /MorallyKilled\ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 22:41:35 |
 
 
 |  | epic_boss_fight_normal |
@@ -128,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 22:41:00 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242740969147 |
-| Players | 1/7 |
+| Lobby ID | 28589242741089992 |
+| Players | 1/5 |
 | Host Name | ScrappyCoco |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 22:41:25 |
+| Lobby Creation Time | Monday, January 1, 2024 22:41:32 |
 
 
