@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242505298097 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | freshejka |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:04:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242509052426 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:08:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242510484348 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | пасынок пиналду |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 19:10:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242510614332 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | goy dwaga dwaga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:10:08 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fidel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:10:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242510812718 |
+| Players | 1/10 |
+| Host Name | Tripa Seca BOLADÃO |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 1, 2024 19:10:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28589242510845187 |
+| Players | 1/24 |
+| Host Name | 'le Yan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 19:10:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242509248004 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BugSplat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:08:44 |
