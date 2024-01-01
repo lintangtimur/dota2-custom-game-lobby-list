@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242516424665 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | доDick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:16:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242509052426 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:08:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242516890077 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | BIGMOM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:16:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242515232696 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Trafalgar Law |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 19:14:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242516821556 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | 4 pos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:16:25 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28589242517115315 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ANTONIO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 19:16:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242517292796 |
+| Players | 2/10 |
+| Host Name | MAIMALAGA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 19:16:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28589242517383063 |
+| Players | 1/8 |
+| Host Name | 黎曦夜 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 1, 2024 19:16:59 |
 
 
 |  | epic_boss_fight_normal |
