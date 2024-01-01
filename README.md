@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242817584857 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | RedRodry |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:57:52 |
@@ -31,65 +31,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242819861645 |
-| Players | 8/10 |
-| Host Name | Raspredval |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:00:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242819457974 |
-| Players | 7/24 |
-| Host Name | szunari |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 1, 2024 23:59:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242819535621 |
-| Players | 5/8 |
-| Host Name | Милана |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:59:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242819616640 |
-| Players | 3/15 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 1, 2024 23:59:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28589242819984721 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | ЧТО ТАКОЕ ПОБЕДА? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:00:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28589242820032293 |
-| Players | 5/8 |
-| Host Name | дневной дрочер |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:00:23 |
+| Lobby ID | 28589242819457974 |
+| Players | 9/24 |
+| Host Name | szunari |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 1, 2024 23:59:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242820260823 |
+| Players | 1/10 |
+| Host Name | Karl_Nesios |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:00:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242819184494 |
-| Players | 14/15 |
-| Host Name | новогодняя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 23:59:30 |
+| Lobby ID | 28589242819616640 |
+| Players | 8/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 1, 2024 23:59:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242818504531 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:58:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242820180290 |
+| Players | 1/10 |
+| Host Name | crestfallen |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:00:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242816791461 |
+| Players | 1/5 |
+| Host Name | Забыто |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:57:02 |
 
 
