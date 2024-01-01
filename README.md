@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 03:03:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549710088738 |
-| Players | 9/10 |
-| Host Name | Hanni- |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:03:50 |
+| Lobby ID | 28590549711188276 |
+| Players | 4/15 |
+| Host Name | Holy shit it's a dinosaur!!! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:05:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549707960011 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Cacel |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:01:28 |
@@ -85,20 +85,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549710756430 |
-| Players | 9/10 |
-| Host Name | 299148ce172bacf8f2b011a9e3d60ea4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:04:34 |
+| Lobby ID | 28590549711209551 |
+| Players | 7/10 |
+| Host Name | Cocained |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:05:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549710997184 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Убийца Акаме |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:04:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549711173214 |
+| Players | 1/8 |
+| Host Name | Rip van Winkle |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:05:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549711207373 |
+| Players | 1/15 |
+| Host Name | XinQ cosplayer |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:05:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | azertyuiopqsdfghjklmwxcvbn |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:04:57 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28590549711134622 |
-| Players | 1/7 |
-| Host Name | IX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:05:00 |
 
 
