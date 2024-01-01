@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549571944426 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Q |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:35:35 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 00:36:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549571603718 |
-| Players | 3/10 |
-| Host Name | VAHUE |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:35:19 |
+| Lobby ID | 28590549574924973 |
+| Players | 1/8 |
+| Host Name | БИДЛОМЫШ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:37:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549572236982 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Commend x commend please |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:35:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549557379532 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Clixco |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:23:25 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549569266229 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Hard Killer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:33:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549570771294 |
-| Players | 6/8 |
-| Host Name | ifreake |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:34:41 |
+| Lobby ID | 28590549574861645 |
+| Players | 2/10 |
+| Host Name | C10H15N |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:37:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549572685859 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ты не чувствуешь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:36:09 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549570266384 |
-| Players | 14/15 |
+| Players | 12/15 |
 | Host Name | b0ne |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:34:17 |
@@ -122,28 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549571466201 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | ₆⁶₆ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 00:35:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549574714677 |
-| Players | 2/10 |
-| Host Name | Пaвeл Eбaнaтoв |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:37:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549570746098 |
-| Players | 5/15 |
-| Host Name | Вы в скрытом Пуле |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:34:39 |
 
 
 |  | ot3_desert_octet |
@@ -155,30 +137,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 00:37:34 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549574150494 |
-| Players | 1/5 |
-| Host Name | DIMANOS |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:37:19 |
+| Lobby ID | 28590549570746098 |
+| Players | 7/15 |
+| Host Name | Вы в скрытом Пуле |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:34:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549574825055 |
+| Players | 2/8 |
+| Host Name | Tamara 200kg |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:37:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549574689010 |
+| Lobby ID | 28590549574965576 |
 | Players | 1/10 |
 | Host Name | VFIK |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:37:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549574692925 |
-| Players | 1/10 |
-| Host Name | Albus Dumbledore |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 00:37:44 |
+| Lobby Creation Time | Tuesday, January 2, 2024 00:37:56 |
 
 
