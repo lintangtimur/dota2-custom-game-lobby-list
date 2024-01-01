@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549649526360 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | CERF |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:57:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549649698703 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | These Bitches Love SOSA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:57:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549650146751 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | TK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:58:17 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549649966260 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | АгентГабена |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:58:06 |
@@ -104,16 +104,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549649809918 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Joann |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:57:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549650335873 |
+| Players | 1/15 |
+| Host Name | M e l a n c h o l y |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549650326115 |
+| Players | 5/15 |
+| Host Name | Suddenlazer |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:58:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549649707053 |
+| Players | 14/15 |
+| Host Name | Синь Де Сы |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:57:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549649075537 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | spoilt9111 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:57:09 |
