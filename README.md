@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549659262249 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:08:05 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549668020575 |
-| Players | 4/8 |
-| Host Name | Joke |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:17:34 |
+| Lobby ID | 28590549667469573 |
+| Players | 3/8 |
+| Host Name | Убийца Акаме |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:16:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549668120407 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Джимbo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:17:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549668145539 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | chamo=objeto |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:17:42 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MagoDaZona |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:17:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549668424171 |
+| Players | 1/8 |
+| Host Name | officer balls |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:18:00 |
 
 
 |  | epic_boss_fight_nightmare |
