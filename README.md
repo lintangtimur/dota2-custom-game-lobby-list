@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549670602013 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | kfcdog132 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:20:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549669113128 |
-| Players | 9/10 |
+| Players | 6/10 |
 | Host Name | Captain Bungholio |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:18:45 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549670681009 |
-| Players | 6/8 |
-| Host Name | PLODOTVOR |
+| Players | 5/8 |
+| Host Name | Akashi Seijuro |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:20:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549668145539 |
-| Players | 7/8 |
-| Host Name | Dave el barbaro |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:17:42 |
+| Lobby ID | 28590549670419798 |
+| Players | 1/8 |
+| Host Name | frasherzxc`10 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:20:10 |
 
 
 |  | ot3_desert_octet |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:19:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549669757745 |
-| Players | 13/15 |
-| Host Name | Shambooh ֎ |
-| Region | EUROPE |
+| Lobby ID | 28590549669765540 |
+| Players | 12/24 |
+| Host Name | PMA MODE |
+| Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:19:27 |
 
 
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DJ NUTQUIK |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:17:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549669765540 |
-| Players | 10/24 |
-| Host Name | PMA MODE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:19:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549670419798 |
-| Players | 1/8 |
-| Host Name | frasherzxc`10 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:20:10 |
 
 
 |  | epic_boss_fight_hard |
