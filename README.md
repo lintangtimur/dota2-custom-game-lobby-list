@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549676635050 |
+| Lobby ID | 28590549681067809 |
 | Players | 3/8 |
-| Host Name | TITILUS |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:27:00 |
+| Host Name | мам ну еще 5 минут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:31:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549669822012 |
-| Players | 11/24 |
+| Players | 19/24 |
 | Host Name | котаныч |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:19:31 |
@@ -32,26 +32,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549676932827 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Rylaii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:27:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549679952409 |
-| Players | 4/8 |
-| Host Name | 2T |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:30:37 |
+| Lobby ID | 28590549680533692 |
+| Players | 3/24 |
+| Host Name | 4 burros con migo 5 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:31:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549678952550 |
-| Players | 7/24 |
-| Host Name | Семён Свалов |
+| Players | 3/24 |
+| Host Name | Buu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:29:32 |
 
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:31:10 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549679945496 |
-| Players | 8/10 |
-| Host Name | F E N T A N Y L O Y D |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:30:37 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549674794498 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Peon Redfield |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:24:59 |
@@ -94,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549676841255 |
-| Players | 11/15 |
-| Host Name | TUCA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:27:13 |
+| Lobby ID | 28590549681113454 |
+| Players | 1/15 |
+| Host Name | R3sist4nce. |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:31:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549681047528 |
+| Players | 3/10 |
+| Host Name | ? |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:31:49 |
 
 
 |  | ot3_gardens_duo |
@@ -112,20 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549680449625 |
-| Players | 2/15 |
-| Host Name | Vovka2015 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:31:10 |
+| Lobby ID | 28590549681006476 |
+| Players | 8/15 |
+| Host Name | shinobi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:31:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549680533692 |
-| Players | 1/24 |
-| Host Name | 4 burros con migo 5 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:31:15 |
+| Lobby ID | 28590549680865617 |
+| Players | 4/8 |
+| Host Name | gearah |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:31:37 |
 
 
 |  | epic_boss_fight_hard |
@@ -135,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kennys |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:18:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549681188344 |
+| Players | 1/5 |
+| Host Name | M-khan |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:31:58 |
 
 
