@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549716457817 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:10:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549716142646 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | M_C |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:10:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549718741840 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Biborg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:13:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549718606248 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Shambooh ֎ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:13:19 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549718751877 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 4pos |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:13:29 |
@@ -121,17 +121,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549718968177 |
-| Players | 4/8 |
-| Host Name | 00000000000000000000000 |
+| Lobby ID | 28590549718997242 |
+| Players | 5/8 |
+| Host Name | nicky sin micro agg |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:13:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549719029412 |
+| Players | 1/10 |
+| Host Name | 灯hate me as you do灯 666 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:13:42 |
+| Lobby Creation Time | Tuesday, January 2, 2024 03:13:46 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549718397180 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ATWA |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:13:05 |
