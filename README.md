@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549634520164 |
-| Players | 3/15 |
-| Host Name | lil mir |
+| Players | 6/15 |
+| Host Name | ooOOoOoooOOoOOOoo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:41:29 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549630834810 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | MakimaGOD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:37:35 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:39:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549633107168 |
-| Players | 9/10 |
-| Host Name | -[foW] |
+| Lobby ID | 28590549634906470 |
+| Players | 3/24 |
+| Host Name | chelik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:40:00 |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:41:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,25 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549634779265 |
-| Players | 3/10 |
-| Host Name | 3x3x3x3x3 |
+| Players | 4/10 |
+| Host Name | shy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:41:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549634906470 |
-| Players | 3/24 |
-| Host Name | chelik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:41:54 |
+| Lobby ID | 28590549635056627 |
+| Players | 6/8 |
+| Host Name | Xmitt |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:42:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549631782020 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | DYO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:38:36 |
