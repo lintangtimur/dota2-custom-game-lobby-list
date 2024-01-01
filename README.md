@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549624892889 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Juniorch |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:31:18 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549625723215 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:32:10 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549627034582 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | La Nevadita |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:33:35 |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549623366849 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | TaLaNt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 01:29:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549627367434 |
-| Players | 5/15 |
-| Host Name | RevolverMan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:33:56 |
+| Lobby ID | 28590549624085214 |
+| Players | 7/8 |
+| Host Name | Nos van a matar causa |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:30:27 |
 
 
 |  | epic_boss_fight_challenger |
@@ -164,12 +164,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 01:26:44 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549627543567 |
+| Players | 1/5 |
+| Host Name | Aung Thwe Taw Lamin Gyi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:34:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549620248698 |
-| Players | 9/10 |
-| Host Name | Bankai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 01:26:24 |
+| Lobby ID | 28590549627646413 |
+| Players | 1/10 |
+| Host Name | FAITH |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 01:34:14 |
 
 
