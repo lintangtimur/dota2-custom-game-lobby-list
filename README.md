@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549886432998 |
-| Players | 12/15 |
-| Host Name | УБИВАТЬ УБИВАТЬ |
+| Lobby ID | 28590549887180539 |
+| Players | 6/10 |
+| Host Name | Doctor Cactus |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:56:18 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:57:34 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549885809699 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | White |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:55:13 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549886033254 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:55:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549886031407 |
-| Players | 20/24 |
-| Host Name | Yonwalther |
+| Lobby ID | 28590549887138299 |
+| Players | 2/15 |
+| Host Name | ＊＊ AMY ＊＊ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:55:37 |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:57:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549886945488 |
-| Players | 1/10 |
-| Host Name | TOSENO |
+| Players | 3/10 |
+| Host Name | >.< |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:57:10 |
 
@@ -108,33 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | andre.dz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:57:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549887019801 |
-| Players | 9/10 |
-| Host Name | xorto.bazidli |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:57:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549887138299 |
-| Players | 1/15 |
-| Host Name | ＊＊ AMY ＊＊ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:57:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549887180539 |
-| Players | 2/10 |
-| Host Name | Doctor Cactus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:57:34 |
 
 
 |  | epic_boss_fight_challenger |
