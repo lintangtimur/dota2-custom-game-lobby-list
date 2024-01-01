@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549853006204 |
-| Players | 3/24 |
-| Host Name | Taktloss |
+| Players | 2/24 |
+| Host Name | focusbtw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:03:15 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549854633922 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Слава сыр колбасс |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:05:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549853460263 |
-| Players | 12/15 |
-| Host Name | ≫ん£ L I C Oん≪ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:03:56 |
+| Lobby ID | 28590549855158203 |
+| Players | 5/8 |
+| Host Name | Sakuragi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:06:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549854051711 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | †Uchiha Obito† |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:04:49 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549854408233 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | tdistribution |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:05:21 |
@@ -130,28 +130,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549855000946 |
+| Lobby ID | 28590549855334470 |
 | Players | 6/8 |
-| Host Name | Edvin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:06:14 |
+| Host Name | エドゥモリ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:06:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549855158203 |
-| Players | 3/8 |
-| Host Name | Sakuragi |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 06:06:28 |
+| Lobby ID | 28590549855348731 |
+| Players | 3/15 |
+| Host Name | 天使の涙 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:06:45 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549836151866 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DJANGO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:38:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549855243767 |
+| Players | 1/10 |
+| Host Name | Give us a sign |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 06:06:36 |
 
 
