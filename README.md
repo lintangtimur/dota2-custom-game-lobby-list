@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:08:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549667571981 |
-| Players | 8/15 |
-| Host Name | [DD] Дet |
+| Lobby ID | 28590549668020575 |
+| Players | 4/8 |
+| Host Name | Joke |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:17:06 |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:17:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549665543660 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | ÆA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:14:54 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549667289316 |
-| Players | 7/10 |
-| Host Name | 冂口山庄入 廾丹乂丫订 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:16:47 |
+| Lobby ID | 28590549667717060 |
+| Players | 4/10 |
+| Host Name | Adorableあざ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 02:17:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549667634802 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Gatsby.. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:17:10 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DJ NUTQUIK |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:17:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549667717060 |
-| Players | 2/10 |
-| Host Name | Adorableあざ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 02:17:15 |
 
 
 |  | epic_boss_fight_nightmare |
