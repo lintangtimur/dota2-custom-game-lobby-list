@@ -14,81 +14,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242422941806 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | ? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 17:26:47 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242425713122 |
+| Players | 3/15 |
+| Host Name | Bambony |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 1, 2024 17:30:31 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242425152192 |
-| Players | 3/8 |
-| Host Name | pma))) |
+| Lobby ID | 28589242425879510 |
+| Players | 4/8 |
+| Host Name | wmex |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:29:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242422915785 |
-| Players | 1/8 |
-| Host Name | Me and 9 dogs |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 17:26:45 |
+| Lobby Creation Time | Monday, January 1, 2024 17:30:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28589242424542901 |
-| Players | 12/15 |
-| Host Name | Русский |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:28:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242425074534 |
-| Players | 6/10 |
-| Host Name | Лариса Ивановна |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:29:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242425369988 |
-| Players | 1/8 |
-| Host Name | ismail11091984r |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:30:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28589242425454684 |
-| Players | 1/24 |
-| Host Name | equilibrium |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:30:10 |
+| Lobby ID | 28589242425883998 |
+| Players | 1/15 |
+| Host Name | Me and 9 dogs |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 1, 2024 17:30:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242424166558 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | W4adaHasmurakar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 17:28:26 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28589242425335925 |
-| Players | 1/7 |
+| Lobby ID | 28589242425651685 |
+| Players | 1/5 |
 | Host Name | KIWI |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 17:30:00 |
+| Lobby Creation Time | Monday, January 1, 2024 17:30:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28589242425854904 |
+| Players | 1/10 |
+| Host Name | bruh |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 1, 2024 17:30:42 |
 
 
