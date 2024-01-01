@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242785260658 |
-| Players | 14/24 |
+| Players | 12/24 |
 | Host Name | =↕SoOPiTa↕= |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 1, 2024 23:24:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242794685836 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | TorontoLadprao |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:34:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28589242792666005 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | 𝓪𝓲𝓶𝒆𝓻 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:32:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242794251942 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | гойда братья |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 23:33:56 |
@@ -74,30 +74,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 23:33:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242795896913 |
-| Players | 7/10 |
-| Host Name | Феечка Свинкс |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 23:35:36 |
+| Lobby ID | 28589242796285020 |
+| Players | 3/8 |
+| Host Name | >Танюша< |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:36:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242793872879 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Elerne |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 1, 2024 23:33:33 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28589242796267020 |
+| Players | 2/15 |
+| Host Name | [SHTO]Aggressive Drift |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 23:35:59 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28589242792597860 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | TONGKENG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 23:32:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242796316653 |
+| Players | 1/5 |
+| Host Name | Blitz |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 23:36:02 |
 
 
