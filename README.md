@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28589242436721512 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 1, 2024 17:44:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242456451397 |
-| Players | 13/15 |
-| Host Name | Адам Аль-Бахмути |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:09:46 |
+| Lobby ID | 28589242457120740 |
+| Players | 2/8 |
+| Host Name | フ六violetフ六 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:10:35 |
 
 
 |  | ot3_desert_octet |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28589242457062956 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Papapa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 1, 2024 18:10:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28589242457120740 |
-| Players | 1/8 |
-| Host Name | フ六violetフ六 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:10:35 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ₭np |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:10:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242457160163 |
+| Players | 1/5 |
+| Host Name | Абхазская вафля |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 1, 2024 18:10:37 |
 
 
