@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549751411511 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Radical Highway |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:51:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549746595907 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Irif |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:45:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549749693120 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Shogoth |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:49:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549751310331 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | organik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:50:53 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549751915223 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | GAAAAAAAAAAAAAAAAAA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:51:35 |
@@ -122,25 +122,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549751952547 |
-| Players | 1/10 |
-| Host Name | dog spirit |
+| Players | 5/10 |
+| Host Name | MyKnock |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:51:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549751970417 |
-| Players | 3/8 |
-| Host Name | Bapef |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 03:51:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549750320971 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | skies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 03:49:44 |
