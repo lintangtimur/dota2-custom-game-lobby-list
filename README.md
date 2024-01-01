@@ -20,40 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 1, 2024 18:50:42 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28589242494185344 |
+| Players | 2/10 |
+| Host Name | xXILDARONXx |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:52:53 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28589242492628608 |
-| Players | 3/8 |
-| Host Name | цирк дю солей |
+| Lobby ID | 28589242494312510 |
+| Players | 1/8 |
+| Host Name | jizn za nerzula |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:51:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28589242493822333 |
-| Players | 11/15 |
-| Host Name | кебаб |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 1, 2024 18:52:28 |
+| Lobby Creation Time | Monday, January 1, 2024 18:53:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28589242493851187 |
-| Players | 2/10 |
+| Lobby ID | 28589242494162271 |
+| Players | 4/10 |
 | Host Name | go next |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 1, 2024 18:52:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28589242493976285 |
-| Players | 1/10 |
-| Host Name | ジャワトビトカゲ |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 1, 2024 18:52:38 |
+| Lobby Creation Time | Monday, January 1, 2024 18:52:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bambam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 1, 2024 18:48:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28589242494302278 |
+| Players | 1/5 |
+| Host Name | БРАТ? |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 1, 2024 18:53:00 |
 
 
