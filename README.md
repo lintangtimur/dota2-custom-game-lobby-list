@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549838671132 |
-| Players | 6/8 |
-| Host Name | I HATE SNICKERS |
+| Lobby ID | 28590549838938834 |
+| Players | 5/10 |
+| Host Name | ｐａｌａｄｉｎ ヲョー |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:42:18 |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:42:41 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549837619505 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Cerdo Comunista |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:40:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549838578674 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Harvey Spectre |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:42:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549838749637 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | MIGS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:42:25 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549838956477 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | CHVK solnechko |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 05:42:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549838938834 |
-| Players | 3/10 |
-| Host Name | ｐａｌａｄｉｎ ヲョー |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 05:42:41 |
+| Lobby ID | 28590549839219243 |
+| Players | 1/8 |
+| Host Name | justyqw |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 05:43:05 |
 
 
 |  | epic_boss_fight_nightmare |
