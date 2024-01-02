@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704336851214 |
+| Lobby ID | 28591704337323165 |
 | Players | 7/10 |
-| Host Name | s7mbol- |
+| Host Name | Deo_Master708 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:26:18 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:26:45 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704332911793 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:22:36 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704334234518 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Canebo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:23:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704333347641 |
-| Players | 23/24 |
-| Host Name | Instantaneous Death//OT3.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:23:00 |
+| Lobby ID | 28591704336852446 |
+| Players | 4/8 |
+| Host Name | frasherzxc`10 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:26:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704336961551 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | duwawin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:26:24 |
@@ -85,29 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704336977210 |
-| Players | 1/8 |
-| Host Name | ABRIL |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:26:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704336847214 |
-| Players | 2/10 |
-| Host Name | [<AMBI>]  polpo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:26:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704336852446 |
-| Players | 3/8 |
-| Host Name | frasherzxc`10 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:26:18 |
+| Lobby ID | 28591704337421747 |
+| Players | 2/8 |
+| Host Name | ShaDy |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:26:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:26:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704336146447 |
-| Players | 9/10 |
-| Host Name | goshiu |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:25:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704334115954 |
-| Players | 8/10 |
-| Host Name | おぜん ドルビーマイア |
+| Lobby ID | 28591704337417220 |
+| Players | 3/8 |
+| Host Name | Дмитрий Уткин |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:23:43 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:26:50 |
 
 
 |  | epic_boss_fight_normal |
