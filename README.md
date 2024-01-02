@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550044662366 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Jaj0Spaj0 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:55:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550048032981 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:01:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550047628849 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Наруто Банкай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:01:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550047975104 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | TypicalTN |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:01:48 |
