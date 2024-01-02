@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550082971205 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Robert Lewangoalski |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:08:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550084554306 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Челемякер |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:11:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550084558059 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | kisper |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:11:35 |
