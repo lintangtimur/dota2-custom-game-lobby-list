@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550168323550 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ЇЇ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:36:18 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550168704806 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Sir Mahmud |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:36:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550168798135 |
-| Players | 6/10 |
-| Host Name | Dark Magician of Chaos |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:37:02 |
+| Lobby ID | 28590550168950131 |
+| Players | 1/15 |
+| Host Name | Tpipap |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:37:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550162326279 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Kapitan Tutan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:26:58 |
