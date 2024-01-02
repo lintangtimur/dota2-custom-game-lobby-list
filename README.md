@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550276614230 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Tekr0 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:06:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550277094384 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | дед ещё могёт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:06:42 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gerich |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:06:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550277467430 |
+| Players | 4/8 |
+| Host Name | Co2 - углекислый га |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:07:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550277487351 |
+| Players | 2/15 |
+| Host Name | слепой окулист |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:07:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SUP IS MY LIFE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:04:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550277462423 |
+| Players | 1/5 |
+| Host Name | Кукурузная крупа |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:07:08 |
 
 
