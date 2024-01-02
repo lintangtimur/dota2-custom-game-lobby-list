@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550129738574 |
-| Players | 13/15 |
-| Host Name | twitch.tv/lvsques 🏳️‍🌈 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:32:57 |
+| Lobby ID | 28590550130413957 |
+| Players | 2/10 |
+| Host Name | чупакабра |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:34:06 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550129043291 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:31:46 |
@@ -32,19 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550126171848 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:26:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550130413957 |
-| Players | 1/10 |
-| Host Name | чупакабра |
+| Lobby ID | 28590550130594476 |
+| Players | 2/8 |
+| Host Name | Gachremun |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:34:06 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:34:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550130596239 |
+| Players | 2/8 |
+| Host Name | 4 burros y conmigo 5 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:34:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -56,21 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:30:11 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590550130436707 |
-| Players | 1/7 |
-| Host Name | 虚 妄 涤 焰 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:34:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550130484643 |
-| Players | 1/5 |
+| Lobby ID | 28590550130528758 |
+| Players | 1/10 |
 | Host Name | 123 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:34:14 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:34:18 |
 
 
