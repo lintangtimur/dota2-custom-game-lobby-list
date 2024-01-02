@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550004562945 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | A. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:37:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550004261399 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | D-MF |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:37:09 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:38:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550001100323 |
-| Players | 22/24 |
-| Host Name | Nekotactical |
+| Lobby ID | 28590550003567722 |
+| Players | 5/8 |
+| Host Name | Hades |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:31:04 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:35:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:38:57 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550003567722 |
-| Players | 7/8 |
-| Host Name | Hades |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:35:49 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550003480228 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:35:38 |
