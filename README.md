@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550143103098 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:55:35 |
@@ -29,37 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:57:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550142607947 |
-| Players | 6/8 |
-| Host Name | amaster |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:54:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550144891652 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | xdsick666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:58:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550144479132 |
-| Players | 14/15 |
-| Host Name | фанат Сенджумары |
+| Lobby ID | 28590550145278248 |
+| Players | 1/24 |
+| Host Name | Котя |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:57:56 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:59:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550142127051 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | snzrb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:53:52 |
