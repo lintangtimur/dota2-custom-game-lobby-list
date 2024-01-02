@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704253730411 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Wmelyga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:13:33 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704251298227 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:11:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704252134725 |
-| Players | 7/8 |
-| Host Name | Человек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:12:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704253421453 |
-| Players | 3/8 |
-| Host Name | AlastoZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:13:17 |
 
 
 |  | ot3_gardens_duo |
@@ -110,22 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:13:20 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704253421453 |
+| Players | 3/8 |
+| Host Name | AlastoZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:13:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704254301924 |
+| Players | 2/8 |
+| Host Name | try to friend812 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:14:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704253927569 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:13:42 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28591704253549442 |
-| Players | 7/7 |
-| Host Name | Gustav Elijah Åhr11 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:13:24 |
 
 
 |  | epic_boss_fight_nightmare |
