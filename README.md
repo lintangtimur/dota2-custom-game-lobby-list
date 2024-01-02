@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:45:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549977392802 |
-| Players | 7/8 |
-| Host Name | ......25............ |
+| Lobby ID | 28590549976800925 |
+| Players | 3/24 |
+| Host Name | Rize - 気 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:45:03 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:43:54 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549975885083 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:42:08 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Krypton |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:45:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549976800925 |
-| Players | 2/24 |
-| Host Name | Rize - 気 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:43:54 |
 
 
