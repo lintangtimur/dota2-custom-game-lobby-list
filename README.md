@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550077926743 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Amaru |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:59:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550079454781 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Tokyou |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:02:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550078833519 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | D'Boyd |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:00:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550079187758 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Жопник глиномес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:01:31 |
