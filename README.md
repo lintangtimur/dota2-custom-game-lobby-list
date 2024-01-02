@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550056538242 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:18:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550056761982 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | El bancho |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:18:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550056416809 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | safas o te avanzo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:17:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550057318684 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Finn the Human |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:19:39 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sweet Ass |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550054998791 |
-| Players | 4/5 |
-| Host Name | WFT[ZD]!? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:15:13 |
 
 
