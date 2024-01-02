@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549913294100 |
-| Players | 2/8 |
-| Host Name | 𝕱𝕽𝖆𝕹𝖃𝖃 |
+| Lobby ID | 28590549913472182 |
+| Players | 2/15 |
+| Host Name | 完全 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:43:30 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:43:50 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549910915553 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Poptaco |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:39:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549913026040 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Kratos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:43:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549912741473 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Nite |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:42:30 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549913197203 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Легенда Приюта |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:43:20 |
@@ -119,13 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:43:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549913472182 |
-| Players | 2/15 |
-| Host Name | Russia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:43:50 |
+| Lobby ID | 28590549913601890 |
+| Players | 2/10 |
+| Host Name | prime |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:44:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549910762781 |
+| Players | 23/24 |
+| Host Name | gfreek |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:38:56 |
 
 
 |  | epic_boss_fight_normal |
