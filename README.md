@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550204056414 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ПиВнОй БОМЖ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:30:17 |
@@ -32,27 +32,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550202444401 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Мятный коктейль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:27:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550203699800 |
-| Players | 8/10 |
-| Host Name | K!SS QWE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:29:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550204446623 |
-| Players | 1/15 |
-| Host Name | DDDp |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:30:51 |
 
 
