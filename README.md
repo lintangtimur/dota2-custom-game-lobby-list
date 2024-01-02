@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550223768220 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | KomtingKons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:58:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550214298590 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | MHA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:44:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550224625961 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | - |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:59:38 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:59:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550225115007 |
-| Players | 1/15 |
-| Host Name | 这游戏到底谁在赢 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:00:19 |
+| Lobby ID | 28590550225189445 |
+| Players | 2/10 |
+| Host Name | BasЯ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:00:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Frieren <3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:58:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550225008380 |
-| Players | 2/5 |
-| Host Name | dotason1412 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:00:11 |
 
 
