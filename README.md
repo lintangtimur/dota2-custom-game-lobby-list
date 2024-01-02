@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549890239196 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Jesse Pinkman |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:02:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549882640336 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Nikitus228 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:49:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549888074718 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:59:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549888632742 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Miking |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:00:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549890406569 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Hellsing |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:03:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549889510784 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | AdmiralAids Dog and his Aimils |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:01:30 |
@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549890530188 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | remonshouga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:03:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549890587790 |
+| Players | 1/15 |
+| Host Name | edit profile |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:03:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549890640798 |
+| Players | 3/10 |
+| Host Name | УткаЧерныйПлащ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:03:23 |
 
 
 |  | epic_boss_fight_nightmare |
