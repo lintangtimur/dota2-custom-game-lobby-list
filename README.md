@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704199816242 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Reiz |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:29:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704210594514 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | AMOS SLADE |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:37:53 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704218344129 |
-| Players | 7/8 |
-| Host Name | FANTAzeR |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:44:21 |
+| Lobby ID | 28591704220337134 |
+| Players | 3/8 |
+| Host Name | one day or day one? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:46:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704219450900 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | AHAHAHHAHAHAHAHHAHAHAHAHAHHAHAHA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:45:17 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704219192064 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:45:04 |
@@ -128,31 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:45:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704220176528 |
-| Players | 6/15 |
-| Host Name | G1uc0se |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:45:54 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704211947033 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Batis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:38:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704217861223 |
-| Players | 4/5 |
-| Host Name | Agui |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:43:56 |
 
 
 |  | epic_boss_fight_hard |
