@@ -23,37 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550059064777 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Sign the Contract Big Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:22:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550057318684 |
-| Players | 23/24 |
-| Host Name | ♧<CU>TenFe |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:19:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550059378049 |
-| Players | 5/15 |
-| Host Name | виталя суперсекс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:23:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550059029999 |
-| Players | 7/10 |
-| Host Name | KsarDaks |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:22:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:21:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550059378049 |
+| Players | 6/15 |
+| Host Name | виталя суперсекс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:23:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550059029999 |
+| Players | 9/10 |
+| Host Name | KsarDaks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:22:55 |
 
 
 |  | epic_boss_fight_nightmare |
