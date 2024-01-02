@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550075171556 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:48 |
@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550076431353 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Scrayl |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:56:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550073019534 |
-| Players | 1/8 |
-| Host Name | MarcoSL |115 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:49:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550077167795 |
-| Players | 1/8 |
-| Host Name | LIMBO4KA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:57:44 |
 
 
 |  | ot3_desert_octet |
@@ -63,6 +45,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ☭PolpotTrotskyXiǎopíngDantes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:56:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550077167795 |
+| Players | 2/8 |
+| Host Name | LIMBO4KA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:57:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550077453558 |
+| Players | 1/15 |
+| Host Name | PossibleGhostface |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:58:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550077495680 |
+| Players | 1/15 |
+| Host Name | Paulo Londrui |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:58:21 |
 
 
 |  | epic_boss_fight_nightmare |
