@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550344411112 |
-| Players | 2/8 |
-| Host Name | бобёр |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:17:32 |
+| Lobby ID | 28590550345214077 |
+| Players | 1/8 |
+| Host Name | Leslie Nielsen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:18:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550341962650 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:15:11 |
@@ -74,33 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:17:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550344311655 |
-| Players | 13/15 |
-| Host Name | IT. Gurar1- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:17:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550344650422 |
-| Players | 9/10 |
-| Host Name | sub-zero без маски |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:17:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550345214077 |
-| Players | 2/8 |
-| Host Name | Sko_ot |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:18:18 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550345209937 |
@@ -110,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:18:18 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550345661364 |
+| Players | 5/8 |
+| Host Name | бобёр |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:18:43 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550341850395 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | CARBOON banditcamp.com |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:15:04 |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550342843748 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 10K Behavior Score |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:16:02 |
