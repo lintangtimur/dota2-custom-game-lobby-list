@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549931540521 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:17:20 |
@@ -92,6 +92,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:20:58 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549933673412 |
+| Players | 1/15 |
+| Host Name | CACHETON |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:21:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549933711591 |
+| Players | 1/15 |
+| Host Name | 神笔马良 |
+| Region | Unknown |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:21:21 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549932213877 |
@@ -99,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OZAI |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:18:35 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549932194122 |
-| Players | 3/5 |
-| Host Name | вебкаменщик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:18:33 |
 
 
 |  | epic_boss_fight_nightmare |
