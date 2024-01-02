@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549896407501 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | 【༺𒋲ˡᵉᵍᵉᶰᵈ༻ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:13:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549896258394 |
-| Players | 8/10 |
-| Host Name | MEEEeeep |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:13:01 |
+| Lobby ID | 28590549896946746 |
+| Players | 3/8 |
+| Host Name | rico |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:14:12 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549896762500 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 𝕱𝕽𝖆𝕹𝖃𝖃 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:13:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549893761182 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:08:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549896742219 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Eva Green |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:13:50 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549896898597 |
-| Players | 1/15 |
-| Host Name | MAMANI SUPREMO MATA KKS |
+| Lobby ID | 28590549896927715 |
+| Players | 2/15 |
+| Host Name | Sicario-Ursz |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:14:07 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:14:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549897022956 |
+| Players | 4/8 |
+| Host Name | little fellas of reggae |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:14:20 |
 
 
 |  | epic_boss_fight_nightmare |
