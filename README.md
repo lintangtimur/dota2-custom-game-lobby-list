@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704480115908 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Crrano.Goat |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:49:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704478776127 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | AHeahFullOfDreams- |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:47:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704479818352 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | bountuk motors |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:48:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704476672702 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:45:31 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:41:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704479161449 |
-| Players | 3/10 |
-| Host Name | sad--)) |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:48:10 |
+| Lobby ID | 28591704480471848 |
+| Players | 2/8 |
+| Host Name | psix |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:49:32 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704480318586 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Орущая Чайка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:49:22 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:48:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704478753273 |
-| Players | 1/8 |
-| Host Name | ︻デ 一 ☭ sniper |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:47:44 |
+| Lobby ID | 28591704480317532 |
+| Players | 1/10 |
+| Host Name | Кудесник |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:49:22 |
 
 
 |  | ot3_desert_octet |
@@ -146,13 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:49:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704480340674 |
-| Players | 4/8 |
-| Host Name | GFish |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:49:24 |
+| Lobby ID | 28591704480361312 |
+| Players | 1/24 |
+| Host Name | CUANPROTPROT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:49:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -166,20 +166,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704480317532 |
-| Players | 1/10 |
-| Host Name | Кудесник |
+| Lobby ID | 28591704480508681 |
+| Players | 3/10 |
+| Host Name | Vimeson |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:49:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704480364043 |
-| Players | 3/8 |
-| Host Name | アート1x |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:49:25 |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:49:34 |
 
 
 |  | epic_boss_fight_normal |
@@ -212,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704478049702 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | hendra2lm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:46:59 |
