@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550282564003 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:13:01 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550270773794 |
-| Players | 2/15 |
-| Host Name | msun_ |
+| Players | 1/15 |
+| Host Name | Bandolero |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:59:18 |
 
@@ -41,46 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550285074193 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Sunflower |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:15:52 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550287416157 |
-| Players | 4/8 |
-| Host Name | senkach |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:18:32 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550287781397 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | NY6 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:18:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550287783735 |
-| Players | 1/8 |
-| Host Name | мижжи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:18:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550288088889 |
-| Players | 6/8 |
-| Host Name | Альберт Алебарда |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:19:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:15:47 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550288050130 |
-| Players | 1/5 |
-| Host Name | clglOgck |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:19:15 |
 
 
