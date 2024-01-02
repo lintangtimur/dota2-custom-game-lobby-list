@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549979564022 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Astral E678 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:49:13 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549983678049 |
-| Players | 4/15 |
-| Host Name | Philoclauphy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:57:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549983653727 |
-| Players | 4/15 |
-| Host Name | Янесса Спермовна |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:57:12 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549981955540 |
@@ -72,6 +54,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Teregue |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:53:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549983653727 |
+| Players | 5/15 |
+| Host Name | Янесса Спермовна |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:57:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549984172514 |
+| Players | 2/24 |
+| Host Name | Amado |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:58:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549983048771 |
+| Players | 14/15 |
+| Host Name | ненавижу доту |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:56:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549984221171 |
+| Players | 2/8 |
+| Host Name | Славян циркулярный пенис |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:58:16 |
 
 
 |  | epic_boss_fight_nightmare |
