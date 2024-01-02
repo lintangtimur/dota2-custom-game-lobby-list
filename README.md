@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549957149669 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | the great longin |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:06:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549956465936 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Bulach4 |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:04:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549957596213 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | foxing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:07:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549958074171 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | DANTE SPARTA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:08:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549958080314 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Owl Him |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:08:02 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549957851455 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Jason Statham |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:07:36 |
