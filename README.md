@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704297840629 |
-| Players | 23/24 |
-| Host Name | . |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:51:10 |
+| Lobby ID | 28591704301261293 |
+| Players | 2/10 |
+| Host Name | КРАСНЕЕ ЧЕМ МЕНТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:54:09 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704298143720 |
-| Players | 6/8 |
+| Players | 8/8 |
 | Host Name | Night.T.Gamuxs |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:51:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704294357445 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | arhikent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:48:08 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704300941287 |
-| Players | 5/8 |
-| Host Name | Дмитрий Уткин |
+| Players | 2/8 |
+| Host Name | yuuichi katagiri |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:53:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704300293424 |
-| Players | 14/15 |
-| Host Name | HOKAGE |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:53:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704300508921 |
-| Players | 3/8 |
-| Host Name | |||||||||||| |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:53:30 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +65,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:53:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704300508921 |
+| Players | 4/8 |
+| Host Name | |||||||||||| |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:53:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704301257315 |
+| Players | 2/15 |
+| Host Name | = |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:54:09 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704301167395 |
-| Players | 1/10 |
-| Host Name | russkaсhurka2006 |
+| Lobby ID | 28591704301257969 |
+| Players | 2/10 |
+| Host Name | S@MY_BOY |
 | Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:54:05 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:54:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704301419711 |
+| Players | 1/8 |
+| Host Name | Tiny |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:54:18 |
 
 
 |  | epic_boss_fight_nightmare |
