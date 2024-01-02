@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550032479732 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | YaMa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:31:52 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550032139487 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | VolTaGe |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:31:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550032530357 |
-| Players | 5/8 |
-| Host Name | Philoclauphy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:31:58 |
+| Lobby ID | 28590550032579862 |
+| Players | 3/10 |
+| Host Name | Soodeira |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:32:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,20 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550032579862 |
+| Lobby ID | 28590550032659923 |
 | Players | 1/10 |
-| Host Name | Soodeira |
+| Host Name | La parquita |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:32:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550030816269 |
-| Players | 15/15 |
-| Host Name | حمو بيكا |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:28:41 |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:32:13 |
 
 
 |  | epic_boss_fight_nightmare |
