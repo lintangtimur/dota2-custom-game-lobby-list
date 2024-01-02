@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550060283789 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | HUAYNA CAPAC |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:25:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550059378049 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | виталя суперсекс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:23:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550059831477 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Elsindroan |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:24:29 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TAP |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:25:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550060983762 |
+| Players | 1/15 |
+| Host Name | North |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:26:49 |
 
 
 |  | epic_boss_fight_nightmare |
