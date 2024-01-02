@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550200439559 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | 1 v 23（°𓂍° ） |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:24:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550198416984 |
-| Players | 1/24 |
-| Host Name | nick |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:21:54 |
+| Lobby ID | 28590550200615333 |
+| Players | 1/8 |
+| Host Name | pisces |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:25:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550198824532 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:22:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550200048558 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | Эскапизм Души |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:24:19 |
@@ -47,30 +47,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:26:04 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550200588420 |
-| Players | 9/10 |
-| Host Name | Ghost Grave |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:25:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550200615333 |
-| Players | 1/8 |
-| Host Name | pisces |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:25:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550201256660 |
-| Players | 3/15 |
-| Host Name | СБУ |
+| Players | 8/15 |
+| Host Name | ДА, СПАСИБО |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:26:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550201659225 |
+| Players | 2/10 |
+| Host Name | bounty master |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:26:48 |
 
 
