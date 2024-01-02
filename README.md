@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550055444605 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | DO NOT DISTURB!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:16:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550053840971 |
-| Players | 21/24 |
-| Host Name | Tiger |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:13:01 |
+| Lobby ID | 28590550055616325 |
+| Players | 1/10 |
+| Host Name | safas o te avanzo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:16:24 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550042786362 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Sweet Ass |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:44 |
