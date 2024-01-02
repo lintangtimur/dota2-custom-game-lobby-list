@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549943701196 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | BGhost |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:40:25 |
@@ -38,12 +38,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:31:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549944559291 |
-| Players | 6/8 |
-| Host Name | Mister Solidaridad |
-| Region | PERU |
+| Lobby ID | 28590549944554473 |
+| Players | 2/10 |
+| Host Name | MEEEeeep |
+| Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:42:03 |
 
 
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549944302062 |
-| Players | 1/8 |
-| Host Name | Frontier |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:41:34 |
+| Lobby ID | 28590549944625777 |
+| Players | 2/8 |
+| Host Name | Ja, Genau |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:42:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549943780526 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Scrappycoco |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:40:34 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549944071281 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | mode=giga |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:41:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549944554473 |
-| Players | 2/10 |
-| Host Name | MEEEeeep |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:42:03 |
+| Lobby ID | 28590549944669805 |
+| Players | 1/8 |
+| Host Name | 集中一点登峰造极 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:42:16 |
 
 
 |  | epic_boss_fight_nightmare |
