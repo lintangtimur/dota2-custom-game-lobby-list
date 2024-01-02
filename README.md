@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704414897532 |
-| Players | 6/8 |
-| Host Name | ¿? |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:41:50 |
+| Lobby ID | 28591704417889476 |
+| Players | 8/10 |
+| Host Name | heurtay |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:44:49 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704410397693 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | who knows |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:37:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704413427231 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Wabalabadubdub |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:40:21 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:39:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704410639994 |
-| Players | 1/8 |
-| Host Name | Chronal |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:37:34 |
+| Lobby ID | 28591704417232314 |
+| Players | 1/24 |
+| Host Name | WaffleMaker |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:44:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704412569007 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | PAch1 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:39:30 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704416921735 |
-| Players | 3/24 |
+| Players | 10/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:43:51 |
@@ -112,29 +112,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704417101502 |
+| Lobby ID | 28591704417863029 |
 | Players | 1/8 |
-| Host Name | buttcancer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:44:02 |
+| Host Name | Ku (1 or 3) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:44:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704417242421 |
-| Players | 7/15 |
-| Host Name | Ramson |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:44:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704417232314 |
-| Players | 1/24 |
-| Host Name | WaffleMaker |
+| Lobby ID | 28591704417645720 |
+| Players | 14/15 |
+| Host Name | pro dotka player |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:44:10 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:44:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704417687814 |
+| Players | 4/8 |
+| Host Name | кулебяка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:44:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704417732757 |
+| Players | 1/15 |
+| Host Name | Yves Saint Laurent |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:44:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704417839812 |
+| Players | 1/8 |
+| Host Name | Aomine daiki |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:44:46 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704416863206 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | tsukiyomi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:43:47 |
