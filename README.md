@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550075171556 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550076431353 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | PENETON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:56:18 |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DONT KILL ME |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:58:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550077167795 |
-| Players | 3/8 |
-| Host Name | LIMBO4KA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:57:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550075160006 |
-| Players | 23/24 |
-| Host Name | Ghz |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:53:46 |
 
 
 |  | ot3_gardens_duo |
@@ -81,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:59:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550078479443 |
+| Players | 4/8 |
+| Host Name | Mis trencitas |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:00:12 |
 
 
 |  | epic_boss_fight_nightmare |
