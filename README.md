@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550213015784 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ЧВК Рыган |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:43:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550212477942 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | creep enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:42:24 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DEAHT |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:41:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550213167630 |
-| Players | 5/10 |
-| Host Name | ضصثقفغع شسيبلا |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:43:22 |
 
 
 |  | epic_boss_fight_nightmare |
