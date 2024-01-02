@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550103411666 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | NA BEREG? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550104573762 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Soulwarrior |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:48:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550105752096 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | SmolEye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:50:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550106927505 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | пикаю аппарата |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:45 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28590550106851991 |
 | Players | 3/10 |
-| Host Name | UwU |
+| Host Name | Ես Հայ Եմ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:37 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550107415180 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:53:38 |
