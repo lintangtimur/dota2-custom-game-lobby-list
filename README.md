@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550068605191 |
-| Players | 9/10 |
-| Host Name | safas o te avanzo |
+| Lobby ID | 28590550069178164 |
+| Players | 4/24 |
+| Host Name | JamesWebb |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:41:16 |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:42:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550068921195 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | шмепте |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:41:53 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:42:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550069386368 |
-| Players | 5/8 |
-| Host Name | ໔ৡ♡♡ЖуЛиК ♡♡ৡ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:42:47 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550064036435 |
@@ -74,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:32:38 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550069178164 |
-| Players | 3/24 |
-| Host Name | JamesWebb |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:42:23 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550069444620 |
+| Lobby ID | 28590550069528139 |
 | Players | 2/15 |
 | Host Name | FeedingFarmzy |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:42:53 |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:43:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WFT[ZD]!? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:39:30 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550068646730 |
-| Players | 1/5 |
-| Host Name | XxS4R37HxX |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:41:21 |
 
 
