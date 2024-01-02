@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550062555348 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | **Lucía** |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:29:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550064036435 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Lon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:32:38 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sojj |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:32:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550063097331 |
-| Players | 3/8 |
-| Host Name | Richi Rage |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:30:51 |
 
 
 |  | ot3_gardens_duo |
