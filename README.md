@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550101462495 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:42:50 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:44:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550099510102 |
-| Players | 21/24 |
-| Host Name | 青衣 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:39:17 |
+| Lobby ID | 28590550102191393 |
+| Players | 5/10 |
+| Host Name | Munooke |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:44:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550100428595 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:40:57 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥Chloe♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:44:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550102191393 |
-| Players | 5/10 |
-| Host Name | Munooke |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:44:09 |
 
 
 |  | epic_boss_fight_nightmare |
