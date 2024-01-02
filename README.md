@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704327102658 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Keruga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:17:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704327544996 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | BANANANAL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:17:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704323311472 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | K |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:13:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704326869108 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | DUQUE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:17:06 |
@@ -77,28 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704327758493 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | уголовник |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:17:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704327759183 |
-| Players | 1/10 |
-| Host Name | nosoutros |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:17:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704327783786 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | взрываю гашиш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:17:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704313441952 |
+| Players | 23/24 |
+| Host Name | affetmez07 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:04:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704327860311 |
+| Players | 5/10 |
+| Host Name | Virgin Killer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:18:00 |
 
 
 |  | epic_boss_fight_nightmare |
