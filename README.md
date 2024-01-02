@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550344806837 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:17:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704143576961 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Kalabaka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:38:21 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:36:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704144248143 |
-| Players | 1/8 |
-| Host Name | Gadot |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:39:02 |
+| Lobby ID | 28591704143042457 |
+| Players | 9/10 |
+| Host Name | thousand cxrsed enemies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:37:52 |
 
 
 |  | ot3_gardens_duo |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Турбо |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:37:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704143042457 |
-| Players | 8/10 |
-| Host Name | thousand cxrsed enemies |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:37:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704142240442 |
-| Players | 14/15 |
-| Host Name | Jake |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:37:04 |
 
 
 |  | epic_boss_fight_nightmare |
