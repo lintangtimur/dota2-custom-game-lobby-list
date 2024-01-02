@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549888487736 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:59:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549888632742 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Miking |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:00:01 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:01:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549888634772 |
-| Players | 23/24 |
-| Host Name | :D |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:00:02 |
+| Lobby ID | 28590549889697074 |
+| Players | 4/10 |
+| Host Name | мужик.... я тебя ур |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:01:49 |
 
 
 |  | ot3_gardens_duo |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:01:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549889652954 |
-| Players | 4/10 |
-| Host Name | Verfickt |
+| Lobby ID | 28590549889728944 |
+| Players | 2/8 |
+| Host Name | bottle |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:01:44 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:01:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -122,28 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549889644259 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | moonfine |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:01:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549889697074 |
-| Players | 6/10 |
-| Host Name | твой дед |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:01:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549889728944 |
-| Players | 1/8 |
-| Host Name | bottle |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:01:52 |
 
 
 |  | epic_boss_fight_nightmare |
