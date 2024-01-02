@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:03:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549988820890 |
-| Players | 12/15 |
-| Host Name | Chaban |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:07:03 |
+| Lobby ID | 28590549989288723 |
+| Players | 2/8 |
+| Host Name | K.D. |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:07:56 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549986473683 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | PJ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:34 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549988049347 |
-| Players | 2/8 |
-| Host Name | yanmeth |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:05:35 |
+| Lobby ID | 28590549989252271 |
+| Players | 5/8 |
+| Host Name | LOBOSAURIO.. |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:07:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549989086336 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ▼▲ZÆX▲▼ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:07:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549988619082 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | carreadasos ps llamas |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:06:40 |
