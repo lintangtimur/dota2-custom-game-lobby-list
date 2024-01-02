@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550157806373 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Shazam Hussein |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:19:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550156632196 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Meowlinツ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:17:45 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550158679311 |
+| Lobby ID | 28590550158725221 |
 | Players | 1/8 |
 | Host Name | MSI |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:21:01 |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:21:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550158716352 |
+| Players | 1/8 |
+| Host Name | Повелитель какаш |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:21:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | а) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:20:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550158787990 |
+| Players | 1/5 |
+| Host Name | JeT 4 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:21:11 |
 
 
