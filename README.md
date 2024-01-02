@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704273601956 |
-| Players | 12/15 |
+| Players | 8/15 |
 | Host Name | Darnque |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:30:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704263082684 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 照屋光男 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:21:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704267626046 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ✬✬✬Leon Scott Kennedy |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:25:09 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704269867443 |
-| Players | 1/8 |
-| Host Name | EnTinAri_ |
+| Lobby ID | 28591704274427004 |
+| Players | 2/8 |
+| Host Name | Corp edit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:27:06 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:30:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,40 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:29:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704274249437 |
-| Players | 7/8 |
-| Host Name | Fe"Nik"s |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:30:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704274197530 |
-| Players | 9/24 |
-| Host Name | lil nigga |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:30:44 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704274290822 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | ДАНИЛА ЗИГАМЕТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:30:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704274427004 |
-| Players | 2/8 |
-| Host Name | Corp edit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:30:56 |
+| Lobby ID | 28591704274197530 |
+| Players | 12/24 |
+| Host Name | lil nigga |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:30:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704274936951 |
+| Players | 1/24 |
+| Host Name | .。 七蛋蛋呀˙°◌ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:31:22 |
 
 
 |  | epic_boss_fight_hard |
