@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704386881645 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | ₆⁶₆ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:13:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704387614837 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | maria.alexandra |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:14:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704388919418 |
-| Players | 7/10 |
+| Players | 3/10 |
 | Host Name | Ban4i_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:15:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704388283104 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SACSA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:15:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704388525962 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | NotComba |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:15:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704388802311 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | PAIN |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:15:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704387556877 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Nouser |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:14:37 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704388075334 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Хан 7000 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:15:07 |
@@ -128,22 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:15:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704389041776 |
-| Players | 6/10 |
-| Host Name | РИВ ГОШ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:16:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704389090978 |
-| Players | 1/15 |
-| Host Name | RefL3x |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:16:07 |
+| Lobby ID | 28591704389221095 |
+| Players | 6/8 |
+| Host Name | Навэльный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:16:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -153,24 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | langir |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:16:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704389118245 |
-| Players | 5/8 |
-| Host Name | DeMleX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:16:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704389114192 |
-| Players | 1/8 |
-| Host Name | que abuso on |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:16:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -198,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Маги-людоеды |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:15:52 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28591704388958989 |
-| Players | 1/7 |
-| Host Name | Dixi. |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:15:59 |
 
 
