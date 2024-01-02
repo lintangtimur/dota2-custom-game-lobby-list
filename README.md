@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704183369370 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:14:59 |
@@ -74,13 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:18:21 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704187056186 |
+| Players | 1/15 |
+| Host Name | likeable (T_T) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:18:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704187408143 |
+| Players | 6/15 |
+| Host Name | , |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:18:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704186067765 |
+| Players | 9/10 |
+| Host Name | панк777 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:17:18 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704187324797 |
-| Players | 3/8 |
-| Host Name | GGWP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:18:22 |
+| Lobby ID | 28591704187555464 |
+| Players | 1/8 |
+| Host Name | Morgan_e+vegen-lion |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:18:34 |
 
 
 |  | epic_boss_fight_hard |
@@ -110,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:17:56 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28591704187297009 |
-| Players | 1/5 |
-| Host Name | Druuubs |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:18:21 |
+| Lobby ID | 28591704187348584 |
+| Players | 1/7 |
+| Host Name | Escamaeta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:18:23 |
 
 
