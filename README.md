@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549947869474 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:48:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549948635497 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Reddy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:49:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549948703721 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | v potoke | deko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:50:01 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Suma1L- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:50:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549948376199 |
-| Players | 1/10 |
-| Host Name | WANDOT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:49:23 |
 
 
