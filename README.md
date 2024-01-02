@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550103411666 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | NA BEREG? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550107673748 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | （=゜エ゜=）Bye |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:54:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550106959597 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ƒuke |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:48 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550103818459 |
-| Players | 2/8 |
-| Host Name | Bóbr Kurwa ja pierdole |
+| Players | 1/8 |
+| Host Name | SiNsUi <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:47:09 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550108248622 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | BASHNASH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:55:13 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550107415180 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:53:38 |
