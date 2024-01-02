@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550056517528 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Nenonix Z |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:18:06 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550055216103 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | HaileN- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:15:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550052324247 |
-| Players | 19/24 |
-| Host Name | that"s your name? |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:10:06 |
+| Lobby ID | 28590550056416809 |
+| Players | 2/10 |
+| Host Name | safas o te avanzo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:17:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550055938627 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Neferpitou |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:17:01 |
@@ -50,34 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550054297625 |
-| Players | 4/15 |
-| Host Name | hola Dios soy yo de nuevo |
+| Players | 1/15 |
+| Host Name | AntonGOD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:13:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550055190533 |
-| Players | 9/10 |
-| Host Name | Unlucky :) |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:15:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550056416809 |
-| Players | 1/10 |
-| Host Name | safas o te avanzo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:17:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550056538242 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:18:09 |
