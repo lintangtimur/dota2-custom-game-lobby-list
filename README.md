@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704409761233 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | [  Mnzno  ] |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:36:41 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704410969246 |
-| Players | 4/8 |
-| Host Name | самсунг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:37:54 |
+| Lobby ID | 28591704410825783 |
+| Players | 6/8 |
+| Host Name | ︻デM̷A̷K̷A̷ ̷P̷A̷K̷A |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:37:45 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704410215950 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Amado |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:37:08 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704410881643 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | ensa.berk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:37:48 |
@@ -128,48 +128,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:37:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704410639994 |
-| Players | 1/8 |
-| Host Name | Chronal |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:37:34 |
+| Lobby ID | 28591704411208585 |
+| Players | 6/15 |
+| Host Name | KAPAT3JIb |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:38:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704410825783 |
-| Players | 7/8 |
-| Host Name | ︻デM̷A̷K̷A̷ ̷P̷A̷K̷A |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:37:45 |
+| Lobby ID | 28591704411274415 |
+| Players | 5/8 |
+| Host Name | rizz destroyer |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:38:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704408658846 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | weg64 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:35:35 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704408526599 |
-| Players | 3/5 |
-| Host Name | пукнул 1488 раз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:35:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704411026386 |
-| Players | 1/5 |
-| Host Name | qdasdasdcxascas |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:37:57 |
 
 
