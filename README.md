@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550108951238 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | monay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:56:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550112615455 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | BeoWulf |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:03:03 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BlueDeimos |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:03:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550113446731 |
+| Players | 2/10 |
+| Host Name | OnlyGOD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:04:31 |
 
 
