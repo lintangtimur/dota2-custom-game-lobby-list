@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549981709861 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:53:20 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | not human (животное) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:53:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549981475420 |
+| Players | 9/10 |
+| Host Name | MR.DEAD |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:52:52 |
 
 
 |  | epic_boss_fight_nightmare |
