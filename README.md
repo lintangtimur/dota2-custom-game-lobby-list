@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:50:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550073142854 |
-| Players | 7/8 |
-| Host Name | GRUPO 7 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:49:57 |
+| Lobby ID | 28590550074116166 |
+| Players | 4/15 |
+| Host Name | BanNer7 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:51:48 |
 
 
 |  | ot3_gardens_duo |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550074116166 |
-| Players | 3/15 |
-| Host Name | BanNer7 |
+| Lobby ID | 28590550073498668 |
+| Players | 5/15 |
+| Host Name | СС НА КУХНЮ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:51:48 |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:50:39 |
 
 
 |  | epic_boss_fight_nightmare |
