@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549915545168 |
-| Players | 7/10 |
-| Host Name | 4D_Bruht |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:47:40 |
+| Lobby ID | 28590549915656706 |
+| Players | 7/8 |
+| Host Name | Stingray |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:47:52 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549914435031 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Geegee |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:45:37 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549915209520 |
-| Players | 9/10 |
-| Host Name | Jordi ENP |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:47:03 |
+| Lobby ID | 28590549916591335 |
+| Players | 4/10 |
+| Host Name | 天使の涙 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:49:35 |
 
 
 |  | ot3_gardens_duo |
@@ -144,32 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Xamaniacoo |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:48:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549915656706 |
-| Players | 7/8 |
-| Host Name | Stingray |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:47:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549916537783 |
-| Players | 4/10 |
-| Host Name | tv/nathmnq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:49:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549905684416 |
-| Players | 3/5 |
-| Host Name | Boris |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:29:51 |
 
 
