@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550074468655 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:52:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550073894995 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Nzo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:51:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550073288352 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Felip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:50:14 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:47:32 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550074989968 |
-| Players | 6/10 |
-| Host Name | •l「sam 」 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:53:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550075050374 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Lucumoma´´ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:34 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kagi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:50:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550075137933 |
+| Players | 1/5 |
+| Host Name | Sky |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:53:44 |
 
 
