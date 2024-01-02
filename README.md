@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:56:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704426810961 |
-| Players | 14/15 |
-| Host Name | DIVINO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:53:53 |
+| Lobby ID | 28591704429944335 |
+| Players | 1/8 |
+| Host Name | Elysium |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:57:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704428856871 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | tocosh |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:56:00 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704429204896 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | nerienfaire |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:56:22 |
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704429884911 |
-| Players | 3/15 |
-| Host Name | Infernarium |
+| Players | 12/15 |
+| Host Name | huhel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:57:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704430085912 |
+| Players | 4/8 |
+| Host Name | 『L๏LɨЌ』 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:57:17 |
 
 
 |  | epic_boss_fight_nightmare |
