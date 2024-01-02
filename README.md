@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704407994889 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | 加油吧 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:55 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:25:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704411498374 |
-| Players | 8/10 |
-| Host Name | ZeP_Pka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:38:26 |
+| Lobby ID | 28591704412048741 |
+| Players | 2/8 |
+| Host Name | Sidewinder |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:38:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704410397693 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | who knows |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:37:20 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:37:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704411891206 |
-| Players | 8/15 |
-| Host Name | Bronson |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:38:49 |
+| Lobby ID | 28591704412214060 |
+| Players | 1/24 |
+| Host Name | 那年冬天，我走丢了 |
+| Region | Unknown |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:39:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,48 +119,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:38:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704412048741 |
-| Players | 1/8 |
-| Host Name | Sidewinder |
+| Lobby ID | 28591704412190939 |
+| Players | 6/10 |
+| Host Name | zhekabar |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:38:59 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28591704411545083 |
-| Players | 2/7 |
-| Host Name | на героине |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:38:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704411730170 |
-| Players | 4/10 |
-| Host Name | BuduCapTere |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:38:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704411810884 |
-| Players | 1/5 |
-| Host Name | похуй мне |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:38:45 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:39:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704411856456 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | El Saxarito |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:38:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704411730170 |
+| Players | 5/10 |
+| Host Name | BuduCapTere |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:38:40 |
 
 
