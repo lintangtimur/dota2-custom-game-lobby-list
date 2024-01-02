@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550168336911 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | Emberfrost5 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:36:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550169254972 |
-| Players | 7/8 |
-| Host Name | dont talk to me |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:37:44 |
+| Lobby ID | 28590550169967400 |
+| Players | 2/15 |
+| Host Name | Allmutedm#1p(lmfdt)1vs9winalone |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:38:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550154296250 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:13:57 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:38:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550169967400 |
-| Players | 2/15 |
-| Host Name | Allmutedm#1p(lmfdt)1vs9winalone |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:38:51 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550166165579 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550151956882 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Mahatma Gandhi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:10:11 |
