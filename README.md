@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549990688449 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | мaиgø |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:10:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549990435953 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Becky Blackbell |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:10:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549990338221 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | nmmz |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:09:57 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549990440110 |
+| Lobby ID | 28590549990936422 |
 | Players | 1/15 |
-| Host Name | spirit |
+| Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:10:09 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:11:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,28 +83,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:10:47 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549990938243 |
+| Players | 1/15 |
+| Host Name | El cacha Mamás solteras |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:11:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549990952881 |
+| Players | 1/8 |
+| Host Name | Nikitosik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:11:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549990950327 |
+| Players | 1/8 |
+| Host Name | Йаcobs monarch |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:11:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549983079560 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Jurisprudencia |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:56:05 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549988147833 |
-| Players | 9/10 |
-| Host Name | ♫...Cheese |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:05:46 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549990850725 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | I will Lose Weight 17 Kg to Go |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:10:57 |
