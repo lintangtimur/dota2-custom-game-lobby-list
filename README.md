@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550111542104 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Лп как смысл жизн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:01:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550113545114 |
-| Players | 1/10 |
-| Host Name | トリックスター |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:04:41 |
 
 
 |  | epic_boss_fight_nightmare |
