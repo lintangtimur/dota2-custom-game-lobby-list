@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704505930589 |
+| Lobby ID | 28591704507282423 |
 | Players | 3/10 |
-| Host Name | я танцую на костях |
+| Host Name | биг сиси лайф |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:16:26 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:17:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704506419726 |
-| Players | 12/15 |
-| Host Name | Vanished |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:16:57 |
+| Lobby ID | 28591704505648041 |
+| Players | 4/24 |
+| Host Name | Irif |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:16:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704502647103 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Santy_vv |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:13:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704506882520 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 浮生幻梦 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:17:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704504504496 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Boring |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:14:57 |
@@ -83,37 +83,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:13:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704505648041 |
-| Players | 3/24 |
-| Host Name | Irif |
+| Lobby ID | 28591704507275014 |
+| Players | 4/15 |
+| Host Name | ???% |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:16:08 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:17:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704507275242 |
+| Players | 7/8 |
+| Host Name | ted |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:17:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704507421891 |
+| Players | 1/10 |
+| Host Name | ГАНДУРАС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:18:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704507422210 |
+| Players | 1/15 |
+| Host Name | Wilvs |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:18:02 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28591704487681403 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | WINDSHADE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:57:14 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704505793494 |
-| Players | 4/5 |
-| Host Name | ATWA |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:16:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704506506812 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | BugSplat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:17:03 |
