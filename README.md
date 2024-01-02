@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:18:15 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550121488683 |
+| Players | 1/24 |
+| Host Name | Madvetu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:18:31 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550113446731 |
