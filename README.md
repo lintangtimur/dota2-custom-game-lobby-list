@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550198457789 |
-| Players | 12/15 |
-| Host Name | Conq |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:21:58 |
+| Lobby ID | 28590550199236537 |
+| Players | 8/15 |
+| Host Name | MGNCITYSHUFFLE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:23:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550199112419 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Radical Highway |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:22:55 |
@@ -65,28 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:22:16 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550176861473 |
-| Players | 23/24 |
-| Host Name | Тайлер Дёрнул |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:49:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550199236537 |
-| Players | 3/15 |
-| Host Name | MGNCITYSHUFFLE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:23:06 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550197947719 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | shady |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:21:12 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550197735527 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Zoro-juro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:20:53 |
