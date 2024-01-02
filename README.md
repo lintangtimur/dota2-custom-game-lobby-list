@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:13:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550173765454 |
-| Players | 23/24 |
-| Host Name | nil |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:44:43 |
+| Lobby ID | 28590550175198816 |
+| Players | 13/15 |
+| Host Name | haaaa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:46:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,21 +47,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:46:18 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550175167934 |
-| Players | 1/8 |
-| Host Name | ADLYI |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:46:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550175198816 |
-| Players | 12/15 |
-| Host Name | haaaa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:46:57 |
+| Lobby ID | 28590550175920689 |
+| Players | 1/15 |
+| Host Name | THE KIND |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:48:03 |
 
 
