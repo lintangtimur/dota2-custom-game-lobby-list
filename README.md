@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549901402559 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ME LEDER |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:22:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549901412509 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | abcdefghijklmnñopqrstuvwxyz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:22:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549895506458 |
-| Players | 12/24 |
+| Players | 9/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:11:43 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:21:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549902066756 |
-| Players | 6/8 |
-| Host Name | Yolo |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:23:16 |
+| Lobby ID | 28590549902135068 |
+| Players | 7/10 |
+| Host Name | arthas is alive |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:23:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549901970246 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | jhon xina |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:23:05 |
@@ -104,37 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549901925945 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | @p6y3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:23:00 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549901953216 |
-| Players | 8/10 |
-| Host Name | NiggaДяй |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:23:03 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549902124594 |
+| Lobby ID | 28590549902231577 |
 | Players | 1/8 |
 | Host Name | Пасив |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:23:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549902135068 |
-| Players | 1/10 |
-| Host Name | Maksfaktor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:23:23 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:23:34 |
 
 
 |  | epic_boss_fight_normal |
