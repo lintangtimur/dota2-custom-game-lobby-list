@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549915656706 |
-| Players | 7/8 |
-| Host Name | Stingray |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:47:52 |
+| Lobby ID | 28590549916093319 |
+| Players | 1/8 |
+| Host Name | Xamaniacoo |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:48:40 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549916358949 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Захоло Кост |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:49:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549914435031 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Geegee |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:45:37 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549915469274 |
-| Players | 14/15 |
-| Host Name | sigma |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:47:32 |
+| Lobby ID | 28590549916044661 |
+| Players | 5/15 |
+| Host Name | J3K |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:48:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549915408461 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:47:25 |
@@ -122,27 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549915253746 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Agentsmrt |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:47:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549916044661 |
-| Players | 4/15 |
-| Host Name | Apex |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:48:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549916093319 |
-| Players | 1/8 |
-| Host Name | Xamaniacoo |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:48:40 |
+| Lobby ID | 28590549916735108 |
+| Players | 1/10 |
+| Host Name | остался без плюхи |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:49:51 |
 
 
