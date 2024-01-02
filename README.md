@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550149282054 |
-| Players | 11/15 |
-| Host Name | Svinka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:05:51 |
+| Lobby ID | 28590550150100478 |
+| Players | 9/10 |
+| Host Name | Solowind |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:07:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | shymelle_ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:06:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550150100478 |
-| Players | 7/10 |
-| Host Name | Solowind |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:07:09 |
 
 
 |  | epic_boss_fight_nightmare |
