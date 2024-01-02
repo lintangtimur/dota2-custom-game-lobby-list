@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550009196605 |
-| Players | 9/10 |
-| Host Name | 12 Tango |
+| Lobby ID | 28590550010385734 |
+| Players | 2/15 |
+| Host Name | Yerazog |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:46:44 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:49:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550008437791 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | 'Suthep Thaugsuban |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:45:16 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550008795461 |
-| Players | 14/15 |
-| Host Name | toro max |
+| Lobby ID | 28590550010408205 |
+| Players | 2/10 |
+| Host Name | Remington Jones |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:45:57 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:49:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550010345349 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | CHILINGUS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:48:56 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550010408205 |
-| Players | 2/10 |
-| Host Name | Remington Jones |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:49:03 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550010385734 |
+| Lobby ID | 28590550010528095 |
 | Players | 1/15 |
-| Host Name | Yerazog |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:49:01 |
+| Host Name | KenPix |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:49:17 |
 
 
 |  | epic_boss_fight_normal |
