@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549972366479 |
-| Players | 9/10 |
-| Host Name | Писятдва |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:35:26 |
+| Lobby ID | 28590549972728195 |
+| Players | 13/15 |
+| Host Name | Repow |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:36:07 |
 
 
 |  | ot3_desert_octet |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549972728195 |
-| Players | 11/15 |
-| Host Name | Repow |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:36:07 |
+| Lobby ID | 28590549972511425 |
+| Players | 10/15 |
+| Host Name | blackeap54 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:35:42 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549971884512 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Kad |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:34:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549972997001 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | ヘスス |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:36:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549972832881 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:36:18 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ........ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:37:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549972511425 |
-| Players | 9/15 |
-| Host Name | blackeap54 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:35:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549972388909 |
-| Players | 7/8 |
-| Host Name | КАВАСАКИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:35:28 |
 
 
 |  | epic_boss_fight_nightmare |
