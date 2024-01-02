@@ -2,20 +2,20 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550290450599 |
-| Players | 14/24 |
-| Host Name | NOT WOW HOOMANE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:21:56 |
+| Lobby ID | 28590550294472142 |
+| Players | 6/8 |
+| Host Name | Vlados |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:26:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550293142614 |
-| Players | 3/10 |
-| Host Name | Shad- |
+| Players | 4/10 |
+| Host Name | AplysiaLab |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:24:47 |
 
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550294471586 |
-| Players | 1/10 |
-| Host Name | Mafusail |
+| Players | 9/10 |
+| Host Name | Mikvoin |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:26:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550293946838 |
-| Players | 4/15 |
-| Host Name | BEn7127 |
+| Lobby ID | 28590550294857788 |
+| Players | 5/15 |
+| Host Name | как же он ебет свою мать |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:25:42 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:26:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -50,9 +50,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550293236106 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Kongandeu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:24:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550295081669 |
+| Players | 1/5 |
+| Host Name | ENEKANDO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:26:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550295105300 |
+| Players | 2/5 |
+| Host Name | BILZZZ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:27:00 |
 
 
