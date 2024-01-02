@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549956465936 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Bulach4 |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:04:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549957918598 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:07:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549958074171 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | DANTE SPARTA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:08:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549958531726 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Jon Snow |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:08:53 |
