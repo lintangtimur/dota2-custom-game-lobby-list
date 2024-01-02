@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704181576727 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | PenoDewey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:13:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704165700461 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ✬✬✬Leon Scott Kennedy |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:59:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704183325583 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | qwweer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:14:57 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704183719970 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ЧЕРНОУСОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:15:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704174380394 |
-| Players | 23/24 |
-| Host Name | X-ART |
+| Lobby ID | 28591704179667965 |
+| Players | 6/8 |
+| Host Name | Sanshy(fun qakasha) |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:07:10 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:11:50 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kimchi rice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:11:39 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704183904767 |
-| Players | 4/5 |
-| Host Name | ₭np |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:15:26 |
 
 
