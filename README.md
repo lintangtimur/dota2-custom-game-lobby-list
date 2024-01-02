@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549963066953 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | miz |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:17:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549962789223 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | asd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:17:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549963300272 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | I Have No Enemies |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:17:59 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:17:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549963157743 |
-| Players | 5/8 |
-| Host Name | Stingray |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:17:43 |
+| Lobby ID | 28590549963039088 |
+| Players | 4/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:17:29 |
 
 
 |  | ot3_desert_octet |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 痛苦与黑暗 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:17:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549963028086 |
-| Players | 12/15 |
-| Host Name | DaktAri |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:17:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549963039088 |
-| Players | 3/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:17:29 |
 
 
 |  | ot3_gardens_duo |
