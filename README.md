@@ -11,20 +11,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:15:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550087274234 |
-| Players | 14/15 |
-| Host Name | Вова адидас |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:16:40 |
+| Lobby ID | 28590550088698795 |
+| Players | 1/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:19:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550088471150 |
-| Players | 6/10 |
-| Host Name | pang |
+| Players | 2/10 |
+| Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:18:54 |
 
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550088640278 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Dispersion |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:19:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550088698795 |
-| Players | 1/10 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:19:19 |
+| Lobby ID | 28590550089140170 |
+| Players | 2/15 |
+| Host Name | Estúpido Perro!! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:20:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Raynuva |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:10:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550089130595 |
+| Players | 2/10 |
+| Host Name | BlueDeimos |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:20:08 |
 
 
