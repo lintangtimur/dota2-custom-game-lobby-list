@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550041422089 |
-| Players | 9/10 |
-| Host Name | AUTOPOIETICA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:49:06 |
+| Lobby ID | 28590550042656884 |
+| Players | 2/8 |
+| Host Name | Papa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:51:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550041937772 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | paiN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:50:05 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Soy inferior |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:52:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550042656884 |
-| Players | 2/8 |
-| Host Name | Papa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:51:29 |
 
 
 |  | epic_boss_fight_nightmare |
