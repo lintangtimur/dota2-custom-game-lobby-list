@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704332911793 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 张韶涵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:22:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704332448816 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | whore(positive) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:22:11 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704332372578 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ذو الفقار |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:22:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704333130331 |
+| Players | 5/15 |
+| Host Name | Alkogolik-Spermostrel |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:22:48 |
 
 
 |  | epic_boss_fight_nightmare |
