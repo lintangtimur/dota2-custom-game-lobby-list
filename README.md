@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550168336911 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Emberfrost5 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:36:19 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550171267111 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | beardrinker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:40:54 |
@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550154296250 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:13:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550171570762 |
-| Players | 1/10 |
-| Host Name | Arkadiy Paravozov |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:41:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -45,6 +36,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | qweexer |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:41:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550171750435 |
+| Players | 2/10 |
+| Host Name | притон |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:41:39 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550151956882 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Mahatma Gandhi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:10:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550170840189 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | vvw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:40:13 |
