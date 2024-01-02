@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704391746901 |
-| Players | 7/8 |
-| Host Name | where is your motivation? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:18:44 |
+| Lobby ID | 28591704392560520 |
+| Players | 6/8 |
+| Host Name | practice |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:19:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704387065836 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | SoWyer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:14:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704391400866 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:18:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704392353481 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Muflonn Lukavson |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:19:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704392299228 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:19:16 |
@@ -81,6 +81,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dashe_ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:19:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704392506584 |
+| Players | 1/10 |
+| Host Name | Randylel husband#69 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:19:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704392628195 |
+| Players | 4/8 |
+| Host Name | MrKazakhPvP_PRO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:19:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704392638555 |
+| Players | 1/8 |
+| Host Name | le bJiNg'e |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:19:36 |
 
 
 |  | epic_boss_fight_normal |
