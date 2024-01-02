@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550191653479 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | A$AP ROCKY |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:11:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550191498830 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Malenia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:11:35 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550191746240 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AleksLyn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:11:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550191741660 |
-| Players | 1/15 |
-| Host Name | xD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:11:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590550191728657 |
+| Lobby ID | 28590550191830220 |
 | Players | 1/5 |
-| Host Name | Енот епт |
+| Host Name | Sparta |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:11:55 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:12:05 |
 
 
