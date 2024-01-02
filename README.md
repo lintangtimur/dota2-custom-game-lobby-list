@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550120190903 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | blackeap54 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:16:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550121562097 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Boss James |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:18:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550119585519 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | POGUITO EL CHISPITA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:15:15 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | данилкрут |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:18:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550121657304 |
+| Players | 4/15 |
+| Host Name | Team Spirt kavaps |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:18:49 |
 
 
 |  | epic_boss_fight_nightmare |
