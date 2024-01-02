@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550069633148 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | :qqq! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:43:15 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550072038912 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:47:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550071873093 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | МокрыйВилли |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:47:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550070703650 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:45:19 |
@@ -49,28 +49,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550069087523 |
-| Players | 7/8 |
-| Host Name | CAMARADA CAPIBARA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:42:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28590550071800915 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | ` |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:47:24 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550042786362 |
-| Players | 8/10 |
-| Host Name | Sweet Ass |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:51:44 |
+| Lobby ID | 28590550072408901 |
+| Players | 1/15 |
+| Host Name | Vuvuzela Virtuoso Hans Rudolph |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:48:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550072432058 |
+| Players | 4/10 |
+| Host Name | pang |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:48:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550072592373 |
+| Players | 1/15 |
+| Host Name | smtg here |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:48:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550072588870 |
+| Players | 1/5 |
+| Host Name | 神の一手 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:48:54 |
 
 
