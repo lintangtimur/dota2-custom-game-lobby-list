@@ -47,6 +47,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:24:38 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550243427599 |
+| Players | 7/15 |
+| Host Name | RazeD |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:24:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550243532910 |
+| Players | 5/15 |
+| Host Name | ☆ VAZ ☆ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:24:57 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550240736994 |
@@ -54,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:21:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550243414942 |
-| Players | 2/5 |
-| Host Name | MK bananoed |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:24:47 |
 
 
