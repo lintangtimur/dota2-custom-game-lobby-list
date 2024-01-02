@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704404894136 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | MEEEeeep |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:31:51 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704402893018 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Vitu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:29:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704401320383 |
-| Players | 18/24 |
-| Host Name | Yato |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:28:20 |
+| Lobby ID | 28591704403219548 |
+| Players | 6/8 |
+| Host Name | vlaqdos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:30:12 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704403139259 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | pandorex |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:30:07 |
@@ -140,17 +140,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704405349239 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | ✪ huyase |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:32:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704405353494 |
-| Players | 3/8 |
-| Host Name | Dyrachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:32:18 |
 
@@ -167,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704403908063 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Raynal |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:30:53 |
