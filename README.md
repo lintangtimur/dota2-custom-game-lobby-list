@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549902811927 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:24:40 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549902872039 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | moonfine |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:24:46 |
@@ -122,16 +122,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549903059894 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | NoPillnerTonight |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:25:07 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549903128068 |
+| Players | 2/15 |
+| Host Name | King.Grigori |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:25:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549903219181 |
+| Players | 3/8 |
+| Host Name | C.Jl.A.B.u.X |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:25:26 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549897862739 |
-| Players | 4/5 |
+| Players | 1/5 |
 | Host Name | Boris |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:15:50 |
@@ -144,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nyThanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:14:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549903104772 |
-| Players | 1/5 |
-| Host Name | k1zuyama |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:25:13 |
 
 
