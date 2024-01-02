@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550185782361 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | PirateStation |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:03:07 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28590550186188514 |
 | Players | 5/8 |
-| Host Name | Nitrixss |
+| Host Name | shnup |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:03:44 |
 
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MGNCITYSHUFFLE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:02:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550185775903 |
-| Players | 9/10 |
-| Host Name | thinkin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:03:07 |
 
 
