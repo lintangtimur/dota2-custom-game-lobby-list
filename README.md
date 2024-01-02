@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550023730894 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | COVID - 19 |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:14:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550027264279 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Оливье реарм оливье |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:21:43 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | (Kami)Moondeath |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:22:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550025605135 |
-| Players | 9/10 |
-| Host Name | thEdarK1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:18:32 |
 
 
 |  | epic_boss_fight_nightmare |
