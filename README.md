@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:23:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704590273083 |
-| Players | 14/15 |
-| Host Name | 私を死なせて |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:49:05 |
+| Lobby ID | 28591704589849953 |
+| Players | 5/10 |
+| Host Name | el lame chuchas |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:48:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704590580209 |
-| Players | 1/24 |
-| Host Name | Y.Okkotsu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:49:26 |
+| Lobby ID | 28591704591536221 |
+| Players | 6/10 |
+| Host Name | HAKARI DANCE |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:50:30 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704589858004 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ~{ ■} |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:48:37 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704588341016 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Oh29 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:46:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704586365744 |
-| Players | 22/24 |
-| Host Name | RGM |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:44:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:48:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704589849953 |
-| Players | 4/10 |
-| Host Name | el lame chuchas |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:48:36 |
+| Lobby ID | 28591704591524218 |
+| Players | 6/15 |
+| Host Name | 253к по пакетам |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:50:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704591405307 |
-| Players | 4/8 |
-| Host Name | Спиногрыз |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:50:21 |
+| Lobby ID | 28591704591605203 |
+| Players | 3/8 |
+| Host Name | pidor |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:50:34 |
 
 
 |  | epic_boss_fight_normal |
