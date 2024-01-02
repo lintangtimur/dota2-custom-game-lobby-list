@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550194716089 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Happiness |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:16:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550176861473 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:49:29 |
@@ -29,28 +29,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:17:48 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550195669324 |
-| Players | 1/8 |
-| Host Name | Убийца Акаме |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:17:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550196204360 |
-| Players | 1/8 |
-| Host Name | Chris |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:18:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550196283330 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | tv/psibladeqqw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:18:43 |
@@ -58,11 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550196497888 |
-| Players | 6/10 |
-| Host Name | лампочка |
+| Lobby ID | 28590550196513558 |
+| Players | 2/10 |
+| Host Name | Саня Белый prime |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:19:03 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:19:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550196531011 |
+| Players | 2/8 |
+| Host Name | Убийца Акаме |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:19:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550196553616 |
+| Players | 1/8 |
+| Host Name | Chris |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:19:08 |
 
 
 |  | epic_boss_fight_nightmare |
