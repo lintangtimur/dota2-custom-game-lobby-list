@@ -40,17 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550167511395 |
-| Players | 12/15 |
-| Host Name | Lancuer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:35:04 |
+| Lobby ID | 28590550168323550 |
+| Players | 1/15 |
+| Host Name | ЇЇ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:36:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550168336911 |
+| Players | 1/24 |
+| Host Name | Emberfrost5 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:36:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550162326279 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Kapitan Tutan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:26:58 |
