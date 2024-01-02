@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704507282423 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | биг сиси лайф |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:17:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704502647103 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Santy_vv |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:13:04 |
@@ -86,37 +86,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704507275014 |
-| Players | 4/15 |
-| Host Name | ???% |
+| Players | 13/15 |
+| Host Name | Gun Don |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:17:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704507275242 |
-| Players | 7/8 |
-| Host Name | ted |
+| Lobby ID | 28591704507593194 |
+| Players | 1/8 |
+| Host Name | bubbles |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:18:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704507548513 |
+| Players | 5/8 |
+| Host Name | Viola Ray |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:17:52 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:18:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704507421891 |
+| Lobby ID | 28591704507532725 |
 | Players | 1/10 |
-| Host Name | ГАНДУРАС |
+| Host Name | Kaiser帝 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:18:02 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:18:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704507422210 |
-| Players | 1/15 |
-| Host Name | Wilvs |
+| Lobby ID | 28591704507549864 |
+| Players | 3/15 |
+| Host Name | Frames Janco |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:18:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704507606526 |
+| Players | 1/24 |
+| Host Name | Anj |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:18:02 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:18:13 |
 
 
 |  | epic_boss_fight_challenger |
