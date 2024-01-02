@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550200439559 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | 1 v 23（°𓂍° ） |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:24:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550202885048 |
-| Players | 7/10 |
-| Host Name | BubiBubi |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:28:35 |
+| Lobby ID | 28590550202256841 |
+| Players | 12/15 |
+| Host Name | Mr.Zombak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:27:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550202940695 |
+| Lobby ID | 28590550202444401 |
 | Players | 1/15 |
-| Host Name | Gandalf the White |
+| Host Name | Мятный коктейль |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:28:40 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:27:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550203131256 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Wisewolf of Yoitsu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:28:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550202256841 |
-| Players | 9/15 |
-| Host Name | Mr.Zombak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:27:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550202444401 |
-| Players | 1/15 |
-| Host Name | Мятный коктейль |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:27:56 |
 
 
 |  | epic_boss_fight_nightmare |
