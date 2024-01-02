@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550101462495 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:42:50 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:42:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550101681996 |
-| Players | 3/8 |
-| Host Name | Сорри |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:43:14 |
+| Lobby ID | 28590550102570876 |
+| Players | 3/15 |
+| Host Name | KornzaneGoingInsane(กูกร) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:44:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550099510102 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:39:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550100428595 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:40:57 |
@@ -77,25 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550102191393 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Munooke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:44:09 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550102285125 |
-| Players | 1/24 |
-| Host Name | nangosu |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:44:20 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550100017490 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Fucking Noob |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:40:12 |
