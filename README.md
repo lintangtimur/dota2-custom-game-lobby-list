@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550055694900 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Emberfrost5 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:16:33 |
@@ -49,24 +49,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550054297625 |
-| Players | 1/15 |
-| Host Name | AntonGOD |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:13:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550056538242 |
-| Players | 10/24 |
-| Host Name | Percibal |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:18:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28590550056761982 |
 | Players | 2/15 |
 | Host Name | El bancho |
@@ -74,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:18:35 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550056538242 |
+| Players | 11/24 |
+| Host Name | Percibal |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:18:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550042786362 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Sweet Ass |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:44 |
