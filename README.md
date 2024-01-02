@@ -47,10 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:49:33 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550042510582 |
+| Players | 1/8 |
+| Host Name | Ｓｏｈｅｅ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:51:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550038656725 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Szostak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:43:44 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550041444896 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Rosky. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:49:08 |
