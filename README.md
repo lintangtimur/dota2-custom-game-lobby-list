@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549935040295 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:23:52 |
@@ -40,38 +40,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549934934911 |
-| Players | 8/10 |
-| Host Name | pox na game |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:23:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549935096093 |
-| Players | 4/8 |
-| Host Name | Доброслав Гойда |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:23:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28590549935526832 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | GOD MODE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:24:50 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549935096093 |
+| Players | 6/8 |
+| Host Name | Доброслав Гойда |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:23:59 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549935317820 |
-| Players | 13/15 |
-| Host Name | tmr |
+| Lobby ID | 28590549935968177 |
+| Players | 8/15 |
+| Host Name | 有钱人 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:25:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549936041105 |
+| Players | 3/15 |
+| Host Name | far fri |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:24:25 |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:25:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549936066736 |
+| Players | 2/8 |
+| Host Name | Soy Billy |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:25:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -85,19 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590549934351657 |
-| Players | 4/5 |
-| Host Name | Иосиф Виссарионович Сталин |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:22:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549933918061 |
-| Players | 9/10 |
-| Host Name | อาโคย...แข็ง |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:21:44 |
+| Lobby ID | 28590549935638622 |
+| Players | 3/5 |
+| Host Name | Писька Огра |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:25:04 |
 
 
