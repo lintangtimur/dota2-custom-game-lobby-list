@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549945050073 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | p[A]ur |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:42:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549945159215 |
-| Players | 7/10 |
-| Host Name | ¨S.P. GoO Hara xyz |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:43:12 |
+| Lobby ID | 28590549946093785 |
+| Players | 3/15 |
+| Host Name | U VV4NТ D33Z N4T ? [SIUU] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:45:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549946015506 |
-| Players | 1/8 |
-| Host Name | 集中一点登峰造极 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:44:51 |
+| Lobby ID | 28590549945988712 |
+| Players | 7/8 |
+| Host Name | Yolo |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:44:48 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549944554473 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | MEEEeeep |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:42:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549945649188 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:44:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549945551875 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | LD. YUYA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:43:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549945795274 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | test acc |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:44:25 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:44:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549945988712 |
-| Players | 6/8 |
-| Host Name | Yolo |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:44:48 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549941698302 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549943609489 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Secretary-specific |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:40:15 |
