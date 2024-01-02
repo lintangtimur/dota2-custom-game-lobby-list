@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704280199714 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | 149.24 g/mol |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:35:52 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:34:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704277258162 |
-| Players | 23/24 |
-| Host Name | Instantaneous Death//OT3.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:33:21 |
+| Lobby ID | 28591704280536167 |
+| Players | 1/8 |
+| Host Name | DiabloGrand |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:36:09 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704280164900 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | you are stupid girl<3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:35:50 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704279650403 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 死1死3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:35:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704280463603 |
+| Players | 2/8 |
+| Host Name | hebker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:36:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704280532245 |
+| Players | 6/10 |
+| Host Name | РИВ ГОШ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:36:09 |
 
 
 |  | epic_boss_fight_nightmare |
