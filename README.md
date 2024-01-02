@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:32:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704407150297 |
-| Players | 12/15 |
-| Host Name | играю пяткой |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:34:04 |
+| Lobby ID | 28591704407951184 |
+| Players | 2/24 |
+| Host Name | .。 七蛋蛋呀˙°◌ |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:34:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704402893018 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Vitu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:29:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704406825848 |
-| Players | 23/24 |
-| Host Name | Explosive Shot |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:33:45 |
+| Lobby ID | 28591704407865126 |
+| Players | 2/10 |
+| Host Name | халапеньо |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:34:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704407064435 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | барсик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:33:59 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704407605289 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Выебу |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:31 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704407673411 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | The Spiked Spaghetti |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:35 |
@@ -158,28 +158,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704407656689 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Wewer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704406611804 |
-| Players | 4/8 |
-| Host Name | salt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:33:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704407759270 |
-| Players | 2/24 |
-| Host Name | FLAME_FIGHTER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:34:41 |
 
 
 |  | epic_boss_fight_normal |
@@ -194,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704406102847 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | ТРАЛИБУЗИНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:33:02 |
@@ -203,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704407383083 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | !m |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:18 |
