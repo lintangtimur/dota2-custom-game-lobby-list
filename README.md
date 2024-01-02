@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704485729402 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Space |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:55:05 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704485953641 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | alikadiev67 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:55:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704484422739 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | I'M FINE = ESTOY FINO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:53:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704485978702 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | M.R-YoEL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:55:21 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704486301377 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | PEPELALA !@32 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:55:43 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28591704486015791 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Бонжур |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:55:24 |
