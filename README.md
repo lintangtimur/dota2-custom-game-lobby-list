@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550013738278 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | uniballer |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:55:42 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:57:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550014614047 |
-| Players | 1/8 |
+| Lobby ID | 28590550014692630 |
+| Players | 1/15 |
 | Host Name | Chawas Shelby |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:57:26 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:57:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550009591911 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Szostak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:47:30 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550013803570 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Dolphins are mammals, not fish |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:55:50 |
