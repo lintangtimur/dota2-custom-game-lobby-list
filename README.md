@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550263282593 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | AgroOlive |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:50:05 |
@@ -32,10 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550263355219 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | LOOSER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:50:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550263379585 |
+| Players | 6/10 |
+| Host Name | Admiral R[A]t doto |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:50:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -45,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kongandeu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:48:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550262817013 |
-| Players | 3/5 |
-| Host Name | Kenny Mccormick |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:49:30 |
 
 
