@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704426034602 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Conc. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:53:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704424955156 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | ICE BEAR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:52:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704424454467 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Akira- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:51:30 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704426564083 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | SHIZIK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:53:38 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704426665423 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Z a d d |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:53:44 |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704426810961 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | DIVINO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:53:53 |
@@ -185,16 +185,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704426839831 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | HoJIoD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:53:55 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704427060002 |
+| Players | 1/8 |
+| Host Name | Грандмастер тинкера |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:54:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704410397693 |
+| Players | 23/24 |
+| Host Name | who knows |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:37:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704423870568 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Someone |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:50:54 |
