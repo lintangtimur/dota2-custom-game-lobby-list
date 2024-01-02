@@ -29,28 +29,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:55:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550324516642 |
-| Players | 10/15 |
-| Host Name | ETILOVIYBOGビール |
+| Lobby ID | 28590550324919950 |
+| Players | 3/8 |
+| Host Name | zxc_druziy_brosili_V_NG |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:58:09 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:58:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550324738008 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | zxcutes |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:58:23 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550325004730 |
+| Players | 5/10 |
+| Host Name | гипотенуза |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:58:39 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550317685868 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Godbless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:51:04 |
