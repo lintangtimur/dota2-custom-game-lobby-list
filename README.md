@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549948338052 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Vmini |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:49:19 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549948436439 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Soy Billy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:49:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549947869474 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:48:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549946685084 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Capitulum Mitella |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:46:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549948635497 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Reddy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:49:53 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549948703721 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | v potoke | deko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:50:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549948710183 |
-| Players | 1/8 |
-| Host Name | 集中一点登峰造极 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:50:02 |
+| Lobby ID | 28590549948840266 |
+| Players | 1/15 |
+| Host Name | Suma1L- |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:50:17 |
 
 
 |  | epic_boss_fight_nightmare |
