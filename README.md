@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549990938243 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | ASURA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:11:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549991393942 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Where |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:12:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549991361111 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | qx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:11:57 |
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:10:47 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549991767086 |
+| Players | 1/10 |
+| Host Name | Never |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:12:44 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549983079560 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Jurisprudencia |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:56:05 |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I will Lose Weight 17 Kg to Go |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:10:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549991741219 |
+| Players | 1/5 |
+| Host Name | Tanks |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:12:41 |
 
 
