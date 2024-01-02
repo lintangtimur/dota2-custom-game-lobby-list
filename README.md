@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549899782541 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | activetino |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549910393665 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Estudiar Part time es lo mio |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:38:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549910774314 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | ᕲᘿᗩᕲ ᘜᗩᘻᘿ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:38:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549910762781 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:38:56 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549910444577 |
-| Players | 6/10 |
-| Host Name | MEEEeeep |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:38:22 |
+| Lobby ID | 28590549910762111 |
+| Players | 1/10 |
+| Host Name | 健一白浜 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:38:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -121,20 +121,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549910762111 |
-| Players | 1/10 |
-| Host Name | 健一白浜 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:38:56 |
+| Lobby ID | 28590549908024179 |
+| Players | 9/10 |
+| Host Name | Deku |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:34:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549910835852 |
-| Players | 3/8 |
-| Host Name | minuta planki raz v den |
+| Lobby ID | 28590549910899731 |
+| Players | 7/10 |
+| Host Name | Писятдва |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:39:05 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:39:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549909552649 |
+| Players | 23/24 |
+| Host Name | Bajando Pepian |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:36:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549910915553 |
+| Players | 2/15 |
+| Host Name | Agentsmrt |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:39:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549910444577 |
+| Players | 9/10 |
+| Host Name | MEEEeeep |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:38:22 |
 
 
 |  | epic_boss_fight_normal |
