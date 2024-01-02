@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550278972808 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | //// |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:08:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550278367514 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | PenoDewey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:08:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550278708171 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | KiW3^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:08:33 |
@@ -74,11 +74,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:08:08 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550279521434 |
+| Players | 1/24 |
+| Host Name | мистер бомбастик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:09:30 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550266518236 |
 | Players | 2/5 |
-| Host Name | キングリオン |
+| Host Name | Nautilus |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:54:03 |
 
