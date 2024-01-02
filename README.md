@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550245001116 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Cemka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:26:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550249315717 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Borchic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:32:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550249079607 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | About a girl |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:32:16 |
@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550249415314 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | WRY♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:32:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550249711148 |
+| Players | 1/8 |
+| Host Name | я...ТАЛАНТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:33:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550247357045 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | TOLYAN BESMERTNЫY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:30:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550244237280 |
-| Players | 9/10 |
-| Host Name | M |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:25:55 |
 
 
