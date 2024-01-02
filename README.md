@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550037475389 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:41:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550037461785 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Крип маг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:41:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550037515815 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Son of a Shepherd |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:41:32 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550037106268 |
-| Players | 8/10 |
-| Host Name | Ark.Tect- |
+| Players | 4/10 |
+| Host Name | New season |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:40:45 |
 
