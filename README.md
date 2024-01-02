@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549937381618 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | wanna play 1 hero |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:28:26 |
@@ -32,55 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549928486215 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Geegee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:11:38 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549936656937 |
-| Players | 22/24 |
-| Host Name | ~{ ■} |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:27:03 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549938154188 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | DDM |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:29:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549938646186 |
+| Players | 2/15 |
+| Host Name | ROTA |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:30:49 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549938340596 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Deepcutsx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:30:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549938000045 |
-| Players | 9/10 |
-| Host Name | diegotsfye |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:29:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549937554472 |
-| Players | 7/8 |
-| Host Name | Krypton |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:28:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549937480199 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Deus lo vult |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:28:37 |
