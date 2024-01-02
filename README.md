@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704509586100 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | FELIZ AÑO NUEVO!!!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:20:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704510460230 |
-| Players | 10/15 |
-| Host Name | animetic |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:21:17 |
+| Lobby ID | 28591704510515592 |
+| Players | 4/10 |
+| Host Name | rasmus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:21:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704510294062 |
-| Players | 4/15 |
-| Host Name | jj |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:21:06 |
+| Lobby ID | 28591704508079013 |
+| Players | 13/15 |
+| Host Name | EAAM |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:18:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704509410029 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Tomohise-Sako |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:20:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704510163033 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | didldu |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:20:58 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704502647103 |
-| Players | 22/24 |
-| Host Name | Santy_vv |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:13:04 |
+| Lobby ID | 28591704510757112 |
+| Players | 2/24 |
+| Host Name | Elune || 十明 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:21:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704509537172 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Сигал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:20:18 |
@@ -92,22 +92,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:18:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704510528396 |
-| Players | 4/10 |
-| Host Name | ScarLite |
+| Lobby ID | 28591704510906748 |
+| Players | 5/8 |
+| Host Name | towaza |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:21:21 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:21:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704509793123 |
+| Players | 14/15 |
+| Host Name | Maxwell |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:20:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704511086096 |
+| Players | 1/8 |
+| Host Name | Chronal |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:21:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704510515592 |
-| Players | 2/10 |
-| Host Name | rasmus |
+| Lobby ID | 28591704510023085 |
+| Players | 8/10 |
+| Host Name | Lenin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:21:20 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:20:49 |
 
 
 |  | epic_boss_fight_challenger |
@@ -140,18 +158,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704508833264 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Tihiy_Don |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:19:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704509802300 |
-| Players | 4/10 |
-| Host Name | ✪SĦI₦Ę✪ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:20:35 |
 
 
