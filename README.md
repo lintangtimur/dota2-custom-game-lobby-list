@@ -2,12 +2,12 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550194717799 |
-| Players | 11/15 |
-| Host Name | Игорь (Артём) |
-| Region | EUROPE |
+| Lobby ID | 28590550194716089 |
+| Players | 6/24 |
+| Host Name | Happiness |
+| Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:16:24 |
 
 
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:16:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550194716089 |
-| Players | 5/24 |
-| Host Name | Happiness |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:16:24 |
+| Lobby ID | 28590550195086413 |
+| Players | 1/8 |
+| Host Name | Luckyman |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:16:57 |
 
 
 |  | epic_boss_fight_nightmare |
