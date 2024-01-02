@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549951931138 |
-| Players | 4/10 |
-| Host Name | Semite |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:56:18 |
+| Lobby ID | 28590549953411324 |
+| Players | 2/15 |
+| Host Name | Night Lovell - Dark Light /GTR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:59:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549953299031 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | D'Boyd |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:58:56 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549953386249 |
-| Players | 1/24 |
-| Host Name | chico(®)panda☼ |
+| Lobby ID | 28590549953452618 |
+| Players | 2/24 |
+| Host Name | NO HAY PLATA |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:59:06 |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:59:14 |
 
 
 |  | epic_boss_fight_normal |
