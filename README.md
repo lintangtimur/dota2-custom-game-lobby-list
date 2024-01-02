@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550116049828 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:09:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550119585519 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | POGUITO EL CHISPITA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:15:15 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550120190903 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | blackeap54 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:16:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550120244387 |
+| Players | 1/10 |
+| Host Name | Яж Гуевреев |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:16:25 |
 
 
 |  | epic_boss_fight_nightmare |
