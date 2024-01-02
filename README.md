@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:17:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704134366679 |
-| Players | 14/15 |
-| Host Name | @®Man |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:30:59 |
+| Lobby ID | 28591704137333061 |
+| Players | 3/8 |
+| Host Name | Syn999#%*%*%#* |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:32:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,36 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704137371884 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | zxc_druziy_brosili_V_NG |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:32:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704128653323 |
-| Players | 7/8 |
-| Host Name | Папучи Винициано |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:27:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704137333061 |
-| Players | 3/8 |
-| Host Name | Syn999#%*%*%#* |
+| Lobby ID | 28591704137976000 |
+| Players | 4/10 |
+| Host Name | MAIMALAGA |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:32:31 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:33:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590550350759888 |
-| Players | 9/10 |
-| Host Name | pak u |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:23:33 |
+| Lobby ID | 28591704138056081 |
+| Players | 1/5 |
+| Host Name | Талант не Танцует |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:33:10 |
 
 
