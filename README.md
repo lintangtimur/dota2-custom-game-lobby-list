@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550077203434 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | kötsibëu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:57:49 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550077519869 |
-| Players | 2/10 |
-| Host Name | BUSTER McFARLEY |
+| Players | 1/10 |
+| Host Name | ChineseBeans |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:58:24 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550077953725 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Паша цветомузыка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:59:12 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550078485339 |
-| Players | 7/8 |
-| Host Name | мистер хомка ублю |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:00:13 |
+| Lobby ID | 28590550078833519 |
+| Players | 1/8 |
+| Host Name | D'Boyd |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:00:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:57:44 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550078796822 |
+| Players | 5/10 |
+| Host Name | DONT KILL ME |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:00:47 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550075825694 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:55:06 |
