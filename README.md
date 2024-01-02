@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549969282783 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:29:35 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549969345683 |
-| Players | 9/10 |
-| Host Name | CHAK CHAK |
+| Lobby ID | 28590549969999188 |
+| Players | 1/8 |
+| Host Name | 23 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:29:42 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:30:57 |
 
 
 |  | ot3_gardens_duo |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549970058901 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | BISCUIT OLIVA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:31:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549969999188 |
-| Players | 1/8 |
-| Host Name | 23 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:30:57 |
 
 
 |  | epic_boss_fight_nightmare |
