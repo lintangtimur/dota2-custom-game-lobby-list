@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:16:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550023732273 |
-| Players | 6/8 |
-| Host Name | Señor autoplacer |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:14:56 |
+| Lobby ID | 28590550025404009 |
+| Players | 1/10 |
+| Host Name | zzz### |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:18:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550024820464 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:17:03 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HappY |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:17:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550025404009 |
-| Players | 1/10 |
-| Host Name | zzz### |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:18:09 |
 
 
 |  | epic_boss_fight_nightmare |
