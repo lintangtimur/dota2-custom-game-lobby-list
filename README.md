@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550007582909 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | DRAGONBACK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:43:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550007754831 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | БулатДолматов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:43:55 |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:44:01 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550008387589 |
-| Players | 1/24 |
-| Host Name | the mocca man |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:45:10 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550008395582 |
-| Players | 1/15 |
-| Host Name | it0x |
+| Lobby ID | 28590550008429835 |
+| Players | 2/15 |
+| Host Name | S Novay Goday, slav9ne |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:45:11 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:45:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550008437791 |
+| Players | 2/24 |
+| Host Name | 'Suthep Thaugsuban |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:45:16 |
 
 
 |  | epic_boss_fight_normal |
