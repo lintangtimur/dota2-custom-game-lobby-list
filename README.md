@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704334796714 |
-| Players | 12/15 |
-| Host Name | Æ 4o_kavo? |
+| Lobby ID | 28591704335173528 |
+| Players | 6/10 |
+| Host Name | LASQUTI |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:24:20 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:24:41 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704333347641 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:23:00 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704334971896 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | ♛Immanori♛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:24:30 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704330230563 |
-| Players | 9/10 |
-| Host Name | DEB(◉ ͜ʖ ͡◉)STER |
+| Lobby ID | 28591704335490472 |
+| Players | 4/8 |
+| Host Name | Solomon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:20:08 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:25:00 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704331936119 |
-| Players | 1/5 |
-| Host Name | OʋҽɾLσɾԃ |
+| Lobby ID | 28591704335454287 |
+| Players | 1/15 |
+| Host Name | Hero Slayer! |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:21:42 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:24:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -83,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:22:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28591704333671104 |
-| Players | 9/10 |
-| Host Name | Shendelzare Silkwood |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:23:18 |
+| Lobby ID | 28591704331936119 |
+| Players | 1/5 |
+| Host Name | OʋҽɾLσɾԃ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:21:42 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28591704335475814 |
+| Players | 1/7 |
+| Host Name | _AZIMOV_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:24:59 |
 
 
