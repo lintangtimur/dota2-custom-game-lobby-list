@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550074468655 |
-| Players | 8/10 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:52:27 |
+| Lobby ID | 28590550076511367 |
+| Players | 1/10 |
+| Host Name | Munooke |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:56:28 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550073457487 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | [eq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:50:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550075570623 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | sojj |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:54:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550075169598 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | nemesis |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550075160006 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Ghz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:46 |
@@ -94,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550076456521 |
-| Players | 1/10 |
+| Lobby ID | 28590550076608425 |
+| Players | 6/10 |
 | Host Name | Karrigan |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:56:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550076511367 |
-| Players | 1/10 |
-| Host Name | Munooke |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:56:28 |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:56:39 |
 
 
 |  | epic_boss_fight_nightmare |
