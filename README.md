@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:36:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550098277441 |
-| Players | 3/8 |
-| Host Name | Mitzy Te Extraño |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:37:02 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550096588677 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | [SK]-SimaPro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:33:57 |
