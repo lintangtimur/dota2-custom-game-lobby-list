@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550302663128 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:35:11 |
@@ -40,55 +40,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550326066809 |
-| Players | 23/24 |
-| Host Name | b |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:59:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550327347804 |
-| Players | 1/10 |
-| Host Name | Tripa Seca BOLADÃO |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:01:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550327110640 |
-| Players | 6/10 |
-| Host Name | apocalypse |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:00:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550328136799 |
-| Players | 14/15 |
-| Host Name | Черный мечник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:01:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28590550328376944 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | H1RO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:02:02 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550327347804 |
+| Players | 2/10 |
+| Host Name | Tripa Seca BOLADÃO |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:01:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550328896469 |
+| Players | 1/15 |
+| Host Name | 9lMpyKaKCyKa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:02:34 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550328450868 |
-| Players | 5/8 |
-| Host Name | 先生 |
+| Lobby ID | 28590550328987290 |
+| Players | 1/8 |
+| Host Name | тише тише |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:02:07 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:02:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550328902833 |
+| Players | 11/15 |
+| Host Name | Игрок 6 позиции |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:02:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550329077245 |
+| Players | 2/24 |
+| Host Name | Veenix |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:02:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550329174328 |
+| Players | 3/15 |
+| Host Name | Steve |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:02:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550329199098 |
+| Players | 2/8 |
+| Host Name | ?zuuuuuuuuuuuuuuuuuuuuuus |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:02:52 |
 
 
