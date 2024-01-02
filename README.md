@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550135824643 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:43:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550135509162 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | hi mister jackson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:42:44 |
@@ -41,19 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550135669874 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ໔ৡ♡♡ЖуЛиК ♡♡ৡ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:43:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550136074040 |
-| Players | 1/15 |
-| Host Name | estoy borracho y agresivo |
+| Lobby ID | 28590550136184899 |
+| Players | 5/8 |
+| Host Name | Krico |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:43:41 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:43:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550136189126 |
+| Players | 1/24 |
+| Host Name | theforgottenmonkey |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:43:53 |
 
 
 |  | epic_boss_fight_nightmare |
