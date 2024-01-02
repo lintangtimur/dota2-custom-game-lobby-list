@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550108951238 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | monay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:56:34 |
