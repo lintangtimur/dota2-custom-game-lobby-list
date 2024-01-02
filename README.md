@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:00:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550228187230 |
-| Players | 8/10 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:04:31 |
+| Lobby ID | 28590550228543567 |
+| Players | 14/15 |
+| Host Name | Кошкодевочка |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:05:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550229499231 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ym |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:06:19 |
@@ -63,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Мr_Fаx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:58:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550229563944 |
+| Players | 3/5 |
+| Host Name | Tess Tickles |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:06:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550229643737 |
+| Players | 1/5 |
+| Host Name | бубубу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:06:31 |
 
 
