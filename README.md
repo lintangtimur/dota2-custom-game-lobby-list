@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704226716971 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | rrrrrrrrrrrrrrrrrrrrr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:51:22 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704227611504 |
-| Players | 1/8 |
-| Host Name | ✬✬✬Leon Scott Kennedy |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:52:07 |
+| Lobby ID | 28591704219472747 |
+| Players | 5/8 |
+| Host Name | INBossik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:45:19 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704221490767 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | bdy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:47:01 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704226858109 |
-| Players | 3/8 |
-| Host Name | Schierke |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:51:29 |
+| Lobby ID | 28591704227855701 |
+| Players | 1/8 |
+| Host Name | ✬✬✬Leon Scott Kennedy |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:52:19 |
 
 
 |  | ot3_desert_octet |
@@ -110,13 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:47:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704219472747 |
-| Players | 5/8 |
-| Host Name | INBossik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:45:19 |
+| Lobby ID | 28591704227689406 |
+| Players | 1/24 |
+| Host Name | Tempeste |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:52:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704227822268 |
+| Players | 1/10 |
+| Host Name | B2B |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:52:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ME WITH 4 IMMORTAL BRAINS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:52:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704227687518 |
+| Players | 2/10 |
+| Host Name | 600 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:52:11 |
 
 
