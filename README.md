@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550083283540 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | I won't do anything. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:09:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550082971205 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Robert Lewangoalski |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:08:37 |
