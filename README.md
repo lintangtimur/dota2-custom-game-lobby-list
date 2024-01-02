@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:13:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550170464164 |
-| Players | 5/8 |
-| Host Name | СОЛЬ - Пробовал |
+| Lobby ID | 28590550171570762 |
+| Players | 1/10 |
+| Host Name | Arkadiy Paravozov |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:39:38 |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:41:22 |
 
 
 |  | ot3_necropolis_ffa |
