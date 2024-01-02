@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550016309660 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | Vez Larkinson.. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:00:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550017777187 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Lindvia| ZaiSe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:03:31 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550016814202 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | DGL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:01:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550016648019 |
-| Players | 5/8 |
-| Host Name | Questionscrem |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:01:21 |
+| Lobby ID | 28590550017975468 |
+| Players | 2/10 |
+| Host Name | Dolphinling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:03:54 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550017091708 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:02:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550015485815 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | MercS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:59:06 |
@@ -96,7 +96,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28590550017449458 |
 | Players | 2/10 |
-| Host Name | Amsterdam |
+| Host Name | "Butters" |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:02:53 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550016483227 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ♫...Cheese |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:01:02 |
