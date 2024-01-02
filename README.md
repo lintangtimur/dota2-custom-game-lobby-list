@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704223975295 |
-| Players | 7/15 |
-| Host Name | duwawin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:49:04 |
+| Lobby ID | 28591704224453904 |
+| Players | 3/8 |
+| Host Name | AlastoZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:49:28 |
 
 
 |  | ot3_desert_octet |
@@ -85,29 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704224109645 |
-| Players | 1/8 |
-| Host Name | Dejotta |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:49:11 |
+| Lobby ID | 28591704224307551 |
+| Players | 3/8 |
+| Host Name | 無限の彼方へ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:49:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704224181051 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Sailor FreakMoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:49:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704224307551 |
-| Players | 2/8 |
-| Host Name | 無限の彼方へ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:49:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704223794592 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Gustav Elijah Åhr11 |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:48:55 |
