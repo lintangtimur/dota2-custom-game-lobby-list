@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704313885403 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | MARK OTINAN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:05:23 |
@@ -83,40 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:05:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704313740677 |
-| Players | 9/10 |
-| Host Name | GoNe2HeLL |
+| Lobby ID | 28591704314560681 |
+| Players | 4/15 |
+| Host Name | PROF. SCHNAWGLİ |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:05:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704314000854 |
-| Players | 7/10 |
-| Host Name | try to friend812 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:05:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704314062107 |
-| Players | 5/8 |
-| Host Name | СОЛЬ - Пробовал |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:05:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704314024138 |
-| Players | 4/8 |
-| Host Name | Илюха пиротехник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:05:31 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:06:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ng:) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:04:20 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28591704314634355 |
+| Players | 1/7 |
+| Host Name | Gustav Elijah Åhr11 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:06:04 |
 
 
