@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550210479860 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | каблучара |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:39:33 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550210881698 |
-| Players | 3/8 |
-| Host Name | gomer |
+| Lobby ID | 28590550209497838 |
+| Players | 6/8 |
+| Host Name | Розовое облако |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:40:07 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:38:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,34 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550209451361 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | xD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:38:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550210818565 |
-| Players | 14/15 |
-| Host Name | Додик 1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:40:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550209497838 |
-| Players | 5/8 |
-| Host Name | Розовое облако |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:38:10 |
+| Lobby ID | 28590550211572762 |
+| Players | 2/10 |
+| Host Name | Медиум Олег Шепс |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:41:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550206969472 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:34:31 |
@@ -86,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550209190628 |
-| Players | 3/10 |
-| Host Name | Гнев |
+| Players | 2/10 |
+| Host Name | Fey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:37:44 |
 
