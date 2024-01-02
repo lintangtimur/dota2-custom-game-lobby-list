@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550203627018 |
-| Players | 14/15 |
-| Host Name | Богатый Назим |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:29:40 |
+| Lobby ID | 28590550204056414 |
+| Players | 1/8 |
+| Host Name | ПиВнОй БОМЖ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:30:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550203131256 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Wisewolf of Yoitsu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:28:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550203699800 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | K!SS QWE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:29:46 |
@@ -60,18 +60,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28590550203796684 |
 | Players | 3/24 |
-| Host Name | Anoy |
+| Host Name | ✪Gen.Secret |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:29:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550204056414 |
-| Players | 1/8 |
-| Host Name | ПиВнОй БОМЖ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:30:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bounty master |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:26:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550203978385 |
-| Players | 1/5 |
-| Host Name | DONUT MATCHA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:30:10 |
 
 
