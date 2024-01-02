@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549951466259 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:55:23 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549951934082 |
-| Players | 1/10 |
-| Host Name | The Fenix |
+| Players | 3/10 |
+| Host Name | MyM Mith & Roid |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:56:18 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549951353493 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Kael |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:55:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549950792956 |
-| Players | 22/24 |
-| Host Name | ♥♦CentOS♣♠ |
+| Lobby ID | 28590549951916435 |
+| Players | 3/8 |
+| Host Name | Spamming 1 hero = Go Report me |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:54:00 |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:56:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549951090026 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Krokaska |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:54:37 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:55:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549951590373 |
-| Players | 1/8 |
-| Host Name | Retsu |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:55:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549951916435 |
-| Players | 1/8 |
-| Host Name | Spamming 1 hero = Go Report me |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:56:16 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549951931138 |
@@ -92,10 +74,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:56:18 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549952216752 |
+| Players | 1/10 |
+| Host Name | The Fenix |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:56:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549952059459 |
+| Players | 6/10 |
+| Host Name | D'Boyd |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:56:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549952073402 |
+| Players | 4/10 |
+| Host Name | JOJO is back...? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:56:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549952075838 |
+| Players | 2/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:56:35 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549949963559 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | WANDOT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:52:25 |
@@ -104,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549951894692 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 13lackstar |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:56:13 |
