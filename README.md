@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704182509537 |
-| Players | 1/8 |
-| Host Name | Hi |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:14:17 |
+| Lobby ID | 28591704192780511 |
+| Players | 4/10 |
+| Host Name | temip |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:23:03 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704191890039 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | IAMNOTSADASDYAFISDGOARISTA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:22:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704190970075 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | Chipi Chapa Dubi Daba Boom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:21:30 |
@@ -50,34 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704188200686 |
-| Players | 2/24 |
-| Host Name | Ali_love__26 |
+| Players | 1/24 |
+| Host Name | PFFIZER CL4B |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:19:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704187311521 |
-| Players | 1/10 |
-| Host Name | tocosh |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:18:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704192022343 |
-| Players | 8/10 |
-| Host Name | Need money for a Porsche |
+| Lobby ID | 28591704192891803 |
+| Players | 1/8 |
+| Host Name | NIKO NIKO NI |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:22:24 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:23:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704192588922 |
+| Players | 5/15 |
+| Host Name | BadBoys.Baga |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:22:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704192079708 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Калдун |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:22:27 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704191669873 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:22:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704192588922 |
-| Players | 2/15 |
-| Host Name | BadBoys.Baga |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:22:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704192669042 |
-| Players | 2/15 |
-| Host Name | Joji |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:22:57 |
 
 
 |  | epic_boss_fight_hard |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Second City Saint |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:21:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704192882144 |
+| Players | 2/5 |
+| Host Name | Santanella |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:23:08 |
 
 
