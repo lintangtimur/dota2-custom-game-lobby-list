@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550024884573 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | EL CUCU MELLET |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:17:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550024614134 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Push Back |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:16:39 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550025226458 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | HappY |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:17:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550025404009 |
+| Players | 1/10 |
+| Host Name | zzz### |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:18:09 |
 
 
 |  | epic_boss_fight_nightmare |
