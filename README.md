@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550016309660 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Vez Larkinson.. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:00:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550018169969 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:04:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550018052225 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Cronus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:04:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550017449458 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | "Butters" |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:02:53 |
@@ -126,6 +126,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Questionscrem |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:01:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550016090968 |
+| Players | 7/10 |
+| Host Name | SALAMANDER_KING |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:00:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550018845332 |
+| Players | 3/15 |
+| Host Name | حمو بيكا |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:05:36 |
 
 
 |  | epic_boss_fight_nightmare |
