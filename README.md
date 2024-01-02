@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550188131115 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | Nuterez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:06:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550189003677 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | GoriLL@ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:07:53 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550189077550 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ⁱᵃᵐ|๕𝑖ɠɐc𝐡ɐ𝙙 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:08:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550189259215 |
+| Players | 2/15 |
+| Host Name | John Donne Lujan Carrion |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:08:16 |
 
 
 |  | epic_boss_fight_normal |
