@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550131080673 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Mark |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:35:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550131299549 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | El F1 te hará reflexionar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:35:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550131194325 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | TheBlueJTattoo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:35:26 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moon |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:36:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550129109951 |
+| Players | 8/8 |
+| Host Name | Убийца Акаме |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:31:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550131790380 |
+| Players | 2/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:36:26 |
 
 
 |  | epic_boss_fight_nightmare |
