@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704490536268 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | nusuntgacijur~ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:00:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704490588628 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | c |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:00:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704486966385 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | Rosé- |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:56:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704488786053 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | la bika me hizo mejor |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:58:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704487030408 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | FELIZ AÑO NUEVO!!!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:56:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704489857961 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | please don't be chinese |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:59:33 |
@@ -94,19 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28591704490134274 |
+| Lobby ID | 28591704490719551 |
 | Players | 2/5 |
-| Host Name | 6 лет на героине |
+| Host Name | yagodjoo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:59:51 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:00:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28591704490546418 |
-| Players | 1/10 |
-| Host Name | абвыбвагыагавгву |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:00:17 |
+| Lobby ID | 28591704486668067 |
+| Players | 9/10 |
+| Host Name | killjoy999 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:56:07 |
 
 
