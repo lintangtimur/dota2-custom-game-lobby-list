@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550077519869 |
-| Players | 6/10 |
-| Host Name | DONT KILL ME |
+| Players | 2/10 |
+| Host Name | BUSTER McFARLEY |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:58:24 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550077953725 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Паша цветомузыка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:59:12 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550078485339 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | мистер хомка ублю |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:00:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550077167795 |
+| Players | 2/8 |
+| Host Name | LIMBO4KA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:57:44 |
 
 
 |  | epic_boss_fight_nightmare |
