@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550200439559 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | 1 v 23（°𓂍° ） |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:24:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550202256841 |
-| Players | 12/15 |
-| Host Name | Mr.Zombak |
+| Lobby ID | 28590550203131256 |
+| Players | 3/8 |
+| Host Name | Wisewolf of Yoitsu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:27:39 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:28:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550202444401 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Мятный коктейль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:27:56 |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:26:04 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550203131256 |
-| Players | 3/8 |
-| Host Name | Wisewolf of Yoitsu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:28:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550201659225 |
@@ -63,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bounty master |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:26:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550203360387 |
-| Players | 3/5 |
-| Host Name | белый |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:29:16 |
 
 
