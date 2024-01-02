@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550301100809 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Hanni- |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:33:31 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550302672747 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | ты не чувствуешь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:35:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550302702428 |
-| Players | 1/10 |
-| Host Name | перечислятор |
+| Lobby ID | 28590550302912009 |
+| Players | 1/8 |
+| Host Name | mydachyo flow |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:35:14 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:35:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550298520360 |
-| Players | 23/24 |
-| Host Name | 보보씨 |
+| Lobby ID | 28590550302946091 |
+| Players | 1/15 |
+| Host Name | hsy |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:30:44 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:35:29 |
 
 
 |  | epic_boss_fight_nightmare |
