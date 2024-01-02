@@ -40,26 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704412555657 |
-| Players | 1/15 |
-| Host Name | 那年冬天，我走丢了 |
-| Region | Unknown |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:39:29 |
+| Lobby ID | 28591704412626561 |
+| Players | 6/15 |
+| Host Name | Shambooh ֎ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:39:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704412053041 |
-| Players | 1/8 |
-| Host Name | Сагърай letmedie |
+| Lobby ID | 28591704412388504 |
+| Players | 2/8 |
+| Host Name | ногосточленовый |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:38:59 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:39:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704412477233 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 1007 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:39:24 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704410215950 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Amado |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:37:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704412301851 |
-| Players | 10/15 |
-| Host Name | ЦbIGAN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:39:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704412388504 |
-| Players | 2/8 |
-| Host Name | ногосточленовый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:39:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -135,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Saxarito |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:38:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704411730170 |
-| Players | 9/10 |
-| Host Name | BuduCapTere |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:38:40 |
 
 
 |  | epic_boss_fight_normal |
