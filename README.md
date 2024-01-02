@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550124262504 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:23:19 |
@@ -54,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | напёздник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:26:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550125825858 |
+| Players | 1/15 |
+| Host Name | Peace Duke |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:26:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550125924695 |
+| Players | 1/15 |
+| Host Name | COVID 19 |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:26:20 |
 
 
 |  | epic_boss_fight_nightmare |
