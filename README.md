@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550076431353 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Scrayl |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:56:18 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:48 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550076756873 |
+| Players | 1/24 |
+| Host Name | ☭PolpotTrotskyXiǎopíngDantes |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:56:57 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550075825694 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:55:06 |
