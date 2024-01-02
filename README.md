@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:14:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549961440262 |
-| Players | 9/10 |
-| Host Name | DUQUE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:14:26 |
+| Lobby ID | 28590549962789223 |
+| Players | 1/8 |
+| Host Name | asd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:17:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549961918388 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | El Peke 3k |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:15:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549962285374 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | rowa |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:16:03 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LordValdomero |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:16:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549762782827 |
-| Players | 23/24 |
-| Host Name | MADARA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
