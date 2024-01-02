@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:49:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550192204527 |
-| Players | 5/8 |
-| Host Name | Проказа |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:12:38 |
+| Lobby ID | 28590550192476538 |
+| Players | 2/15 |
+| Host Name | beardrinker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:13:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550192256222 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Jseven |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:12:43 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Solowind |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:12:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550192476538 |
-| Players | 1/15 |
-| Host Name | beardrinker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:13:03 |
 
 
 |  | epic_boss_fight_nightmare |
