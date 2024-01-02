@@ -32,10 +32,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704584974201 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Snowmiser |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:43:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704584255797 |
+| Players | 6/10 |
+| Host Name | arthas is alive |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:42:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704585152333 |
+| Players | 1/8 |
+| Host Name | tegiri nenashi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:43:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704585131339 |
+| Players | 1/8 |
+| Host Name | С НОВЫМ ГОДОМ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:43:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704585163392 |
+| Players | 5/8 |
+| Host Name | Чушпан |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:43:18 |
 
 
 |  | epic_boss_fight_challenger |
@@ -59,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704582027229 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Flutter |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:39:49 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28591704584990195 |
-| Players | 1/7 |
-| Host Name | Doctorsaurio (ง'̀-'́)ง |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:43:06 |
 
 
