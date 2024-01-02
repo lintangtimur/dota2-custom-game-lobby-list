@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550326058497 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | уголовник |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:59:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550326066809 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | b |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:59:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550327110640 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | apocalypse |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:00:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550328136799 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Черный мечник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:01:48 |
@@ -85,37 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550328439905 |
-| Players | 1/8 |
-| Host Name | waiting for death |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:02:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28590550328450868 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | 先生 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:02:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550325450566 |
-| Players | 9/10 |
-| Host Name | SB MONKEY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:59:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550317685868 |
-| Players | 9/10 |
-| Host Name | fefo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:51:04 |
 
 
