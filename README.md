@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704185303378 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Gaborit |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:16:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704165700461 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ✬✬✬Leon Scott Kennedy |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:59:31 |
@@ -41,28 +41,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704186580210 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Virgin Killer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:17:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704186543028 |
+| Players | 5/8 |
+| Host Name | chibi chibi chapa chapa |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:17:42 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704187056186 |
-| Players | 2/15 |
-| Host Name | likeable (T_T) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:18:09 |
+| Lobby ID | 28591704187251531 |
+| Players | 1/15 |
+| Host Name | pasen fotos del innombrable ese |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:18:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704187311521 |
+| Players | 1/10 |
+| Host Name | tocosh |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:18:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704186543028 |
-| Players | 4/8 |
-| Host Name | chibi chibi chapa chapa |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:17:42 |
+| Lobby ID | 28591704187324797 |
+| Players | 3/8 |
+| Host Name | GGWP |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:18:22 |
 
 
 |  | epic_boss_fight_hard |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gustavo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:17:56 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704187297009 |
+| Players | 1/5 |
+| Host Name | Druuubs |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:18:21 |
 
 
