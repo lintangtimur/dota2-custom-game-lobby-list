@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704497107882 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Тараканий бог |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:07:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704490910362 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Rick & Clancy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:00:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704498095486 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Yapeame 3so y Fedeo Gaaa |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:08:16 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28591704495618708 |
 | Players | 3/15 |
-| Host Name | Alex |
+| Host Name | AfyBC |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:05:38 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704498891856 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Karoza™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:09:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704499047732 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 战士 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:09:17 |
@@ -110,13 +110,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:09:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704499372309 |
-| Players | 1/15 |
-| Host Name | Dime onichan y te carreo |
+| Lobby ID | 28591704499425129 |
+| Players | 1/8 |
+| Host Name | Tidus猫王 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:09:41 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:09:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704499428346 |
+| Players | 2/10 |
+| Host Name | DENCHIK CHERRY GANG |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:09:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704499463918 |
+| Players | 2/8 |
+| Host Name | ABDOL |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:09:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704499485364 |
+| Players | 1/8 |
+| Host Name | Дедулина шанюшка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:09:51 |
 
 
 |  | epic_boss_fight_challenger |
