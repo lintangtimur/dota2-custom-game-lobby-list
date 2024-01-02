@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:23:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704584920859 |
-| Players | 6/10 |
-| Host Name | OptikRussia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:43:02 |
+| Lobby ID | 28591704585633397 |
+| Players | 1/8 |
+| Host Name | Legna |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:43:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704581581297 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | ｓｈｉｂａｉ　ふコ悪 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:39:19 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704585230200 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | >.< |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:43:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704585296801 |
-| Players | 15/15 |
-| Host Name | How u doin? |
+| Lobby ID | 28591704585163392 |
+| Players | 6/8 |
+| Host Name | Toss a coin to your Witcher |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:43:27 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:43:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704585152333 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Солевоин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:43:17 |
@@ -65,13 +65,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:43:16 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704585564470 |
+| Players | 6/10 |
+| Host Name | egoist |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:43:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704584255797 |
+| Players | 8/10 |
+| Host Name | степан українець |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:42:17 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704585163392 |
-| Players | 5/8 |
-| Host Name | Toss a coin to your Witcher |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:43:18 |
+| Lobby ID | 28591704585609729 |
+| Players | 1/8 |
+| Host Name | hitela |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:43:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704585634904 |
+| Players | 1/15 |
+| Host Name | Deiz y ocho añitos |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:43:50 |
 
 
 |  | epic_boss_fight_challenger |
@@ -95,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704582027229 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Flutter |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:39:49 |
