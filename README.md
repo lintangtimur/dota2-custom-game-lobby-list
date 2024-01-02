@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550312805229 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Man NOT HOT ! never HoT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:45:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550312615035 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 仓鼠 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:45:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550312668759 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | из-за тебя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:45:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550311578539 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | alpha-pvp |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:44:37 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MK bananoed |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:46:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550313150164 |
+| Players | 1/10 |
+| Host Name | Xiao |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:46:18 |
 
 
