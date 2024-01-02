@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704373770122 |
-| Players | 14/15 |
-| Host Name | Gay Fish |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:01:18 |
+| Lobby ID | 28591704374274654 |
+| Players | 7/10 |
+| Host Name | Выебу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:01:46 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704374017659 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | ☆ VAZ ☆ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:01:31 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704374137487 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | MadGaara |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:01:38 |
@@ -157,20 +157,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704374274654 |
-| Players | 6/10 |
-| Host Name | Выебу |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:01:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704374327708 |
+| Lobby ID | 28591704374515000 |
 | Players | 1/10 |
 | Host Name | Настоящий писько |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:01:49 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:02:00 |
 
 
 |  | epic_boss_fight_nightmare |
