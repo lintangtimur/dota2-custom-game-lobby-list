@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549919090927 |
-| Players | 12/15 |
-| Host Name | Shambooh ֎ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:54:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549919003046 |
-| Players | 6/10 |
-| Host Name | Rip van Winkle |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:54:04 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549919713860 |
@@ -72,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Spamming 1 hero = Go Report me |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:55:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549919827830 |
+| Players | 2/10 |
+| Host Name | kekegozu |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:55:39 |
 
 
 |  | epic_boss_fight_nightmare |
