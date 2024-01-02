@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704369414123 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | SKILL228 IANASILNIK |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:57:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704361656912 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Sinmsimi |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:49:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704369015379 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | PAch1 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:56:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704368486495 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:56:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704369393952 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Acideck |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:57:04 |
@@ -101,12 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:54:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704369650971 |
+| Players | 1/8 |
+| Host Name | positive vibes' |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:57:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704369698455 |
+| Players | 4/8 |
+| Host Name | Dolb?yb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:57:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704366429752 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:54:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704369685620 |
+| Players | 1/5 |
+| Host Name | Kapal lawd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:57:21 |
 
 
