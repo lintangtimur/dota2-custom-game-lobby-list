@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:37:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704154435358 |
-| Players | 5/8 |
-| Host Name | hebker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:49:04 |
+| Lobby ID | 28591704159514804 |
+| Players | 1/24 |
+| Host Name | Lolo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:53:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704158632689 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Rarity' |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:53:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704159065145 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Casper0k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:53:26 |
@@ -76,10 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704159514804 |
+| Lobby ID | 28591704159902646 |
 | Players | 1/24 |
-| Host Name | Lolo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:53:51 |
+| Host Name | Buttery Flaky Crust |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:54:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704159892382 |
+| Players | 1/5 |
+| Host Name | MaFi0zY |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:54:13 |
 
 
