@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704428389172 |
-| Players | 7/8 |
-| Host Name | you are stupid girl<3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:55:31 |
+| Lobby ID | 28591704424545905 |
+| Players | 5/8 |
+| Host Name | Elysium |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:51:35 |
 
 
 |  | ot3_gardens_duo |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704424454467 |
-| Players | 8/15 |
-| Host Name | Akira- |
+| Lobby ID | 28591704429214999 |
+| Players | 9/15 |
+| Host Name | zxc beast genius |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:51:30 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:56:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704428856871 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | tocosh |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:56:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704417126225 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | 彡帝血魔神彡 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:44:03 |
@@ -103,26 +103,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704429329758 |
-| Players | 5/8 |
-| Host Name | pwd |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:56:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704428766823 |
+| Lobby ID | 28591704429384307 |
 | Players | 7/8 |
-| Host Name | Mudkip |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:55:54 |
+| Host Name | я вижу все |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:56:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704429204896 |
+| Players | 1/10 |
+| Host Name | nerienfaire |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:56:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704427975223 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:55:05 |
@@ -139,29 +139,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704429214999 |
-| Players | 6/15 |
-| Host Name | zxc beast genius |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:56:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704429204896 |
-| Players | 1/10 |
-| Host Name | nerienfaire |
+| Lobby ID | 28591704427989436 |
+| Players | 13/15 |
+| Host Name | u can’t stop what God started |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:56:22 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:55:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704424545905 |
-| Players | 5/8 |
-| Host Name | Elysium |
+| Lobby ID | 28591704429559461 |
+| Players | 1/8 |
+| Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:51:35 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:56:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -171,5 +162,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jesos bless my jee pe eeh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:54:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704429390329 |
+| Players | 2/10 |
+| Host Name | before i forget |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:56:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704429507352 |
+| Players | 1/5 |
+| Host Name | KotaNa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:56:41 |
 
 
