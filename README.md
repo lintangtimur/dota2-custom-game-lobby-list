@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550220943919 |
-| Players | 9/10 |
-| Host Name | sorry |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:54:22 |
+| Lobby ID | 28590550220386244 |
+| Players | 16/24 |
+| Host Name | Monkey Roronoa Vinsmoke |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:53:35 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:22:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550220386244 |
-| Players | 14/24 |
-| Host Name | Monkey Roronoa Vinsmoke |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:53:35 |
+| Lobby ID | 28590550221541738 |
+| Players | 2/10 |
+| Host Name | Giz1m0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:55:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550221585185 |
+| Players | 2/10 |
+| Host Name | K!SS QWE |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:55:19 |
 
 
 |  | epic_boss_fight_nightmare |
