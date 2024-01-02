@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704307817279 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | <Cyborgix> |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:59:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704308363354 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | вор |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:00:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704309542625 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Aomine daiki |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:01:31 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:01:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704309367087 |
-| Players | 9/10 |
-| Host Name | Holly |
+| Lobby ID | 28591704310220232 |
+| Players | 2/24 |
+| Host Name | Steve |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:01:21 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:02:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,13 +101,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:01:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704310220232 |
-| Players | 2/24 |
-| Host Name | Steve |
+| Lobby ID | 28591704310479144 |
+| Players | 3/10 |
+| Host Name | realnazi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:02:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704310504914 |
+| Players | 4/8 |
+| Host Name | шб в канаву |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:02:07 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:02:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704310489446 |
+| Players | 2/10 |
+| Host Name | m2ge |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:02:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704310540508 |
+| Players | 2/8 |
+| Host Name | where is your motivation? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:02:24 |
 
 
 |  | epic_boss_fight_nightmare |
