@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704264537555 |
-| Players | 12/15 |
-| Host Name | FerreiraM32 |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:22:30 |
+| Lobby ID | 28591704273601956 |
+| Players | 8/15 |
+| Host Name | Darnque |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:30:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704266948613 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | db |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:24:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704273510540 |
-| Players | 6/8 |
-| Host Name | ideafix |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:30:09 |
+| Lobby ID | 28591704273704575 |
+| Players | 1/10 |
+| Host Name | CHUPAPI |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:30:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704263082684 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | 照屋光男 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:21:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704267626046 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ✬✬✬Leon Scott Kennedy |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:25:09 |
@@ -85,46 +85,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704273409176 |
-| Players | 3/8 |
-| Host Name | sq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:30:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704273601956 |
-| Players | 2/15 |
-| Host Name | Gortenz1y💙💛 |
+| Lobby ID | 28591704274249437 |
+| Players | 6/8 |
+| Host Name | Fe"Nik"s |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:30:14 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:30:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704274197530 |
+| Players | 4/24 |
+| Host Name | lil nigga |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:30:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704273628244 |
-| Players | 2/10 |
-| Host Name | MEEEeeep |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:30:15 |
+| Lobby ID | 28591704274290822 |
+| Players | 6/10 |
+| Host Name | ДАНИЛА ЗИГАМЕТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:30:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704274427004 |
+| Players | 2/8 |
+| Host Name | Corp edit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:30:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28591704272332606 |
+| Lobby ID | 28591704274081107 |
+| Players | 1/10 |
+| Host Name | EpicBossFightEnjoyer |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:30:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704274223293 |
 | Players | 1/10 |
 | Host Name | Kunde |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:29:11 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:30:46 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28591704272317969 |
-| Players | 9/10 |
-| Host Name | Kurimawski |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:29:11 |
+| Lobby ID | 28591704274482222 |
+| Players | 3/5 |
+| Host Name | Kawasaki |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:30:59 |
 
 
