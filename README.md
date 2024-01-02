@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549974806222 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Elya |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:40:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549972832881 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:36:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549976212740 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Disaster |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:42:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549975804460 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | Collapse |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:41:59 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549975411864 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ☬︎kill me︎☬ ⛥eternal despair⛥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:41:14 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549976130435 |
-| Players | 3/5 |
-| Host Name | El prodigio |
+| Players | 2/5 |
+| Host Name | gonzah951 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:42:36 |
 
