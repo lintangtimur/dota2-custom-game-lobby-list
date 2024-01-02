@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550326058497 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | уголовник |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:59:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550326066809 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 보보씨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:59:43 |
@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:01:00 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550327172339 |
-| Players | 5/8 |
-| Host Name | я...ТАЛАНТ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:00:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550326366864 |
-| Players | 5/15 |
-| Host Name | HUGE |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:00:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550327499083 |
-| Players | 3/8 |
-| Host Name | Чикатило |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:01:10 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550327110640 |
@@ -92,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:00:46 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550317685868 |
-| Players | 9/10 |
-| Host Name | Godbless |
+| Lobby ID | 28590550326366864 |
+| Players | 7/15 |
+| Host Name | HUGE |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:00:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550327499083 |
+| Players | 6/8 |
+| Host Name | Чикатило |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:51:04 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:01:10 |
 
 
 |  | epic_boss_fight_nightmare |
