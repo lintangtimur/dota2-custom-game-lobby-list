@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550195086413 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Luckyman |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:16:57 |
