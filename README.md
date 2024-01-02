@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550267382777 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | палач с гор аппалачи |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:55:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550271298942 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | I'm Milk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:59:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550271963943 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ☆ VAZ ☆ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:00:43 |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:00:21 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550270697715 |
-| Players | 1/10 |
-| Host Name | Падший дом |
+| Lobby ID | 28590550272356929 |
+| Players | 2/8 |
+| Host Name | Felicita |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:59:12 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:01:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550272353975 |
+| Players | 1/8 |
+| Host Name | my girl... |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:01:11 |
 
 
 |  | epic_boss_fight_normal |
