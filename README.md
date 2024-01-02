@@ -40,20 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550198075104 |
-| Players | 14/15 |
-| Host Name | smtg here |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:21:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550176861473 |
-| Players | 23/24 |
-| Host Name | Тайлер Дёрнул |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:49:29 |
+| Lobby ID | 28590550199952907 |
+| Players | 3/15 |
+| Host Name | ЇЇ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:24:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -63,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | shady |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:21:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550199869494 |
-| Players | 1/5 |
-| Host Name | SAVITAR |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:24:03 |
 
 
