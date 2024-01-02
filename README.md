@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550302663128 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:35:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550334440847 |
-| Players | 4/10 |
-| Host Name | Biggie Smals |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:08:02 |
+| Lobby ID | 28590550334687793 |
+| Players | 3/8 |
+| Host Name | Iname |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:08:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:00:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550334462142 |
-| Players | 7/10 |
-| Host Name | gay-mer_Daniel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:08:04 |
+| Lobby ID | 28590550335132371 |
+| Players | 5/8 |
+| Host Name | Огр |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:08:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550333663301 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Latte |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:07:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550333768539 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | @®Man |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:07:23 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | milota |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:08:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550334811448 |
-| Players | 1/5 |
-| Host Name | шо такое туя? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:08:24 |
 
 
 |  | epic_boss_fight_nightmare |
