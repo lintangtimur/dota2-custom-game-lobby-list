@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550220265677 |
-| Players | 5/10 |
-| Host Name | татарин |
+| Lobby ID | 28590550220525780 |
+| Players | 6/15 |
+| Host Name | Keruga |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:53:24 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:53:47 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550220386244 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Monkey Roronoa Vinsmoke |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:53:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550220525780 |
-| Players | 3/15 |
-| Host Name | Keruga |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:53:47 |
 
 
 |  | epic_boss_fight_nightmare |
