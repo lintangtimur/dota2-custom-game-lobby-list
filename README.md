@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704313441952 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:04:59 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28591704317004556 |
 | Players | 8/10 |
-| Host Name | Absolute |
+| Host Name | Ten1Q |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:08:11 |
 
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:06:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704316954112 |
-| Players | 7/15 |
-| Host Name | andreyvinogradoff |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:08:08 |
+| Lobby ID | 28591704317522705 |
+| Players | 2/24 |
+| Host Name | 28min |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:08:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -112,20 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704317059360 |
-| Players | 3/8 |
-| Host Name | 3 practice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:08:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704317522705 |
-| Players | 2/24 |
-| Host Name | 28min |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:08:39 |
+| Lobby ID | 28591704317656913 |
+| Players | 6/8 |
+| Host Name | МС по доте |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:08:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nekr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:06:57 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28591704317613117 |
+| Players | 3/7 |
+| Host Name | FrenzYz |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:08:44 |
 
 
