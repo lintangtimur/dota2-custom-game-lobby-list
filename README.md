@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550040222183 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Jesús de Nazaret |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:46:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550040362241 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:47:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550040269019 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | roothuyut |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:46:52 |
@@ -56,10 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:49:33 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550041820556 |
+| Players | 4/8 |
+| Host Name | PANZE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:49:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550041826014 |
+| Players | 1/24 |
+| Host Name | BIG DON |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:49:52 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550038656725 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Szostak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:43:44 |
