@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704534128500 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Rick & Clancy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:46:57 |
@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704533508283 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | LOS JUDIOS ARRUINARON EL MUNDO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:46:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704536181678 |
-| Players | 4/8 |
-| Host Name | psiblvde |
+| Lobby ID | 28591704536132438 |
+| Players | 15/15 |
+| Host Name | Doublesexual |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:49:13 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:49:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704530847650 |
-| Players | 22/24 |
-| Host Name | pashaearl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:43:21 |
+| Lobby ID | 28591704535962686 |
+| Players | 1/15 |
+| Host Name | EL LORAX |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:48:58 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704534942946 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | El terror de los creeps |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:47:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704535007509 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | A.M. Crunchwrap |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:47:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704536159469 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | MOTOMAMI |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:49:11 |
@@ -103,29 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704536038128 |
-| Players | 8/10 |
-| Host Name | 17'5 4 7Я4P |
+| Lobby ID | 28591704536337667 |
+| Players | 3/10 |
+| Host Name | МИЛАНА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:49:03 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:49:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704535962686 |
-| Players | 1/15 |
-| Host Name | EL LORAX |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:48:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704536132438 |
-| Players | 7/15 |
-| Host Name | Doublesexual |
+| Lobby ID | 28591704536419511 |
+| Players | 1/8 |
+| Host Name | Mr_Vojlovr |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:49:10 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:49:28 |
 
 
 |  | epic_boss_fight_challenger |
@@ -144,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:44:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704536401343 |
+| Players | 1/10 |
+| Host Name | pcn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:49:27 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704536432912 |
+| Players | 3/10 |
+| Host Name | EvgenSmoking |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:49:29 |
 
 
