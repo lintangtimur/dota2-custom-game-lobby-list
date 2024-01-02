@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549929205082 |
-| Players | 14/15 |
-| Host Name | Shambooh ֎ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:12:58 |
+| Lobby ID | 28590549930658248 |
+| Players | 2/10 |
+| Host Name | Hellsing...!! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:15:39 |
 
 
 |  | ot3_desert_octet |
@@ -56,48 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:14:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549927694459 |
-| Players | 5/8 |
-| Host Name | kelthusadELpro |
+| Lobby ID | 28590549930845252 |
+| Players | 4/15 |
+| Host Name | _N A T H_ :3 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:10:09 |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:16:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549929446297 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Misax |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:13:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549929094816 |
-| Players | 14/15 |
-| Host Name | Little BirD |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:12:45 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549930216441 |
 | Players | 2/10 |
-| Host Name | Risehush |
+| Host Name | whos your daddeh  !!! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:14:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549930658248 |
-| Players | 1/10 |
-| Host Name | Hellsing...!! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:15:39 |
+| Lobby ID | 28590549929205082 |
+| Players | 14/15 |
+| Host Name | Shambooh ֎ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:12:58 |
 
 
