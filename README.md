@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550188220650 |
-| Players | 8/15 |
-| Host Name | poison in my lungs kill me |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:06:45 |
+| Lobby ID | 28590550188559063 |
+| Players | 5/10 |
+| Host Name | top |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:07:15 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550188131115 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Nuterez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:06:37 |
@@ -32,34 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550184158111 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:00:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550188545497 |
-| Players | 4/8 |
-| Host Name | 324234 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:07:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550188559063 |
-| Players | 3/10 |
-| Host Name | top |
+| Lobby ID | 28590550189003677 |
+| Players | 1/15 |
+| Host Name | GoriLL@ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:07:15 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:07:53 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550187925768 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | GDMT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:06:19 |
