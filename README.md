@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549934119896 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:22:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549928486215 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Geegee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:11:38 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:21:56 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549933958271 |
-| Players | 17/24 |
-| Host Name | gustraynat18 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:21:48 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549933882841 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Ninguém |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:21:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549934785731 |
+| Players | 1/8 |
+| Host Name | ПИПИСО КАКАШНЯК |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:23:22 |
 
 
 |  | epic_boss_fight_normal |
