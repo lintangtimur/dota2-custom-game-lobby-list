@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550200439559 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 1 v 23（°𓂍° ） |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:24:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550200615333 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | я дора а ты готова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:25:11 |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550202308569 |
-| Players | 1/15 |
-| Host Name | Enting kabisote |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:27:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550202413169 |
-| Players | 1/8 |
-| Host Name | Членик в тесте |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:27:53 |
+| Lobby ID | 28590550198457789 |
+| Players | 14/15 |
+| Host Name | Conq |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:21:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kapitan Tutan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:27:06 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28590550202467427 |
-| Players | 1/7 |
-| Host Name | Evangel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:27:58 |
 
 
