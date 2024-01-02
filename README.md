@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704145629339 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Kaleen bhaiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:40:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704142799836 |
-| Players | 12/15 |
+| Players | 9/15 |
 | Host Name | Junkie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:37:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550344806837 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:17:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704145838774 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | IDDQD |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:40:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704143085510 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | rohanec1993 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:37:54 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704145738322 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ``Univesal Killer`` |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:40:33 |
