@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704375321189 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | 肏你妈屄 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:02:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704369015379 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | PAch1 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:56:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704373730075 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 123456 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:01:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704370721172 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Chandideadmoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:58:21 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704375380523 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | 『L๏LɨЌ』 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:02:49 |
@@ -140,16 +140,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704375428568 |
-| Players | 4/8 |
-| Host Name | Енот |
+| Players | 2/8 |
+| Host Name | работник кфс |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:02:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704375510411 |
+| Players | 1/8 |
+| Host Name | Sakata Gintoki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:02:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704375315430 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | crestfallen |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:02:46 |
