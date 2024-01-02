@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704139086654 |
-| Players | 7/10 |
-| Host Name | xorto.bazidli |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:34:02 |
+| Lobby ID | 28591704139781158 |
+| Players | 2/8 |
+| Host Name | J.E.M.R |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:34:38 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704139536324 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | TroubleMaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:34:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704139486171 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | russian - report |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:34:22 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:34:28 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704139605644 |
-| Players | 1/10 |
-| Host Name | еДУ В ЦуМ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:34:28 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28591704139157905 |
+| Lobby ID | 28591704139547583 |
 | Players | 1/5 |
-| Host Name | Гений мыслей |
+| Host Name | Butterfly |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:34:05 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:34:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704139538479 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | fenrir |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:34:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704139547583 |
-| Players | 1/5 |
-| Host Name | Butterfly |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:34:25 |
 
 
