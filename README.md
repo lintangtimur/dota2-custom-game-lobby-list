@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550223274601 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Вова адидас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:57:45 |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550223466654 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | я...ТАЛАНТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:58:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550220386244 |
-| Players | 23/24 |
-| Host Name | Monkey Roronoa Vinsmoke |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:53:35 |
 
 
 |  | ot3_gardens_duo |
@@ -54,5 +45,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:58:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550223558636 |
+| Players | 2/8 |
+| Host Name | Miris Slampa |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:58:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550223670121 |
+| Players | 1/5 |
+| Host Name | DoBrblu |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:58:18 |
 
 
