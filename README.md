@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550143103098 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:55:35 |
@@ -20,33 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:55:57 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550143215324 |
-| Players | 13/15 |
-| Host Name | road to 0mmr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:55:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550143281565 |
-| Players | 4/8 |
-| Host Name | I won't do anything. |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:55:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550143974961 |
-| Players | 1/15 |
-| Host Name | ''XRB |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:57:05 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550144007457 |
@@ -54,6 +27,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pohui proebali |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:57:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550144479132 |
+| Players | 1/15 |
+| Host Name | фанат Сенджумары |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:57:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550142802364 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Click[&]Search |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:55:03 |
