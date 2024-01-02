@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550290450599 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | NOT WOW HOOMANE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:21:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550291566367 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | VaCrum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:23:07 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550291785949 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | pohui proebali |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:23:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550292293402 |
-| Players | 5/8 |
-| Host Name | Башмак Африканца |
+| Lobby ID | 28590550292409337 |
+| Players | 1/10 |
+| Host Name | Sova |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:23:52 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:24:00 |
 
 
 |  | epic_boss_fight_nightmare |
