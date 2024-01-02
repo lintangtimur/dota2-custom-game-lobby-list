@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:31:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550095548591 |
+| Players | 6/8 |
+| Host Name | YO NAJAT (EL BRAVO) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:32:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550095149354 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 山上徹也 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:31:21 |
