@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704566090950 |
-| Players | 21/24 |
-| Host Name | T.DIVINA BLACK FREEZER¡¡ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:22:03 |
+| Lobby ID | 28591704569394316 |
+| Players | 5/8 |
+| Host Name | Desu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:25:41 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704569144590 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | isn't like holding to the center |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:25:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704567108966 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Peter el Panda |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:23:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704569363404 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Raven |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:25:39 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704565436262 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | zy- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:21:19 |
