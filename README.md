@@ -38,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:50:34 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550212477942 |
-| Players | 22/24 |
-| Host Name | creep enjoyer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:42:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550218519868 |
-| Players | 4/15 |
-| Host Name | Lie |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:50:57 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550218538609 |
@@ -65,10 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:50:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550218519868 |
+| Players | 6/15 |
+| Host Name | Lie |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:50:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550218775058 |
+| Players | 4/8 |
+| Host Name | Son1#33 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:51:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550216695675 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | червь (вьеб с 0) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:48:23 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BoBoss |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:50:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550218783812 |
+| Players | 1/10 |
+| Host Name | Manami Sangaku |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:51:19 |
 
 
