@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704393123598 |
-| Players | 19/24 |
+| Players | 16/24 |
 | Host Name | Тема Мякиш |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:20:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704387522763 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | vodka |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:14:35 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704395965135 |
-| Players | 4/15 |
-| Host Name | [Тосва]Такаши |
+| Players | 9/15 |
+| Host Name | katrinn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:22:54 |
 
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704395983080 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | FishBoy |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:22:55 |
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28591704395024915 |
-| Players | 6/10 |
-| Host Name | Yui |
+| Lobby ID | 28591704391619010 |
+| Players | 9/10 |
+| Host Name | Kapal lawd |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:21:58 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:18:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -180,14 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KIWI |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:21:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704391619010 |
-| Players | 9/10 |
-| Host Name | Kapal lawd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:18:36 |
 
 
