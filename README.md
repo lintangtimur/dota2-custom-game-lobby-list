@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704231270107 |
-| Players | 1/15 |
-| Host Name | ..c.I.e.. |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:55:07 |
+| Lobby ID | 28591704237252559 |
+| Players | 4/15 |
+| Host Name | Nevermind |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:00:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:58:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704235185698 |
-| Players | 2/24 |
-| Host Name | мальчик мандарин |
+| Lobby ID | 28591704237372607 |
+| Players | 1/10 |
+| Host Name | eto nash shans |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:58:25 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:00:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704233392823 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | seizures |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:56:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704236849782 |
+| Players | 14/15 |
+| Host Name | SarahPaulson |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:59:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704237400539 |
+| Players | 2/24 |
+| Host Name | TransMart |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:00:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704231377842 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | brook ブルック |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:55:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704237289517 |
+| Players | 1/5 |
+| Host Name | 󠀡󠀡 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:00:08 |
 
 
