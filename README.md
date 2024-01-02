@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549984918669 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | test acc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:59:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549985375989 |
-| Players | 3/24 |
+| Players | 9/24 |
 | Host Name | _____________ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:00:29 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549985102706 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | La parquita |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:59:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549984522598 |
-| Players | 6/8 |
-| Host Name | QUISPESTYLE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:58:51 |
+| Lobby ID | 28590549985549512 |
+| Players | 6/15 |
+| Host Name | Cronus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:00:49 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549985278951 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Makuno |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:00:18 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lance |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:00:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549985549512 |
-| Players | 2/15 |
-| Host Name | Cronus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:00:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549985587747 |
-| Players | 1/15 |
-| Host Name | Mako Akiro |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:00:53 |
 
 
 |  | epic_boss_fight_nightmare |
