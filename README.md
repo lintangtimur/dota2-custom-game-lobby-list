@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549997796019 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549997556725 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549986473683 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | PJ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550000678193 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | F1NNN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:30:15 |
@@ -74,19 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:30:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550000732345 |
-| Players | 1/24 |
-| Host Name | RabidGinger |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:30:22 |
+| Lobby ID | 28590550000759313 |
+| Players | 1/10 |
+| Host Name | La parquita |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:30:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550000740925 |
+| Players | 1/15 |
+| Host Name | OK WBON |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:30:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550000795935 |
+| Players | 2/15 |
+| Host Name | ma3laa |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:30:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549998716837 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | canon event |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:26:28 |
