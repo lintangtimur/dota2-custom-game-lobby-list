@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704294342726 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Chacalpup |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:48:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704294026794 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Leo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:47:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704287534278 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | NightSuki ツユ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:42:10 |
@@ -49,47 +49,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704295526909 |
+| Lobby ID | 28591704295701761 |
 | Players | 3/8 |
-| Host Name | NAVIGATOR |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:49:10 |
+| Host Name | 『zxc』㴀Pups㟼 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:49:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704294517890 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | ym |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:48:17 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704295847059 |
+| Players | 5/8 |
+| Host Name | ICe_WalloW_Come |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:49:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704296377832 |
+| Players | 1/8 |
+| Host Name | дед ещё могёт |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:49:54 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704295456395 |
-| Players | 2/10 |
-| Host Name | Architect |
+| Lobby ID | 28591704296371528 |
+| Players | 3/10 |
+| Host Name | ЯБЛОЧНЫЙ СПАС |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:49:06 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:49:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704295266889 |
-| Players | 9/15 |
-| Host Name | Maleort |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:48:56 |
+| Lobby ID | 28591704296248866 |
+| Players | 1/15 |
+| Host Name | ! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:49:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704295605511 |
-| Players | 1/24 |
-| Host Name | Такойслабый ·.· |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:49:14 |
+| Lobby ID | 28591704296258541 |
+| Players | 9/15 |
+| Host Name | Безумный Паша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:49:47 |
 
 
 |  | epic_boss_fight_normal |
