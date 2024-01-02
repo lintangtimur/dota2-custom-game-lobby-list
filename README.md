@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550328376944 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | H1RO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:02:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550327347804 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Tripa Seca BOLADÃO |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:01:00 |
@@ -65,6 +65,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:02:34 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550329174328 |
+| Players | 5/15 |
+| Host Name | Steve |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:02:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550329385962 |
+| Players | 4/10 |
+| Host Name | Freddie Fazbear |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:03:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550329077245 |
+| Players | 8/24 |
+| Host Name | Veenix |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:02:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550329469073 |
+| Players | 1/15 |
+| Host Name | SyX |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:03:08 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550329199098 |
@@ -74,40 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:02:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550328902833 |
-| Players | 13/15 |
-| Host Name | Игрок 6 позиции |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:02:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550329077245 |
-| Players | 7/24 |
-| Host Name | Veenix |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:02:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550329174328 |
-| Players | 3/15 |
-| Host Name | Steve |
+| Lobby ID | 28590550329544365 |
+| Players | 1/8 |
+| Host Name | Pomstick |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:02:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550329385962 |
-| Players | 2/10 |
-| Host Name | Freddie Fazbear |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:03:04 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:03:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lerman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:02:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550317685868 |
+| Players | 9/10 |
+| Host Name | fefo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:51:04 |
 
 
