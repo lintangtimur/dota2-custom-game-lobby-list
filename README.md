@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550266318885 |
-| Players | 14/15 |
-| Host Name | Dekant |
+| Lobby ID | 28590550267003315 |
+| Players | 3/8 |
+| Host Name | Arad the Guts |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:53:48 |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:54:39 |
 
 
 |  | ot3_desert_octet |
@@ -20,22 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:49:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550266278428 |
-| Players | 8/10 |
-| Host Name | мефчик уже не тот. |
+| Lobby ID | 28590550267223178 |
+| Players | 2/15 |
+| Host Name | frozen star |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:53:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550267003315 |
-| Players | 3/8 |
-| Host Name | Arad the Guts |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:54:39 |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:54:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -45,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kongandeu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:48:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550263759891 |
-| Players | 9/10 |
-| Host Name | Sea Server Cancer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:50:40 |
 
 
 |  | epic_boss_fight_normal |
