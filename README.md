@@ -11,49 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:44:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550259117265 |
-| Players | 9/10 |
-| Host Name | Pemperator |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:44:55 |
+| Lobby ID | 28590550259307452 |
+| Players | 10/24 |
+| Host Name | YouKnowMyName |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:45:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550257658790 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:43:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550258645771 |
-| Players | 7/8 |
-| Host Name | Над пивом |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:44:19 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550258543614 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | слепой окулист |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:44:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550259307452 |
-| Players | 9/24 |
-| Host Name | YouKnowMyName |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:45:10 |
 
 
 |  | epic_boss_fight_nightmare |
