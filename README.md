@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550083143871 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | monkeyd.luffy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:08:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550081614100 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Datedi |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:06:05 |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:08:40 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550083776183 |
+| Players | 1/10 |
+| Host Name | Loquillo98 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:10:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550083639165 |
@@ -63,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Valiant |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:09:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550083744612 |
+| Players | 1/10 |
+| Host Name | Raynuva |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:10:03 |
 
 
