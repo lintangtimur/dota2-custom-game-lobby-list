@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704386881645 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | ₆⁶₆ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:13:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704388283104 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | SACSA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:15:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704387065836 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | SoWyer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:14:08 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704389629432 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Aomine daiki |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:16:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704389349428 |
-| Players | 13/15 |
-| Host Name | RazValutioN |
+| Lobby ID | 28591704390750599 |
+| Players | 4/8 |
+| Host Name | practice |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:16:22 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:17:45 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704389778712 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | BodyBuilder (Антон) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:16:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704389089304 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | langir |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:16:07 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704389779297 |
-| Players | 6/8 |
-| Host Name | Space |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:16:48 |
+| Lobby ID | 28591704389982625 |
+| Players | 4/8 |
+| Host Name | Мамут Рахал |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:17:00 |
 
 
 |  | ot3_desert_octet |
@@ -112,29 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704390752666 |
-| Players | 2/8 |
-| Host Name | Чудик три |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:17:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704390750599 |
-| Players | 1/8 |
-| Host Name | practice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:17:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704389982625 |
+| Lobby ID | 28591704390983761 |
 | Players | 6/8 |
-| Host Name | akii |
+| Host Name | zhekabar |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:17:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704389349428 |
+| Players | 14/15 |
+| Host Name | RazValutioN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:17:00 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:16:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -180,5 +171,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Прилёг_посрать |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:17:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704390967794 |
+| Players | 1/5 |
+| Host Name | anal fagot |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:17:58 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28591704390977277 |
+| Players | 1/7 |
+| Host Name | PG |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:17:59 |
 
 
