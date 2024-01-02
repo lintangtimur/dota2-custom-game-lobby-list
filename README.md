@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704222583238 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Taoki- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:47:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704224181051 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Sailor FreakMoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:49:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704194542392 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | FerreiraM32 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:24:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704221490767 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | bdy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:47:01 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 無限の彼方へ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:49:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704224921976 |
+| Players | 3/15 |
+| Host Name | НА ХУЮ НАМОТАН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:49:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704224613859 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ENEKANDO |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:49:37 |
