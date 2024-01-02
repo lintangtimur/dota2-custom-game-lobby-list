@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549943701196 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | BGhost |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:40:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549943201299 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:39:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549943654304 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | YuMaRiSt_kz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:40:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549943365727 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | El Maldito Tedy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:39:47 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549943842476 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | xituro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:40:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549944051682 |
-| Players | 5/8 |
-| Host Name | you12jhon |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:41:06 |
+| Lobby ID | 28590549944071281 |
+| Players | 3/15 |
+| Host Name | mode=giga |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:41:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549944163379 |
+| Players | 1/10 |
+| Host Name | Frontier |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:41:18 |
 
 
 |  | epic_boss_fight_nightmare |
