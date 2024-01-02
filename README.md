@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550165647464 |
-| Players | 2/10 |
-| Host Name | просвет |
+| Players | 1/10 |
+| Host Name | Медвоблядь из Пскова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:32:10 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550166649568 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | shymelle_ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:33:44 |
@@ -31,17 +31,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550165778138 |
-| Players | 12/15 |
-| Host Name | не умею играть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:32:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28590550164108935 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:29:46 |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Scrappy CoCo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:32:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550167133525 |
+| Players | 1/5 |
+| Host Name | WhiteMc乡 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:34:29 |
 
 
