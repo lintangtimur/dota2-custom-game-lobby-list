@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550013417467 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | StelioKontos |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:55:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550027253951 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | aaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:21:42 |
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:27:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550029667018 |
-| Players | 12/15 |
-| Host Name | Lucky |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:26:28 |
+| Lobby ID | 28590550030385529 |
+| Players | 2/8 |
+| Host Name | Lucumoma´´ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:27:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550030341667 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:27:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550030385529 |
-| Players | 1/8 |
-| Host Name | Lucumoma´´ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:27:52 |
 
 
 |  | epic_boss_fight_nightmare |
