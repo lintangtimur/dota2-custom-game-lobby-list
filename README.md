@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550165647464 |
-| Players | 9/10 |
-| Host Name | Медвоблядь из Пскова |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:32:10 |
+| Lobby ID | 28590550168336911 |
+| Players | 2/24 |
+| Host Name | Emberfrost5 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:36:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550167588560 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Demaster |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:35:11 |
@@ -47,28 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:36:18 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550168336911 |
-| Players | 2/24 |
-| Host Name | Emberfrost5 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:36:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550168430087 |
-| Players | 1/8 |
-| Host Name | Tu Tío |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:36:28 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550162326279 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Kapitan Tutan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:26:58 |
