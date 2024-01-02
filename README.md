@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704197101721 |
-| Players | 2/15 |
+| Players | 12/15 |
 | Host Name | 666666 igrushka otchima |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:26:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704195747851 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | параллелограмм |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:25:36 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:20:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704188200686 |
-| Players | 22/24 |
-| Host Name | PFFIZER CL4B |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:19:07 |
+| Lobby ID | 28591704197191586 |
+| Players | 2/8 |
+| Host Name | я...ТАЛАНТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:26:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704194542392 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | OK WBON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:24:33 |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704196504928 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | John Does |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:26:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704196456438 |
-| Players | 6/8 |
-| Host Name | paxan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:26:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704197191586 |
-| Players | 1/8 |
-| Host Name | я...ТАЛАНТ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:26:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704197405092 |
-| Players | 1/8 |
-| Host Name | Addicted |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:27:01 |
 
 
 |  | ot3_desert_octet |
