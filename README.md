@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549939969210 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | HEISENBERG |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:33:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549940456867 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Teract |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:34:15 |
@@ -101,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:34:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549939354967 |
-| Players | 7/8 |
-| Host Name | MAHLER HAMMER |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:32:10 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549940857537 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Pero eres o no eres? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:35:01 |
