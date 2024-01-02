@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550018530208 |
-| Players | 1/8 |
-| Host Name | nonail |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:04:59 |
+| Lobby ID | 28590550021762646 |
+| Players | 6/8 |
+| Host Name | Kyubi |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:11:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550020400601 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Licht |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:08:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550020032721 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:07:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550021145511 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | kiyopon |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:10:00 |
@@ -77,34 +77,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550018169969 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | ✡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:04:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550016309660 |
-| Players | 23/24 |
-| Host Name | Vez Larkinson.. |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:00:42 |
+| Lobby ID | 28590550021762038 |
+| Players | 3/10 |
+| Host Name | Decadance |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:11:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550021673088 |
-| Players | 1/8 |
-| Host Name | 𝖒𝖎𝖘𝖘𝖎𝖓𝖌- |
+| Lobby ID | 28590550021609191 |
+| Players | 2/8 |
+| Host Name | #Laprendoencasa |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:11:00 |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:10:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550018345098 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | >OnLy LoVe< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:04:37 |
