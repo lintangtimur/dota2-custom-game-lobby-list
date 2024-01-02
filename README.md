@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549902569639 |
-| Players | 4/8 |
-| Host Name | ￣ヘ¯ |
+| Lobby ID | 28590549903420737 |
+| Players | 5/8 |
+| Host Name | Сендальф Герий |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:24:12 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:25:48 |
 
 
 |  | ot3_desert_octet |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549901970246 |
-| Players | 9/10 |
-| Host Name | SOY STEVEN Y SOY MOSTACERO |
+| Lobby ID | 28590549903384153 |
+| Players | 8/15 |
+| Host Name | Yaga |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:23:05 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:25:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549895506458 |
-| Players | 22/24 |
-| Host Name | RiftBreaker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:11:43 |
+| Lobby ID | 28590549903059894 |
+| Players | 12/15 |
+| Host Name | NoPillnerTonight |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:25:07 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549904056679 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | пенис гриндер |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:26:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549903629278 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Захоло Кост |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:26:11 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549903834813 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:26:33 |
@@ -110,49 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:24:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549903420737 |
-| Players | 5/8 |
-| Host Name | Сендальф Герий |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:25:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549903059894 |
-| Players | 12/15 |
-| Host Name | NoPillnerTonight |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:25:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549903384153 |
-| Players | 6/15 |
-| Host Name | Yaga |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:25:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549903953606 |
-| Players | 3/10 |
-| Host Name | Drownin. |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:26:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549903465193 |
+| Lobby ID | 28590549903401867 |
 | Players | 1/10 |
-| Host Name | Tu Rata Favorita |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:25:53 |
+| Host Name | FAITH |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:25:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nyThanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:14:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549903401867 |
-| Players | 1/10 |
-| Host Name | FAITH |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:25:46 |
 
 
