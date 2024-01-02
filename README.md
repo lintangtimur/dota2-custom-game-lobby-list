@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549976859355 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:44:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549976776211 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | DaktAri |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:43:51 |
@@ -99,6 +99,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ......25............ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:45:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549977467799 |
+| Players | 1/8 |
+| Host Name | Comeback Kid |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:45:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549977493423 |
+| Players | 1/15 |
+| Host Name | Möll LaCroix krnz AnGh |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:45:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549977516009 |
+| Players | 3/8 |
+| Host Name | Krypton |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:45:18 |
 
 
 |  | epic_boss_fight_nightmare |
