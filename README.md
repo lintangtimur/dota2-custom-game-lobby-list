@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550086810622 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:15:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550088640278 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Dispersion |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:19:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550089363274 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Yisus |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:20:34 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:10:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550090160843 |
-| Players | 1/15 |
-| Host Name | katala |
+| Lobby ID | 28590550090186728 |
+| Players | 2/10 |
+| Host Name | Spunky Specter |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:22:02 |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:22:05 |
 
 
 |  | epic_boss_fight_nightmare |
