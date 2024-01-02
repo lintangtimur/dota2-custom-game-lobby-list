@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704152232934 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:46:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550329469073 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | ..c.I.e.. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:03:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704153659133 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Gost |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:48:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704153696123 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | G1uc0se |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:48:21 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704153714877 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ПРОКЛЯТИЕ ГАБЕНА |
 | Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:48:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704153720175 |
+| Players | 1/8 |
+| Host Name | hebker |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:48:22 |
 
 
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704153412160 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ㊝ ☯︎シTσxιͼ▽☂ #Fac |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:48:05 |
