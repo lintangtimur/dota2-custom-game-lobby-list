@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:49:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704433642241 |
-| Players | 14/15 |
-| Host Name | Грешник / Sinner |
+| Lobby ID | 28591704434664181 |
+| Players | 1/8 |
+| Host Name | крабсбургер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:00:56 |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:01:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704432107987 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | ded |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:59:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704432563898 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Emeritus |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:59:49 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704433942191 |
-| Players | 2/8 |
-| Host Name | Elysium |
+| Players | 3/8 |
+| Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:01:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704433664112 |
-| Players | 11/15 |
-| Host Name | kroh |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:00:57 |
+| Lobby ID | 28591704435574972 |
+| Players | 3/8 |
+| Host Name | Gerya |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:02:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704435303899 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | SACRIFICE YOUR VIRGINITY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:02:36 |
@@ -155,22 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:01:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704434664181 |
-| Players | 1/8 |
-| Host Name | крабсбургер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:01:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704435365834 |
-| Players | 4/8 |
-| Host Name | Jeka AllCash |
+| Lobby ID | 28591704435537353 |
+| Players | 1/15 |
+| Host Name | Grey Blue |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:02:40 |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:02:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -198,5 +189,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ggwp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:02:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704429390329 |
+| Players | 8/10 |
+| Host Name | I feel sorry for you |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:56:34 |
 
 
