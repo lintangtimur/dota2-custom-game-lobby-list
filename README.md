@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550020558494 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | LordValdomero |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:08:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550016309660 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Vez Larkinson.. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:00:42 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550020301911 |
-| Players | 2/10 |
-| Host Name | someone clip my rampage |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:08:24 |
+| Lobby ID | 28590550020400601 |
+| Players | 1/10 |
+| Host Name | Licht |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:08:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:55:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550019668517 |
-| Players | 11/15 |
-| Host Name | ＊＊ AMY ＊＊ |
+| Lobby ID | 28590550020814824 |
+| Players | 1/8 |
+| Host Name | 𝖒𝖎𝖘𝖘𝖎𝖓𝖌- |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:07:11 |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:09:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550018169969 |
-| Players | 9/24 |
-| Host Name | POM |
+| Players | 3/24 |
+| Host Name | ✡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:04:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550020400601 |
-| Players | 1/10 |
-| Host Name | Licht |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:08:35 |
+| Lobby ID | 28590550020818361 |
+| Players | 2/10 |
+| Host Name | someone clip my rampage |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:09:22 |
 
 
 |  | epic_boss_fight_nightmare |
