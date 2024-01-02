@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550055444605 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | DO NOT DISTURB!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:16:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550053840971 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Tiger |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:13:01 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550055216103 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | HaileN- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:15:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550055408035 |
-| Players | 1/8 |
-| Host Name | Быдло |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:16:00 |
 
 
 |  | epic_boss_fight_nightmare |
