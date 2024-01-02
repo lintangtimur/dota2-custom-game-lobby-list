@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550095268309 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | JamesWebb |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:31:34 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550084179908 |
-| Players | 7/10 |
-| Host Name | ໔ৡ♡♡ЖуЛиК ♡♡ৡ |
+| Players | 1/10 |
+| Host Name | Шинтаро Мидорима |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:10:52 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550100004998 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | IQ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:40:11 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:41:04 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550100723716 |
+| Players | 2/10 |
+| Host Name | Тимоша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:41:29 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550098086519 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550097688992 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Bender |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:35:58 |
