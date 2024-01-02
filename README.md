@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550139029041 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Peace Duke |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:48:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550139692629 |
+| Players | 1/8 |
+| Host Name | 🤪🚼😈 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:49:47 |
 
 
 |  | epic_boss_fight_nightmare |
