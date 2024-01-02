@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704166480507 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:00:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704165081790 |
-| Players | 6/8 |
-| Host Name | 黎曦夜 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:58:59 |
+| Lobby ID | 28591704167632372 |
+| Players | 12/15 |
+| Host Name | Das Hassen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:01:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704167207663 |
-| Players | 8/10 |
-| Host Name | Hoshino☆ |
+| Lobby ID | 28591704167832408 |
+| Players | 1/10 |
+| Host Name | Sailor FreakMoon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:00:50 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:01:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704162883825 |
-| Players | 3/8 |
-| Host Name | я...ТАЛАНТ |
+| Lobby ID | 28591704167903617 |
+| Players | 1/8 |
+| Host Name | ЧВК "Урна" |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:57:01 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:01:27 |
 
 
 |  | ot3_desert_octet |
@@ -101,37 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:01:10 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704167594316 |
-| Players | 4/8 |
-| Host Name | Nagiev Online |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:01:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704167668716 |
-| Players | 1/15 |
-| Host Name | Уксусная жопа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:01:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704167632372 |
-| Players | 6/15 |
-| Host Name | Das Hassen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:01:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704161794808 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Inferno |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:56:01 |
@@ -153,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:00:16 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28591704167929601 |
+| Players | 2/7 |
+| Host Name | PlayingTheAngel |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:01:28 |
 
 
