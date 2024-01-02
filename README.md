@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550118218421 |
-| Players | 13/15 |
-| Host Name | annetka__ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:12:53 |
+| Lobby ID | 28590550116049828 |
+| Players | 6/24 |
+| Host Name | Sylvanas Windrunner |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:09:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,33 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:10:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550118565429 |
-| Players | 1/8 |
-| Host Name | sheepstick |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:13:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550116049828 |
-| Players | 6/24 |
-| Host Name | Sylvanas Windrunner |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:09:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550118929899 |
-| Players | 1/8 |
-| Host Name | I am BatMan |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:14:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550113446731 |
@@ -77,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550117825831 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Down to -25 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:12:13 |
