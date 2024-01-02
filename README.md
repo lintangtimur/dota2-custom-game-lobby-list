@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550023732273 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Señor autoplacer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:14:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550024820464 |
-| Players | 5/24 |
+| Players | 1/24 |
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:17:03 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550025226458 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | HappY |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:17:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550023730894 |
-| Players | 9/10 |
-| Host Name | COVID - 19 |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:14:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | onomatopeia |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:15:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550025361612 |
+| Players | 1/10 |
+| Host Name | Fran____ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:18:04 |
 
 
