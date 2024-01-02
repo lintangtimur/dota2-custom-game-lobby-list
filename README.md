@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:25:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549997796019 |
-| Players | 23/24 |
-| Host Name | manjiro sano |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:24:35 |
+| Lobby ID | 28590550000872954 |
+| Players | 6/10 |
+| Host Name | JUKAL |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:30:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549997556725 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549986473683 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | PJ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550000740925 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | OK WBON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:30:23 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550000872954 |
-| Players | 1/10 |
-| Host Name | JUKAL |
+| Lobby ID | 28590550001021076 |
+| Players | 2/10 |
+| Host Name | Jane.A7x |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:30:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550001024217 |
+| Players | 1/24 |
+| Host Name | ToñoBaby |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:30:38 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:30:55 |
 
 
 |  | epic_boss_fight_nightmare |
