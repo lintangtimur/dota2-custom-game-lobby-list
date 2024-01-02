@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:13:57 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550162135251 |
-| Players | 14/15 |
-| Host Name | Svinka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:26:40 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550162290164 |
@@ -56,10 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:26:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550162599943 |
+| Players | 1/15 |
+| Host Name | СИЛЬНЕЙШИЙ? |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:27:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550159296297 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | kaaa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:22:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550151956882 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mr.Nicky^ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:10:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550162326279 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Kapitan Tutan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:26:58 |
