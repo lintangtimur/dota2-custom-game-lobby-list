@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704208073497 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | GADZHI GADZHIEV |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:35:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704199816242 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Peter |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:29:01 |
@@ -104,43 +104,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704207956983 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ЧЕРНОУСОВ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:35:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704205625153 |
-| Players | 7/8 |
-| Host Name | BARZ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:33:50 |
+| Lobby ID | 28591704208467225 |
+| Players | 12/24 |
+| Host Name | TheBlindShibaInuSaekssiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:36:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704208303606 |
-| Players | 8/15 |
-| Host Name | leywinb |
+| Players | 11/15 |
+| Host Name | MindokRuvaak |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:36:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704208170844 |
-| Players | 7/8 |
-| Host Name | my friend is a moviestar |
+| Lobby ID | 28591704208589917 |
+| Players | 1/8 |
+| Host Name | 仓鼠 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:35:54 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:36:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704208593594 |
+| Players | 4/8 |
+| Host Name | Не говори маме |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:36:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704208589013 |
+| Players | 2/8 |
+| Host Name | mysterio |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:36:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704203333253 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:31:55 |
@@ -149,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704207558998 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | LaZaR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:35:24 |
@@ -162,14 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | INFARKT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:35:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704207957546 |
-| Players | 3/10 |
-| Host Name | Second City Saint |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:35:44 |
 
 
