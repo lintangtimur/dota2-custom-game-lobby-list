@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549958531726 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Thanagor |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:08:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549959339932 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Stray |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:10:27 |
@@ -86,10 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549959151917 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Mi orejitas flores |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:10:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549959688168 |
+| Players | 1/8 |
+| Host Name | Шпагат |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:11:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549959684390 |
+| Players | 3/8 |
+| Host Name | Echo |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:11:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549959701273 |
+| Players | 3/8 |
+| Host Name | minuta planki raz v den |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:11:08 |
 
 
 |  | epic_boss_fight_normal |
