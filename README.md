@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550013738278 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | InspectorClouseau |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:55:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550014692630 |
-| Players | 13/15 |
-| Host Name | Chawas Shelby |
+| Lobby ID | 28590550014337792 |
+| Players | 2/8 |
+| Host Name | SHORTY MALO |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:57:35 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:56:54 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550005604483 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:39:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550013417467 |
-| Players | 6/24 |
+| Players | 2/24 |
 | Host Name | Bolhrad- [UA] |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:55:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550015836496 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 安德鲁森图书馆管理员 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:59:47 |
