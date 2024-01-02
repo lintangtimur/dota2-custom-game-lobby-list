@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549986807120 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:03:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549991767086 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Never |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:12:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549986473683 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | PJ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:34 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549991668747 |
-| Players | 2/8 |
-| Host Name | MindFlayer |
+| Players | 1/8 |
+| Host Name | Sunset |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:12:32 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549992245520 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | uniballer |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:13:37 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549992383853 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | MadeInBostil |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:13:54 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549992600071 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | Mals |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:14:20 |
