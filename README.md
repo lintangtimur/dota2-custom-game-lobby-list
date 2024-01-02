@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550097368180 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Smokey Nagata |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:35:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550098635937 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Panda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:37:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550098165426 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Neferpitou |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:36:50 |
