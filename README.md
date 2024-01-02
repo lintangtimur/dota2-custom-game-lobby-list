@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550148322924 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Airos - MUTANT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:04:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550148545099 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Mondongo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:04:39 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550148617014 |
-| Players | 1/10 |
-| Host Name |  |
+| Players | 3/10 |
+| Host Name | Andrey_34 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:04:46 |
 
