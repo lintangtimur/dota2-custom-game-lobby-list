@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550290450599 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | NOT WOW HOOMANE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:21:56 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550293142614 |
-| Players | 5/10 |
-| Host Name | 良澄路七号老唱片 |
+| Players | 3/10 |
+| Host Name | Shad- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:24:47 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550293704004 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Mr__Riko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:25:26 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550293902088 |
-| Players | 2/10 |
-| Host Name | Artorias |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:25:39 |
+| Lobby ID | 28590550294250957 |
+| Players | 1/10 |
+| Host Name | Mafusail |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:26:03 |
 
 
 |  | ot3_desert_octet |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550293946838 |
-| Players | 4/15 |
-| Host Name | 1.5 не фильтрованого |
+| Players | 3/15 |
+| Host Name | BEn7127 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:25:42 |
 
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kongandeu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:24:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550294242350 |
+| Players | 2/5 |
+| Host Name | candy bitter |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:26:02 |
 
 
