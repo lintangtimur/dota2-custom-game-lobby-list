@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550077821464 |
-| Players | 1/24 |
-| Host Name | .。 七蛋蛋呀˙°◌ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:58:57 |
+| Lobby ID | 28590550077926743 |
+| Players | 1/15 |
+| Host Name | PossibleGhostface |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:59:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550077203434 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | 慭 湩"ℤᎯĻᎯR© |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:57:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550077519869 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | DONT KILL ME |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:58:24 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:58:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550073288352 |
-| Players | 22/24 |
-| Host Name | Bibip |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:50:14 |
+| Lobby ID | 28590550077953725 |
+| Players | 2/10 |
+| Host Name | Паша цветомузыка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:59:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550075825694 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:55:06 |
