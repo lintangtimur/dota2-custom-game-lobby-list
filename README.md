@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550047529425 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | xx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:00:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550050207152 |
+| Players | 3/15 |
+| Host Name | Come On Larvae Let's Go Party |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:06:05 |
 
 
 |  | epic_boss_fight_nightmare |
