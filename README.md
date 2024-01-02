@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704392560520 |
-| Players | 6/8 |
-| Host Name | practice |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:19:32 |
+| Lobby ID | 28591704392724326 |
+| Players | 1/8 |
+| Host Name | стояковский |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:19:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704387065836 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | SoWyer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:14:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704391400866 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:18:24 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704392353481 |
-| Players | 5/10 |
-| Host Name | Muflonn Lukavson |
+| Players | 8/10 |
+| Host Name | Gutter |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:19:20 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704392299228 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:19:16 |
@@ -94,20 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704392628195 |
-| Players | 4/8 |
-| Host Name | MrKazakhPvP_PRO |
-| Region | STOCKHOLM |
+| Lobby ID | 28591704392638555 |
+| Players | 5/8 |
+| Host Name | le bJiNg'e |
+| Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:19:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704386881645 |
+| Players | 21/24 |
+| Host Name | ₆⁶₆ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:13:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704392638555 |
+| Lobby ID | 28591704392827093 |
 | Players | 1/8 |
-| Host Name | le bJiNg'e |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:19:36 |
+| Host Name | ЖИВОЕПИВО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:19:48 |
 
 
 |  | epic_boss_fight_normal |
