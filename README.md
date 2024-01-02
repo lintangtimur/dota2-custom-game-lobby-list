@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550209497838 |
-| Players | 7/8 |
-| Host Name | Розовое облако |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:38:10 |
+| Lobby ID | 28590550210479860 |
+| Players | 1/10 |
+| Host Name | каблучара |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:39:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550210173603 |
-| Players | 11/15 |
-| Host Name | Постельный рейдер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:39:07 |
+| Lobby ID | 28590550210527800 |
+| Players | 6/10 |
+| Host Name | KiW3^ |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:39:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | xD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:38:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550210479860 |
-| Players | 1/10 |
-| Host Name | каблучара |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:39:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550210527800 |
-| Players | 4/10 |
-| Host Name | KiW3^ |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:39:37 |
 
 
 |  | epic_boss_fight_nightmare |
