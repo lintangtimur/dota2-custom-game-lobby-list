@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550003245149 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ＊＊ AMY ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:35:12 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550003567722 |
-| Players | 6/8 |
-| Host Name | Punisher PMA |
+| Lobby ID | 28590550004261399 |
+| Players | 3/24 |
+| Host Name | D-MF |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:35:49 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:37:09 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550004240467 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Mazai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:37:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550004261399 |
-| Players | 1/24 |
-| Host Name | D-MF |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:37:09 |
+| Lobby ID | 28590550004398393 |
+| Players | 3/15 |
+| Host Name | TD IKER |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:37:25 |
 
 
 |  | epic_boss_fight_nightmare |
