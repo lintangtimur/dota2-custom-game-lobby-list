@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704294342726 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Chacalpup |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:48:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704294026794 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Leo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:47:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704275145740 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Latrell |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:31:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704287534278 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | NightSuki ツユ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:42:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704294725921 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | new personality |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:48:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704294517890 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ym |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:48:17 |
@@ -68,28 +68,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704282002237 |
-| Players | 23/24 |
-| Host Name | [C]all_Me_[P].o.r |
+| Players | 22/24 |
+| Host Name | ETRL-Nerd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:37:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704288721470 |
-| Players | 13/15 |
-| Host Name | SS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:43:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704294784156 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Meepo |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:48:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704295007918 |
+| Players | 2/15 |
+| Host Name | Resistance |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:48:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704295031082 |
+| Players | 1/24 |
+| Host Name | [C]all_Me_[P].o.r |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:48:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704295031165 |
+| Players | 2/10 |
+| Host Name | Hanni- |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:48:43 |
 
 
 |  | epic_boss_fight_normal |
