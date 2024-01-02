@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:02:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550048391481 |
-| Players | 6/8 |
-| Host Name | Mando |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:02:35 |
+| Lobby ID | 28590550047529425 |
+| Players | 5/10 |
+| Host Name | xx |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:00:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,22 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:03:23 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550048032981 |
-| Players | 22/24 |
-| Host Name | Peter Bot |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:01:55 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550047529425 |
-| Players | 5/10 |
-| Host Name | xx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:00:57 |
+| Lobby ID | 28590550049186395 |
+| Players | 1/10 |
+| Host Name | Su kachero de |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:04:07 |
 
 
 |  | epic_boss_fight_nightmare |
