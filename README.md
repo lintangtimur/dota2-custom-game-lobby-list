@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549899782541 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | activetino |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549909552649 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Bajando Pepian |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:36:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549909037368 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | GG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:35:50 |
@@ -103,38 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549909640540 |
-| Players | 7/8 |
-| Host Name | Missing you happiness |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:36:55 |
+| Lobby ID | 28590549909787302 |
+| Players | 1/8 |
+| Host Name | BDSM KATAFALK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:37:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549909644837 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Rdazt |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:36:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549909694159 |
-| Players | 1/15 |
-| Host Name | СладкоПукнул |
+| Lobby ID | 28590549909718971 |
+| Players | 7/8 |
+| Host Name | ВОВА АДИДАС |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:37:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549906942960 |
-| Players | 14/15 |
-| Host Name | Dark |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:32:05 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:37:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549909012070 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | NO WAR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:35:47 |
@@ -162,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Anime_Yuuki- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:36:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549909796998 |
+| Players | 1/5 |
+| Host Name | UwU |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:37:12 |
 
 
