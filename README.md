@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550047529425 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | xx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:00:57 |
@@ -40,20 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550049243822 |
-| Players | 1/15 |
-| Host Name | 慭 湩"ℤᎯĻᎯR© |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:04:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28590550049265003 |
 | Players | 1/15 |
 | Host Name | Su kachero de |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:04:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550049303139 |
+| Players | 1/24 |
+| Host Name | Chrispy |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:04:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550049323691 |
+| Players | 1/15 |
+| Host Name | xeon |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:04:23 |
 
 
 |  | epic_boss_fight_nightmare |
