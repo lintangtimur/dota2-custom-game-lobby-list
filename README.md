@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549947433799 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | EL PIBE MOTOSIERRA giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:47:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549946685084 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Capitulum Mitella |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:46:09 |
@@ -59,45 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549945764515 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Paráclito |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:44:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549947644853 |
-| Players | 3/8 |
-| Host Name | minuta planki raz v den |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:47:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549946735207 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | ВЕБКАМЕНЩИК |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:46:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549947656966 |
-| Players | 1/10 |
-| Host Name | smoke |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:48:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549947626355 |
-| Players | 2/10 |
-| Host Name | RAD4M3$$$ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:47:57 |
 
 
