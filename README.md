@@ -32,37 +32,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704183369370 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:14:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704186444198 |
-| Players | 2/8 |
-| Host Name | папа ПУДЖ |
+| Lobby ID | 28591704186477658 |
+| Players | 11/15 |
+| Host Name | Mydak |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:17:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704186067765 |
-| Players | 6/10 |
-| Host Name | панк777 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:17:18 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:17:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704186477658 |
-| Players | 1/15 |
-| Host Name | Mydak |
+| Lobby ID | 28591704185562965 |
+| Players | 12/15 |
+| Host Name | G1uc0se |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:16:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704186543028 |
+| Players | 3/8 |
+| Host Name | chibi chibi chapa chapa |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:17:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704186580210 |
+| Players | 2/10 |
+| Host Name | Virgin Killer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:17:39 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:17:44 |
 
 
 |  | epic_boss_fight_hard |
@@ -77,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704186019263 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | rohanec1993 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:17:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704186821351 |
+| Players | 1/10 |
+| Host Name | Gustavo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:17:56 |
 
 
