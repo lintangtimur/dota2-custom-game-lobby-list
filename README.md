@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550264718070 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Don't Panic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:51:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550262704191 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:49:22 |
@@ -23,28 +23,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550264904384 |
-| Players | 2/15 |
+| Players | 14/15 |
 | Host Name | ^^swempe:B //A// |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:52:04 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550264634989 |
-| Players | 8/10 |
-| Host Name | Луз-Режусь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:51:44 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550265006810 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:52:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550265390749 |
+| Players | 8/10 |
+| Host Name | гнида |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:52:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550265589016 |
+| Players | 4/8 |
+| Host Name | Филипп Киркоров |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:52:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550263759891 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:50:40 |
