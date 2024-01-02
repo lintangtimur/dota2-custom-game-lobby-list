@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549925086118 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | mdfka |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:05:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -32,18 +32,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549924636159 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | w0of0o |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:04:30 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549925536390 |
+| Players | 2/10 |
+| Host Name | SENTINEL |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:06:08 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549925525717 |
-| Players | 1/15 |
-| Host Name | EAAM |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:06:07 |
+| Lobby ID | 28590549925605650 |
+| Players | 2/15 |
+| Host Name | Swaggernaut |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:06:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549925607646 |
+| Players | 3/15 |
+| Host Name | Vsemut |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:06:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549925617344 |
+| Players | 1/10 |
+| Host Name | :)) |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:06:17 |
 
 
