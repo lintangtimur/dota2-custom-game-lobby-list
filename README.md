@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550111075359 |
-| Players | 11/24 |
+| Players | 9/24 |
 | Host Name | Wapo16 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:00:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550114782627 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:06:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550114783572 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | |RHE. Jumper| |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:06:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550116049828 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:09:07 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shadow Fiend-zone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:09:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550116371258 |
+| Players | 1/15 |
+| Host Name | different color diamonds |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:09:41 |
 
 
 |  | epic_boss_fight_nightmare |
