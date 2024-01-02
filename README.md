@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549899782541 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | activetino |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:11 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:45:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549914136543 |
-| Players | 1/15 |
-| Host Name | Agentsmrt |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:45:04 |
+| Lobby ID | 28590549915004585 |
+| Players | 2/8 |
+| Host Name | Пудж твоей мечты |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:46:40 |
 
 
 |  | ot3_gardens_duo |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:44:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549914147764 |
-| Players | 13/15 |
-| Host Name | tmr |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:45:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549915004585 |
-| Players | 1/8 |
-| Host Name | Пудж твоей мечты |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:46:40 |
+| Lobby ID | 28590549915034143 |
+| Players | 2/10 |
+| Host Name | Dibork |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:46:43 |
 
 
 |  | epic_boss_fight_normal |
