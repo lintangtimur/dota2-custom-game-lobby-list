@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550053762551 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | overcome |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:12:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550052919716 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Scrappycoco |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:11:15 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:13:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550052185599 |
+| Players | 7/8 |
+| Host Name | Sandstorm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:09:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550042786362 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Sweet Ass |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550051155473 |
-| Players | 9/10 |
-| Host Name | Farewell, My paradise |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:07:52 |
 
 
 |  | epic_boss_fight_normal |
