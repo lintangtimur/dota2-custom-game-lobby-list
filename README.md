@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549965723698 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Don Tortuga |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:22:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549954597716 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549966840486 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Chaban |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:24:51 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:25:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549966959706 |
-| Players | 5/8 |
-| Host Name | Locro |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:25:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549966788500 |
-| Players | 2/8 |
-| Host Name | A tu vieja la vuelvo mi gata |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:24:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549967136729 |
-| Players | 6/15 |
-| Host Name | Disaster |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:25:26 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549967145298 |
@@ -101,12 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:25:27 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549966788500 |
+| Players | 4/8 |
+| Host Name | A tu vieja la vuelvo mi gata |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:24:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549967136729 |
+| Players | 10/15 |
+| Host Name | Disaster |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:25:26 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549965688417 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:22:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549965049007 |
+| Players | 2/5 |
+| Host Name | Mundus |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:21:19 |
 
 
