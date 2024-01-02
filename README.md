@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550294472142 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Vlados |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:26:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550295161208 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Mafusail |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:27:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550294857788 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | как же он ебет свою мать |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:26:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550295081669 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ENEKANDO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:26:58 |
