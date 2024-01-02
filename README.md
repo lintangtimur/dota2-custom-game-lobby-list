@@ -2,58 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550299675492 |
-| Players | 1/15 |
-| Host Name | el oscuro de la llama |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:31:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550299971635 |
-| Players | 5/15 |
-| Host Name | Kulebyaka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:32:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550299969823 |
-| Players | 4/10 |
-| Host Name | МЕНЯЕБАЛОТЕЦ99РАЗ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:32:18 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550300106219 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | OSEMENITEL'_1111111111111111111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:32:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550299240079 |
-| Players | 7/8 |
-| Host Name | try to friend812 |
+| Lobby ID | 28590550299971635 |
+| Players | 10/15 |
+| Host Name | Kulebyaka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:31:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550300186108 |
-| Players | 3/8 |
-| Host Name | You Love Me |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:32:32 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:32:19 |
 
 
 |  | ot3_gardens_duo |
