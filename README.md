@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549953411324 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | Night Lovell - Dark Light /GTR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:59:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549954694438 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | AA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549954002440 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:00:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549954343068 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:00:57 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:57:36 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28590549954925631 |
+| Players | 2/7 |
+| Host Name | RAD4M3$$$ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:02:03 |
 
 
