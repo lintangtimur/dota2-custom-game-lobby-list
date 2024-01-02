@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550236309429 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | Pekis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:15:31 |
@@ -13,38 +13,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550235532377 |
-| Players | 14/15 |
-| Host Name | Monkey D Luffy |
+| Lobby ID | 28590550236983201 |
+| Players | 9/15 |
+| Host Name | Shouya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:14:28 |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:16:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550236835216 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Эскапизм Души |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:16:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550236983201 |
-| Players | 5/15 |
-| Host Name | деловая колбаска |
+| Lobby ID | 28590550237437725 |
+| Players | 3/10 |
+| Host Name | HUGE |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:17:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550237075779 |
+| Players | 3/10 |
+| Host Name | Fey |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:16:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550236512499 |
-| Players | 2/5 |
-| Host Name | Hakuna My Tatas |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:15:47 |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:16:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | halal player |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:16:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550237075779 |
-| Players | 2/10 |
-| Host Name | Fey |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:16:32 |
 
 
