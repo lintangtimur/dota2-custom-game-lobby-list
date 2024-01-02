@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550081614100 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Devod |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:06:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550083776183 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Loquillo98 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:10:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550084554306 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | old rat(all muted) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:11:35 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Robert Lewangoalski |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:08:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550085266438 |
+| Players | 1/8 |
+| Host Name | у меня автоваз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:12:55 |
 
 
 |  | epic_boss_fight_nightmare |
