@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550194716089 |
-| Players | 23/24 |
-| Host Name | Happiness |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:16:24 |
+| Lobby ID | 28590550196553616 |
+| Players | 1/8 |
+| Host Name | Chris |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:19:08 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550196283330 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | tv/psibladeqqw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:18:43 |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:19:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550196531011 |
-| Players | 7/8 |
-| Host Name | Убийца Акаме |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:19:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550196553616 |
-| Players | 1/8 |
-| Host Name | Chris |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:19:08 |
+| Lobby ID | 28590550197201993 |
+| Players | 1/15 |
+| Host Name | ANONYMOUS |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:20:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sparta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:12:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550197075813 |
-| Players | 1/5 |
-| Host Name | Gin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:19:55 |
 
 
