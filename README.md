@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550018346113 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | YAAAAAAAAAAAAAAAAA!!!! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:04:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550013417467 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | StelioKontos |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:55:02 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550018475412 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Adam Smasher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:04:52 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nonail |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:04:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550019244758 |
+| Players | 2/24 |
+| Host Name | CHOLITO DE CONO CON PLATA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:06:22 |
 
 
 |  | epic_boss_fight_nightmare |
