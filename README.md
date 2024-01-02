@@ -29,31 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:12:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704257679998 |
-| Players | 3/8 |
-| Host Name | Igninsan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:16:49 |
+| Lobby ID | 28591704255211159 |
+| Players | 3/24 |
+| Host Name | KomtingKons |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:14:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704253466140 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:13:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704257562668 |
-| Players | 6/8 |
-| Host Name | 無限の彼方へ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:16:43 |
+| Lobby ID | 28591704257757334 |
+| Players | 8/15 |
+| Host Name | Joji |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:16:53 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:11:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704257838866 |
-| Players | 8/10 |
-| Host Name | G1uc0se |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:16:57 |
+| Lobby ID | 28591704257749813 |
+| Players | 8/15 |
+| Host Name | soska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:16:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,30 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:14:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704255211159 |
-| Players | 3/24 |
-| Host Name | KomtingKons |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:14:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704257757334 |
-| Players | 8/15 |
-| Host Name | Joji |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:16:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704257749813 |
-| Players | 7/15 |
-| Host Name | soska |
+| Lobby ID | 28591704257562668 |
+| Players | 7/8 |
+| Host Name | 無限の彼方へ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:16:53 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:16:43 |
 
 
