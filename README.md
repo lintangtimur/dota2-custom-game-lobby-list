@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549882640336 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Nikitus228 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:49:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549890054641 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | blackl |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:02:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549890406569 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Hellsing |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:03:00 |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549889510784 |
-| Players | 8/10 |
-| Host Name | AdmiralAids Dog and his Aimils |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:01:30 |
+| Lobby ID | 28590549890753028 |
+| Players | 3/10 |
+| Host Name | MALCRIADA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:03:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549890530188 |
-| Players | 11/15 |
-| Host Name | remonshouga |
+| Lobby ID | 28590549890677883 |
+| Players | 9/10 |
+| Host Name | УткаЧерныйПлащ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:03:12 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:03:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,31 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:00:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549890677883 |
-| Players | 7/10 |
-| Host Name | УткаЧерныйПлащ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:03:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549890753028 |
-| Players | 2/10 |
-| Host Name | MALCRIADA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:03:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549888634772 |
-| Players | 22/24 |
-| Host Name | :D |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:00:02 |
+| Lobby ID | 28590549890991640 |
+| Players | 1/15 |
+| Host Name | Jaylaps Brozingis |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:03:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28590549888646995 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | twitch.tv/ferhchapado |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:00:03 |
