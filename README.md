@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704446068848 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | жопная плесень |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:13:32 |
@@ -85,20 +85,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704446403148 |
-| Players | 2/24 |
-| Host Name | lllcylll |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:13:52 |
+| Lobby ID | 28591704446436492 |
+| Players | 3/24 |
+| Host Name | like a G6.雨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:13:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704446519107 |
+| Players | 6/10 |
+| Host Name | ✪BeLiaL.MVP |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:13:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704446417229 |
-| Players | 1/24 |
-| Host Name | PlusYz |
+| Lobby ID | 28591704446513166 |
+| Players | 4/24 |
+| Host Name | Aizm11 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:13:53 |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:13:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704446549536 |
+| Players | 1/8 |
+| Host Name | обед |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:14:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704444909061 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Sassyquach |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:12:21 |
