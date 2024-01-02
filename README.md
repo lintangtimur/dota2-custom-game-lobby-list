@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704414723122 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Krampus |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:41:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704410397693 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | who knows |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:37:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704414196007 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ◥◣EndyS◢◤ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:41:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704413427231 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Wabalabadubdub |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:40:21 |
@@ -101,21 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:41:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704415136770 |
+| Players | 2/10 |
+| Host Name | golden rooster |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:42:04 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704414895238 |
-| Players | 1/8 |
-| Host Name | Sparki |
+| Lobby ID | 28591704415056246 |
+| Players | 7/8 |
+| Host Name | NAVIGATOR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:41:50 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:41:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704413389645 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 大哥打野音信全无 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:40:19 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28591704415206413 |
+| Players | 3/7 |
+| Host Name | ✪SĦI₦Ę✪ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:42:08 |
 
 
