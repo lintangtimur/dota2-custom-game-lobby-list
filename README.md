@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549959969920 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | hiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:11:39 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549960669020 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Yves Saint Laurent |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:12:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549960905275 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Nomi |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:13:25 |
@@ -76,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549961093897 |
+| Lobby ID | 28590549961115069 |
 | Players | 3/8 |
-| Host Name | Echo |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:13:45 |
+| Host Name | SIDERAL FRIO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:13:48 |
 
 
