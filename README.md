@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550248657680 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Леха Никонов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:31:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550248120157 |
-| Players | 7/8 |
-| Host Name | сукаишак |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:31:01 |
 
 
 |  | ot3_gardens_duo |
@@ -63,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:31:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550249079607 |
+| Players | 1/8 |
+| Host Name | About a girl |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:32:16 |
 
 
 |  | epic_boss_fight_nightmare |
