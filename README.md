@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549900819505 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 21 Savage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:21:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549899998300 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Kamicase(bsb) |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:34 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:05:58 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549900649910 |
-| Players | 7/10 |
-| Host Name | prime |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:20:43 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549900049372 |
-| Players | 6/8 |
-| Host Name | EMOBED |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:19:39 |
+| Lobby ID | 28590549900109504 |
+| Players | 7/8 |
+| Host Name | seeds of serenity |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:19:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549901070721 |
+| Players | 2/10 |
+| Host Name | < blank > |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:21:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549900269346 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | EL MATACUYES |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:20:03 |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549900859610 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:21:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549900109504 |
-| Players | 7/8 |
-| Host Name | seeds of serenity |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:19:46 |
 
 
 |  | epic_boss_fight_normal |
