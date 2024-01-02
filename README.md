@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704398784128 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Spiny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:25:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704401364692 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Викуся |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:28:22 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:28:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704396688707 |
-| Players | 8/10 |
-| Host Name | tocosh |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:23:38 |
+| Lobby ID | 28591704402164157 |
+| Players | 4/8 |
+| Host Name | 『L๏LɨЌ』 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:29:10 |
 
 
 |  | ot3_desert_octet |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704401892829 |
-| Players | 1/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:28:54 |
+| Lobby ID | 28591704402121659 |
+| Players | 4/8 |
+| Host Name | Trap |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:29:07 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704401734615 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Leo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:28:44 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704401828757 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Fearx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:28:50 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704401872943 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | q |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:28:52 |
@@ -130,11 +130,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704402065274 |
+| Lobby ID | 28591704402109220 |
 | Players | 2/8 |
-| Host Name | i hate every1 |
+| Host Name | AkiKo Annaisha kim Sung |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:29:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704402211032 |
+| Players | 4/8 |
+| Host Name | я хочу быть счаст |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:29:04 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:29:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -155,13 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:25:23 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28591704392482850 |
-| Players | 1/5 |
-| Host Name | qdasdasdcxascas |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:19:27 |
+| Lobby ID | 28591704402074286 |
+| Players | 2/10 |
+| Host Name | Danh hài Vân Sơn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:29:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -171,14 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Geler |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:28:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704402074286 |
-| Players | 1/10 |
-| Host Name | Danh hài Vân Sơn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:29:05 |
 
 
