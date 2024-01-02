@@ -4,10 +4,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549947285925 |
-| Players | 8/15 |
-| Host Name | far fri |
-| Region | PERU |
+| Lobby ID | 28590549947282716 |
+| Players | 2/15 |
+| Host Name | El bancho |
+| Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:47:18 |
 
 
@@ -65,21 +65,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:44:22 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549947644853 |
+| Players | 3/8 |
+| Host Name | minuta planki raz v den |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:47:59 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549947282716 |
-| Players | 2/15 |
-| Host Name | El bancho |
+| Lobby ID | 28590549946735207 |
+| Players | 14/15 |
+| Host Name | ВЕБКАМЕНЩИК |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:47:18 |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:46:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549947656966 |
+| Players | 1/10 |
+| Host Name | smoke |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:48:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590549943609489 |
-| Players | 8/10 |
-| Host Name | Secretary-specific |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:40:15 |
+| Lobby ID | 28590549947626355 |
+| Players | 2/10 |
+| Host Name | RAD4M3$$$ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:47:57 |
 
 
