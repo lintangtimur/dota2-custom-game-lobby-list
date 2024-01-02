@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550083283540 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | I won't do anything. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:09:12 |
@@ -67,17 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550084221026 |
+| Lobby ID | 28590550084319492 |
 | Players | 1/15 |
 | Host Name | I want to die |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:10:57 |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:11:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550081368478 |
+| Players | 23/24 |
+| Host Name | SunWan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:05:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550083639165 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Valiant |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:09:51 |
