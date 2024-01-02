@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704203684284 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Sinmsimi |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:32:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704217714235 |
-| Players | 13/15 |
-| Host Name | IRR |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:43:49 |
+| Lobby ID | 28591704219120557 |
+| Players | 5/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:45:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704194542392 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | FerreiraM32 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:24:33 |
@@ -95,19 +95,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704218344129 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | rrrr |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:44:21 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704219097081 |
+| Players | 2/8 |
+| Host Name | ЯиЯИЯи Яишница |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:44:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704219192064 |
+| Players | 2/10 |
+| Host Name | Full-Time Griefer |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:45:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704218926266 |
-| Players | 6/15 |
-| Host Name | Qvink0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:44:51 |
+| Lobby ID | 28591704219186466 |
+| Players | 1/15 |
+| Host Name | AHAHAHHAHAHAHAHHAHAHAHAHAHHAHAHA |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:45:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704219312285 |
+| Players | 1/10 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:45:10 |
 
 
 |  | epic_boss_fight_nightmare |
