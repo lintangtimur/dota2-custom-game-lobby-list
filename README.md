@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549929205082 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:12:58 |
@@ -38,58 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:11:38 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549929067766 |
-| Players | 11/15 |
-| Host Name | märt ringmuskel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:12:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549928210086 |
-| Players | 9/10 |
-| Host Name | merenge |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:11:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549927694459 |
-| Players | 3/8 |
-| Host Name | kelthusadELpro |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:10:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549929446297 |
-| Players | 4/24 |
-| Host Name | Misax |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:13:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549929094816 |
-| Players | 5/15 |
-| Host Name | Little BirD |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:12:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549929420941 |
-| Players | 5/10 |
-| Host Name | Where |
+| Lobby ID | 28590549929928281 |
+| Players | 5/8 |
+| Host Name | Mason |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:13:21 |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:14:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,5 +54,50 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | C.Jl.A.B.u.X |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:14:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549927694459 |
+| Players | 4/8 |
+| Host Name | kelthusadELpro |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:10:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549929446297 |
+| Players | 11/24 |
+| Host Name | Misax |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:13:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549929094816 |
+| Players | 9/15 |
+| Host Name | Little BirD |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:12:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549930216441 |
+| Players | 1/10 |
+| Host Name | Risehush |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:14:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549929994092 |
+| Players | 1/10 |
+| Host Name | УВЫ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:14:24 |
 
 
