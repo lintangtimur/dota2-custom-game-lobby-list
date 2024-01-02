@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550010385734 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:49:01 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549954597716 |
-| Players | 1/24 |
-| Host Name | RiftBreaker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
+| Lobby ID | 28590550010677537 |
+| Players | 2/24 |
+| Host Name | mesopotamia |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:49:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550010408205 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Remington Jones |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:49:03 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550010668062 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | VolTaGe |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:49:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550010677537 |
-| Players | 2/24 |
-| Host Name | mesopotamia |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:49:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550010897489 |
-| Players | 1/8 |
-| Host Name | dope nineteen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:50:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Szostak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:47:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550009011236 |
-| Players | 9/10 |
-| Host Name | >OnLy LoVe< |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:46:23 |
 
 
