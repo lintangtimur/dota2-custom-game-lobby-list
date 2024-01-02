@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549906942960 |
-| Players | 12/15 |
-| Host Name | Leo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:32:05 |
+| Lobby ID | 28590549907294774 |
+| Players | 1/15 |
+| Host Name | doom13524 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:32:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:32:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549905661755 |
-| Players | 7/10 |
-| Host Name | merenge |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:29:49 |
+| Lobby ID | 28590549907960503 |
+| Players | 2/24 |
+| Host Name | Exprimón Limido |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:33:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:33:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549907434881 |
-| Players | 8/10 |
-| Host Name | Captain Bungholio |
+| Lobby ID | 28590549907305375 |
+| Players | 1/15 |
+| Host Name | NeDix! |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:32:58 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:32:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,24 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | paypal me 700 USDT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:31:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549907294774 |
-| Players | 1/15 |
-| Host Name | doom13524 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:32:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549907305375 |
-| Players | 1/15 |
-| Host Name | NeDix! |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:32:44 |
 
 
 |  | epic_boss_fight_normal |
