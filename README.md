@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704237400539 |
-| Players | 23/24 |
-| Host Name | Chisato |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:00:14 |
+| Lobby ID | 28591704242012857 |
+| Players | 1/24 |
+| Host Name | Сигма |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:04:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704237458156 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:00:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704241775991 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | OverDofiga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:03:51 |
@@ -87,7 +87,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28591704241190634 |
 | Players | 5/8 |
-| Host Name | SHVED |
+| Host Name | 're |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:03:22 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704241612176 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | hennessy & sailor moon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:03:43 |
@@ -135,23 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | limbo ru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:03:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704236461868 |
-| Players | 4/5 |
-| Host Name | INFARKT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:59:28 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704241822293 |
-| Players | 2/5 |
-| Host Name | Kawasaki |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:03:53 |
 
 
