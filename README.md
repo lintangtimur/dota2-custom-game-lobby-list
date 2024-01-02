@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550344670323 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | HU57L3R |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:17:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550343142863 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | V1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:16:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550344471837 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Эдiк Дiрдэн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:17:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550344311655 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | IT. Gurar1- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:17:26 |
@@ -101,11 +101,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:17:55 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550345068363 |
+| Players | 6/10 |
+| Host Name | маму ебал |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:18:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550341850395 |
-| Players | 2/10 |
-| Host Name | SUSi |
+| Players | 1/10 |
+| Host Name | CARBOON banditcamp.com |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:15:04 |
 
@@ -122,9 +131,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550342843748 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | 10K Behavior Score |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:16:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550345035446 |
+| Players | 1/5 |
+| Host Name | SUSi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:18:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550345079134 |
+| Players | 1/5 |
+| Host Name | nd1fananaye |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:18:10 |
 
 
