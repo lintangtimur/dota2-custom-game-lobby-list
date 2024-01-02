@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704562182676 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | LUNGTONG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:17:44 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704566928883 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Sleepy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:22:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704567315651 |
-| Players | 7/10 |
-| Host Name | Oxidize |
+| Lobby ID | 28591704567387531 |
+| Players | 4/15 |
+| Host Name | Qushkan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:23:23 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:23:28 |
 
 
 |  | ot3_desert_octet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:12:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704566603743 |
-| Players | 14/15 |
-| Host Name | Instant |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:22:36 |
+| Lobby ID | 28591704566844202 |
+| Players | 6/10 |
+| Host Name | denouement of eternity |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:22:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -121,20 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704566844202 |
-| Players | 6/10 |
-| Host Name | denouement of eternity |
+| Lobby ID | 28591704567544157 |
+| Players | 5/10 |
+| Host Name | Jeka AllCash |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:22:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704566839843 |
-| Players | 5/8 |
-| Host Name | Шиза |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:22:52 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:23:38 |
 
 
 |  | epic_boss_fight_challenger |
