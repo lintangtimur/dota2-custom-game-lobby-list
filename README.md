@@ -11,40 +11,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:31:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550030816269 |
-| Players | 13/15 |
-| Host Name | حمو بيكا |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:28:41 |
+| Lobby ID | 28590550032501214 |
+| Players | 1/24 |
+| Host Name | [JnM]Nickname |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:31:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550031103091 |
-| Players | 7/8 |
-| Host Name | xdxdxd |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:29:14 |
+| Lobby ID | 28590550032436787 |
+| Players | 2/24 |
+| Host Name | Boss James |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:31:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550031969025 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Yisus |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:30:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550030729694 |
-| Players | 8/10 |
-| Host Name | YA FUCKING BOY SWEET |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:28:31 |
+| Lobby ID | 28590550032392576 |
+| Players | 2/8 |
+| Host Name | w_xzed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:31:42 |
 
 
 |  | ot3_desert_octet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:29:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550032075327 |
-| Players | 1/8 |
-| Host Name | w_xzed |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:31:06 |
+| Lobby ID | 28590550032479732 |
+| Players | 6/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:31:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:31:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550032254894 |
-| Players | 2/10 |
-| Host Name | Soodeira |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:31:27 |
+| Lobby ID | 28590550032530357 |
+| Players | 5/8 |
+| Host Name | Philoclauphy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:31:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Medved |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:26:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550028358646 |
-| Players | 9/10 |
-| Host Name | biblically accurate tenshi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:23:50 |
 
 
