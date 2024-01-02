@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550107673748 |
-| Players | 4/24 |
-| Host Name | CRITICAX |
+| Players | 3/24 |
+| Host Name | （=゜エ゜=）Bye |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:54:07 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550105752096 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | SmolEye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:50:38 |
@@ -65,20 +65,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550106927505 |
-| Players | 13/15 |
-| Host Name | пикаю аппарата |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:52:45 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550106851991 |
-| Players | 4/10 |
-| Host Name | Ես Հայ Եմ |
+| Players | 3/10 |
+| Host Name | Ghost Grave |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:37 |
 
