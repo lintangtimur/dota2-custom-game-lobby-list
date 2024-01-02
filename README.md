@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:49:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550182648625 |
-| Players | 6/10 |
-| Host Name | Freak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:58:24 |
+| Lobby ID | 28590550183304418 |
+| Players | 2/8 |
+| Host Name | ♛Immanori♛ |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:59:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550183225759 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | 伏 ふし 黒 ぐろ 甚 とう |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:59:15 |
@@ -40,11 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550183304418 |
+| Lobby ID | 28590550183487094 |
+| Players | 3/8 |
+| Host Name | SORRYIMSTONED |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:59:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550183490113 |
 | Players | 1/8 |
-| Host Name | mese kir |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:59:21 |
+| Host Name | radbix |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:59:38 |
 
 
 |  | epic_boss_fight_normal |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550181978808 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Seventeen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:57:23 |
