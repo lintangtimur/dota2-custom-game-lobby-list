@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550217407112 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ☭Fuck Bluehole Inc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:49:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550218251903 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | BACK2DAJAIL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:50:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550218538609 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | СЕРЕГА СИПЛЫЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:50:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550218519868 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Lie |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:50:57 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550218775058 |
-| Players | 4/8 |
-| Host Name | Son1#33 |
+| Lobby ID | 28590550216544868 |
+| Players | 7/8 |
+| Host Name | Funny Crow |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:51:19 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:48:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550216695675 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | червь (вьеб с 0) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:48:23 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BoBoss |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:50:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550218783812 |
-| Players | 1/10 |
-| Host Name | Manami Sangaku |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:51:19 |
 
 
