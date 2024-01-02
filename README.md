@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550206798658 |
-| Players | 5/24 |
+| Players | 15/24 |
 | Host Name | 饿了么滴 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:34:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550198824532 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:22:30 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:32:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550207072295 |
-| Players | 12/15 |
-| Host Name | Nigma.Miracle- |
+| Lobby ID | 28590550207644951 |
+| Players | 6/10 |
+| Host Name | дибил |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:34:40 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:35:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:35:17 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550207899595 |
+| Players | 2/15 |
+| Host Name | Дядя Лис |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:35:52 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550206463087 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Bloody light moon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:33:47 |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:34:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550207904094 |
+| Players | 1/5 |
+| Host Name | mramor4eg |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:35:53 |
 
 
