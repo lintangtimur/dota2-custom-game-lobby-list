@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549974133869 |
-| Players | 14/15 |
-| Host Name | Azuremir |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:38:47 |
+| Lobby ID | 28590549974806222 |
+| Players | 3/15 |
+| Host Name | Elya |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:40:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549974457384 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | senior |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:39:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549971884512 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Kad |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:34:31 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:39:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549974721854 |
-| Players | 1/8 |
-| Host Name | ☬︎kill me︎☬ ⛥eternal despair⛥ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:39:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549970334935 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549972393529 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | †Dracula† |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:35:29 |
