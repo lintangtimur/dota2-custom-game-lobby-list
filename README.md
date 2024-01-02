@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704574655025 |
-| Players | 6/10 |
-| Host Name | cannibal |
+| Players | 5/10 |
+| Host Name | чего вам бояться |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:31:37 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704576506200 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Shigami |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:33:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704576417455 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | zzzzz |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:33:34 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Guihs |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:31:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704577334465 |
+| Players | 2/10 |
+| Host Name | notdeafman |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:34:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704577317788 |
+| Players | 8/15 |
+| Host Name | дела идут отлично |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:34:34 |
 
 
 |  | epic_boss_fight_challenger |
