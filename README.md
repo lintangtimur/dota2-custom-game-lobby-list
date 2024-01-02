@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704469221790 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Mudkip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:37:41 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:34:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704468992208 |
-| Players | 12/15 |
-| Host Name | SS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:37:26 |
+| Lobby ID | 28591704469401853 |
+| Players | 1/10 |
+| Host Name | WhIn.Calichin |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:37:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704463367893 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:31:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704468610423 |
-| Players | 7/8 |
-| Host Name | Terenkor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:37:02 |
+| Lobby ID | 28591704469274491 |
+| Players | 7/10 |
+| Host Name | С_ПЛАНОМ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:37:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704468802584 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | SameShit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:37:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704468751608 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | lookingforhappiness |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:37:11 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Urek Mazino |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:33:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704469319451 |
+| Players | 1/5 |
+| Host Name | Kiki do you love me? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:37:47 |
 
 
