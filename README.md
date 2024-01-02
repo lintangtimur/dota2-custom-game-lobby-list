@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704489445727 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | El Pejerrete |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:59:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704491755331 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:01:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704493228251 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | rrrrrrrrrrrrrrrrrrrrr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:03:07 |
@@ -72,6 +72,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Убийца Акаме |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:03:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704493687471 |
+| Players | 2/10 |
+| Host Name | Philio |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:03:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704493750910 |
+| Players | 1/8 |
+| Host Name | ХаркалНасваев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:03:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704493751169 |
+| Players | 1/8 |
+| Host Name | JekaNegpUwU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:03:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704493783549 |
+| Players | 5/8 |
+| Host Name | YUZZY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:03:42 |
 
 
 |  | epic_boss_fight_challenger |
