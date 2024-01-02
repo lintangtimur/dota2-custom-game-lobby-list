@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704538199412 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Muted Love |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:51:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704537079723 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | Chandideadmoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:50:12 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pocoyo :v |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:50:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704538354606 |
+| Players | 3/8 |
+| Host Name | No life |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:51:36 |
 
 
 |  | epic_boss_fight_challenger |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704537345770 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Хрон Кончений |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:50:30 |
