@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550330937149 |
-| Players | 14/15 |
-| Host Name | Пелинал |
+| Lobby ID | 28590550331321056 |
+| Players | 4/15 |
+| Host Name | Cumышь |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:04:36 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:04:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,28 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:01:00 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550330050729 |
-| Players | 5/8 |
-| Host Name | Positive Mental Animal |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:03:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550329866452 |
-| Players | 7/10 |
-| Host Name | шмэль |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:03:32 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550329077245 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:02:45 |
@@ -85,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550331043553 |
-| Players | 4/10 |
-| Host Name | уголовник |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:04:42 |
+| Lobby ID | 28590550329866452 |
+| Players | 8/10 |
+| Host Name | шмэль |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:03:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550331387007 |
+| Players | 1/8 |
+| Host Name | либовски без FAIL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:05:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550330583019 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | karmageddon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:04:15 |
