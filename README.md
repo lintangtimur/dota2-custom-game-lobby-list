@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704266948613 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | db |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:24:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704265269116 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | b-ウサギ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:23:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704266581292 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Бабек Шрекович |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:24:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704266408925 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | МуТный Тип |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:24:07 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:24:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704266399731 |
-| Players | 14/15 |
-| Host Name | Werewolf.GR |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:24:06 |
+| Lobby ID | 28591704267484417 |
+| Players | 3/8 |
+| Host Name | AlastoZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:25:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LaZaR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:24:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704267551154 |
+| Players | 1/5 |
+| Host Name | OF.Jennie.<3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:25:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704267599520 |
+| Players | 1/5 |
+| Host Name | :) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:25:07 |
 
 
