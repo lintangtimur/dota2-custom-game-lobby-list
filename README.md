@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550063356098 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | The Spiked Spaghetti |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:31:20 |
@@ -41,28 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550064036435 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Lon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:32:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550062650548 |
-| Players | 8/10 |
-| Host Name | subhumanbiotrash |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:30:00 |
+| Lobby ID | 28590550064806842 |
+| Players | 1/24 |
+| Host Name | BRunzilian |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:34:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550064215347 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Mellisa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:32:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550064818417 |
+| Players | 4/8 |
+| Host Name | Scrayl |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:34:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Valiant |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:33:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550064683882 |
-| Players | 1/5 |
-| Host Name | Lo intentaré a pesar de todo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:33:52 |
 
 
