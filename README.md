@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549926607930 |
-| Players | 7/8 |
-| Host Name | mode: dyrachyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:08:07 |
+| Lobby ID | 28590549927562416 |
+| Players | 1/15 |
+| Host Name | Vάιŝ♡√•∆ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:09:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549926515511 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:07:56 |
@@ -54,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ejboss (the real one) |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:08:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549927607509 |
+| Players | 3/15 |
+| Host Name | Okay |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:09:59 |
 
 
