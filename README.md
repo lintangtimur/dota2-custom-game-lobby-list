@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550162599943 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | СИЛЬНЕЙШИЙ? |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:27:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550163208729 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | MA BOY |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:28:22 |
@@ -32,46 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550154296250 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:13:57 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550163342792 |
-| Players | 2/8 |
-| Host Name | gomer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:28:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550163346234 |
-| Players | 7/24 |
-| Host Name | Let me SLeep |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:28:34 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550163467757 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Кровавый понос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:28:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550163561937 |
-| Players | 1/8 |
-| Host Name | Malice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:28:54 |
+| Lobby ID | 28590550163346234 |
+| Players | 10/24 |
+| Host Name | Let me SLeep |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:28:34 |
 
 
 |  | epic_boss_fight_nightmare |
