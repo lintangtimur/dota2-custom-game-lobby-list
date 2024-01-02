@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550058377939 |
-| Players | 10/10 |
+| Players | 9/10 |
 | Host Name | Creep |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:21:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550061245837 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | eXC4L1BUR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:27:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550059882348 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | Rosé- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:24:35 |
@@ -58,38 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550058328469 |
-| Players | 14/15 |
-| Host Name | Mcry |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:21:35 |
+| Lobby ID | 28590550061695580 |
+| Players | 4/15 |
+| Host Name | мистер кредо |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:28:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550061626882 |
-| Players | 1/10 |
-| Host Name | Даун |
+| Lobby ID | 28590550061736377 |
+| Players | 2/10 |
+| Host Name | HangNT |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:28:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550061699095 |
-| Players | 1/15 |
-| Host Name | 死貓狂喜 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:28:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550061695580 |
-| Players | 1/15 |
-| Host Name | мистер кредо |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:28:10 |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:28:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | InYourDick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:23:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550061368237 |
-| Players | 1/5 |
-| Host Name | Raynuva |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:27:33 |
 
 
