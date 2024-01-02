@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550030816269 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | حمو بيكا |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:28:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550031103091 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:29:14 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550028615943 |
-| Players | 22/24 |
-| Host Name | Ho-oH |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:24:21 |
+| Lobby ID | 28590550031969025 |
+| Players | 2/24 |
+| Host Name | Yisus |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:30:54 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550030729694 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | YA FUCKING BOY SWEET |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:28:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550031126309 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Янесса Спермовна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:29:17 |
@@ -67,38 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550031821887 |
+| Lobby ID | 28590550032055656 |
 | Players | 1/8 |
 | Host Name | w_xzed |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:30:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550031949148 |
-| Players | 1/8 |
-| Host Name | 930107629 ESCRIBEME Y PASO CP |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:30:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550031951529 |
-| Players | 5/8 |
-| Host Name | Disaster |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:30:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550031957519 |
-| Players | 4/8 |
-| Host Name | Capitan wawa |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:30:53 |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:31:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bjkdfslne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:30:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550028358646 |
+| Players | 9/10 |
+| Host Name | biblically accurate tenshi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:23:50 |
 
 
