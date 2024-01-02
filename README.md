@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549984918669 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | test acc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:59:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549984064052 |
-| Players | 1/8 |
-| Host Name | 🅻🅾󠁳⁧⁧🆂🆃 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:57:59 |
+| Lobby ID | 28590549985375989 |
+| Players | 3/24 |
+| Host Name | _____________ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:00:29 |
 
 
 |  | ot3_gardens_duo |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:59:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549979564022 |
-| Players | 23/24 |
-| Host Name | Astral E678 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:49:13 |
+| Lobby ID | 28590549984522598 |
+| Players | 6/8 |
+| Host Name | QUISPESTYLE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:58:51 |
 
 
 |  | ot3_desert_octet |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549985278951 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Makuno |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:00:18 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549984522598 |
-| Players | 6/8 |
-| Host Name | QUISPESTYLE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:58:51 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549985375989 |
+| Lobby ID | 28590549985434281 |
 | Players | 2/24 |
-| Host Name | _____________ |
+| Host Name | Lance |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:00:29 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:00:36 |
 
 
 |  | epic_boss_fight_nightmare |
