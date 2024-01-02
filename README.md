@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550025819488 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | ==((D:D)) == |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:18:57 |
@@ -31,24 +31,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550025404009 |
-| Players | 6/10 |
-| Host Name | zzz### |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:18:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550024820464 |
-| Players | 6/24 |
-| Host Name | LowLife *w* |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:17:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28590550023730894 |
 | Players | 9/10 |
 | Host Name | COVID - 19 |
@@ -56,13 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:14:56 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550024820464 |
+| Players | 7/24 |
+| Host Name | LowLife *w* |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:17:03 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550023732273 |
-| Players | 7/8 |
-| Host Name | Señor autoplacer |
+| Lobby ID | 28590550026047919 |
+| Players | 4/8 |
+| Host Name | [NX] AKENO SEMPAI (Vega) |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:14:56 |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:19:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550026046964 |
+| Players | 1/15 |
+| Host Name | Only Dota=) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:19:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | thEdarK1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:18:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550026013464 |
+| Players | 1/5 |
+| Host Name | Gin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:19:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550026029305 |
+| Players | 1/5 |
+| Host Name | luv5ammy |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:19:21 |
 
 
