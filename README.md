@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549970367772 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Dango Deviluke |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:31:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549970058901 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | BISCUIT OLIVA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:31:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549970283085 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Black Lagoon |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:31:29 |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:31:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549970451253 |
-| Players | 6/8 |
-| Host Name | Bye ST€@M, Bye Dota |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:31:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549970488891 |
-| Players | 1/8 |
-| Host Name | 23 |
+| Lobby ID | 28590549970728226 |
+| Players | 1/15 |
+| Host Name | ニキータのお母さん |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:31:53 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:32:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549970699288 |
+| Players | 1/8 |
+| Host Name | майонез |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:32:16 |
 
 
 |  | ot3_desert_octet |
@@ -131,10 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549970545697 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | sideral_frio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:31:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549970727808 |
+| Players | 2/8 |
+| Host Name | Манюня |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:32:20 |
 
 
 |  | epic_boss_fight_nightmare |
