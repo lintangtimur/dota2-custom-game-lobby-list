@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704534128500 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Rick & Clancy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:46:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704538652077 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Foxy |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:51:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704537079723 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Chandideadmoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:50:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704537791499 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | pocoyo :v |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:50:59 |
@@ -90,6 +90,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | No life |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:51:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704538908884 |
+| Players | 1/8 |
+| Host Name | PeaceDeath |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:52:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704538933769 |
+| Players | 1/8 |
+| Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:52:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704538936346 |
+| Players | 1/24 |
+| Host Name | ☭JaVeLiN☭ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:52:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704537771995 |
+| Players | 14/15 |
+| Host Name | Old Spice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:50:58 |
 
 
 |  | epic_boss_fight_challenger |
