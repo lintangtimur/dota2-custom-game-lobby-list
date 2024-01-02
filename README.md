@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:30:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550164523646 |
-| Players | 23/24 |
-| Host Name | 饿了么滴 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:30:25 |
+| Lobby ID | 28590550166649568 |
+| Players | 5/8 |
+| Host Name | shymelle_ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:33:44 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550165778138 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:32:22 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550165647464 |
-| Players | 2/10 |
-| Host Name | дибил |
+| Players | 1/10 |
+| Host Name | просвет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:32:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550166649568 |
-| Players | 3/8 |
-| Host Name | shymelle_ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:33:44 |
 
 
 |  | epic_boss_fight_nightmare |
