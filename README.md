@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704496804843 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Only 69 pos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:06:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704496120935 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | chiken keritaki |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:06:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704496398671 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Proworg |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:06:28 |
@@ -101,6 +101,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:06:08 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704497222983 |
+| Players | 2/10 |
+| Host Name | www |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:07:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704497254787 |
+| Players | 8/15 |
+| Host Name | So what..? |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:07:23 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28591704487681403 |
@@ -110,21 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:57:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28591704491882669 |
-| Players | 9/10 |
-| Host Name | (￣▽￣) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:01:42 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28591704497203674 |
+| Lobby ID | 28591704497362741 |
 | Players | 1/7 |
-| Host Name | MAXWELL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:07:19 |
+| Host Name | Геракакл |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:07:30 |
 
 
