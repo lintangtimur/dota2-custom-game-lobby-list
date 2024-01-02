@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549899782541 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | activetino |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:11 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549909160822 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | lith |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:36:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549907277632 |
-| Players | 7/8 |
-| Host Name | Дымок |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:32:41 |
+| Lobby ID | 28590549909552649 |
+| Players | 2/24 |
+| Host Name | Bajando Pepian |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:36:45 |
 
 
 |  | ot3_gardens_duo |
@@ -101,22 +101,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:35:52 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549909640540 |
+| Players | 7/8 |
+| Host Name | Missing you happiness |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:36:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549909644837 |
+| Players | 2/15 |
+| Host Name | Rdazt |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:36:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549909694159 |
+| Players | 1/15 |
+| Host Name | СладкоПукнул |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:37:01 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549906942960 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Dark |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:32:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549909552649 |
-| Players | 1/24 |
-| Host Name | Bajando Pepian |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:36:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,15 +153,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NO WAR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:35:47 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28590549909402224 |
-| Players | 1/7 |
-| Host Name | Sergeant Cheburashka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:36:29 |
 
 
 |  | epic_boss_fight_nightmare |
