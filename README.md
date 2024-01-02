@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704386881645 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ₆⁶₆ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:13:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704384469890 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:11:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704387441945 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | rrrrrrrrrrrrrrrrrrrrr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:14:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704386849847 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | You are miserable |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:13:55 |
@@ -95,19 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704387522763 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | vodka |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:14:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704386897173 |
-| Players | 7/8 |
-| Host Name | Сагърай letmedie |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:13:58 |
+| Lobby ID | 28591704387556877 |
+| Players | 1/24 |
+| Host Name | Nouser |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:14:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704387614837 |
+| Players | 2/15 |
+| Host Name | maria.alexandra |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:14:40 |
 
 
 |  | epic_boss_fight_normal |
