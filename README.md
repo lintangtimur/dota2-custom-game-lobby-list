@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549986797232 |
-| Players | 4/8 |
-| Host Name | 𝖒𝖎𝖘𝖘𝖎𝖓𝖌- |
+| Lobby ID | 28590549987423234 |
+| Players | 1/24 |
+| Host Name | Vaxsal |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:03:12 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:04:24 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549985434281 |
-| Players | 23/24 |
-| Host Name | Lance |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:00:36 |
+| Lobby ID | 28590549987340283 |
+| Players | 3/15 |
+| Host Name | Aesgard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:04:14 |
 
 
 |  | ot3_gardens_duo |
@@ -107,15 +107,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/15 |
 | Host Name | PMA |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:04:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549987340283 |
-| Players | 2/15 |
-| Host Name | Aesgard |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:04:14 |
 
 
