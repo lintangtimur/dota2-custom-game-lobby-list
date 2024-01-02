@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550106734344 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | MadLad |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550109595880 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | eh? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:57:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550111542104 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Лп как смысл жизн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:01:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550108951238 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | monay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:56:34 |
