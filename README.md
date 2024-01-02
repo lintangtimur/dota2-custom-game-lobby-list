@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550042656884 |
-| Players | 6/8 |
-| Host Name | Papa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:51:29 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550043970094 |
+| Lobby ID | 28590550044061269 |
 | Players | 1/10 |
 | Host Name | AVENA 3 URSITAS :3 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:54:01 |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:54:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550044035480 |
+| Players | 6/8 |
+| Host Name | Carmen |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:54:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550041826014 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | BIG DON |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:49:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550043253155 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | La Gallina TURULECA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:52:37 |
@@ -41,34 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550042510582 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Ｓｏｈｅｅ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:12 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550043446037 |
-| Players | 1/15 |
-| Host Name | yordyascencio12 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:52:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550044014456 |
-| Players | 3/8 |
-| Host Name | overcome |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:54:07 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550044019544 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | ❖Mʀ᭄נ o κ ᴇ ʀᴮᵒˢˢ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:54:07 |
