@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549947869474 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:48:25 |
@@ -41,37 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549950263501 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | XXXX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:52:59 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549950172854 |
-| Players | 1/24 |
-| Host Name | Dayman, Fighter of the Nightman |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:52:48 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549950614340 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Krypton |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:53:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549950665712 |
-| Players | 2/24 |
-| Host Name | Last pick o fideo sibarita |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:53:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WANDOT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:52:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590549950667709 |
-| Players | 1/5 |
-| Host Name | Give Me Mana |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:53:45 |
 
 
