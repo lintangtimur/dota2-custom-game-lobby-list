@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550009196605 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 12 Tango |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:46:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550009215762 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | baldej |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:46:46 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550010345349 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | CHILINGUS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:48:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550010408205 |
+| Players | 2/10 |
+| Host Name | Remington Jones |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:49:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550010385734 |
+| Players | 1/15 |
+| Host Name | Yerazog |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:49:01 |
 
 
 |  | epic_boss_fight_normal |
