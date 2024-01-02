@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550103411666 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | NA BEREG? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550107673748 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | （=゜エ゜=）Bye |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:54:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550108248622 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | BASHNASH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:55:13 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MadLad |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550106851991 |
-| Players | 5/10 |
-| Host Name | Ghost Grave |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:52:37 |
 
 
 |  | epic_boss_fight_nightmare |
