@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549979567081 |
-| Players | 15/24 |
+| Players | 21/24 |
 | Host Name | GATO KCHONDO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:49:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549979590309 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | f(X)= |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:49:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549979560649 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Jet |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:49:13 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549978992614 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | pocoyo :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:48:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549979849323 |
-| Players | 1/8 |
-| Host Name | WIZARD |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:49:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549979867431 |
-| Players | 3/8 |
-| Host Name | Papa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:49:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:49:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549979924197 |
-| Players | 1/15 |
-| Host Name | RALF |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:49:55 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549979941145 |
-| Players | 1/8 |
-| Host Name | GNOMO giordota.com |
+| Lobby ID | 28590549979867431 |
+| Players | 4/8 |
+| Host Name | Papa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:49:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549980035533 |
+| Players | 2/15 |
+| Host Name | 😴😴 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:49:57 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:50:07 |
 
 
 |  | epic_boss_fight_nightmare |
