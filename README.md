@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550252593765 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:36:45 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:36:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550252172524 |
-| Players | 7/10 |
-| Host Name | teatime |
+| Lobby ID | 28590550252822389 |
+| Players | 8/15 |
+| Host Name | Рагу [Гантрап] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:36:13 |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:37:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,39 +47,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:36:22 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590550252353832 |
-| Players | 1/24 |
-| Host Name | Штефан |
+| Lobby ID | 28590550252701995 |
+| Players | 2/10 |
+| Host Name | ADRENALINe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:36:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550252684661 |
-| Players | 3/8 |
-| Host Name | Grim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:36:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550252673538 |
-| Players | 1/15 |
-| Host Name | AEZAKMI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:36:51 |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:36:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590550252701995 |
+| Lobby ID | 28590550252850846 |
 | Players | 1/10 |
-| Host Name | ADRENALINe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:36:53 |
+| Host Name | シャドーダイブ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:37:05 |
 
 
