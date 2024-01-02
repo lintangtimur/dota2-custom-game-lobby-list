@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:48:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550073894995 |
-| Players | 8/10 |
-| Host Name | Nzo |
+| Lobby ID | 28590550073457487 |
+| Players | 4/8 |
+| Host Name | [eq |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:51:23 |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:50:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550075570623 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | sojj |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:54:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550073288352 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Felip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:50:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550075050374 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | el pato soberano |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550075160006 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Ghz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:46 |
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550075169598 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Neon Riot |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550073457487 |
-| Players | 4/8 |
-| Host Name | [eq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:50:34 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550075825694 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:55:06 |
