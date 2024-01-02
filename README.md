@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704173371921 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Medick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:06:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704167021325 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | ✪Gen.Secret |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:00:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704169681356 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:03:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550329469073 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ..c.I.e.. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:03:08 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:04:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704173608076 |
-| Players | 8/10 |
-| Host Name | zotci# |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:06:29 |
+| Lobby ID | 28591704174380394 |
+| Players | 1/24 |
+| Host Name | X-ART |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:07:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,31 +128,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:04:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704174329087 |
+| Players | 1/10 |
+| Host Name | vip казашка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:07:07 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704174106353 |
-| Players | 3/8 |
-| Host Name | Andreypupok777 |
+| Lobby ID | 28591704174323756 |
+| Players | 1/8 |
+| Host Name | Homyk |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:06:55 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:07:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704174123997 |
-| Players | 5/8 |
-| Host Name | бля вы... я забыл |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:06:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704168763255 |
-| Players | 9/10 |
-| Host Name | luckybymyside |
+| Lobby ID | 28591704174347564 |
+| Players | 1/24 |
+| Host Name | เกมหมา ไอเหี้ย ツ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:02:11 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:07:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704174379909 |
+| Players | 1/8 |
+| Host Name | 322 enjoyer |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:07:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704174376085 |
+| Players | 1/8 |
+| Host Name | НЕНАВИЖУ ФРУКТЫ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:07:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704173913565 |
+| Players | 2/5 |
+| Host Name | KUKLOPAC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:06:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -167,18 +194,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704173527813 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Second City Saint |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:06:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704173913565 |
-| Players | 2/5 |
-| Host Name | KUKLOPAC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:06:45 |
 
 
