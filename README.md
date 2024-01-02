@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:19:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550084558059 |
-| Players | 23/24 |
-| Host Name | kisper |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:11:35 |
+| Lobby ID | 28590550089249100 |
+| Players | 2/8 |
+| Host Name | pang |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:20:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550089195594 |
-| Players | 1/15 |
-| Host Name | dumkuntmagee |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:20:15 |
+| Lobby ID | 28590550089273749 |
+| Players | 2/15 |
+| Host Name | SmolEye |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:20:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550089249100 |
-| Players | 2/8 |
-| Host Name | pang |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:20:21 |
+| Lobby ID | 28590550089363274 |
+| Players | 1/24 |
+| Host Name | Yisus |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:20:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BlueDeimos |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:20:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550089312265 |
+| Players | 1/10 |
+| Host Name | GGOVER |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:20:28 |
 
 
