@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704570541463 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:26:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704570790960 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | потипай потипай) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:27:17 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704570473104 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | КАБЫЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:26:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704570652256 |
-| Players | 14/15 |
-| Host Name | denzel |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:27:07 |
 
 
 |  | ot3_desert_octet |
@@ -81,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Первая кровь |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:26:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704570927210 |
+| Players | 1/15 |
+| Host Name | John Wesson |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:27:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704569144590 |
+| Players | 7/8 |
+| Host Name | isn't like holding to the center |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:25:25 |
 
 
 |  | epic_boss_fight_challenger |
