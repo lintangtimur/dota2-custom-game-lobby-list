@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28590550081614100 |
 | Players | 7/15 |
-| Host Name | < blank > |
+| Host Name | EyeKon |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:06:05 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550081368478 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | SunWan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:05:37 |
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FeedOt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:07:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550080621308 |
-| Players | 9/10 |
-| Host Name | monay |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:04:13 |
 
 
