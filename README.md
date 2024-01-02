@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550103411666 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | NA BEREG? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550103429469 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | PAIN |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:27 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bóbr Kurwa ja pierdole |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:47:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550104079392 |
+| Players | 1/10 |
+| Host Name | PoP MaXiS |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:47:37 |
 
 
