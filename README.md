@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:01:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549986986909 |
-| Players | 1/15 |
-| Host Name | PMA |
+| Lobby ID | 28590549986447052 |
+| Players | 2/10 |
+| Host Name | Yordi infiel |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:03:33 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:02:31 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549986797232 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 𝖒𝖎𝖘𝖘𝖎𝖓𝖌- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:03:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549954597716 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549985434281 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Lance |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:00:36 |
@@ -101,19 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:03:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549986447052 |
-| Players | 2/10 |
-| Host Name | Yordi infiel |
+| Lobby ID | 28590549987336069 |
+| Players | 1/15 |
+| Host Name | PMA |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:02:31 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:04:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549987340283 |
+| Players | 2/15 |
+| Host Name | Aesgard |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:04:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549982088427 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:54:04 |
