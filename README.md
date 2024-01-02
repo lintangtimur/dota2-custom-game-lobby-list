@@ -20,28 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:13:37 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550235650266 |
-| Players | 9/10 |
-| Host Name | Nanachi |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:14:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550236231814 |
-| Players | 7/8 |
-| Host Name | gunina |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:15:25 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550236241743 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | КолхозNIK |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:15:26 |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550236512499 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Hakuna My Tatas |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:15:47 |
