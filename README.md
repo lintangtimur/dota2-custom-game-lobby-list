@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704242887366 |
-| Players | 7/8 |
-| Host Name | IAMNOTSADASDYAFISDGOARISTA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:04:45 |
+| Lobby ID | 28591704243681111 |
+| Players | 1/10 |
+| Host Name | tom.pzdc |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:05:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704242375667 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:04:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704243508442 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | shi |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:05:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704243792541 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Need money for a Porsche |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:05:29 |
@@ -104,37 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704243580166 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Ghoul SSS rank |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:05:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704243681111 |
-| Players | 1/10 |
-| Host Name | tom.pzdc |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:05:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704243867395 |
-| Players | 1/10 |
-| Host Name | Яна Фидел |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:05:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704243892758 |
-| Players | 3/8 |
-| Host Name | Allfather |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:05:34 |
 
 
 |  | epic_boss_fight_nightmare |
