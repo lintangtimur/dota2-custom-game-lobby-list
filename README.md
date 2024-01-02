@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704578607288 |
-| Players | 5/8 |
-| Host Name | Merry ♂Fisting♂ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:36:00 |
+| Lobby ID | 28591704579102993 |
+| Players | 1/15 |
+| Host Name | PiuPiu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:36:33 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704574121498 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Guihs |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:31:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704575656212 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | CHOSO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:32:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704573792163 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 18 fps |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:30:39 |
@@ -92,28 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:34:04 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704579118745 |
-| Players | 3/15 |
-| Host Name | 606&88 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:36:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704579102993 |
-| Players | 1/15 |
-| Host Name | PiuPiu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:36:33 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704579138621 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Вова Адидас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:36:35 |
@@ -122,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28591704487681403 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | WINDSHADE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:57:14 |
@@ -137,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:13:33 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28591704579152589 |
-| Players | 2/7 |
-| Host Name | Nya-ha-ha (^˵◕ω◕˵^) |
+| Lobby ID | 28591704579170690 |
+| Players | 3/10 |
+| Host Name | ♥︎เ๓๓เ☛︎☚ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:36:36 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:36:38 |
 
 
