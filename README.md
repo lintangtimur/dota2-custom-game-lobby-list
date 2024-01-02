@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550103411666 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Smokey Nagata |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:25 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550103378537 |
-| Players | 22/24 |
-| Host Name | PARC |
+| Lobby ID | 28590550103804828 |
+| Players | 11/24 |
+| Host Name | POGUITO EL CHISPITA |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:46:21 |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:47:08 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:47:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550103556309 |
-| Players | 22/24 |
-| Host Name | Shadow Fiend-zone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:46:40 |
+| Lobby ID | 28590550105372276 |
+| Players | 7/15 |
+| Host Name | Rick Sanchez |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:49:57 |
 
 
 |  | ot3_gardens_duo |
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Soulwarrior |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:48:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550103804828 |
-| Players | 10/24 |
-| Host Name | POGUITO EL CHISPITA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:47:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550105372276 |
-| Players | 5/15 |
-| Host Name | Rick Sanchez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:49:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550105460081 |
-| Players | 4/10 |
-| Host Name | ジュリト |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:50:07 |
 
 
 |  | epic_boss_fight_nightmare |
