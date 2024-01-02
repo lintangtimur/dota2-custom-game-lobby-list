@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550053762551 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | overcome |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:12:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550052324247 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Lucky |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:10:06 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:13:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550052185599 |
-| Players | 7/8 |
-| Host Name | Sandstorm |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:09:50 |
+| Lobby ID | 28590550054056740 |
+| Players | 4/10 |
+| Host Name | Ark.Tect- |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:13:26 |
 
 
 |  | epic_boss_fight_nightmare |
