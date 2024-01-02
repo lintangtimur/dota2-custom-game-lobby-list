@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550011650339 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | 76561199196836346 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:51:29 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550013738278 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | uniballer |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:55:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550008437791 |
-| Players | 22/24 |
-| Host Name | 'Suthep Thaugsuban |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:45:16 |
+| Lobby ID | 28590550014692630 |
+| Players | 1/15 |
+| Host Name | Chawas Shelby |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:57:35 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550013635797 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Оливье реарм оливье |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:55:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550014488457 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:57:12 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:57:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550014692630 |
-| Players | 1/15 |
-| Host Name | Chawas Shelby |
+| Lobby ID | 28590550014829605 |
+| Players | 1/8 |
+| Host Name | SATOMI |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:57:35 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:57:51 |
 
 
 |  | epic_boss_fight_nightmare |
