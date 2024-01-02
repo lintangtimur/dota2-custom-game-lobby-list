@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704336146447 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | HUGE |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:25:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704334234518 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Canebo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:23:49 |
@@ -76,38 +76,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704336463552 |
-| Players | 8/15 |
-| Host Name | Дон оверолл |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:25:55 |
+| Lobby ID | 28591704336723010 |
+| Players | 3/15 |
+| Host Name | PAch1 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:26:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704336518694 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | kekenchik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:25:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704336641477 |
-| Players | 6/15 |
-| Host Name | РИВ ГОШ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:26:05 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704332399930 |
-| Players | 4/5 |
-| Host Name | 2052 |
+| Lobby ID | 28591704336847214 |
+| Players | 2/10 |
+| Host Name | [<AMBI>]  polpo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:22:08 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:26:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704336852446 |
+| Players | 2/8 |
+| Host Name | frasherzxc`10 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:26:18 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28591704336529277 |
+| Players | 3/7 |
+| Host Name | Gustav Elijah Åhr11 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:25:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704336152780 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Агъашка(не казах) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:25:37 |
@@ -137,12 +146,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:25:44 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28591704336842131 |
+| Players | 1/7 |
+| Host Name | STIRK |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:26:17 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28591704336529277 |
-| Players | 2/7 |
-| Host Name | Gustav Elijah Åhr11 |
+| Lobby ID | 28591704336814373 |
+| Players | 5/7 |
+| Host Name | 睡睡 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:25:59 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:26:15 |
 
 
