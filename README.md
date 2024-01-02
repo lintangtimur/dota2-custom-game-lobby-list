@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550290673715 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | RabaDzija |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:22:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550291136782 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Z1FFo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:22:40 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:15:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550290887715 |
-| Players | 1/10 |
-| Host Name | миша дракон |
+| Lobby ID | 28590550291292499 |
+| Players | 3/8 |
+| Host Name | ZXC ABUSE DEAD INSIDE 14 Y.O |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:22:24 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:22:50 |
 
 
 |  | epic_boss_fight_nightmare |
