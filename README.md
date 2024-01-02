@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704550593825 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:05:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704551889185 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:06:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704548774936 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | CHOSO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:03:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704553238774 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | kounz |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:07:55 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:07:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704551110867 |
-| Players | 9/10 |
-| Host Name | D4RKY1$U$ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:05:36 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704553254684 |
@@ -108,6 +99,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:07:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704553398113 |
+| Players | 10/15 |
+| Host Name | winter vibe |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:08:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704553476354 |
+| Players | 6/10 |
+| Host Name | Гвинтокрил |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:08:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704553507789 |
+| Players | 5/8 |
+| Host Name | lotrich |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:08:13 |
 
 
 |  | epic_boss_fight_challenger |
