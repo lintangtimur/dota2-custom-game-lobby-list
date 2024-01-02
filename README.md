@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704533508283 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | LOS JUDIOS ARRUINARON EL MUNDO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:46:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704534394400 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | §𝓟𝓐𝓓𝓔 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:47:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704530847650 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | pashaearl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:43:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704534541783 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | SleepLess |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:47:25 |
@@ -94,20 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704534701783 |
-| Players | 1/8 |
-| Host Name | G I U L I A N O |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:47:35 |
+| Lobby ID | 28591704534730836 |
+| Players | 3/8 |
+| Host Name | Flam |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:47:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704534733735 |
-| Players | 1/15 |
-| Host Name | a |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:47:38 |
+| Lobby ID | 28591704534758720 |
+| Players | 4/8 |
+| Host Name | сдох |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:47:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704534881835 |
+| Players | 4/8 |
+| Host Name | Viola Ray |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:47:47 |
 
 
 |  | epic_boss_fight_challenger |
