@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549906432346 |
-| Players | 14/15 |
-| Host Name | DaktAri |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:31:11 |
+| Lobby ID | 28590549906759827 |
+| Players | 5/8 |
+| Host Name | paypal me 700 USDT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:31:46 |
 
 
 |  | ot3_desert_octet |
@@ -101,22 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:28:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549905764305 |
-| Players | 4/8 |
-| Host Name | CCCR |
+| Lobby ID | 28590549906913428 |
+| Players | 4/15 |
+| Host Name | eboshing |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:30:00 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:32:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549906759827 |
-| Players | 2/8 |
-| Host Name | paypal me 700 USDT |
+| Lobby ID | 28590549906919056 |
+| Players | 1/15 |
+| Host Name | Akai |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:31:46 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:32:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549906942960 |
+| Players | 3/15 |
+| Host Name | Leo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:32:05 |
 
 
 |  | epic_boss_fight_nightmare |
