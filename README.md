@@ -5,28 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550236309429 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Pekis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:15:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550236983201 |
-| Players | 11/15 |
-| Host Name | Shouya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:16:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550236835216 |
-| Players | 7/8 |
-| Host Name | Эскапизм Души |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:16:13 |
 
 
 |  | ot3_gardens_duo |
