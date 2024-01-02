@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704533508283 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | LOS JUDIOS ARRUINARON EL MUNDO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:46:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704536694226 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | WTF+DOTA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:49:47 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:49:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704538199412 |
-| Players | 10/15 |
-| Host Name | Muted Love |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:51:26 |
+| Lobby ID | 28591704538616270 |
+| Players | 4/10 |
+| Host Name | Doyki.Xddcc.fullpohuy |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:51:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704535007509 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ioshua |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:47:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704537079723 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | Chandideadmoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:50:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704538354606 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | No life |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:51:36 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Odracir*MS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:51:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704537345770 |
-| Players | 2/5 |
-| Host Name | Хрон Кончений |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:50:30 |
 
 
