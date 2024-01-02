@@ -77,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549931532216 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | TOHRU |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:17:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549931819086 |
-| Players | 3/8 |
-| Host Name | 亗 T ɪ ᴛ ᴀ ɴ  亗 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:17:51 |
+| Lobby ID | 28590549931909295 |
+| Players | 1/10 |
+| Host Name | Ceph |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:18:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549931878252 |
+| Players | 1/10 |
+| Host Name | nine |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:17:57 |
 
 
