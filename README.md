@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550115325353 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Выпустите |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:07:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550114244040 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | st1gma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:05:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550114782627 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:06:53 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550114783572 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | |RHE. Jumper| |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:06:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550116049828 |
+| Players | 1/24 |
+| Host Name | Sylvanas Windrunner |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:09:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550116070107 |
+| Players | 3/8 |
+| Host Name | сигма свинка |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:09:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550116073010 |
+| Players | 2/10 |
+| Host Name | Solowind |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:09:10 |
 
 
 |  | epic_boss_fight_nightmare |
