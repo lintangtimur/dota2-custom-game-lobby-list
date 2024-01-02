@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550220943919 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | sorry |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:54:22 |
@@ -29,31 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:22:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550220004024 |
-| Players | 7/8 |
-| Host Name | Toni Katano |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:53:03 |
+| Lobby ID | 28590550220936819 |
+| Players | 12/15 |
+| Host Name | ☆ VAZ ☆ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:54:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550220386244 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Monkey Roronoa Vinsmoke |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:53:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550220936819 |
-| Players | 11/15 |
-| Host Name | ☆ VAZ ☆ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:54:22 |
 
 
 |  | epic_boss_fight_nightmare |
