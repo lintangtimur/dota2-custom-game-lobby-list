@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550277487351 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | слепой окулист |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:07:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550274737449 |
-| Players | 8/10 |
+| Players | 5/10 |
 | Host Name | raider71 |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:03:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550277635375 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | KONSTANTIN! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:07:20 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550277094384 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | дед ещё могёт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:06:42 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550277858996 |
+| Players | 2/24 |
+| Host Name | PenoDewey |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:07:36 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550277610680 |
-| Players | 4/10 |
-| Host Name | МЕНЯЕБАЛОТЕЦ99РАЗ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:07:18 |
+| Lobby ID | 28590550277937028 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:07:41 |
 
 
 |  | epic_boss_fight_normal |
