@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:49:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549981054574 |
-| Players | 1/15 |
-| Host Name | 富平柿饼vx635418263 |
-| Region | Unknown |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:52:04 |
+| Lobby ID | 28590549980987781 |
+| Players | 3/8 |
+| Host Name | MOTOMAMI |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:51:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549954597716 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tavo Tu Terror |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:50:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549980987781 |
-| Players | 2/8 |
-| Host Name | MOTOMAMI |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:51:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549981088766 |
-| Players | 1/24 |
-| Host Name | RROCCO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:52:08 |
 
 
 |  | epic_boss_fight_nightmare |
