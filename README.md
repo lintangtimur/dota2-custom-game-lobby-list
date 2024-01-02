@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549947869474 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:48:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549950263501 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | XXXX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:52:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549950792956 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | ♥♦CentOS♣♠ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:54:00 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549950850360 |
+| Lobby ID | 28590549950934867 |
 | Players | 1/15 |
-| Host Name | AIP-DSP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:54:07 |
+| Host Name | Mafùyú |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:54:18 |
 
 
 |  | epic_boss_fight_nightmare |
