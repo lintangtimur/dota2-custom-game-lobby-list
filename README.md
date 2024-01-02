@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704526218715 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Celestial Alignment |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:38:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704526581116 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Nesqui |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:38:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704523533683 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Owner19Th |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:35:23 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704526517483 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Methrattenkochmann |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:38:37 |
@@ -137,6 +137,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:38:46 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704526716150 |
+| Players | 3/10 |
+| Host Name | Реквием по чечне |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:38:50 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28591704487681403 |
@@ -149,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704526129111 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | A BIG BODY SLAM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:38:12 |
