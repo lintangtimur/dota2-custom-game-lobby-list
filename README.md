@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550032479732 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Hello |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:31:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550035123631 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Ghost 7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:36:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550035853169 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Fox |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:38:20 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:38:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550036259359 |
+| Players | 2/10 |
+| Host Name | Настя Мефедрон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:39:07 |
 
 
 |  | epic_boss_fight_nightmare |
