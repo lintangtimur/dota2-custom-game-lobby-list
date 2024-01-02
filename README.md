@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549929205082 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:12:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549928486215 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Geegee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:11:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549929928281 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Mason |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:14:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549929446297 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Misax |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:13:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549930216441 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Risehush |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:14:49 |
@@ -94,10 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549928210086 |
-| Players | 9/10 |
-| Host Name | merenge |
+| Lobby ID | 28590549930658248 |
+| Players | 1/10 |
+| Host Name | Hellsing...!! |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:11:07 |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:15:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549930697873 |
+| Players | 3/8 |
+| Host Name | Rekia |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:15:44 |
 
 
