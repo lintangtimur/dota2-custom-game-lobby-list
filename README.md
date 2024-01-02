@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550200615333 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | pisces |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:25:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550201256660 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ДА, СПАСИБО |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:26:11 |
@@ -47,10 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:26:04 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550201984582 |
+| Players | 2/10 |
+| Host Name | Amarilis |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:27:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550201659225 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | bounty master |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:26:48 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550201870138 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Kapitan Tutan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:27:06 |
@@ -67,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590550201965841 |
+| Lobby ID | 28590550202057969 |
 | Players | 1/5 |
-| Host Name | Mr.Nicky^ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:27:14 |
+| Host Name | PyroCs |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:27:22 |
 
 
