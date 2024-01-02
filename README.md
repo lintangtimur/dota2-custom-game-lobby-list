@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704531856663 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | ` wheredaavocados™ 🥑 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:44:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704530454578 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Ruby |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:42:56 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704532988359 |
-| Players | 3/10 |
-| Host Name | Vk20.at |
+| Players | 4/10 |
+| Host Name | Посипака Боб |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:45:42 |
 
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:45:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704532756947 |
-| Players | 9/10 |
-| Host Name | odnoglazij korol' |
+| Lobby ID | 28591704532961722 |
+| Players | 3/8 |
+| Host Name | t.tv/pseeex |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:45:26 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:45:40 |
 
 
 |  | ot3_gardens_duo |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:45:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704532961722 |
-| Players | 1/8 |
-| Host Name | t.tv/pseeex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:45:40 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28591704487681403 |
@@ -126,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WINDSHADE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:57:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704530925322 |
-| Players | 4/5 |
-| Host Name | azertyuiopqsdfghjklmwxcvbn |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:43:26 |
 
 
 |  | epic_boss_fight_nightmare |
