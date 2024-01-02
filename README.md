@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549913158074 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | El watson makofon |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:43:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549913067395 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Rob.The-R |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:43:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549913026040 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Kratos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:43:01 |
@@ -135,6 +135,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝕱𝕽𝖆𝕹𝖃𝖃 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:43:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549913334415 |
+| Players | 2/10 |
+| Host Name | Scrappycoco |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:43:35 |
 
 
 |  | epic_boss_fight_normal |
