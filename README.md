@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704185389917 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Monsieur Treboulier |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:16:43 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704185053178 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | letai 恋一愛 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:16:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704185562965 |
-| Players | 6/15 |
-| Host Name | G1uc0se |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:16:52 |
+| Lobby ID | 28591704185659728 |
+| Players | 5/8 |
+| Host Name | Jmaster210 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:16:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704185607285 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Homyk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:16:55 |
