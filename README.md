@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704301702885 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | nissan-gtr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:54:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704275145740 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Latrell |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:31:33 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704301257969 |
-| Players | 6/10 |
-| Host Name | S@MY_BOY |
+| Players | 5/10 |
+| Host Name | - M!KE - |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:54:09 |
 
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704301602849 |
-| Players | 1/15 |
-| Host Name | Conq |
+| Players | 9/15 |
+| Host Name | 44444444444 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:54:27 |
 
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704300508921 |
-| Players | 7/8 |
-| Host Name | |||||||||||| |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:53:30 |
+| Lobby ID | 28591704302251066 |
+| Players | 1/8 |
+| Host Name | Positive Mental Animal |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:55:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704301885790 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:54:42 |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:54:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704302251066 |
-| Players | 1/8 |
-| Host Name | Positive Mental Animal |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:55:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704301257315 |
-| Players | 14/15 |
-| Host Name | = |
+| Lobby ID | 28591704302271687 |
+| Players | 3/10 |
+| Host Name | Bekon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:54:09 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:55:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704302409346 |
+| Players | 1/10 |
+| Host Name | Zenigata |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:55:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704300118680 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Abel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:53:09 |
