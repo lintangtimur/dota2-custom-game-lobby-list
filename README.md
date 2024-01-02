@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550192256222 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Jseven |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:12:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550191498830 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | Malenia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:11:35 |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:11:57 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550192354644 |
+| Lobby ID | 28590550192380460 |
 | Players | 2/10 |
-| Host Name | BlueDeimos |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:12:52 |
+| Host Name | Solowind |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:12:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550192476538 |
+| Players | 1/15 |
+| Host Name | beardrinker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:13:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -74,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:12:52 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590550192376388 |
-| Players | 1/7 |
-| Host Name | Енот епт |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:12:54 |
+| Lobby ID | 28590550192432210 |
+| Players | 1/10 |
+| Host Name | Travis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:12:59 |
 
 
