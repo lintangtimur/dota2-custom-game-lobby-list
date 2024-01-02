@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704185303378 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Gaborit |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:16:39 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:22:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704191919198 |
-| Players | 5/8 |
-| Host Name | интернет |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:22:19 |
+| Lobby ID | 28591704190970075 |
+| Players | 4/24 |
+| Host Name | Chipi Chapa Dubi Daba Boom |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:21:30 |
 
 
 |  | ot3_desert_octet |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:18:21 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704186067765 |
-| Players | 8/10 |
-| Host Name | панк777 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:17:18 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704191498722 |
-| Players | 13/15 |
-| Host Name | INZOI |
+| Lobby ID | 28591704192225998 |
+| Players | 3/15 |
+| Host Name | veteran |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:22:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704192079708 |
+| Players | 2/8 |
+| Host Name | Калдун |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:21:57 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:22:27 |
 
 
 |  | ot3_gardens_duo |
@@ -94,24 +94,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704189695315 |
-| Players | 8/10 |
-| Host Name | леша решала |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:20:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704190970075 |
-| Players | 5/24 |
-| Host Name | Chipi Chapa Dubi Daba Boom |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:21:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28591704192022343 |
 | Players | 2/10 |
 | Host Name | Need money for a Porsche |
@@ -121,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704192079708 |
-| Players | 3/8 |
-| Host Name | sa1r1m |
+| Lobby ID | 28591704192288853 |
+| Players | 6/8 |
+| Host Name | интернет |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:22:27 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:22:38 |
 
 
 |  | epic_boss_fight_hard |
@@ -153,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Second City Saint |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:21:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704192209032 |
+| Players | 1/5 |
+| Host Name | milota |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:22:34 |
 
 
