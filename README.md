@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:57:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704545019248 |
-| Players | 12/24 |
-| Host Name | SameShit |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:58:59 |
+| Lobby ID | 28591704546086151 |
+| Players | 5/8 |
+| Host Name | аф |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704545317751 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 76561199196836346 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:59:19 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:55:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704545739264 |
-| Players | 12/15 |
-| Host Name | SUPREME# [16] |
+| Lobby ID | 28591704546029113 |
+| Players | 3/8 |
+| Host Name | terar2019 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:59:47 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:05 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704539822294 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | RGM |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:53:12 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704545894957 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | KsarDaks |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:59:57 |
@@ -112,11 +112,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704546015462 |
-| Players | 1/15 |
-| Host Name | DOGGGGGGGGG! |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:00:04 |
+| Lobby ID | 28591704546052967 |
+| Players | 4/15 |
+| Host Name | мусульманго |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704546092279 |
+| Players | 3/8 |
+| Host Name | Katsu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704546069343 |
+| Players | 3/8 |
+| Host Name | zxclarity |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704546189956 |
+| Players | 1/8 |
+| Host Name | pilin |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:16 |
 
 
 |  | epic_boss_fight_challenger |
