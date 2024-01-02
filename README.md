@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550020832384 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:09:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550021052682 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Run Forest |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:09:49 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550021762646 |
-| Players | 6/8 |
-| Host Name | Kyubi |
+| Lobby ID | 28590550021609191 |
+| Players | 2/8 |
+| Host Name | #Laprendoencasa |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:11:11 |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:10:53 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550020032721 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:07:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550021145511 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | kiyopon |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:10:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550018169969 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | ✡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:04:16 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Decadance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:11:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550021609191 |
-| Players | 2/8 |
-| Host Name | #Laprendoencasa |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:10:53 |
 
 
 |  | epic_boss_fight_nightmare |
