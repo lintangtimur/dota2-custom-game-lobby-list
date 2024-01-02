@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549931540521 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:17:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549934151420 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | SUN ♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:22:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549933958271 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Regalando mmr por navidad+ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:21:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549933882841 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Ninguém |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:21:40 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549933837358 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | GoD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:21:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549934382499 |
+| Players | 2/15 |
+| Host Name | СФИНКТЕР ТАМОГОЧИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:22:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549933918061 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | อาโคย...แข็ง |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:21:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549934351657 |
+| Players | 3/5 |
+| Host Name | Иосиф Виссарионович Сталин |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:22:32 |
 
 
