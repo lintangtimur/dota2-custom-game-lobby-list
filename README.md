@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550301568347 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | noom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:34:01 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550302976722 |
-| Players | 14/15 |
-| Host Name | ost lover |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:35:31 |
+| Lobby ID | 28590550304039033 |
+| Players | 4/15 |
+| Host Name | мурчащий |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:36:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550303154956 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ХРОНО НА РАЗВИТИЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:35:42 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550303995541 |
+| Lobby ID | 28590550304163867 |
 | Players | 1/15 |
 | Host Name | hsy |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:36:36 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:36:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550298520360 |
+| Players | 23/24 |
+| Host Name | 보보씨 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:30:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | karmageddon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:33:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550301671804 |
-| Players | 10/10 |
-| Host Name | TEAM CALLER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:34:08 |
 
 
