@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550286099935 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | IRR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:17:03 |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550285458701 |
-| Players | 7/8 |
-| Host Name | gussigang666 |
+| Lobby ID | 28590550286372503 |
+| Players | 2/8 |
+| Host Name | S1MPLE ツ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:16:19 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:17:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550286318854 |
-| Players | 3/8 |
-| Host Name | Walkman |
+| Lobby ID | 28590550286424500 |
+| Players | 2/10 |
+| Host Name | Mango Pluto |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:17:18 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:17:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550285415005 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | >OnLy LoVe< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:16:16 |
