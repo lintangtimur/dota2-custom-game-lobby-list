@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704499890083 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | EG. Strawberry |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:10:22 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28591704499827403 |
 | Players | 5/24 |
-| Host Name | Kott ya |
+| Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:10:17 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704495618708 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | AfyBC |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:05:38 |
@@ -56,60 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:00:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704502123013 |
-| Players | 12/15 |
-| Host Name | RAVEN |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:12:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704501642150 |
-| Players | 9/10 |
-| Host Name | Liza Izo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:12:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704501986125 |
-| Players | 2/10 |
-| Host Name | МИЛАНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:12:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704502142325 |
-| Players | 1/15 |
-| Host Name | pawn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:12:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704500953793 |
-| Players | 9/24 |
-| Host Name | smox |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:11:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704502125666 |
-| Players | 6/10 |
-| Host Name | Реквием по чечне |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:12:35 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704501644446 |
@@ -122,10 +68,100 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704502382039 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ParovozikL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:12:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704501986125 |
+| Players | 3/10 |
+| Host Name | МИЛАНА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:12:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704502142325 |
+| Players | 2/15 |
+| Host Name | pawn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:12:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704500953793 |
+| Players | 11/24 |
+| Host Name | smox |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:11:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704502125666 |
+| Players | 7/10 |
+| Host Name | Реквием по чечне |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:12:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704502489451 |
+| Players | 2/10 |
+| Host Name | cl_lw 0 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:12:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704502609209 |
+| Players | 1/8 |
+| Host Name | Sk1ble |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:13:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704502563485 |
+| Players | 5/15 |
+| Host Name | Батон |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:13:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704499577289 |
+| Players | 14/15 |
+| Host Name | ЗАЛУЖНИЙ БАТЬКО |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:09:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704501281768 |
+| Players | 4/10 |
+| Host Name | 76561199175300407 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:11:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704502606541 |
+| Players | 4/8 |
+| Host Name | BoeJiden |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:13:02 |
 
 
 |  | epic_boss_fight_challenger |
