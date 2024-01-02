@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28590550076511367 |
 | Players | 9/10 |
-| Host Name | Munooke |
+| Host Name | YoungBoy never tilt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:56:28 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550075171556 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:48 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:56:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550076756873 |
-| Players | 1/24 |
-| Host Name | ☭PolpotTrotskyXiǎopíngDantes |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:56:57 |
+| Lobby ID | 28590550077519869 |
+| Players | 4/10 |
+| Host Name | DONT KILL ME |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:58:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,28 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:57:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550077453558 |
-| Players | 1/15 |
-| Host Name | PossibleGhostface |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:58:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550077495680 |
-| Players | 1/15 |
-| Host Name | Paulo Londrui |
+| Lobby ID | 28590550075160006 |
+| Players | 21/24 |
+| Host Name | Ghz |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:58:21 |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:53:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550077584277 |
+| Players | 1/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:58:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550075825694 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:55:06 |
