@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550034397769 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | w_xzed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:35:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550033780235 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Rip van Winkle |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:34:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550034293536 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | someone clip my rampage |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:35:21 |
