@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550239801949 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Mango Pluto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:20:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550240300889 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Greta Thunberg |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:20:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550240309802 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Trubka 223 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:20:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550237075779 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | K.J.SparroW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:16:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550237064408 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | halal player |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:16:31 |
