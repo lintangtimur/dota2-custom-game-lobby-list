@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:35:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550322350474 |
-| Players | 4/10 |
-| Host Name | KiW3^ |
+| Lobby ID | 28590550323135771 |
+| Players | 2/8 |
+| Host Name | CherryPadlo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:55:54 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:56:44 |
 
 
 |  | ot3_desert_octet |
@@ -29,22 +29,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:55:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550322319947 |
-| Players | 8/15 |
-| Host Name | Nutria bóbr |
+| Lobby ID | 28590550323174358 |
+| Players | 3/24 |
+| Host Name | touch |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:55:52 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:56:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550322210855 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | waryk1d |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:55:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550323065955 |
+| Players | 1/24 |
+| Host Name | Rock.Baby.Rock |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:56:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550323305483 |
+| Players | 4/15 |
+| Host Name | Alumich |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:56:54 |
 
 
 |  | epic_boss_fight_nightmare |
