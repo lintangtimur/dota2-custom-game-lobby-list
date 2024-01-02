@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549903420737 |
-| Players | 3/8 |
-| Host Name | Сендальф Герий |
+| Lobby ID | 28590549912042592 |
+| Players | 1/10 |
+| Host Name | 導演 |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:25:48 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:41:15 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549911195586 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Hopeless... |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:39:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549911382866 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | wallet warrior |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:40:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549910915553 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Agentsmrt |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:39:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549910762781 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:38:56 |
@@ -113,28 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549911065484 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | zzzzz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:39:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549911915742 |
-| Players | 6/10 |
-| Host Name | Verfickt |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:41:01 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549909552649 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Bajando Pepian |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:36:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549911915742 |
+| Players | 3/10 |
+| Host Name | LEXACOCu |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:41:01 |
 
 
 |  | epic_boss_fight_normal |
