@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550117728237 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | partychief |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:12:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550121562097 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Boss James |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:18:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550121038734 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | pohui proebali |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:17:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550119585519 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | POGUITO EL CHISPITA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:15:15 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550121331648 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ADICTO |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:18:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550121760623 |
-| Players | 7/8 |
-| Host Name | Evlogos |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:19:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550122633857 |
-| Players | 1/15 |
-| Host Name | Игорь (Артём) |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:20:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kuroshimi/D/Shoot |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:20:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550122633857 |
+| Players | 1/15 |
+| Host Name | neshrar |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:20:30 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550121895429 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ็ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:19:14 |
