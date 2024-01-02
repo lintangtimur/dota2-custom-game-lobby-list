@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550103411666 |
-| Players | 3/8 |
-| Host Name | CpsDofu |
+| Players | 2/8 |
+| Host Name | Smokey Nagata |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550101177606 |
-| Players | 1/15 |
-| Host Name | Nik |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:42:19 |
+| Lobby ID | 28590550105067049 |
+| Players | 1/10 |
+| Host Name | Grumbledorp |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:49:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550103378537 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550104256657 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Munooke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:47:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550103556309 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Shadow Fiend-zone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:40 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:47:08 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550099510102 |
-| Players | 23/24 |
-| Host Name | 青衣 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:39:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550105067049 |
-| Players | 1/10 |
-| Host Name | Grumbledorp |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:49:25 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550104338679 |
@@ -110,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:48:06 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590550105060072 |
-| Players | 1/5 |
-| Host Name | AnШLaG |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:49:24 |
+| Lobby ID | 28590550105254610 |
+| Players | 1/10 |
+| Host Name | 7-Ghost |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:49:45 |
 
 
