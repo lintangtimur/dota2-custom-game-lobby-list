@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550188559063 |
-| Players | 8/10 |
-| Host Name | top |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:07:15 |
+| Lobby ID | 28590550189494579 |
+| Players | 2/15 |
+| Host Name | John Donne Lujan Carrion |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:08:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550176861473 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:49:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550188131115 |
-| Players | 15/24 |
+| Players | 22/24 |
 | Host Name | Nuterez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:06:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550184158111 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:00:39 |
@@ -41,36 +41,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550189003677 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | GoriLL@ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:07:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550189077550 |
-| Players | 5/8 |
-| Host Name | ⁱᵃᵐ|๕𝑖ɠɐc𝐡ɐ𝙙 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:08:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550189259215 |
-| Players | 2/15 |
-| Host Name | John Donne Lujan Carrion |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:08:16 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550187925768 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | BeoWulf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:06:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550189370820 |
+| Players | 1/10 |
+| Host Name | hendra2lm |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:08:26 |
 
 
