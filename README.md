@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549926515511 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:07:56 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549926817910 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:08:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549925762605 |
-| Players | 9/10 |
-| Host Name | Легенда Приюта |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:06:33 |
 
 
