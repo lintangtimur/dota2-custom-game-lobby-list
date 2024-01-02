@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550033780235 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Rip van Winkle |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:34:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550034293536 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | someone clip my rampage |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:35:21 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:34:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550033621050 |
-| Players | 23/24 |
-| Host Name | kiyopon |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:34:04 |
 
 
