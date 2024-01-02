@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704217426327 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | BMZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:43:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704199816242 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Reiz |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:29:01 |
@@ -83,20 +83,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:37:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704217741057 |
-| Players | 5/10 |
-| Host Name | Steve |
+| Lobby ID | 28591704219472747 |
+| Players | 1/8 |
+| Host Name | INBossik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:43:50 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:45:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704218344129 |
 | Players | 2/8 |
-| Host Name | rrrr |
+| Host Name | FANTAzeR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:44:21 |
 
@@ -121,26 +121,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704219186466 |
+| Lobby ID | 28591704219450900 |
 | Players | 1/15 |
 | Host Name | AHAHAHHAHAHAHAHHAHAHAHAHAHHAHAHA |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:45:04 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:45:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704219312285 |
-| Players | 1/10 |
-| Host Name | TMMR |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:45:10 |
+| Lobby ID | 28591704219530960 |
+| Players | 4/8 |
+| Host Name | ayato |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:45:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704211947033 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Batis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:38:58 |
