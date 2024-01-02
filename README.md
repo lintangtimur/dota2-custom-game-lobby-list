@@ -2,20 +2,20 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704574111473 |
-| Players | 6/8 |
-| Host Name | !ََAᵍʰᵃ parham |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:31:00 |
+| Lobby ID | 28591704578907014 |
+| Players | 5/10 |
+| Host Name | Я АРТЁМ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:36:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704574655025 |
-| Players | 5/10 |
-| Host Name | чего вам бояться |
+| Players | 2/10 |
+| Host Name | Zero:3 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:31:37 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704577733731 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 𝔻𝕣 ✪™ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:35:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704575656212 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | CHOSO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:32:43 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704578607288 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | lulz |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:36:00 |
@@ -112,29 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704578749228 |
+| Lobby ID | 28591704578881737 |
 | Players | 1/10 |
-| Host Name | Monkey D. Mitya |
+| Host Name | Michelangelo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:36:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704578949164 |
+| Players | 1/8 |
+| Host Name | БлАтНоЙ ПеТуХ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:36:10 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:36:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704578663806 |
-| Players | 8/15 |
-| Host Name | redheadfoxx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:36:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704578748064 |
-| Players | 2/10 |
-| Host Name | ДЫРОКОЛ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:36:09 |
+| Lobby ID | 28591704578962998 |
+| Players | 3/15 |
+| Host Name | OT |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:36:24 |
 
 
 |  | epic_boss_fight_challenger |
