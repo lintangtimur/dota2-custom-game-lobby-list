@@ -20,31 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:49:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550182333915 |
-| Players | 8/10 |
-| Host Name | pohui proebali |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:57:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550182028376 |
-| Players | 7/8 |
-| Host Name | ПЯТИТОННАЯ ФЕМКА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:57:27 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550182421453 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | i will d?e alone xdxdxdxdxdxdxd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:58:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550182648625 |
+| Players | 2/10 |
+| Host Name | Freak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:58:24 |
 
 
 |  | epic_boss_fight_normal |
