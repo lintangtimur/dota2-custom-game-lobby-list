@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704202910744 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 魔法海螺 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:31:34 |
@@ -20,28 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:16:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704201300280 |
-| Players | 2/8 |
-| Host Name | XiaoTy |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:30:14 |
+| Lobby ID | 28591704203091247 |
+| Players | 3/15 |
+| Host Name | ВОР ПОРЯДОЧНОСТИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:31:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704202924062 |
+| Lobby ID | 28591704203094185 |
 | Players | 1/15 |
 | Host Name | pressure |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:31:35 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:31:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704197399142 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Zen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:27:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704194542392 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | tayron |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:24:33 |
@@ -92,19 +92,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:29:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704203001598 |
-| Players | 1/10 |
-| Host Name | EnOmInE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:31:39 |
+| Lobby ID | 28591704203141739 |
+| Players | 2/8 |
+| Host Name | hebker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:31:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704203199994 |
+| Players | 1/8 |
+| Host Name | LSY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:31:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704203219986 |
+| Players | 3/8 |
+| Host Name | never that |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:31:50 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28591704184482694 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Kimchi rice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:15:56 |
