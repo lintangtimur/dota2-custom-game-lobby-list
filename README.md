@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704439934864 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Abusamadres Jones |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:07:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704442290102 |
-| Players | 9/15 |
-| Host Name | писькамет |
+| Lobby ID | 28591704442584140 |
+| Players | 2/24 |
+| Host Name | RiftBreaker |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:09:42 |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:10:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704440905540 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Shadow Demon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:08:18 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704440910335 |
-| Players | 9/10 |
-| Host Name | SameShit |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:08:18 |
+| Lobby ID | 28591704442548248 |
+| Players | 3/10 |
+| Host Name | 标准尺寸 (1 pos ) |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:09:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704442322188 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | young |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:09:44 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704442428027 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Heyzi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:09:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704442720477 |
+| Players | 1/15 |
+| Host Name | Gårbage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:10:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704441142421 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Yui |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:08:32 |
