@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549961253642 |
-| Players | 23/24 |
-| Host Name | iDiOTA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:14:04 |
+| Lobby ID | 28590549973274686 |
+| Players | 1/24 |
+| Host Name | Stepdad with boundary issues |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:37:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:30:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549972169067 |
-| Players | 9/10 |
-| Host Name | i n sanity |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:35:03 |
+| Lobby ID | 28590549973272364 |
+| Players | 2/24 |
+| Host Name | ........ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:37:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549972366479 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Писятдва |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:35:26 |
@@ -126,42 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:36:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549973267211 |
-| Players | 3/8 |
-| Host Name | Echo |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:37:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549973274479 |
-| Players | 4/8 |
-| Host Name | Wiro.GRINGO.5tazona |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:37:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549973272364 |
-| Players | 1/24 |
-| Host Name | ........ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:37:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549973274686 |
-| Players | 1/24 |
-| Host Name | Stepdad with boundary issues |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:37:09 |
 
 
 |  | epic_boss_fight_nightmare |
