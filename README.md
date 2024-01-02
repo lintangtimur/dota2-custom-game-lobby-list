@@ -32,9 +32,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550202444401 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Мятный коктейль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:27:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550204842676 |
+| Players | 1/10 |
+| Host Name | ຊ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:31:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550204805296 |
+| Players | 1/10 |
+| Host Name | halal player |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:31:23 |
 
 
