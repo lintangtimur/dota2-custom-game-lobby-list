@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704533508283 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | LOS JUDIOS ARRUINARON EL MUNDO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:46:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704534881835 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Viola Ray |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:47:47 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:47:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704530641341 |
-| Players | 1/24 |
-| Host Name | Ruby |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:43:08 |
+| Lobby ID | 28591704535263558 |
+| Players | 5/8 |
+| Host Name | Lumberjack |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:48:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704534004675 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | NoName |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:46:49 |
@@ -128,55 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:47:56 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704535143305 |
-| Players | 7/10 |
-| Host Name | qqL1T1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:48:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704534248483 |
-| Players | 8/10 |
-| Host Name | 나는 최고가 될 것이다 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:47:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704535227383 |
-| Players | 5/8 |
-| Host Name | Подшкон Купидор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:48:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704535263558 |
-| Players | 5/8 |
-| Host Name | Lumberjack |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:48:13 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704535281394 |
-| Players | 1/15 |
-| Host Name | Übermensch |
+| Lobby ID | 28591704535491948 |
+| Players | 3/15 |
+| Host Name | Габэн |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:48:14 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:48:27 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704535382194 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Hanni- |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:48:20 |
