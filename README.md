@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704407994889 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | 加油吧 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704408317810 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | mid enjoyer 自殺 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:35:14 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704408742573 |
-| Players | 1/8 |
-| Host Name | Mudkip |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:35:40 |
+| Lobby ID | 28591704408983445 |
+| Players | 3/8 |
+| Host Name | kytoyanka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:35:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704407457816 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | CASACAS!! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:22 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704407953928 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | gh0$tY |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:52 |
@@ -119,28 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:35:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704408650099 |
-| Players | 10/15 |
-| Host Name | rus-НІ PEACE-ДА |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:35:34 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704408687979 |
-| Players | 6/8 |
-| Host Name | where is your motivation? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:35:36 |
+| Lobby ID | 28591704409046094 |
+| Players | 4/8 |
+| Host Name | mariopripizduчi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:35:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704408658846 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | weg64 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:35:35 |
