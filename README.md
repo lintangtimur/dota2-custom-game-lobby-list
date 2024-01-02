@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550320384839 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ABOBA BOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:53:50 |
@@ -47,22 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:53:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550320549300 |
+| Players | 10/15 |
+| Host Name | к[а]пытце_228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:54:01 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550320523224 |
-| Players | 1/8 |
+| Lobby ID | 28590550320839399 |
+| Players | 2/8 |
 | Host Name | tokhaム | |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:53:59 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:54:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550320549300 |
-| Players | 5/15 |
-| Host Name | к[а]пытце_228 |
+| Lobby ID | 28590550320826728 |
+| Players | 1/15 |
+| Host Name | Vanished |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:54:01 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:54:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -78,8 +87,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28590550320449393 |
 | Players | 1/10 |
-| Host Name | fenrir |
+| Host Name | I SEE YOU!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:53:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550320945080 |
+| Players | 2/5 |
+| Host Name | legenda |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:54:25 |
 
 
