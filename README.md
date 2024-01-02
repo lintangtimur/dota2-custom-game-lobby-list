@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550114229896 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | ライフィセット |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:05:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550111075359 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Wapo16 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:00:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550114782627 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:06:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550114783572 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | |RHE. Jumper| |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:06:53 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550114835668 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | p̶Y̶R̶O̶K̶I̶n̶e̶S̶I̶Kspb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:06:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550115268677 |
-| Players | 2/10 |
-| Host Name | NIJI |
+| Lobby ID | 28590550115402427 |
+| Players | 6/8 |
+| Host Name | YO NAJAT (EL BRAVO) |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:07:44 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:07:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550115325353 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Выпустите |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:07:50 |
