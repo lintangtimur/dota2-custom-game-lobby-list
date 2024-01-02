@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549974164783 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Cronus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:38:51 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549972832881 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:36:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549972997001 |
-| Players | 14/15 |
-| Host Name | ヘスス |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:36:37 |
+| Lobby ID | 28590549974457384 |
+| Players | 2/8 |
+| Host Name | senior |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:39:24 |
 
 
 |  | ot3_desert_octet |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549974133869 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Azuremir |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:38:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549974457384 |
-| Players | 1/8 |
-| Host Name | senior |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:39:24 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549970334935 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:31:35 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549972393529 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | †Dracula† |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:35:29 |
