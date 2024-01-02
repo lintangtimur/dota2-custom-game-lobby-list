@@ -23,10 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550267223178 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | frozen star |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:54:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550267382777 |
+| Players | 1/24 |
+| Host Name | палач с гор аппалачи |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:55:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -45,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | キングリオン |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:54:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550267343388 |
+| Players | 1/10 |
+| Host Name | Анальный пират |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:55:05 |
 
 
