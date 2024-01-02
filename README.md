@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550006164743 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | VolTaGe |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:40:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550006239734 |
-| Players | 20/24 |
-| Host Name | ~{ ■} |
+| Lobby ID | 28590550007297962 |
+| Players | 7/8 |
+| Host Name | DON PENDEJADAS |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:40:58 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:43:01 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550005068420 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:38:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550005940315 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Hypnosis |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:40:23 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550006397519 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:41:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550007373584 |
+| Players | 1/24 |
+| Host Name | kiyopon |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:43:10 |
 
 
 |  | epic_boss_fight_normal |
