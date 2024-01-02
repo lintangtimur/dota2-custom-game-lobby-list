@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550149691209 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Push Back |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:06:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550152465974 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | (ง'̀-'́)ง   o-('́-'́d) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:11:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550152784239 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | K1R1LL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:11:32 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550151956882 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Mr.Nicky^ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:10:11 |
