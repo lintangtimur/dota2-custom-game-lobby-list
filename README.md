@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549978818503 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Слава сыр колбасс |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:47:48 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549976633566 |
-| Players | 9/10 |
-| Host Name | GALGENIUS |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:43:34 |
+| Lobby ID | 28590549979560649 |
+| Players | 1/10 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:49:13 |
 
 
 |  | ot3_gardens_duo |
@@ -83,12 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:48:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549978458761 |
-| Players | 9/10 |
-| Host Name | Numd |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:47:08 |
+| Lobby ID | 28590549979567081 |
+| Players | 4/24 |
+| Host Name | GATO KCHONDO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:49:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549979564022 |
+| Players | 2/24 |
+| Host Name | Astral E678 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:49:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549979590309 |
+| Players | 4/10 |
+| Host Name | Dazzle |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:49:16 |
 
 
