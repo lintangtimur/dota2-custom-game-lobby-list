@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550062555348 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | **Lucía** |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:29:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550063426208 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Drago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:31:28 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550063097331 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Richi Rage |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:30:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550064215347 |
+| Players | 3/10 |
+| Host Name | Mellisa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:32:58 |
 
 
 |  | epic_boss_fight_nightmare |
