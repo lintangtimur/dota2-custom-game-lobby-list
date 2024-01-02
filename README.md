@@ -74,31 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:44:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550102186518 |
-| Players | 1/8 |
-| Host Name | D'Boyd |
-| Region | USEAST |
+| Lobby ID | 28590550102191393 |
+| Players | 2/10 |
+| Host Name | Munooke |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:44:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550102190835 |
+| Lobby ID | 28590550102285125 |
 | Players | 1/24 |
 | Host Name | nangosu |
 | Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:44:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550102191393 |
-| Players | 1/10 |
-| Host Name | Munooke |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:44:09 |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:44:20 |
 
 
 |  | epic_boss_fight_nightmare |
