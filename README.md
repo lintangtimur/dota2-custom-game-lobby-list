@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549926433934 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | diegotsfye |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:07:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549926206884 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Krypton |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:07:21 |
@@ -47,31 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:07:56 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549926541854 |
-| Players | 6/15 |
-| Host Name | CHEESE, HOES AND DOE PAPA JOHNS |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:08:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549925607646 |
-| Players | 14/15 |
-| Host Name | Vsemut |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:06:16 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549925762605 |
-| Players | 9/10 |
-| Host Name | Легенда Приюта |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:06:33 |
+| Lobby ID | 28590549926699878 |
+| Players | 1/10 |
+| Host Name | Ejboss (the real one) |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:08:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mode: dyrachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:08:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549926673580 |
+| Players | 5/8 |
+| Host Name | CHEESE, HOES AND DOE PAPA JOHNS |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:08:14 |
 
 
