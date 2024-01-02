@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704173371921 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Medick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:06:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704167021325 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | ✪Gen.Secret |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:00:40 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704174380394 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | X-ART |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:07:10 |
@@ -173,10 +173,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:07:09 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704173608076 |
+| Players | 9/10 |
+| Host Name | zotci# |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:06:29 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704173913565 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | KUKLOPAC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:06:45 |
@@ -194,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704173527813 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Second City Saint |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:06:24 |
