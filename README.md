@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704533508283 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | LOS JUDIOS ARRUINARON EL MUNDO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:46:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704534881835 |
-| Players | 7/8 |
-| Host Name | Viola Ray |
+| Lobby ID | 28591704535491948 |
+| Players | 8/15 |
+| Host Name | Габэн |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:47:47 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:48:27 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704535263558 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Lumberjack |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:48:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704533730084 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Homicídio |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:46:31 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:47:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704533772862 |
-| Players | 9/10 |
-| Host Name | Art1fi |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:46:34 |
+| Lobby ID | 28591704535604629 |
+| Players | 4/8 |
+| Host Name | nn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:48:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -126,24 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | A.M. Crunchwrap |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:47:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704535491948 |
-| Players | 3/15 |
-| Host Name | Габэн |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:48:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704535382194 |
-| Players | 4/10 |
-| Host Name | Hanni- |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:48:20 |
 
 
 |  | epic_boss_fight_challenger |
@@ -162,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:44:39 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704535077561 |
-| Players | 3/5 |
-| Host Name | The-MaMaD |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:48:01 |
 
 
