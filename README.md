@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550206327703 |
-| Players | 6/10 |
-| Host Name | Vulva |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:33:35 |
+| Lobby ID | 28590550206798658 |
+| Players | 5/24 |
+| Host Name | 饿了么滴 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:34:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,31 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:32:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550206671363 |
-| Players | 2/8 |
-| Host Name | Haster |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:34:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550207072295 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Nigma.Miracle- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:34:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550206798658 |
-| Players | 4/24 |
-| Host Name | 饿了么滴 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:34:16 |
+| Lobby ID | 28590550207276246 |
+| Players | 2/8 |
+| Host Name | Haster |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:34:58 |
 
 
 |  | epic_boss_fight_nightmare |
