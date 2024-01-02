@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549916093319 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Xamaniacoo |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:48:40 |
@@ -50,37 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549918035826 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Commend x commend please |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:52:15 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549917362547 |
-| Players | 13/15 |
-| Host Name | NieVes |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:51:01 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549892156609 |
-| Players | 1/10 |
-| Host Name | KoLOBOK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:05:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549918943464 |
-| Players | 4/15 |
-| Host Name | K1ssLyak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:53:57 |
+| Lobby ID | 28590549919003046 |
+| Players | 2/10 |
+| Host Name | Rip van Winkle |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:54:04 |
 
 
 |  | ot3_gardens_duo |
@@ -90,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ™S t r u w a y™ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:52:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549918943464 |
+| Players | 5/15 |
+| Host Name | K1ssLyak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:53:57 |
 
 
 |  | epic_boss_fight_nightmare |
