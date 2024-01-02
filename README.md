@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704550536215 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | JJ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:04:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704548345707 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:02:36 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:59:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704550683694 |
-| Players | 7/10 |
-| Host Name | Manay |
+| Lobby ID | 28591704549048818 |
+| Players | 5/8 |
+| Host Name | макдокнак |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:05:08 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:03:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,11 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704550794133 |
+| Lobby ID | 28591704550860052 |
 | Players | 1/8 |
-| Host Name | DDR |
+| Host Name | ''Yahiiko'' |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:05:15 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:05:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704548769758 |
+| Players | 2/8 |
+| Host Name | desidnidea |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:03:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704550937680 |
+| Players | 4/10 |
+| Host Name | sQreen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:05:24 |
 
 
 |  | epic_boss_fight_challenger |
@@ -140,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704550447884 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | TOROPSNAKET |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:04:53 |
@@ -153,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shirley |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:05:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704550838905 |
+| Players | 2/5 |
+| Host Name | J04qu1n4ys |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:05:18 |
 
 
