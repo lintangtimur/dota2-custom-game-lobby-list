@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550120600496 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | GAZI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:17:01 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550121273073 |
-| Players | 4/8 |
-| Host Name | Soldado Sabrocito |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:18:09 |
+| Lobby ID | 28590550121331648 |
+| Players | 1/8 |
+| Host Name | данилкрут |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:18:15 |
 
 
 |  | epic_boss_fight_nightmare |
