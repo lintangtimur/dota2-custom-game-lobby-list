@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704498054020 |
-| Players | 2/10 |
-| Host Name | Artos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:08:14 |
+| Lobby ID | 28591704498537973 |
+| Players | 4/15 |
+| Host Name | 52 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:08:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704497107882 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Тараканий бог |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:07:13 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:00:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704497574341 |
-| Players | 6/15 |
-| Host Name | El Magnifico |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:07:43 |
+| Lobby ID | 28591704498095486 |
+| Players | 6/10 |
+| Host Name | Yapeame 3so y Fedeo Gaaa |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:08:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704495618708 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Karl_Nesios |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:05:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704491125322 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Makanaky |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:00:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704496120935 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | chiken keritaki |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:06:10 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704496398671 |
-| Players | 3/24 |
-| Host Name | Proworg |
+| Players | 1/24 |
+| Host Name | HimalayaJoe |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:06:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704497662805 |
-| Players | 4/8 |
-| Host Name | NAGIBATOR |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:07:49 |
+| Lobby ID | 28591704498240484 |
+| Players | 5/8 |
+| Host Name | nimanie |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:08:26 |
 
 
 |  | ot3_gardens_duo |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:04:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704497970279 |
-| Players | 6/8 |
-| Host Name | zhekabar |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:08:09 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704497222983 |
-| Players | 9/10 |
-| Host Name | www |
+| Lobby ID | 28591704498614848 |
+| Players | 6/10 |
+| Host Name | не игрок |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:07:21 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:08:50 |
 
 
 |  | epic_boss_fight_challenger |
@@ -121,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28591704497655069 |
+| Lobby ID | 28591704498400264 |
 | Players | 1/5 |
 | Host Name | X_x-EngEnDrO2-x_X |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:07:48 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:08:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704498751257 |
+| Players | 1/10 |
+| Host Name | ⨹LuciPer21 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:08:58 |
 
 
