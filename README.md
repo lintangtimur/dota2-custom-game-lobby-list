@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549922077644 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Soy MUY PRO por eso me dan CACAS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:59:48 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549921321532 |
-| Players | 14/15 |
-| Host Name | Fakan |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:58:24 |
+| Lobby ID | 28590549919713860 |
+| Players | 5/8 |
+| Host Name | Spamming 1 hero = Go Report me |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:55:26 |
 
 
 |  | ot3_gardens_duo |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Brosnan |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:55:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549922040613 |
-| Players | 12/15 |
-| Host Name | qwweer |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:59:43 |
 
 
 |  | epic_boss_fight_nightmare |
