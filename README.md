@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550016309660 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Vez Larkinson.. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:00:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550015836496 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | 安德鲁森图书馆管理员 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:59:47 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550015485815 |
-| Players | 1/15 |
-| Host Name | roswel |
+| Players | 3/15 |
+| Host Name | MercS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:59:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550015845175 |
-| Players | 14/15 |
-| Host Name | Shambooh ֎ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:59:48 |
+| Lobby ID | 28590550016054911 |
+| Players | 6/8 |
+| Host Name | Sergio Markarian |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:00:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -126,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Amsterdam |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:02:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550016054911 |
-| Players | 6/8 |
-| Host Name | Sergio Markarian |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:00:12 |
 
 
 |  | epic_boss_fight_nightmare |
