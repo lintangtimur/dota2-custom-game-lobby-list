@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550089140170 |
-| Players | 2/15 |
-| Host Name | Estúpido Perro!! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:20:09 |
+| Lobby ID | 28590550089195594 |
+| Players | 1/15 |
+| Host Name | dumkuntmagee |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:20:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550089249100 |
+| Players | 2/8 |
+| Host Name | pang |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:20:21 |
 
 
 |  | epic_boss_fight_nightmare |
