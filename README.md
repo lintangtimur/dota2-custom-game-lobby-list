@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549951466259 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:55:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549951934082 |
-| Players | 3/10 |
-| Host Name | MyM Mith & Roid |
+| Lobby ID | 28590549952292149 |
+| Players | 2/24 |
+| Host Name | Frank Zappa |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:56:18 |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:57:00 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:56:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549951090026 |
-| Players | 14/15 |
-| Host Name | Krokaska |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:54:37 |
+| Lobby ID | 28590549952073402 |
+| Players | 6/10 |
+| Host Name | JOJO is back...? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:56:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549951694822 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | DYNAMO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:55:50 |
@@ -74,33 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:56:18 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549952216752 |
-| Players | 1/10 |
-| Host Name | The Fenix |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:56:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549952059459 |
-| Players | 6/10 |
-| Host Name | D'Boyd |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:56:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549952073402 |
-| Players | 4/10 |
-| Host Name | JOJO is back...? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:56:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549952075838 |
@@ -110,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:56:35 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549949963559 |
-| Players | 8/10 |
-| Host Name | WANDOT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:52:25 |
+| Lobby ID | 28590549952059459 |
+| Players | 7/10 |
+| Host Name | D'Boyd |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:56:33 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549951894692 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | 13lackstar |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:56:13 |
