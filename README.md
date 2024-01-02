@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549997807159 |
-| Players | 7/8 |
-| Host Name | Наменявсесмотрят |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:24:36 |
+| Lobby ID | 28590549994153727 |
+| Players | 23/24 |
+| Host Name | who knows |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:17:24 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549998818785 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | twitch.tv/lvsques 🏳️‍🌈 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:26:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549995713809 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Легенда Приюта |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:20:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549997556725 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:05 |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549998272854 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:25:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549994153727 |
-| Players | 23/24 |
-| Host Name | who knows |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:17:24 |
+| Lobby ID | 28590549999214675 |
+| Players | 1/8 |
+| Host Name | серега бомбардир |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:27:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549998716837 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | canon event |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:26:28 |
