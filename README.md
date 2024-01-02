@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704407994889 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 加油吧 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704404521903 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | EL PIBE MOTOSIERRA giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:31:29 |
@@ -76,65 +76,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704408262756 |
-| Players | 10/15 |
-| Host Name | Секс ферма эльфов |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:35:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704407656689 |
-| Players | 2/8 |
-| Host Name | Wewer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:34:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704407064435 |
-| Players | 7/8 |
-| Host Name | барсик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:33:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704407953928 |
-| Players | 7/24 |
-| Host Name | gh0$tY |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:34:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704403139259 |
-| Players | 4/15 |
-| Host Name | Usethat7 |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:30:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28591704407457816 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | CASACAS!! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:22 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704407656689 |
+| Players | 3/8 |
+| Host Name | Wewer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:34:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704408627510 |
+| Players | 1/15 |
+| Host Name | RED |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:35:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704407953928 |
+| Players | 15/24 |
+| Host Name | gh0$tY |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:34:52 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704408520498 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 戯作 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:35:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704408650099 |
+| Players | 3/15 |
+| Host Name | rus-НІ PEACE-ДА |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:35:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704408687979 |
+| Players | 2/8 |
+| Host Name | where is your motivation? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:35:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -149,9 +149,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704407383083 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | !m |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704408526599 |
+| Players | 1/5 |
+| Host Name | пукнул 1488 раз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:35:27 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704408658846 |
+| Players | 1/10 |
+| Host Name | weg64 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:35:35 |
 
 
