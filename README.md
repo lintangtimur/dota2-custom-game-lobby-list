@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704410397693 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | who knows |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:37:20 |
@@ -92,31 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:41:29 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704416845809 |
-| Players | 3/8 |
-| Host Name | Igninsan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:43:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704416846527 |
-| Players | 1/8 |
-| Host Name | zeze |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:43:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704416826218 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Fartyrum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:43:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704416921735 |
+| Players | 2/24 |
+| Host Name | RiftBreaker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:43:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704417045680 |
+| Players | 1/8 |
+| Host Name | кулебяка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:43:58 |
 
 
 |  | epic_boss_fight_normal |
