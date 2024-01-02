@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550263282593 |
-| Players | 12/15 |
-| Host Name | AgroOlive |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:50:05 |
+| Lobby ID | 28590550264234709 |
+| Players | 2/15 |
+| Host Name | Граф Трахула |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:51:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550263848652 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | SMURFLING |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:50:47 |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:50:40 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590550264147496 |
-| Players | 1/5 |
+| Lobby ID | 28590550264298726 |
+| Players | 1/10 |
 | Host Name | Mr.Henky |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:51:08 |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:51:20 |
 
 
