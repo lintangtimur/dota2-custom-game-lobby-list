@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550188131115 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Nuterez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:06:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550188455279 |
-| Players | 3/8 |
-| Host Name | Warrior |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:07:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:00:39 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550188545497 |
+| Players | 4/8 |
+| Host Name | 324234 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:07:14 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550188505947 |
-| Players | 1/10 |
-| Host Name | Wisewolf of Yoitsu |
+| Lobby ID | 28590550188559063 |
+| Players | 3/10 |
+| Host Name | top |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:07:10 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:07:15 |
 
 
 |  | epic_boss_fight_normal |
