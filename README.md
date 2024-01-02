@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590550170015743 |
-| Players | 1/5 |
-| Host Name | алямантерааааа |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:38:55 |
+| Lobby ID | 28590550170155391 |
+| Players | 2/5 |
+| Host Name | [TSK]BAD WOLF |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:39:08 |
 
 
