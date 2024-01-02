@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550106734344 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | MadLad |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550110996356 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | almighty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:00:11 |
@@ -47,13 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:00:14 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550103411666 |
+| Players | 8/8 |
+| Host Name | activetino |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:46:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550111542104 |
+| Players | 2/8 |
+| Host Name | Лп как смысл жизн |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:01:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550111572387 |
+| Players | 3/10 |
+| Host Name | Stefan 福 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:01:12 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550111196924 |
+| Lobby ID | 28590550111590693 |
 | Players | 1/15 |
 | Host Name | Attacker |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:00:32 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:01:14 |
 
 
 |  | epic_boss_fight_nightmare |
