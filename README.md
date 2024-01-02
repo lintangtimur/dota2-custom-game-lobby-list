@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704356237511 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:44:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704348522400 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | Тема Мякиш |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:37:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704356316475 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | КТО-ТО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:44:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704354894112 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Hermano? Ni de mi perro |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:43:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704356727732 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Holly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:44:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704355374092 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | DMM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:43:37 |
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:43:18 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704357216599 |
+| Players | 1/8 |
+| Host Name | :fishy |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:45:22 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704355126301 |
-| Players | 3/5 |
+| Players | 1/5 |
 | Host Name | PG |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:43:23 |
