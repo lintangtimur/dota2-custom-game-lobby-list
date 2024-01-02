@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550329469073 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ..c.I.e.. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:03:08 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:04:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704178109131 |
-| Players | 3/15 |
-| Host Name | Give me the first position |
+| Lobby ID | 28591704179162588 |
+| Players | 1/10 |
+| Host Name | killnquq |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:10:28 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:11:23 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704177866807 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | GTO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:10:15 |
@@ -99,51 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Acideck |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:10:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704177819315 |
-| Players | 3/8 |
-| Host Name | Cucumba |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:10:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704178376206 |
-| Players | 14/15 |
-| Host Name | Aylardex Vlael |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:10:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704179147326 |
-| Players | 1/8 |
-| Host Name | 木方条 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:11:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704179162588 |
-| Players | 1/10 |
-| Host Name | killnquq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:11:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704179178005 |
-| Players | 5/8 |
-| Host Name | МИД = ФИД |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:11:24 |
 
 
 |  | epic_boss_fight_nightmare |
