@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550011360505 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Mr.Bass |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:50:55 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:51:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550010408205 |
-| Players | 9/10 |
-| Host Name | Remington Jones |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:49:03 |
+| Lobby ID | 28590550011946783 |
+| Players | 2/15 |
+| Host Name | ей 13 мне 15 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:52:03 |
 
 
 |  | ot3_gardens_duo |
@@ -95,25 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550011913648 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ♥♦CentOS♣♠ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:51:59 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550011946783 |
-| Players | 2/15 |
-| Host Name | ей 13 мне 15 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:52:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550009591911 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Szostak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:47:30 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550011811097 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Scrappy CoCo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:51:48 |
