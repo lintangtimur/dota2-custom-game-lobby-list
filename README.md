@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704289343474 |
-| Players | 12/15 |
-| Host Name | Chinese The Rock |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:43:44 |
+| Lobby ID | 28591704289863081 |
+| Players | 9/15 |
+| Host Name | Трымбалыни |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:44:11 |
 
 
 |  | ot3_gardens_duo |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704287534278 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | NightSuki ツユ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:42:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704285910848 |
-| Players | 7/10 |
-| Host Name | Full-Time Griefer |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:40:46 |
+| Lobby ID | 28591704289703258 |
+| Players | 4/8 |
+| Host Name | ПОРНОАРТЁМ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:44:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,40 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:37:24 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704289828919 |
+| Players | 2/8 |
+| Host Name | Easymoden |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:44:09 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704289186718 |
-| Players | 8/10 |
-| Host Name | Dead_Dragon |
+| Lobby ID | 28591704289925681 |
+| Players | 3/10 |
+| Host Name | 热性与你的妈妈 |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:43:36 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:44:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28591704289636705 |
-| Players | 1/8 |
-| Host Name | tv/swedenstrong |
+| Lobby ID | 28591704289772051 |
+| Players | 2/5 |
+| Host Name | сын шайлушая |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:43:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704289703258 |
-| Players | 4/8 |
-| Host Name | ПОРНОАРТЁМ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:44:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704287279869 |
-| Players | 2/10 |
-| Host Name | Kongandeu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:41:57 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:44:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hakuna My Tatas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:41:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704289772051 |
-| Players | 1/5 |
-| Host Name | сын шайлушая |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:44:06 |
 
 
