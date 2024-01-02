@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550131790380 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:36:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550131984303 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Taweret |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:36:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550133027996 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | shymelle_ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:38:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550131628090 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Moon |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:36:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550131194325 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | TheBlueJTattoo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:35:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550133200217 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:38:49 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550130528758 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:34:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550134224454 |
+| Players | 1/10 |
+| Host Name | MonKඞStrඞts |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:40:32 |
 
 
