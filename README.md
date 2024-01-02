@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704312074829 |
-| Players | 22/24 |
-| Host Name | Mirage- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:03:47 |
+| Lobby ID | 28591704327177123 |
+| Players | 5/8 |
+| Host Name | куклаВОДКА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:17:23 |
 
 
 |  | ot3_desert_octet |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:04:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704326865013 |
-| Players | 4/15 |
-| Host Name | ERIKA EMBANG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:17:06 |
+| Lobby ID | 28591704327015175 |
+| Players | 5/10 |
+| Host Name | qwuarl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:17:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704323311472 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | K |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:13:54 |
@@ -67,19 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704319039710 |
-| Players | 14/15 |
-| Host Name | Leo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:10:02 |
+| Lobby ID | 28591704327102658 |
+| Players | 2/15 |
+| Host Name | 49skam-maks94 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:17:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704326831167 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | >!! fight me !!< |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:17:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704327140094 |
+| Players | 1/10 |
+| Host Name | HɅKɅRI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:17:21 |
 
 
