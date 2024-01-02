@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550220386244 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Monkey Roronoa Vinsmoke |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:53:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550222108872 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | YURI GLEK |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:56:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550221919289 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | K!SS QWE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:55:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550221782842 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:55:36 |
