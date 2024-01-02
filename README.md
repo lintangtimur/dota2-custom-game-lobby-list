@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550055694900 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Emberfrost5 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:16:33 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550055444605 |
-| Players | 7/8 |
-| Host Name | DO NOT DISTURB!!! |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:16:05 |
+| Lobby ID | 28590550056517528 |
+| Players | 1/8 |
+| Host Name | Nenonix Z |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:18:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550052324247 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | that"s your name? |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:10:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550055190533 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Unlucky :) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:15:35 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:17:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550056463270 |
-| Players | 1/15 |
-| Host Name | скорлупка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:18:00 |
+| Lobby ID | 28590550056538242 |
+| Players | 1/24 |
+| Host Name | Percibal |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:18:09 |
 
 
 |  | epic_boss_fight_nightmare |
