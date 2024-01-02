@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:32:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550065854938 |
-| Players | 1/8 |
-| Host Name | ♥Chloe♥ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:36:05 |
+| Lobby ID | 28590550064979009 |
+| Players | 8/10 |
+| Host Name | Enzo Gorlomi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:34:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550065680650 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:35:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550067064817 |
+| Players | 3/15 |
+| Host Name | My salsa |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:38:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550067070083 |
+| Players | 1/8 |
+| Host Name | Bóbr Kurwa ja pierdole |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:38:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zoro-juro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:37:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550067102955 |
+| Players | 2/5 |
+| Host Name | $WEET |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:38:26 |
 
 
