@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549913472182 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | 完全 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:43:50 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:05:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549913026040 |
-| Players | 18/24 |
-| Host Name | Kratos |
+| Lobby ID | 28590549913334415 |
+| Players | 5/10 |
+| Host Name | Scrappycoco |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:43:01 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:43:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549914147764 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | tmr |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:45:05 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:44:04 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549913334415 |
-| Players | 5/10 |
-| Host Name | Scrappycoco |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:43:35 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549905684416 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549911689890 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:40:36 |
