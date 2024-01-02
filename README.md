@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549997796019 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549999671481 |
-| Players | 14/15 |
-| Host Name | YOU'LL NEVER WALK ALONE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:28:19 |
+| Lobby ID | 28590549997556725 |
+| Players | 10/24 |
+| Host Name | Salival |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:24:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549999904769 |
-| Players | 1/8 |
-| Host Name | 週Thanatos週 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:28:46 |
+| Lobby ID | 28590549999483711 |
+| Players | 8/10 |
+| Host Name | Слава сыр колбасс |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:27:57 |
 
 
 |  | ot3_desert_octet |
@@ -50,43 +50,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549986473683 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | PJ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549999865797 |
-| Players | 13/15 |
-| Host Name | spartacus |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:28:41 |
+| Lobby ID | 28590550000678193 |
+| Players | 2/8 |
+| Host Name | F1NNN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:30:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549999483711 |
-| Players | 7/10 |
-| Host Name | Слава сыр колбасс |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:27:57 |
+| Lobby ID | 28590550000675474 |
+| Players | 1/8 |
+| Host Name | TIDE 3 SPELL=DOG |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:30:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549997556725 |
-| Players | 10/24 |
-| Host Name | Salival |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:24:05 |
+| Lobby ID | 28590550000732345 |
+| Players | 1/24 |
+| Host Name | RabidGinger |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:30:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549998716837 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | canon event |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:26:28 |
