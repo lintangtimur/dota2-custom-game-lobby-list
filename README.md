@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704217426327 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | BMZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:43:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704217714235 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | IRR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:43:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704194542392 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | FerreiraM32 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:24:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704199816242 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Reiz |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:29:01 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704217816357 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Need money for a Porsche |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:43:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704217834802 |
-| Players | 7/8 |
-| Host Name | Ison |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:43:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,28 +110,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:44:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704218623174 |
-| Players | 5/8 |
-| Host Name | achechto |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:44:35 |
+| Lobby ID | 28591704218779748 |
+| Players | 4/10 |
+| Host Name | CubaN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:44:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704218651996 |
-| Players | 6/8 |
-| Host Name | Фид за 300 рублей |
+| Lobby ID | 28591704218809766 |
+| Players | 1/24 |
+| Host Name | Smiley Frog |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:44:36 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:44:45 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704211947033 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Batis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:38:58 |
@@ -162,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Agui |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:43:56 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704218835746 |
+| Players | 1/5 |
+| Host Name | люблю крэк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:44:46 |
 
 
