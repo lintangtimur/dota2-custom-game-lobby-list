@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:12:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550114835162 |
-| Players | 7/10 |
-| Host Name | eb |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:06:59 |
+| Lobby ID | 28590550118718746 |
+| Players | 3/8 |
+| Host Name | Z |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:13:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550111075359 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Wapo16 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:00:19 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550117064904 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | NIJI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:10:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550117953510 |
-| Players | 6/10 |
-| Host Name | ໔ৡ♡♡ЖуЛиК ♡♡ৡ |
+| Lobby ID | 28590550118565429 |
+| Players | 1/8 |
+| Host Name | sheepstick |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:12:26 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:13:30 |
 
 
 |  | ot3_desert_octet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | partychief |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:12:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550118565429 |
-| Players | 1/8 |
-| Host Name | sheepstick |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:13:30 |
 
 
 |  | epic_boss_fight_nightmare |
