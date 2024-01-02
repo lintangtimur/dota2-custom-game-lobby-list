@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:53:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549981264412 |
-| Players | 19/24 |
-| Host Name | Road a heraldo |
+| Lobby ID | 28590549982700005 |
+| Players | 1/10 |
+| Host Name | Yiegid |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:52:28 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:55:20 |
 
 
 |  | ot3_desert_octet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549981709861 |
-| Players | 13/15 |
-| Host Name | WAWITA DE 18 AÑITOS |
+| Lobby ID | 28590549980035533 |
+| Players | 14/15 |
+| Host Name | 😴😴 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:53:20 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:50:07 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549981955540 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Teregue |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:53:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549982496167 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | D.B. Cooper |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:54:54 |
@@ -110,21 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:55:06 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549982700005 |
-| Players | 1/10 |
-| Host Name | Yiegid |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:55:20 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549982088427 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:54:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549982770157 |
+| Players | 2/5 |
+| Host Name | Maksonchik |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:55:28 |
 
 
