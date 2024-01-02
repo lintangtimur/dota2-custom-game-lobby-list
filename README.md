@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550074468655 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:52:27 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:50:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550071873093 |
-| Players | 14/15 |
-| Host Name | МокрыйВилли |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:47:32 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550075050374 |
@@ -74,21 +65,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:34 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550075171556 |
+| Players | 1/24 |
+| Host Name | Peter Bot |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:53:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550075160006 |
+| Players | 4/24 |
+| Host Name | Ghz |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:53:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550075169598 |
+| Players | 1/15 |
+| Host Name | Neon Riot |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:53:47 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550073638790 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | kagi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:50:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550075137933 |
-| Players | 1/5 |
-| Host Name | Sky |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:53:44 |
 
 
