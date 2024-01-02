@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549931157389 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Flare★ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:16:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549930845252 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | _N A T H_ :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:16:01 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549931532216 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | TOHRU |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:17:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549931649667 |
+| Players | 2/8 |
+| Host Name | СЛАВЯНСКИЙ БОГ ПЕРУН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:17:32 |
 
 
