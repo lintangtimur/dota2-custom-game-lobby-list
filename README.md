@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550163905524 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ТУКИ ТУКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:29:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550164108935 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:29:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550164523646 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | 饿了么滴 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:30:25 |
