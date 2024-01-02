@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550116049828 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:09:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550117728237 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | partychief |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:12:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550119406668 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Spaceman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:14:56 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550119547415 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | EARTH SPIRIT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:15:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550119185800 |
-| Players | 2/15 |
-| Host Name | bLazZ-- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:14:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:15:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550120083440 |
+| Players | 1/15 |
+| Host Name | 1 MMR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:16:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550113446731 |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:04:31 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590550119981729 |
-| Players | 1/7 |
-| Host Name | Arcane~ |
+| Lobby ID | 28590550120042059 |
+| Players | 1/5 |
+| Host Name | Олег Варёные Яйца |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:15:57 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:16:03 |
 
 
