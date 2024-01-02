@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704497107882 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Тараканий бог |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:07:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704496120935 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | chiken keritaki |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:06:10 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704498614848 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | не игрок |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:08:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704498918587 |
-| Players | 3/8 |
-| Host Name | сальчичон |
+| Lobby ID | 28591704498891856 |
+| Players | 7/15 |
+| Host Name | Karoza™ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:09:09 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:09:07 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:04:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704498891856 |
-| Players | 4/15 |
-| Host Name | потипай потипай) |
+| Lobby ID | 28591704499047732 |
+| Players | 2/8 |
+| Host Name | 战士 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:09:07 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:09:17 |
 
 
 |  | epic_boss_fight_challenger |
@@ -117,5 +117,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | X_x-EngEnDrO2-x_X |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:08:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704499081207 |
+| Players | 2/10 |
+| Host Name | osamabinvoker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:09:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704499083878 |
+| Players | 1/10 |
+| Host Name | DYO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:09:19 |
 
 
