@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550148210770 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Dark Magician of Chaos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:04:05 |
@@ -49,20 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550148349887 |
-| Players | 1/8 |
-| Host Name | Mondongo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:04:19 |
+| Lobby ID | 28590550147871494 |
+| Players | 7/8 |
+| Host Name | Evlogos |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:03:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550148392087 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:04:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550144891652 |
+| Players | 13/15 |
+| Host Name | Пофиг |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:58:36 |
 
 
 |  | epic_boss_fight_nightmare |
