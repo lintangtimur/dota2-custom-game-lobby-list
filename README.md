@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549922511853 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | HavocMcStabby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:00:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549919713860 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Spamming 1 hero = Go Report me |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:55:26 |
@@ -68,10 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549919905604 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Brosnan |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:55:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549922718068 |
+| Players | 5/8 |
+| Host Name | where is your motivation? |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:00:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549922747471 |
+| Players | 1/8 |
+| Host Name | Buxan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:01:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549922756772 |
+| Players | 1/15 |
+| Host Name | DeatheKid97 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:01:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549920527188 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | にこ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:56:57 |
