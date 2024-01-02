@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549945159215 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ¨S.P. GoO Hara xyz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:43:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549938927373 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:31:21 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:42:03 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549944252767 |
-| Players | 23/24 |
-| Host Name | roswel |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:41:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549945551875 |
-| Players | 2/15 |
-| Host Name | LD. YUYA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:43:57 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549945649188 |
@@ -72,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:44:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549945551875 |
+| Players | 1/15 |
+| Host Name | LD. YUYA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:43:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549945743754 |
+| Players | 1/8 |
+| Host Name | Yolo |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:44:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Secretary-specific |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:40:15 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28590549945646263 |
-| Players | 1/7 |
-| Host Name | Barbero de Gampis <3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:44:08 |
 
 
