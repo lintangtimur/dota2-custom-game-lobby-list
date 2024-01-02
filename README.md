@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549928486215 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Geegee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:11:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549929067766 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | märt ringmuskel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:12:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549927694459 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | kelthusadELpro |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:10:09 |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549929420941 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Where |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:13:21 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549929657285 |
-| Players | 1/10 |
-| Host Name | SEE |
+| Lobby ID | 28590549929789550 |
+| Players | 1/15 |
+| Host Name | Qushkan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:13:46 |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:14:01 |
 
 
