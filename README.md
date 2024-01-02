@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704172900329 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | барсик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:05:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704173014518 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | рик овенс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:05:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704167021325 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | ✪Gen.Secret |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:00:40 |
@@ -101,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:03:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704172594663 |
-| Players | 5/8 |
-| Host Name | Tanjiro Kamado |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:05:35 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704171794541 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 只吃三碗饭的周咚咚 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:04:52 |
@@ -121,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704173005985 |
-| Players | 5/15 |
-| Host Name | Anti |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:05:57 |
+| Lobby ID | 28591704173371921 |
+| Players | 1/15 |
+| Host Name | Medick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:06:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704168763255 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | luckybymyside |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:02:11 |
