@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549972832881 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:36:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549976212740 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Disaster |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:42:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549973424073 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Jane.A7x |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:37:26 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:42:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549974708843 |
-| Players | 13/15 |
-| Host Name | тюбик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:39:53 |
+| Lobby ID | 28590549975804460 |
+| Players | 13/24 |
+| Host Name | Collapse |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:41:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ☬︎kill me︎☬ ⛥eternal despair⛥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:41:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549975804460 |
-| Players | 8/24 |
-| Host Name | Collapse |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:41:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549976152634 |
-| Players | 5/8 |
-| Host Name | 𝖒𝖎𝖘𝖘𝖎𝖓𝖌- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:42:39 |
 
 
 |  | epic_boss_fight_nightmare |
