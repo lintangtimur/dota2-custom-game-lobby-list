@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550329469073 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ..c.I.e.. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:03:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550327060257 |
-| Players | 6/8 |
-| Host Name | Muriendo ando |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:00:43 |
+| Lobby ID | 28590550352713296 |
+| Players | 6/15 |
+| Host Name | chumba |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:25:25 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550351867508 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | BoxiGod |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:24:37 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shiro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:23:33 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28590550352659191 |
-| Players | 1/7 |
-| Host Name | Escamaeta |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:25:22 |
 
 
