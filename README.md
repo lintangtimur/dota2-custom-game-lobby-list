@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549986807120 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:03:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549986473683 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | PJ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:34 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549992347718 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | from the dark |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:13:50 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549992383853 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | MadeInBostil |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:13:54 |
@@ -146,13 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:14:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549983079560 |
-| Players | 9/10 |
-| Host Name | Jurisprudencia |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:56:05 |
+| Lobby ID | 28590549992874163 |
+| Players | 1/8 |
+| Host Name | ☬︎kill me︎☬ ⛥eternal despair⛥ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:14:52 |
 
 
 |  | epic_boss_fight_nightmare |
