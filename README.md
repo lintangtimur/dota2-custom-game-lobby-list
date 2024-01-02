@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550130594476 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Easymoden |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:34:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550131984303 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Taweret |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:36:46 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550132609781 |
-| Players | 5/8 |
-| Host Name | D'Boyd |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:37:50 |
+| Lobby ID | 28590550133027996 |
+| Players | 3/8 |
+| Host Name | shymelle_ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:38:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550131406172 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Wapo16 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:35:48 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550132915078 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | yasin |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:38:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550133125268 |
+| Players | 5/8 |
+| Host Name | D'Boyd |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:38:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:34:18 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28590550132901777 |
-| Players | 3/7 |
-| Host Name | 虚 妄 涤 焰 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:38:20 |
 
 
