@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550041937772 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | paiN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:50:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550042839653 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Cain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550042510582 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Ｓｏｈｅｅ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:12 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Papa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550043253155 |
+| Players | 2/15 |
+| Host Name | HaileN- |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:52:37 |
 
 
 |  | epic_boss_fight_nightmare |
