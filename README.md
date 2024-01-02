@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550206798658 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 饿了么滴 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:34:16 |
@@ -38,31 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:32:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550207644951 |
-| Players | 9/10 |
-| Host Name | дибил |
+| Lobby ID | 28590550207899595 |
+| Players | 9/15 |
+| Host Name | Дядя Лис |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:35:30 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:35:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550207493201 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Haster |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:35:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550207899595 |
-| Players | 3/15 |
-| Host Name | Дядя Лис |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:35:52 |
+| Lobby ID | 28590550208139958 |
+| Players | 2/10 |
+| Host Name | KiW3^ |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:36:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550206969472 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:34:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550208163325 |
+| Players | 1/5 |
+| Host Name | ⌜J7⌟ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:36:15 |
 
 
