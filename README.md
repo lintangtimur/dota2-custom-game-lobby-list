@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549945050073 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | p[A]ur |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:42:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549944252767 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:41:29 |
@@ -59,16 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549945551875 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | LD. YUYA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:43:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549945649188 |
+| Players | 1/8 |
+| Host Name | ¿? |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:44:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549941698302 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Styll7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:36:38 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Secretary-specific |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:40:15 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28590549945646263 |
+| Players | 1/7 |
+| Host Name | Barbero de Gampis <3 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:44:08 |
 
 
