@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550222108872 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | YURI GLEK |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:56:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550221848290 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:55:42 |
