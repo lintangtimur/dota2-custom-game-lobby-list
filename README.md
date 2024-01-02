@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550007582909 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | DRAGONBACK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:43:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550007367388 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Cthulhu |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:43:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550005604483 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:39:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550005137200 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:38:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550007754831 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | БулатДолматов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:43:55 |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:44:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550007948200 |
+| Players | 2/8 |
+| Host Name | RRSS |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:44:18 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550005609391 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Jason Statham |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:39:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550004474220 |
-| Players | 5/10 |
-| Host Name | 偉大なLexRuL♥Kunn |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:37:34 |
 
 
 |  | epic_boss_fight_nightmare |
