@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704375837281 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 27club |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:03:16 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:00:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704375428568 |
-| Players | 7/8 |
-| Host Name | работник кфс |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:02:52 |
+| Lobby ID | 28591704375848415 |
+| Players | 14/15 |
+| Host Name | Пенис Душилин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:03:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704370721172 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Chandideadmoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:58:21 |
@@ -122,36 +122,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704367839991 |
-| Players | 7/10 |
+| Players | 1/10 |
 | Host Name | 34+35 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:55:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704375848415 |
-| Players | 11/15 |
-| Host Name | Пенис Душилин |
+| Lobby ID | 28591704376176277 |
+| Players | 5/10 |
+| Host Name | towaza |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:03:17 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:03:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704376227588 |
+| Players | 2/8 |
+| Host Name | France [TFP] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:03:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704375315430 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | crestfallen |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:02:46 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704375195241 |
-| Players | 2/5 |
-| Host Name | топ 1 арк |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:02:39 |
 
 
