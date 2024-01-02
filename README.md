@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704185303378 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Gaborit |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:16:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704183369370 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:14:59 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704188246288 |
-| Players | 8/10 |
-| Host Name | ЛЕША НА КОЛЕНИ |
+| Lobby ID | 28591704189033740 |
+| Players | 2/10 |
+| Host Name | Спасибо, что трахнул |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:19:10 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:19:50 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704188544038 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | трахать сук |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:19:25 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704188713746 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | MJay |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:19:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704188847424 |
-| Players | 1/8 |
-| Host Name | 𝔒𝔏3𝔊 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:19:40 |
 
 
 |  | epic_boss_fight_hard |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704188797722 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Yui |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:19:38 |
