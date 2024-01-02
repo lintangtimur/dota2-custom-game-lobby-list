@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704265269116 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | b-ウサギ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:23:08 |
@@ -49,26 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704266384214 |
-| Players | 6/8 |
-| Host Name | уголовник |
+| Lobby ID | 28591704266581292 |
+| Players | 4/8 |
+| Host Name | Бабек Шрекович |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:24:05 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:24:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704266117785 |
+| Lobby ID | 28591704266408925 |
 | Players | 1/15 |
-| Host Name | kalaskas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:23:51 |
+| Host Name | МуТный Тип |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:24:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704266753336 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | банан |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:24:24 |
@@ -77,54 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704266399731 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Werewolf.GR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:24:06 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704266408925 |
-| Players | 2/15 |
-| Host Name | feel |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:24:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704266581292 |
-| Players | 2/8 |
-| Host Name | Бабек Шрекович |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:24:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704267110793 |
-| Players | 3/8 |
-| Host Name | アントン |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:24:43 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704266256707 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 爱抓双马尾 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:23:59 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28591704266737024 |
-| Players | 1/5 |
-| Host Name | :) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:24:24 |
+| Lobby ID | 28591704267309908 |
+| Players | 1/10 |
+| Host Name | LaZaR |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:24:53 |
 
 
