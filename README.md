@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550066245207 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | aaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:36:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550064806842 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:34:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550067064817 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | My salsa |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:38:22 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥Chloe♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:38:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550067718738 |
-| Players | 4/8 |
-| Host Name | ジュリト |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:39:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550067658128 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | /// |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:39:30 |
