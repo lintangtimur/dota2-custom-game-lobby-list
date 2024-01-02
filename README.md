@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704469221790 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Mudkip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:37:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704469401853 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | WhIn.Calichin |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:37:52 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704466287198 |
-| Players | 8/15 |
-| Host Name | Dream_ivel |
+| Players | 6/15 |
+| Host Name | Добрячок |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:34:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704463367893 |
-| Players | 21/24 |
-| Host Name | PRISIONERO LINDO LINDO |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:31:34 |
+| Lobby ID | 28591704469620829 |
+| Players | 1/8 |
+| Host Name | вагина вадима |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:38:05 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704468751608 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | lookingforhappiness |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:37:11 |
@@ -95,10 +95,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704469264058 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | TOTSUGEKI |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:37:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704469511639 |
+| Players | 1/10 |
+| Host Name | new era |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:37:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704469484018 |
+| Players | 7/15 |
+| Host Name | namaste |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:37:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704469514517 |
+| Players | 1/15 |
+| Host Name | Shambooh ֎ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:37:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704469651875 |
+| Players | 1/24 |
+| Host Name | Mangix |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:38:07 |
 
 
 |  | epic_boss_fight_nightmare |
