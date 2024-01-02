@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550007582909 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | DRAGONBACK |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:43:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550007367388 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Cthulhu |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:43:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550005604483 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:39:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550008429835 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | S Novay Goday, slav9ne |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:45:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550007754831 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | БулатДолматов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:43:55 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550007807701 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Pescadero |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:44:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550008795461 |
+| Players | 2/15 |
+| Host Name | toro max |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:45:57 |
 
 
 |  | epic_boss_fight_normal |
