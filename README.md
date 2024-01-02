@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704323200640 |
-| Players | 3/15 |
-| Host Name | black&black |
+| Players | 8/15 |
+| Host Name | Северный Человек |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:13:48 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704322754155 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | David Beckham run |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:13:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704322739548 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Чупапио |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:13:23 |
@@ -119,10 +119,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:13:47 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704323311472 |
+| Players | 1/24 |
+| Host Name | 謙虚さを身につけろ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:13:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704323431143 |
+| Players | 1/15 |
+| Host Name | black&black |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:14:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704323463554 |
+| Players | 3/8 |
+| Host Name | neverto |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:14:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704321743448 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | boom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:12:28 |
@@ -137,12 +164,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:13:27 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28591704323285869 |
-| Players | 1/5 |
-| Host Name | Azalend |
+| Lobby ID | 28591704323456866 |
+| Players | 1/10 |
+| Host Name | Fran____ |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:13:53 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:14:02 |
 
 
