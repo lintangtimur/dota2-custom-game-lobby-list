@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550062555348 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | **Lucía** |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:29:49 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550062366148 |
-| Players | 7/8 |
-| Host Name | saturday |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:29:27 |
+| Lobby ID | 28590550063426208 |
+| Players | 1/8 |
+| Host Name | Drago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:31:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550059064777 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | Sign the Contract Big Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:22:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550062702174 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | DONT KILL ME |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:30:05 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550063356098 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | The Spiked Spaghetti |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:31:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550063426208 |
-| Players | 1/8 |
-| Host Name | Drago |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:31:28 |
 
 
 |  | epic_boss_fight_nightmare |
