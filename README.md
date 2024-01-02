@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549958757547 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Device |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:09:19 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549959164892 |
-| Players | 5/8 |
-| Host Name | лоджик <3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:10:07 |
+| Lobby ID | 28590549960552292 |
+| Players | 3/10 |
+| Host Name | Verfickt |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:12:45 |
 
 
 |  | ot3_desert_octet |
@@ -47,28 +47,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549958531726 |
-| Players | 21/24 |
-| Host Name | Thanagor |
+| Lobby ID | 28590549960309620 |
+| Players | 5/8 |
+| Host Name | anthony2801 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:08:53 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:12:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549960284039 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | ILAVE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:12:14 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549959684390 |
+| Players | 1/8 |
+| Host Name | Storm |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:11:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549960666888 |
+| Players | 4/10 |
+| Host Name | Derik1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:12:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549960669020 |
+| Players | 1/15 |
+| Host Name | Yves Saint Laurent |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:12:58 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549957851455 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Jason Statham |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:07:36 |
