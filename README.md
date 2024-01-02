@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:31:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704278244802 |
-| Players | 1/8 |
-| Host Name | ravenpoe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:34:12 |
+| Lobby ID | 28591704278435922 |
+| Players | 1/24 |
+| Host Name | Saurman |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:34:21 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704277663452 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Anti |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:33:42 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:34:18 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704278636724 |
+| Players | 1/8 |
+| Host Name | ravenpoe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:34:32 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704277580464 |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Frieren |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:31:07 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28591704278430645 |
-| Players | 3/7 |
-| Host Name | Kawasaki |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:34:21 |
 
 
