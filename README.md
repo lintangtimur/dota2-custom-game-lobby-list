@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550136189126 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | theforgottenmonkey |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:43:53 |
@@ -47,12 +47,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:42:50 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550136541780 |
+| Players | 1/10 |
+| Host Name | Sea Server Cancer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:44:29 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590550135569503 |
+| Lobby ID | 28590550136629416 |
 | Players | 1/5 |
 | Host Name | doshirak1300 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:42:50 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:44:38 |
 
 
