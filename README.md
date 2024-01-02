@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549931540521 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:17:20 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549932454323 |
-| Players | 14/15 |
-| Host Name | NGX.RoR_kiler |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:19:02 |
+| Lobby ID | 28590549933206013 |
+| Players | 4/15 |
+| Host Name | MoNsTeR! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:20:26 |
 
 
 |  | ot3_gardens_duo |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ASESINO DE KBROS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:19:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549933206013 |
-| Players | 3/15 |
-| Host Name | MoNsTeR! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:20:26 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549932978679 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | FAITH |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:20:01 |
