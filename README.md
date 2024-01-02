@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549961638369 |
-| Players | 9/10 |
-| Host Name | EPACSE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:14:49 |
+| Lobby ID | 28590549963066953 |
+| Players | 2/10 |
+| Host Name | miz |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:17:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549961918388 |
-| Players | 7/8 |
-| Host Name | El Peke 3k |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:15:21 |
+| Lobby ID | 28590549963300272 |
+| Players | 1/15 |
+| Host Name | I Have No Enemies |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:17:59 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549962285374 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | insnet.ve |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:16:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549963028086 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | DaktAri |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:17:28 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549963039088 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:17:29 |
@@ -113,28 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549963045241 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | GOD MODE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:17:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549963066953 |
-| Players | 2/10 |
-| Host Name | miz |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:17:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549963264587 |
-| Players | 5/10 |
-| Host Name | ☼ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:17:55 |
 
 
 |  | epic_boss_fight_nightmare |
