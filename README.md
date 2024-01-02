@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550307026352 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Chipi Chapa Dubi Daba Boom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:39:47 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:41:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550308915598 |
-| Players | 6/15 |
-| Host Name | OʋҽɾLσɾԃ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:41:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550307947136 |
-| Players | 9/10 |
-| Host Name | 干了你的嘴 |
+| Lobby ID | 28590550309399657 |
+| Players | 5/8 |
+| Host Name | Курьер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:40:46 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:42:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Inui |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:39:33 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550309244338 |
+| Players | 1/5 |
+| Host Name | 771858183915192742021 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:42:09 |
 
 
