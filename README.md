@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549997807159 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Наменявсесмотрят |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549997892641 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Nascar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549997712045 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:24 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549997187253 |
-| Players | 14/15 |
-| Host Name | HappyGoldboy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:23:20 |
+| Lobby ID | 28590549998576136 |
+| Players | 4/15 |
+| Host Name | Xaerlan |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:26:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549997262787 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Shankeeto #FreePalestine |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:23:30 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549997620979 |
-| Players | 5/10 |
-| Host Name | mooDfO |
+| Players | 7/10 |
+| Host Name | крейсер аврора |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:13 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549998034791 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Möll LaCroix krnz AnGh |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:25:04 |
@@ -140,8 +140,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549995713809 |
-| Players | 5/10 |
-| Host Name | (Kami)Moondeath |
+| Players | 2/10 |
+| Host Name | Легенда Приюта |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:20:27 |
 
