@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549969282783 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:29:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549961253642 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:14:04 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549954597716 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549970058901 |
-| Players | 22/24 |
-| Host Name | BISCUIT OLIVA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:31:04 |
+| Lobby ID | 28590549970940947 |
+| Players | 4/8 |
+| Host Name | NullPointerException |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:32:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549969821633 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Zhico |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:30:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549970844146 |
-| Players | 1/10 |
+| Players | 8/10 |
 | Host Name | Янесса Спермовна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:32:33 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:31:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549970940947 |
-| Players | 1/8 |
-| Host Name | NullPointerException |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:32:44 |
+| Lobby ID | 28590549971084689 |
+| Players | 1/24 |
+| Host Name | Hatsui |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:33:00 |
 
 
 |  | epic_boss_fight_nightmare |
