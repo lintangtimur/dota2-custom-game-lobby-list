@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550106734344 |
-| Players | 14/15 |
-| Host Name | MadLad |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:52:24 |
+| Lobby ID | 28590550114229896 |
+| Players | 4/24 |
+| Host Name | ライフィセット |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:05:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550112739388 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Оливье реарм оливье |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:03:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550111075359 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Wapo16 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:00:19 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550114244040 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | st1gma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:05:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550114229896 |
-| Players | 1/24 |
-| Host Name | ライフィセット |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:05:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550112615455 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | BeoWulf |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:03:03 |
@@ -86,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550112800553 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | BlueDeimos |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:03:23 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550114135955 |
-| Players | 1/10 |
-| Host Name | 神の一手 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:05:44 |
 
 
 |  | epic_boss_fight_nightmare |
