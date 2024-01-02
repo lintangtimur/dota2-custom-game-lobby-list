@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704490133850 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Сафронов, поставь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:59:51 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:57:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704490031498 |
-| Players | 6/8 |
-| Host Name | Kuzuri |
+| Lobby ID | 28591704490046819 |
+| Players | 6/10 |
+| Host Name | Микроинфлюэнсер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:59:44 |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:59:45 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704487030408 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | FELIZ AÑO NUEVO!!!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:56:31 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704488139754 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | mne 42 goda |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:57:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704487039250 |
-| Players | 22/24 |
-| Host Name | ne elektrik - nexyi lezt' |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:56:31 |
+| Lobby ID | 28591704490375428 |
+| Players | 2/10 |
+| Host Name | cemenik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:00:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:56:26 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704490046819 |
-| Players | 6/10 |
-| Host Name | Микроинфлюэнсер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:59:45 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704490265685 |
-| Players | 3/8 |
-| Host Name | viperr arkasha |
+| Lobby ID | 28591704490320347 |
+| Players | 5/8 |
+| Host Name | каше мир |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:59:59 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:00:03 |
 
 
 |  | epic_boss_fight_challenger |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 6 лет на героине |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:59:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704490421847 |
+| Players | 2/10 |
+| Host Name | Golgordan |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:00:09 |
 
 
