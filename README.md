@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704534128500 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | noom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:46:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704547027145 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 》》JhonnyAp《《 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:01:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704547688432 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | LarryZuckerberg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:01:53 |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704547471991 |
-| Players | 3/8 |
-| Host Name | Убийца Акаме |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:01:39 |
+| Lobby ID | 28591704547273138 |
+| Players | 1/8 |
+| Host Name | Manay |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:01:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704545104838 |
-| Players | 9/10 |
-| Host Name | тощий дон жуан |
+| Lobby ID | 28591704548046143 |
+| Players | 3/8 |
+| Host Name | ГРЕШНИК |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:59:05 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:02:18 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704541210632 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Ryuto |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:54:42 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704539822294 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | RGM |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:53:12 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704546485973 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | د.Lowgard |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:00:35 |
@@ -137,13 +137,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:02:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704547870054 |
-| Players | 3/8 |
-| Host Name | Папа своей мамы |
+| Lobby ID | 28591704548052320 |
+| Players | 6/10 |
+| Host Name | iociveteres |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:02:05 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:02:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704547925066 |
+| Players | 4/15 |
+| Host Name | ВИТЯ ВОДОКАЧ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:02:08 |
 
 
 |  | epic_boss_fight_challenger |
@@ -189,5 +198,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | шаданакар |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:59:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704547994486 |
+| Players | 2/5 |
+| Host Name | fefe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:02:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704548051174 |
+| Players | 1/10 |
+| Host Name | Sawa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:02:18 |
 
 
