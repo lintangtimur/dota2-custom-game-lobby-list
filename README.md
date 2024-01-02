@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704222583238 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Taoki- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:47:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704221490767 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | bdy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:47:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704226716362 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ✡️ Radivil 23 y.o. ✡ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:51:22 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704226862094 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Игрок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:51:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704226858109 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Schierke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:51:29 |
@@ -119,6 +119,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:51:36 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704203684284 |
+| Players | 23/24 |
+| Host Name | barrendero del SINDICATO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:32:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704219472747 |
+| Players | 4/8 |
+| Host Name | INBossik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:45:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704223763293 |
@@ -131,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704223794592 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Gustav Elijah Åhr11 |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:48:55 |
