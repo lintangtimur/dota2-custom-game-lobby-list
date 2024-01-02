@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704595212215 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:54:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704593730967 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:52:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704592844161 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:51:57 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:51:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704595825138 |
-| Players | 9/10 |
-| Host Name | Дядя Шнюк |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:55:21 |
+| Lobby ID | 28591704596003139 |
+| Players | 3/8 |
+| Host Name | TOTSUGEKI |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:55:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704595523942 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Scho |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:55:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704595998834 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Archer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:55:34 |
@@ -113,55 +113,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704595689104 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Chawas Shelby |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:55:12 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704595423319 |
-| Players | 5/8 |
-| Host Name | шедевроброхабро |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:54:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704594793501 |
-| Players | 9/10 |
-| Host Name | 85943734753895 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:54:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704596003139 |
-| Players | 3/8 |
-| Host Name | TOTSUGEKI |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:55:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704596004624 |
-| Players | 1/8 |
-| Host Name | Pikabu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:55:34 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704596017343 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | хоббихорсинг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:55:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704596145900 |
+| Players | 4/8 |
+| Host Name | Мусораб Ляди |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:55:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704596154440 |
+| Players | 4/15 |
+| Host Name | dude |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:55:45 |
 
 
 |  | epic_boss_fight_hard |
@@ -171,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maqs |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:51:19 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28591704596146842 |
+| Players | 3/7 |
+| Host Name | Правый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:55:44 |
 
 
