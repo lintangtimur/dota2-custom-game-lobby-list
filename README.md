@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704165700461 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ✬✬✬Leon Scott Kennedy |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:59:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704184450663 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Mr. Scrop's |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:15:55 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704184759785 |
-| Players | 2/8 |
-| Host Name | ПСИХОПАТ |
+| Lobby ID | 28591704184545603 |
+| Players | 3/8 |
+| Host Name | Jim |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:16:11 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:15:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704184545603 |
-| Players | 6/8 |
-| Host Name | puen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:15:59 |
+| Lobby ID | 28591704184992024 |
+| Players | 2/8 |
+| Host Name | clown |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:16:23 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704178459455 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | No_0b [F@ST] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:10:46 |
@@ -119,21 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:15:56 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28591704184765303 |
-| Players | 3/5 |
-| Host Name | True Warrior |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:16:11 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28591704184761584 |
+| Lobby ID | 28591704184991581 |
 | Players | 1/7 |
 | Host Name | HARE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:16:11 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:16:23 |
 
 
