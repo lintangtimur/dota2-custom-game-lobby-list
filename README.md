@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549990688449 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | мaиgø |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:10:38 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:03:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549990435953 |
-| Players | 15/24 |
-| Host Name | Becky Blackbell |
+| Lobby ID | 28590549990938243 |
+| Players | 1/15 |
+| Host Name | El cacha Mamás solteras |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:10:09 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:11:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549954597716 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549990936422 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:11:07 |
@@ -76,29 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549990770069 |
+| Lobby ID | 28590549990285309 |
 | Players | 3/8 |
-| Host Name | Señor autoplacer |
+| Host Name | ¿? |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:10:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549990938243 |
-| Players | 1/15 |
-| Host Name | El cacha Mamás solteras |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:11:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549990950327 |
-| Players | 2/8 |
-| Host Name | Йаcobs monarch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:11:09 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:09:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I will Lose Weight 17 Kg to Go |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:10:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590549991036268 |
-| Players | 1/10 |
-| Host Name | YuUh- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:11:19 |
 
 
