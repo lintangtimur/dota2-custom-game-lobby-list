@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550176097035 |
-| Players | 21/24 |
-| Host Name | SickMonday |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:48:19 |
+| Lobby ID | 28590550178491004 |
+| Players | 2/10 |
+| Host Name | GoldenStar |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:51:56 |
 
 
 |  | ot3_desert_octet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ⁱᵃᵐ|๕𝑖ɠɐc𝐡ɐ𝙙 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:50:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550178372415 |
-| Players | 1/10 |
-| Host Name | EBRam |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:51:45 |
 
 
 |  | epic_boss_fight_nightmare |
