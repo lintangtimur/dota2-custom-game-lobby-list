@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550262704191 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:49:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550264904384 |
-| Players | 14/15 |
-| Host Name | ^^swempe:B //A// |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:52:04 |
+| Lobby ID | 28590550265589016 |
+| Players | 4/8 |
+| Host Name | Филипп Киркоров |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:52:54 |
 
 
 |  | ot3_desert_octet |
@@ -38,22 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:52:12 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550265659042 |
+| Players | 2/15 |
+| Host Name | Bandolero |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:53:00 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550265390749 |
-| Players | 8/10 |
-| Host Name | гнида |
+| Lobby ID | 28590550265722402 |
+| Players | 4/10 |
+| Host Name | МУРЗИК ТЯЖЕЛОВЕС |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:52:40 |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:53:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550265589016 |
-| Players | 4/8 |
-| Host Name | Филипп Киркоров |
+| Lobby ID | 28590550265752754 |
+| Players | 2/8 |
+| Host Name | Геннадий Треев |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:52:54 |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:53:06 |
 
 
 |  | epic_boss_fight_nightmare |
