@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704549216804 |
-| Players | 12/15 |
-| Host Name | Yami |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:03:32 |
+| Lobby ID | 28591704547845227 |
+| Players | 5/8 |
+| Host Name | corx |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:02:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704549888907 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | Custom Player |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:04:16 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704549048818 |
-| Players | 3/8 |
-| Host Name | макдокнак |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:03:21 |
+| Lobby ID | 28591704549978530 |
+| Players | 2/8 |
+| Host Name | адидас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:04:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704548345707 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:02:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704542105641 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Guihs |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:55:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704549532311 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Sk1ble |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:03:52 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704545900248 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Rip van Winkle |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:59:57 |
@@ -95,37 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704539822294 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | RGM |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:53:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704546485973 |
-| Players | 9/10 |
-| Host Name | د.Lowgard |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:00:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704549266966 |
-| Players | 6/10 |
-| Host Name | twitch.tv/bishotv |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:03:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704547845227 |
-| Players | 3/8 |
-| Host Name | corx |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:02:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -137,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:04:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704546069343 |
-| Players | 7/8 |
-| Host Name | Getter Emperor |
+| Lobby ID | 28591704549266966 |
+| Players | 8/10 |
+| Host Name | twitch.tv/bishotv |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:00:08 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:03:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704549932703 |
-| Players | 4/8 |
-| Host Name | /?/ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:04:19 |
+| Lobby ID | 28591704550100718 |
+| Players | 1/8 |
+| Host Name | Yoshido_YT |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:04:30 |
 
 
 |  | epic_boss_fight_challenger |
