@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549984918669 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | test acc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:59:37 |
@@ -41,28 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549954597716 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549985286940 |
-| Players | 1/8 |
-| Host Name | OtaGame |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:00:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549984811499 |
-| Players | 3/8 |
-| Host Name | NEGRO CLAUDIUS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:59:25 |
+| Lobby ID | 28590549985278951 |
+| Players | 6/15 |
+| Host Name | Makuno |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:00:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:58:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549985278951 |
-| Players | 1/15 |
-| Host Name | Makuno |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:00:18 |
+| Lobby ID | 28590549985375989 |
+| Players | 2/24 |
+| Host Name | _____________ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:00:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549982088427 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:54:04 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549983079560 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Tu Rata Favorita |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:56:05 |
