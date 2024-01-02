@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550225356917 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Виктор Петрович |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:00:39 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550226448361 |
-| Players | 1/10 |
-| Host Name | Пан Хтоська |
+| Players | 6/10 |
+| Host Name | нихуя уже час нам пора |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:02:09 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550226502637 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Соре за просолку |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:02:13 |
