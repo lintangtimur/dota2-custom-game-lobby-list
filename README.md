@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550112472150 |
-| Players | 1/10 |
-| Host Name | MAC MANI QUISPE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:02:47 |
+| Lobby ID | 28590550112758329 |
+| Players | 1/15 |
+| Host Name | Attacker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:03:18 |
 
 
 |  | ot3_desert_octet |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:03:16 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550112849935 |
+| Players | 1/8 |
+| Host Name | DAkA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:03:28 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550108951238 |
@@ -63,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | monay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:56:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550112406824 |
-| Players | 2/10 |
-| Host Name | BlueDeimos |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:02:41 |
 
 
 |  | epic_boss_fight_normal |
@@ -85,10 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590550112706200 |
-| Players | 1/10 |
-| Host Name | OnlyGOD |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:03:13 |
+| Lobby ID | 28590550112800553 |
+| Players | 2/10 |
+| Host Name | BlueDeimos |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:03:23 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28590550112835720 |
+| Players | 1/7 |
+| Host Name | sirrealvictor |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:03:26 |
 
 
