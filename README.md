@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550011913648 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | ♥♦CentOS♣♠ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:51:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550008437791 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 'Suthep Thaugsuban |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:45:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550005604483 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:39:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550012068801 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | tocosh |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:52:18 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TIDE 3 SPELL=DOG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:51:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550012497439 |
+| Players | 1/8 |
+| Host Name | Jota |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:53:08 |
 
 
 |  | epic_boss_fight_nightmare |
