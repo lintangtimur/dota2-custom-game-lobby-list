@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550091952001 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Хз какой ник |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:25:25 |
@@ -47,19 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:25:57 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550088698795 |
-| Players | 8/10 |
-| Host Name | Azuremir |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:19:19 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550092356722 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 4732. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:26:12 |
