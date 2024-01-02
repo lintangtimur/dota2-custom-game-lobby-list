@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704182509537 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:14:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704190090392 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | NOT WOW HOOMANE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:20:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704189568350 |
-| Players | 8/10 |
+| Players | 5/10 |
 | Host Name | Hanni- |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:20:17 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704190589981 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Сигал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:21:10 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704190837157 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Arlekin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:21:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704190949519 |
-| Players | 4/8 |
-| Host Name | ayato |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:21:28 |
 
 
 |  | ot3_desert_octet |
@@ -128,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:21:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704191007956 |
-| Players | 1/15 |
-| Host Name | Yatsuka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:21:31 |
+| Lobby ID | 28591704191119395 |
+| Players | 1/8 |
+| Host Name | Maltodextrin() |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:21:37 |
 
 
 |  | epic_boss_fight_hard |
@@ -162,5 +153,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ME WITH 4 IMMORTAL BRAINS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:19:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704191040323 |
+| Players | 3/5 |
+| Host Name | gippokrat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:21:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704191152605 |
+| Players | 3/10 |
+| Host Name | Second City Saint |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:21:39 |
 
 
