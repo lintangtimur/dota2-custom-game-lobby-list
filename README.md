@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549986050875 |
-| Players | 5/8 |
-| Host Name | AleexitO TACO TACO |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:01:46 |
+| Lobby ID | 28590549992680762 |
+| Players | 3/24 |
+| Host Name | ??? |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:14:29 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:13:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549992383853 |
-| Players | 14/15 |
-| Host Name | MadeInBostil |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:13:54 |
+| Lobby ID | 28590549991668747 |
+| Players | 3/8 |
+| Host Name | Sunset |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:12:32 |
 
 
 |  | ot3_desert_octet |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:13:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549992680762 |
-| Players | 3/24 |
-| Host Name | ??? |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:14:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549991668747 |
-| Players | 3/8 |
-| Host Name | Sunset |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:12:32 |
+| Lobby ID | 28590549992383853 |
+| Players | 14/15 |
+| Host Name | MadeInBostil |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:13:54 |
 
 
 |  | epic_boss_fight_nightmare |
