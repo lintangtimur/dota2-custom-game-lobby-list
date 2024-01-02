@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550205861721 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Desterrado |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:32:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550206741342 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | ☆ VAZ ☆ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:34:11 |
@@ -65,10 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:34:10 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550206798658 |
+| Players | 1/24 |
+| Host Name | 饿了么滴 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:34:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550205809067 |
+| Players | 7/8 |
+| Host Name | печка |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:32:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550206463087 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Bloody light moon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:33:47 |
