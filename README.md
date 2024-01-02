@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550111572387 |
-| Players | 9/10 |
-| Host Name | Stefan 福 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:01:12 |
+| Lobby ID | 28590550112383115 |
+| Players | 1/15 |
+| Host Name | Attacker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:02:38 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550109595880 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | eh? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:57:45 |
@@ -56,31 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:02:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550112383115 |
-| Players | 1/15 |
-| Host Name | Attacker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:02:38 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550108951238 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | monay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:56:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550104338679 |
-| Players | 9/10 |
-| Host Name | Maharaja Lawana |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:48:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BlueDeimos |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:02:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550112615455 |
+| Players | 2/5 |
+| Host Name | BeoWulf |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:03:03 |
 
 
