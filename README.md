@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550124262504 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:23:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550124688975 |
-| Players | 5/8 |
-| Host Name | Раскрибушка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:24:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550124710707 |
-| Players | 1/15 |
-| Host Name | 𝓑𝔂𝓫𝓵𝓲𝓴 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:24:06 |
 
 
 |  | ot3_gardens_duo |
@@ -80,6 +62,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/10 |
 | Host Name | WoodyPlant |
 | Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:24:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550124710707 |
+| Players | 1/15 |
+| Host Name | 𝓑𝔂𝓫𝓵𝓲𝓴 |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:24:06 |
 
 
