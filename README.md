@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550245001116 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Cemka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:26:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550251230453 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ? |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:35:01 |
@@ -23,26 +23,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550249415314 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | WRY♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:32:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550251402535 |
-| Players | 1/15 |
-| Host Name | ジャスリーン |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:35:14 |
+| Lobby ID | 28590550251761965 |
+| Players | 3/10 |
+| Host Name | Yana cist |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:35:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550251682444 |
 | Players | 2/15 |
-| Host Name | Кошачий Трактор |
+| Host Name | PAIN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:35:36 |
 
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:35:36 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550251389213 |
-| Players | 1/5 |
-| Host Name | staring at the sun |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:35:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550251501413 |
@@ -74,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:35:22 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28590550251636763 |
-| Players | 1/10 |
-| Host Name | Inui |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:35:32 |
+| Lobby ID | 28590550251864842 |
+| Players | 1/7 |
+| Host Name | Galearcher |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:35:49 |
 
 
