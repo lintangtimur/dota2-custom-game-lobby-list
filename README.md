@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549938927373 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:31:21 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:33:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549939354967 |
-| Players | 6/8 |
-| Host Name | MAHLER HAMMER |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:32:10 |
+| Lobby ID | 28590549940361339 |
+| Players | 2/15 |
+| Host Name | Ruby R |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:34:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549939966842 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | EMz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:33:19 |
