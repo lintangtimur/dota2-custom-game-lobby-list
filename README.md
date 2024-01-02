@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550001100323 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Nekotactical |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:31:04 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550001341575 |
-| Players | 12/15 |
-| Host Name | Выпустите |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:31:31 |
+| Lobby ID | 28590550002000470 |
+| Players | 3/8 |
+| Host Name | Don Tortuga |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:32:47 |
 
 
 |  | ot3_desert_octet |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550001453489 |
-| Players | 6/8 |
-| Host Name | overcome |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:31:44 |
+| Lobby ID | 28590550001898699 |
+| Players | 2/8 |
+| Host Name | CAMARADA CAPIBARA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:32:35 |
 
 
 |  | ot3_gardens_duo |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Carpe Diem. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:31:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550001898699 |
-| Players | 1/8 |
-| Host Name | CAMARADA CAPIBARA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:32:35 |
 
 
 |  | epic_boss_fight_normal |
