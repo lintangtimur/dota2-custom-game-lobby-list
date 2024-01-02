@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550143103098 |
-| Players | 8/24 |
+| Players | 15/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:55:35 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550145338030 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Рагу [Гантрап] |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:59:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550145364029 |
-| Players | 3/8 |
-| Host Name | Making mistakes |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:59:23 |
 
 
 |  | epic_boss_fight_nightmare |
