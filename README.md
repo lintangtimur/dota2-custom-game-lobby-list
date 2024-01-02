@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -47,28 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:36:42 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549942215472 |
-| Players | 3/15 |
-| Host Name | HappyGoldboy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:37:36 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549940687385 |
-| Players | 9/10 |
-| Host Name | Слава сыр колбасс |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:34:41 |
+| Lobby ID | 28590549942079090 |
+| Players | 5/10 |
+| Host Name | SALAMANDER_KING |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:37:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549942548514 |
+| Players | 2/15 |
+| Host Name | SavagE -iwnl- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:38:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549939966842 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | barrendero del SINDICATO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:33:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549941935344 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Homicídio |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:37:04 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549941990722 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:37:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549942079090 |
-| Players | 5/10 |
-| Host Name | SALAMANDER_KING |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:37:20 |
 
 
 |  | epic_boss_fight_nightmare |
