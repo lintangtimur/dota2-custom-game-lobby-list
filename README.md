@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550184158111 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:00:39 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550193284614 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ^-^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:14:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550193318157 |
-| Players | 13/15 |
-| Host Name | HeADbIkBaT |
+| Lobby ID | 28590550193095077 |
+| Players | 9/10 |
+| Host Name | xTrane |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:14:17 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:13:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550192362101 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Sparta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:12:52 |
