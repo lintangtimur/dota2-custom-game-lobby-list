@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704265269116 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | b-ウサギ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:23:08 |
@@ -86,46 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704269361467 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Deadracoon |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:26:39 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704268800790 |
-| Players | 3/15 |
-| Host Name | Вишенька 🍒 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:26:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704269314285 |
-| Players | 6/8 |
-| Host Name | RESURRECTED |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:26:37 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704269631140 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | eternalcursed |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:26:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704269712202 |
-| Players | 1/24 |
-| Host Name | Player №11 |
+| Lobby ID | 28591704269867443 |
+| Players | 1/8 |
+| Host Name | mymei |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:26:57 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:27:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704269908178 |
+| Players | 3/8 |
+| Host Name | Christmas feeding |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:27:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Вовчик |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:26:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704269889724 |
+| Players | 2/10 |
+| Host Name | Yui |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:27:07 |
 
 
