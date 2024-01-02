@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:32:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704221603827 |
-| Players | 8/10 |
-| Host Name | Magadan RQ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:47:06 |
+| Lobby ID | 28591704222398723 |
+| Players | 2/8 |
+| Host Name | mid enjoyer 自殺 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:47:46 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704221490767 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | bdy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:47:01 |
@@ -85,24 +85,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704219472747 |
-| Players | 4/8 |
-| Host Name | INBossik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:45:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704221471245 |
-| Players | 4/24 |
-| Host Name | RogerQ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:47:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28591704220960026 |
 | Players | 3/8 |
 | Host Name | sa1r1m |
@@ -110,12 +92,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:46:34 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704221471245 |
+| Players | 1/24 |
+| Host Name | RogerQ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:47:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704222444172 |
+| Players | 2/10 |
+| Host Name | Каракос |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:47:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704222484745 |
+| Players | 4/15 |
+| Host Name | -iV |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:47:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704222584122 |
+| Players | 4/8 |
+| Host Name | 妻no brain妻 watch me die |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:47:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704221636919 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 男人哭吧哭吧不是罪>.< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:47:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704222442188 |
+| Players | 1/10 |
+| Host Name | luckybymyside |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:47:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704222599552 |
+| Players | 2/5 |
+| Host Name | Den007 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:47:56 |
 
 
