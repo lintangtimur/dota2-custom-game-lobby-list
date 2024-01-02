@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550300924338 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | 空 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:33:20 |
@@ -50,19 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550301568347 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | noom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:34:01 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550301646667 |
+| Players | 4/15 |
+| Host Name | iron-gear |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:34:06 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550301581643 |
-| Players | 4/8 |
-| Host Name | Capiroska |
+| Lobby ID | 28590550301741404 |
+| Players | 1/8 |
+| Host Name | Волосатая Бубна |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:34:02 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:34:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550300901388 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Clutch Nixon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:33:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550301671804 |
+| Players | 2/10 |
+| Host Name | TEAM CALLER |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:34:08 |
 
 
