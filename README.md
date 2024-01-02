@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550103411666 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | NA BEREG? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550104573762 |
-| Players | 5/10 |
-| Host Name | Soulwarrior |
+| Lobby ID | 28590550107673748 |
+| Players | 1/24 |
+| Host Name | CRITICAX |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:48:31 |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:54:07 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550106959597 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ƒuke |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550105752096 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | SmolEye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:50:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550106851991 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Ես Հայ Եմ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:37 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550104338679 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:48:06 |
