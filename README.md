@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549967741152 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | pTco |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:26:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549969282783 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ヘスス |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:29:35 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549968721345 |
-| Players | 7/8 |
-| Host Name | Матюша |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:28:31 |
+| Lobby ID | 28590549969345683 |
+| Players | 3/10 |
+| Host Name | CHAK CHAK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:29:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549969281094 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | xClaiir3x |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:29:35 |
@@ -74,22 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:29:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549967827231 |
-| Players | 9/10 |
-| Host Name | KO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:26:47 |
+| Lobby ID | 28590549969453719 |
+| Players | 1/24 |
+| Host Name | OverMyHead |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:29:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549969345683 |
-| Players | 1/10 |
-| Host Name | CHAK CHAK |
+| Lobby ID | 28590549969459645 |
+| Players | 1/15 |
+| Host Name | HAAAAUNTED MOOOOOUND |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:29:42 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:29:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549968702597 |
+| Players | 7/8 |
+| Host Name | Bajador de Pepa Profesional |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:28:29 |
 
 
 |  | epic_boss_fight_nightmare |
