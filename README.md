@@ -11,31 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:21:56 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550290370152 |
-| Players | 2/10 |
-| Host Name | Shad- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:21:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550290673715 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | RabaDzija |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:22:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550290887715 |
-| Players | 1/10 |
-| Host Name | миша дракон |
+| Lobby ID | 28590550291072515 |
+| Players | 1/8 |
+| Host Name | WhatsWrongWithDOGA2/VOLVO? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:22:24 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:22:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,5 +45,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | にこ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:19:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550291064022 |
+| Players | 1/10 |
+| Host Name | Cerberus_7 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:22:35 |
 
 
