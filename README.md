@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549981264412 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Road a heraldo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:52:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549981709861 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:53:20 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549981475420 |
-| Players | 9/10 |
-| Host Name | MR.DEAD |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:52:52 |
+| Lobby ID | 28590549982068568 |
+| Players | 5/10 |
+| Host Name | mar⁧⁧k1n |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:54:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549981938386 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | foxing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:53:46 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | not human (животное) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:53:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549982088427 |
+| Players | 1/10 |
+| Host Name | rbg |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:54:04 |
 
 
