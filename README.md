@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550044035480 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Carmen |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:54:09 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:52:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550042510582 |
-| Players | 7/8 |
-| Host Name | Ｓｏｈｅｅ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:51:12 |
+| Lobby ID | 28590550044191311 |
+| Players | 1/10 |
+| Host Name | grac |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:54:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550044019544 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | ❖Mʀ᭄נ o κ ᴇ ʀᴮᵒˢˢ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:54:07 |
