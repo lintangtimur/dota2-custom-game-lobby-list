@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704384469890 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:11:38 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:08:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704385465929 |
-| Players | 11/15 |
-| Host Name | Chernoball |
+| Lobby ID | 28591704385868378 |
+| Players | 5/10 |
+| Host Name | 4YI7A4YI7C |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:12:36 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:12:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,19 +110,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:12:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704385376895 |
-| Players | 6/8 |
-| Host Name | 3.14...... |
+| Lobby ID | 28591704385972127 |
+| Players | 1/15 |
+| Host Name | жабанчик |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:13:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704380908019 |
+| Players | 14/15 |
+| Host Name | Nameless |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:12:31 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:08:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704384474973 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | MNSTV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:11:38 |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | this is outrageous |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:09:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704385982789 |
+| Players | 1/5 |
+| Host Name | iLUMiNATi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:13:06 |
 
 
