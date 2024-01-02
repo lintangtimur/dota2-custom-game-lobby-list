@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549939969210 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | HEISENBERG |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:33:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549939924015 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | NoobMaster69 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:33:14 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:34:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549940361339 |
-| Players | 10/15 |
-| Host Name | Ruby R |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:34:04 |
+| Lobby ID | 28590549940687385 |
+| Players | 2/10 |
+| Host Name | Слава сыр колбасс |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:34:41 |
 
 
 |  | ot3_desert_octet |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549940646708 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Парень из Одессы |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:34:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549940687385 |
-| Players | 2/10 |
-| Host Name | Слава сыр колбасс |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:34:41 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OZAI |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:18:35 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28590549940809083 |
+| Players | 1/7 |
+| Host Name | Teletambis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:34:55 |
 
 
