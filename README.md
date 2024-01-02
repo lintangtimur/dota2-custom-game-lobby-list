@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550001100323 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Nekotactical |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:31:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550002145496 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:33:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550002000470 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Don Tortuga |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:32:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550001898699 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:32:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550001503966 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Carpe Diem. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:31:50 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550002148472 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | from the dark |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:33:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550002260289 |
+| Players | 5/8 |
+| Host Name | arbien |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:33:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550002272437 |
+| Players | 4/8 |
+| Host Name | el versatil |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:33:18 |
 
 
 |  | epic_boss_fight_normal |
