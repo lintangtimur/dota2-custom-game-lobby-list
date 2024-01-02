@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550106734344 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | MadLad |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:24 |
@@ -29,22 +29,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:00:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550109595880 |
-| Players | 19/24 |
-| Host Name | eh? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:57:45 |
+| Lobby ID | 28590550113919282 |
+| Players | 2/8 |
+| Host Name | SiNsUi <3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:05:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550114216498 |
+| Players | 1/10 |
+| Host Name | Darkhorse |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:05:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550111542104 |
-| Players | 7/8 |
-| Host Name | Лп как смысл жизн |
+| Lobby ID | 28590550114244040 |
+| Players | 1/8 |
+| Host Name | st1gma |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:01:09 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:05:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550114229896 |
+| Players | 1/24 |
+| Host Name | ライフィセット |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:05:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550112800553 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | BlueDeimos |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:03:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550114135955 |
+| Players | 1/10 |
+| Host Name | 神の一手 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:05:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550108951238 |
+| Players | 9/10 |
+| Host Name | ✪ Mimi-Chan ✪ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:56:34 |
 
 
