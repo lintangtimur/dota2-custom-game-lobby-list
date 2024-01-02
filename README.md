@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704417732757 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Yves Saint Laurent |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:44:40 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:43:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704415669238 |
-| Players | 9/10 |
-| Host Name | MYAVE |
+| Lobby ID | 28591704418911798 |
+| Players | 4/15 |
+| Host Name | eternal despair デ怒anxiety怒デ lepr |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:42:36 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:45:52 |
 
 
 |  | ot3_gardens_duo |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:45:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704417232314 |
-| Players | 1/24 |
-| Host Name | WaffleMaker |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:44:10 |
+| Lobby ID | 28591704417602035 |
+| Players | 3/8 |
+| Host Name | Makima |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:44:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704412569007 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | PAch1 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:39:30 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704417126225 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Maotisco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:44:03 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704416921735 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:43:51 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704417839812 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Aomine daiki |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:44:46 |
@@ -140,19 +140,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704418629251 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | OutBlast |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:45:35 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704416234263 |
-| Players | 2/5 |
-| Host Name | жопный МАНИПУЛЯТОР |
+| Lobby ID | 28591704418816833 |
+| Players | 1/24 |
+| Host Name | NatureFlame |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:45:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704416863206 |
+| Players | 6/10 |
+| Host Name | tsukiyomi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:43:10 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:43:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -164,12 +173,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:43:22 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28591704416863206 |
-| Players | 5/10 |
-| Host Name | tsukiyomi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:43:47 |
+| Lobby ID | 28591704419023336 |
+| Players | 1/5 |
+| Host Name | MorganaBanana |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:45:59 |
 
 
