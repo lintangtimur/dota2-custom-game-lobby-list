@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704288721470 |
-| Players | 14/15 |
-| Host Name | SS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:43:11 |
+| Lobby ID | 28591704290694016 |
+| Players | 1/15 |
+| Host Name | Levi |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:44:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704290091868 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Обезьянка и банан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:44:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704286323981 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:41:07 |
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704290409229 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | СОЛЬ - Пробовал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:44:39 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704290476198 |
-| Players | 6/10 |
-| Host Name | Виктор Баринов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:44:43 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704290507786 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Felicita |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:44:45 |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Crazy Wolf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:44:34 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28591704290834011 |
+| Players | 1/7 |
+| Host Name | Galearcher |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:45:02 |
 
 
