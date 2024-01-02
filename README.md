@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550037106268 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Ark.Tect- |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:40:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550035853169 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Fox |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:38:20 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550034397769 |
-| Players | 6/8 |
-| Host Name | w_xzed |
+| Players | 5/8 |
+| Host Name | Papa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:35:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550037180038 |
-| Players | 1/24 |
-| Host Name | PIPHELS |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:40:53 |
+| Lobby ID | 28590550037205428 |
+| Players | 2/15 |
+| Host Name | was betrayed by my own god |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:40:56 |
 
 
 |  | ot3_gardens_duo |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:38:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550037205428 |
-| Players | 2/15 |
-| Host Name | [AFK] Kenny |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:40:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550037231245 |
-| Players | 1/8 |
-| Host Name | Soulwarrior |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:40:59 |
 
 
 |  | epic_boss_fight_nightmare |
