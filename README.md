@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549997807159 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Наменявсесмотрят |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549997892641 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Nascar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549997712045 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549997556725 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:05 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549997620979 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | mooDfO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:13 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Decadance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:25:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549998162156 |
+| Players | 2/8 |
+| Host Name | Dedos Furiosos  =) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:25:20 |
 
 
 |  | epic_boss_fight_nightmare |
