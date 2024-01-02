@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549910697200 |
-| Players | 6/8 |
-| Host Name | -Padrastro 100% |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:38:49 |
+| Lobby ID | 28590549913158074 |
+| Players | 6/15 |
+| Host Name | El watson makofon |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:43:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549912749483 |
-| Players | 13/15 |
-| Host Name | !SSensation |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:42:31 |
+| Lobby ID | 28590549913067395 |
+| Players | 7/15 |
+| Host Name | Rob.The-R |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:43:06 |
 
 
 |  | ot3_desert_octet |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549910762781 |
-| Players | 23/24 |
-| Host Name | gfreek |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:38:56 |
+| Lobby ID | 28590549913026040 |
+| Players | 1/24 |
+| Host Name | Kratos |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:43:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:42:30 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549911665202 |
-| Players | 8/10 |
-| Host Name | Soulwarrior |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:40:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549913026040 |
-| Players | 3/24 |
-| Host Name | ༒ㄨŁøяĐƝγцҚㄨ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:43:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549913067395 |
-| Players | 3/15 |
-| Host Name | Rob.The-R |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:43:06 |
+| Lobby ID | 28590549913161745 |
+| Players | 1/15 |
+| Host Name | 完全 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:43:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549913197203 |
+| Players | 1/10 |
+| Host Name | Легенда Приюта |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:43:20 |
 
 
 |  | epic_boss_fight_normal |
