@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549985989058 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Anita Max Wynn |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:01:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549985102706 |
-| Players | 8/10 |
-| Host Name | La parquita |
+| Lobby ID | 28590549986282682 |
+| Players | 4/8 |
+| Host Name | ヘスス |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:59:58 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:02:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549985750806 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | LordValdomero |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:01:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549985434281 |
-| Players | 5/24 |
+| Players | 11/24 |
 | Host Name | Lance |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:00:36 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549985278951 |
+| Players | 11/15 |
+| Host Name | Makuno |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:00:18 |
 
 
 |  | epic_boss_fight_nightmare |
