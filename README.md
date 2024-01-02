@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704254672370 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | FuManChu |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:14:19 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:13:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704254873460 |
-| Players | 1/24 |
-| Host Name | SANYKA.TURBINA |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:14:29 |
+| Lobby ID | 28591704253466140 |
+| Players | 2/10 |
+| Host Name | Full-Time Griefer |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:13:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704255018341 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | gussigang666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:14:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704251624303 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Cort3znica |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:11:48 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704251298227 |
-| Players | 15/24 |
+| Players | 12/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:11:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704253466140 |
-| Players | 2/10 |
-| Host Name | Full-Time Griefer |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:13:20 |
+| Lobby ID | 28591704255270260 |
+| Players | 1/15 |
+| Host Name | vodka |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:14:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704255211159 |
+| Players | 2/24 |
+| Host Name | KomtingKons |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:14:46 |
 
 
 |  | epic_boss_fight_nightmare |
