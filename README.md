@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550064806842 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:34:06 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:34:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550065549329 |
-| Players | 14/15 |
-| Host Name | Remington Jones |
+| Lobby ID | 28590550067144182 |
+| Players | 2/8 |
+| Host Name | ♥Chloe♥ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:35:30 |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:38:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zoro-juro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:37:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550067102955 |
-| Players | 2/5 |
-| Host Name | $WEET |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:38:26 |
 
 
