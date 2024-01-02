@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549981264412 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Road a heraldo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:52:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549980035533 |
-| Players | 11/15 |
-| Host Name | 😴😴 |
+| Lobby ID | 28590549981238901 |
+| Players | 2/24 |
+| Host Name | NAYUTA |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:50:07 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:52:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549979564022 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 'Suthep Thaugsuban |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:49:13 |
@@ -58,35 +58,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549980328914 |
-| Players | 8/10 |
-| Host Name | кастрюля гречки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:50:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549980443536 |
-| Players | 4/10 |
-| Host Name | Tavo Tu Terror |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:50:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549981238901 |
-| Players | 2/24 |
-| Host Name | NAYUTA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:52:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28590549981475420 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MR.DEAD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:52:52 |
