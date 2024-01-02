@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550003567722 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:35:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550004082442 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | "Butters" |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:36:49 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Enzo Gorlomi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:36:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550004240467 |
+| Players | 4/15 |
+| Host Name | Mazai |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:37:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550004261399 |
+| Players | 1/24 |
+| Host Name | D-MF |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:37:09 |
 
 
 |  | epic_boss_fight_nightmare |
