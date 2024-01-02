@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704543348925 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:57:07 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704546069343 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | koncha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:00:08 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704546314070 |
+| Players | 6/10 |
+| Host Name | Котёночек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:24 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704546086151 |
-| Players | 5/8 |
-| Host Name | аф |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:00:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704546052967 |
-| Players | 7/15 |
-| Host Name | мусульманго |
+| Lobby ID | 28591704546509548 |
+| Players | 3/8 |
+| Host Name | zxclarity |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:00:07 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:36 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:55:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704546354727 |
-| Players | 1/15 |
-| Host Name | pilin |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:00:26 |
+| Lobby ID | 28591704546311524 |
+| Players | 4/8 |
+| Host Name | Pedrila |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:24 |
 
 
 |  | ot3_desert_octet |
@@ -101,31 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:53:12 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704546311524 |
-| Players | 2/8 |
-| Host Name | Pedrila |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:00:24 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704546314070 |
-| Players | 3/10 |
-| Host Name | Котёночек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:00:24 |
+| Lobby ID | 28591704546485973 |
+| Players | 2/10 |
+| Host Name | د.Lowgard |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704546339360 |
-| Players | 5/8 |
-| Host Name | gatekeeper |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:00:25 |
+| Lobby ID | 28591704546486055 |
+| Players | 2/8 |
+| Host Name | El Mata Por Gusto |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704546543464 |
+| Players | 4/15 |
+| Host Name | MGNCITYSHUFFLE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:39 |
 
 
 |  | epic_boss_fight_challenger |
@@ -146,13 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:51:24 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28591704539630544 |
-| Players | 9/10 |
-| Host Name | Sunghacor |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:52:59 |
+| Lobby ID | 28591704545518057 |
+| Players | 1/7 |
+| Host Name | Snakeey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:59:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -173,12 +173,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:59:09 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28591704545518057 |
-| Players | 1/7 |
-| Host Name | Snakeey |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:59:32 |
+| Lobby ID | 28591704546497223 |
+| Players | 1/5 |
+| Host Name | Hunt Hoe-Down |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:00:36 |
 
 
