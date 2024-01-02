@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704339094298 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | EL MANCO DE LEPANTO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:28:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704345464884 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | ✪ EsuJon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:34:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704345336381 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | наследник касела |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:34:13 |
@@ -86,16 +86,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704345352308 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | стальные яйца |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:34:14 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704345874573 |
+| Players | 1/8 |
+| Host Name | Cago |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:34:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704345968727 |
+| Players | 2/10 |
+| Host Name | N0kuu)) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:34:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704345994329 |
+| Players | 5/8 |
+| Host Name | Lamborghini diablo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:34:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704344423871 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Meeeeeeee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:33:21 |
