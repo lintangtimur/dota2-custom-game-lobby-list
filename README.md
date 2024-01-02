@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550194007311 |
-| Players | 12/15 |
-| Host Name | Rommel |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:15:19 |
+| Lobby ID | 28590550194559031 |
+| Players | 1/15 |
+| Host Name | 玩游戏别太认真 |
+| Region | Unknown |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:16:09 |
 
 
 |  | epic_boss_fight_nightmare |
