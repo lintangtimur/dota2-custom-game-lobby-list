@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704329803701 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Bot G |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:19:45 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704329740474 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Легенда Приюта |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:19:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704327394753 |
-| Players | 3/8 |
-| Host Name | Apxfly |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:17:35 |
+| Lobby ID | 28591704330282106 |
+| Players | 1/24 |
+| Host Name | Zeoleur |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:20:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -105,7 +105,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28591704330228000 |
 | Players | 1/15 |
-| Host Name | Tw1st |
+| Host Name | ViktorSmiti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:20:08 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704327140094 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | HɅKɅRI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:17:21 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DEB(◉ ͜ʖ ͡◉)STER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:20:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704326831167 |
-| Players | 8/10 |
-| Host Name | >!! fight me !!< |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:17:04 |
 
 
