@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704407994889 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 加油吧 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:55 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:25:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704403021270 |
-| Players | 3/8 |
-| Host Name | darkyy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:30:00 |
+| Lobby ID | 28591704408317810 |
+| Players | 3/10 |
+| Host Name | mid enjoyer 自殺 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:35:14 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704408262756 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | Секс ферма эльфов |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:35:11 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704407064435 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | барсик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:33:59 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704403139259 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Usethat7 |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:30:07 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704407457816 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | CASACAS!! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:34:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704407998322 |
-| Players | 1/10 |
-| Host Name | new era |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:34:55 |
+| Lobby ID | 28591704408520498 |
+| Players | 3/24 |
+| Host Name | 戯作 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:35:26 |
 
 
 |  | epic_boss_fight_normal |
