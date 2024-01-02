@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28590549960819021 |
 | Players | 3/24 |
-| Host Name | Perrito Espartano |
+| Host Name | z |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:13:15 |
 
@@ -47,30 +47,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549960905275 |
-| Players | 6/10 |
-| Host Name | Nomi |
+| Lobby ID | 28590549961115069 |
+| Players | 6/8 |
+| Host Name | SIDERAL FRIO |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:13:25 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:13:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549960284039 |
-| Players | 12/15 |
+| Players | 8/15 |
 | Host Name | ILAVE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:12:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549961115069 |
-| Players | 4/8 |
-| Host Name | SIDERAL FRIO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:13:48 |
 
 
