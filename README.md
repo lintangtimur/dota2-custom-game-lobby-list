@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549899782541 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | activetino |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549898162304 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | Dazzle |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:16:22 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549898542630 |
-| Players | 12/15 |
-| Host Name | KA LE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:17:01 |
+| Lobby ID | 28590549899853019 |
+| Players | 2/24 |
+| Host Name | Kamicase(bsb) |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:19:19 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549895506458 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:11:43 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:18:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549899807412 |
-| Players | 1/8 |
-| Host Name | Сендальф Герий |
+| Lobby ID | 28590549899808822 |
+| Players | 4/15 |
+| Host Name | Black Lagoon |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549897104521 |
+| Players | 14/15 |
+| Host Name | top G |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:14:29 |
 
 
 |  | epic_boss_fight_nightmare |
