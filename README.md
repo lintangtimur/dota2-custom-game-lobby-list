@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704593730967 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:52:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704596003139 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | TOTSUGEKI |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:55:34 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704595825138 |
-| Players | 9/10 |
-| Host Name | Дядя Шнюк |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:55:21 |
+| Lobby ID | 28591704596349300 |
+| Players | 4/10 |
+| Host Name | PAHAN |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:55:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704595998834 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Archer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:55:34 |
@@ -128,22 +128,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:55:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704596205004 |
-| Players | 7/10 |
-| Host Name | NtelOnt |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:55:48 |
+| Lobby ID | 28591704596357432 |
+| Players | 1/8 |
+| Host Name | tv/tocinodota |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:55:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704596154440 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | dude |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:55:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704596433510 |
+| Players | 6/10 |
+| Host Name | Estronda Terra V |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:56:05 |
 
 
 |  | epic_boss_fight_hard |
