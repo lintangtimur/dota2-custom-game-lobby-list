@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550069178164 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | JamesWebb |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:42:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550070188254 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 東方白 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:44:19 |
