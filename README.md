@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550209420265 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | Gambi† Deda |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:38:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550208586627 |
-| Players | 1/15 |
+| Players | 12/15 |
 | Host Name | lknlth99 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:36:51 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:32:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550208139958 |
-| Players | 2/10 |
-| Host Name | KiW3^ |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:36:13 |
+| Lobby ID | 28590550209831741 |
+| Players | 4/8 |
+| Host Name | МЕНЯЕБАЛОТЕЦ99РАЗ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:38:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550209451361 |
-| Players | 2/24 |
+| Players | 8/24 |
 | Host Name | xD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:38:06 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550209497838 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Розовое облако |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:38:10 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550209539258 |
-| Players | 1/15 |
-| Host Name | Joji |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:38:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550206969472 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:34:31 |
