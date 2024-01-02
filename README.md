@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704148686427 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:43:28 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704156195591 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | rivers |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:50:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704156443323 |
+| Players | 3/15 |
+| Host Name | Sprekkt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:50:57 |
 
 
 |  | epic_boss_fight_normal |
