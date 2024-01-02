@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704308702874 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | SpAcEsHiPkIlLeR |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:00:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704360921267 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | jambarbie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:48:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704360795489 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Dorwell |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:48:47 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704361037024 |
-| Players | 1/8 |
-| Host Name | GearWill |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:49:00 |
+| Lobby ID | 28591704361118885 |
+| Players | 6/8 |
+| Host Name | Gwakkkkkkruto 69 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:49:05 |
 
 
 |  | epic_boss_fight_nightmare |
