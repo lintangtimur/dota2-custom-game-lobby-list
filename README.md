@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:48:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704591725829 |
-| Players | 1/24 |
-| Host Name | SlowNope |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:50:42 |
+| Lobby ID | 28591704591779610 |
+| Players | 7/10 |
+| Host Name | BluiaKA |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:50:46 |
 
 
 |  | ot3_desert_octet |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704590352857 |
-| Players | 7/8 |
-| Host Name | 我是法西斯主義者 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:49:10 |
+| Lobby ID | 28591704592044126 |
+| Players | 2/8 |
+| Host Name | LIL CHICHA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:51:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704589858004 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | ~{ ■} |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:48:37 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:48:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704589860955 |
-| Players | 7/8 |
-| Host Name | it |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:48:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704588341016 |
-| Players | 7/24 |
-| Host Name | Oh29 |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:46:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704591738168 |
-| Players | 4/15 |
-| Host Name | Oshawott |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:50:43 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704591739600 |
@@ -101,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:50:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704591779610 |
-| Players | 3/10 |
-| Host Name | BluiaKA |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:50:46 |
+| Lobby ID | 28591704588341016 |
+| Players | 6/24 |
+| Host Name | Oh29 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:46:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704591731809 |
-| Players | 6/15 |
-| Host Name | Тот самый курьер |
-| Region | STOCKHOLM |
+| Lobby ID | 28591704591738168 |
+| Players | 8/15 |
+| Host Name | Oshawott |
+| Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:50:43 |
 
 
