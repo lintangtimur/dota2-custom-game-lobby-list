@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550028689350 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Скелеты молодцы! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:24:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550027485363 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Jaylaps Brozingis |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:22:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550027252888 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | ^^!¬¬ (Si cancila) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:21:42 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | aaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:21:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550029188970 |
+| Players | 1/8 |
+| Host Name | Rainz |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:25:31 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | biblically accurate tenshi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:23:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550029183138 |
-| Players | 1/5 |
-| Host Name | self |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:25:30 |
 
 
