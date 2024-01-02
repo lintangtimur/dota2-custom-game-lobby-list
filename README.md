@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:05:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704550536215 |
-| Players | 10/15 |
-| Host Name | JJ |
+| Lobby ID | 28591704551012859 |
+| Players | 3/10 |
+| Host Name | _unnamed |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:04:58 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:05:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704548345707 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:02:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704550718348 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | j0mba ♥ docirela |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:05:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704545900248 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Rip van Winkle |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:59:57 |
@@ -131,10 +131,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704550937680 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | sQreen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:05:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704547845227 |
+| Players | 7/8 |
+| Host Name | Brrr |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:02:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704551114249 |
+| Players | 2/15 |
+| Host Name | HOLXGRAM |
+| Region | INDIA |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:05:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704551115318 |
+| Players | 2/15 |
+| Host Name | BanNer7 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:05:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704551110867 |
+| Players | 1/10 |
+| Host Name | D4RKY1$U$ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:05:36 |
 
 
 |  | epic_boss_fight_challenger |
