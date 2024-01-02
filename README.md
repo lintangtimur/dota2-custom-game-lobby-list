@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549948703721 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | v potoke | deko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:50:01 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549948436439 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Soy Billy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:49:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549947869474 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:48:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549946685084 |
-| Players | 15/24 |
+| Players | 21/24 |
 | Host Name | Capitulum Mitella |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:46:09 |
@@ -50,9 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549948954215 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Кот Пуля |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:50:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549949100165 |
+| Players | 2/15 |
+| Host Name | Datedi |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:50:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549949158914 |
+| Players | 1/8 |
+| Host Name | Borov |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:50:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549949210205 |
+| Players | 1/10 |
+| Host Name | GOD MODE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:50:59 |
 
 
