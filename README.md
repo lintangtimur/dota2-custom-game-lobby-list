@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550188220650 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | poison in my lungs kill me |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:06:45 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:06:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550187100046 |
-| Players | 7/10 |
-| Host Name | дибил |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:05:05 |
+| Lobby ID | 28590550188455279 |
+| Players | 3/8 |
+| Host Name | Warrior |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:07:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:00:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550188505947 |
+| Players | 1/10 |
+| Host Name | Wisewolf of Yoitsu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:07:10 |
 
 
 |  | epic_boss_fight_normal |
