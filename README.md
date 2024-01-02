@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550183304418 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ♛Immanori♛ |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:59:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550183225759 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | 伏 ふし 黒 ぐろ 甚 とう |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:59:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550183487094 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | SORRYIMSTONED |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:59:38 |
@@ -56,6 +56,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:59:38 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550183712809 |
+| Players | 2/10 |
+| Host Name | god.poori.birahm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:59:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550183749840 |
+| Players | 1/15 |
+| Host Name | ez |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:00:02 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550178571650 |
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550181978808 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Seventeen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:57:23 |
