@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550077926743 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | PossibleGhostface |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:59:09 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550077203434 |
-| Players | 4/15 |
-| Host Name | 慭 湩"ℤᎯĻᎯR© |
+| Players | 6/15 |
+| Host Name | kötsibëu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:57:49 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550075171556 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:48 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550076431353 |
-| Players | 2/8 |
-| Host Name | Scrayl |
+| Players | 1/8 |
+| Host Name | PENETON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:56:18 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550077167795 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | LIMBO4KA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:57:44 |
@@ -59,28 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550075160006 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Ghz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:53:46 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550077584277 |
-| Players | 1/24 |
-| Host Name | Gaben Naam Ka Kutta Paalu |
-| Region | INDIA |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:58:31 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550077953725 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Паша цветомузыка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:59:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550078206580 |
+| Players | 3/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:59:41 |
 
 
 |  | epic_boss_fight_nightmare |
