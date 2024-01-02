@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549918035826 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Commend x commend please |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:52:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549917779783 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | TherapyDuck |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:51:47 |
@@ -85,74 +85,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549917411143 |
-| Players | 6/10 |
-| Host Name | You'll be sent to Belize |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:51:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549917737903 |
-| Players | 7/8 |
-| Host Name | lokoespartano |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:51:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549917969888 |
-| Players | 4/15 |
-| Host Name | King.Grigori |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:52:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549917917535 |
-| Players | 5/8 |
-| Host Name | twitch.tv/Flyppykps |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:52:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549917362547 |
-| Players | 8/15 |
-| Host Name | NieVes |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:51:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549917438808 |
-| Players | 4/15 |
-| Host Name | Qushkan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:51:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549918027376 |
-| Players | 1/10 |
+| Lobby ID | 28590549918306865 |
+| Players | 4/10 |
 | Host Name | Verfickt |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:52:14 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:52:45 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549918067329 |
+| Lobby ID | 28590549918385994 |
+| Players | 4/10 |
+| Host Name | Captain Bungholio |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:52:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549918207124 |
 | Players | 6/10 |
-| Host Name | Bello |
+| Host Name | ™S t r u w a y™ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:52:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549918452790 |
+| Players | 1/8 |
+| Host Name | Bananarang |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:52:19 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:53:01 |
 
 
 |  | epic_boss_fight_nightmare |
