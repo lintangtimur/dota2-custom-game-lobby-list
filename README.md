@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704275254315 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | sleepwalker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:31:39 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704273704575 |
-| Players | 1/10 |
-| Host Name | CHUPAPI |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:30:19 |
+| Lobby ID | 28591704275394882 |
+| Players | 2/10 |
+| Host Name | dead outside 牡zxc beast牡 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:31:46 |
 
 
 |  | ot3_desert_octet |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704275004414 |
-| Players | 3/8 |
-| Host Name | mymei |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:31:26 |
+| Lobby ID | 28591704275392471 |
+| Players | 4/8 |
+| Host Name | Lordee |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:31:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704275060561 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Wit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:31:29 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704275145740 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Latrell |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:31:33 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704275347269 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:31:43 |
