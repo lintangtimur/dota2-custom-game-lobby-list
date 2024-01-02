@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704282189147 |
-| Players | 9/15 |
-| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:37:33 |
+| Lobby ID | 28591704282804452 |
+| Players | 5/24 |
+| Host Name | Instantaneous Death//OT3.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:38:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704277258162 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | TransMart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:33:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704280984059 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:36:32 |
@@ -41,63 +41,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704278435922 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | Saurman |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:34:21 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704282584668 |
-| Players | 3/8 |
-| Host Name | Kuzuri |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:37:53 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704281350546 |
-| Players | 7/10 |
-| Host Name | Kibosh |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:36:50 |
+| Lobby ID | 28591704283562102 |
+| Players | 3/10 |
+| Host Name | Steve |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:38:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704283667134 |
+| Players | 10/15 |
+| Host Name | . |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:38:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704282002237 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | [C]all_Me_[P].o.r |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:37:24 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704279822308 |
-| Players | 22/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:35:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704282804452 |
-| Players | 5/24 |
-| Host Name | Instantaneous Death//OT3.0 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:38:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704281070528 |
-| Players | 11/15 |
-| Host Name | zaborus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:36:36 |
+| Lobby ID | 28591704283625464 |
+| Players | 1/15 |
+| Host Name | Rover |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:38:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704283785981 |
+| Players | 1/8 |
+| Host Name | gypsi  king 81 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:38:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704283254116 |
+| Players | 2/10 |
+| Host Name | KumaBear |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:38:28 |
 
 
