@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550080921156 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Woofer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:04:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550081368478 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | SunWan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:05:37 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550081614100 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | < blank > |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:06:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550081730538 |
-| Players | 1/8 |
-| Host Name | Mitzy Te Extraño |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:06:18 |
+| Lobby ID | 28590550081824204 |
+| Players | 1/15 |
+| Host Name | Demon |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:06:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550080621308 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | DLove |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:04:13 |
