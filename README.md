@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704523144941 |
-| Players | 23/24 |
-| Host Name | SStiil |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:34:58 |
+| Lobby ID | 28591704524888879 |
+| Players | 3/8 |
+| Host Name | Матюша |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:36:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704524527316 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | is it you? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:36:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704524454899 |
-| Players | 3/15 |
+| Players | 14/15 |
 | Host Name | Пивной Элементаль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:36:23 |
@@ -94,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704524888879 |
-| Players | 1/8 |
-| Host Name | Матюша |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:36:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704524916070 |
-| Players | 1/10 |
-| Host Name | Кайфуцин |
+| Lobby ID | 28591704525071915 |
+| Players | 3/8 |
+| Host Name | idfghpientoa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:36:53 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:37:03 |
 
 
 |  | epic_boss_fight_challenger |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704523615755 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Gato |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:35:28 |
