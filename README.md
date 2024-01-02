@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550024614134 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Push Back |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:16:39 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550024820464 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:17:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550026047919 |
-| Players | 4/8 |
-| Host Name | [NX] AKENO SEMPAI (Vega) |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:19:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550023838392 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | onomatopeia |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:15:09 |
@@ -90,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | thEdarK1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:18:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550026013464 |
-| Players | 1/5 |
-| Host Name | Gin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:19:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550026029305 |
-| Players | 1/5 |
-| Host Name | luv5ammy |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:19:21 |
 
 
