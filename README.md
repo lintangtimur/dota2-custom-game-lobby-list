@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549925901407 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | VoDka-KimimarO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:06:47 |
@@ -32,28 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549926206884 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Krypton |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:07:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549926165930 |
-| Players | 2/10 |
-| Host Name | liptik |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:07:17 |
+| Lobby ID | 28590549926515511 |
+| Players | 1/24 |
+| Host Name | Larry Capija |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:07:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549925605650 |
+| Lobby ID | 28590549923468033 |
 | Players | 14/15 |
-| Host Name | Swaggernaut |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:06:16 |
+| Host Name | Alfonso48 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:02:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:06:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549923468033 |
-| Players | 10/15 |
-| Host Name | Alfonso48 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:02:21 |
+| Lobby ID | 28590549926433934 |
+| Players | 1/10 |
+| Host Name | diegotsfye |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:07:47 |
 
 
