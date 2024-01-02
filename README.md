@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550095268309 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | JamesWebb |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:31:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550100032065 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:40:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550099510102 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:39:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550098165426 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Neferpitou |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:36:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550100004998 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | IQ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:40:11 |
@@ -67,17 +67,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550100460517 |
-| Players | 2/8 |
-| Host Name | Мои руки тянутся к твоему члену |
+| Lobby ID | 28590550100475666 |
+| Players | 1/8 |
+| Host Name | wifeстиллер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:41:00 |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:41:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550100493620 |
+| Players | 1/10 |
+| Host Name | æ Haku æ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:41:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550100558546 |
+| Players | 1/15 |
+| Host Name | partychief |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:41:11 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550098086519 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | fck! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:36:41 |
