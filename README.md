@@ -13,18 +13,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704303313574 |
-| Players | 14/15 |
-| Host Name | moonya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:55:59 |
+| Lobby ID | 28591704304083176 |
+| Players | 5/15 |
+| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:56:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704275145740 |
-| Players | 2/10 |
-| Host Name | Latrell |
+| Players | 1/10 |
+| Host Name | EzKatka |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:31:33 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704301257969 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Джон Траволта |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:54:09 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704302954111 |
-| Players | 5/8 |
-| Host Name | Positive Mental Animal |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:55:40 |
+| Lobby ID | 28591704304019813 |
+| Players | 4/8 |
+| Host Name | akigarsu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:56:38 |
 
 
 |  | ot3_desert_octet |
@@ -83,67 +83,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:54:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704303913789 |
-| Players | 6/8 |
-| Host Name | andrey |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:56:32 |
+| Lobby ID | 28591704304175895 |
+| Players | 4/10 |
+| Host Name | Mango Pluto |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:56:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704303388643 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Yo, Panthro |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:56:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704303713857 |
-| Players | 4/10 |
-| Host Name | aldapsiger |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:56:21 |
+| Lobby ID | 28591704301552800 |
+| Players | 14/15 |
+| Host Name | Сын Маминой Подруги |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:54:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704303950291 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | РИВ ГОШ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:56:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704304016321 |
-| Players | 3/8 |
-| Host Name | СОЛЕВОЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:56:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704304019813 |
-| Players | 3/8 |
-| Host Name | akigarsu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:56:38 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704304083176 |
+| Lobby ID | 28591704304281284 |
 | Players | 1/15 |
-| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:56:41 |
+| Host Name | ЄXѺҬӉЄГӍіС |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:56:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704304289284 |
+| Players | 3/8 |
+| Host Name | EIFORETIK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:56:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,5 +153,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | rashaash_305 |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:56:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704304185293 |
+| Players | 2/10 |
+| Host Name | Ginger or Ni...r? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:56:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704304250691 |
+| Players | 1/5 |
+| Host Name | orochishmaru |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:56:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704304285437 |
+| Players | 1/10 |
+| Host Name | OnlyPos1&3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:56:52 |
 
 
