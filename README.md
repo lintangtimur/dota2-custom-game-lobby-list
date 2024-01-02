@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549958369839 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Repow |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:08:35 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549956465936 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Bulach4 |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:04:59 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28590549958531726 |
 | Players | 2/24 |
-| Host Name | Jon Snow |
+| Host Name | Thanagor |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:08:53 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549957918598 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:07:44 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549958074171 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | DANTE SPARTA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:08:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549958757547 |
+| Players | 2/10 |
+| Host Name | Device |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:09:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549958817359 |
+| Players | 1/24 |
+| Host Name | Disastrous Luck |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:09:26 |
 
 
 |  | epic_boss_fight_nightmare |
