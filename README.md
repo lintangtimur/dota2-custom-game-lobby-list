@@ -20,37 +20,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:24:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550296476726 |
+| Players | 2/8 |
+| Host Name | RAMDOG666 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:28:30 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550295914030 |
-| Players | 9/10 |
-| Host Name | ๖ۣۣۜпупок🥵 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:27:53 |
+| Lobby ID | 28590550296333390 |
+| Players | 6/10 |
+| Host Name | ДЫМОК |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:28:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550296046020 |
-| Players | 3/8 |
-| Host Name | ? |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:28:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550296273237 |
-| Players | 1/15 |
-| Host Name | Power Pooch |
+| Lobby ID | 28590550296535522 |
+| Players | 1/8 |
+| Host Name | очко мам |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:28:17 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:28:34 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550291064022 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Cerberus_7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:22:35 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ENEKANDO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:26:58 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28590550296812161 |
+| Players | 2/7 |
+| Host Name | BILZZZ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:28:52 |
 
 
