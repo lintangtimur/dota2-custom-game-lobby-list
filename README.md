@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549919469058 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 3L 1L3G4L |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:54:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549920753282 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | я выиграю |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:57:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549919905604 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Brosnan |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:55:48 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | volshebniy69 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:58:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549921286356 |
+| Players | 10/15 |
+| Host Name | dog spirit |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:58:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549921321532 |
+| Players | 1/15 |
+| Host Name | Yves Saint Laurent |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:58:24 |
 
 
 |  | epic_boss_fight_nightmare |
