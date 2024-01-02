@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550064941158 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Fatu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:34:21 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:35:45 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550065854938 |
+| Players | 1/8 |
+| Host Name | ♥Chloe♥ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:36:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550042786362 |
@@ -92,21 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:44 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550064612682 |
-| Players | 7/10 |
-| Host Name | Valiant |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:33:44 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590550065775488 |
-| Players | 1/5 |
-| Host Name | GULINGKAN PEMERINTAHAN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:35:56 |
+| Lobby ID | 28590550064551781 |
+| Players | 4/5 |
+| Host Name | Raynuva |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:33:37 |
 
 
