@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:37:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704525687563 |
-| Players | 9/15 |
-| Host Name | Stratimo |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:37:43 |
+| Lobby ID | 28591704526029442 |
+| Players | 1/8 |
+| Host Name | Jeam16 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:38:05 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704523966632 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | CHinoKoo* |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:35:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704510757112 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Alotte |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:21:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704524527316 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | is it you? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:36:27 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | someone clipped my wings |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:38:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704526065749 |
+| Players | 2/15 |
+| Host Name | Antares mode: |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:38:08 |
 
 
 |  | epic_boss_fight_challenger |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DUB |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:37:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704523866619 |
+| Players | 2/5 |
+| Host Name | цокцок у него поя |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:35:45 |
 
 
