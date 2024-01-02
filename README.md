@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:02:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550049303139 |
-| Players | 21/24 |
-| Host Name | Chrispy |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:04:21 |
+| Lobby ID | 28590550050533284 |
+| Players | 1/10 |
+| Host Name | TommyKiIIHigger |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:06:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 76561199196836346 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:06:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550050533284 |
-| Players | 1/10 |
-| Host Name | TommyKiIIHigger |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:06:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550050731287 |
-| Players | 1/10 |
-| Host Name | Necomint |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:07:03 |
 
 
 |  | epic_boss_fight_nightmare |
