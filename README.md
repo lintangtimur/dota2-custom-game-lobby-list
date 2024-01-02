@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:55:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550270965411 |
-| Players | 12/15 |
-| Host Name | Insane |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:59:32 |
+| Lobby ID | 28590550271636470 |
+| Players | 3/8 |
+| Host Name | 55 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:00:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550271298942 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | I'm Milk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:59:55 |
@@ -38,10 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:59:18 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550271597917 |
+| Players | 1/8 |
+| Host Name | Caz |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:00:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550261652981 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Kongandeu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:48:04 |
