@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549972047966 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | s4 el cacheraso |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:34:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549971764670 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Stray |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:34:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549971750216 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | GreeD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:34:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549971084689 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Hatsui |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:33:00 |
@@ -86,10 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549972011448 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Сидролюб со стажем |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:34:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549970451253 |
+| Players | 2/8 |
+| Host Name | Bye ST€@M, Bye Dota |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:31:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549972169067 |
+| Players | 4/10 |
+| Host Name | yung nim |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:35:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549972196641 |
+| Players | 6/8 |
+| Host Name | OtaGame |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:35:06 |
 
 
 |  | epic_boss_fight_nightmare |
