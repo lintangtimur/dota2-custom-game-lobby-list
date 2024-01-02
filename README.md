@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550346593093 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Flux |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:19:36 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550347210741 |
-| Players | 9/10 |
-| Host Name | Nzo |
+| Lobby ID | 28590550348064196 |
+| Players | 2/10 |
+| Host Name | CherryPadlo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:20:11 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:21:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550345670209 |
-| Players | 14/15 |
+| Players | 15/15 |
 | Host Name | Fenix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:18:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550347991917 |
-| Players | 1/8 |
-| Host Name | NIKO NIKO NI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:20:56 |
 
 
 |  | epic_boss_fight_challenger |
