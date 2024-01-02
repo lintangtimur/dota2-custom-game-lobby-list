@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549986512217 |
-| Players | 8/10 |
-| Host Name | mooDfO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:02:39 |
+| Lobby ID | 28590549985989058 |
+| Players | 13/15 |
+| Host Name | Anita Max Wynn |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:01:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549987423234 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Vaxsal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:04:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549987340283 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Aesgard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:04:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549986737633 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Jane.A7x |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:03:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549986240729 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:08 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549987336069 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:04:14 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549982088427 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:54:04 |
