@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704470333247 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Chomosuke |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:38:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704471831920 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | ded |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:40:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704467019138 |
-| Players | 23/24 |
+| Players | 21/24 |
 | Host Name | Dion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:35:23 |
@@ -110,19 +110,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:39:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704473104448 |
-| Players | 7/15 |
-| Host Name | Усатый Хряк |
+| Lobby ID | 28591704473527326 |
+| Players | 4/8 |
+| Host Name | SolloYolo banditcamp.com |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:41:45 |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:42:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704473385821 |
+| Players | 2/10 |
+| Host Name | bluelock pp = worst subhuman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:42:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704473403458 |
+| Players | 2/8 |
+| Host Name | CooLeR |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:42:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704472073428 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | КРУТОЙ ПУЗЫРЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:40:40 |
@@ -135,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Belike柠檬ICE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:40:24 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28591704473407051 |
+| Players | 4/7 |
+| Host Name | ✪SĦI₦Ę✪ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:42:04 |
 
 
