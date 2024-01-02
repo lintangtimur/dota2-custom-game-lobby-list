@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:56:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549952292149 |
-| Players | 22/24 |
-| Host Name | Frank Zappa |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:57:00 |
+| Lobby ID | 28590549952797754 |
+| Players | 7/10 |
+| Host Name | D'Boyd |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:57:59 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549952935302 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | I Have No Enemies |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:58:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549952073402 |
-| Players | 9/10 |
-| Host Name | JOJO is back...? |
+| Lobby ID | 28590549953009987 |
+| Players | 4/8 |
+| Host Name | shit shit shit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:56:34 |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:58:23 |
 
 
 |  | ot3_gardens_duo |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549952770201 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:57:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549952797754 |
-| Players | 7/10 |
-| Host Name | D'Boyd |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:57:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549953009987 |
-| Players | 3/8 |
-| Host Name | shit shit shit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:58:23 |
+| Lobby ID | 28590549953098239 |
+| Players | 1/24 |
+| Host Name | HASIP |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:58:33 |
 
 
 |  | epic_boss_fight_normal |
