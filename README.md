@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549971750216 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | GreeD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:34:16 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549972169067 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | i n sanity |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:35:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549970451253 |
-| Players | 6/8 |
-| Host Name | Bye ST€@M, Bye Dota |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:31:49 |
+| Lobby ID | 28590549972511425 |
+| Players | 6/15 |
+| Host Name | blackeap54 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:35:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:35:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549972362615 |
-| Players | 2/10 |
-| Host Name | FAR1NOM |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:35:25 |
+| Lobby ID | 28590549972832881 |
+| Players | 1/24 |
+| Host Name | Tobias EAton |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:36:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -137,28 +137,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:35:28 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549972511425 |
-| Players | 3/15 |
-| Host Name | blackeap54 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:35:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549972782299 |
-| Players | 1/10 |
-| Host Name | Yolo |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:36:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549970334935 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:31:35 |
