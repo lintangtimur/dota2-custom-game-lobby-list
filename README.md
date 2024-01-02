@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704145629339 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Kaleen bhaiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:40:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704146440227 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | 76561198254294132 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:41:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704145900103 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Dosu Kinuta |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:40:43 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704146295903 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Леха |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:41:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704146641584 |
+| Players | 5/8 |
+| Host Name | Хлеб |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:41:28 |
 
 
 |  | epic_boss_fight_nightmare |
