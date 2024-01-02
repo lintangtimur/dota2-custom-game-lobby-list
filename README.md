@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704313885403 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | yshkalover |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:05:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704324960634 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | dolibo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:15:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704319039710 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Leo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:10:02 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704324348847 |
-| Players | 9/10 |
-| Host Name | ElektroSchokk |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:14:50 |
+| Lobby ID | 28591704325173042 |
+| Players | 2/10 |
+| Host Name | Wukash |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:15:34 |
 
 
 |  | ot3_desert_octet |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ساندیس |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:13:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704325173042 |
-| Players | 2/10 |
-| Host Name | Dictus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:15:34 |
 
 
 |  | epic_boss_fight_nightmare |
