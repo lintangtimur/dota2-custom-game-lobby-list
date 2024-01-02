@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550069178164 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | JamesWebb |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:42:23 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550069827190 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:43:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550069723646 |
-| Players | 14/15 |
-| Host Name | 打自己的位置要有逼数 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:43:25 |
+| Lobby ID | 28590550070703650 |
+| Players | 3/24 |
+| Host Name | Lulalelilo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:45:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550069087523 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:42:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550070182822 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | --MID-CONTROL-- |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:44:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550070188254 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | 東方白 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:44:19 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | STRYG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:44:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550070703650 |
-| Players | 3/24 |
-| Host Name | Lulalelilo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:45:19 |
 
 
 |  | epic_boss_fight_nightmare |
