@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550157806373 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Shazam Hussein |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:19:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550157274987 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | BubiBubi |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:18:46 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cinderella |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:20:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550158213577 |
+| Players | 1/5 |
+| Host Name | а) |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:20:16 |
 
 
