@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:57:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549952935302 |
-| Players | 10/15 |
-| Host Name | I Have No Enemies |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:58:15 |
+| Lobby ID | 28590549953452618 |
+| Players | 2/24 |
+| Host Name | NO HAY PLATA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:59:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549953009987 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | shit shit shit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:58:23 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:57:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549953452618 |
-| Players | 2/24 |
-| Host Name | NO HAY PLATA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:59:14 |
+| Lobby ID | 28590549953534660 |
+| Players | 4/10 |
+| Host Name | Semite |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:59:23 |
 
 
 |  | epic_boss_fight_normal |
