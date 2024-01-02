@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549985989058 |
-| Players | 14/15 |
-| Host Name | Anita Max Wynn |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:01:39 |
+| Lobby ID | 28590549987705949 |
+| Players | 1/8 |
+| Host Name | Матюша |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:04:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549987423234 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Vaxsal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:04:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549987340283 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Aesgard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:04:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549986619907 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | niewdele |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549986240729 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:08 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549987336069 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:04:14 |
@@ -113,25 +113,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549987577303 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:04:42 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549987705949 |
-| Players | 1/8 |
-| Host Name | Матюша |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:04:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549982088427 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:54:04 |
