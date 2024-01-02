@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550149634213 |
-| Players | 7/8 |
-| Host Name | Moon |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:06:24 |
+| Lobby ID | 28590550152333359 |
+| Players | 2/10 |
+| Host Name | Nomi |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:10:48 |
 
 
 |  | ot3_gardens_duo |
@@ -32,34 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550154296250 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:13:57 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550152333359 |
-| Players | 2/10 |
-| Host Name | Nomi |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:10:48 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550156121805 |
-| Players | 14/15 |
-| Host Name | Бочонок сока |
+| Lobby ID | 28590550156487032 |
+| Players | 1/15 |
+| Host Name | fanqq |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:16:55 |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:17:30 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550152218920 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | pure clown |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:10:37 |
@@ -68,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550151956882 |
-| Players | 3/10 |
-| Host Name | Mr.Nicky^ |
+| Players | 2/10 |
+| Host Name | Mr.Henky |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:10:11 |
 
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550154383701 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | OnlyGOD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:14:05 |
