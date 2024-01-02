@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704153120311 |
-| Players | 5/10 |
-| Host Name | E.N.D |
+| Lobby ID | 28591704142373631 |
+| Players | 1/24 |
+| Host Name | Турбо |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:47:49 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:37:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704148686427 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:43:28 |
@@ -47,31 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:03:08 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704153659133 |
+| Players | 3/10 |
+| Host Name | Gost |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:48:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704153654383 |
+| Players | 1/10 |
+| Host Name | GhasT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:48:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704153696123 |
+| Players | 6/15 |
+| Host Name | G1uc0se |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:48:21 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704153023947 |
-| Players | 7/8 |
-| Host Name | ДЯДЯ БОРЯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:47:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704142373631 |
-| Players | 1/24 |
-| Host Name | Турбо |
+| Lobby ID | 28591704153714877 |
+| Players | 1/8 |
+| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:37:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704153504272 |
-| Players | 2/8 |
-| Host Name | Landshark |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:48:10 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:48:22 |
 
 
 |  | epic_boss_fight_normal |
