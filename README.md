@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704571384376 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Viola Ray |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:27:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704562182676 |
-| Players | 23/24 |
-| Host Name | LUNGTONG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:17:44 |
+| Lobby ID | 28591704571573467 |
+| Players | 1/8 |
+| Host Name | Kchau |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:28:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704570541463 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:26:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704570515199 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Первая кровь |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:26:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704571294409 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | не поел плов кристины |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:27:51 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704571358854 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | BooB |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:27:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704571496658 |
+| Players | 2/8 |
+| Host Name | Scalp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:28:04 |
 
 
 |  | epic_boss_fight_challenger |
