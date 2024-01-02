@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550212341706 |
-| Players | 10/15 |
-| Host Name | Smurf Hunter |
+| Lobby ID | 28590550213328572 |
+| Players | 2/10 |
+| Host Name | МИЛАНА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:42:12 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:43:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550213015784 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ЧВК Рыган |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:43:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550198824532 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:22:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550212477942 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | creep enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:42:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550213167630 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ضصثقفغع شسيبلا |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:43:22 |
