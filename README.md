@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704182509537 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:14:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704181576727 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | PenoDewey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:13:30 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:59:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704183317379 |
-| Players | 5/8 |
-| Host Name | Анимешников в загон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:14:56 |
+| Lobby ID | 28591704184450663 |
+| Players | 2/15 |
+| Host Name | Mr. Scrop's |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:15:55 |
 
 
 |  | ot3_gardens_duo |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704183389238 |
-| Players | 6/10 |
-| Host Name | + |
+| Players | 7/10 |
+| Host Name | Miles Morales |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:15:00 |
 
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704178459455 |
-| Players | 3/5 |
-| Host Name | milota |
+| Players | 2/5 |
+| Host Name | No_0b [F@ST] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:10:46 |
 
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | what the dog doin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:11:39 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28591704184482694 |
+| Players | 1/7 |
+| Host Name | Kimchi rice |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:15:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704184529495 |
+| Players | 1/10 |
+| Host Name | #TipR.I.P. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:15:59 |
 
 
