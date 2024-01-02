@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550270773794 |
-| Players | 7/15 |
+| Players | 3/15 |
 | Host Name | callmegod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:59:18 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550275903606 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 赫 子 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:05:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550276078546 |
+| Players | 2/15 |
+| Host Name | Kabzy |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:05:31 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550275479203 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | SUP IS MY LIFE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:04:50 |
