@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550067575092 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Huvu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:39:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550068632794 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Smiley Trashbag |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:41:20 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:42:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550069081057 |
-| Players | 1/15 |
-| Host Name | zzzzz |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:42:12 |
+| Lobby ID | 28590550065237859 |
+| Players | 8/10 |
+| Host Name | WoodyPlant |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:34:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550064036435 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Lon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:32:38 |
