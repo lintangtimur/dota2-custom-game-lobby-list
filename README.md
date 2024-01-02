@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550021762038 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Decadance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:11:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550020032721 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:07:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550013417467 |
-| Players | 6/24 |
+| Players | 2/24 |
 | Host Name | StelioKontos |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:55:02 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550021145511 |
-| Players | 21/24 |
-| Host Name | kiyopon |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:10:00 |
+| Lobby ID | 28590550022590232 |
+| Players | 3/24 |
+| Host Name | Dccc` |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:12:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550018169969 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ✡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:04:16 |
@@ -85,26 +85,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550022463985 |
+| Lobby ID | 28590550022511344 |
 | Players | 3/8 |
-| Host Name | minuta planki raz v den |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:12:32 |
+| Host Name | Наменявсесмотрят |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:12:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550022469556 |
-| Players | 4/8 |
-| Host Name | 930107629 ESCRIBEME Y PASO CP |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:12:32 |
+| Lobby ID | 28590550022587591 |
+| Players | 1/10 |
+| Host Name | Ark.Tect- |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:12:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550022655400 |
+| Players | 2/15 |
+| Host Name | TypicalTN |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:12:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550018345098 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | >OnLy LoVe< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:04:37 |
