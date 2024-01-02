@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704235599501 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | rttm |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:58:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704204742848 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | tocosh |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:33:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704231352213 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Evol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:55:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704235185698 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | мальчик мандарин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:58:25 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704235487246 |
-| Players | 2/8 |
-| Host Name | Берсеркек |
+| Lobby ID | 28591704228939100 |
+| Players | 1/8 |
+| Host Name | dead outside 牡zxc beast牡 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:58:40 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:53:14 |
 
 
 |  | ot3_gardens_duo |
@@ -112,20 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704235110783 |
-| Players | 14/15 |
-| Host Name | ⛥スwhite princeス⛥怒savag |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:58:21 |
+| Lobby ID | 28591704236259211 |
+| Players | 2/15 |
+| Host Name | 9mice |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:59:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704228939100 |
-| Players | 1/8 |
-| Host Name | dead outside 牡zxc beast牡 |
+| Lobby ID | 28591704236294257 |
+| Players | 3/8 |
+| Host Name | 322 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:53:14 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:59:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704236312652 |
+| Players | 2/15 |
+| Host Name | 不买眼会死 |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:59:21 |
 
 
 |  | epic_boss_fight_nightmare |
