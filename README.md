@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550106959597 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ƒuke |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550106851991 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Хз какой ник |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:37 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550103378537 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:21 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550104338679 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:48:06 |
@@ -108,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 灵犀一指 |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:03 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28590550107116614 |
-| Players | 1/7 |
-| Host Name | samosty |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:53:05 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550107121957 |
-| Players | 1/5 |
-| Host Name | 神の一手 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:53:06 |
 
 
