@@ -5,37 +5,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550257658790 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:43:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550261937611 |
-| Players | 9/10 |
-| Host Name | K!SS QWE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:48:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550261632573 |
-| Players | 7/15 |
-| Host Name | 收割者🖤 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:48:03 |
+| Lobby ID | 28590550262704191 |
+| Players | 2/24 |
+| Host Name | 聚光灯往哪儿打 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:49:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550262499105 |
-| Players | 4/8 |
-| Host Name | dpr |
+| Lobby ID | 28590550263061042 |
+| Players | 5/8 |
+| Host Name | GostRed |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:49:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550262625727 |
+| Players | 7/10 |
+| Host Name | Vize |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:49:06 |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:49:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -45,5 +45,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kongandeu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:48:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550262817013 |
+| Players | 3/5 |
+| Host Name | Kenny Mccormick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:49:30 |
 
 
