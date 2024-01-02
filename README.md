@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549999483711 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Слава сыр колбасс |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:27:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549986473683 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | PJ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550000678193 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | F1NNN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:30:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550000759313 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | La parquita |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:30:25 |
@@ -95,19 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550001021076 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Jane.A7x |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:30:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549999865797 |
+| Players | 14/15 |
+| Host Name | spartacus |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:28:41 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550001024217 |
+| Lobby ID | 28590550001100323 |
 | Players | 1/24 |
-| Host Name | ToñoBaby |
+| Host Name | Nekotactical |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:30:55 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:31:04 |
 
 
 |  | epic_boss_fight_nightmare |
