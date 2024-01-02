@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704453750224 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Attentäter |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:21:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704450657472 |
-| Players | 14/24 |
+| Players | 10/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:18:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704454573369 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Maily |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:22:22 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704455372547 |
-| Players | 4/10 |
-| Host Name | テイラー・スウィフト |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:23:11 |
+| Lobby ID | 28591704455515018 |
+| Players | 2/10 |
+| Host Name | Full-Time Griefer |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:23:20 |
 
 
 |  | ot3_gardens_duo |
@@ -92,40 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:22:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704455168764 |
-| Players | 9/10 |
-| Host Name | kas |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:22:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704452854602 |
-| Players | 2/10 |
-| Host Name | Шадоуфид |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:20:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704455515018 |
-| Players | 2/10 |
-| Host Name | Full-Time Griefer |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:23:20 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704455541477 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | ¿ザニ ^-^ 薬局 ♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:23:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704455718710 |
+| Players | 3/8 |
+| Host Name | per aspera ad astra |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:23:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704455758363 |
+| Players | 2/8 |
+| Host Name | РАДИО МАСТЕР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:23:35 |
 
 
 |  | epic_boss_fight_normal |
