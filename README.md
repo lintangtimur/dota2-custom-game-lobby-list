@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550023730894 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | COVID - 19 |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:14:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550022655400 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | TypicalTN |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:12:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550023732273 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Señor autoplacer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:14:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550023405688 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | DaRealS_Cansec |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:14:18 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | |MS13| dams |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:15:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550024502183 |
+| Players | 1/15 |
+| Host Name | MAX PAIN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:16:26 |
 
 
 |  | epic_boss_fight_nightmare |
