@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:55:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704597391876 |
-| Players | 4/10 |
-| Host Name | MAIMALAGA |
+| Lobby ID | 28591704598294134 |
+| Players | 1/24 |
+| Host Name | Pablo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:57:13 |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:58:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704597676297 |
-| Players | 8/10 |
-| Host Name | HUGE |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:57:33 |
+| Lobby ID | 28591704592844161 |
+| Players | 21/24 |
+| Host Name | gfreek |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:51:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704598068867 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | SM |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:58:01 |
@@ -94,35 +94,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704598070142 |
-| Players | 10/15 |
-| Host Name | always bet on me |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:58:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28591704598177257 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | ☆ VAZ ☆ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:58:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704592844161 |
-| Players | 21/24 |
-| Host Name | gfreek |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:51:57 |
+| Lobby ID | 28591704598384098 |
+| Players | 1/10 |
+| Host Name | sorriso.sornione |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:58:22 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28591704592268193 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Maqs |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:51:19 |
