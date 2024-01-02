@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:43:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550069827190 |
-| Players | 7/8 |
-| Host Name | Kärss |
+| Lobby ID | 28590550070188254 |
+| Players | 5/10 |
+| Host Name | 東方白 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:43:37 |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:44:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550070703650 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:45:19 |
@@ -59,37 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550070182822 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | --MID-CONTROL-- |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:44:18 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550070188254 |
-| Players | 7/10 |
-| Host Name | 東方白 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:44:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550070452345 |
-| Players | 5/10 |
-| Host Name | ❤️ur bfs fav dj ❤ |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:44:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550071178135 |
-| Players | 4/8 |
-| Host Name | ジュリト |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:46:13 |
+| Lobby ID | 28590550071608791 |
+| Players | 3/8 |
+| Host Name | ❄️MIlF HuntΣr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:47:02 |
 
 
 |  | epic_boss_fight_nightmare |
