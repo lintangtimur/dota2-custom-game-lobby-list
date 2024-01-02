@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549955492016 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Soulwarrior |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:03:08 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549954343068 |
-| Players | 22/24 |
-| Host Name | Potatoes gonna potate! |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:00:57 |
+| Lobby ID | 28590549955812771 |
+| Players | 3/24 |
+| Host Name | El Maldito Tedy |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:03:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549955755617 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Jackawaka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:03:38 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549955538642 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | ヘスス |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:03:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549955317570 |
-| Players | 9/10 |
-| Host Name | JULES |
+| Lobby ID | 28590549955912665 |
+| Players | 1/15 |
+| Host Name | rsny |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:02:48 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:03:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:03:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549955812771 |
-| Players | 2/24 |
-| Host Name | El Maldito Tedy |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:03:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549955883631 |
-| Players | 3/8 |
-| Host Name | SLEEP |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:03:53 |
+| Lobby ID | 28590549955986074 |
+| Players | 1/10 |
+| Host Name | Sailor FreakMoon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:04:05 |
 
 
