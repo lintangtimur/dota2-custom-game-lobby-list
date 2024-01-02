@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704509586100 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | FELIZ AÑO NUEVO!!!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:20:21 |
@@ -14,34 +14,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704510515592 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | rasmus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:21:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704504382029 |
-| Players | 7/8 |
-| Host Name | Матюша |
+| Lobby ID | 28591704511234647 |
+| Players | 6/24 |
+| Host Name | AbadiG |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:14:49 |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:22:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704508079013 |
-| Players | 12/15 |
-| Host Name | EAAM |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:18:43 |
+| Lobby ID | 28591704511235172 |
+| Players | 2/15 |
+| Host Name | Yume |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:22:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704509410029 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Tomohise-Sako |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:20:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704510163033 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | didldu |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:20:58 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704511120050 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Great Admiral of Mongol Empire |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:21:59 |
@@ -113,28 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704511230560 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ленин |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:22:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704511234647 |
-| Players | 6/24 |
-| Host Name | AbadiG |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:22:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704511235172 |
+| Lobby ID | 28591704511407631 |
 | Players | 1/15 |
-| Host Name | Yume |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:22:06 |
+| Host Name | Canya rampage |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:22:17 |
 
 
 |  | epic_boss_fight_challenger |
@@ -148,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28591704506506812 |
-| Players | 9/10 |
-| Host Name | BugSplat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:17:03 |
+| Lobby ID | 28591704508833264 |
+| Players | 6/10 |
+| Host Name | Tihiy_Don |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:19:32 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Red Hot Chili Dima |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:19:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704508833264 |
-| Players | 7/10 |
-| Host Name | Tihiy_Don |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:19:32 |
 
 
