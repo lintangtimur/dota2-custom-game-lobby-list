@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704144954159 |
-| Players | 7/8 |
-| Host Name | Malice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:39:45 |
+| Lobby ID | 28591704145216762 |
+| Players | 5/15 |
+| Host Name | Теплота деда |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:40:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704142799836 |
-| Players | 12/15 |
+| Players | 9/15 |
 | Host Name | Junkie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:37:37 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704142373631 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Турбо |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:37:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704143042457 |
-| Players | 6/10 |
-| Host Name | Yaoshi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:37:52 |
 
 
 |  | ot3_gardens_duo |
@@ -83,19 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:40:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704145216762 |
-| Players | 5/15 |
-| Host Name | Теплота деда |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:40:01 |
+| Lobby ID | 28591704143042457 |
+| Players | 8/10 |
+| Host Name | Yaoshi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:37:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704145584364 |
+| Players | 1/8 |
+| Host Name | Ro2z |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:40:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704143085510 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | rohanec1993 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:37:54 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | A V A N T / G A R D E |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:40:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704145522810 |
+| Players | 1/10 |
+| Host Name | ``Univesal Killer`` |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:40:20 |
 
 
