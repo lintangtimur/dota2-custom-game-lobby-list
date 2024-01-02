@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550301568347 |
-| Players | 20/24 |
-| Host Name | noom |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:34:01 |
+| Lobby ID | 28590550304484995 |
+| Players | 3/8 |
+| Host Name | russian - report |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:37:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550303799022 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Rakafina♥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:36:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550304039033 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | мурчащий |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:36:38 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550298520360 |
-| Players | 17/24 |
-| Host Name | Artron |
+| Players | 15/24 |
+| Host Name | ^.^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:30:44 |
 
