@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549950398545 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Ja, Genau |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:53:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549947869474 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:48:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549950263501 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | XXXX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:52:59 |
@@ -56,12 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:52:48 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549950614340 |
+| Players | 4/8 |
+| Host Name | Krypton |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:53:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549950665712 |
+| Players | 2/24 |
+| Host Name | Last pick o fideo sibarita |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:53:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549949963559 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | WANDOT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:52:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549950667709 |
+| Players | 1/5 |
+| Host Name | Give Me Mana |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:53:45 |
 
 
