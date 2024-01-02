@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549997796019 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549954597716 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:01:26 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:02:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549998093910 |
-| Players | 6/10 |
-| Host Name | Decadance |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:25:11 |
+| Lobby ID | 28590549999865797 |
+| Players | 3/15 |
+| Host Name | spartacus |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:28:41 |
 
 
 |  | ot3_gardens_duo |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:27:57 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549995713809 |
-| Players | 7/10 |
-| Host Name | Легенда Приюта |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:20:27 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549997556725 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:05 |
@@ -94,35 +85,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549999678024 |
-| Players | 4/8 |
-| Host Name | гаргамель |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:28:20 |
+| Lobby ID | 28590549999547313 |
+| Players | 2/8 |
+| Host Name | s4 el cacheraso |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:28:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549999671481 |
-| Players | 1/15 |
-| Host Name | soma DK |
+| Players | 4/15 |
+| Host Name | YOU'LL NEVER WALK ALONE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:28:19 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549996263838 |
-| Players | 4/10 |
-| Host Name | Maharaja Lawana |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:21:31 |
+| Lobby ID | 28590549999904769 |
+| Players | 5/8 |
+| Host Name | SU JUEGO DE MRD SE ACABA AQUI |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:28:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549998716837 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | canon event |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:26:28 |
