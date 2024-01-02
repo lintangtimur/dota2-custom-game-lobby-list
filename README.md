@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704217426327 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | BMZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:43:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704199816242 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | Reiz |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:29:01 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704217693741 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Максим Анатольевич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:43:48 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704213671244 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:40:25 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704217861223 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | Agui |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:43:56 |
