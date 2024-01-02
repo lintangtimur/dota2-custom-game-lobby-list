@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704175701773 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | «ØvêℜÐøšê» |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:08:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550329469073 |
-| Players | 13/15 |
-| Host Name | ..c.I.e.. |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:03:08 |
+| Lobby ID | 28591704176045065 |
+| Players | 6/10 |
+| Host Name | ShelbyWalk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:08:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704171794541 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Albian |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:04:52 |
@@ -135,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:08:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704176045065 |
-| Players | 5/10 |
-| Host Name | ShelbyWalk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:08:39 |
 
 
 |  | epic_boss_fight_nightmare |
