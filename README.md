@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549951466259 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:55:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549951136300 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | water lilies |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:54:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549951277306 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ŧɇNf๘łĐ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:55:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549951090026 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Krokaska |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:54:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549950792956 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | ♥♦CentOS♣♠ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:54:00 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:54:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549951574179 |
-| Players | 1/10 |
-| Host Name | donquixxxote |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:55:35 |
+| Lobby ID | 28590549951590373 |
+| Players | 6/8 |
+| Host Name | D'Boyd |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:55:37 |
 
 
 |  | epic_boss_fight_nightmare |
