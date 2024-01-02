@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704237211746 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | PLODOTVOR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:00:04 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704210594514 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | YES |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:37:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704238861305 |
-| Players | 10/15 |
-| Host Name | Kadrul |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:01:26 |
+| Lobby ID | 28591704239058705 |
+| Players | 7/8 |
+| Host Name | NAVIGATOR |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:01:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704239122294 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | );dagry:( |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:01:39 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704237400539 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Chisato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:00:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704239058705 |
-| Players | 3/8 |
-| Host Name | NAVIGATOR |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:01:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -128,12 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:59:28 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704239231914 |
+| Players | 1/5 |
+| Host Name | kankhajurraaa |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:01:44 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28591704239061250 |
-| Players | 1/10 |
-| Host Name | ¸¸♬·¯·♩¸¸♪·¯·♫ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:01:36 |
+| Lobby ID | 28591704231377842 |
+| Players | 9/10 |
+| Host Name | brook ブルック |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:55:12 |
 
 
