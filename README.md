@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550341962650 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:15:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550345764399 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:18:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550347210741 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Nzo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:20:11 |
@@ -86,36 +86,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550347555937 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | xdsick666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:20:31 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550341850395 |
-| Players | 9/10 |
-| Host Name | CARBOON banditcamp.com |
+| Lobby ID | 28590550345670209 |
+| Players | 14/15 |
+| Host Name | Fenix |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:15:04 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:18:44 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550343616869 |
-| Players | 3/10 |
-| Host Name | 谜兔 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:16:47 |
+| Lobby ID | 28590550347991917 |
+| Players | 1/8 |
+| Host Name | NIKO NIKO NI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:20:56 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28590550346897547 |
-| Players | 5/7 |
+| Players | 6/7 |
 | Host Name | RksmeN^++ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:19:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550343616869 |
+| Players | 2/10 |
+| Host Name | 谜兔 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:16:47 |
 
 
