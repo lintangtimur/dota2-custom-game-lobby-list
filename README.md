@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704509586100 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | FELIZ AÑO NUEVO!!!! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:20:21 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704510515592 |
-| Players | 9/10 |
-| Host Name | rasmus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:21:20 |
+| Lobby ID | 28591704511740203 |
+| Players | 1/10 |
+| Host Name | DarkitOs[_] |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:22:38 |
 
 
 |  | ot3_desert_octet |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704511235172 |
-| Players | 2/15 |
-| Host Name | Yume |
+| Players | 6/15 |
+| Host Name | Dovahkiin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:22:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704509410029 |
-| Players | 9/10 |
-| Host Name | Tomohise-Sako |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:20:09 |
+| Lobby ID | 28591704510023085 |
+| Players | 8/10 |
+| Host Name | Bodison |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:20:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704510163033 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | didldu |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:20:58 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:21:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704511120050 |
-| Players | 11/15 |
-| Host Name | Great Admiral of Mongol Empire |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:21:59 |
+| Lobby ID | 28591704511713687 |
+| Players | 4/24 |
+| Host Name | сларк из волги |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:22:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -137,15 +137,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:22:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704511593144 |
-| Players | 1/15 |
-| Host Name | <BLANK> |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:22:29 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28591704487681403 |
@@ -158,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704508833264 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Tihiy_Don |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:19:32 |
