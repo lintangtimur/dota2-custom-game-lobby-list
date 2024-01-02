@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550099510102 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:39:17 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | æ Haku æ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:41:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550100558546 |
-| Players | 1/15 |
-| Host Name | partychief |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:41:11 |
 
 
 |  | epic_boss_fight_normal |
