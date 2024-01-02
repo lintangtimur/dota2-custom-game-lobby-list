@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550345214077 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Leslie Nielsen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:18:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550343142863 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | V1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:16:19 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550345209937 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | give me reason to prove me wrong |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:18:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550345661364 |
-| Players | 5/8 |
-| Host Name | бобёр |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:18:43 |
+| Lobby ID | 28590550345670209 |
+| Players | 6/15 |
+| Host Name | Fenix |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:18:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550345764399 |
+| Players | 6/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:18:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550342843748 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 10K Behavior Score |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:16:02 |
