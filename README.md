@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550045076081 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:56:17 |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:58:10 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550042855036 |
-| Players | 9/10 |
-| Host Name | Maharaja Lawana |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:51:51 |
+| Lobby ID | 28590550046213018 |
+| Players | 2/8 |
+| Host Name | xdxdxd |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:58:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550042786362 |
-| Players | 2/10 |
-| Host Name | Sweet Ass |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:51:44 |
+| Lobby ID | 28590550046255548 |
+| Players | 1/8 |
+| Host Name | Mitzy Te Extraño |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:58:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:53:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550042786362 |
+| Players | 2/10 |
+| Host Name | Sweet Ass |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:51:44 |
 
 
