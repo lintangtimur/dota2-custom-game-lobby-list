@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704454846242 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | SharKy |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:22:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704459236665 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:27:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704459403790 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | bali |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:27:26 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704457488273 |
-| Players | 9/10 |
-| Host Name | НИКОЛЬ |
+| Lobby ID | 28591704459953124 |
+| Players | 2/10 |
+| Host Name | Crrano.Goat |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:25:23 |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:28:01 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704456813601 |
-| Players | 7/8 |
+| Players | 8/8 |
 | Host Name | Elysium |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:24:40 |
@@ -95,25 +95,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704459488783 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | NANDITO (U) GRONE TLV ROJINEGRO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:27:31 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704460283093 |
+| Players | 1/15 |
+| Host Name | Jude Bellingham |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:28:22 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704459953124 |
-| Players | 2/10 |
-| Host Name | Crrano.Goat |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:28:01 |
+| Lobby ID | 28591704460314098 |
+| Players | 8/10 |
+| Host Name | Сильнее соли |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:28:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704460305443 |
+| Players | 2/15 |
+| Host Name | U.U |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:28:23 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704454548075 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | 1000+7 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:22:20 |
