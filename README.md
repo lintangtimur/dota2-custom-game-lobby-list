@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550234314929 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | SilkSong |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:12:52 |
@@ -29,22 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:11:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550234386511 |
-| Players | 9/10 |
-| Host Name | DieseL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:12:58 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550234575650 |
+| Lobby ID | 28590550234879927 |
 | Players | 1/8 |
-| Host Name | ---- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:13:13 |
+| Host Name | Caҥа Дьыл |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:13:37 |
 
 
 |  | ot3_jungle_quintet |
