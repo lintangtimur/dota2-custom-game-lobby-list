@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704216723064 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | YATOVOROT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:42:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704216776090 |
-| Players | 5/8 |
-| Host Name | EVian |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:43:01 |
+| Lobby ID | 28591704204742848 |
+| Players | 4/10 |
+| Host Name | tocosh |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:33:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704203684284 |
-| Players | 18/24 |
+| Players | 16/24 |
 | Host Name | Sinmsimi |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:32:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704216265327 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Hanni- |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:42:36 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:37:17 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704204742848 |
-| Players | 4/10 |
-| Host Name | tocosh |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:33:06 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704217008582 |
+| Lobby ID | 28591704217315824 |
 | Players | 1/8 |
-| Host Name | _a |
+| Host Name | PLODOTVOR |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:43:13 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:43:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704213671244 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:40:25 |
