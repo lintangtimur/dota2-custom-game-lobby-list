@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550209420265 |
-| Players | 9/10 |
-| Host Name | Gambi† Deda |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:38:03 |
+| Lobby ID | 28590550209497838 |
+| Players | 6/8 |
+| Host Name | Розовое облако |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:38:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550208586627 |
-| Players | 12/15 |
-| Host Name | lknlth99 |
+| Lobby ID | 28590550210173603 |
+| Players | 2/15 |
+| Host Name | Постельный рейдер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:36:51 |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:39:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550209451361 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | xD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:38:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550209497838 |
-| Players | 6/8 |
-| Host Name | Розовое облако |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:38:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550209190628 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Гнев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:37:44 |
