@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704591725829 |
-| Players | 3/24 |
-| Host Name | SONATA SLAY |
+| Players | 1/24 |
+| Host Name | SlowNope |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:50:42 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704590352857 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 我是法西斯主義者 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:49:10 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 02:50:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704591735834 |
-| Players | 1/15 |
-| Host Name | Dashe_ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:50:43 |
+| Lobby ID | 28591704591779610 |
+| Players | 3/10 |
+| Host Name | BluiaKA |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:50:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704591731809 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Тот самый курьер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:50:43 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ATWA |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:48:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704591769722 |
-| Players | 1/10 |
-| Host Name | sauciucromulus1 |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:50:45 |
 
 
