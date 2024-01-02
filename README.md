@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550169254972 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | dont talk to me |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:37:44 |
@@ -40,29 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550169747805 |
-| Players | 1/15 |
-| Host Name | Allmutedm#1p(lmfdt)1vs9winalone |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:38:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28590550169786239 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | GoriLL@ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:38:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550168323550 |
-| Players | 14/15 |
-| Host Name | ЇЇ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:36:18 |
 
 
 |  | epic_boss_fight_nightmare |
