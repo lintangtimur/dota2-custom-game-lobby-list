@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:49:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704224921976 |
-| Players | 12/15 |
-| Host Name | НА ХУЮ НАМОТАН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:49:52 |
+| Lobby ID | 28591704225304828 |
+| Players | 1/24 |
+| Host Name | chill doto |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:50:11 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704221490767 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | bdy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:47:01 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AMOS SLADE |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:37:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704224307551 |
-| Players | 4/8 |
-| Host Name | 無限の彼方へ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:49:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704224613859 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | ENEKANDO |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:49:37 |
