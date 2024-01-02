@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704330282106 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | Zeoleur |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:20:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704330228000 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ViktorSmiti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:20:08 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:19:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704332033349 |
-| Players | 6/8 |
-| Host Name | shadow fiend romantik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:21:48 |
+| Lobby ID | 28591704329803701 |
+| Players | 23/24 |
+| Host Name | o0oS2o0o |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:19:45 |
 
 
 |  | ot3_gardens_duo |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | whore(positive) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:22:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704330916949 |
-| Players | 13/15 |
-| Host Name | Lama Obama |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:20:46 |
 
 
 |  | epic_boss_fight_nightmare |
