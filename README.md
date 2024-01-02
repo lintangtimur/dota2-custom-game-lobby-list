@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:52:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549949609374 |
-| Players | 22/24 |
-| Host Name | Laura no esta... |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:51:45 |
+| Lobby ID | 28590549950398545 |
+| Players | 1/8 |
+| Host Name | Ja, Genau |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:53:14 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549950263501 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | XXXX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:52:59 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:52:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549950398545 |
-| Players | 1/8 |
-| Host Name | Ja, Genau |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:53:14 |
 
 
 |  | epic_boss_fight_nightmare |
