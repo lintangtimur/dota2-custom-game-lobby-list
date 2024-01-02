@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549962789223 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | asd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:17:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549962588827 |
-| Players | 1/15 |
-| Host Name | Zoon |
+| Lobby ID | 28590549962469637 |
+| Players | 7/8 |
+| Host Name | LordValdomero |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:16:38 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:16:24 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549962125009 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:15:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549962266325 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Ɗᴏ   σʀ    Ɗɪᴇㅤ⓿❸ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:16:01 |
@@ -85,10 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549962469637 |
-| Players | 6/8 |
-| Host Name | LordValdomero |
+| Lobby ID | 28590549962949078 |
+| Players | 1/8 |
+| Host Name | 痛苦与黑暗 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:16:24 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:17:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549962864645 |
+| Players | 1/10 |
+| Host Name | ЧИСТО БОНУСОМ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:17:10 |
 
 
