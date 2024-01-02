@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704275145740 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Latrell |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:31:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704282002237 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | ETRL-Nerd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:37:24 |
@@ -77,28 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704294784156 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Meepo |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:48:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704295007918 |
-| Players | 2/15 |
-| Host Name | Resistance |
+| Lobby ID | 28591704295228328 |
+| Players | 3/8 |
+| Host Name | shelban po klitory |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:48:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704295031082 |
-| Players | 1/24 |
-| Host Name | [C]all_Me_[P].o.r |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:48:43 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:48:54 |
 
 
 |  | ot3_gardens_duo |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704291298458 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Crazy Wolf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:45:27 |
