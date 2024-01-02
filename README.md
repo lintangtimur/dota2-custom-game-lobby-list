@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549897525824 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | мудила |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:15:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549896946746 |
-| Players | 7/8 |
-| Host Name | rico |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:14:12 |
+| Lobby ID | 28590549898162304 |
+| Players | 1/15 |
+| Host Name | Dazzle |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:16:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549893761182 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:08:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549897621562 |
-| Players | 2/15 |
+| Players | 11/15 |
 | Host Name | El cucuy |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:15:25 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549898074511 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Baz1S |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:16:13 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549896125103 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | RYOGA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:12:47 |
