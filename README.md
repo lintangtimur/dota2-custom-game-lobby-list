@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549928486215 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Geegee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:11:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549931540521 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:17:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549933206013 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | MoNsTeR! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:20:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549932556994 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ASESINO DE KBROS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:19:13 |
