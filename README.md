@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549923893073 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Steven - #Dota |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:03:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549923778976 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | zzzzz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:02:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549924376183 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Siuuuuu !!! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:04:01 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549924636159 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | w0of0o |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:04:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549923512986 |
-| Players | 14/15 |
-| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:02:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,21 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:04:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549924702417 |
-| Players | 1/8 |
-| Host Name | triplesix |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:04:37 |
+| Lobby ID | 28590549924783388 |
+| Players | 1/10 |
+| Host Name | サイネル_! RUGGE ! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:04:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549924713876 |
-| Players | 4/8 |
-| Host Name | . |
+| Lobby ID | 28590549924798390 |
+| Players | 4/10 |
+| Host Name | snus1337 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:04:38 |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:04:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549924798703 |
+| Players | 1/24 |
+| Host Name | UnreaL |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:04:48 |
 
 
