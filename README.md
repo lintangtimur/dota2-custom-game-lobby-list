@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549942252963 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:37:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | MADARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549942876189 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | You weak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:38:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549942747988 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:38:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549939966842 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | barrendero del SINDICATO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:33:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549942857281 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ЧУШПАН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:38:49 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Styll7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:36:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549943025488 |
+| Players | 1/5 |
+| Host Name | HIZBLED BIZANCIO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:39:08 |
 
 
