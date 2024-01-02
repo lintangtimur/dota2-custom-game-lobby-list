@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550070703650 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:45:19 |
@@ -50,18 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550072592373 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:48:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550072408901 |
-| Players | 1/15 |
-| Host Name | Vuvuzela Virtuoso Hans Rudolph |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:48:34 |
 
 
