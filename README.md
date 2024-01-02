@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704564210247 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Thalox123 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:19:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704560811579 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:16:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704564462262 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | zakipaju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:20:13 |
@@ -104,10 +104,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704564851057 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | перкоприниматель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:20:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704565204425 |
+| Players | 3/10 |
+| Host Name | ХРУСТАЛЬНАЯ СОВА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:21:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704565257723 |
+| Players | 5/8 |
+| Host Name | Seff |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:21:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704565299565 |
+| Players | 1/8 |
+| Host Name | FIRE IN THE HOLE🔥🔥🔥 |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:21:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704565286134 |
+| Players | 6/10 |
+| Host Name | Навэльный |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:21:09 |
 
 
 |  | epic_boss_fight_challenger |
