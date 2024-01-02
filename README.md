@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:09:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550335408140 |
-| Players | 8/10 |
-| Host Name | Mutant) |
+| Lobby ID | 28590550336632427 |
+| Players | 5/8 |
+| Host Name | Tsukumo Yuki |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:08:57 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:10:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:07:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550333768539 |
-| Players | 9/15 |
-| Host Name | @®Man |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:07:23 |
+| Lobby ID | 28590550336435512 |
+| Players | 3/8 |
+| Host Name | Я беру |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:09:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550336614253 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Курьер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:10:05 |
