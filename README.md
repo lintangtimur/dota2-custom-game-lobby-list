@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550016309660 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Vez Larkinson.. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:00:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550013738278 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | InspectorClouseau |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:55:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550014201006 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:56:38 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550015836496 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 安德鲁森图书馆管理员 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:59:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550014336438 |
-| Players | 8/10 |
-| Host Name | Слава сыр колбасс |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:56:54 |
+| Lobby ID | 28590550016615557 |
+| Players | 2/8 |
+| Host Name | Don Tortuga |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:01:17 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550015485815 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Jaylaps Brozingis |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:59:06 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550016573879 |
+| Lobby ID | 28590550016648019 |
 | Players | 1/8 |
-| Host Name | hinostroza |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:01:12 |
+| Host Name | Questionscrem |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:01:21 |
 
 
 |  | epic_boss_fight_nightmare |
