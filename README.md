@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704194101794 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | актриса |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:24:11 |
@@ -59,16 +59,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704193290338 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | meadow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:23:29 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704194460702 |
+| Players | 1/8 |
+| Host Name | Drago |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:24:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704190856124 |
+| Players | 4/8 |
+| Host Name | Shad- |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:21:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704194542392 |
+| Players | 1/15 |
+| Host Name | OK WBON |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:24:33 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28591704184482694 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | Kimchi rice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:15:56 |
@@ -77,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704190809718 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | asakurwa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:21:21 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28591704193347480 |
-| Players | 8/10 |
-| Host Name | mrllano |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:23:32 |
+| Lobby ID | 28591704194539899 |
+| Players | 1/5 |
+| Host Name | Verdrietig |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:24:33 |
 
 
