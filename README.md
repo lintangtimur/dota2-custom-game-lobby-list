@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549939647028 |
-| Players | 7/15 |
-| Host Name | Qushkan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:32:43 |
+| Lobby ID | 28590549939969210 |
+| Players | 3/24 |
+| Host Name | HEISENBERG |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:33:19 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549938927373 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:31:21 |
@@ -47,31 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:33:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549939781113 |
-| Players | 1/15 |
-| Host Name | Slarch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:32:58 |
+| Lobby ID | 28590549940157808 |
+| Players | 1/10 |
+| Host Name | Легенда Приюта |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:33:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549939354967 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | MAHLER HAMMER |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:32:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549939943481 |
-| Players | 1/10 |
-| Host Name | Легенда Приюта |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:33:16 |
+| Lobby ID | 28590549939966842 |
+| Players | 1/24 |
+| Host Name | EMz |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:33:19 |
 
 
 |  | epic_boss_fight_normal |
