@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704255270260 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Chad Chadinson |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:14:48 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:14:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704258441336 |
-| Players | 1/8 |
-| Host Name | огненный монах |
+| Lobby ID | 28591704259237689 |
+| Players | 3/24 |
+| Host Name | <Cyborgix> |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:17:27 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:18:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28591704258867858 |
 | Players | 3/8 |
-| Host Name | зажим яйцами |
+| Host Name | Продажник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:17:49 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704258633808 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | СИЛЬНЕЙШИЙ? |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:17:37 |
@@ -101,39 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:18:08 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28591704259237689 |
-| Players | 2/24 |
-| Host Name | <Cyborgix> |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:18:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704259267252 |
-| Players | 8/10 |
-| Host Name | я панда |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:18:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704259462314 |
-| Players | 5/10 |
-| Host Name | achechto |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:18:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704259479746 |
-| Players | 1/5 |
-| Host Name | SAVITAR |
+| Lobby ID | 28591704259520627 |
+| Players | 1/10 |
+| Host Name | x |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:18:20 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:18:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704259655861 |
+| Players | 1/10 |
+| Host Name | Fey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:18:28 |
 
 
