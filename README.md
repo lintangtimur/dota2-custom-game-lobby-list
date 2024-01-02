@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550187462980 |
-| Players | 5/10 |
-| Host Name | Dark Magician of Chaos |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:05:38 |
+| Lobby ID | 28590550188220650 |
+| Players | 1/15 |
+| Host Name | poison in my lungs kill me |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:06:45 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:49:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550185782361 |
-| Players | 9/10 |
-| Host Name | PirateStation |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:03:07 |
+| Lobby ID | 28590550188131115 |
+| Players | 1/24 |
+| Host Name | Nuterez |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:06:37 |
 
 
 |  | ot3_gardens_duo |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550187040228 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | mlg~ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:05:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550183982403 |
-| Players | 14/15 |
-| Host Name | Богатый Назим |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:00:23 |
 
 
 |  | epic_boss_fight_normal |
