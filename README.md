@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704454256399 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Mordragon |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:22:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704453540978 |
-| Players | 5/8 |
-| Host Name | Sk1ble |
+| Lobby ID | 28591704454349926 |
+| Players | 6/10 |
+| Host Name | vertu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:21:17 |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:22:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:18:18 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704454276115 |
-| Players | 5/10 |
-| Host Name | Jhony Ty Deski |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:22:03 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704454156883 |
-| Players | 7/8 |
-| Host Name | Pritosha |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:21:56 |
+| Lobby ID | 28591704454674989 |
+| Players | 1/8 |
+| Host Name | coneja tu kchera |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:22:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704454552530 |
+| Players | 6/15 |
+| Host Name | Кошкодевочка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:22:20 |
 
 
 |  | ot3_gardens_duo |
@@ -103,37 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704453139116 |
-| Players | 9/10 |
-| Host Name | 2oo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:20:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704454349926 |
-| Players | 2/10 |
-| Host Name | vertu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:22:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704454552530 |
-| Players | 2/15 |
-| Host Name | twitch.tv/los_q |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:22:20 |
+| Lobby ID | 28591704454573369 |
+| Players | 1/10 |
+| Host Name | Maily |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:22:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704449742332 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:17:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704454548075 |
+| Players | 1/5 |
+| Host Name | 1000+7 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:22:20 |
 
 
