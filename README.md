@@ -49,15 +49,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550174839477 |
-| Players | 1/15 |
-| Host Name | WIZARD |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:46:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28590550174835746 |
 | Players | 1/15 |
 | Host Name | ZoSo |
