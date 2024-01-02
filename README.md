@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550344806837 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:17:55 |
@@ -67,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704143580777 |
-| Players | 14/15 |
-| Host Name | n1ce* |
-| Region | STOCKHOLM |
+| Lobby ID | 28591704143576961 |
+| Players | 1/15 |
+| Host Name | Kalabaka |
+| Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:38:21 |
 
 
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704143495088 |
-| Players | 3/8 |
-| Host Name | Demonic Fox |
+| Lobby ID | 28591704144248143 |
+| Players | 1/8 |
+| Host Name | Gadot |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:38:16 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:39:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704143851419 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Connmal |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:38:38 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:37:12 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704143576961 |
-| Players | 1/15 |
-| Host Name | Kalabaka |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:38:21 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704143085510 |
@@ -130,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28591704144116966 |
+| Lobby ID | 28591704144282968 |
 | Players | 1/5 |
-| Host Name | SmiLe- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:38:54 |
+| Host Name | thnat.ptn24 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:39:04 |
 
 
