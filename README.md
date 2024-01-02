@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550052324247 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Lucky |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:10:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550051155473 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Farewell, My paradise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:07:52 |
