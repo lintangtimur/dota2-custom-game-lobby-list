@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550116049828 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:09:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550119406668 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Spaceman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:14:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550117064904 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | NIJI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:10:54 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 1 MMR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:16:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550120190903 |
+| Players | 1/15 |
+| Host Name | blackeap54 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:16:19 |
 
 
 |  | epic_boss_fight_nightmare |
