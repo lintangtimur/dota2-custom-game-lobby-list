@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550079993428 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | フランシュチョウ-ゾン |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:03:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550080193422 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:03:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550080921156 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Woofer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:04:47 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | < blank > |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:06:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550081730538 |
+| Players | 1/8 |
+| Host Name | Mitzy Te Extraño |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:06:18 |
 
 
 |  | epic_boss_fight_nightmare |
