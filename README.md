@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:39:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550169786239 |
-| Players | 13/15 |
-| Host Name | GoriLL@ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:38:34 |
+| Lobby ID | 28590550171363275 |
+| Players | 1/8 |
+| Host Name | qweexer |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:41:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550166165579 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Scrappy CoCo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:32:58 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | vvw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:40:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550171319292 |
-| Players | 1/5 |
-| Host Name | Illuminati-whitebeard之单边手邦limpa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:40:59 |
 
 
