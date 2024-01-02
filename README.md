@@ -11,31 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:44:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550256603841 |
-| Players | 22/24 |
-| Host Name | PenoDewey |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:41:46 |
+| Lobby ID | 28590550258910332 |
+| Players | 2/8 |
+| Host Name | ꃅꍏꈤꀘ꒒ꀤꈤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:44:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550257658790 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:43:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550258081958 |
-| Players | 12/15 |
-| Host Name | Игорь (Артём) |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:43:37 |
+| Lobby ID | 28590550258645771 |
+| Players | 3/8 |
+| Host Name | Над пивом |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:44:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | рик овенс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:44:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550258645771 |
-| Players | 3/8 |
-| Host Name | Над пивом |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:44:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550258910332 |
-| Players | 2/8 |
-| Host Name | ꃅꍏꈤꀘ꒒ꀤꈤ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:44:39 |
 
 
 |  | epic_boss_fight_nightmare |
