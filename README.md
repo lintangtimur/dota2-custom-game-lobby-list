@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550123526904 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Space-man ඞ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:22:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550122655714 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Kuroshimi/D/Shoot |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:20:32 |
