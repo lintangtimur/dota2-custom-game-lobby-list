@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704185303378 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Edgard RullezZ |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:16:39 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704200276686 |
-| Players | 9/10 |
-| Host Name | раскурим наши души |
+| Lobby ID | 28591704200959532 |
+| Players | 2/10 |
+| Host Name | Hussar |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:29:24 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:29:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,43 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704200660861 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | я єтот акаунт бущ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:29:42 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704198864429 |
-| Players | 14/15 |
-| Host Name | P a p o t i k o |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:28:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704200959532 |
-| Players | 2/10 |
-| Host Name | Hussar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:29:57 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704201226449 |
-| Players | 3/8 |
-| Host Name | Igninsan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:30:11 |
+| Lobby ID | 28591704201300280 |
+| Players | 1/8 |
+| Host Name | XiaoTy |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:30:14 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28591704184482694 |
-| Players | 4/7 |
+| Players | 3/7 |
 | Host Name | Kimchi rice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:15:56 |
