@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549982700005 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Yiegid |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:55:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549981238901 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | NAYUTA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:52:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549982404037 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | that"s your name? |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:54:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549983048771 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | ненавижу доту |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:56:01 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | rbg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:54:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549983079560 |
+| Players | 1/10 |
+| Host Name | Tu Rata Favorita |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:56:05 |
 
 
