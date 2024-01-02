@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:08:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549893367715 |
-| Players | 2/10 |
-| Host Name | :p |
+| Lobby ID | 28590549893485721 |
+| Players | 2/24 |
+| Host Name | koma´ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:08:02 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:08:14 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549888074718 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 06:59:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549893569408 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Poo Tin HUI_LO |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:08:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549893189309 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ⚡ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:07:43 |
@@ -85,20 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549893485721 |
-| Players | 2/24 |
-| Host Name | koma´ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:08:14 |
+| Lobby ID | 28590549893761182 |
+| Players | 1/24 |
+| Host Name | gfreek |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:08:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549893718733 |
-| Players | 1/15 |
-| Host Name | edit profile |
+| Lobby ID | 28590549893761771 |
+| Players | 2/10 |
+| Host Name | :p |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:08:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549893767275 |
+| Players | 1/8 |
+| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:08:38 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:08:43 |
 
 
 |  | epic_boss_fight_nightmare |
