@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550082971205 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Robert Lewangoalski |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:08:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550081614100 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Datedi |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:06:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550083776183 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Loquillo98 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:10:07 |
@@ -54,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Homicídio |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:08:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550084179908 |
+| Players | 1/10 |
+| Host Name | ໔ৡ♡♡ЖуЛиК ♡♡ৡ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:10:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550084221026 |
+| Players | 1/15 |
+| Host Name | I want to die |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:10:57 |
 
 
 |  | epic_boss_fight_nightmare |
