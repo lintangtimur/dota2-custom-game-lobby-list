@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550308400105 |
-| Players | 6/10 |
-| Host Name | Z-VA |
+| Players | 7/10 |
+| Host Name | Mango Pluto |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:41:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550307909566 |
-| Players | 7/8 |
-| Host Name | russian - report |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:40:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28590550306924642 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Snobias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:39:41 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550306803495 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Inui |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:39:33 |
