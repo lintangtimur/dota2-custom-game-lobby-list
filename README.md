@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550180515489 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | mia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:55:04 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:55:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550180506326 |
-| Players | 1/15 |
-| Host Name | 11:11 |
+| Lobby ID | 28590550180577261 |
+| Players | 1/8 |
+| Host Name | These Bitches Love SOSA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:55:03 |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:55:10 |
 
 
 |  | epic_boss_fight_normal |
