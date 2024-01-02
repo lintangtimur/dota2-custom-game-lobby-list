@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704456862766 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | rowa |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:24:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704460657365 |
-| Players | 4/10 |
-| Host Name | Oxidize |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:28:45 |
+| Lobby ID | 28591704460720231 |
+| Players | 4/8 |
+| Host Name | |||||||||||| |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:28:49 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704459142951 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:27:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704460723592 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Apтemий Tyзoзнaвeць |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:28:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704460283093 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Jude Bellingham |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:28:22 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704459488783 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | NANDITO (U) GRONE TLV ROJINEGRO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:27:31 |
@@ -103,29 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704460506868 |
-| Players | 6/10 |
-| Host Name | O KURWA RAKETA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:28:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704460649838 |
-| Players | 5/10 |
-| Host Name | Iron Brunke |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:28:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704460720231 |
-| Players | 1/8 |
-| Host Name | |||||||||||| |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:28:49 |
+| Lobby ID | 28591704460871785 |
+| Players | 2/10 |
+| Host Name | Tolera |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:28:58 |
 
 
 |  | epic_boss_fight_nightmare |
