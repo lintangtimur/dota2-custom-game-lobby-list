@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550080193422 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:03:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550080902136 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | заебало |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:04:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550080921156 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | yagami light |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:04:47 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:03:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550081050831 |
+| Players | 6/8 |
+| Host Name | la sangre de cristo me alimenta |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:05:01 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550080621308 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | DLove |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:04:13 |
