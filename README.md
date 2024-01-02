@@ -47,21 +47,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 17:35:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550251429858 |
-| Players | 1/15 |
-| Host Name | Sn@ke F@ng |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:35:16 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550251389213 |
-| Players | 2/5 |
-| Host Name | Inui |
+| Players | 1/5 |
+| Host Name | staring at the sun |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:35:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550251501413 |
+| Players | 2/10 |
+| Host Name | bruh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:35:22 |
 
 
