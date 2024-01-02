@@ -65,28 +65,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:25:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704335732094 |
-| Players | 9/10 |
-| Host Name | graveyard |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:25:13 |
+| Lobby ID | 28591704336645358 |
+| Players | 2/24 |
+| Host Name | 1k Mycop |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:26:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704336463552 |
+| Players | 8/15 |
+| Host Name | Дон оверолл |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:25:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704336145337 |
-| Players | 7/8 |
-| Host Name | new personality |
+| Lobby ID | 28591704336518694 |
+| Players | 1/8 |
+| Host Name | kekenchik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:25:37 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:25:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704336641477 |
+| Players | 6/15 |
+| Host Name | РИВ ГОШ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:26:05 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28591704332399930 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | 2052 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:22:08 |
@@ -119,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 22:25:44 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28591704336295543 |
-| Players | 1/5 |
-| Host Name | Boss.D |
+| Lobby ID | 28591704336529277 |
+| Players | 2/7 |
+| Host Name | Gustav Elijah Åhr11 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:25:46 |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:25:59 |
 
 
