@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704296248866 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | ! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:49:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704294026794 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Leo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:47:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704297767648 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ( |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:51:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704295847059 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ICe_WalloW_Come |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:49:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704297840629 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:51:10 |
@@ -85,10 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28591704297789342 |
-| Players | 2/5 |
-| Host Name | Thriex |
+| Lobby ID | 28591704298010666 |
+| Players | 1/5 |
+| Host Name | VOID |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:51:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704298039773 |
+| Players | 1/5 |
+| Host Name | Frost |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:51:07 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:51:20 |
 
 
