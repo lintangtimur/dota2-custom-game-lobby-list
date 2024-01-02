@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704231352213 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Evol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:55:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704210594514 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | YES |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:37:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704233188238 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | lets_fight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:56:45 |
@@ -113,10 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704233392823 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 仓鼠 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:56:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704233475673 |
+| Players | 8/10 |
+| Host Name | mOOKa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:56:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704233562824 |
+| Players | 2/10 |
+| Host Name | Full-Time Griefer |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:57:04 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | brook ブルック |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:55:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704233573085 |
+| Players | 2/5 |
+| Host Name | 灵犀一指 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:57:04 |
 
 
