@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550198457789 |
-| Players | 14/15 |
+| Players | 8/15 |
 | Host Name | Conq |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:21:58 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550201659225 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | bounty master |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:26:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550201870138 |
-| Players | 8/10 |
-| Host Name | Kapitan Tutan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:27:06 |
 
 
