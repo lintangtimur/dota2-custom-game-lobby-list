@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549928486215 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Geegee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:11:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549931157389 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Flare★ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:16:36 |
@@ -68,18 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549931400208 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | kako9ii tvoi vozrast090909? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:17:04 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549931295285 |
-| Players | 1/5 |
-| Host Name | Azalend |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:16:52 |
+| Lobby ID | 28590549931507692 |
+| Players | 2/8 |
+| Host Name | Папа может |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:17:16 |
 
 
