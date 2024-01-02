@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550281844399 |
-| Players | 23/24 |
-| Host Name | 聚光灯往哪儿打 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:12:12 |
+| Lobby ID | 28590550283617179 |
+| Players | 6/15 |
+| Host Name | Wanker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:14:12 |
 
 
 |  | ot3_desert_octet |
@@ -32,45 +32,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550270773794 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | AEZAKMI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:59:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550282978654 |
-| Players | 7/8 |
-| Host Name | ПАЦАН |
+| Lobby ID | 28590550283908300 |
+| Players | 1/10 |
+| Host Name | tyler perden |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:13:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550283764356 |
-| Players | 12/15 |
-| Host Name | Игрок 6 позиции |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:14:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550283617179 |
-| Players | 3/15 |
-| Host Name | pisa la sosa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:14:12 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:14:32 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28590550283887131 |
+| Lobby ID | 28590550283883814 |
 | Players | 1/5 |
-| Host Name | PyoWoL |
+| Host Name | Cover me |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:14:30 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550284051539 |
+| Players | 1/10 |
+| Host Name | Paser |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:14:42 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28590550284059904 |
+| Players | 1/7 |
+| Host Name | Frost |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:14:42 |
 
 
