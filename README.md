@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704435836883 |
-| Players | 1/15 |
-| Host Name | DTU.Shroud |
+| Lobby ID | 28591704432731265 |
+| Players | 10/24 |
+| Host Name | Yonwalther |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:03:09 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:59:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,28 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:01:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704432107987 |
-| Players | 23/24 |
-| Host Name | ded |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:59:22 |
+| Lobby ID | 28591704436206254 |
+| Players | 3/10 |
+| Host Name | mom |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:03:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704428141361 |
-| Players | 21/24 |
-| Host Name | dNische_ |
+| Lobby ID | 28591704436038198 |
+| Players | 9/10 |
+| Host Name | Beluga |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:55:15 |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:03:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704435173858 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Pedrila |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:02:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704435977804 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | #Mahsaamini-WOMAN-LIFE-FREEDOM |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:03:18 |
@@ -101,67 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 00:01:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704435638925 |
-| Players | 8/15 |
-| Host Name | Juanito Alcachofa |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:02:57 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704433984350 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | 戯作 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:01:16 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704432731265 |
-| Players | 8/24 |
-| Host Name | Yonwalther |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:59:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704436038198 |
-| Players | 1/10 |
-| Host Name | Beluga |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:03:21 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704431931365 |
-| Players | 14/15 |
-| Host Name | DAY |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:59:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704429390329 |
-| Players | 9/10 |
-| Host Name | I feel sorry for you |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:56:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704434725236 |
-| Players | 2/5 |
-| Host Name | NONAMEhUN-73R- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 00:02:01 |
+| Lobby ID | 28591704436640544 |
+| Players | 4/15 |
+| Host Name | Соре за просолку |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:03:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -171,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ggwp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, January 3, 2024 00:02:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704434725236 |
+| Players | 2/5 |
+| Host Name | NONAMEhUN-73R- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 00:02:01 |
 
 
