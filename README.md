@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550138403091 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | as of today I was dead yesterday |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:47:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550138716111 |
-| Players | 7/15 |
-| Host Name | la sangre de cristo me alimenta |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:48:09 |
 
 
 |  | epic_boss_fight_normal |
