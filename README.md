@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704140520590 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Mars |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:35:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550329469073 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ..c.I.e.. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:03:08 |
@@ -81,6 +81,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | J.E.M.R |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:34:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704140971837 |
+| Players | 1/10 |
+| Host Name | уголовник |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:35:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704141062860 |
+| Players | 2/15 |
+| Host Name | Безумный Паша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:35:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704140661567 |
+| Players | 3/8 |
+| Host Name | rue |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:35:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704141108540 |
+| Players | 1/8 |
+| Host Name | Luckyman |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:35:56 |
 
 
 |  | epic_boss_fight_normal |
