@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549914053384 |
-| Players | 3/15 |
-| Host Name | CAPITAN AMERICA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:44:55 |
+| Lobby ID | 28590549914136543 |
+| Players | 1/15 |
+| Host Name | Agentsmrt |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:45:04 |
 
 
 |  | ot3_gardens_duo |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549913026040 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Kratos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:43:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549912741473 |
-| Players | 5/8 |
-| Host Name | Nite |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:42:30 |
+| Lobby ID | 28590549914147764 |
+| Players | 1/15 |
+| Host Name | tmr |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:45:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549913601890 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | prime |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:44:04 |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549913334415 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Scrappycoco |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:43:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549914042014 |
-| Players | 3/8 |
-| Host Name | drevnuyrus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:44:53 |
 
 
 |  | epic_boss_fight_normal |
