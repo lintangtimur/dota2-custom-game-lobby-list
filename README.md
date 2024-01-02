@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550003567722 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | PENE  NEGRO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:35:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550006164743 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | VolTaGe |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:40:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550006140146 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Пиздос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:40:46 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:40:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550006022627 |
-| Players | 2/10 |
-| Host Name | Яdkekrj |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:40:32 |
+| Lobby ID | 28590550006397519 |
+| Players | 1/24 |
+| Host Name | MADARA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:41:16 |
 
 
 |  | ot3_desert_octet |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:40:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550006316923 |
-| Players | 1/24 |
-| Host Name | £∅¥€ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:41:07 |
+| Lobby ID | 28590550006382282 |
+| Players | 1/15 |
+| Host Name | zzzzz |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:41:14 |
 
 
 |  | epic_boss_fight_nightmare |
