@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549906759827 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | paypal me 700 USDT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:31:46 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549906088313 |
-| Players | 7/10 |
-| Host Name | Top gamer in the world |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:30:35 |
+| Lobby ID | 28590549906942960 |
+| Players | 3/15 |
+| Host Name | Leo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:32:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549905263792 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | YUGO ...:v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:29:06 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549906913428 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | eboshing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:32:02 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Akai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:32:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549906942960 |
-| Players | 3/15 |
-| Host Name | Leo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:32:05 |
 
 
 |  | epic_boss_fight_nightmare |
