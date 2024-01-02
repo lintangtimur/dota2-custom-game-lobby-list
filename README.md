@@ -47,10 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:00:45 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550145338030 |
+| Players | 9/10 |
+| Host Name | Рагу [Гантрап] |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:59:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550142127051 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | snzrb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:53:52 |
