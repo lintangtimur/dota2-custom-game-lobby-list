@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550126531495 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Апсалют |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:27:25 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550126171848 |
-| Players | 13/15 |
-| Host Name | nattyboons |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:26:46 |
+| Lobby ID | 28590550127624607 |
+| Players | 3/15 |
+| Host Name | inane- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:29:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550127282267 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | [ ] |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:28:43 |
@@ -32,27 +32,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550127375656 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | Anti-Simp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:28:53 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590550127567820 |
-| Players | 1/24 |
-| Host Name | Auna |
+| Lobby ID | 28590550127901084 |
+| Players | 2/10 |
+| Host Name | mybiiru |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:29:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550126534169 |
-| Players | 1/5 |
-| Host Name | thund3rstorm |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:27:25 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:29:47 |
 
 
