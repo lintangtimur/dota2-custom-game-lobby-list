@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550068605191 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | safas o te avanzo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:41:16 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550067575092 |
-| Players | 8/15 |
-| Host Name | батя карапуз |
+| Players | 9/15 |
+| Host Name | Huvu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:39:20 |
 
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:41:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550068113627 |
-| Players | 23/24 |
-| Host Name | Mr.Banana |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:40:21 |
+| Lobby ID | 28590550069087523 |
+| Players | 2/8 |
+| Host Name | CAMARADA CAPIBARA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:42:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:42:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550069087523 |
-| Players | 1/8 |
-| Host Name | CAMARADA CAPIBARA |
+| Lobby ID | 28590550064036435 |
+| Players | 21/24 |
+| Host Name | Lon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:32:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550069178164 |
+| Players | 2/24 |
+| Host Name | JamesWebb |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:42:13 |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:42:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XxS4R37HxX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:41:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550069065152 |
-| Players | 2/10 |
-| Host Name | customer service |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:42:10 |
 
 
