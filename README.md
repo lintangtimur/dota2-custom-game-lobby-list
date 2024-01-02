@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549998034791 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Möll LaCroix krnz AnGh |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:25:04 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:25:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549998576136 |
-| Players | 13/15 |
-| Host Name | Xaerlan |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:26:11 |
+| Lobby ID | 28590549999483711 |
+| Players | 2/10 |
+| Host Name | Слава сыр колбасс |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:27:57 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549997556725 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:05 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:26:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549999483711 |
-| Players | 2/10 |
-| Host Name | Слава сыр колбасс |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:27:57 |
+| Lobby ID | 28590549999547313 |
+| Players | 6/8 |
+| Host Name | SU JUEGO DE MRD SE ACABA AQUI |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:28:05 |
 
 
 |  | epic_boss_fight_nightmare |
