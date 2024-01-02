@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704264537555 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | FerreiraM32 |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:22:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704265269116 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | b-ウサギ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:23:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704266384214 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | уголовник |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:24:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704266399731 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Werewolf.GR |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:24:06 |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:24:15 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704266753336 |
+| Players | 1/10 |
+| Host Name | банан |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:24:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704266256707 |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 爱抓双马尾 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:23:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704266737024 |
+| Players | 1/5 |
+| Host Name | SocietyScrub |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:24:24 |
 
 
