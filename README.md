@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550103411666 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Smokey Nagata |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550103804828 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | POGUITO EL CHISPITA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:47:08 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:47:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550105372276 |
-| Players | 12/15 |
-| Host Name | Rick Sanchez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:49:57 |
+| Lobby ID | 28590550105828410 |
+| Players | 2/8 |
+| Host Name | Deacon St. Jhon |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:50:46 |
 
 
 |  | ot3_gardens_duo |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550105752096 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Let me SLeep |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:50:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550105948676 |
+| Players | 1/15 |
+| Host Name | VGG.Nuntaku |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:50:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:48:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550105254610 |
-| Players | 1/10 |
-| Host Name | 7-Ghost |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:49:45 |
 
 
