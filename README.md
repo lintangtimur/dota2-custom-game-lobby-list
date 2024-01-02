@@ -20,40 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:49:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550182421453 |
-| Players | 11/15 |
-| Host Name | i will d?e alone xdxdxdxdxdxdxd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:58:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550182648625 |
-| Players | 2/10 |
-| Host Name | Freak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:58:24 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550182798736 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | qweexer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:58:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550183052345 |
-| Players | 5/8 |
-| Host Name | WALTI |
+| Lobby ID | 28590550182648625 |
+| Players | 4/10 |
+| Host Name | Freak |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:58:59 |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:58:24 |
 
 
 |  | epic_boss_fight_normal |
