@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550136675004 |
-| Players | 7/8 |
-| Host Name | Moning MLG |
+| Lobby ID | 28590550136960790 |
+| Players | 8/10 |
+| Host Name | вова адидас prime |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:44:42 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:45:12 |
 
 
 |  | ot3_desert_octet |
@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550135575751 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | 4 pos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:42:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550136960790 |
-| Players | 8/10 |
-| Host Name | вова адидас prime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:45:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550137183390 |
-| Players | 3/8 |
-| Host Name | melancholy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:45:35 |
 
 
 |  | epic_boss_fight_nightmare |
