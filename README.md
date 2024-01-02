@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550103378537 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550104256657 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Munooke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:47:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550103556309 |
-| Players | 20/24 |
+| Players | 17/24 |
 | Host Name | Shadow Fiend-zone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:46:40 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AnШLaG |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:49:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28590550105098978 |
-| Players | 1/5 |
-| Host Name | 7-Ghost |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:49:28 |
 
 
