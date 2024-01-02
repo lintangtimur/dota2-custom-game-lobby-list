@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549980987781 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | MOTOMAMI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:51:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549980328914 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | кастрюля гречки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:50:41 |
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tavo Tu Terror |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:50:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549981238901 |
+| Players | 1/24 |
+| Host Name | NAYUTA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:52:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549981264412 |
+| Players | 1/24 |
+| Host Name | Road a heraldo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:52:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549981306629 |
+| Players | 1/15 |
+| Host Name | Оливье реарм оливье |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:52:33 |
 
 
 |  | epic_boss_fight_nightmare |
