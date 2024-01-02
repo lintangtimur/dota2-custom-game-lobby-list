@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550062555348 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | **Lucía** |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:29:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550062430860 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Жопник глиномес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:29:35 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550061403593 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | XCLARAX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:27:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550062648624 |
-| Players | 1/24 |
-| Host Name | ❈K.ø.t.™❈ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:29:59 |
 
 
 |  | ot3_gardens_duo |
@@ -74,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 12:30:00 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590550062702174 |
+| Players | 5/10 |
+| Host Name | DONT KILL ME |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:30:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550042786362 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | •Ⱥҍҽҟҽ• |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550059188446 |
-| Players | 9/10 |
-| Host Name | InYourDick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 12:23:14 |
 
 
 |  | epic_boss_fight_normal |
