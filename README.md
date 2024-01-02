@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704518871841 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Niño Pericote |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:30:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704517680384 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | MAEVE |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:29:06 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704519410834 |
-| Players | 3/8 |
-| Host Name | ++DIOS DEL OLIMPO++ |
+| Players | 2/8 |
+| Host Name | Superviviente de la chocolatada3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:30:57 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704519154585 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | PARC |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:30:40 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704520292229 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | ЗАВОД + ПИВО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:31:54 |
@@ -135,6 +135,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | чaрдж в тoлпу цыгaн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:31:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704520473546 |
+| Players | 4/15 |
+| Host Name | MGNCITYSHUFFLE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:32:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704520629001 |
+| Players | 6/10 |
+| Host Name | Dm1Ro0N |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:32:15 |
 
 
 |  | epic_boss_fight_challenger |
