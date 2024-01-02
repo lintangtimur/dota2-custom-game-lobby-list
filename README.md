@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550136675004 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Moning MLG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:44:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550135575751 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | 4 pos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:42:51 |
@@ -36,6 +36,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hi mister jackson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:42:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550135824643 |
+| Players | 23/24 |
+| Host Name | xJw |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:43:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -56,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 14:44:29 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28590550136629416 |
-| Players | 1/5 |
-| Host Name | doshirak1300 |
+| Lobby ID | 28590550136846741 |
+| Players | 2/7 |
+| Host Name | пивная зАКСуска |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:44:38 |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:45:00 |
 
 
