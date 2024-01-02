@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550318085496 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | nicko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:51:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550320384839 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ABOBA BOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:53:50 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:53:52 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550320826728 |
-| Players | 13/15 |
-| Host Name | Vanished |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:54:18 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550320839399 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Я вернулся! |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:54:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550321599191 |
+| Players | 2/15 |
+| Host Name | as of today I was dead yesterday |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:55:06 |
 
 
 |  | epic_boss_fight_nightmare |
