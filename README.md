@@ -13,38 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550261811566 |
-| Players | 7/10 |
-| Host Name | Solowind |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:48:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550261632573 |
-| Players | 4/15 |
-| Host Name | 收割者🖤 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:48:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28590550261937611 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | K!SS QWE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:48:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550262167936 |
-| Players | 1/8 |
-| Host Name | Shnawg |
+| Lobby ID | 28590550261632573 |
+| Players | 5/15 |
+| Host Name | 收割者🖤 |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:48:42 |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:48:03 |
 
 
 |  | epic_boss_fight_nightmare |
