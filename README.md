@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550264718070 |
-| Players | 6/8 |
-| Host Name | Don't Panic |
+| Lobby ID | 28590550266318885 |
+| Players | 10/15 |
+| Host Name | Dekant |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:51:50 |
+| Lobby Creation Time | Tuesday, January 2, 2024 17:53:48 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550266278428 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | мефчик уже не тот. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:53:45 |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550265006810 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:52:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550266318885 |
-| Players | 8/15 |
-| Host Name | Dekant |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:53:48 |
 
 
 |  | epic_boss_fight_nightmare |
