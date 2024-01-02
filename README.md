@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550029291438 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Monkey D.Charmander |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:25:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550028615943 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Ho-oH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:24:21 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550030332586 |
-| Players | 1/15 |
-| Host Name | Выпустите |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:27:46 |
+| Lobby ID | 28590550030341667 |
+| Players | 5/15 |
+| Host Name | JrY |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:27:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550030385529 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Lucumoma´´ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:27:52 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550030341667 |
-| Players | 3/15 |
-| Host Name | JrY |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:27:47 |
+| Lobby ID | 28590550030573707 |
+| Players | 1/15 |
+| Host Name | Выпустите |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:28:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550028358646 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | biblically accurate tenshi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:23:50 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550029611734 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | СексНаркотикАлко |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:26:22 |
