@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704391657442 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | wonka |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:18:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704395546108 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | СЫН ШЛЮХИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:22:29 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704397198229 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Stage 4 Brain Cancer |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:24:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704392506584 |
-| Players | 8/10 |
-| Host Name | Randylel husband#69 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:19:29 |
+| Lobby ID | 28591704398286605 |
+| Players | 2/8 |
+| Host Name | Ллойд |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:25:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:20:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704398037100 |
-| Players | 1/15 |
-| Host Name | ZeX |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:24:59 |
+| Lobby ID | 28591704395618282 |
+| Players | 2/10 |
+| Host Name | Dudil |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:22:34 |
 
 
 |  | ot3_desert_octet |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704397887180 |
-| Players | 4/8 |
-| Host Name | fashion icon |
+| Players | 1/8 |
+| Host Name | KING BOB // 最大の遅れ |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:24:50 |
 
@@ -131,10 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704387522763 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | vodka |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:14:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704398302064 |
+| Players | 7/15 |
+| Host Name | ZXC Ireland |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:25:15 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | qdasdasdcxascas |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:19:27 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28591704398211243 |
-| Players | 2/7 |
-| Host Name | PlayingTheAngel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:25:09 |
 
 
