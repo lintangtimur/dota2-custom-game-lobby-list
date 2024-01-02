@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704301702885 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | nissan-gtr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:54:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704275145740 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Latrell |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:31:33 |
@@ -32,100 +32,82 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704301257969 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | - M!KE - |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:54:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704301602849 |
-| Players | 9/15 |
-| Host Name | 44444444444 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:54:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704300941287 |
-| Players | 2/8 |
-| Host Name | yuuichi katagiri |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:53:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704300950273 |
-| Players | 2/24 |
-| Host Name | Yonwalther |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:53:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704302251066 |
-| Players | 1/8 |
-| Host Name | Positive Mental Animal |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:55:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704301885790 |
-| Players | 2/24 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:54:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704301552800 |
-| Players | 1/15 |
-| Host Name | ЄXѺҬӉЄГӍіС |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:54:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704301573487 |
 | Players | 1/8 |
-| Host Name | GearWill |
+| Host Name | SI TAN SOLO PUDIERA ESCRIBIR TMR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:54:26 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704302954111 |
+| Players | 3/8 |
+| Host Name | Positive Mental Animal |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:55:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704300950273 |
+| Players | 3/24 |
+| Host Name | Yonwalther |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:53:53 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704302271687 |
-| Players | 3/10 |
-| Host Name | Bekon |
+| Lobby ID | 28591704302917328 |
+| Players | 7/10 |
+| Host Name | rurinall |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:55:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704301885790 |
+| Players | 6/24 |
+| Host Name | Irif |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:55:03 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:54:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704302409346 |
-| Players | 1/10 |
-| Host Name | Zenigata |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:55:11 |
+| Lobby ID | 28591704302630219 |
+| Players | 2/8 |
+| Host Name | wmex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:55:22 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704298848174 |
-| Players | 9/10 |
-| Host Name | I'm fightin' demons |
+| Lobby ID | 28591704302626048 |
+| Players | 1/8 |
+| Host Name | PaftDunk |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:52:02 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:55:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704302637198 |
+| Players | 7/8 |
+| Host Name | WhatsWrongWithDOGA2/VOLVO? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:55:23 |
 
 
 |  | epic_boss_fight_nightmare |
