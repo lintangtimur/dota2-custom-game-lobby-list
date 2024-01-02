@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549963066953 |
-| Players | 9/10 |
-| Host Name | miz |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:17:32 |
+| Lobby ID | 28590549964718758 |
+| Players | 2/15 |
+| Host Name | SHADXWBRXRN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:20:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549963136459 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:17:40 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 09:18:42 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549963825464 |
-| Players | 14/15 |
-| Host Name | Kusonoki |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:18:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549964391713 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Camila Cabello |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:20:04 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549962864645 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ЧИСТО БОНУСОМ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:17:10 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549964574930 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Mundus |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:20:24 |
