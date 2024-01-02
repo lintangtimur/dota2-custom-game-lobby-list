@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:06:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550081296026 |
-| Players | 7/8 |
-| Host Name | ZАЯЦ13 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:05:29 |
+| Lobby ID | 28590550081614100 |
+| Players | 7/15 |
+| Host Name | < blank > |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:06:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550081368478 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | SunWan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:05:37 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550082327762 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | FeedOt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:07:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550081614100 |
-| Players | 7/15 |
-| Host Name | < blank > |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:06:05 |
 
 
 |  | epic_boss_fight_nightmare |
