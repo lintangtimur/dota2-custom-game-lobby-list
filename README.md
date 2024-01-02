@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550041422089 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | AUTOPOIETICA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:49:06 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550042839653 |
-| Players | 12/15 |
-| Host Name | Cain |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:51:50 |
+| Lobby ID | 28590550043253155 |
+| Players | 4/15 |
+| Host Name | HaileN- |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:52:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,49 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550042633796 |
-| Players | 6/10 |
-| Host Name | Слава сыр колбасс |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:51:26 |
+| Lobby ID | 28590550043446037 |
+| Players | 6/15 |
+| Host Name | Soy inferior |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:52:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550042656884 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Papa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550043253155 |
-| Players | 4/15 |
-| Host Name | HaileN- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:52:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550041444896 |
-| Players | 8/10 |
-| Host Name | Rosky. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:49:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550042786362 |
-| Players | 1/10 |
-| Host Name | Sweet Ass |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:51:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:51:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550042786362 |
+| Players | 2/10 |
+| Host Name | Sweet Ass |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:51:44 |
 
 
