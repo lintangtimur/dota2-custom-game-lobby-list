@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550094552977 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:30:16 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550093750733 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | RichieZones |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:28:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550094951480 |
-| Players | 6/8 |
-| Host Name | Kalabaka |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:31:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550093388628 |
-| Players | 1/15 |
-| Host Name | hashmiabdulrehman74 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:28:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YO NAJAT (EL BRAVO) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:32:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550093388628 |
+| Players | 1/15 |
+| Host Name | hashmiabdulrehman74 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:28:08 |
 
 
 |  | epic_boss_fight_nightmare |
