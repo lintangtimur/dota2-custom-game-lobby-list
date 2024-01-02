@@ -23,26 +23,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704581581297 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ｓｈｉｂａｉ　ふコ悪 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:39:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704584974201 |
-| Players | 5/15 |
-| Host Name | Snowmiser |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, January 3, 2024 02:43:05 |
+| Lobby ID | 28591704585230200 |
+| Players | 1/10 |
+| Host Name | >.< |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:43:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704584255797 |
-| Players | 6/10 |
-| Host Name | arthas is alive |
+| Players | 5/10 |
+| Host Name | степан українець |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:42:17 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704585152333 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | tegiri nenashi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:43:17 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704585163392 |
-| Players | 5/8 |
-| Host Name | Чушпан |
+| Players | 1/8 |
+| Host Name | Toss a coin to your Witcher |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:43:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704585296801 |
+| Players | 3/15 |
+| Host Name | How u doin? |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:43:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704585345826 |
+| Players | 5/8 |
+| Host Name | Bl0w_Job |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:43:30 |
 
 
 |  | epic_boss_fight_challenger |
