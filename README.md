@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704418816833 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | NatureFlame |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:45:46 |
@@ -40,26 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704419123148 |
-| Players | 7/8 |
-| Host Name | хоумик |
+| Lobby ID | 28591704421144155 |
+| Players | 3/8 |
+| Host Name | ИШАК |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:46:05 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:48:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704419750617 |
-| Players | 6/8 |
-| Host Name | Waffle |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:46:43 |
+| Lobby ID | 28591704420853570 |
+| Players | 7/15 |
+| Host Name | Томас Шеуби |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:47:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704419218352 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | A s r a e l |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:46:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704419687675 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | LyanaB |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:46:39 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 23:43:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704420576761 |
-| Players | 7/10 |
-| Host Name | -Evg1k |
+| Lobby ID | 28591704421227590 |
+| Players | 5/8 |
+| Host Name | ХаркалНасваев |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:47:33 |
+| Lobby Creation Time | Tuesday, January 2, 2024 23:48:13 |
 
 
 |  | ot3_gardens_duo |
@@ -144,24 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NAVIGATOR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 23:47:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704420853570 |
-| Players | 6/15 |
-| Host Name | Томас Шеуби |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:47:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704420409943 |
-| Players | 12/15 |
-| Host Name | Keebler[Elf] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 23:47:23 |
 
 
 |  | epic_boss_fight_nightmare |
