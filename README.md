@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550146191538 |
-| Players | 23/24 |
-| Host Name | LazyMeow~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:00:45 |
+| Lobby ID | 28590550149118815 |
+| Players | 3/8 |
+| Host Name | Крилен |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:05:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550148617014 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Andrey_34 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:04:46 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:01:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550148392087 |
-| Players | 14/15 |
-| Host Name | не умею играть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:04:24 |
+| Lobby ID | 28590550149107403 |
+| Players | 1/10 |
+| Host Name | Potatochipz |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:05:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Airos - MUTANT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:04:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550148859116 |
-| Players | 2/8 |
-| Host Name | gomer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:05:10 |
 
 
 |  | epic_boss_fight_nightmare |
