@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550052324247 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Lucky |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:10:06 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥Chloe♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 12:09:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550054297625 |
+| Players | 1/15 |
+| Host Name | Nenonix Z |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 12:13:52 |
 
 
 |  | epic_boss_fight_nightmare |
