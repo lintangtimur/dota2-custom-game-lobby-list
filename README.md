@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704282804452 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:38:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704287040108 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Hao |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:41:45 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704286797242 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ПТ на Нежность |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:41:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704287392836 |
-| Players | 1/8 |
-| Host Name | Sovenok |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:42:03 |
+| Lobby ID | 28591704287534278 |
+| Players | 1/24 |
+| Host Name | NightSuki ツユ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:42:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 3Jl0й 30NBI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:41:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704287626355 |
+| Players | 2/24 |
+| Host Name | шайлушай |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:42:15 |
 
 
 |  | epic_boss_fight_nightmare |
