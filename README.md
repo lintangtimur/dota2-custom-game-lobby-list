@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704240003920 |
-| Players | 8/10 |
-| Host Name | из-за тебя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:02:23 |
+| Lobby ID | 28591704240969536 |
+| Players | 3/10 |
+| Host Name | :) |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:03:12 |
 
 
 |  | ot3_desert_octet |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704239975869 |
-| Players | 7/8 |
-| Host Name | avtobus |
+| Lobby ID | 28591704240561945 |
+| Players | 3/8 |
+| Host Name | Big Game IQ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:02:22 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:02:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704240564750 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | hausuli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:02:51 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704210594514 |
-| Players | 5/15 |
-| Host Name | YES |
+| Players | 1/15 |
+| Host Name | PhanzyCU |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:37:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704240561945 |
-| Players | 3/8 |
-| Host Name | Big Game IQ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:02:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Inferno |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:02:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28591704231377842 |
+| Players | 9/10 |
+| Host Name | brook ブルック |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:55:12 |
 
 
