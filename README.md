@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704145629339 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Kaleen bhaiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:40:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704142799836 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Junkie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:37:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550344806837 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:17:55 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704146440227 |
-| Players | 6/8 |
-| Host Name | 76561198254294132 |
+| Lobby ID | 28591704146751373 |
+| Players | 4/8 |
+| Host Name | Эдiк Дiрдэн |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:41:15 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:41:35 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704146295903 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Леха |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:41:06 |
@@ -101,30 +101,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:41:28 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704143085510 |
-| Players | 9/10 |
-| Host Name | rohanec1993 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:37:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28591704145266541 |
-| Players | 1/5 |
-| Host Name | A V A N T / G A R D E |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:40:04 |
+| Lobby ID | 28591704146868793 |
+| Players | 2/8 |
+| Host Name | Big Game IQ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:41:41 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704145738322 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ``Univesal Killer`` |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:40:33 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28591704145266541 |
+| Players | 3/5 |
+| Host Name | A V A N T / G A R D E |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:40:04 |
 
 
