@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550154296250 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | TheKraken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:13:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550164523646 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 饿了么滴 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:30:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550162326279 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Kapitan Tutan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:26:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550151956882 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Mahatma Gandhi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:10:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550164937818 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | OnlyGOD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:31:04 |
