@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704592044126 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | LIL CHICHA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:51:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704589858004 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ~{ ■} |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:48:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704591739600 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | N.N | No Name |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:50:43 |
@@ -90,6 +90,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Oshawott |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, January 3, 2024 02:50:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704592144158 |
+| Players | 1/8 |
+| Host Name | Crisss |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:51:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28591704592195961 |
+| Players | 1/24 |
+| Host Name | Y.Okkotsu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:51:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704592221891 |
+| Players | 1/8 |
+| Host Name | Sleepy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, January 3, 2024 02:51:16 |
 
 
 |  | epic_boss_fight_normal |
