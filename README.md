@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550134856179 |
-| Players | 3/8 |
-| Host Name | melancholy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:41:37 |
+| Lobby ID | 28590550131406172 |
+| Players | 23/24 |
+| Host Name | Wapo16 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 14:35:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550136189126 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | theforgottenmonkey |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:43:53 |
@@ -36,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hi mister jackson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 14:42:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550131406172 |
-| Players | 23/24 |
-| Host Name | Wapo16 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 14:35:48 |
 
 
 |  | epic_boss_fight_nightmare |
