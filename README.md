@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704223286202 |
-| Players | 14/15 |
-| Host Name | Vinas |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:48:30 |
+| Lobby ID | 28591704223975295 |
+| Players | 3/15 |
+| Host Name | duwawin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:49:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704222398723 |
-| Players | 6/8 |
-| Host Name | mid enjoyer 自殺 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:47:46 |
+| Lobby ID | 28591704222583238 |
+| Players | 12/24 |
+| Host Name | Taoki- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:47:55 |
 
 
 |  | ot3_gardens_duo |
@@ -83,58 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:37:53 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28591704222583238 |
-| Players | 10/24 |
-| Host Name | Taoki- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:47:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704223233356 |
-| Players | 7/10 |
-| Host Name | Buster |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:48:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704223863963 |
-| Players | 4/8 |
-| Host Name | куклаВОДКА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:48:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704223753943 |
+| Lobby ID | 28591704224109645 |
 | Players | 1/8 |
-| Host Name | Jokushka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:48:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704223949639 |
-| Players | 3/8 |
-| Host Name | apathy killing me |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:49:03 |
+| Host Name | Dejotta |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:49:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28591704221636919 |
-| Players | 9/10 |
-| Host Name | 男人哭吧哭吧不是罪>.< |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:47:08 |
+| Lobby ID | 28591704223881892 |
+| Players | 1/10 |
+| Host Name | OnlyGOD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:49:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gustav Elijah Åhr11 |
 | Region | INDIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:48:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704223881892 |
-| Players | 1/10 |
-| Host Name | OnlyGOD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:49:00 |
 
 
