@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550184158111 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:00:39 |
@@ -38,31 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 16:09:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590550190031822 |
-| Players | 14/15 |
-| Host Name | baoeq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:09:24 |
+| Lobby ID | 28590550185640970 |
+| Players | 23/24 |
+| Host Name | overflow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 16:02:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550190003000 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Dyrachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 16:09:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590550185640970 |
-| Players | 21/24 |
-| Host Name | overflow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 16:02:55 |
 
 
 |  | epic_boss_fight_nightmare |
