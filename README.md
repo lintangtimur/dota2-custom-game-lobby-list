@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550163346234 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Let me SLeep |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:28:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550163467757 |
-| Players | 7/10 |
-| Host Name | Кровавый понос |
+| Lobby ID | 28590550163905524 |
+| Players | 6/15 |
+| Host Name | ТУКИ ТУКИ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:28:46 |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:29:27 |
 
 
 |  | ot3_desert_octet |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550163834318 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Reen1ssance |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:29:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550163905524 |
-| Players | 2/15 |
-| Host Name | ТУКИ ТУКИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:29:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kapitan Tutan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:26:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550163918587 |
+| Players | 1/5 |
+| Host Name | vendetta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:29:28 |
 
 
