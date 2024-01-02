@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549900302161 |
-| Players | 1/10 |
-| Host Name | ВОВА |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:20:06 |
+| Lobby ID | 28590549900330258 |
+| Players | 1/8 |
+| Host Name | Xamaniacoo |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:20:09 |
 
 
 |  | ot3_desert_octet |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549900099428 |
-| Players | 7/10 |
-| Host Name | Scraper |
+| Lobby ID | 28590549900433421 |
+| Players | 3/10 |
+| Host Name | ВОВА |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:19:45 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:20:20 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549900077564 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | tmr |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:42 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549900320039 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | tox1kate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:20:08 |
@@ -130,29 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549900330258 |
+| Lobby ID | 28590549900130797 |
 | Players | 1/8 |
-| Host Name | Xamaniacoo |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:20:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549900335937 |
-| Players | 1/8 |
-| Host Name | Сендальф Герий |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:20:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549900339215 |
-| Players | 4/8 |
-| Host Name | Nagi Seishiro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:20:10 |
+| Host Name | T.R.P MAICOL |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:19:48 |
 
 
 |  | epic_boss_fight_normal |
