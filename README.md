@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550295686413 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Oh29 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:27:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550296476726 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | RAMDOG666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:28:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550296333390 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ДЫМОК |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:28:21 |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:28:34 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550291064022 |
-| Players | 9/10 |
-| Host Name | Cerberus_7 |
+| Lobby ID | 28590550296818193 |
+| Players | 5/15 |
+| Host Name | Not Human |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:22:35 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:28:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550295940642 |
+| Players | 12/15 |
+| Host Name | aCHLOEmon` |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:27:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -65,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:26:58 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28590550296812161 |
-| Players | 2/7 |
-| Host Name | BILZZZ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:28:52 |
+| Lobby ID | 28590550296948858 |
+| Players | 1/10 |
+| Host Name | Hyper- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:29:01 |
 
 
