@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549689205857 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Fucking Pencil |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 02:40:43 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549926433934 |
-| Players | 9/10 |
-| Host Name | diegotsfye |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:07:47 |
+| Lobby ID | 28590549927067798 |
+| Players | 3/10 |
+| Host Name | Слава сыр колбасс |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:08:59 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549926752212 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | 1+1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:08:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549926515511 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:07:56 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:08:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549925762605 |
+| Players | 9/10 |
+| Host Name | Легенда Приюта |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:06:33 |
 
 
