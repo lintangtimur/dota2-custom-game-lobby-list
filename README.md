@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 11:13:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550023080652 |
-| Players | 8/10 |
-| Host Name | Ark.Tect- |
+| Lobby ID | 28590550022655400 |
+| Players | 2/15 |
+| Host Name | TypicalTN |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:13:41 |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:12:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550022590232 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | who knows |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:12:46 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Наменявсесмотрят |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:12:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550022655400 |
-| Players | 2/15 |
-| Host Name | TypicalTN |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:12:54 |
 
 
