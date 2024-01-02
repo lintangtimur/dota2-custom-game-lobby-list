@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704534248483 |
-| Players | 6/10 |
-| Host Name | 나는 최고가 될 것이다 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:47:05 |
+| Lobby ID | 28591704534128500 |
+| Players | 4/24 |
+| Host Name | Rick & Clancy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:46:57 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704534394400 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | §𝓟𝓐𝓓𝓔 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:47:15 |
@@ -32,28 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704530847650 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | pashaearl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:43:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704534137276 |
-| Players | 5/8 |
-| Host Name | Kiyotaka enjoyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:46:58 |
+| Lobby ID | 28591704533970881 |
+| Players | 1/10 |
+| Host Name | Latrell |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:46:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28591704533472413 |
-| Players | 14/15 |
-| Host Name | Fox |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:46:14 |
+| Lobby ID | 28591704534541783 |
+| Players | 3/10 |
+| Host Name | SleepLess |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:47:25 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704533730084 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Homicídio |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, January 3, 2024 01:46:31 |
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, January 3, 2024 01:46:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704533970881 |
-| Players | 2/10 |
-| Host Name | Latrell |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:46:47 |
+| Lobby ID | 28591704534701783 |
+| Players | 1/8 |
+| Host Name | G I U L I A N O |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:47:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704534128500 |
-| Players | 5/24 |
-| Host Name | Rick & Clancy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:46:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704534541783 |
-| Players | 2/10 |
-| Host Name | SleepLess |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, January 3, 2024 01:47:25 |
+| Lobby ID | 28591704534733735 |
+| Players | 1/15 |
+| Host Name | a |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, January 3, 2024 01:47:38 |
 
 
 |  | epic_boss_fight_challenger |
