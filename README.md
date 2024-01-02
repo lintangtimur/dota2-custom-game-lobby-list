@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549955492016 |
-| Players | 8/10 |
-| Host Name | Soulwarrior |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:03:08 |
+| Lobby ID | 28590549955430851 |
+| Players | 1/15 |
+| Host Name | Hype |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:03:01 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549955755617 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Jackawaka |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:03:38 |
@@ -68,36 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549955538642 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | ヘスス |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 09:03:13 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549955912665 |
-| Players | 1/15 |
-| Host Name | rsny |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:03:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549955430851 |
-| Players | 1/15 |
-| Host Name | Hype |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:03:01 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590549955986074 |
-| Players | 1/10 |
-| Host Name | Sailor FreakMoon |
+| Lobby ID | 28590549956052690 |
+| Players | 4/10 |
+| Host Name | НАXУЙ ДОТУ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 09:04:05 |
+| Lobby Creation Time | Tuesday, January 2, 2024 09:04:12 |
 
 
