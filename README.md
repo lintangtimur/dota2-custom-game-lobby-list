@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549913746142 |
-| Players | 9/15 |
-| Host Name | Stas Pizdeckiy |
+| Lobby ID | 28590549913067395 |
+| Players | 14/15 |
+| Host Name | Rob.The-R |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:43:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549914789670 |
+| Players | 4/8 |
+| Host Name | .r3ality |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:44:20 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:46:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:40:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590549914798191 |
+| Players | 1/10 |
+| Host Name | EcoHunter |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:46:17 |
 
 
