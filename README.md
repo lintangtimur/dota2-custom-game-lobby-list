@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549951136300 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | water lilies |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:54:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549951353493 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Kael |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:55:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549951090026 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Krokaska |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:54:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549950792956 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | ♥♦CentOS♣♠ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:54:00 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549950934867 |
-| Players | 2/15 |
-| Host Name | Mafùyú |
+| Players | 1/15 |
+| Host Name | Gucci |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:54:18 |
 
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549951590373 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | D'Boyd |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:55:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549951694822 |
+| Players | 6/15 |
+| Host Name | DYNAMO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:55:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549951714731 |
+| Players | 1/15 |
+| Host Name | The Fenix |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:55:52 |
 
 
 |  | epic_boss_fight_nightmare |
