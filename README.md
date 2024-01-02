@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550309616315 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | K!SS QWE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:42:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550309575368 |
-| Players | 12/15 |
-| Host Name | Steve |
+| Lobby ID | 28590550310279568 |
+| Players | 3/8 |
+| Host Name | kuo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:42:29 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:43:14 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590550309244338 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 771858183915192742021 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:42:09 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550306803495 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Inui |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:39:33 |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550310265793 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 谜兔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:43:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590550310434739 |
+| Players | 1/5 |
+| Host Name | 一克撕Q撕ME |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:43:24 |
 
 
