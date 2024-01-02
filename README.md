@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704159945279 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | September 11th |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:54:16 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704161304801 |
-| Players | 6/8 |
-| Host Name | tv/swedenstrong |
+| Lobby ID | 28591704162956903 |
+| Players | 1/8 |
+| Host Name | Syn999#%*%*%#* |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:55:33 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:57:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,49 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 19:03:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704160012374 |
-| Players | 3/8 |
-| Host Name | i hate everything about me |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:54:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28591704162222093 |
-| Players | 8/10 |
-| Host Name | chema |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:56:25 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704162161590 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Watashi Wa ASHEdesu |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 19:56:21 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704162883825 |
+| Players | 1/8 |
+| Host Name | я...ТАЛАНТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:57:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704163006808 |
+| Players | 3/10 |
+| Host Name | Даун |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:57:08 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704162675020 |
+| Lobby ID | 28591704163039843 |
 | Players | 1/24 |
-| Host Name | BabyRage |
+| Host Name | POM |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:56:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704161316848 |
-| Players | 9/10 |
-| Host Name | Danielicious |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 19:55:34 |
+| Lobby Creation Time | Tuesday, January 2, 2024 19:57:10 |
 
 
 |  | epic_boss_fight_nightmare |
