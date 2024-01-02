@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549914408219 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | Soul |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:45:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549915004585 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Пудж твоей мечты |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:46:40 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549915204847 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Слава сыр колбасс |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:47:02 |
@@ -140,16 +140,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549915328978 |
-| Players | 1/15 |
-| Host Name | S |
+| Players | 4/15 |
+| Host Name | пенисная жидкость |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:47:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28590549915360213 |
+| Players | 1/10 |
+| Host Name | Dazaroth |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:47:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549915408461 |
+| Players | 2/24 |
+| Host Name | RiftBreaker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:47:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590549915419455 |
+| Players | 1/24 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:47:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549915421911 |
+| Players | 1/8 |
+| Host Name | Stingray |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:47:27 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549905684416 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Boris |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:29:51 |
