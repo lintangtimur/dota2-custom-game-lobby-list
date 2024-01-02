@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550177224793 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | S A S O R I |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:50:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550180778968 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | smtg here |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:55:30 |
@@ -32,28 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550180577261 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | These Bitches Love SOSA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:55:10 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550180949937 |
-| Players | 1/5 |
-| Host Name | ку |
+| Lobby ID | 28590550181285362 |
+| Players | 5/10 |
+| Host Name | ツ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:55:46 |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:56:18 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550179893705 |
-| Players | 2/10 |
-| Host Name | Seventeen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 15:54:05 |
+| Lobby ID | 28590550181520619 |
+| Players | 4/15 |
+| Host Name | TRYHARD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:56:40 |
 
 
 |  | epic_boss_fight_normal |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | vendetta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:52:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28590550179893705 |
+| Players | 2/10 |
+| Host Name | Seventeen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:54:05 |
 
 
