@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549913158074 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | El watson makofon |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:43:15 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549910915553 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Poptaco |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:39:13 |
@@ -110,6 +110,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:43:20 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549913238798 |
+| Players | 1/15 |
+| Host Name | Happy Happy Happy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:43:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549913282941 |
+| Players | 1/8 |
+| Host Name | CARRY POTTER |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:43:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549913294100 |
+| Players | 1/8 |
+| Host Name | 𝕱𝕽𝖆𝕹𝖃𝖃 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:43:30 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28590549905684416 |
@@ -122,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590549911689890 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:40:36 |
