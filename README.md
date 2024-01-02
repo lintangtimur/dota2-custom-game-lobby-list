@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704340790139 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | PenoDewey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:29:58 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704336723010 |
-| Players | 10/15 |
-| Host Name | Mrshl giordota.com eloargame.com |
+| Players | 9/15 |
+| Host Name | Más Narnia |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:26:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704341854994 |
-| Players | 11/15 |
-| Host Name | ☆ VAZ ☆ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:30:58 |
+| Lobby ID | 28591704342279669 |
+| Players | 2/8 |
+| Host Name | Friendly Farmer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:31:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,6 +63,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Anti |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:30:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704342334606 |
+| Players | 1/8 |
+| Host Name | < blank > |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:31:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704342343628 |
+| Players | 1/15 |
+| Host Name | Enting kabisote |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:31:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28591704342368680 |
+| Players | 1/8 |
+| Host Name | ダブラ・ラサ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:31:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704342386552 |
+| Players | 2/10 |
+| Host Name | Op |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:31:28 |
 
 
 |  | epic_boss_fight_challenger |
