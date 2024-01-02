@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704338281769 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | L u 4 i s t i y   P i r o j o k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:27:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28591704332911793 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:22:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704336723010 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | PAch1 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:26:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704338649550 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Roma? |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:27:59 |
@@ -86,37 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704338936196 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 影anti social影 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 22:28:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704338984290 |
-| Players | 2/8 |
-| Host Name | ЁБАНЫЙ ВОЛОДЯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:28:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28591704338984680 |
-| Players | 1/8 |
-| Host Name | Henrry |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:28:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28591704338989812 |
-| Players | 1/15 |
-| Host Name | 看我表演 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 22:28:18 |
+| Lobby ID | 28591704339094298 |
+| Players | 1/24 |
+| Host Name | EL MANCO DE LEPANTO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 22:28:24 |
 
 
 |  | epic_boss_fight_challenger |
