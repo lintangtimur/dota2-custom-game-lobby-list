@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550001100323 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Nekotactical |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:31:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550000740925 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | OK WBON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:30:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549997556725 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:24:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550001341575 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Выпустите |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:31:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550001453489 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | overcome |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:31:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550001470620 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | KLEYDERMAN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:31:46 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 10:31:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550001557347 |
-| Players | 6/8 |
-| Host Name | Dazzle |
+| Lobby ID | 28590550001021076 |
+| Players | 8/10 |
+| Host Name | Jane.A7x |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:31:56 |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:30:55 |
 
 
 |  | epic_boss_fight_normal |
