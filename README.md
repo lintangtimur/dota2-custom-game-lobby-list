@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:19:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549901382957 |
-| Players | 1/10 |
-| Host Name | Masha |
+| Lobby ID | 28590549901402559 |
+| Players | 3/8 |
+| Host Name | ME LEDER |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:22:00 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:22:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549762782827 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549901412509 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | abcdefghijklmnñopqrstuvwxyz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:22:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549900655323 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Solo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:20:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549895506458 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | RiftBreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:11:43 |
@@ -83,46 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 07:21:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590549901240077 |
-| Players | 9/10 |
-| Host Name | ̶M̶∀Dℕ℮$Ṧ |
+| Lobby ID | 28590549901754733 |
+| Players | 3/8 |
+| Host Name | Матюша |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:21:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549901402559 |
-| Players | 2/8 |
-| Host Name | ME LEDER |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:22:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590549901501246 |
-| Players | 2/8 |
-| Host Name | Бухая фея |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:22:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590549901534281 |
-| Players | 2/10 |
-| Host Name | Mr. Kartoplya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 07:22:17 |
+| Lobby Creation Time | Tuesday, January 2, 2024 07:22:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549901537199 |
-| Players | 1/15 |
+| Players | 14/15 |
 | Host Name | RVZJEBUXV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 07:22:17 |
