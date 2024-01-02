@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550318085496 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | nicko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:51:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550322021027 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | ACB |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:55:33 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 18:55:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550322319651 |
-| Players | 1/15 |
-| Host Name | Титьки(: |
+| Lobby ID | 28590550322350474 |
+| Players | 2/10 |
+| Host Name | KiW3^ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:55:52 |
+| Lobby Creation Time | Tuesday, January 2, 2024 18:55:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nutria bóbr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:55:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28590550322350474 |
-| Players | 2/10 |
-| Host Name | KiW3^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 18:55:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550320449393 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | I SEE YOU!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 18:53:54 |
