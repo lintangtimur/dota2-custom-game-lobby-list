@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549928486215 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Geegee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:11:38 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549937161817 |
-| Players | 2/15 |
-| Host Name | Tugarin Snake |
+| Players | 1/15 |
+| Host Name | wyecfm |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:28:00 |
 
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OZAI |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:18:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28590549937273637 |
+| Players | 1/5 |
+| Host Name | Kelgal |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:28:13 |
 
 
