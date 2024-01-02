@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550004261399 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | D-MF |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:37:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550005604483 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Freakazoid! |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:39:44 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Papa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:39:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28590550001100323 |
+| Players | 23/24 |
+| Host Name | Nekotactical |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:31:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550005835760 |
+| Players | 5/8 |
+| Host Name | Otra Vez ? |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:40:11 |
 
 
 |  | epic_boss_fight_nightmare |
