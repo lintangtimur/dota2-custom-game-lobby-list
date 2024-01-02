@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550021145511 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | kiyopon |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:10:00 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550018169969 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | ✡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:04:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550022463985 |
+| Players | 3/8 |
+| Host Name | minuta planki raz v den |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:12:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550022469556 |
+| Players | 4/8 |
+| Host Name | 930107629 ESCRIBEME Y PASO CP |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:12:32 |
 
 
 |  | epic_boss_fight_nightmare |
