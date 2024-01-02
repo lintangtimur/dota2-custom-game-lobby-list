@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550086810622 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:15:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550088471150 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:18:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550088379004 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Muichiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:18:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550089363274 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Yisus |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:20:34 |
@@ -83,20 +83,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:10:52 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550090002123 |
+| Players | 1/15 |
+| Host Name | PERFECTIONIST |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:21:44 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550089683147 |
-| Players | 5/10 |
-| Host Name | •l「sam 」 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:21:10 |
+| Lobby ID | 28590550086357218 |
+| Players | 7/10 |
+| Host Name | dom1br0s |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:14:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590550090050246 |
+| Players | 2/15 |
+| Host Name | DDDD |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:21:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550089312265 |
 | Players | 2/10 |
-| Host Name | GGOVER |
+| Host Name | takina inoue is not my wife |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:20:28 |
 
@@ -104,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550089130595 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BlueDeimos |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:20:08 |
