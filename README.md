@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:53:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28591704262772030 |
-| Players | 8/10 |
-| Host Name | Хаги Ваги |
+| Lobby ID | 28591704262978307 |
+| Players | 7/15 |
+| Host Name | coffee for your head |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:21:07 |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:21:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704257757334 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Joji |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:16:53 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704262690539 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | tv/villianeyes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:21:02 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28591704259655861 |
-| Players | 9/10 |
-| Host Name | Fey |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 21:18:28 |
+| Lobby ID | 28591704263082684 |
+| Players | 2/24 |
+| Host Name | jhostinhh |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:21:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28591704259462314 |
+| Players | 10/10 |
+| Host Name | Noisykiller |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:18:19 |
 
 
 |  | epic_boss_fight_nightmare |
