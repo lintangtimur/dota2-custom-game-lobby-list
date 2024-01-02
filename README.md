@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550177721153 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Женянатор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:50:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550176983414 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | HeHe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:49:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550177463655 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ⁱᵃᵐ|๕𝑖ɠɐc𝐡ɐ𝙙 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:50:23 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 15:51:20 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590550178259370 |
+| Players | 3/8 |
+| Host Name | Bóbr Kurwa ja pierdole |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 2, 2024 15:51:35 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550176686283 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | VURP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 15:49:13 |
