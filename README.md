@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550081614100 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Devod |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:06:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550084554306 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | old rat(all muted) |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:11:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550084558059 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | kisper |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:11:35 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:08:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28590550085088170 |
-| Players | 3/8 |
-| Host Name | Mitzy Te Extraño |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:12:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550083744612 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550085077688 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Zoro-juro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:12:34 |
