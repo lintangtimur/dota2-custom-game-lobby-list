@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550230882763 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Abyss❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:08:12 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, January 2, 2024 17:06:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550229901175 |
-| Players | 7/10 |
-| Host Name | Maireska |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 17:06:52 |
 
 
