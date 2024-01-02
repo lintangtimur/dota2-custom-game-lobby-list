@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549985375989 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | _____________ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:00:29 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 10:01:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28590549985989058 |
+| Players | 4/15 |
+| Host Name | Anita Max Wynn |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:01:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28590549986050875 |
+| Players | 5/8 |
+| Host Name | AleexitO TACO TACO |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 2, 2024 10:01:46 |
 
 
 |  | epic_boss_fight_nightmare |
