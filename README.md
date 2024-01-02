@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704275145740 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Latrell |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:31:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28591704302954111 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Positive Mental Animal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:55:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28591704302917328 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | rurinall |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:55:37 |
@@ -110,10 +110,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 21:55:23 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704303388643 |
+| Players | 3/15 |
+| Host Name | Yo, Panthro |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:56:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28591704303313574 |
+| Players | 3/15 |
+| Host Name | moonya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 21:55:59 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28591704300118680 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Abel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 21:53:09 |
