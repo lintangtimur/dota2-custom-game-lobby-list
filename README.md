@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549934119896 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:22:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590549931540521 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:17:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549934151420 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | SUN ♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:22:10 |
@@ -65,20 +65,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 08:21:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28590549933816513 |
-| Players | 3/10 |
-| Host Name | ̶M̶∀Dℕ℮$Ṧ |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:21:33 |
+| Lobby ID | 28590549933958271 |
+| Players | 10/24 |
+| Host Name | Regalando mmr por navidad+ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:21:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590549933882841 |
-| Players | 5/15 |
-| Host Name | CACHETON |
+| Players | 4/15 |
+| Host Name | Ninguém |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:21:40 |
 
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590549933837358 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | GoD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:21:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28590549933958271 |
-| Players | 4/24 |
-| Host Name | Regalando mmr por navidad+ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:21:48 |
 
 
 |  | epic_boss_fight_normal |
