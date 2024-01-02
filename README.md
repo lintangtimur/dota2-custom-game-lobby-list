@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550032436787 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Boss James |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:31:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550031969025 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Yisus |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:30:54 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590550032392576 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | w_xzed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:31:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28590550013417467 |
-| Players | 23/24 |
-| Host Name | StelioKontos |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 2, 2024 10:55:02 |
+| Lobby ID | 28590550032564891 |
+| Players | 1/8 |
+| Host Name | @bel...xD |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:32:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550032479732 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | YaMa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:31:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28590550032139487 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | VolTaGe |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:31:14 |
@@ -86,36 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28590550032579862 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Soodeira |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 2, 2024 11:32:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550032564891 |
-| Players | 1/8 |
-| Host Name | @bel...xD |
+| Lobby ID | 28590550032928907 |
+| Players | 1/10 |
+| Host Name | La parquita |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:32:02 |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:32:44 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28590550032659923 |
-| Players | 1/10 |
-| Host Name | La parquita |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:32:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550029611734 |
+| Lobby ID | 28590550032995823 |
 | Players | 2/10 |
-| Host Name | СексНаркотикАлко |
+| Host Name | subhumanbiotrash |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 11:26:22 |
+| Lobby Creation Time | Tuesday, January 2, 2024 11:32:51 |
 
 
