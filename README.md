@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28590549946520513 |
-| Players | 7/8 |
-| Host Name | лоджик <3 |
+| Players | 6/8 |
+| Host Name | TIDE 3 SPELL=DOG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:45:50 |
 
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 04:04:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590549947433799 |
-| Players | 9/10 |
-| Host Name | EL PIBE MOTOSIERRA giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:47:35 |
+| Lobby ID | 28590549947869474 |
+| Players | 1/15 |
+| Host Name | Piroco |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 2, 2024 08:48:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Capitulum Mitella |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 08:46:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590549947869474 |
-| Players | 1/15 |
-| Host Name | Piroco |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, January 2, 2024 08:48:25 |
 
 
