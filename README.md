@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 20:20:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704189568350 |
-| Players | 5/10 |
-| Host Name | Hanni- |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:20:17 |
+| Lobby ID | 28591704191317393 |
+| Players | 2/8 |
+| Host Name | Слабенький |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:21:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28591704190589981 |
-| Players | 7/8 |
-| Host Name | Сигал |
+| Lobby ID | 28591704191339787 |
+| Players | 1/8 |
+| Host Name | Luckyman |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:21:10 |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:21:49 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28591704190837157 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Arlekin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:21:23 |
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28591704188751872 |
-| Players | 9/10 |
-| Host Name | ME WITH 4 IMMORTAL BRAINS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:19:36 |
+| Lobby ID | 28591704191152605 |
+| Players | 3/10 |
+| Host Name | Second City Saint |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 2, 2024 20:21:39 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gippokrat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 2, 2024 20:21:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28591704191152605 |
-| Players | 3/10 |
-| Host Name | Second City Saint |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 2, 2024 20:21:39 |
 
 
