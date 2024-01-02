@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28590550084481991 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Reaper |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:11:27 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Raynuva |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:10:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28590550085077688 |
-| Players | 9/10 |
-| Host Name | Zoro-juro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:12:34 |
 
 
