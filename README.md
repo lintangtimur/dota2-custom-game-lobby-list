@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 2, 2024 13:50:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28590550103818459 |
-| Players | 1/8 |
-| Host Name | SiNsUi <3 |
+| Lobby ID | 28590550108248622 |
+| Players | 8/15 |
+| Host Name | BASHNASH |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:47:09 |
+| Lobby Creation Time | Tuesday, January 2, 2024 13:55:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ghost Grave |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:52:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28590550108248622 |
-| Players | 7/15 |
-| Host Name | BASHNASH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 2, 2024 13:55:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28590550107415180 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 2, 2024 13:53:38 |
