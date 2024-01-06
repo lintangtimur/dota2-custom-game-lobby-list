@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309179610168 |
-| Players | 7/15 |
-| Host Name | Potato |
+| Players | 6/15 |
+| Host Name | sECA |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 03:42:45 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309187041868 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ya feel me? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:50:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309179209975 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | NateBulaks |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:42:19 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309186156189 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | NANDITO (U) GRONE TLV ROJINEGRO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:49:54 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309186792319 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | cr[][][] |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:50:37 |
@@ -139,17 +139,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309187230838 |
-| Players | 10/15 |
-| Host Name | Elohim |
+| Lobby ID | 28595309187448881 |
+| Players | 1/15 |
+| Host Name | Salacil |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 03:51:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309187367383 |
+| Players | 3/15 |
+| Host Name | 口內射精 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 03:51:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309187445371 |
+| Players | 5/8 |
+| Host Name | Дымоооок |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:51:06 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:51:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309187455507 |
+| Players | 1/8 |
+| Host Name | Зима |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:51:21 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309077021314 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | EGEON ELECATONQUIRO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 01:57:33 |
