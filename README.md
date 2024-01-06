@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:28:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309269895604 |
-| Players | 4/8 |
-| Host Name | NURAYA |
-| Region | EUROPE |
+| Lobby ID | 28595309270020071 |
+| Players | 1/24 |
+| Host Name | merme |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 05:29:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309269903633 |
+| Players | 1/10 |
+| Host Name | MMR lose |
+| Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 05:29:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309269479456 |
-| Players | 6/8 |
-| Host Name | HippityHoppity |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:29:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,37 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309269816475 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | KERTTU EI OLE LELU |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:29:40 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309269921346 |
+| Players | 2/8 |
+| Host Name | #колбасаменяет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 05:29:49 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309269827492 |
-| Players | 7/15 |
-| Host Name | tot_samy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:29:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309269903633 |
-| Players | 1/10 |
-| Host Name | MMR lose |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 05:29:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309269906528 |
-| Players | 1/10 |
-| Host Name | Veliar_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:29:48 |
+| Lobby ID | 28595309269994708 |
+| Players | 14/15 |
+| Host Name | CumCомолец |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:29:54 |
 
 
 |  | epic_boss_fight_nightmare |
