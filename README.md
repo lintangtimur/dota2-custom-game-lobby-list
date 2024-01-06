@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309304999431 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Лесное Быдло |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:19:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309303197201 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | After Midnight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:16:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309310515475 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | piensa pe chato |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:27:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309310530671 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | РАЙАН ГОСЛИНГ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:27:46 |
@@ -110,11 +110,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:27:56 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309310735838 |
+| Players | 7/10 |
+| Host Name | NeverGS |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:28:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309310760188 |
+| Players | 1/24 |
+| Host Name | TRADEO RECOMENDS :,V |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:28:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309310808048 |
+| Players | 1/8 |
+| Host Name | Four |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 06:28:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309304662830 |
-| Players | 2/10 |
-| Host Name | Dndama |
+| Players | 1/10 |
+| Host Name | Fgalvezy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:18:54 |
 
