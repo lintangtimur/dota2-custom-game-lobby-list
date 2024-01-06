@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309168966174 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | NANAMI T-T |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:31:13 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309169141389 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Meow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:31:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309168682728 |
-| Players | 8/10 |
-| Host Name | Oscar |
+| Lobby ID | 28595309169154309 |
+| Players | 1/8 |
+| Host Name | Meles |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:30:55 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:31:24 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309167587017 |
-| Players | 9/10 |
-| Host Name | Magic_god |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 03:29:44 |
+| Lobby ID | 28595309168240119 |
+| Players | 7/10 |
+| Host Name | 86 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:30:26 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309165158985 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 0 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 03:27:11 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309167991556 |
-| Players | 4/15 |
+| Players | 1/15 |
 | Host Name | ИВС ШОТенко |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 03:30:10 |
@@ -130,29 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309169215266 |
-| Players | 6/15 |
-| Host Name | _Dagestan_05 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:31:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309169100880 |
-| Players | 4/8 |
-| Host Name | maison margiela |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:31:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309169154309 |
-| Players | 1/8 |
-| Host Name | Meles |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:31:24 |
+| Lobby ID | 28595309169385022 |
+| Players | 2/15 |
+| Host Name | Antagonist |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 03:31:39 |
 
 
 |  | epic_boss_fight_normal |
