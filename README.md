@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309129020541 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | zxc |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:49:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309115966517 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Megasis |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 02:36:15 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309120544040 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | [DG] Smurf Aposentado |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 02:40:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309129035396 |
-| Players | 2/8 |
-| Host Name | дневной дрочер |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 02:49:32 |
+| Lobby ID | 28595309129118197 |
+| Players | 3/10 |
+| Host Name | MARCUS RASHFOR LUJAN CARRION |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 02:49:37 |
 
 
 |  | ot3_gardens_duo |
@@ -101,37 +101,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 02:49:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309125383086 |
-| Players | 6/8 |
-| Host Name | Slu♡ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 02:45:48 |
+| Lobby ID | 28595309128229096 |
+| Players | 9/10 |
+| Host Name | ATJ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 02:48:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309128191362 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Luckyman |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 02:48:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309129088675 |
-| Players | 3/15 |
-| Host Name | = МС ГАНДЖУБАС = |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 02:49:35 |
+| Lobby ID | 28595309129237257 |
+| Players | 2/10 |
+| Host Name | / |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, January 7, 2024 02:49:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309128909050 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | HarryTD |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 02:49:24 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309128925731 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | denouement of eternity |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:49:25 |
@@ -153,6 +153,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ezio Kael Kairos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 02:49:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309129247997 |
+| Players | 6/10 |
+| Host Name | Сигма |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 02:49:45 |
 
 
 |  | epic_boss_fight_normal |
