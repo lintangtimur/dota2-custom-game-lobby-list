@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:57:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309327859746 |
-| Players | 7/8 |
-| Host Name | wtt2k |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:55:35 |
+| Lobby ID | 28595309329321193 |
+| Players | 1/15 |
+| Host Name | parkghetto |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:58:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309328028724 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Leyo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:55:52 |
@@ -41,46 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309328744063 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | 水蓮 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:57:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309328910899 |
-| Players | 9/10 |
-| Host Name | пикаю аппарата |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:57:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309328899799 |
-| Players | 4/8 |
-| Host Name | nejni pudge |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:57:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309327257371 |
-| Players | 3/15 |
-| Host Name | CLSMCSMII |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:54:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309329250162 |
-| Players | 1/8 |
-| Host Name | Фиксирую Прибыль |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:57:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,21 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:56:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309328733436 |
-| Players | 6/8 |
-| Host Name | TU VECINO 👑🐼 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:57:02 |
+| Lobby ID | 28595309329216721 |
+| Players | 13/15 |
+| Host Name | Blob- |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:57:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309329216721 |
-| Players | 4/15 |
-| Host Name | Blob- |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:57:50 |
+| Lobby ID | 28595309327257371 |
+| Players | 3/15 |
+| Host Name | CLSMCSMII |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:54:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309329344393 |
+| Players | 4/10 |
+| Host Name | sloppy toppy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:58:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309329290624 |
+| Players | 2/10 |
+| Host Name | DEB(◉ ͜ʖ ͡◉)STER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:57:58 |
 
 
