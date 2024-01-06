@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309250777593 |
-| Players | 1/8 |
-| Host Name | Шляпик |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:05:00 |
+| Lobby ID | 28595309250487407 |
+| Players | 2/8 |
+| Host Name | El whiskas |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:04:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309250583615 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:04:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309247461100 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 05:00:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309250766193 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Desperuanizador |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:04:59 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:04:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309250487407 |
-| Players | 2/8 |
-| Host Name | El whiskas |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 05:04:39 |
+| Lobby ID | 28595309251018504 |
+| Players | 4/10 |
+| Host Name | NeLizalPizdu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 05:05:18 |
 
 
 |  | epic_boss_fight_nightmare |
