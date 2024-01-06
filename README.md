@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309285191177 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Sneaky Murloc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:50:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309295114573 |
-| Players | 10/15 |
-| Host Name | Reactoru'3 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:04:49 |
+| Lobby ID | 28595309295297827 |
+| Players | 4/10 |
+| Host Name | hola tonotos |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 06:05:05 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309295176330 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | hopeless throw down your tears |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:04:55 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BadBoi |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:04:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309295295653 |
+| Players | 2/15 |
+| Host Name | GG |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 06:05:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309295350022 |
+| Players | 2/15 |
+| Host Name | Rendi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:05:10 |
 
 
 |  | epic_boss_fight_normal |
