@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309327412141 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | reze |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:54:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309323313637 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:48:11 |
@@ -77,27 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309327305600 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Toxin |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:54:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309327402608 |
-| Players | 6/15 |
-| Host Name | Hentai_Octokuro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:54:50 |
+| Lobby ID | 28595309327570245 |
+| Players | 1/24 |
+| Host Name | Jazz |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 06:55:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309327476709 |
-| Players | 2/24 |
-| Host Name | [NeXus`] CreeW AsaSsiN |
+| Lobby ID | 28595309327537379 |
+| Players | 6/24 |
+| Host Name | Revenkill |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:54:57 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:55:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309327565098 |
+| Players | 2/5 |
+| Host Name | Ghost of Kyiv |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:55:06 |
 
 
