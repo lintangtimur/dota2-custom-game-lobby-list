@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309114658147 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | "TumanboX" |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 02:34:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309114886180 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | DarkDuck |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:35:11 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309115634951 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ASD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 02:35:56 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 02:35:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309115717037 |
-| Players | 4/15 |
-| Host Name | Grash |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 02:36:00 |
+| Lobby ID | 28595309115983464 |
+| Players | 4/8 |
+| Host Name | FFC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 02:36:16 |
 
 
 |  | ot3_gardens_duo |
@@ -153,6 +153,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Luckyman |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 02:36:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309115872945 |
+| Players | 4/10 |
+| Host Name | roflyu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 02:36:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309115966517 |
+| Players | 1/15 |
+| Host Name | 3ZAR |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 02:36:15 |
 
 
 |  | epic_boss_fight_normal |
