@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309158703767 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:20:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309159673311 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Agua |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 03:21:25 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309160187920 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:21:58 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309160410358 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | Sepelire |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:22:12 |
@@ -121,11 +121,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309157025959 |
-| Players | 4/10 |
-| Host Name | Потный лавандышь |
+| Lobby ID | 28595309160577412 |
+| Players | 6/10 |
+| Host Name | paNda |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:18:39 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:22:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309160569529 |
+| Players | 4/10 |
+| Host Name | avtorje |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:22:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -137,19 +146,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 01:57:33 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309157978580 |
-| Players | 1/5 |
-| Host Name | lucas |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 03:19:39 |
+| Lobby ID | 28595309160567270 |
+| Players | 1/10 |
+| Host Name | Nyx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:22:22 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595309160441344 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | toxic + critic |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:22:14 |
