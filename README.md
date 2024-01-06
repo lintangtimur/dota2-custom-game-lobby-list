@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309141591587 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | myxa |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:02:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309140794916 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | DaVid J. |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 03:01:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309140262790 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Jet |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 03:01:09 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309139744134 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Arsenyx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:00:37 |
@@ -128,22 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 03:02:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309141694010 |
-| Players | 4/15 |
-| Host Name | RY9LITE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:02:38 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309141742310 |
-| Players | 3/8 |
-| Host Name | thunder punch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:02:41 |
+| Lobby ID | 28595309141108643 |
+| Players | 7/8 |
+| Host Name | CHERT |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:02:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -153,6 +144,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | why33eez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:02:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309141811210 |
+| Players | 1/8 |
+| Host Name | Akkerman |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:02:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309141851128 |
+| Players | 8/15 |
+| Host Name | Nexver |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:02:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309141932251 |
+| Players | 1/8 |
+| Host Name | Luckyman |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 03:02:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309141943260 |
+| Players | 1/8 |
+| Host Name | RezzAkk |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:02:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309141958098 |
+| Players | 5/8 |
+| Host Name | All Dogs Go to Heaven |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:02:54 |
 
 
 |  | epic_boss_fight_normal |
