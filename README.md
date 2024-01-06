@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309281750591 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | UwU |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:45:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309281659568 |
-| Players | 1/15 |
-| Host Name | 我晕 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Sunday, January 7, 2024 05:45:47 |
+| Lobby ID | 28595309282080677 |
+| Players | 5/10 |
+| Host Name | 6e3yMHbluJIopg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 05:46:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309281682744 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ПАМАЗАНИЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:45:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309281822642 |
-| Players | 8/10 |
-| Host Name | ｐａｌａｄｉｎ ヲョー |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:46:00 |
+| Lobby ID | 28595309281711733 |
+| Players | 12/15 |
+| Host Name | Jesus Used Aegis |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 05:45:51 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309281162311 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | TG ORGES |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:45:06 |
@@ -103,20 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309281711733 |
-| Players | 7/15 |
-| Host Name | Jesus Used Aegis |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 05:45:51 |
+| Lobby ID | 28595309282057387 |
+| Players | 1/15 |
+| Host Name | Crrano. Acuarie |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:46:20 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309277561176 |
-| Players | 4/5 |
-| Host Name | Jean-Michel Beauf |
+| Lobby ID | 28595309282140472 |
+| Players | 1/8 |
+| Host Name | 44 |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:40:09 |
+| Lobby Creation Time | Sunday, January 7, 2024 05:46:27 |
 
 
 |  | epic_boss_fight_nightmare |
