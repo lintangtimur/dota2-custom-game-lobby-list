@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309280842319 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Clark |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:44:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309282278373 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | yaaaya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:46:38 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309280759999 |
-| Players | 4/24 |
-| Host Name | Noob Master 6534.897:4 |
+| Players | 3/24 |
+| Host Name | FÁCIL |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 05:44:33 |
 
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:43:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309282620607 |
-| Players | 12/15 |
-| Host Name | A Z I Z O V |
+| Lobby ID | 28595309282874046 |
+| Players | 5/10 |
+| Host Name | ваня |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:47:06 |
+| Lobby Creation Time | Sunday, January 7, 2024 05:47:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -137,10 +137,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:45:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309282956120 |
+| Players | 1/15 |
+| Host Name | Furda |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:47:35 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309279837422 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | It doesn't matter |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:43:17 |
