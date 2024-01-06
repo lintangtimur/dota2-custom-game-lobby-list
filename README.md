@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309303693979 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 44 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:17:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309302979518 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | anita max wynn |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 06:16:23 |
@@ -40,26 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309304234429 |
-| Players | 3/8 |
-| Host Name | 0ste.alth.le.af0 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:18:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309299511570 |
-| Players | 23/24 |
-| Host Name | Phylosopher |
+| Lobby ID | 28595309304532302 |
+| Players | 2/8 |
+| Host Name | nikenmar |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:11:18 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:18:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309304561818 |
+| Players | 5/15 |
+| Host Name | Burbenog |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:18:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309304237274 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Pandasoku |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:18:15 |
@@ -81,33 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hawk |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:15:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309304265703 |
-| Players | 13/15 |
-| Host Name | daedauzaborisomqeqeqeqe |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:18:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309304360453 |
-| Players | 9/10 |
-| Host Name | мастур-beast |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:18:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309304461079 |
-| Players | 3/8 |
-| Host Name | Тамагачи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:18:35 |
 
 
 |  | epic_boss_fight_nightmare |
