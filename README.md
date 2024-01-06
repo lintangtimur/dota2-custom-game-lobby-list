@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309115966517 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | aes_ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 02:36:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309137363419 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 02:58:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309136076320 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | hanswurst |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:56:47 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 02:58:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309137647207 |
-| Players | 9/10 |
-| Host Name | Run Yo Pockets |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 02:58:25 |
+| Lobby ID | 28595309138092874 |
+| Players | 1/8 |
+| Host Name | Luckyman |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 02:58:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309134388338 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | 161RUS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:55:02 |
@@ -92,40 +92,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 02:57:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309137785850 |
-| Players | 8/15 |
-| Host Name | ばかplayer |
+| Lobby ID | 28595309138062969 |
+| Players | 2/8 |
+| Host Name | GGG |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 02:58:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309137120432 |
+| Players | 4/8 |
+| Host Name | джем |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 02:58:34 |
+| Lobby Creation Time | Sunday, January 7, 2024 02:57:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309136425225 |
+| Players | 3/8 |
+| Host Name | Брр Колбас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 02:57:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309138067517 |
+| Players | 5/8 |
+| Host Name | Ерунда |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 02:58:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309137895020 |
+| Lobby ID | 28595309138003179 |
+| Players | 8/10 |
+| Host Name | L♡ |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 02:58:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309138019406 |
 | Players | 2/10 |
-| Host Name | toofarforRonaldotothinkaboutit |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 02:58:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309137906278 |
-| Players | 4/8 |
-| Host Name | hazard stalker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 02:58:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309137930490 |
-| Players | 3/8 |
-| Host Name | Simajz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 02:58:43 |
+| Host Name | Intelegent |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, January 7, 2024 02:58:49 |
 
 
 |  | epic_boss_fight_normal |
@@ -144,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ᶠᶸᶜᵏᵧₒᵤ.net |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 02:58:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309138057562 |
+| Players | 1/10 |
+| Host Name | Payasin el Payasote |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 02:58:51 |
 
 
