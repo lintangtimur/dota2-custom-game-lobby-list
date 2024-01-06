@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 04:30:36 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309222960812 |
+| Players | 2/10 |
+| Host Name | Пан Хтоська |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 04:31:23 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309222106075 |
-| Players | 3/8 |
-| Host Name | Meles |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 04:30:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309220561680 |
-| Players | 21/24 |
-| Host Name | Хороший_Рашист=200 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 04:28:36 |
+| Lobby ID | 28595309223043309 |
+| Players | 4/8 |
+| Host Name | Filipp_Stalker_>D |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:31:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309220772442 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | TucxX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 04:28:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309222349395 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Yvaine |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 04:30:40 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309221752716 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | merme |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 04:29:59 |
@@ -113,28 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309222620477 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | I know your ip |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 04:30:59 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309222727176 |
-| Players | 2/10 |
-| Host Name | Afferist |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 04:31:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309222871058 |
-| Players | 1/8 |
-| Host Name | Corvus Genus |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 04:31:17 |
+| Lobby ID | 28595309223052476 |
+| Players | 4/8 |
+| Host Name | PMA cancel |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 04:31:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pcn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 04:30:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309222916660 |
-| Players | 1/5 |
-| Host Name | Himer Senpai |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 04:31:20 |
 
 
