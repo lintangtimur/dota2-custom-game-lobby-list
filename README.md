@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309312292699 |
 | Players | 2/15 |
-| Host Name | hi march |
+| Host Name | FORNICATOR_MAXIMUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:30:29 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309310503842 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Grodan Pogg |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:27:43 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309312315786 |
-| Players | 3/8 |
-| Host Name | Never give Up! |
+| Players | 2/8 |
+| Host Name | wtt2k |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:30:31 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309312247616 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Leyo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:30:25 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:20:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309311354253 |
-| Players | 7/8 |
-| Host Name | Borov |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:29:02 |
+| Lobby ID | 28595309312459122 |
+| Players | 2/10 |
+| Host Name | overthrow enjoyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:30:45 |
 
 
 |  | ot3_desert_octet |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:28:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309311922830 |
-| Players | 21/24 |
-| Host Name | ÑAÑAÑAÑAÑAÑAÑAÑAÑAÑAÑ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:29:55 |
+| Lobby ID | 28595309312559283 |
+| Players | 1/15 |
+| Host Name | StaMgaD™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:30:54 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309312254092 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | LA ULTIMA ESPERANZA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:30:25 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309312291715 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Orthodox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:30:29 |
@@ -112,11 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309312441783 |
+| Lobby ID | 28595309312493380 |
 | Players | 1/15 |
-| Host Name | StaMgaD™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:30:43 |
+| Host Name | standin.idk™ |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 06:30:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309312524292 |
+| Players | 4/8 |
+| Host Name | Revenkill |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 06:30:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309312555699 |
+| Players | 4/8 |
+| Host Name | ✯LTD.RYW |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:30:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,18 +158,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309312185285 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | artemmik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:30:19 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595309312367512 |
-| Players | 2/7 |
-| Host Name | showmethefireworkstonight |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:30:36 |
 
 
