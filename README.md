@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309240303753 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 04:52:09 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309240961920 |
-| Players | 11/15 |
-| Host Name | PTP |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 04:52:57 |
+| Lobby ID | 28595309241320858 |
+| Players | 3/15 |
+| Host Name | Swanky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:53:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309239067076 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | EL TERROR DE LOS CARRYS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 04:50:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309240788403 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Eduardo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 04:52:44 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309241145998 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Fugman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 04:53:10 |
@@ -104,25 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309238745706 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | De Tin Marín |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 04:50:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309241106673 |
-| Players | 8/10 |
-| Host Name | egoist |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 04:53:07 |
+| Lobby ID | 28595309241389982 |
+| Players | 5/8 |
+| Host Name | Borealis |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 04:53:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309241126925 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | he will win |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 04:53:09 |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Portulak |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 04:52:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309241380373 |
+| Players | 1/5 |
+| Host Name | Frog |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 04:53:27 |
 
 
