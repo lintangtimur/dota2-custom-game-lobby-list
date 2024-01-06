@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309137819194 |
-| Players | 3/24 |
-| Host Name | P2W NO SKILL |
+| Players | 2/24 |
+| Host Name | kukkai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:58:36 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309137363419 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 02:58:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309134388338 |
-| Players | 7/15 |
+| Players | 1/15 |
 | Host Name | su4ara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:55:02 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309139164567 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | hola tonotos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:00:00 |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 02:59:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309139123913 |
-| Players | 4/8 |
-| Host Name | SirFoxler |
+| Lobby ID | 28595309139258091 |
+| Players | 6/10 |
+| Host Name | EVI |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 02:59:58 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:00:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309139143379 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Luckyman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:59:59 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309139189371 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ATAATA |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 03:00:02 |
