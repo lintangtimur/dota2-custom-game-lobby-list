@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309162555393 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:24:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309164017718 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | senych |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:25:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309157678454 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | РАЙАН ГОСЛИНГ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 03:19:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309162934739 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SOY STEVEN Y SOY MOSTACERO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:24:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309163594821 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | paNda |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:25:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309163063131 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | EG. Strawberry |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:24:59 |
@@ -123,7 +123,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309163698143 |
 | Players | 1/15 |
-| Host Name | PUDGE POS 5 ENJOYER |
+| Host Name | rodriguezrimachi123 |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 03:25:39 |
 
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309163683600 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 白马？哼,定叫他有来无回. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:25:38 |
@@ -144,6 +144,60 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Big prolem (nob) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:25:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309164086542 |
+| Players | 2/8 |
+| Host Name | Ты Нарекай |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:26:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309164103417 |
+| Players | 1/8 |
+| Host Name | cheesit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:26:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309164196802 |
+| Players | 4/8 |
+| Host Name | v potoke! 1437 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:26:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309163452421 |
+| Players | 4/8 |
+| Host Name | i have no enemies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:25:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309162451121 |
+| Players | 14/15 |
+| Host Name | duwawin |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:24:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309162700261 |
+| Players | 9/10 |
+| Host Name | // |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:24:37 |
 
 
 |  | epic_boss_fight_normal |
@@ -167,8 +221,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309163311779 |
-| Players | 3/10 |
-| Host Name | Bottom.Dust jo it |
+| Players | 2/10 |
+| Host Name | deadly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:25:15 |
 
