@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309297019475 |
-| Players | 4/8 |
-| Host Name | Four |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 06:07:36 |
+| Lobby ID | 28595309296798037 |
+| Players | 12/15 |
+| Host Name | Folcatus |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:07:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:05:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309296800447 |
-| Players | 6/10 |
-| Host Name | neuroleptik vkid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:07:17 |
+| Lobby ID | 28595309297087627 |
+| Players | 1/8 |
+| Host Name | Elysium |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 06:07:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309295769608 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | LD. YUYA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:05:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309293053713 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Smile xD |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:01:52 |
@@ -50,37 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309296813885 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Anubis |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 06:07:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309296798037 |
-| Players | 9/15 |
-| Host Name | Folcatus |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:07:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309296219213 |
-| Players | 2/8 |
-| Host Name | Kadzutora |
+| Lobby ID | 28595309297113205 |
+| Players | 3/10 |
+| Host Name | zotci# |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:06:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309297010823 |
-| Players | 1/8 |
-| Host Name | ... |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:07:35 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:07:44 |
 
 
 |  | epic_boss_fight_nightmare |
