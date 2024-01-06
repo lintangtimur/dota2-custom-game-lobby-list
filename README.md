@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309266391496 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | onix |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 05:25:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309265779646 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Balrog |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:24:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309266099585 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | godblessing |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:24:45 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309264426107 |
 | Players | 2/24 |
-| Host Name | PEEK NASHEEE Nesser |
+| Host Name | YGGR |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:22:35 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309264213303 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Stepdad with boundary issues |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 05:22:18 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309266379735 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | www |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:25:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309266299071 |
-| Players | 2/8 |
-| Host Name | twitch.tv/decbrine |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:25:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309266269667 |
-| Players | 11/15 |
-| Host Name | - |
+| Lobby ID | 28595309266526318 |
+| Players | 2/10 |
+| Host Name | Sladko Dunul |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:24:58 |
+| Lobby Creation Time | Sunday, January 7, 2024 05:25:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309265167892 |
+| Players | 8/10 |
+| Host Name | UwU |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:23:32 |
 
 
 |  | epic_boss_fight_nightmare |
