@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309259939200 |
-| Players | 2/24 |
-| Host Name | Baby Shark |
+| Players | 1/24 |
+| Host Name | Weeb Slayer |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:16:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309260655334 |
-| Players | 1/8 |
-| Host Name | ДА, СКУФ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:17:41 |
+| Lobby ID | 28595309260713785 |
+| Players | 1/15 |
+| Host Name | 卍Zangetsu卍 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:17:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309260693961 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | 可爱的假雀斑 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:17:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309253349778 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | VoDka-KimimarO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 05:08:16 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309260354437 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Humorist |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:17:18 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309260638452 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | MONO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:17:40 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309260641548 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | Basado Hyperclap |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:17:40 |
@@ -131,28 +131,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309260690739 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Mishonnex |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:17:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309260691018 |
-| Players | 1/8 |
-| Host Name | Pseudomona Aeruginosa |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 05:17:44 |
+| Lobby ID | 28595309259535810 |
+| Players | 9/10 |
+| Host Name | Nova |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 05:16:14 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28595309252268618 |
-| Players | 4/5 |
-| Host Name | ♠♣♦♥ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 05:06:53 |
+| Lobby ID | 28595309260201944 |
+| Players | 1/7 |
+| Host Name | Zaca12gamer |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 05:17:06 |
 
 
 |  | epic_boss_fight_challenger |
@@ -171,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✟♱♰ SAN GATO ✟♱♰ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:15:49 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595309260201944 |
-| Players | 1/7 |
-| Host Name | Zaca12gamer |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 05:17:06 |
 
 
