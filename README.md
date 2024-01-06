@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309250487407 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | El whiskas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:04:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309250583615 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:04:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309250763368 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Mr.Оракул |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:04:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309247461100 |
-| Players | 5/24 |
+| Players | 2/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 05:00:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309250766193 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Desperuanizador |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:04:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309250196711 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | пули от бабули |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:04:17 |
@@ -94,11 +94,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309251018504 |
+| Lobby ID | 28595309251072302 |
 | Players | 4/10 |
-| Host Name | NeLizalPizdu |
+| Host Name | Лицо хищника |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:05:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309251054238 |
+| Players | 1/24 |
+| Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:05:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309251026791 |
+| Players | 1/10 |
+| Host Name | UwU |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:05:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309251035941 |
+| Players | 3/8 |
+| Host Name | шарійКО |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:05:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309251120139 |
+| Players | 5/8 |
+| Host Name | flow |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:05:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309250474506 |
+| Players | 14/15 |
+| Host Name | Насрал |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:05:18 |
+| Lobby Creation Time | Sunday, January 7, 2024 05:04:38 |
 
 
 |  | epic_boss_fight_nightmare |
