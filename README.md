@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:16:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309260444680 |
-| Players | 3/10 |
-| Host Name | GUS MOBLIN |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 05:17:25 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309260471378 |
-| Players | 2/8 |
-| Host Name | Я пустота..💔 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:17:27 |
+| Lobby ID | 28595309260655334 |
+| Players | 1/8 |
+| Host Name | ДА, СКУФ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:17:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309260693961 |
+| Players | 1/24 |
+| Host Name | 可爱的假雀斑 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:17:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,31 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:15:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309260360305 |
-| Players | 11/15 |
-| Host Name | Yas § |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 05:17:18 |
+| Lobby ID | 28595309260651235 |
+| Players | 3/10 |
+| Host Name | Insomniac |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:17:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309260354437 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Humorist |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:17:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309256149956 |
-| Players | 23/24 |
-| Host Name | FÁCIL |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 05:11:52 |
 
 
 |  | ot3_gardens_duo |
@@ -119,22 +110,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:17:22 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309260638452 |
+| Players | 2/24 |
+| Host Name | MONO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:17:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309260641548 |
+| Players | 3/15 |
+| Host Name | Basado Hyperclap |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:17:40 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309260412209 |
-| Players | 6/8 |
-| Host Name | Mgc |
+| Lobby ID | 28595309260690739 |
+| Players | 1/8 |
+| Host Name | Mishonnex |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:17:22 |
+| Lobby Creation Time | Sunday, January 7, 2024 05:17:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309260531229 |
-| Players | 1/10 |
-| Host Name | メザモテ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:17:32 |
+| Lobby ID | 28595309260691018 |
+| Players | 1/8 |
+| Host Name | Pseudomona Aeruginosa |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:17:44 |
 
 
 |  | epic_boss_fight_normal |
