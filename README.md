@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309317950682 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Don payiyo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:39:31 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309316375359 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | After Midnight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:36:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309318446868 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | #### |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:40:21 |
@@ -40,47 +40,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309317827277 |
-| Players | 13/15 |
-| Host Name | heraldo road to guardian |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:39:18 |
+| Lobby ID | 28595309318662328 |
+| Players | 1/15 |
+| Host Name | ★S L A D K I Y★ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:40:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309317948332 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:39:31 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309318471716 |
-| Players | 7/8 |
-| Host Name | Shiiet |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:40:23 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309318600928 |
-| Players | 4/10 |
-| Host Name | 雨Ой, а что случилось? |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:40:36 |
+| Lobby ID | 28595309318728702 |
+| Players | 1/10 |
+| Host Name | Teres |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 06:40:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309318663536 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Mori [MuryOKushO] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:40:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309317827277 |
+| Players | 14/15 |
+| Host Name | heraldo road to guardian |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 06:39:18 |
 
 
 |  | epic_boss_fight_nightmare |
