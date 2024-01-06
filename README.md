@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309286374084 |
-| Players | 13/15 |
-| Host Name | ...... |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 05:52:20 |
+| Lobby ID | 28595309286985307 |
+| Players | 2/15 |
+| Host Name | Defender |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:53:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309280759999 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | PossibleGhostface |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 05:44:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309285758947 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | DEIGO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:51:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309286418358 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Buscador de las almas perdidas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:52:23 |
@@ -104,25 +104,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309286150787 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | GTA VI COMMING 2025 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:52:01 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309286750114 |
-| Players | 10/15 |
-| Host Name | Cecilia |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:52:51 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309286712637 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | / |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:52:48 |
@@ -130,11 +121,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309286791101 |
-| Players | 3/15 |
+| Lobby ID | 28595309286976151 |
+| Players | 4/15 |
 | Host Name | cool calm and collected |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:52:54 |
+| Lobby Creation Time | Sunday, January 7, 2024 05:53:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309286976295 |
+| Players | 1/10 |
+| Host Name | monkey monkey |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:53:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309287017105 |
+| Players | 5/8 |
+| Host Name | he will win |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 05:53:13 |
 
 
 |  | epic_boss_fight_nightmare |
