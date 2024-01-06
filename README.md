@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309304999431 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Nanachi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:19:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309303197201 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | After Midnight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:16:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309308433681 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | messiwo™ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:24:34 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:20:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309308664880 |
-| Players | 12/15 |
-| Host Name | Blob- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:24:55 |
+| Lobby ID | 28595309308884329 |
+| Players | 1/24 |
+| Host Name | thekillbus32 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 06:25:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309308662598 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | morris. |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:24:55 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309308545070 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Gycu_Lebedu |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:24:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309308927220 |
+| Players | 4/8 |
+| Host Name | погрешность |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:25:19 |
 
 
 |  | epic_boss_fight_nightmare |
