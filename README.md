@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309220058155 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Shambooh ֎ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 04:28:01 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309219908469 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Real Eyes Realize Real Lies |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 04:27:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309220175363 |
-| Players | 4/10 |
-| Host Name | bottle |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 04:28:09 |
+| Lobby ID | 28595309220147152 |
+| Players | 4/8 |
+| Host Name | sosamba2010 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:28:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309213040151 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Meowmed Ali |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 04:19:57 |
@@ -95,46 +95,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309219008791 |
-| Players | 2/10 |
-| Host Name | Когда дьявол плач |
+| Players | 1/10 |
+| Host Name | Goodarz |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 04:26:48 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309220350278 |
+| Players | 1/24 |
+| Host Name | SoloHard.SNeekErs |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:28:21 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309218533353 |
-| Players | 9/10 |
-| Host Name | Ricardo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 04:26:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309220169764 |
-| Players | 5/8 |
-| Host Name | Andryxa |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 04:28:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309220147152 |
-| Players | 1/8 |
-| Host Name | sosamba2010 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 04:28:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309220188025 |
-| Players | 1/8 |
-| Host Name | MAHLER HAMMER |
+| Lobby ID | 28595309220230347 |
+| Players | 3/10 |
+| Host Name | perfect world |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 04:28:10 |
+| Lobby Creation Time | Sunday, January 7, 2024 04:28:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309220255722 |
+| Players | 2/15 |
+| Host Name | the idiot mile |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 04:28:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309220338703 |
+| Players | 3/8 |
+| Host Name | ropsb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:28:20 |
 
 
 |  | epic_boss_fight_nightmare |
