@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309326527737 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | standin.idk™ |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 06:53:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309327412141 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | reze |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:54:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309323313637 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:48:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309327570245 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Jazz |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 06:55:06 |
@@ -95,18 +95,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309327537379 |
-| Players | 6/24 |
-| Host Name | Revenkill |
+| Players | 4/24 |
+| Host Name | кафе ♠ (Dead Blonde) ♠ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:55:03 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309327565098 |
-| Players | 2/5 |
-| Host Name | Ghost of Kyiv |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:55:06 |
+| Lobby ID | 28595309327608603 |
+| Players | 2/15 |
+| Host Name | (PDVL)-CII6 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:55:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309327621325 |
+| Players | 1/8 |
+| Host Name | чвк талант |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:55:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309326989717 |
+| Players | 9/10 |
+| Host Name | Chappi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:54:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309327661128 |
+| Players | 1/10 |
+| Host Name | dog spirit |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:55:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309327658664 |
+| Players | 3/8 |
+| Host Name | erebus NEOXA |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:55:15 |
 
 
