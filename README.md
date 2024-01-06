@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309231841780 |
+| Lobby ID | 28595309230827729 |
 | Players | 1/24 |
-| Host Name | WSWSWSWSWSWSWS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 04:42:02 |
+| Host Name | 想一起玩de请删好友 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 04:40:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 04:41:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309231993279 |
-| Players | 6/8 |
-| Host Name | PAPLAVOK |
+| Lobby ID | 28595309232278713 |
+| Players | 10/15 |
+| Host Name | SS3NPA1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 04:42:12 |
+| Lobby Creation Time | Sunday, January 7, 2024 04:42:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309231922136 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | БОБА |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 04:42:07 |
@@ -68,43 +68,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309230684097 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | RROCCO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 04:40:39 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309213037976 |
-| Players | 2/8 |
-| Host Name | da1sy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 04:19:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309230827729 |
-| Players | 1/24 |
-| Host Name | 想一起玩de请删好友 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 04:40:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309231689246 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | MR YORYIE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 04:41:51 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309232402836 |
+| Players | 1/24 |
+| Host Name | WSWSWSWSWSWSWS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 04:42:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309232413080 |
+| Players | 4/10 |
+| Host Name | Отдаюсьзафулпати |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:42:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309232421841 |
+| Players | 2/10 |
+| Host Name | 呪術反転：赤 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:42:43 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309230715782 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | $ilent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 04:40:42 |
