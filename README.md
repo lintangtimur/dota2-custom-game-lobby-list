@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309291869242 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Eblis |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:00:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309292023350 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | AlvaDonna |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:00:24 |
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309292025382 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Wicked)Sick) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:00:24 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309291458077 |
-| Players | 9/10 |
-| Host Name | сигаретный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:59:36 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309277775363 |
-| Players | 23/24 |
+| Players | 21/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 05:40:27 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309288168599 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | AmongUs3100 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:54:51 |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:55:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309292164448 |
+| Players | 1/10 |
+| Host Name | ARYx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:00:36 |
 
 
