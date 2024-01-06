@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309210584569 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Stan ♂ Next ♂ Door |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 04:17:10 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 04:12:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309201903208 |
-| Players | 23/24 |
-| Host Name | 白马？哼,定叫他有来无回. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 04:07:25 |
+| Lobby ID | 28595309211941633 |
+| Players | 4/8 |
+| Host Name | ABSOLUT_SUKUNA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:18:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309211738872 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | ♦♣Aaron♠♥ |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 04:18:29 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 04:14:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309210384602 |
-| Players | 3/8 |
-| Host Name | Mishonnex |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 04:16:56 |
+| Lobby ID | 28595309211723987 |
+| Players | 9/10 |
+| Host Name | Road to titan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:18:28 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309211788989 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | HTT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 04:18:32 |
@@ -121,20 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309211723987 |
+| Lobby ID | 28595309211975468 |
 | Players | 5/10 |
-| Host Name | Road to titan |
+| Host Name | sinsiya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 04:18:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309211818052 |
-| Players | 4/8 |
-| Host Name | *hecker* |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 04:18:34 |
+| Lobby Creation Time | Sunday, January 7, 2024 04:18:45 |
 
 
 |  | epic_boss_fight_nightmare |
