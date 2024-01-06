@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 03:49:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309182508343 |
-| Players | 7/8 |
-| Host Name | lokoespartano |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 03:45:53 |
+| Lobby ID | 28595309187695093 |
+| Players | 7/10 |
+| Host Name | blonndin4ik |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:51:37 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309179610168 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | sECA |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 03:42:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309187581051 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | NikitA |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 03:51:29 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 03:35:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309187577338 |
-| Players | 1/24 |
-| Host Name | Salacil |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 03:51:29 |
+| Lobby ID | 28595309187625180 |
+| Players | 2/10 |
+| Host Name | braynerjash |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 03:51:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309179209975 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | NateBulaks |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:42:19 |
@@ -104,28 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309186156189 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | NANDITO (U) GRONE TLV ROJINEGRO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:49:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309187367383 |
-| Players | 13/15 |
-| Host Name | 口內射精 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 03:51:15 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309187588227 |
-| Players | 2/8 |
-| Host Name | tapok |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:51:30 |
+| Lobby ID | 28595309187505656 |
+| Players | 3/8 |
+| Host Name | 1+1 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 03:51:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -137,31 +128,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 03:50:14 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309187771465 |
+| Players | 2/15 |
+| Host Name | Arthas |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:51:42 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309187505656 |
+| Lobby ID | 28595309187784199 |
 | Players | 2/8 |
-| Host Name | 1+1 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 03:51:24 |
+| Host Name | tapok |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:51:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309187625180 |
-| Players | 2/10 |
-| Host Name | braynerjash |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 03:51:32 |
+| Lobby ID | 28595309187778261 |
+| Players | 1/15 |
+| Host Name | rudeboy.flick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:51:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309187615682 |
-| Players | 1/10 |
-| Host Name | Potato |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 03:51:31 |
+| Lobby ID | 28595309187777746 |
+| Players | 1/24 |
+| Host Name | Niklas ツ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:51:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309187769163 |
+| Players | 1/24 |
+| Host Name | Papi |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 03:51:41 |
 
 
 |  | epic_boss_fight_normal |
