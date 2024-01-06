@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309262902980 |
-| Players | 7/8 |
-| Host Name | Dissapointed? |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:20:36 |
+| Lobby ID | 28595309263927259 |
+| Players | 1/10 |
+| Host Name | BYSTHOR |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:21:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309259939200 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Weeb Slayer |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:16:45 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309262446069 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Mango |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:20:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309264213659 |
-| Players | 11/15 |
-| Host Name | miracle I LOVE YOU |
-| Region | STOCKHOLM |
+| Lobby ID | 28595309264213303 |
+| Players | 2/24 |
+| Host Name | Stepdad with boundary issues |
+| Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 05:22:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309263984354 |
-| Players | 9/10 |
-| Host Name | Прапор Калыван |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:22:00 |
+| Lobby ID | 28595309264434056 |
+| Players | 1/8 |
+| Host Name | thekillbus32 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 05:22:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,38 +76,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309260713785 |
-| Players | 14/15 |
-| Host Name | edmun2.0 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 05:17:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309263927259 |
-| Players | 1/10 |
-| Host Name | BYSTHOR |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 05:21:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309264213303 |
-| Players | 1/24 |
-| Host Name | Stepdad with boundary issues |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 05:22:18 |
+| Lobby ID | 28595309264335631 |
+| Players | 3/15 |
+| Host Name | Fall1n1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 05:22:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309264277725 |
-| Players | 1/8 |
-| Host Name | Нахал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:22:23 |
+| Lobby ID | 28595309264399471 |
+| Players | 4/8 |
+| Host Name | Даня дунул |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:22:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309264426107 |
+| Players | 1/24 |
+| Host Name | PEEK NASHEEE Nesser |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:22:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309264442813 |
+| Players | 1/24 |
+| Host Name | フランシュチョウ-ゾン |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:22:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Чёрный Делает |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:22:19 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595309264440547 |
+| Players | 2/7 |
+| Host Name | Lo intentaré a pesar de todo |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:22:36 |
 
 
