@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309232482131 |
+| Lobby ID | 28595309232734131 |
 | Players | 1/8 |
-| Host Name | RIP CASINO KNIGHT |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 04:42:47 |
+| Host Name | ABSOLUT_SUKUNA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:43:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309231689246 |
-| Players | 6/15 |
-| Host Name | MR YORYIE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 04:41:51 |
+| Lobby ID | 28595309232688021 |
+| Players | 2/15 |
+| Host Name | StarHacker |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 04:43:02 |
 
 
 |  | ot3_desert_octet |
@@ -103,24 +103,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309232421841 |
-| Players | 8/10 |
-| Host Name | 呪術反転：赤 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 04:42:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309232574615 |
-| Players | 5/8 |
-| Host Name | Merlin no Kitsune |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 04:42:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28595309232505235 |
 | Players | 2/10 |
 | Host Name | Berlín |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309232580098 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | empty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 04:42:54 |
