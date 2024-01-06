@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309320708429 |
-| Players | 9/10 |
-| Host Name | NeverGS |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:44:01 |
+| Lobby ID | 28595309321480647 |
+| Players | 4/10 |
+| Host Name | xzf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:45:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309321241289 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Shin |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:44:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309321071874 |
-| Players | 8/10 |
-| Host Name | Tablo |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 06:44:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309321037113 |
-| Players | 2/8 |
-| Host Name | Kozak1. |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:44:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309321155366 |
-| Players | 7/8 |
-| Host Name | ASA☪️𝕸𝖎𝖐𝖊𝖞☪ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:44:44 |
 
 
 |  | ot3_desert_octet |
@@ -101,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:44:49 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309321037113 |
+| Players | 3/8 |
+| Host Name | Kozak1. |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 06:44:33 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309319633842 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | AstralRomance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:42:18 |
