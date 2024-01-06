@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309196919453 |
-| Players | 1/8 |
-| Host Name | egoist |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 04:01:52 |
+| Lobby ID | 28595309198008672 |
+| Players | 2/10 |
+| Host Name | Yas § |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 04:03:04 |
 
 
 |  | ot3_desert_octet |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309197724713 |
-| Players | 10/15 |
-| Host Name | Mr. Bitches |
+| Lobby ID | 28595309197230077 |
+| Players | 14/15 |
+| Host Name | Elysium |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 04:02:46 |
+| Lobby Creation Time | Sunday, January 7, 2024 04:02:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309196704469 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | [DG] Smurf Aposentado |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 04:01:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309195138001 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | NOSEEEEE |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:59:54 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309197630424 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Not Clean |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 04:02:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309197817770 |
-| Players | 5/10 |
-| Host Name | Пчелинный агрохолдинг |
+| Lobby ID | 28595309198093363 |
+| Players | 6/15 |
+| Host Name | Wyoryn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 04:02:52 |
+| Lobby Creation Time | Sunday, January 7, 2024 04:03:10 |
 
 
 |  | epic_boss_fight_nightmare |
