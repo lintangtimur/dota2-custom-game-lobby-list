@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309161763460 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | чипинкос |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:23:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309155584308 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Lain Kurai reborn |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 03:17:09 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309162008328 |
-| Players | 3/8 |
-| Host Name | SirFoxler |
+| Players | 1/8 |
+| Host Name | Skadi Pippen |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 03:23:53 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309159673311 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | zaval |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 03:21:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309161683480 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Conq |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:23:33 |
@@ -113,28 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309161898487 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | MACHE TJM |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:23:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309161968762 |
-| Players | 5/10 |
-| Host Name | MyM |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:23:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309161986893 |
-| Players | 2/10 |
-| Host Name | dokkaebi |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 03:23:52 |
 
 
 |  | epic_boss_fight_normal |
