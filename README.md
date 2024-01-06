@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309305131571 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Yas § |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 06:19:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309305073352 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | metzil |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:19:31 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:16:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309304532302 |
-| Players | 7/8 |
-| Host Name | nikenmar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:18:42 |
+| Lobby ID | 28595309304187619 |
+| Players | 10/24 |
+| Host Name | Miku |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 06:18:11 |
 
 
 |  | ot3_desert_octet |
@@ -58,24 +58,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309304999431 |
-| Players | 3/8 |
-| Host Name | Nanachi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:19:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309304187619 |
-| Players | 9/24 |
-| Host Name | Miku |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:18:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28595309304773835 |
 | Players | 3/8 |
 | Host Name | preñador de paisanas |
@@ -83,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:19:04 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309303984791 |
-| Players | 9/10 |
-| Host Name | Styll7 |
+| Lobby ID | 28595309305558295 |
+| Players | 3/15 |
+| Host Name | Никита Вежливый |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:17:52 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:20:15 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309304004544 |
-| Players | 1/10 |
-| Host Name | kanito |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 06:17:54 |
+| Lobby ID | 28595309304999431 |
+| Players | 4/8 |
+| Host Name | Nanachi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:19:24 |
 
 
 |  | epic_boss_fight_nightmare |
