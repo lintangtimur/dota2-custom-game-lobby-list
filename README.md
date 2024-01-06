@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309310646426 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | XXXDDD |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:27:56 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309311302425 |
-| Players | 9/10 |
-| Host Name | ПАНК |
+| Lobby ID | 28595309311745868 |
+| Players | 1/10 |
+| Host Name | zotci# |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:28:57 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:29:39 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309311414580 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | AnDpep |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:29:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309311354253 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Borov |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:29:02 |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309311602613 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ❅ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:29:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309309403423 |
-| Players | 22/24 |
-| Host Name | PDS |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:26:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fgalvezy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:18:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309309290470 |
-| Players | 9/10 |
-| Host Name | ♂ I'm Performance Artist ♂ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:25:52 |
 
 
