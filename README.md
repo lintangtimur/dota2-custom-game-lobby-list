@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309302519771 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | онкологическое з |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:15:42 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:18:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309304244692 |
-| Players | 1/8 |
-| Host Name | meza1337 |
+| Lobby ID | 28595309299511570 |
+| Players | 23/24 |
+| Host Name | Phylosopher |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:18:16 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:11:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309304237274 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Pandasoku |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:18:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309304187619 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:18:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309304265703 |
-| Players | 1/15 |
+| Players | 13/15 |
 | Host Name | daedauzaborisomqeqeqeqe |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:18:18 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309304319342 |
-| Players | 1/10 |
-| Host Name | Chelsea |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:18:23 |
+| Lobby ID | 28595309304360453 |
+| Players | 9/10 |
+| Host Name | мастур-beast |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:18:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309304461079 |
+| Players | 3/8 |
+| Host Name | Тамагачи |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:18:35 |
 
 
 |  | epic_boss_fight_nightmare |
