@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309324077905 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | thekillbus32 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 06:49:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309323679819 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | dmr.[ ] |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 06:48:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309324336945 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | leppprozy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:49:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309324156160 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Versatilius |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:49:32 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309324406742 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | he will win |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:49:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309322560118 |
-| Players | 14/15 |
-| Host Name | АЛЛАХ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:46:59 |
+| Lobby ID | 28595309324603958 |
+| Players | 1/8 |
+| Host Name | Главны страж |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:50:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tasyong |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, January 7, 2024 06:48:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309324404959 |
-| Players | 1/5 |
-| Host Name | Silence? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:49:56 |
 
 
