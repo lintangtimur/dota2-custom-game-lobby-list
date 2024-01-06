@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309302884058 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Old Dirty |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:16:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309302787038 |
-| Players | 1/8 |
-| Host Name | isn't like holding to the center |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:16:06 |
+| Lobby ID | 28595309302947150 |
+| Players | 1/15 |
+| Host Name | RIGOBERTO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 06:16:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309302519771 |
-| Players | 8/24 |
+| Players | 5/24 |
 | Host Name | онкологическое з |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:15:42 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309302268425 |
-| Players | 9/10 |
-| Host Name | Wagon Wheels |
+| Lobby ID | 28595309302930181 |
+| Players | 7/10 |
+| Host Name | misplaced affection |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:15:20 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:16:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309301650448 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 可爱的假雀斑 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:14:26 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309302691073 |
-| Players | 11/15 |
-| Host Name | 霧のある雨の朝 |
+| Lobby ID | 28595309303077879 |
+| Players | 6/15 |
+| Host Name | ΠΕΣΑΝ ΟΙ ΜΑΣΚΕΣ |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:15:57 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:16:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:16:03 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309302979518 |
+| Players | 3/24 |
+| Host Name | anita max wynn |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 06:16:23 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309301256625 |
-| Players | 7/8 |
-| Host Name | Never give Up! |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:13:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309302896429 |
-| Players | 1/15 |
-| Host Name | Mudito :´) |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:16:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309302930181 |
-| Players | 2/10 |
-| Host Name | misplaced affection |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:16:18 |
+| Lobby ID | 28595309302397863 |
+| Players | 2/8 |
+| Host Name | Almaz_241系フpainフ系 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:15:31 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ШМАРОКРАД |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:13:31 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309303061180 |
+| Players | 2/7 |
+| Host Name | za0za_0 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:16:30 |
 
 
