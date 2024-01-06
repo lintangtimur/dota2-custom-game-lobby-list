@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309115966517 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | aes_ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 02:36:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309140263286 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:01:09 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309143212754 |
-| Players | 8/10 |
-| Host Name | chronos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:04:11 |
+| Lobby ID | 28595309139548078 |
+| Players | 10/10 |
+| Host Name | Coach |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:00:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309141932251 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Luckyman |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 03:02:53 |
@@ -121,17 +121,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309142718115 |
-| Players | 5/8 |
-| Host Name | СЫНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:03:41 |
+| Lobby ID | 28595309143680572 |
+| Players | 6/8 |
+| Host Name | СОЛЬ - Пробовал |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:04:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309142145727 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Preff_S |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:03:06 |
@@ -180,15 +180,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bUbu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:04:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309143585256 |
-| Players | 1/8 |
-| Host Name | Солома)))))))))) |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:04:35 |
 
 
 |  | epic_boss_fight_normal |
