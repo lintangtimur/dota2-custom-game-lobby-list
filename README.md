@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309299511570 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | KNightMare |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:11:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309299490443 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | HASIPgiordota.com |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:11:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309299451776 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | bottle |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:11:13 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309300561287 |
-| Players | 6/8 |
-| Host Name | Watermelon |
+| Lobby ID | 28595309300218749 |
+| Players | 2/8 |
+| Host Name | sqwerty |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:12:51 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:12:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,66 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:09:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309300143071 |
-| Players | 1/15 |
-| Host Name | RIGOBERTO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:12:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309297619107 |
-| Players | 14/15 |
-| Host Name | HGTS |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 06:08:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309299820795 |
-| Players | 2/8 |
-| Host Name | rodyanegeroi |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:11:45 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309300605812 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | ПАНК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:12:55 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309300739151 |
+| Players | 1/8 |
+| Host Name | savage |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 06:13:07 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309300609835 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | kapitan_panika |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:12:55 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309299302807 |
-| Players | 9/10 |
-| Host Name | грех |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:11:00 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595309300618267 |
-| Players | 1/7 |
-| Host Name | Harvint |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:12:56 |
+| Lobby ID | 28595309300740767 |
+| Players | 1/15 |
+| Host Name | RIGOBERTO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 06:13:07 |
 
 
