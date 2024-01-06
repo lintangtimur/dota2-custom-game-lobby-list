@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309161225004 |
-| Players | 7/8 |
-| Host Name | flow |
+| Lobby ID | 28595309161763460 |
+| Players | 5/8 |
+| Host Name | ◥◣F . E . A . R ◢◤ |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:23:04 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:23:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309155584308 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Lain Kurai reborn |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 03:17:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309161364239 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Shearinex |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:23:13 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 03:17:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309159479427 |
-| Players | 12/15 |
-| Host Name | 4:20 |
+| Lobby ID | 28595309161482431 |
+| Players | 2/24 |
+| Host Name | Eminence in shadow |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 03:21:14 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:23:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309159673311 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | zaval |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 03:21:25 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309161530579 |
-| Players | 8/15 |
-| Host Name | токсик + критик |
+| Lobby ID | 28595309161683480 |
+| Players | 2/15 |
+| Host Name | Conq |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:23:23 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:23:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309160178586 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | ساندیس |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 03:21:58 |
@@ -110,40 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 03:23:24 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309161482431 |
-| Players | 2/24 |
-| Host Name | Eminence in shadow |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 03:23:20 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309161683480 |
-| Players | 2/15 |
-| Host Name | Conq |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:23:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309161648689 |
-| Players | 3/10 |
-| Host Name | 愛他媽的 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:23:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309161696471 |
-| Players | 1/10 |
-| Host Name | XоЗяИн_ИнТеРнЕтA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:23:33 |
+| Lobby ID | 28595309161898487 |
+| Players | 1/15 |
+| Host Name | VaniSH mode |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 03:23:46 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,25 +131,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309160567270 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Nyx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:22:22 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595309160441344 |
-| Players | 1/7 |
-| Host Name | toxic + critic |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:22:14 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309161436012 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 03:23:17 |
