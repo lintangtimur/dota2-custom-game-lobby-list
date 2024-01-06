@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309259939200 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Weeb Slayer |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:16:45 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309263537236 |
-| Players | 14/15 |
-| Host Name | Always |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 05:21:25 |
+| Lobby ID | 28595309264213659 |
+| Players | 11/15 |
+| Host Name | miracle I LOVE YOU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 05:22:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309263984354 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | Прапор Калыван |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:22:00 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:15:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309264093993 |
-| Players | 1/24 |
-| Host Name | Stepdad with boundary issues |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 05:22:09 |
+| Lobby ID | 28595309260713785 |
+| Players | 14/15 |
+| Host Name | edmun2.0 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:17:46 |
 
 
 |  | ot3_gardens_duo |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:21:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309264109809 |
-| Players | 3/15 |
-| Host Name | выпердыш вороны |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:22:10 |
+| Lobby ID | 28595309264213303 |
+| Players | 1/24 |
+| Host Name | Stepdad with boundary issues |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 05:22:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309264129530 |
-| Players | 4/8 |
-| Host Name | Не проигрываю |
+| Lobby ID | 28595309264277725 |
+| Players | 1/8 |
+| Host Name | Нахал |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:22:11 |
+| Lobby Creation Time | Sunday, January 7, 2024 05:22:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kapitan_panika |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:19:59 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309264222039 |
+| Players | 1/7 |
+| Host Name | Чёрный Делает |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:22:19 |
 
 
