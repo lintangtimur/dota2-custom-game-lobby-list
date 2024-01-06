@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309173172305 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | ๋ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:35:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309175507684 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Tokonone |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:38:15 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309176048506 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | egoist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:38:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309175191483 |
-| Players | 6/8 |
-| Host Name | ядерный таракан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:37:55 |
+| Lobby ID | 28595309176338379 |
+| Players | 11/15 |
+| Host Name | Unlucky |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:39:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,10 +113,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309175842377 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 1 of orlando/toronto/houston |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 03:38:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309176312630 |
+| Players | 1/24 |
+| Host Name | DUKETO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 03:39:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309176428692 |
+| Players | 5/8 |
+| Host Name | TORONTOADIDAS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:39:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309176468675 |
+| Players | 4/8 |
+| Host Name | .//Kr3m1k0X |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:39:19 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CLUE* |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 03:34:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309176441755 |
+| Players | 1/5 |
+| Host Name | Visa Vi RasTa |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 03:39:17 |
 
 
