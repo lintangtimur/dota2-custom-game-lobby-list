@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309275190196 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | criszalo *-*/ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:36:51 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309275414468 |
-| Players | 3/24 |
-| Host Name | Vicioso |
+| Players | 2/24 |
+| Host Name | ุexw_onoma |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 05:37:10 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309275607924 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | ILAVE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:37:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309275791219 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Werewolf.GR |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:37:41 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:36:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309274456511 |
-| Players | 9/10 |
-| Host Name | EL TIO CHERO |
+| Lobby ID | 28595309275997570 |
+| Players | 1/8 |
+| Host Name | IA |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 05:35:52 |
+| Lobby Creation Time | Sunday, January 7, 2024 05:37:59 |
 
 
 |  | ot3_desert_octet |
@@ -101,13 +101,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:37:14 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309274269242 |
+| Players | 14/15 |
+| Host Name | smtg here |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 05:35:37 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309275898995 |
-| Players | 2/10 |
-| Host Name | жопар |
+| Lobby ID | 28595309275777000 |
+| Players | 8/10 |
+| Host Name | Abstrakt |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 05:37:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309276052709 |
+| Players | 4/8 |
+| Host Name | bozhedure |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:37:50 |
+| Lobby Creation Time | Sunday, January 7, 2024 05:38:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309276060817 |
+| Players | 3/10 |
+| Host Name | アレクサンダー |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:38:04 |
 
 
 |  | epic_boss_fight_nightmare |
