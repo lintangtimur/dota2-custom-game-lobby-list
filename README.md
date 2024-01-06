@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309280842319 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Clark |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:44:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309277775363 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 05:40:27 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:40:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309281115793 |
-| Players | 4/8 |
-| Host Name | erebus NEOXA |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:45:02 |
+| Lobby ID | 28595309281341822 |
+| Players | 2/10 |
+| Host Name | 장애인 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 05:45:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309281161783 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Щамиль |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:45:06 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309279127647 |
-| Players | 13/15 |
-| Host Name | NeonRicer |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 05:42:19 |
+| Lobby ID | 28595309281328023 |
+| Players | 10/15 |
+| Host Name | sílam moríhoh^^ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:45:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309281162311 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | TG ORGES |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:45:06 |
@@ -103,47 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309281259256 |
-| Players | 5/8 |
-| Host Name | Человек-яйца. |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:45:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309280842359 |
+| Lobby ID | 28595309281454325 |
 | Players | 4/8 |
 | Host Name | Andryxa |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:44:40 |
+| Lobby Creation Time | Sunday, January 7, 2024 05:45:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309281328023 |
+| Lobby ID | 28595309281467402 |
 | Players | 3/15 |
-| Host Name | sílam moríhoh^^ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:45:20 |
+| Host Name | s4s |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:45:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309281339476 |
-| Players | 2/8 |
-| Host Name | Дядя Чичик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:45:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309281341822 |
-| Players | 1/10 |
-| Host Name | 장애인 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:45:21 |
+| Lobby ID | 28595309280706528 |
+| Players | 14/15 |
+| Host Name | Yas § |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 05:44:28 |
 
 
 |  | epic_boss_fight_normal |
@@ -153,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:40:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309279497114 |
-| Players | 1/5 |
-| Host Name | Gato violador 50 cm |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 05:42:49 |
 
 
 |  | epic_boss_fight_nightmare |
