@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309317950682 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Don payiyo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:39:31 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309316375359 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | After Midnight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:36:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309317948332 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:39:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309318728702 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Teres |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 06:40:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309318663536 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Mori [MuryOKushO] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:40:42 |
@@ -76,11 +76,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309317827277 |
-| Players | 14/15 |
-| Host Name | heraldo road to guardian |
+| Lobby ID | 28595309318817349 |
+| Players | 1/15 |
+| Host Name | Ta cabrown |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:39:18 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:40:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309318796747 |
+| Players | 1/15 |
+| Host Name | Order of Melchizedek |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 06:40:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309318799874 |
+| Players | 2/10 |
+| Host Name | doom13524 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 06:40:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309318809397 |
+| Players | 4/10 |
+| Host Name | 1KlasNumberOne |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:40:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309318849654 |
+| Players | 1/8 |
+| Host Name | Misha.Lomiw |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:41:00 |
 
 
 |  | epic_boss_fight_nightmare |
