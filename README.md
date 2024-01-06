@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309173628316 |
-| Players | 4/15 |
-| Host Name | TECHIES |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:36:12 |
+| Lobby ID | 28595309173864557 |
+| Players | 2/15 |
+| Host Name | [DG] Smurf Aposentado |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 03:36:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309173141035 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | It's poshooooo ! |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:35:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309171582363 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Taimen |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 03:34:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309171463287 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:33:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309165158985 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | haha noob |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 03:27:11 |
@@ -101,40 +101,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 03:35:28 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309173804132 |
+| Players | 4/10 |
+| Host Name | Wiz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:36:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309173952732 |
+| Players | 3/15 |
+| Host Name | 4/5 - DDC - No chat |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:36:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309173512748 |
+| Lobby ID | 28595309173939069 |
 | Players | 6/8 |
 | Host Name | manamak |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:36:04 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:36:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309172731783 |
-| Players | 7/8 |
-| Host Name | kryptonite |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 03:35:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309173783847 |
-| Players | 1/8 |
-| Host Name | Filipp_Stalker_>D |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:36:22 |
+| Lobby ID | 28595309173950219 |
+| Players | 1/15 |
+| Host Name | ну давай давай нападай |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:36:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309173804132 |
-| Players | 3/10 |
-| Host Name | Wiz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:36:23 |
+| Lobby ID | 28595309173990809 |
+| Players | 6/10 |
+| Host Name | Rocketberry |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:36:36 |
 
 
 |  | epic_boss_fight_normal |
