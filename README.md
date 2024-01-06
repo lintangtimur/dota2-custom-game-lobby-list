@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309120643730 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 02:41:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309120907125 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Benji |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:41:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309120912590 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | puf |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 02:41:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309114886180 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | FAT£ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:35:11 |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 02:35:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309118750578 |
-| Players | 9/10 |
-| Host Name | GQ |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 02:39:04 |
+| Lobby ID | 28595309121059550 |
+| Players | 5/15 |
+| Host Name | САНСАНЫЧ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 02:41:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309120269633 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Afghanistan |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:40:37 |
@@ -140,55 +140,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309120294753 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Livesey |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 02:40:39 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309120581162 |
-| Players | 12/15 |
-| Host Name | EnotRed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 02:40:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309120899153 |
-| Players | 6/8 |
-| Host Name | Bury the Light |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 02:41:15 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309120544040 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | [DG] Smurf Aposentado |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 02:40:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309120818061 |
-| Players | 1/8 |
-| Host Name | ЧТО ТАКОЕ БУСТ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 02:41:10 |
+| Lobby ID | 28595309121129292 |
+| Players | 2/10 |
+| Host Name | marci god |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 02:41:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309120943444 |
-| Players | 7/8 |
-| Host Name | xcentrick |
+| Lobby ID | 28595309120576298 |
+| Players | 9/10 |
+| Host Name | Ломаю Колени |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 02:41:18 |
+| Lobby Creation Time | Sunday, January 7, 2024 02:40:56 |
 
 
 |  | epic_boss_fight_normal |
@@ -211,10 +193,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309120987241 |
+| Lobby ID | 28595309121067093 |
 | Players | 1/10 |
-| Host Name | bux |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 02:41:21 |
+| Host Name | Heen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 02:41:26 |
 
 
