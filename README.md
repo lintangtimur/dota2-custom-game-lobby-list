@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309310320264 |
-| Players | 8/10 |
-| Host Name | Sir Jecht |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:27:26 |
+| Lobby ID | 28595309310473086 |
+| Players | 7/8 |
+| Host Name | he will win |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:27:40 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309310515475 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | piensa pe chato |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:27:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309310530671 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | РАЙАН ГОСЛИНГ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:27:46 |
@@ -86,28 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309310348533 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Lil Ozy Wit Da Rizzy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 06:27:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309310473086 |
-| Players | 6/8 |
-| Host Name | he will win |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:27:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309310555690 |
-| Players | 1/24 |
+| Lobby ID | 28595309310603212 |
+| Players | 1/10 |
 | Host Name | Kbeza |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:27:48 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:27:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309310646426 |
+| Players | 4/15 |
+| Host Name | XXXDDD |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 06:27:56 |
 
 
 |  | epic_boss_fight_nightmare |
