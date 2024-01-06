@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309305916496 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Aliens are here |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:20:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309307078723 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | / |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:22:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309306241675 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | DarkZAI |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:21:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309307478109 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Ицык Striper |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:23:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309307100770 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Whats is love |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:22:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309307393629 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Fruits King |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:23:00 |
