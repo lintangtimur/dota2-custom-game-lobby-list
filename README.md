@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309312292699 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | FORNICATOR_MAXIMUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:30:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309312315786 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | wtt2k |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:30:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309312247616 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Leyo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:30:25 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:20:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309312459122 |
-| Players | 8/10 |
-| Host Name | overthrow enjoyer |
+| Lobby ID | 28595309312856740 |
+| Players | 5/8 |
+| Host Name | Face to face |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:30:45 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:31:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309311290580 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | dogs on a plate |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 06:28:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309312254092 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | LA ULTIMA ESPERANZA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:30:25 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | балансиага |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 06:31:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309312951201 |
+| Players | 1/8 |
+| Host Name | Potatochipz |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 06:31:30 |
 
 
 |  | epic_boss_fight_nightmare |
