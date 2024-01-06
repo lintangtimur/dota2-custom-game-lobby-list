@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309267398464 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | КОММЕРС |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:26:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309267781705 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | SunShine |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:26:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309266099585 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | godblessing |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:24:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309264213303 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Stepdad with boundary issues |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 05:22:18 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:24:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309267896510 |
-| Players | 1/10 |
-| Host Name | Шнек Влада Кадони |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:27:06 |
+| Lobby ID | 28595309267983586 |
+| Players | 1/8 |
+| Host Name | EG. Strawberry |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:27:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309266853977 |
-| Players | 7/10 |
-| Host Name | paNda |
+| Lobby ID | 28595309268080395 |
+| Players | 6/8 |
+| Host Name | c |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 05:25:44 |
+| Lobby Creation Time | Sunday, January 7, 2024 05:27:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309267845831 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Gonzalo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:27:02 |
@@ -108,6 +108,69 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | БистерМист |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:26:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309267987739 |
+| Players | 6/10 |
+| Host Name | СЫРА ҚАБАН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 05:27:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309268017157 |
+| Players | 1/15 |
+| Host Name | Батюшка Михуил |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:27:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309268021958 |
+| Players | 2/10 |
+| Host Name | Русский мир Z |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:27:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309268036046 |
+| Players | 8/15 |
+| Host Name | Ta1sty |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:27:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309268035612 |
+| Players | 1/24 |
+| Host Name | MOther fucker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:27:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309267708364 |
+| Players | 5/8 |
+| Host Name | ONLY OF YOU LOVE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:26:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309267206353 |
+| Players | 9/10 |
+| Host Name | perfect world |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:26:12 |
 
 
 |  | epic_boss_fight_nightmare |
