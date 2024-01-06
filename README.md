@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309160895017 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Mishonnex |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:22:43 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309155584308 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Lain Kurai reborn |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 03:17:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309158703767 |
-| Players | 24/24 |
-| Host Name | DIMITREE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 03:20:25 |
+| Lobby ID | 28595309161050774 |
+| Players | 9/15 |
+| Host Name | Kimimaro |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:22:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309159673311 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Agua |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 03:21:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309160934162 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Александр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:22:45 |
@@ -104,19 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309160187920 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:21:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309161028443 |
-| Players | 1/15 |
-| Host Name | КАБАЧОК |
+| Lobby ID | 28595309161125214 |
+| Players | 4/8 |
+| Host Name | Absolute |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:22:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309161175005 |
+| Players | 1/8 |
+| Host Name | pikea rata ctm |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 03:23:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309161177412 |
+| Players | 1/8 |
+| Host Name | 能ある鷹はつめを隠す |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:22:51 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:23:01 |
 
 
 |  | epic_boss_fight_normal |
