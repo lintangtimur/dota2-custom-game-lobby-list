@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309133588055 |
-| Players | 23/24 |
-| Host Name | raton |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 02:54:12 |
+| Lobby ID | 28595309138664638 |
+| Players | 9/15 |
+| Host Name | 神的传说 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 02:59:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309115966517 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | aes_ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 02:36:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309137363419 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 02:58:08 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 02:57:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309139164567 |
-| Players | 7/8 |
-| Host Name | hola tonotos |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 03:00:00 |
+| Lobby ID | 28595309139744134 |
+| Players | 1/24 |
+| Host Name | Arsenyx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:00:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309138372589 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Waffle |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 02:59:11 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309139511941 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Mixa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:00:22 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309139189371 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | ATAATA |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 03:00:02 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309139543926 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Анаболик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:00:24 |
@@ -158,28 +158,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309139548078 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Andryxa |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:00:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309139728981 |
-| Players | 4/8 |
-| Host Name | я тренируюсь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:00:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309139588545 |
-| Players | 12/15 |
-| Host Name | Hanni- |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:00:27 |
 
 
 |  | epic_boss_fight_normal |
@@ -194,18 +176,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309138057562 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Payasin el Payasote |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:58:51 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595309139831117 |
+| Players | 1/7 |
+| Host Name | Wakeup/reality |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:00:42 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309139658956 |
+| Lobby ID | 28595309139880362 |
 | Players | 1/5 |
-| Host Name | Бэбэй |
+| Host Name | IKeN69™ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:00:32 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:00:46 |
 
 
