@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309274767173 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | Green.녹색 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:36:17 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:35:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309275447198 |
-| Players | 6/8 |
-| Host Name | Yome心动 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 05:37:12 |
+| Lobby ID | 28595309275414468 |
+| Players | 7/24 |
+| Host Name | Abstrakt |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 05:37:10 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309275446264 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | MiNIN |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:37:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309275378997 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Hei |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:37:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309275464174 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Прости,я был пьян,твоя мать тоже |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:37:14 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309275414468 |
-| Players | 7/24 |
-| Host Name | Abstrakt |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 05:37:10 |
+| Lobby ID | 28595309275563134 |
+| Players | 1/24 |
+| Host Name | BISCUIT OLIVA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:37:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309275607924 |
+| Players | 1/15 |
+| Host Name | ILAVE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:37:26 |
 
 
 |  | epic_boss_fight_nightmare |
