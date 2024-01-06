@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309184105596 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | БАБАЛАХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:47:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309181970660 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Varian Wrynn |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:45:18 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309182737074 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | GDK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:46:08 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309182508343 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | lokoespartano |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:45:53 |
@@ -128,37 +128,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 03:46:54 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309184350766 |
+| Players | 1/10 |
+| Host Name | Grumbledorp |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 03:47:54 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309183919924 |
-| Players | 13/15 |
-| Host Name | MIkasa- |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:47:25 |
+| Lobby ID | 28595309184411649 |
+| Players | 1/15 |
+| Host Name | Legends_of_the_fall |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:47:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309184281659 |
-| Players | 1/24 |
-| Host Name | Mopf |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:47:49 |
+| Lobby ID | 28595309184426690 |
+| Players | 1/15 |
+| Host Name | /\/\ Y T @ |-| T |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:47:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309184315646 |
+| Players | 2/10 |
+| Host Name | Yas § |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 03:47:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309184285836 |
+| Lobby ID | 28595309184457617 |
+| Players | 6/8 |
+| Host Name | SirFoxler |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:48:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309184466204 |
 | Players | 1/8 |
 | Host Name | [Grey_Knight] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:47:49 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:48:01 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309077021314 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | EGEON ELECATONQUIRO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 01:57:33 |
