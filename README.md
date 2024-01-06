@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309204074876 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Feminist parker |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 04:09:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309203568891 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | dora la perreadora |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 04:09:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309203598449 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | SNC |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 04:09:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309197630424 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Я ебанутый на голову, скорость у |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 04:02:39 |
@@ -95,28 +95,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309204380649 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | токсик + критик |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 04:10:14 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309204532509 |
+| Players | 3/10 |
+| Host Name | Happy?# |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:10:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309204429709 |
+| Players | 3/8 |
+| Host Name | Ultrabit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:10:17 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309204369113 |
+| Lobby ID | 28595309204511271 |
 | Players | 1/15 |
-| Host Name | agha Aria |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 04:10:13 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 04:10:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309204425481 |
-| Players | 1/10 |
-| Host Name | Lumberjack |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 04:10:17 |
+| Lobby ID | 28595309204514641 |
+| Players | 4/10 |
+| Host Name | Intelegent |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 04:10:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595309201460744 |
-| Players | 5/7 |
+| Players | 6/7 |
 | Host Name | toxic + critic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 04:06:55 |
