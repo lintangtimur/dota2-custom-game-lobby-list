@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309274767173 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 老司机 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:36:17 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309281162311 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | TG ORGES |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:45:06 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309279937736 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | HippityHoppity |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:43:25 |
@@ -113,10 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309282620607 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | A Z I Z O V |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:47:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309282812837 |
+| Players | 1/15 |
+| Host Name | Balin |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 05:47:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309281711733 |
+| Players | 14/15 |
+| Host Name | Jesus Used Aegis |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 05:45:51 |
 
 
 |  | epic_boss_fight_nightmare |
