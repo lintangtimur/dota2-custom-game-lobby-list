@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309151517966 |
-| Players | 10/24 |
+| Players | 5/24 |
 | Host Name | XLVII |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:12:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309149677566 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | RROCCO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:11:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309141013865 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 03:01:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309151659031 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ☼↑Royer↑☼ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 03:13:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309147850857 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | [DG] Smurf Aposentado |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 03:09:03 |
@@ -101,31 +101,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 03:11:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309151954743 |
-| Players | 6/10 |
-| Host Name | револьвер |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:13:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309151789905 |
-| Players | 9/15 |
-| Host Name | R7犬 | кар карыч |
+| Lobby ID | 28595309152101971 |
+| Players | 4/8 |
+| Host Name | 【﻿DESpAIR】 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:13:14 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:13:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309151791668 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | general knowledge |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:13:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309152210197 |
+| Players | 2/10 |
+| Host Name | YKPOTT |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:13:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309152203794 |
+| Players | 2/10 |
+| Host Name | KOBZZZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:13:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309152236034 |
+| Players | 5/15 |
+| Host Name | Despondency |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:13:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309152243367 |
+| Players | 7/8 |
+| Host Name | DevilLike |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:13:42 |
 
 
 |  | epic_boss_fight_normal |
@@ -146,30 +173,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 03:06:36 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595309149860398 |
-| Players | 2/7 |
-| Host Name | persikoviyles |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:11:11 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309151558189 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Душный Тонни |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 03:12:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309152050719 |
-| Players | 1/5 |
-| Host Name | Tr!v!@l |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 03:13:30 |
 
 
