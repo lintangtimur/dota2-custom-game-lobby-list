@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309306132504 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:21:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309306241675 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | DarkZAI |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:21:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309306509577 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | The GayLord |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:21:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309305978588 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Nah, I'd win |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 06:20:53 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309306177113 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Might Wanna Try Fortnite |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 06:21:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309306579732 |
-| Players | 1/10 |
-| Host Name | Corvus Genus |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 06:21:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309305762736 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | kanito |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 06:20:33 |
