@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309285191177 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Sneaky Murloc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 05:50:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309290320785 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 05:57:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309291604272 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Satore Goje |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:59:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309291725822 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | •Crazy Life• ☻ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:59:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309290669723 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Cerber078 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 05:58:27 |
@@ -74,31 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 05:59:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309292386205 |
-| Players | 5/10 |
-| Host Name | Dango Deviluke |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:00:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309292295265 |
-| Players | 12/15 |
-| Host Name | Rainy |
+| Lobby ID | 28595309292755779 |
+| Players | 7/8 |
+| Host Name | silhouette |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:00:47 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:01:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309292630604 |
+| Lobby ID | 28595309292800264 |
+| Players | 2/15 |
+| Host Name | Anita Max Wynn |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 06:01:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309292808337 |
 | Players | 1/15 |
-| Host Name | Gehrman Sparrow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:01:15 |
+| Host Name |  |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 06:01:31 |
 
 
 |  | epic_boss_fight_nightmare |
