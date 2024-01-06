@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309238439120 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | sarfentas |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 04:49:54 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 04:49:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309235020448 |
-| Players | 6/8 |
-| Host Name | hateful conduct <3 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 04:45:49 |
+| Lobby ID | 28595309238885925 |
+| Players | 6/10 |
+| Host Name | сквазимабзабза |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:50:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309237961018 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Rin |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 04:49:19 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309238734465 |
-| Players | 2/10 |
-| Host Name | 2024 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 04:50:15 |
+| Lobby ID | 28595309238870303 |
+| Players | 1/10 |
+| Host Name | The best |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 04:50:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309238727160 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 4YI7A4YI7C |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 04:50:15 |
@@ -108,6 +108,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Muerto en Vida |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 04:50:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309238769275 |
+| Players | 3/24 |
+| Host Name | SNC |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 04:50:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309238799762 |
+| Players | 1/8 |
+| Host Name | Merlin no Kitsune |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 04:50:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309238903363 |
+| Players | 1/8 |
+| Host Name | >|BENzzzPLuG|< |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 04:50:27 |
 
 
 |  | epic_boss_fight_nightmare |
