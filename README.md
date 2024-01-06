@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309132791024 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | NIC DURAAAN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:53:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309133615439 |
-| Players | 9/10 |
-| Host Name | TOTSUGEKI |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 02:54:14 |
+| Lobby ID | 28595309134531911 |
+| Players | 4/8 |
+| Host Name | БАМБЛ БИЗИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 02:55:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309115966517 |
-| Players | 12/15 |
+| Players | 9/15 |
 | Host Name | ALL MUTED |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 02:36:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309133588055 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | raton |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 02:54:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309134395963 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | привет я гарик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 02:55:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309122600360 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | SlugLife |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 02:42:59 |
@@ -101,31 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 02:54:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309134518731 |
-| Players | 4/8 |
-| Host Name | karyal |
+| Lobby ID | 28595309134539665 |
+| Players | 10/15 |
+| Host Name | Chenpool |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 02:55:10 |
+| Lobby Creation Time | Sunday, January 7, 2024 02:55:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309134531911 |
-| Players | 4/8 |
-| Host Name | БАМБЛ БИЗИ |
+| Lobby ID | 28595309134710703 |
+| Players | 3/8 |
+| Host Name | lil mashallah |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 02:55:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309134535182 |
-| Players | 1/10 |
-| Host Name | Instapalapa |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 02:55:11 |
+| Lobby Creation Time | Sunday, January 7, 2024 02:55:22 |
 
 
 |  | epic_boss_fight_normal |
