@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309290431280 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | GENERANDO ODIO EN LOS RANKS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:58:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309290326321 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | The Lagmeister |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 05:57:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309290366550 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | денис |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 05:58:01 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309287996163 |
-| Players | 14/15 |
-| Host Name | ASURA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 05:54:36 |
+| Lobby ID | 28595309290243409 |
+| Players | 9/15 |
+| Host Name | Kimimaro |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 05:57:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309290214503 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | criszalo *-*/ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 05:57:48 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309290320785 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 05:57:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309290243409 |
-| Players | 4/15 |
-| Host Name | Kimimaro |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 05:57:51 |
+| Lobby ID | 28595309290678183 |
+| Players | 2/10 |
+| Host Name | Позорная труба |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 05:58:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309290669723 |
+| Players | 1/10 |
+| Host Name | shadowterror |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 05:58:27 |
 
 
 |  | epic_boss_fight_nightmare |
