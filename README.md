@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309313569713 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | BAAS |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:32:26 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:34:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309314340980 |
-| Players | 9/10 |
-| Host Name | Fortino Samano |
+| Lobby ID | 28595309315158081 |
+| Players | 7/15 |
+| Host Name | :scythephόriâ 力 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:33:38 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:34:55 |
 
 
 |  | ot3_gardens_duo |
@@ -95,25 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309314495869 |
-| Players | 2/8 |
-| Host Name | 3,14caSSo |
+| Players | 1/8 |
+| Host Name | ~ MaGiC ~ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:33:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309314478367 |
-| Players | 14/15 |
-| Host Name | Salam bikkitae |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:33:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28595309314638082 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Ayuwoki giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:34:06 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309314624062 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | CLSMCSMII |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:34:05 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309315139100 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | k. Danger-Zone |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:34:53 |
