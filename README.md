@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309322596693 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | DNTRX24 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 06:47:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309323176932 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Myst |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 06:47:58 |
@@ -47,31 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 06:43:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309323155270 |
-| Players | 4/8 |
-| Host Name | kokakola |
+| Lobby ID | 28595309323452644 |
+| Players | 4/10 |
+| Host Name | Xanny |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:47:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309323063376 |
-| Players | 12/15 |
-| Host Name | Zoom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 06:47:47 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:48:24 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309323062271 |
-| Players | 9/10 |
-| Host Name | MODE PMA |
+| Lobby ID | 28595309323448698 |
+| Players | 1/10 |
+| Host Name | Feedel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 06:48:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309320979574 |
+| Players | 23/24 |
+| Host Name | "TumanboX" |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 06:47:47 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:44:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -103,28 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309322895724 |
-| Players | 14/15 |
-| Host Name | security |
+| Lobby ID | 28595309323564733 |
+| Players | 1/15 |
+| Host Name | Elysium |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 06:47:31 |
+| Lobby Creation Time | Sunday, January 7, 2024 06:48:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309323333139 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Tasyong |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, January 7, 2024 06:48:13 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595309323341767 |
-| Players | 2/7 |
-| Host Name | showmethefireworkstonight |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 06:48:14 |
 
 
