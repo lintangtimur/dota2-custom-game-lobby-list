@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309115966517 |
-| Players | 10/15 |
+| Players | 5/15 |
 | Host Name | aes_ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 02:36:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309144979332 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | I gank u |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:06:00 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309146683509 |
-| Players | 14/15 |
-| Host Name | Showed |
+| Lobby ID | 28595309147151111 |
+| Players | 9/15 |
+| Host Name | Frames Janco |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:07:48 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:08:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 03:03:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309146775976 |
-| Players | 7/10 |
-| Host Name | DEATHinHQ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 03:07:54 |
+| Lobby ID | 28595309147115990 |
+| Players | 4/8 |
+| Host Name | БлАтНоЙ ПеТуХ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:08:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -131,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309146576551 |
-| Players | 4/8 |
-| Host Name | вишня |
+| Players | 1/8 |
+| Host Name | шо |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 03:07:41 |
 
@@ -146,13 +146,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 03:06:06 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309147281818 |
+| Players | 7/10 |
+| Host Name | LeScar_355 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:08:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309147268738 |
+| Players | 2/10 |
+| Host Name | Aston |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:08:25 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309147115990 |
-| Players | 2/8 |
-| Host Name | БлАтНоЙ ПеТуХ |
+| Lobby ID | 28595309147307556 |
+| Players | 1/8 |
+| Host Name | he will win |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 03:08:15 |
+| Lobby Creation Time | Sunday, January 7, 2024 03:08:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309147326067 |
+| Players | 2/10 |
+| Host Name | 17'5 4 7Я4P |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 03:08:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309147319884 |
+| Players | 3/15 |
+| Host Name | мамикс |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 03:08:29 |
 
 
 |  | epic_boss_fight_normal |
