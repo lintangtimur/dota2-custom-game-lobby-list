@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309499699358 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Alotte |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:10:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309498836854 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | HidenKiller |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:09:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309499931912 |
-| Players | 9/15 |
+| Players | 3/15 |
 | Host Name | R3sist4nce. |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:11:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309500194286 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Neoxa[DMG]//3L_M4LTR4 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:11:28 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309499283128 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | ✪[Ni'Fi]DESU |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:09:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309500236601 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Solowind |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:11:32 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309497240313 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 好线 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:06:16 |
