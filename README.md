@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309600834374 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 3/4 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:43:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309598836024 |
-| Players | 5/15 |
+| Players | 2/15 |
 | Host Name | Papi Champaño |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:40:46 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309600857155 |
-| Players | 10/24 |
+| Players | 20/24 |
 | Host Name | Avent- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:43:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309601115244 |
-| Players | 7/15 |
-| Host Name | Монашка |
+| Lobby ID | 28595309601317201 |
+| Players | 2/10 |
+| Host Name | САНЯ ФЕЙЕРВЕРК |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:43:52 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:44:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309600558403 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | クリシャ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:43:07 |
@@ -112,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309601246502 |
+| Lobby ID | 28595309601414524 |
 | Players | 1/5 |
 | Host Name | Кратос |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:44:03 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:44:16 |
 
 
