@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309760882487 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:03:31 |
@@ -32,43 +32,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309762020648 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | Jim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:04:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309761866560 |
-| Players | 9/10 |
-| Host Name | Турбо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:04:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309762091557 |
-| Players | 8/15 |
-| Host Name | vlome |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:04:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309762066841 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | kejsi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:04:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309762418748 |
+| Players | 1/10 |
+| Host Name | imsofcknbad |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:05:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309761866461 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | TEAM CALLER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:04:37 |
