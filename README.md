@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310171464897 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Hōfuku報復 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:00:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310176722949 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | mostrito3.5 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:05:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310176848701 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Fertz |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 00:05:58 |
@@ -108,6 +108,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Feanor |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 00:04:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310176983047 |
+| Players | 9/15 |
+| Host Name | Колбасёр |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 00:06:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310177086040 |
+| Players | 1/15 |
+| Host Name | Elysium |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 00:06:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310177053456 |
+| Players | 1/8 |
+| Host Name | LIL CHICHA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:06:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310177049747 |
+| Players | 3/10 |
+| Host Name | xeyz11 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:06:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310177132404 |
+| Players | 1/15 |
+| Host Name | Saul |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 00:06:14 |
 
 
 |  | epic_boss_fight_hard |
