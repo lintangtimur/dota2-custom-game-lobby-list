@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309391504360 |
-| Players | 10/15 |
-| Host Name | TS.KikeToro |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:53:08 |
+| Lobby ID | 28595309392029684 |
+| Players | 8/10 |
+| Host Name | ? |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:54:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309391706600 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | hehe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:53:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309389205372 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | It's poshooooo ! |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:48:54 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309392484231 |
-| Players | 4/8 |
-| Host Name | kekegozu |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:54:58 |
+| Lobby ID | 28595309392490331 |
+| Players | 5/8 |
+| Host Name | putin huilo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:54:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,40 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:54:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309392029684 |
-| Players | 6/10 |
-| Host Name | ? |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 08:54:07 |
+| Lobby ID | 28595309392589795 |
+| Players | 2/15 |
+| Host Name | Kbeza |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 08:55:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309392490331 |
-| Players | 1/8 |
-| Host Name | putin huilo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:54:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309392502679 |
-| Players | 4/8 |
-| Host Name | Инфузория |
+| Lobby ID | 28595309392592902 |
+| Players | 2/15 |
+| Host Name | Ugf |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:55:01 |
+| Lobby Creation Time | Sunday, January 7, 2024 08:55:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309392510821 |
-| Players | 1/24 |
-| Host Name | 你也可以变成光 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 08:55:01 |
+| Lobby ID | 28595309392607410 |
+| Players | 4/8 |
+| Host Name | Katana |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:55:12 |
 
 
 |  | epic_boss_fight_normal |
