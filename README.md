@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309515692001 |
-| Players | 9/10 |
-| Host Name | Mike Trout |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:37:12 |
+| Lobby ID | 28595309517215672 |
+| Players | 1/8 |
+| Host Name | Buxan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:39:46 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309516306455 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:38:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309516411375 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Dyoke |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:38:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309516700500 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Сквиртуоз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:38:55 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309517180004 |
-| Players | 2/8 |
-| Host Name | Shipibo enamorado |
+| Lobby ID | 28595309517263810 |
+| Players | 7/8 |
+| Host Name | MYM ELQUELAPONE |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:39:43 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:39:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hairam123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:39:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309517215672 |
-| Players | 1/8 |
-| Host Name | Buxan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:39:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309517263810 |
-| Players | 3/8 |
-| Host Name | MYM ELQUELAPONE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:39:51 |
 
 
 |  | epic_boss_fight_nightmare |
