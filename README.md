@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309349055450 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | PRO Fire |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:32:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309349670430 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 老司机 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:33:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309349656181 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | byunjoe |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:33:27 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309350537184 |
-| Players | 8/10 |
-| Host Name | gatekeeper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:35:02 |
+| Lobby ID | 28595309350796362 |
+| Players | 4/10 |
+| Host Name | danye west |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:35:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:35:02 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309348453990 |
+| Players | 8/10 |
+| Host Name | Porek |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:31:18 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309348900974 |
-| Players | 23/24 |
-| Host Name | Eminence in shadow |
+| Lobby ID | 28595309350843673 |
+| Players | 1/24 |
+| Host Name | Petit Chou |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:35:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309350846520 |
+| Players | 6/8 |
+| Host Name | :3 |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:32:05 |
+| Lobby Creation Time | Sunday, January 7, 2024 07:35:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309350856869 |
+| Players | 5/8 |
+| Host Name | 传Mary Jane说 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:35:37 |
 
 
 |  | epic_boss_fight_nightmare |
