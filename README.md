@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309728331348 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | 10К main |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:25:53 |
@@ -29,22 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:25:52 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309727520172 |
-| Players | 9/10 |
-| Host Name | Grim sleeper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:24:54 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309728562925 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | >Ace< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:26:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309728732548 |
+| Players | 4/10 |
+| Host Name | Baklajan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:26:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309728730515 |
+| Players | 1/10 |
+| Host Name | AxuJlec |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:26:21 |
 
 
 |  | epic_boss_fight_normal |
