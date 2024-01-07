@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309624823920 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | gatekeeper |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:15:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309623298569 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Nut Supplier |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:13:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309625406191 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Moon |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:15:59 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309625164448 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | DinyaRa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:15:41 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309625766827 |
+| Players | 3/10 |
+| Host Name | Drink VODKA Play Dotka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:16:27 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309625498341 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ѕυρρσят |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:16:06 |
