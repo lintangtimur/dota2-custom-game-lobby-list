@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309717551542 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Exuse (muted) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:12:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309717286668 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Casper0k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:12:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309717437106 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | AMBATUKUM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:12:37 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309717852182 |
-| Players | 2/8 |
-| Host Name | I got this |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:13:08 |
+| Lobby ID | 28595309717965343 |
+| Players | 4/8 |
+| Host Name | кровь из вены пыщ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:13:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309716120952 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Loohe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:10:58 |
