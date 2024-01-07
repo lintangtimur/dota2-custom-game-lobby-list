@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309434830588 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | carlitos |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:14:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309429549886 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 恶魔震动 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:04:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309434483178 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | MiKchero |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:13:39 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309434105342 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | >Ace< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:13:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309434713004 |
-| Players | 9/10 |
-| Host Name | malcriado de pinga |
+| Lobby ID | 28595309435168100 |
+| Players | 1/8 |
+| Host Name | COCO BASILE |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:14:04 |
+| Lobby Creation Time | Sunday, January 7, 2024 10:14:53 |
 
 
 |  | ot3_gardens_duo |
@@ -86,34 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309435041640 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | FULL PMA MODe/allmuted |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:14:40 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309435088443 |
-| Players | 1/8 |
-| Host Name | Overseer |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:14:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309434585448 |
-| Players | 9/10 |
-| Host Name | coopitman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:13:51 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309434592771 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:13:51 |
