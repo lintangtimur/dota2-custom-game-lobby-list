@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:04:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309368653114 |
-| Players | 1/15 |
-| Host Name | Fellkey ~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:08:50 |
+| Lobby ID | 28595309369146930 |
+| Players | 2/10 |
+| Host Name | Boris Britva (Unofficial) |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:09:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309368756380 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | llegó la SUNAT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:09:03 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309368577103 |
-| Players | 10/15 |
-| Host Name | 1thekey |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:08:41 |
+| Lobby ID | 28595309369064508 |
+| Players | 5/15 |
+| Host Name | 50.Centaur (EU) |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:09:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309368880350 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Miking |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:09:18 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309369064508 |
-| Players | 2/15 |
-| Host Name | 50.Centaur (EU) |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:09:40 |
+| Lobby ID | 28595309369165535 |
+| Players | 4/15 |
+| Host Name | Derik1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:09:53 |
 
 
 |  | epic_boss_fight_nightmare |
