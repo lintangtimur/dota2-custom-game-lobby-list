@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309481847914 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Tomato Jones |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:39:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309497357749 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | lLitOl |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:06:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309496689286 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Leon- |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:05:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309496515757 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | EACTCIM |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:05:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309497657676 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Struggle |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:06:58 |
