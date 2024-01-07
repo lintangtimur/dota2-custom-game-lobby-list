@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309676833732 |
-| Players | 7/8 |
-| Host Name | 30club |
+| Lobby ID | 28595309677626816 |
+| Players | 1/15 |
+| Host Name | Аянами Рей |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:21:19 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:22:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309675204584 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Evol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:19:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309677628448 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | EG-Mar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:22:20 |
@@ -76,11 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309677626816 |
+| Lobby ID | 28595309677772393 |
 | Players | 1/15 |
-| Host Name | Аянами Рей |
+| Host Name | lemillion |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 16:22:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309677780518 |
+| Players | 1/8 |
+| Host Name | Прокат Дисков |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:22:20 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:22:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309677788782 |
+| Players | 1/15 |
+| Host Name | WIZARD |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 16:22:32 |
 
 
 |  | epic_boss_fight_challenger |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ann☆ﾟ.*･｡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:21:32 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309677792837 |
+| Players | 1/7 |
+| Host Name | сын женщины |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:22:32 |
 
 
