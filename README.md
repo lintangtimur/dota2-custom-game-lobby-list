@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309621738853 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | БАТЫР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:11:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309621378039 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | openjaimerrrr |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:10:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309622330581 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Димас Карабас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:12:06 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309623017392 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Мои яички съели птички |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:12:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309622491456 |
+| Players | 2/10 |
+| Host Name | 夜、第四章 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:12:18 |
 
 
 |  | epic_boss_fight_nightmare |
