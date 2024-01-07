@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309374606596 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | JoT@ (-_-).l, |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:20:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309373925060 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Abuela.n.Patineta |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:18:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309374202330 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:19:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309374616643 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | 94spartan |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:20:19 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309374739482 |
-| Players | 1/24 |
-| Host Name | Life Is Hard |
+| Players | 9/24 |
+| Host Name | CLSMCSMII |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:20:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309374762686 |
-| Players | 1/15 |
-| Host Name | PAPUCHO |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 08:20:36 |
+| Lobby ID | 28595309374690974 |
+| Players | 1/8 |
+| Host Name | Marceline)~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:20:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:17:08 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309374856382 |
+| Players | 1/7 |
+| Host Name | mystical0905 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:20:47 |
 
 
