@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309574076083 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | shylock |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:06:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309571953528 |
-| Players | 23/24 |
-| Host Name | Bubblicious |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:03:09 |
+| Lobby ID | 28595309572856762 |
+| Players | 8/10 |
+| Host Name | hyko |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 14:04:27 |
 
 
 |  | ot3_desert_octet |
@@ -38,40 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:05:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309573998025 |
-| Players | 11/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:06:05 |
+| Lobby ID | 28595309574526263 |
+| Players | 7/10 |
+| Host Name | Blackout |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:06:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309573097683 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Sakirious |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:04:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309572856762 |
-| Players | 8/10 |
-| Host Name | hyko |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 14:04:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309574526263 |
-| Players | 1/10 |
-| Host Name | Blackout |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:06:50 |
+| Lobby ID | 28595309574670141 |
+| Players | 1/8 |
+| Host Name | nissinwafer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:07:02 |
 
 
 |  | epic_boss_fight_challenger |
