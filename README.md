@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309451999839 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Bajando locura |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:46:01 |
@@ -65,30 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:46:40 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309452115947 |
-| Players | 1/10 |
-| Host Name | Medved |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:46:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309452176213 |
-| Players | 6/10 |
-| Host Name | thach dai ca |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:46:20 |
+| Lobby ID | 28595309452553879 |
+| Players | 2/15 |
+| Host Name | Yaga |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:47:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309452276467 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | 4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:46:31 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309452176213 |
+| Players | 9/10 |
+| Host Name | thach dai ca |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:46:20 |
 
 
