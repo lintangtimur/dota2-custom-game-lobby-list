@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309564262223 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Мисочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:51:59 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309564150919 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:51:49 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309558650940 |
-| Players | 14/24 |
-| Host Name | 鸠摩智 |
+| Players | 15/24 |
+| Host Name | DeaT|H|AckZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:43:49 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309563637074 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:51:04 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:50:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309563495377 |
-| Players | 12/15 |
-| Host Name | не умею играть |
+| Lobby ID | 28595309564846202 |
+| Players | 2/10 |
+| Host Name | coopitman |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:50:52 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:52:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:52:19 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309564912838 |
+| Players | 1/10 |
+| Host Name | :Xaiko midaX:) |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:52:57 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309563471675 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Nah, I'd win |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:50:50 |
