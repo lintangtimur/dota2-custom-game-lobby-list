@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309812914089 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Heyzi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:57:13 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309813596007 |
-| Players | 5/8 |
-| Host Name | KOMIR |
+| Lobby ID | 28595309814086454 |
+| Players | 1/8 |
+| Host Name | Ковальски |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:57:52 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:58:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309813879115 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Scythem9k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:58:08 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309812875026 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | damn bro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:57:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309814086454 |
-| Players | 1/8 |
-| Host Name | Ковальски |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:58:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309811271367 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | LoL Refugee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:55:40 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309811225414 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, January 7, 2024 18:55:38 |
