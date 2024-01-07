@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309410946654 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:29:53 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309415885009 |
-| Players | 2/15 |
-| Host Name | Jisoya |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 09:39:08 |
+| Lobby ID | 28595309415433184 |
+| Players | 3/15 |
+| Host Name | Randylechii_sx1/Twitch.tv |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:38:15 |
 
 
 |  | ot3_gardens_duo |
@@ -86,46 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309413793026 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | rato distópico cunty |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 09:35:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309415619280 |
-| Players | 1/8 |
-| Host Name | I'm Back |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:38:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309415175534 |
-| Players | 11/24 |
-| Host Name | El Tio Juanchi CHI PAPÁ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:37:45 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309414466758 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Versaillest |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:36:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309415433184 |
-| Players | 3/15 |
-| Host Name | Randylechii_sx1/Twitch.tv |
+| Lobby ID | 28595309415175534 |
+| Players | 13/24 |
+| Host Name | El Tio Juanchi CHI PAPÁ |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:38:15 |
+| Lobby Creation Time | Sunday, January 7, 2024 09:37:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309415962500 |
+| Players | 5/8 |
+| Host Name | El Tio Custom |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:39:18 |
 
 
 |  | epic_boss_fight_nightmare |
