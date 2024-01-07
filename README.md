@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309482388646 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 5g |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:40:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309479401304 |
-| Players | 17/24 |
+| Players | 23/24 |
 | Host Name | IEdumpling |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:35:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309482486475 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | liluriena |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:40:38 |
@@ -101,6 +101,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:39:29 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309482833084 |
+| Players | 6/8 |
+| Host Name | Borealis |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:41:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309482877507 |
+| Players | 1/8 |
+| Host Name | PSG.LGD AME- |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:41:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309482517147 |
+| Players | 3/8 |
+| Host Name | cuack |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:40:42 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309479625211 |
@@ -113,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309480963039 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:37:54 |
