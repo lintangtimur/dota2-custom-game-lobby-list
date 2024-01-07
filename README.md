@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309510935836 |
-| Players | 12/15 |
-| Host Name | Учиха Саске |
+| Lobby ID | 28595309511704458 |
+| Players | 2/15 |
+| Host Name | andreyvinogradoff |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:29:25 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:30:41 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309510190657 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Slunthy |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:09 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309510942090 |
 | Players | 6/15 |
-| Host Name | NoMercy |
+| Host Name | El duderino |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:29:25 |
 
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309498451271 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | AVENA 3 URSITAS |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:08:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309510062066 |
-| Players | 4/10 |
-| Host Name | Yarrow |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:27:57 |
+| Lobby ID | 28595309511866268 |
+| Players | 6/15 |
+| Host Name | thxexito |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:30:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309511445483 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Krueger |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:30:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309508590555 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Akame |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:28 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309510353377 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | Crusty Crap |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:26 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309511041642 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Kak_TaK? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:29:35 |
@@ -110,13 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:29:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309508625506 |
-| Players | 23/24 |
-| Host Name | EL GOSU DE LOS ANDES |
+| Lobby ID | 28595309510058968 |
+| Players | 5/8 |
+| Host Name | Chris |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:27:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309511858087 |
+| Players | 2/15 |
+| Host Name | Kaioh Retsu |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:25:31 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:30:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,9 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309508783232 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:48 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595309511912415 |
+| Players | 3/7 |
+| Host Name | 博士Egoist |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, January 7, 2024 12:31:02 |
 
 
