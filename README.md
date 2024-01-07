@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309519477679 |
-| Players | 9/15 |
+| Players | 15/15 |
 | Host Name | YA FUCKING BOY SWEET |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:43:31 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309517970624 |
-| Players | 21/24 |
-| Host Name | 8llllllllllD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:41:01 |
+| Lobby ID | 28595309516999603 |
+| Players | 12/15 |
+| Host Name | El Yuki |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:39:25 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309519263517 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Starboy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:43:09 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:37:04 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309519227627 |
-| Players | 9/10 |
-| Host Name | Sombra |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:43:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309516999603 |
-| Players | 12/15 |
-| Host Name | El Yuki |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:39:25 |
+| Lobby ID | 28595309519837109 |
+| Players | 1/15 |
+| Host Name | Dream_ivel |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:44:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309518006084 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Олег Варёные Яйца |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:41:05 |
