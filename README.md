@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309670552590 |
-| Players | 13/15 |
-| Host Name | Младший лейтенан |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:13:33 |
+| Lobby ID | 28595309671164829 |
+| Players | 5/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:14:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309669902585 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | 白马？哼,定叫他有来无回. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:12:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309671017921 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Angel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:14:07 |
