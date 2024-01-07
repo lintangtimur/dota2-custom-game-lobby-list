@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309638111814 |
-| Players | 8/10 |
+| Players | 4/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:32:17 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:32:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309638581937 |
-| Players | 11/15 |
-| Host Name | Жаби Жаби |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:32:53 |
+| Lobby ID | 28595309639173492 |
+| Players | 4/8 |
+| Host Name | Turtle |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 15:33:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | @@@ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:32:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309639173492 |
-| Players | 1/8 |
-| Host Name | Turtle |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 15:33:38 |
 
 
 |  | epic_boss_fight_nightmare |
