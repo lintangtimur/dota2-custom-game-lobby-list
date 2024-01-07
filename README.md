@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309628966599 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:20:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309624876990 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | SpliNteR |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:15:20 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:23:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309633942945 |
-| Players | 8/10 |
-| Host Name | RoottenEz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:26:55 |
+| Lobby ID | 28595309635290195 |
+| Players | 1/24 |
+| Host Name | VERSACE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:28:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309634810769 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Angel |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:28:02 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309634856073 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Pupa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:28:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309635107797 |
-| Players | 2/10 |
-| Host Name | Beck |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:28:24 |
+| Lobby ID | 28595309635190644 |
+| Players | 1/8 |
+| Host Name | pma)) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:28:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309629766579 |
+| Players | 7/8 |
+| Host Name | lokoespartano |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 15:21:31 |
 
 
 |  | epic_boss_fight_nightmare |
