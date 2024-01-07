@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309371640306 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ------------ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:14:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309370985622 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | :p |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:13:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309368857611 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | style |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:09:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309370011784 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:11:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309369853656 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:11:13 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309371606917 |
-| Players | 3/8 |
-| Host Name | Moo |
+| Players | 1/8 |
+| Host Name | говношлёпик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:14:32 |
 
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ashgan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:14:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309371616127 |
-| Players | 1/8 |
-| Host Name | Arrr-arr!!! tastydrop |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:14:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309371633697 |
-| Players | 10/15 |
-| Host Name | 4/5 - DDC - No chat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:14:36 |
 
 
 |  | epic_boss_fight_nightmare |
