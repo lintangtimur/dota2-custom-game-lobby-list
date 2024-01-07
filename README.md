@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309605045993 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:49:11 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:02:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309614364246 |
-| Players | 22/24 |
-| Host Name | east e |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:01:41 |
+| Lobby ID | 28595309616024211 |
+| Players | 2/10 |
+| Host Name | EL INDOMABLE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 15:03:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309615837950 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Deutsu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:03:38 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309615806218 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | ГОРШОКАНУСЯЩЕРИЦ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:03:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309615807259 |
-| Players | 1/15 |
-| Host Name | obito |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:03:35 |
+| Lobby ID | 28595309616074035 |
+| Players | 2/24 |
+| Host Name | dawn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:03:56 |
 
 
 |  | epic_boss_fight_challenger |
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:58:03 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309615913073 |
-| Players | 1/10 |
-| Host Name | Ni T iN |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 15:03:44 |
+| Lobby ID | 28595309616035679 |
+| Players | 1/5 |
+| Host Name | V1rsa4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:03:53 |
 
 
