@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309439293775 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Elysium |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:22:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309440338238 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Miau :3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:24:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309439150375 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Lǐzǐ 1899 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:22:09 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309440562226 |
-| Players | 1/24 |
-| Host Name | efrdsfsdf |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:24:45 |
+| Lobby ID | 28595309440571300 |
+| Players | 2/24 |
+| Host Name | LION EL MESI |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:24:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309440571300 |
-| Players | 1/24 |
-| Host Name | LION EL MESI |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:24:46 |
+| Lobby ID | 28595309440663507 |
+| Players | 2/24 |
+| Host Name | MOther fucker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:24:56 |
 
 
 |  | epic_boss_fight_hard |
