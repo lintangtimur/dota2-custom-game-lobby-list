@@ -5,115 +5,106 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309366290459 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 08:04:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309369146930 |
-| Players | 6/10 |
-| Host Name | Boris Britva (Unofficial) |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:09:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309369165535 |
-| Players | 4/15 |
-| Host Name | Derik1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:09:53 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309368939861 |
-| Players | 4/8 |
-| Host Name | @KevinZavaleta |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:09:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309369064508 |
-| Players | 12/15 |
-| Host Name | 50.Centaur (EU) |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:09:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309368880350 |
-| Players | 5/8 |
-| Host Name | Miking |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:09:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309368451030 |
-| Players | 7/24 |
-| Host Name | SCUERO EL TERROR DE ILABAYA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:08:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309367460842 |
-| Players | 20/24 |
-| Host Name | ＥＬＥＫＴＲＯＮＩＫ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:06:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309368857611 |
-| Players | 2/24 |
-| Host Name | style |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:09:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309368993829 |
-| Players | 1/15 |
-| Host Name | Pray for something |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:09:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309369269172 |
-| Players | 1/10 |
-| Host Name | D4RKY1$U$ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:10:05 |
+| Lobby ID | 28595309369585298 |
+| Players | 1/8 |
+| Host Name | Tu_primo_el_q_araña |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:10:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309369273734 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | jogo do tigrinho |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 08:10:05 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309368857611 |
+| Players | 3/24 |
+| Host Name | style |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:09:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309369639874 |
+| Players | 2/24 |
+| Host Name | X4nD3riiXx |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 08:10:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309369523859 |
+| Players | 10/15 |
+| Host Name | [heat][wave] |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:10:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309369580064 |
+| Players | 1/8 |
+| Host Name | cheesit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:10:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309369536950 |
+| Players | 2/8 |
+| Host Name | Chris |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 08:10:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309369630588 |
+| Players | 9/10 |
+| Host Name | пробирочный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:10:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309369624641 |
+| Players | 1/10 |
+| Host Name | Fjuzowren |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:10:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309369714372 |
+| Players | 1/15 |
+| Host Name | Desert |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, January 7, 2024 08:10:57 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309364529594 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Ncarbon |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:00:50 |
