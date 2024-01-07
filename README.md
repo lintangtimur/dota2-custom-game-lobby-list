@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:02:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309495107236 |
-| Players | 9/10 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:02:37 |
+| Lobby ID | 28595309496062761 |
+| Players | 4/24 |
+| Host Name | Barasa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:04:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309495501974 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Saga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:03:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309494461615 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | Sergio Markarian |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:01:32 |
@@ -95,27 +95,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309495062259 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Ask the magic conch shell |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:02:33 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309496123774 |
+| Players | 4/10 |
+| Host Name | Bleacher |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 12:04:21 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309494314404 |
-| Players | 6/8 |
-| Host Name | SameShit |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:01:17 |
+| Lobby ID | 28595309496127461 |
+| Players | 2/8 |
+| Host Name | The Unofficial Antonio Nigatori |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:04:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309494546405 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Frieren <3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:01:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309496040257 |
+| Players | 1/5 |
+| Host Name | Fermet1x |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:04:12 |
 
 
