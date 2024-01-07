@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309450392363 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Dominique de Coco |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:43:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309451999839 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Bajando locura |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:46:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309451838084 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | noname4c |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:45:44 |
@@ -74,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:47:01 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309452276467 |
-| Players | 1/10 |
-| Host Name | 4 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:46:31 |
+| Lobby ID | 28595309452732050 |
+| Players | 1/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:47:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309452176213 |
-| Players | 9/10 |
-| Host Name | thach dai ca |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:46:20 |
+| Lobby ID | 28595309452656479 |
+| Players | 3/10 |
+| Host Name | грех |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 10:47:13 |
 
 
