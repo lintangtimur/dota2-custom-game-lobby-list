@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310072615256 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | szunari |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:31:52 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:30:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310073065788 |
-| Players | 7/8 |
-| Host Name | Чипсоед |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:32:15 |
+| Lobby ID | 28595310074106745 |
+| Players | 4/15 |
+| Host Name | Tired |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 22:33:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310071869986 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | xxxGooDDroNxxx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:31:14 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:30:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310073883245 |
-| Players | 2/8 |
-| Host Name | Don't run! |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 22:32:58 |
+| Lobby ID | 28595310074163549 |
+| Players | 13/15 |
+| Host Name | < blank > |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:33:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310071421645 |
-| Players | 1/15 |
-| Host Name | Андрозавер |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 22:30:51 |
+| Lobby ID | 28595310074333527 |
+| Players | 4/15 |
+| Host Name | СЫРОК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:33:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310074012435 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ? |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:33:04 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310073006138 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:32:12 |
@@ -139,29 +139,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310071073784 |
-| Players | 5/8 |
-| Host Name | WoodyPlant |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 22:30:33 |
+| Lobby ID | 28595310074341349 |
+| Players | 2/8 |
+| Host Name | kinder |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:33:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310074106745 |
-| Players | 4/15 |
-| Host Name | Tired |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 22:33:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310074163549 |
-| Players | 1/15 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:33:12 |
+| Lobby ID | 28595310074357299 |
+| Players | 2/10 |
+| Host Name | Ri4cardo |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:33:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -171,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GDMT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:30:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310074378291 |
+| Players | 1/5 |
+| Host Name | reds |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 22:33:23 |
 
 
