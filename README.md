@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310081158588 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | 76561198094039879 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:39:17 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:38:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310084388026 |
-| Players | 7/10 |
-| Host Name | 阿拉伯打嗝香 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:42:09 |
+| Lobby ID | 28595310084531461 |
+| Players | 5/8 |
+| Host Name | INGO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:42:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310083424732 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | KING |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:41:18 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:42:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310084056245 |
-| Players | 6/8 |
-| Host Name | ≈NEGODIY≈ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:41:52 |
+| Lobby ID | 28595310084561033 |
+| Players | 3/10 |
+| Host Name | Faray_iodaq |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:42:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310084433746 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | скитлзтрянка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:42:12 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310082294012 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | -Dread Doll- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:40:18 |
