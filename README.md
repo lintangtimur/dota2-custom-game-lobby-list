@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309467757359 |
-| Players | 13/15 |
-| Host Name | Mentok |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:14:31 |
+| Lobby ID | 28595309468620982 |
+| Players | 2/10 |
+| Host Name | Zaur |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:16:02 |
 
 
 |  | ot3_gardens_duo |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309468156507 |
-| Players | 9/15 |
-| Host Name | rozengg |
+| Players | 5/15 |
+| Host Name | NY6 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:15:13 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309467883194 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Kodos |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:14:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309468595510 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Es un Elissir xD |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:15:59 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:15:57 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309468620982 |
-| Players | 2/10 |
-| Host Name | Zaur |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:16:02 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309467186634 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ryu |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 11:13:33 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309460893008 |
+| Players | 2/5 |
+| Host Name | Crustyチル |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:02:14 |
 
 
