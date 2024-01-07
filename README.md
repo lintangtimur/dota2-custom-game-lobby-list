@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309805296024 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:49:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309805558333 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Honks |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:50:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309809404278 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Bolvan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:53:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309809410476 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | best 4 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:53:55 |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309809401491 |
-| Players | 6/10 |
-| Host Name | ^^ |
+| Lobby ID | 28595309809339315 |
+| Players | 4/10 |
+| Host Name | Charwisd |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:53:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309807852667 |
-| Players | 2/8 |
-| Host Name | die to live |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:52:26 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:53:50 |
 
 
 |  | epic_boss_fight_nightmare |
