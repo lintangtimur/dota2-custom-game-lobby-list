@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309467110794 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Gonzalo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:13:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309466683261 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | StrangeBoy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:12:38 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 3/24 |
-| Host Name | Kott ya |
+| Players | 6/24 |
+| Host Name | Truck-kun |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309467405820 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Era Leyenda |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:13:54 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309464557923 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Webi |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:08:48 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309463188174 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Sakazuki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:06:19 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309467186634 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | iLpa |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 11:13:33 |
