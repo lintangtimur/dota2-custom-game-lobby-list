@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:00:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309612310751 |
-| Players | 22/24 |
-| Host Name | KomtingKons |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:58:56 |
+| Lobby ID | 28595309614281336 |
+| Players | 3/15 |
+| Host Name | Kermit |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:01:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309613695794 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | Seguidor de Ratamanche |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:00:48 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:01:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309614281336 |
-| Players | 1/15 |
-| Host Name | Kermit |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:01:35 |
+| Lobby ID | 28595309614364246 |
+| Players | 2/24 |
+| Host Name | east e |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:01:41 |
 
 
 |  | epic_boss_fight_nightmare |
