@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309638111814 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Devil Eyes |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:32:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309641352471 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Re Zero |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:36:26 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:35:10 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309641678741 |
-| Players | 1/24 |
-| Host Name | 老司机 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:36:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309641693017 |
-| Players | 1/24 |
-| Host Name | It's a NO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:36:53 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309641736747 |
@@ -72,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Korben Dallas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:36:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309641693017 |
+| Players | 2/24 |
+| Host Name | It's a NO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:36:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309641890071 |
+| Players | 1/10 |
+| Host Name | ArCHeR |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 15:37:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309637867939 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Emdie |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 15:31:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309640761748 |
-| Players | 1/10 |
-| Host Name | nMM |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:35:40 |
 
 
