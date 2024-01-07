@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309581119991 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Golden Path Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:16:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309582430916 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Exuse (muted) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:18:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309582659788 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | при делах |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 14:18:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309582503222 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | PoRnStAr 8===D |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:18:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309583025805 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | PashaNB |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:19:06 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rico Suave |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:19:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309583249572 |
-| Players | 3/8 |
-| Host Name | milk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:19:25 |
 
 
 |  | epic_boss_fight_challenger |
