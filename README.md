@@ -20,103 +20,67 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:53:30 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309615256673 |
+| Players | 1/24 |
+| Host Name | PAZUZU |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 15:02:52 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309614576075 |
-| Players | 7/8 |
-| Host Name | Flam |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:01:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309614281336 |
-| Players | 14/15 |
-| Host Name | Kermit |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:01:35 |
+| Lobby ID | 28595309615107414 |
+| Players | 5/8 |
+| Host Name | playa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:02:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309614552921 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | tice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:01:56 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309612310751 |
-| Players | 23/24 |
-| Host Name | KomtingKons |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:58:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309614364246 |
-| Players | 13/24 |
-| Host Name | east e |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:01:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309614440550 |
-| Players | 8/10 |
-| Host Name | ЭТИ МАЛЫШИ ХУЯ ПРОСЯТ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:01:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309614890358 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Maestro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:02:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309614884037 |
-| Players | 1/15 |
-| Host Name | 戦え |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:02:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309614903820 |
-| Players | 2/15 |
-| Host Name | Mr. Esperman |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 15:02:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309612903791 |
-| Players | 9/10 |
-| Host Name | Nyx-Kyoron |
+| Lobby ID | 28595309614364246 |
+| Players | 14/24 |
+| Host Name | east e |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:59:44 |
+| Lobby Creation Time | Sunday, January 7, 2024 15:01:41 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309611662011 |
-| Players | 4/7 |
-| Host Name | Nah, I'd win |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 14:58:03 |
+| Lobby ID | 28595309615370140 |
+| Players | 1/8 |
+| Host Name | 🥚Little Egg :3 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 15:03:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309615396691 |
+| Players | 1/10 |
+| Host Name | say_hay1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:03:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -126,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | вичара с дейдалус |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:01:23 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595309611662011 |
+| Players | 4/7 |
+| Host Name | Nah, I'd win |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 14:58:03 |
 
 
