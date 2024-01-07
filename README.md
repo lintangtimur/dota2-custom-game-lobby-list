@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309403890704 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | Anj0 `-!FRD!-` |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:16:32 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309404293704 |
-| Players | 13/15 |
-| Host Name | honakaほなか |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:17:18 |
+| Lobby ID | 28595309404193288 |
+| Players | 14/15 |
+| Host Name | Pablo de los BackYordiganz 2.0 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:17:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309404338978 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Scrub, career felon |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:17:23 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309404193288 |
-| Players | 12/15 |
-| Host Name | Pablo de los BackYordiganz 2.0 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:17:06 |
+| Lobby ID | 28595309405062706 |
+| Players | 3/15 |
+| Host Name | 自走小金库 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Sunday, January 7, 2024 09:18:46 |
 
 
 |  | epic_boss_fight_nightmare |
