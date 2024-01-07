@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309389683037 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | да я фанат моря |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:49:46 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309389480660 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | SSSFFFKKK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:49:24 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:49:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309389904181 |
+| Players | 1/24 |
+| Host Name | ВЕБКАМЕНЩИК |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:50:11 |
 
 
