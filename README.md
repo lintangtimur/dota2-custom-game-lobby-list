@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309732102838 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Алексей минетов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:30:25 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309732102815 |
-| Players | 2/15 |
-| Host Name | yOG.chatarrero99 |
+| Players | 1/15 |
+| Host Name | El siempre ardiente |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 17:30:25 |
 
@@ -41,19 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309731626475 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | пися 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:29:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309732263618 |
-| Players | 1/15 |
-| Host Name | Scweizer |
+| Lobby ID | 28595309732301627 |
+| Players | 7/8 |
+| Host Name | Butterfly |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:30:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309732259100 |
+| Players | 4/24 |
+| Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:30:37 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:30:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309732407688 |
+| Players | 1/24 |
+| Host Name | ₮Ʉ₲Ø |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 17:30:47 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309731018368 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:29:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309731603160 |
-| Players | 1/10 |
-| Host Name | Hard Mode |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:29:49 |
 
 
