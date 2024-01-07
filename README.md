@@ -2,20 +2,20 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309477801418 |
-| Players | 19/24 |
-| Host Name | El cacha Yhoncitos del 8 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:32:21 |
+| Lobby ID | 28595309478146447 |
+| Players | 2/15 |
+| Host Name | ʞин иʎхɐн |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:32:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309475206275 |
-| Players | 4/8 |
-| Host Name | Lǐzǐ 1899 |
+| Players | 3/8 |
+| Host Name | Sadness & Sorrow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:27:40 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309478057118 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:32:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309477357261 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Egoisto |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:31:33 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309477905599 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | AVENA 3 URSITAS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:32:32 |
@@ -130,11 +130,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309478112431 |
+| Lobby ID | 28595309478165438 |
 | Players | 1/24 |
 | Host Name | Tomato Jones |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:32:54 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:33:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309478174591 |
+| Players | 1/15 |
+| Host Name | emu |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:33:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309478184647 |
+| Players | 2/24 |
+| Host Name | "YAKO$" |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:33:02 |
 
 
 |  | epic_boss_fight_nightmare |
