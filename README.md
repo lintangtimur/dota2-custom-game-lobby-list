@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309746815365 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Van ♂️ Darkholme |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:47:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309746391531 |
-| Players | 3/24 |
+| Players | 10/24 |
 | Host Name | SSS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:47:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309746291620 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Dota veteran |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:47:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309746487703 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | егор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:47:28 |
@@ -83,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:47:51 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309746363311 |
-| Players | 9/10 |
-| Host Name | MaTaNGo_O |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:47:19 |
+| Lobby ID | 28595309744874379 |
+| Players | 5/10 |
+| Host Name | Wrath |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:45:34 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309744874379 |
-| Players | 6/10 |
-| Host Name | Wrath |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:45:34 |
+| Lobby ID | 28595309747140136 |
+| Players | 1/10 |
+| Host Name | SuperBoneHack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:48:13 |
 
 
