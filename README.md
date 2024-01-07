@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309443085720 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Deza |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:29:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309429549886 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | 恶魔震动 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:04:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309442596369 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | El capitán de las sobras |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:28:31 |
@@ -83,6 +83,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:30:23 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309443700332 |
+| Players | 1/15 |
+| Host Name | dior |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:30:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309443734410 |
+| Players | 4/8 |
+| Host Name | cursed mf starboy |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:30:39 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28595309436647248 |
@@ -99,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Himothy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:26:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309442953420 |
-| Players | 1/10 |
-| Host Name | ONICHAN |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:29:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309443574151 |
-| Players | 1/5 |
-| Host Name | †CAMMUS™ |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 10:30:21 |
 
 
