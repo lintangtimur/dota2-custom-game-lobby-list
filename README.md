@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309772470149 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Soy El Corazon De Las Tinieblas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309842978512 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | AumNaHee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:24:32 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:27:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309843490391 |
-| Players | 7/8 |
-| Host Name | 123 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:24:59 |
+| Lobby ID | 28595309846235803 |
+| Players | 9/10 |
+| Host Name | ДЕТРИГНУС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:27:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:27:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309847151723 |
-| Players | 2/8 |
-| Host Name | Amigo |
+| Lobby ID | 28595309847062006 |
+| Players | 14/15 |
+| Host Name | king of fools |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:28:11 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:28:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309846235803 |
-| Players | 9/10 |
-| Host Name | ДЕТРИГНУС |
+| Lobby ID | 28595309847343845 |
+| Players | 2/10 |
+| Host Name | Фикс |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:27:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309847062006 |
-| Players | 2/15 |
-| Host Name | king of fools |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:28:06 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:28:21 |
 
 
 |  | epic_boss_fight_challenger |
