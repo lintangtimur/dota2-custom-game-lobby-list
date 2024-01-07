@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310125567297 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | John Does |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:18:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310127617118 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Kill me if you can |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 23:20:10 |
@@ -58,9 +58,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310128175413 |
-| Players | 6/10 |
-| Host Name | КИБЕРБУЛЛЕР |
+| Lobby ID | 28595310128174079 |
+| Players | 3/10 |
+| Host Name | Михаил Джекович |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 23:20:43 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310127463910 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | 10k...pero de conducta |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 23:20:02 |
@@ -86,28 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310128315675 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | blueeyeshade |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 23:20:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310128520236 |
+| Players | 3/10 |
+| Host Name | EL MAMANI |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 23:21:01 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310127705996 |
-| Players | 1/8 |
-| Host Name | МаксонКиберспорт |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 23:20:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310127925228 |
-| Players | 15/15 |
-| Host Name | Решала |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:20:27 |
+| Lobby ID | 28595310128005490 |
+| Players | 6/8 |
+| Host Name | ???% |
+| Region | AUSTRIA |
+| Lobby Creation Time | Sunday, January 7, 2024 23:20:31 |
 
 
 |  | ot3_desert_octet |
@@ -119,58 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:20:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310128174079 |
-| Players | 2/10 |
-| Host Name | Михаил Джекович |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:20:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310128011084 |
-| Players | 1/8 |
-| Host Name | МЯВ |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 23:20:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310128005490 |
-| Players | 4/8 |
-| Host Name | graveyard |
-| Region | AUSTRIA |
-| Lobby Creation Time | Sunday, January 7, 2024 23:20:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310128127006 |
-| Players | 1/10 |
-| Host Name | I'll come up to you, Gojo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:20:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310124336042 |
-| Players | 7/8 |
-| Host Name | Robert Lewangoalski |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 23:17:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310128220438 |
-| Players | 4/8 |
-| Host Name | Rehase |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:20:47 |
+| Lobby ID | 28595310128525304 |
+| Players | 1/24 |
+| Host Name | ded TF |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 23:21:01 |
 
 
 |  | epic_boss_fight_nightmare |
