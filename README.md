@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309475671018 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Lamperouge蛙 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:28:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309476450771 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | it_g_mah |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:29:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309473488973 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | de_dota2 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:24:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309475945549 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 宝哥哥 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:29:00 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309476335751 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | ZEO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:29:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309475793605 |
-| Players | 14/15 |
-| Host Name | TypicalTN |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:28:43 |
 
 
 |  | ot3_gardens_duo |
@@ -99,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bedlam |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:30:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309476756013 |
+| Players | 5/8 |
+| Host Name | Yoluis |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:30:27 |
 
 
 |  | epic_boss_fight_nightmare |
