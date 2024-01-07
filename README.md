@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309773659050 |
-| Players | 22/24 |
-| Host Name | Sgt.Aim_Master |
+| Lobby ID | 28595309776226441 |
+| Players | 2/8 |
+| Host Name | bendylot |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:17:37 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:20:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309775815996 |
-| Players | 9/10 |
-| Host Name | Van ♂️ Darkholme |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:19:59 |
+| Lobby ID | 28595309776095028 |
+| Players | 4/8 |
+| Host Name | Sebastian |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:20:17 |
 
 
 |  | ot3_desert_octet |
@@ -50,18 +50,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309776039897 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | ненавижу доту |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:20:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28595309776226441 |
-| Players | 2/8 |
-| Host Name | bendylot |
+| Lobby ID | 28595309776242264 |
+| Players | 1/7 |
+| Host Name | Karhu |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:20:25 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:20:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309776478751 |
+| Players | 3/5 |
+| Host Name | Христайло |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:20:42 |
 
 
