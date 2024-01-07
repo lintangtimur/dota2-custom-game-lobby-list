@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562173031 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | db |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:48:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309568110797 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | F.B.I |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:57:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309570731737 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:01:22 |
@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:01:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309569990890 |
+| Players | 11/15 |
+| Host Name | ЛДД |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:00:17 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595309570107107 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:00:27 |
@@ -108,5 +117,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hatdog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:01:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309571315828 |
+| Players | 1/10 |
+| Host Name | kymhnju |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:02:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309571373288 |
+| Players | 1/5 |
+| Host Name | self |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:02:18 |
 
 
