@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309607532835 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | さようなら(青春) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:52:32 |
@@ -74,39 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:52:28 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309607495328 |
-| Players | 6/8 |
-| Host Name | EgorTver |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:52:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309607836841 |
-| Players | 1/10 |
-| Host Name | Weiße Wand |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:52:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309607757964 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Chlowie<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:52:50 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309607850985 |
-| Players | 1/7 |
+| Lobby ID | 28595309607937686 |
+| Players | 1/5 |
 | Host Name | Ластхит по пиву |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:52:57 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:53:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309607986578 |
+| Players | 1/10 |
+| Host Name | Stone |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:53:08 |
 
 
