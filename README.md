@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309348028604 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Smile xD |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:30:33 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:28:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309349269919 |
-| Players | 4/8 |
-| Host Name | fystix9 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:32:45 |
+| Lobby ID | 28595309349365310 |
+| Players | 2/15 |
+| Host Name | eymortal |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:32:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309348980978 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 123456789 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:32:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309348758897 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | dorama |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:31:50 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:31:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309348759160 |
-| Players | 7/8 |
-| Host Name | p0zer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:31:50 |
+| Lobby ID | 28595309349171768 |
+| Players | 2/10 |
+| Host Name | Shearinex |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:32:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309349056583 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | xRattle |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:32:22 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PRO Fire |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:32:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309349171768 |
-| Players | 2/10 |
-| Host Name | Shearinex |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:32:34 |
 
 
