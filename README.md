@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:20:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309416865782 |
-| Players | 1/15 |
-| Host Name | Rover |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:41:01 |
+| Lobby ID | 28595309417037968 |
+| Players | 12/24 |
+| Host Name | Tobias EAton |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:41:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309416868732 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | ross-3/4/5 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:41:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309410356552 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 09:28:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309416118861 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | ESTE ARCONTE NO CARREA NADA ZZZ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:39:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309415142366 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:37:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309413231455 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | yangxuvictory |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:34:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309416347039 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | TOGA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:40:02 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:35:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309414466758 |
-| Players | 21/24 |
-| Host Name | Versaillest |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 09:36:24 |
+| Lobby ID | 28595309417023675 |
+| Players | 12/15 |
+| Host Name | ВЕБКАМЕНЩИК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 09:41:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309414650370 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Stiller |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:36:45 |
@@ -113,37 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309416836074 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | hehe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:40:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309417023675 |
-| Players | 1/15 |
-| Host Name | ВЕБКАМЕНЩИК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 09:41:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309417020069 |
-| Players | 1/15 |
-| Host Name | berhala kena reject |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:41:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309417037968 |
-| Players | 1/24 |
-| Host Name | Tobias EAton |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:41:21 |
 
 
 |  | epic_boss_fight_nightmare |
