@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:03:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309710602261 |
-| Players | 9/15 |
-| Host Name | 9mice |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:03:58 |
+| Lobby ID | 28595309710698051 |
+| Players | 5/10 |
+| Host Name | иван киллер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:04:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:02:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309710698051 |
-| Players | 5/10 |
-| Host Name | иван киллер |
+| Lobby ID | 28595309710962658 |
+| Players | 3/15 |
+| Host Name | КАПИТАН КАЛАШНИК |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:04:06 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:04:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309710606260 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | nyThanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:03:58 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tokian |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:01:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309710845141 |
+| Players | 1/5 |
+| Host Name | surfach7 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:04:17 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309710969064 |
+| Players | 2/7 |
+| Host Name | VP_Kyuツ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:04:26 |
 
 
