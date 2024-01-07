@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309426679237 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | uglxplastic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:59:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309426724776 |
-| Players | 16/24 |
+| Players | 23/24 |
 | Host Name | tavo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:59:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309425704591 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | DY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:57:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309424327041 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Charles |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 09:54:51 |
@@ -59,27 +59,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309427182280 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Te hago el amor con teclas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:07 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309424821875 |
-| Players | 7/10 |
-| Host Name | Sakata Gintoki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:55:46 |
+| Lobby ID | 28595309427194584 |
+| Players | 2/10 |
+| Host Name | Mo |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:00:08 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309427086823 |
-| Players | 2/7 |
-| Host Name | PAKEM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:59:56 |
+| Lobby ID | 28595309427195401 |
+| Players | 1/15 |
+| Host Name | Tiny Trumpet! |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:00:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309427198234 |
+| Players | 2/8 |
+| Host Name | БлАтНоЙ ПеТуХ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 10:00:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309427233798 |
+| Players | 1/10 |
+| Host Name | ebet? |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 10:00:12 |
 
 
