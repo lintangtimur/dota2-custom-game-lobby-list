@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309691647859 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | javaer_f_lores |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 16:39:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309709234798 |
-| Players | 13/15 |
-| Host Name | andre.dz |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 17:02:14 |
+| Lobby ID | 28595309709964963 |
+| Players | 13/24 |
+| Host Name | XTA-970/PE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:03:09 |
 
 
 |  | ot3_gardens_duo |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:02:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309709877483 |
-| Players | 12/15 |
-| Host Name | Аянами Рей |
+| Lobby ID | 28595309708539421 |
+| Players | 19/24 |
+| Host Name | ABSOLUT_SUKUNA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:03:03 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:01:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,52 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309709784102 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Пожилой чаминг🔶 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:02:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309709647565 |
-| Players | 6/8 |
-| Host Name | Y4enickDaxaka |
+| Lobby ID | 28595309710249818 |
+| Players | 4/15 |
+| Host Name | CLARISE |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:02:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309709964963 |
-| Players | 8/24 |
-| Host Name | XTA-970/PE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:03:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309708539421 |
-| Players | 13/24 |
-| Host Name | ABSOLUT_SUKUNA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:01:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309710079919 |
-| Players | 4/8 |
-| Host Name | ГАНДУРАС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:03:18 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:03:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309705683809 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | miriam |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:57:43 |
