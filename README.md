@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309691647859 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | javaer_f_lores |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 16:39:51 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:54:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309707406054 |
-| Players | 3/15 |
-| Host Name | DoraDura |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:59:55 |
+| Lobby ID | 28595309707355559 |
+| Players | 2/10 |
+| Host Name | Лобзик |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:59:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309706463871 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Bapak Bapak Rendem |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:58:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309706898752 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Rarity' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:59:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309707411162 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Shalfear |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:59:55 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:59:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309707355559 |
-| Players | 2/10 |
-| Host Name | Лобзик |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:59:51 |
+| Lobby ID | 28595309707608178 |
+| Players | 1/24 |
+| Host Name | ABSOLUT_SUKUNA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:00:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309707618011 |
+| Players | 1/8 |
+| Host Name | lokoespartano |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 17:00:11 |
 
 
 |  | epic_boss_fight_nightmare |
