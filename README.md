@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309491641545 |
-| Players | 11/15 |
-| Host Name | Midnight |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:56:38 |
+| Lobby ID | 28595309492500764 |
+| Players | 1/15 |
+| Host Name | kei' |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:58:08 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309491159462 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:55:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309486195715 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | FakeKaizumi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:47:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309490323394 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Nothing Breaks Like a Heart 😐 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:54:19 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309491498458 |
-| Players | 17/24 |
+| Players | 23/24 |
 | Host Name | Movistar Perú Oficial |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:56:23 |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309492397615 |
-| Players | 4/8 |
-| Host Name | Weather Report |
+| Players | 1/8 |
+| Host Name | EL INSANO WUAZAAA |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:57:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309492433375 |
-| Players | 1/8 |
-| Host Name | Baki Win |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:58:01 |
 
 
 |  | epic_boss_fight_challenger |
