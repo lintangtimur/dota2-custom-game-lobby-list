@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309506982718 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:22:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309507522769 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Beer.Team Матье Бал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:23:43 |
@@ -77,37 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309507062649 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | 8llllllllllD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:22:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309507412204 |
-| Players | 7/10 |
-| Host Name | Сквиртуоз |
+| Lobby ID | 28595309507837840 |
+| Players | 2/8 |
+| Host Name | дотарепер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:23:32 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:24:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309507664712 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | Kbeza |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:23:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309507643321 |
-| Players | 3/8 |
-| Host Name | Kaori香り (5) |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 12:23:55 |
 
 
 |  | epic_boss_fight_nightmare |
