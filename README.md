@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310006726885 |
-| Players | 6/15 |
-| Host Name | MAMAT BELUM SUNAT |
+| Players | 4/15 |
+| Host Name | . |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 21:37:04 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310003531149 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Paragon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:34:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310011700930 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | Evlogos |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:41:06 |
@@ -32,88 +32,79 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310010161968 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Joann |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:39:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310005154541 |
-| Players | 10/15 |
-| Host Name | Σ오로러시ψ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 21:35:50 |
+| Lobby ID | 28595310012295917 |
+| Players | 5/8 |
+| Host Name | Адмирал Сфинктор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:41:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310006323766 |
-| Players | 23/24 |
-| Host Name | Терминатор |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:36:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310011603224 |
-| Players | 6/15 |
-| Host Name | Krink |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:41:01 |
+| Lobby ID | 28595310012203071 |
+| Players | 5/24 |
+| Host Name | Jerry |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:41:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310011530747 |
-| Players | 2/10 |
-| Host Name | no bio yet崩壊 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:40:57 |
+| Lobby ID | 28595310012601957 |
+| Players | 5/10 |
+| Host Name | DENCHIK CHERRY GANG |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 21:41:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310011681331 |
+| Lobby ID | 28595310012773017 |
+| Players | 5/8 |
+| Host Name | Mipos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:41:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310012735407 |
 | Players | 1/8 |
+| Host Name | Anita "MAX" Wynn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:41:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310012633024 |
+| Players | 6/8 |
+| Host Name | (-_-) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:41:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310012620201 |
+| Players | 4/8 |
 | Host Name | Бегущий_по_Доте |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:41:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310011807045 |
-| Players | 3/15 |
-| Host Name | wen1x |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:41:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310011839371 |
-| Players | 1/15 |
-| Host Name | по УДО вышел |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:41:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310011860978 |
-| Players | 6/8 |
-| Host Name | интернет |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:41:14 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:41:51 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310010810945 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | ⌜J7⌟ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, January 7, 2024 21:40:21 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310010909688 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | -_= |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:40:26 |
@@ -139,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595310011832835 |
-| Players | 1/5 |
-| Host Name | Kisel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:41:12 |
+| Lobby ID | 28595310012781913 |
+| Players | 3/5 |
+| Host Name | Ladalius |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:41:59 |
 
 
