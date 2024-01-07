@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309685033917 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name |  |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:31:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309686764798 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Da Ve |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, January 7, 2024 16:33:44 |
@@ -54,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | God is Good |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:31:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309686964518 |
+| Players | 1/5 |
+| Host Name | sladki snov :) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:33:59 |
 
 
