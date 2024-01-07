@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309473523397 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Donfrulli |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:24:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309475206275 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Lǐzǐ 1899 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:27:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309473882177 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | bam butchi wap |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:25:20 |
