@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309465992582 |
-| Players | 9/15 |
-| Host Name | T R A S H B O A T |
+| Lobby ID | 28595309466683261 |
+| Players | 3/15 |
+| Host Name | StrangeBoy |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:11:25 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:12:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309466388780 |
-| Players | 4/24 |
+| Players | 15/24 |
 | Host Name | El cacha Yhoncitos del 8 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:12:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309466262346 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | llegó la SUNAT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:11:54 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309466185746 |
-| Players | 10/15 |
-| Host Name | Bcex_nopBy |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:11:46 |
+| Lobby ID | 28595309466774953 |
+| Players | 11/15 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:12:48 |
 
 
 |  | ot3_gardens_duo |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dead outside |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:12:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309466780657 |
+| Players | 3/8 |
+| Host Name | C@P_$COP€ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:12:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309464173182 |
+| Players | 4/8 |
+| Host Name | MarcleanCxz |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:08:05 |
 
 
 |  | epic_boss_fight_nightmare |
