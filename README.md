@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310031872186 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Febby♥金佳暎 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:57:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310035736901 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | whatever |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:00:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310020562174 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | welcome to earth |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 21:48:16 |
@@ -58,26 +58,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310023546087 |
-| Players | 7/8 |
-| Host Name | ПАНКУХА ЕЩКЕРЕЕЕ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:50:41 |
+| Lobby ID | 28595310037007725 |
+| Players | 6/8 |
+| Host Name | Akashi Seijuro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:01:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310036798134 |
-| Players | 6/15 |
-| Host Name | Dad Gamer |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 22:01:33 |
+| Lobby ID | 28595310036736388 |
+| Players | 2/15 |
+| Host Name | 寂寞旁白 |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, January 7, 2024 22:01:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310034154240 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | ПЕРЕКАЧ 𒅒Kуллep |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:59:21 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310035740741 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | 123benny123 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:00:40 |
@@ -101,40 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:01:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310037172901 |
-| Players | 11/15 |
-| Host Name | seulgi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:01:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310036736388 |
-| Players | 1/15 |
-| Host Name | 寂寞旁白 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 22:01:30 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310037007725 |
-| Players | 3/8 |
-| Host Name | Akashi Seijuro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:01:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310037245735 |
-| Players | 9/15 |
-| Host Name | F-16 |
+| Lobby ID | 28595310037677811 |
+| Players | 4/8 |
+| Host Name | Лобзик |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:01:55 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:02:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -167,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310036863852 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Hakai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:01:36 |
