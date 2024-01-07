@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309397205234 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:03:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309397512739 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | EMOBED |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:04:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309392939830 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:55:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309397267744 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Frontier |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:03:52 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:58:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309396982440 |
-| Players | 9/10 |
-| Host Name | молчание бурят |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 09:03:20 |
+| Lobby ID | 28595309397759321 |
+| Players | 3/15 |
+| Host Name | AEA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:04:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,30 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:02:45 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309398056062 |
+| Players | 5/15 |
+| Host Name | EmperorDuck |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:05:19 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309397140973 |
+| Lobby ID | 28595309398087647 |
 | Players | 1/8 |
 | Host Name | ϟLightning |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 09:03:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309397759321 |
-| Players | 4/15 |
-| Host Name | AEA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:04:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309397397059 |
-| Players | 11/15 |
-| Host Name | ///// |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 09:04:07 |
+| Lobby Creation Time | Sunday, January 7, 2024 09:05:23 |
 
 
