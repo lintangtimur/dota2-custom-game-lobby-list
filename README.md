@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309478856684 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Смотрите кирпич |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:34:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309478315606 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | A s r a e l |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:33:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309480386577 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | C A P I T A N |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:36:54 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309480422703 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | шестнадцать стри |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:36:57 |
@@ -104,19 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309480492153 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | 8llllllllllD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:37:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309480512722 |
-| Players | 1/24 |
-| Host Name | Barasa |
+| Lobby ID | 28595309480634346 |
+| Players | 1/8 |
+| Host Name | Оля Лукина |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:37:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309480597142 |
+| Players | 1/15 |
+| Host Name | 7 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:37:07 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:37:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309480614578 |
+| Players | 4/8 |
+| Host Name | d4n |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:37:17 |
 
 
 |  | epic_boss_fight_nightmare |
