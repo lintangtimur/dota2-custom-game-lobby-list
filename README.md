@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309772470149 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Soy El Corazon De Las Tinieblas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309773659050 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Sgt.Aim_Master |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:17:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309773954024 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | まだ死んでいる |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:17:57 |
@@ -41,45 +41,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309772073643 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Kenny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:15:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309773734876 |
+| Players | 7/8 |
+| Host Name | AE<3 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:17:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309771717645 |
+| Players | 4/8 |
+| Host Name | кристалис |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:15:30 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309774194018 |
-| Players | 6/15 |
-| Host Name | gnida |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:18:12 |
+| Lobby ID | 28595309774644722 |
+| Players | 13/15 |
+| Host Name | че случилось |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:18:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309774274052 |
-| Players | 2/10 |
-| Host Name | :3 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:18:18 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309771987968 |
-| Players | 9/10 |
-| Host Name | iphone113011 |
+| Lobby ID | 28595309774864194 |
+| Players | 6/10 |
+| Host Name | Собянин |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:15:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309774075151 |
-| Players | 2/10 |
-| Host Name | 배주현 |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 18:18:04 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:18:56 |
 
 
