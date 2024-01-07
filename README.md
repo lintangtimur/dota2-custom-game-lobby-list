@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309580226239 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | отчим гетто |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:15:04 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:48:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309579386062 |
-| Players | 12/15 |
-| Host Name | AS.3h |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:13:52 |
+| Lobby ID | 28595309580146057 |
+| Players | 6/24 |
+| Host Name | PartofmyW |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:14:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309579066465 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | madman in depressed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:13:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309578965280 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Les hare conocer el dolor |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:13:17 |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:14:47 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309580146057 |
-| Players | 6/24 |
-| Host Name | PartofmyW |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:14:57 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595309570107107 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:00:27 |
