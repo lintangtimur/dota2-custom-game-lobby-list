@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309499699358 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Alotte |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:10:35 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:08:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309498836854 |
-| Players | 13/15 |
-| Host Name | HidenKiller |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:09:04 |
+| Lobby ID | 28595309500236601 |
+| Players | 6/10 |
+| Host Name | Solowind |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:11:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | R3sist4nce. |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:11:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309500194286 |
-| Players | 5/8 |
-| Host Name | Neoxa[DMG]//3L_M4LTR4 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:11:28 |
 
 
 |  | ot3_desert_octet |
@@ -94,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309500236601 |
-| Players | 6/10 |
-| Host Name | Solowind |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:11:32 |
+| Lobby ID | 28595309500507923 |
+| Players | 4/10 |
+| Host Name | Feliz Año Nuevo |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:12:01 |
 
 
 |  | epic_boss_fight_nightmare |
