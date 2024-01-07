@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309486487041 |
-| Players | 13/15 |
-| Host Name | Rofl Chick-Fil-A Copter |
+| Lobby ID | 28595309487848865 |
+| Players | 5/15 |
+| Host Name | ヒーロー見参 |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:47:34 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:49:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | .. |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309487253003 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:48:54 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309487221936 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | qwer123 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:48:50 |
@@ -126,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lLitOl |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:49:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309487839838 |
+| Players | 2/8 |
+| Host Name | W бозон 弱相互作用 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:49:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +153,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Youve been Gnomed |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:49:20 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309487860146 |
+| Players | 1/7 |
+| Host Name | SpilleR_SS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:49:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309484989018 |
+| Players | 9/10 |
+| Host Name | CP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:45:01 |
 
 
