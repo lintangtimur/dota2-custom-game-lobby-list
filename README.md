@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309751354555 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | PMA player |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:52:59 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309753221285 |
-| Players | 9/10 |
-| Host Name | рожок от чебурека |
+| Lobby ID | 28595309754058060 |
+| Players | 2/10 |
+| Host Name | ИИСУС СССР РАНГА |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:55:05 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:56:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309753793600 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Emiliya |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:55:43 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309751206353 |
-| Players | 1/15 |
-| Host Name | Magicsarap |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 17:52:49 |
+| Lobby ID | 28595309753996833 |
+| Players | 4/15 |
+| Host Name | AZ.ZeroImpact |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:55:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | za yanu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:55:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309753996833 |
-| Players | 1/15 |
-| Host Name | AZ.ZeroImpact |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:55:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309754021178 |
-| Players | 1/15 |
-| Host Name | yOG.chatarrero99 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 17:55:58 |
 
 
 |  | epic_boss_fight_nightmare |
