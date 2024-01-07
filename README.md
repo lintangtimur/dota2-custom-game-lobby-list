@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309769181654 |
-| Players | 1/8 |
-| Host Name | Ty4ka5 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:12:44 |
+| Lobby ID | 28595309777723947 |
+| Players | 2/15 |
+| Host Name | 4 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:22:01 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309777449666 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | まだ死んでいる |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:21:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309776070699 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Aether |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:20:15 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:20:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309777807739 |
-| Players | 1/10 |
-| Host Name | jykito |
+| Lobby ID | 28595309777839206 |
+| Players | 14/15 |
+| Host Name | NaïVeTé |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:22:06 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:22:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,22 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:21:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309777723947 |
-| Players | 2/15 |
-| Host Name | 4 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:22:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309777839206 |
-| Players | 3/15 |
-| Host Name | NaïVeTé |
+| Lobby ID | 28595309777969298 |
+| Players | 5/10 |
+| Host Name | J7 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:22:09 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:22:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309777969001 |
+| Players | 1/10 |
+| Host Name | jykito |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:22:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309778037219 |
+| Players | 1/10 |
+| Host Name | ИИСУС СССР РАНГА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:22:21 |
 
 
 |  | epic_boss_fight_normal |
