@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309427639798 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Versaillest |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:57 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309427743524 |
 | Players | 3/10 |
-| Host Name | ebet? |
+| Host Name | They Call Me Matrix |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:01:09 |
 
@@ -95,27 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309427497639 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Movistar Perú Oficial |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:42 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309427195401 |
+| Players | 14/15 |
+| Host Name | Tiny Trumpet! |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:00:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309427685120 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | грех |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:01:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309424821875 |
-| Players | 9/10 |
-| Host Name | Sakata Gintoki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:55:46 |
 
 
