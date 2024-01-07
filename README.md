@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309389484721 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 08:49:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309388984919 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Amado |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:48:29 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309389210933 |
+| Lobby ID | 28595309387253320 |
 | Players | 6/8 |
-| Host Name | 2024 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:48:54 |
+| Host Name | JUDE BELLINGHAM |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 08:45:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,30 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:50:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309387253320 |
-| Players | 6/8 |
-| Host Name | JUDE BELLINGHAM |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:45:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309381797046 |
-| Players | 14/15 |
-| Host Name | Chad Chadinson |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:34:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309390481622 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Tu Rata Favorita |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:51:14 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595309390733666 |
+| Players | 1/7 |
+| Host Name | BOOG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:51:42 |
 
 
