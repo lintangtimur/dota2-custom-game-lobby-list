@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:55:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310030027870 |
-| Players | 5/8 |
-| Host Name | Evlogos |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:55:59 |
+| Lobby ID | 28595310031278094 |
+| Players | 12/15 |
+| Host Name | kkkr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:57:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310020562174 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | welcome to earth |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 21:48:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310029499094 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | rato distópico cunty |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 21:55:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310026831716 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Snapfan | |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:53:21 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:50:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310031145185 |
-| Players | 2/8 |
-| Host Name | ПАРАШНЫЙ ВОДОЛЕЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:56:54 |
+| Lobby ID | 28595310031418515 |
+| Players | 1/15 |
+| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 21:57:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310030758889 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | [Hunji] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:56:35 |
@@ -112,47 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310031176494 |
-| Players | 9/10 |
-| Host Name | хихихаха~ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:56:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310031278094 |
-| Players | 8/15 |
-| Host Name | kkkr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:57:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310031384101 |
+| Lobby ID | 28595310031590963 |
 | Players | 2/10 |
-| Host Name | сори что трахнул |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 21:57:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310031378691 |
-| Players | 2/10 |
-| Host Name | SeaQer |
+| Host Name | ПАРАШНЫЙ ВОДОЛЕЙ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:57:05 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:57:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310031418515 |
-| Players | 1/15 |
-| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 21:57:07 |
+| Lobby ID | 28595310031594805 |
+| Players | 3/24 |
+| Host Name | TrAnQuiLiTy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:57:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310031630913 |
+| Players | 2/8 |
+| Host Name | krvv |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:57:18 |
 
 
 |  | epic_boss_fight_challenger |
@@ -189,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Liquer |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:56:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310031632600 |
+| Players | 3/5 |
+| Host Name | 3D Девотька |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:57:18 |
 
 
