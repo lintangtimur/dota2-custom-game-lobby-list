@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:45:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309562127360 |
-| Players | 13/15 |
-| Host Name | Alphawolf |
+| Lobby ID | 28595309562238875 |
+| Players | 3/8 |
+| Host Name | Lightning Fingers Raamm |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:48:52 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:49:02 |
 
 
 |  | ot3_gardens_duo |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562261095 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | DogJeWz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:49:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309562238875 |
-| Players | 3/8 |
-| Host Name | uB1vayu ryzk1x |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:49:02 |
+| Lobby ID | 28595309563080986 |
+| Players | 1/24 |
+| Host Name | Tenma |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:50:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nthnl |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:47:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309563072601 |
+| Players | 1/5 |
+| Host Name | 玩游戏用脑子 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:50:15 |
 
 
