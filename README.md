@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309732549122 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | الغول |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:30:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309731148342 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | SuperKeke |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:29:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309732151002 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ДЕТРИГНУС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:30:29 |
@@ -41,10 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309732259100 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:30:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309722621018 |
+| Players | 18/24 |
+| Host Name | 100 Percent Maximum No Chill |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:18:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309732862275 |
+| Players | 2/15 |
+| Host Name | Русский сын. |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:31:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309730179305 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | nighty america |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:28:07 |
