@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310246381954 |
-| Players | 6/8 |
-| Host Name | Waffle |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 01:13:03 |
+| Lobby ID | 28595310249264304 |
+| Players | 1/24 |
+| Host Name | [TCo9]-ONe*One |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:15:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310242854669 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Monday, January 8, 2024 01:09:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310245271228 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 01:11:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310249005070 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | uglycaveman |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 01:15:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310245183155 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Del rey.. |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:11:51 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:14:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310248724841 |
-| Players | 7/8 |
-| Host Name | А |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:15:19 |
+| Lobby ID | 28595310249203986 |
+| Players | 1/24 |
+| Host Name | hAggU pLaYeR |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 8, 2024 01:15:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310245667311 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Cyчьu Macлята (Читай |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 01:12:20 |
@@ -104,25 +104,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310248553491 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | КураторДетдома |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 01:15:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310249281630 |
+| Players | 1/8 |
+| Host Name | Sanimek |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:15:52 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310249088319 |
-| Players | 4/10 |
-| Host Name | ХАЯТО |
+| Lobby ID | 28595310249260440 |
+| Players | 1/10 |
+| Host Name | Не Ки Кун |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 01:15:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310249291001 |
+| Players | 2/10 |
+| Host Name | Buchenwald |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:15:40 |
+| Lobby Creation Time | Monday, January 8, 2024 01:15:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310249291710 |
+| Players | 4/10 |
+| Host Name | Ишак |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:15:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310245702781 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | GreShnik |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 01:12:22 |
@@ -131,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310246747000 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Vells |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 01:13:24 |
