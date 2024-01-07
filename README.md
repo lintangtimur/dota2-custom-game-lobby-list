@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309575702567 |
+| Players | 3/10 |
+| Host Name | CHAMAQUITO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 14:08:31 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309574076083 |
-| Players | 6/8 |
-| Host Name |                 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:06:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309575141415 |
-| Players | 9/15 |
-| Host Name | FRAN |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 14:07:42 |
+| Lobby ID | 28595309575901542 |
+| Players | 4/8 |
+| Host Name | de_dota2 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 14:08:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562173031 |
-| Players | 11/24 |
+| Players | 9/24 |
 | Host Name | db |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:48:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309575340501 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | ^.^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:08:00 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309575901542 |
-| Players | 4/8 |
-| Host Name | de_dota2 |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 14:08:49 |
+| Lobby ID | 28595309576181363 |
+| Players | 2/8 |
+| Host Name | your dad |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:09:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309575702567 |
-| Players | 2/10 |
-| Host Name | CHAMAQUITO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 14:08:31 |
+| Lobby ID | 28595309576200394 |
+| Players | 3/15 |
+| Host Name | Necromansy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:09:15 |
 
 
 |  | epic_boss_fight_challenger |
