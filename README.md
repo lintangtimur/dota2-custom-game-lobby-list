@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309345125770 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Elysium |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:25:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309345122461 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | boobsboobsboobs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:25:21 |
@@ -41,37 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309343055881 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:21:39 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309345431629 |
+| Players | 5/8 |
+| Host Name | Jora Napasov |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:25:54 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309344993143 |
-| Players | 6/10 |
-| Host Name | БОМ БОМ |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 07:25:07 |
+| Lobby ID | 28595309345452852 |
+| Players | 1/10 |
+| Host Name | Mandingo Bunnington |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:25:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309345173932 |
-| Players | 7/8 |
-| Host Name | Killer Queen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:25:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309343937915 |
-| Players | 7/8 |
-| Host Name | COCO BASILE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:23:15 |
+| Lobby ID | 28595309345464361 |
+| Players | 1/10 |
+| Host Name | big boss |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:25:58 |
 
 
 |  | epic_boss_fight_nightmare |
