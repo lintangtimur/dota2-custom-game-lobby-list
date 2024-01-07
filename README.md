@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:36:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309689994647 |
-| Players | 5/8 |
-| Host Name | Demonic Fox |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:37:46 |
+| Lobby ID | 28595309689660836 |
+| Players | 17/24 |
+| Host Name | DY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:37:21 |
 
 
 |  | ot3_desert_octet |
@@ -29,37 +29,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:34:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309691329073 |
-| Players | 4/15 |
-| Host Name | غراندايزر |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:39:27 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309689660836 |
-| Players | 13/24 |
-| Host Name | DY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:37:21 |
+| Lobby ID | 28595309691647859 |
+| Players | 1/24 |
+| Host Name | Eminence in shadow |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 16:39:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309691072147 |
-| Players | 7/10 |
-| Host Name | SHOGUN |
+| Lobby ID | 28595309691665359 |
+| Players | 2/10 |
+| Host Name | xTrane |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:39:07 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:39:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309691682048 |
+| Players | 1/15 |
+| Host Name | MR |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:39:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309691718324 |
+| Players | 6/8 |
+| Host Name | james lee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:39:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309687559202 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Novasiphon |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:34:44 |
