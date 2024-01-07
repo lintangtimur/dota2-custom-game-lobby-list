@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309905926983 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | CHIM CHOPA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 20:17:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309906660277 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Solowind |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 20:17:45 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309906278488 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 20:17:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309904408678 |
-| Players | 23/24 |
-| Host Name | Fucking Pencil |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:15:57 |
+| Lobby ID | 28595309906692448 |
+| Players | 1/15 |
+| Host Name | HAKUNA LOPATA |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:17:47 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309906540695 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | anal destroyer pussy ass niga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:17:40 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309906661261 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | empty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:17:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309906692448 |
-| Players | 1/15 |
-| Host Name | HAKUNA LOPATA |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:17:47 |
+| Lobby ID | 28595309907053467 |
+| Players | 5/24 |
+| Host Name | starboy101 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:18:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309906127716 |
+| Players | 2/8 |
+| Host Name | Uruma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:17:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Makoto Shishio |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:16:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309907126098 |
+| Players | 1/10 |
+| Host Name | tahwah1 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:18:08 |
 
 
