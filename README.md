@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309337193914 |
-| Players | 12/15 |
-| Host Name | Blob- |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:11:27 |
+| Lobby ID | 28595309337567391 |
+| Players | 1/24 |
+| Host Name | XD |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:12:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309335446306 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | vannc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:08:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309336238414 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | SicaRio- |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 07:09:47 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309337522545 |
-| Players | 5/24 |
-| Host Name | 🔥🔥🔥 |
+| Players | 3/24 |
+| Host Name | Agua |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:12:01 |
 
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309337561339 |
-| Players | 3/8 |
-| Host Name | Jora Napasov |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:12:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309337567391 |
-| Players | 1/24 |
-| Host Name | XD |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 07:12:06 |
+| Lobby ID | 28595309337728088 |
+| Players | 2/8 |
+| Host Name | ZXC⭕⃤ s̴p̴a̴r̴k̴l̴e̴ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:12:22 |
 
 
 |  | epic_boss_fight_normal |
