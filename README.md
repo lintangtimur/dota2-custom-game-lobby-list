@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309465992582 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | T R A S H B O A T |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:11:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309464747205 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | rato distópico cunty |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:09:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309464656745 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | _Ferxxo_ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:08:59 |
@@ -56,31 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309465271143 |
-| Players | 18/24 |
-| Host Name | BR@ND |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:10:07 |
+| Lobby ID | 28595309466262346 |
+| Players | 3/10 |
+| Host Name | llegó la SUNAT |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:11:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309466185746 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Bcex_nopBy |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:11:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309464173182 |
-| Players | 7/8 |
-| Host Name | MarcleanCxz |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:08:05 |
 
 
 |  | epic_boss_fight_nightmare |
