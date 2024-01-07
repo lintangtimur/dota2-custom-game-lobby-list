@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309949196301 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Sicario |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:51:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309947611596 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Kanki |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:16 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 20:48:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309949819224 |
-| Players | 12/15 |
-| Host Name | Crazy Bunny |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:51:58 |
+| Lobby ID | 28595309950142678 |
+| Players | 4/8 |
+| Host Name | Panda |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:52:13 |
 
 
 |  | ot3_gardens_duo |
@@ -81,6 +81,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hydra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:52:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309948368116 |
+| Players | 9/10 |
+| Host Name | -батя вчлене |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 20:50:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309950194836 |
+| Players | 2/15 |
+| Host Name | Наруто Банкай |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:52:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309950229993 |
+| Players | 1/24 |
+| Host Name | Vi195 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:52:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309950228147 |
+| Players | 1/15 |
+| Host Name | .#Swollen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:52:17 |
 
 
 |  | epic_boss_fight_nightmare |
