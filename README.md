@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309533172809 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Java4ever |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:05:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309524440501 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | apTeom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:51:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309532648638 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ᴶᴼᴱ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:04:30 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309530828514 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | ME MUERO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:01:42 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309533899225 |
+| Lobby ID | 28595309534024122 |
 | Players | 1/15 |
 | Host Name | Chilly |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:06:25 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:06:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309530336288 |
+| Players | 11/15 |
+| Host Name | VolTaGe |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:00:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309533562114 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Omsimism |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:05:54 |
