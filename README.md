@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309588376457 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | я буду жить в луже у воробья |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:26:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309588353261 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Standin.RJ- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:26:34 |
@@ -40,29 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309588482983 |
-| Players | 11/15 |
-| Host Name | Krink |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:26:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28595309585479432 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Ponte las pilas Krag |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:22:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309588779639 |
-| Players | 2/24 |
-| Host Name | Entel | Asesor de Portabilidad |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 14:27:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,17 +58,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309588462922 |
-| Players | 1/10 |
-| Host Name | ►•PśÍх•◄™ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:26:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28595309588510612 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ContraPositive |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:26:46 |
