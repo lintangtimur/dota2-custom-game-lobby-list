@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309626291373 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Turtle |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:17:06 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309626019905 |
-| Players | 8/24 |
-| Host Name | k |
+| Players | 9/24 |
+| Host Name |  |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:16:46 |
 
@@ -65,10 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:15:20 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309626438219 |
+| Players | 7/15 |
+| Host Name | нету интереса |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:17:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309626499473 |
+| Players | 1/10 |
+| Host Name | Thug Life |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 15:17:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309625498341 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ѕυρρσят |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:16:06 |
