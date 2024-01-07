@@ -38,31 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:12:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309577166377 |
-| Players | 14/15 |
-| Host Name | не умею играть |
+| Lobby ID | 28595309579066465 |
+| Players | 4/8 |
+| Host Name | madman in depressed |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:10:41 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:13:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309578965280 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Armaill* |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:13:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309579066465 |
-| Players | 3/8 |
-| Host Name | madman in depressed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:13:26 |
 
 
 |  | epic_boss_fight_challenger |
