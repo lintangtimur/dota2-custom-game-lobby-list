@@ -6,24 +6,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309625766827 |
 | Players | 3/10 |
-| Host Name | Drink VODKA Play Dotka |
+| Host Name | m4rk.molotov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:16:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309625164448 |
-| Players | 14/15 |
-| Host Name | DinyaRa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:15:41 |
+| Lobby ID | 28595309626291373 |
+| Players | 2/10 |
+| Host Name | Turtle |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 15:17:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309625406191 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Moon |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:15:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309620383881 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:09:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309626019905 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | k |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:16:46 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SpliNteR |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:15:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309626291373 |
-| Players | 2/10 |
-| Host Name | Turtle |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 15:17:06 |
 
 
 |  | epic_boss_fight_nightmare |
