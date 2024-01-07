@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309776070699 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Aether |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:20:15 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309779443119 |
-| Players | 4/8 |
-| Host Name | ado |
+| Players | 5/8 |
+| Host Name | positive vibes' |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:23:49 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309779270582 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ;} |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:23:38 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309779032664 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | RazValutioN |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:23:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309779652521 |
+| Players | 2/8 |
+| Host Name | Ковальски |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:24:02 |
 
 
 |  | epic_boss_fight_normal |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309778121555 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Sunghacor |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:22:26 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cesar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:23:49 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309779739763 |
+| Players | 1/7 |
+| Host Name | Happe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:24:08 |
 
 
