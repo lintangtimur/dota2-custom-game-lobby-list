@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309558374509 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | FEYL |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:43:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309559235670 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | LuK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:44:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309559245931 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | WG.Arian |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:44:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309559787647 |
-| Players | 9/24 |
+| Players | 17/24 |
 | Host Name | noQaZARA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:45:29 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:46:22 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309560237826 |
-| Players | 2/24 |
-| Host Name | 1-800-LOW-PRIO |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:46:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309560022852 |
-| Players | 2/24 |
-| Host Name | Bubblicious |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:45:49 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309560451670 |
@@ -94,19 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309560585632 |
-| Players | 6/24 |
-| Host Name | PartofmyW |
+| Lobby ID | 28595309560022852 |
+| Players | 2/24 |
+| Host Name | Bubblicious |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:46:38 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:45:49 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309558391979 |
-| Players | 9/10 |
-| Host Name | 4 |
+| Lobby ID | 28595309560860653 |
+| Players | 1/24 |
+| Host Name | x |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:43:26 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:47:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309560917894 |
+| Players | 1/15 |
+| Host Name | Chowda |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:47:07 |
 
 
