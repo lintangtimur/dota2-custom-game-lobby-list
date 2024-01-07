@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309953089606 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Vicissitude |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:54:30 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309953008062 |
-| Players | 7/8 |
-| Host Name | twsunset |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:54:27 |
+| Lobby ID | 28595309953515103 |
+| Players | 11/15 |
+| Host Name | Дыхните в трубочк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:54:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309951966270 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:53:38 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309953493000 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ТРАХАТЬ??? |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:54:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309953515103 |
-| Players | 6/15 |
-| Host Name | Дыхните в трубочк |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:54:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309953045406 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | x |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:54:28 |
