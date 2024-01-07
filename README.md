@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309837838756 |
-| Players | 7/8 |
-| Host Name | JawaLava |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:20:01 |
+| Lobby ID | 28595309836847673 |
+| Players | 14/24 |
+| Host Name | Da VinCi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:19:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309837590621 |
-| Players | 12/15 |
-| Host Name | Shisui |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:19:48 |
+| Lobby ID | 28595309838122920 |
+| Players | 3/15 |
+| Host Name | Green man |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:20:16 |
 
 
 |  | ot3_gardens_duo |
@@ -74,40 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:18:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309836847673 |
-| Players | 12/24 |
-| Host Name | Da VinCi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:19:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309837954458 |
-| Players | 8/10 |
-| Host Name | АГЕНТ ШРЭК |
+| Lobby ID | 28595309838308479 |
+| Players | 1/8 |
+| Host Name | Эскапизм Души |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:20:08 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:20:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309838101856 |
 | Players | 4/8 |
-| Host Name | chugunaizer |
+| Host Name | Daulet The Fucker |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:20:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309838122920 |
-| Players | 1/15 |
-| Host Name | Green man |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:20:16 |
 
 
 |  | epic_boss_fight_challenger |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309837748453 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Escanor |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:19:57 |
