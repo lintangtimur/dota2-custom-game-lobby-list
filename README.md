@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309723588176 |
-| Players | 5/10 |
-| Host Name | Unlimited diarrhea |
+| Lobby ID | 28595309724723739 |
+| Players | 3/10 |
+| Host Name | Evolutionssv |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:20:08 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:21:31 |
 
 
 |  | ot3_desert_octet |
@@ -23,34 +23,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309722226887 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Pumpman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:18:28 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309723939211 |
-| Players | 7/8 |
-| Host Name | Unthinkable |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:20:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309724447636 |
-| Players | 13/15 |
-| Host Name | CAPT_SPARKLEBOTTOM |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:21:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309724455714 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | soar loser |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:21:12 |
