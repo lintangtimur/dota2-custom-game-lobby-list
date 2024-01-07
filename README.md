@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309812380319 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Saul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:56:43 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309811849904 |
-| Players | 6/8 |
-| Host Name | Daulet The Fucker |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:56:13 |
+| Lobby ID | 28595309812700893 |
+| Players | 1/24 |
+| Host Name | squirrel |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 18:57:01 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309810930355 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Nightlight |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:55:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309811492936 |
-| Players | 6/10 |
-| Host Name | ДЕТРИГНУС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:55:53 |
 
 
 |  | ot3_desert_octet |
@@ -63,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 18:55:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309812698853 |
+| Players | 6/10 |
+| Host Name | SilkSong |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:57:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309812532854 |
+| Lobby ID | 28595309812757199 |
 | Players | 2/10 |
 | Host Name | 小白 |
 | Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 18:56:52 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:57:05 |
 
 
