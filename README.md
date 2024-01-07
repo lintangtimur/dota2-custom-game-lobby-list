@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309772470149 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Soy El Corazon De Las Tinieblas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309835066066 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Lilith |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:17:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309819950038 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Moki |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 19:03:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309836408382 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Giz1m0 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:18:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309836721661 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | Полинка <3 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:19:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309836706100 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Brewmaster |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:19:02 |
@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309836847673 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Da VinCi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:19:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309837009977 |
+| Players | 1/24 |
+| Host Name | Alotte |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:19:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309837070494 |
+| Players | 2/8 |
+| Host Name | Kiwi |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:19:21 |
 
 
 |  | epic_boss_fight_normal |
