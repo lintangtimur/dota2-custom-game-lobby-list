@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309481847914 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Big prolem (nob) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:39:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309508625346 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Sadness & Sorrow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309508625506 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | EL GOSU DE LOS ANDES |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:31 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:28 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309507062649 |
+| Players | 23/24 |
+| Host Name | 8llllllllllD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:22:58 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309506825253 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309508783232 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:48 |
