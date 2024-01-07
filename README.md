@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309679839054 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Badgast2k17 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:25:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309682071859 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Pause Malone! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:27:54 |
@@ -58,19 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309683868819 |
-| Players | 14/15 |
-| Host Name | starwalker |
+| Lobby ID | 28595309684235566 |
+| Players | 7/15 |
+| Host Name | Людмила Валентиновна |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:30:10 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:30:37 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309684163627 |
-| Players | 1/5 |
-| Host Name | Nicc o Tynne |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 16:30:32 |
+| Lobby ID | 28595309684240282 |
+| Players | 1/10 |
+| Host Name | Harakiri Squad |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:30:37 |
 
 
