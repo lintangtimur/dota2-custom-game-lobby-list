@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309563969604 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:51:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562173031 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Squeebs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:48:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309563477931 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:50:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309564276535 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:52:00 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Player 1 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:52:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309566525246 |
+| Players | 2/10 |
+| Host Name | DJ_VODNIK |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:55:18 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | !m |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:53:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309566474516 |
-| Players | 1/5 |
-| Host Name | Amaterasu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:55:13 |
 
 
