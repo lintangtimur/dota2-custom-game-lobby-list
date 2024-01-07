@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309537929050 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Destroger jan |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:12:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309539711784 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | DonFlag |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:15:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309539192175 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | tocosh |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:14:36 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309541180504 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | Gamehong |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:17:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309540474724 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Akagami No Shanks |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:16:33 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309541472225 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Java4ever |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:18:04 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309535835115 |
-| Players | 14/15 |
-| Host Name | Papi Champaño |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:09:26 |
+| Lobby ID | 28595309541524542 |
+| Players | 1/15 |
+| Host Name | Phantom Pain |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:18:09 |
 
 
 |  | epic_boss_fight_challenger |
