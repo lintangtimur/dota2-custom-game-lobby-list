@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309399452769 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | dead outside |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:07:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309392939830 |
-| Players | 23/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:55:49 |
+| Lobby ID | 28595309397759321 |
+| Players | 13/15 |
+| Host Name | AEA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:04:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309398374213 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | High |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 09:05:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309398661968 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ROTHMAN |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:06:27 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309399167216 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | It's poshooooo ! |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:07:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309397759321 |
-| Players | 12/15 |
-| Host Name | AEA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:04:47 |
+| Lobby ID | 28595309399640911 |
+| Players | 2/24 |
+| Host Name | naiman |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 09:08:21 |
 
 
 |  | epic_boss_fight_challenger |
