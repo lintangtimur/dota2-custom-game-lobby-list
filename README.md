@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309811247227 |
-| Players | 12/15 |
-| Host Name | kqweer |
+| Lobby ID | 28595309811606203 |
+| Players | 3/10 |
+| Host Name | Shevrassa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:55:39 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:55:59 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309811136529 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | KAWAZAKI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:55:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309811228617 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | vanyuwa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:55:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309811230181 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Ковальски |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:55:38 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309809404278 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Bolvan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:53:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309811606203 |
-| Players | 2/10 |
-| Host Name | Shevrassa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:55:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -119,24 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:54:44 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595309809021186 |
-| Players | 3/7 |
-| Host Name | Kimchi rice |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:53:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309811225414 |
-| Players | 4/10 |
-| Host Name | Tess Tickles |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, January 7, 2024 18:55:38 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309811271367 |
@@ -144,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LoL Refugee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:55:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309811225414 |
+| Players | 5/10 |
+| Host Name | Tess Tickles |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, January 7, 2024 18:55:38 |
 
 
