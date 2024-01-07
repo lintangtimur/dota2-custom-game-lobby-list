@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309612270198 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | 猟師 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:58:53 |
@@ -32,19 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309612310751 |
-| Players | 3/24 |
-| Host Name | Reincarnationz |
+| Players | 5/24 |
+| Host Name | Badut Merah Biru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:58:56 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309612620992 |
+| Players | 2/10 |
+| Host Name | Mr. Esperman |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 14:59:22 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309612471213 |
+| Lobby ID | 28595309612604596 |
 | Players | 1/8 |
 | Host Name | Tiny |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, January 7, 2024 14:59:09 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:59:20 |
 
 
 |  | epic_boss_fight_nightmare |
