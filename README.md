@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309391706600 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | hehe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:53:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309391667804 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 8 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:53:26 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309389980819 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | DUDE WTH.嘟兜酱仆 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:50:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309389118759 |
-| Players | 23/24 |
-| Host Name | MiauW |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:48:44 |
+| Lobby ID | 28595309392029684 |
+| Players | 1/10 |
+| Host Name | ? |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:54:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309391504360 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | TS.KikeToro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:53:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309391825325 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ------------ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:53:44 |
@@ -86,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309391957577 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | 999999999 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:53:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309392098683 |
+| Players | 1/5 |
+| Host Name | L'enfer |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:54:15 |
 
 
