@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309831102232 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:14:04 |
@@ -41,46 +41,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309819950038 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | saska |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 19:03:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309831776830 |
-| Players | 9/10 |
-| Host Name | Shevrassa |
+| Lobby ID | 28595309832930705 |
+| Players | 7/8 |
+| Host Name | 52愛 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:14:41 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:15:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309825089572 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | H1RO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:08:34 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309833316226 |
+| Players | 1/8 |
+| Host Name | Pos 1 Sosu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:16:02 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309832180382 |
-| Players | 6/15 |
-| Host Name | Шелдарон |
+| Lobby ID | 28595309833279750 |
+| Players | 4/15 |
+| Host Name | james bond ツ |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:15:02 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:16:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309832729606 |
-| Players | 1/8 |
-| Host Name | 0.0 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Sunday, January 7, 2024 19:15:31 |
+| Lobby ID | 28595309833072218 |
+| Players | 3/8 |
+| Host Name | Ваня банбентон |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, January 7, 2024 19:15:49 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309831794490 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Hiraeth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:14:42 |
