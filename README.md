@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310052292060 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Tired |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 22:14:30 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310049731778 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ✪stingytown |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:12:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310050521641 |
-| Players | 23/24 |
-| Host Name | 老司机 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:13:00 |
+| Lobby ID | 28595310053941699 |
+| Players | 1/8 |
+| Host Name | maks_Mp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:15:54 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310053213553 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | d4N. |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:15:17 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:14:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310053391244 |
-| Players | 4/8 |
-| Host Name | 帰省 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:15:26 |
+| Lobby ID | 28595310053976136 |
+| Players | 4/10 |
+| Host Name | uselessuselessuselessuseless |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:15:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310053725011 |
-| Players | 2/10 |
-| Host Name | zybok prime |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 22:15:43 |
+| Lobby ID | 28595310053913461 |
+| Players | 3/10 |
+| Host Name | ВІТЯ БРИНЗА |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 22:15:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310053765735 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Koala-cyberpunk |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:15:45 |
@@ -113,19 +113,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310053773828 |
-| Players | 2/15 |
-| Host Name | HAMIDULIN PRIME |
+| Players | 11/15 |
+| Host Name | ==RESPECT== |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:15:45 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310049771058 |
-| Players | 9/10 |
-| Host Name | kasmineler |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:12:22 |
+| Lobby ID | 28595310053850545 |
+| Players | 8/15 |
+| Host Name | seulgi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:15:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310054050557 |
+| Players | 2/8 |
+| Host Name | che s eblom?? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:16:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310053527195 |
+| Players | 4/5 |
+| Host Name | KalashmatiK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:15:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -139,10 +157,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595310053527195 |
-| Players | 2/5 |
-| Host Name | KalashmatiK |
+| Lobby ID | 28595310054016698 |
+| Players | 1/5 |
+| Host Name | maison margiela |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:15:33 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:15:58 |
 
 
