@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309421616771 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | УКК |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:49:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309421280302 |
-| Players | 7/10 |
-| Host Name | novak |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 09:49:11 |
+| Lobby ID | 28595309421795325 |
+| Players | 1/8 |
+| Host Name | russian dota lawyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 09:50:10 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309421300473 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | paiN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:49:14 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Melancholy & Apathy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:48:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309421202310 |
-| Players | 6/10 |
-| Host Name | AxuJlec |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 09:49:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309406103346 |
-| Players | 23/24 |
-| Host Name | Big prolem (nob) |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:20:43 |
 
 
 |  | epic_boss_fight_nightmare |
