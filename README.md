@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309335446306 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | vannc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:08:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309337539113 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:12:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309339214467 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | jamesb0nd007 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:14:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309338233360 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | ビーバーのお尻 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:13:15 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SunShine |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:15:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309339439242 |
+| Players | 2/15 |
+| Host Name | standin.idk™ |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:15:17 |
 
 
 |  | epic_boss_fight_normal |
