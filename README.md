@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:39:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309704020848 |
-| Players | 13/15 |
-| Host Name | Shalfear |
+| Lobby ID | 28595309702895789 |
+| Players | 1/8 |
+| Host Name | death of commentator |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:55:36 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:54:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309704410814 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Magadan RQ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:56:07 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309703836158 |
+| Lobby ID | 28595309704487470 |
 | Players | 2/8 |
-| Host Name | Teknuar |
+| Host Name | Demaster |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:55:22 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:56:12 |
 
 
 |  | ot3_desert_octet |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Snickito |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:54:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309702895789 |
-| Players | 1/8 |
-| Host Name | death of commentator |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:54:10 |
 
 
 |  | epic_boss_fight_normal |
