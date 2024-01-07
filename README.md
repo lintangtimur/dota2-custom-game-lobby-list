@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309497685965 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | SO FCKING BLUE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:07:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309497908873 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | 504 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:07:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309498194825 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Curze |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:07:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309498198746 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Luftwaffe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:07:56 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:07:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309498350290 |
+| Players | 1/15 |
+| Host Name | Midnight |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:08:12 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309498232522 |
+| Lobby ID | 28595309498358552 |
 | Players | 1/8 |
-| Host Name | NAVI ☼ |
+| Host Name | Gandalfs |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:07:59 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:08:13 |
 
 
 |  | epic_boss_fight_nightmare |
