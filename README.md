@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595310006252336 |
 | Players | 1/10 |
-| Host Name | тишебудь |
+| Host Name | Tony Tony Chopp3r |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 21:36:41 |
 
@@ -50,46 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310006323766 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Терминатор |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:36:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310006107963 |
-| Players | 12/15 |
-| Host Name | Creed |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 21:36:35 |
+| Lobby ID | 28595310007168149 |
+| Players | 3/8 |
+| Host Name | furasshu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:37:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310005712576 |
-| Players | 20/24 |
-| Host Name | DjarPe |
+| Lobby ID | 28595310007090129 |
+| Players | 9/24 |
+| Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:36:16 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:37:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310005154541 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Σ오로러시ψ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:35:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310006593612 |
-| Players | 6/10 |
-| Host Name | ДРЕВНИЙ РУС |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:36:57 |
+| Lobby ID | 28595310007277805 |
+| Players | 2/15 |
+| Host Name | MEDvedЬ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 21:37:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,37 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310006726885 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | PwC.rm |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 21:37:04 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310007090129 |
-| Players | 6/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:37:21 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310007098033 |
+| Lobby ID | 28595310007317017 |
 | Players | 1/10 |
-| Host Name | zvape |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 21:37:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310007079093 |
-| Players | 3/8 |
-| Host Name | ℞ |
+| Host Name | Джон Траволта |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:37:21 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:37:32 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,9 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310006884453 |
-| Players | 2/10 |
-| Host Name | GULINGKAN PEMERINTAHAN |
+| Players | 1/10 |
+| Host Name | ME WITH 4 IMMORTAL BRAINS |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 21:37:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310007345700 |
+| Players | 1/5 |
+| Host Name | GULINGKAN PEMERINTAHAN |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 21:37:33 |
 
 
