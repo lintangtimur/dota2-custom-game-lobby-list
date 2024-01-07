@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309440950609 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Saito; |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:25:29 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309440663507 |
-| Players | 18/24 |
-| Host Name | MOther fucker |
+| Players | 17/24 |
+| Host Name | efrdsfsdf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:24:56 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309441366786 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Mr. Bean Bean |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:26:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309441162642 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | k3yj1 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:25:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309442094652 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:27:36 |
@@ -95,16 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309441882643 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | idc |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:27:13 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309442216685 |
+| Players | 2/15 |
+| Host Name | Shedu |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:27:50 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28595309436647248 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | NOUR |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:33 |
