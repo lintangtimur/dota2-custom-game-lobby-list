@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309384433573 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Gringo karl |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:39:31 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309384490884 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Z+ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:39:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309384785351 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Ciclista sin Licencia |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:40:14 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:40:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309383713466 |
-| Players | 11/15 |
-| Host Name | Greta Thunberg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:38:02 |
+| Lobby ID | 28595309385300415 |
+| Players | 4/10 |
+| Host Name | Might Wanna Try Fortnite |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:41:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309385167549 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | NA BEREG? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:41:00 |
@@ -92,21 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:34:19 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309385243518 |
+| Players | 10/15 |
+| Host Name | not human (животное) |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:41:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309381935374 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Fucking Noob |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:34:35 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309385235879 |
-| Players | 1/5 |
+| Lobby ID | 28595309385265972 |
+| Players | 1/10 |
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:41:08 |
+| Lobby Creation Time | Sunday, January 7, 2024 08:41:12 |
 
 
