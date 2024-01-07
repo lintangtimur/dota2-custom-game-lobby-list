@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309374429007 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Agua |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:19:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309376412464 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | trovo.live/Bojji |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:23:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309374739482 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | CLSMCSMII |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:20:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309376176351 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Scrub, career felon |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:23:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309376644734 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Сидролюб со стажем |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:24:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309376559337 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | #### |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:24:05 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309376416024 |
-| Players | 14/15 |
-| Host Name | not human (животное) |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:23:48 |
+| Lobby ID | 28595309376855679 |
+| Players | 1/15 |
+| Host Name | chizou |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:24:39 |
 
 
 |  | epic_boss_fight_nightmare |
