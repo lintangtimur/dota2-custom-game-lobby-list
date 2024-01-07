@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309660440347 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Beer.Team Матье Бал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:00:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309660082835 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | IQ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:00:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309659721962 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | доDick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:59:47 |
@@ -65,12 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:00:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309660697005 |
-| Players | 1/24 |
-| Host Name | noQaZARA |
-| Region | SINGAPORE |
+| Lobby ID | 28595309660700422 |
+| Players | 1/10 |
+| Host Name | Ушлепоп |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:01:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309660817041 |
+| Players | 1/15 |
+| Host Name | Escanor |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:01:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309660716259 |
+| Players | 1/10 |
+| Host Name | KoKo anKo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:01:02 |
 
 
