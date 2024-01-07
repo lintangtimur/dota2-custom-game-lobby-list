@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309409238996 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Замир Безгеев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:26:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309408669450 |
-| Players | 8/10 |
-| Host Name | big boost |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:25:37 |
+| Lobby ID | 28595309409430762 |
+| Players | 5/8 |
+| Host Name | danye west |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 09:27:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309408693738 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Oops |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:25:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309408057343 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:24:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309406640651 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:21:43 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309409122982 |
-| Players | 9/15 |
-| Host Name | Shedu |
+| Lobby ID | 28595309409495463 |
+| Players | 2/15 |
+| Host Name | All muted |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:26:29 |
+| Lobby Creation Time | Sunday, January 7, 2024 09:27:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309409430762 |
-| Players | 4/8 |
-| Host Name | danye west |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 09:27:04 |
+| Lobby ID | 28595309409536117 |
+| Players | 1/10 |
+| Host Name | /-/ PANETON CON LECHE /-/ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:27:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,30 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:11:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28595309406621589 |
-| Players | 9/10 |
-| Host Name | ꦧꦸꦱꦸꦁꦭꦥꦂ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:21:41 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309409407274 |
-| Players | 1/5 |
-| Host Name | Masamorra Moradara |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:27:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309409419864 |
-| Players | 1/5 |
-| Host Name | GreenApple |
+| Lobby ID | 28595309409550507 |
+| Players | 2/7 |
+| Host Name | NOUR |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:27:03 |
+| Lobby Creation Time | Sunday, January 7, 2024 09:27:18 |
 
 
