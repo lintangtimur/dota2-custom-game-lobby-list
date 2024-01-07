@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309511704458 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | andreyvinogradoff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:30:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309481847914 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Big prolem (nob) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:39:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 4/24 |
+| Players | 1/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309512901304 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Mandraf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:32:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309511858087 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Kaioh Retsu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:30:57 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309513036127 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Tidus猫王 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:32:53 |
@@ -119,15 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:32:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309513104817 |
-| Players | 2/8 |
-| Host Name | Mama Vovana |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:32:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309506825253 |
@@ -135,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kymhnju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:22:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309508783232 |
+| Players | 9/10 |
+| Host Name | Fluffy Potato Skin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:25:48 |
 
 
