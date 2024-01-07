@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309470825381 |
-| Players | 13/15 |
-| Host Name | BreezyR |
+| Lobby ID | 28595309471746182 |
+| Players | 5/15 |
+| Host Name | Dominique de Coco |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:19:56 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:21:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309471702200 |
+| Lobby ID | 28595309471849204 |
 | Players | 1/8 |
-| Host Name | Ilf |
+| Host Name | Tofu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:21:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309471746182 |
-| Players | 5/15 |
-| Host Name | Dominique de Coco |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:21:34 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:21:45 |
 
 
 |  | epic_boss_fight_nightmare |
