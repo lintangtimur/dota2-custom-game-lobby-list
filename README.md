@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309842413995 |
-| Players | 2/8 |
-| Host Name | rvn |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 19:24:02 |
+| Lobby ID | 28595309843850596 |
+| Players | 1/15 |
+| Host Name | QUE RICO APRIETAS |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 19:25:18 |
 
 
 |  | ot3_desert_octet |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:24:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309842975503 |
-| Players | 11/15 |
-| Host Name | Ours des cavernes |
+| Lobby ID | 28595309843261259 |
+| Players | 7/8 |
+| Host Name | трахать сук |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:24:32 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:24:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309842557721 |
-| Players | 22/24 |
+| Players | 17/24 |
 | Host Name | Heyzi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:24:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309843695733 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Me Am Monkey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:25:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309843477909 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | qweblessed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:24:58 |
@@ -103,38 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309843116836 |
-| Players | 9/10 |
-| Host Name | زبادي الكرز |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:24:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309843261259 |
-| Players | 6/8 |
-| Host Name | трахать сук |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:24:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28595309843443309 |
 | Players | 1/10 |
 | Host Name | GUS MOBLIN |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 19:24:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309842986937 |
-| Players | 14/15 |
-| Host Name | Darth Vasius |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:24:32 |
 
 
 |  | epic_boss_fight_challenger |
