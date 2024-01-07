@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309406103346 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:20:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309410946654 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:29:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309406640651 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:21:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309410356552 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 09:28:48 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309415034971 |
-| Players | 2/8 |
-| Host Name | Lisnry |
+| Players | 1/8 |
+| Host Name | ◥►-◄◤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:37:29 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309414650370 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Stiller |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:36:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309414564944 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:36:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309414797328 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | llegó la SUNAT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:37:02 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309414466758 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Versaillest |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:36:24 |
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309415433184 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Randylechii_sx1/Twitch.tv |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:38:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309415582359 |
+| Players | 3/15 |
+| Host Name | deadMemories |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 09:38:33 |
 
 
 |  | epic_boss_fight_nightmare |
