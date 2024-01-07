@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:52:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309359445321 |
-| Players | 7/8 |
-| Host Name | Catacluzm |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:51:28 |
+| Lobby ID | 28595309360349965 |
+| Players | 6/15 |
+| Host Name | DieSoft |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:53:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,13 +74,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:40:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309360349965 |
-| Players | 5/15 |
-| Host Name | DieSoft |
+| Lobby ID | 28595309360448289 |
+| Players | 2/8 |
+| Host Name | ressentiment |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:53:07 |
+| Lobby Creation Time | Sunday, January 7, 2024 07:53:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309360453600 |
+| Players | 2/24 |
+| Host Name | Pengsoo |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:53:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309360478408 |
+| Players | 2/10 |
+| Host Name | Max |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:53:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309360504020 |
+| Players | 3/8 |
+| Host Name | Eddy Broke |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:53:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309360517016 |
+| Players | 1/10 |
+| Host Name | 44 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:53:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,12 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:48:03 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309360250337 |
-| Players | 1/10 |
-| Host Name | Al Capone |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:52:56 |
+| Lobby ID | 28595309360499777 |
+| Players | 1/5 |
+| Host Name | ^-*miki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:53:24 |
 
 
