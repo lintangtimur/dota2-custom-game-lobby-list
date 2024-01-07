@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309492616542 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Era Leyenda |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:58:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309491159462 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:55:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309492964201 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | C A P I T A N |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:58:57 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309492078636 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | 8llllllllllD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:57:24 |
