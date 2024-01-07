@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309693782756 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | ✟ מִיכָאֵל ✟ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:42:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309693598456 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Лесби |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:42:20 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309694410535 |
+| Lobby ID | 28595309694807104 |
 | Players | 5/15 |
-| Host Name | ♂zxcuming♂ |
+| Host Name | БОТ Ботов |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:43:23 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:43:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309694643312 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Пожилой чаминг🔶 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:43:40 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309694049223 |
-| Players | 9/10 |
-| Host Name | Vsemut |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:42:55 |
+| Lobby ID | 28595309694826430 |
+| Players | 4/10 |
+| Host Name | Chad |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 16:43:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lokoespartano |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 16:43:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309694761576 |
-| Players | 1/15 |
-| Host Name |  |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:43:50 |
 
 
 |  | epic_boss_fight_normal |
