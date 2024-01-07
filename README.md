@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309566930143 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:55:53 |
@@ -41,28 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309566836700 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | UNИAMED |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:55:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309566525246 |
-| Players | 9/10 |
-| Host Name | ross-3/4/5 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:55:18 |
+| Lobby ID | 28595309567175132 |
+| Players | 2/8 |
+| Host Name | RockSpirit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:56:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309564912838 |
 | Players | 3/10 |
-| Host Name | :Xaiko midaX:) |
+| Host Name | I Don't Wanna be Shy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:52:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309567252868 |
+| Players | 1/15 |
+| Host Name | Fitty_spenc |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:56:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309567074217 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CokCokCokCokCok |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:56:05 |
