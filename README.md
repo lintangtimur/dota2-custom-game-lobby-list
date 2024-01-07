@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309575141415 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | FRAN |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:07:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562173031 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | db |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:48:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309575340501 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ^.^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:08:00 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:08:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309575054944 |
-| Players | 14/15 |
-| Host Name | fomenko.ea |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:07:35 |
+| Lobby ID | 28595309575901542 |
+| Players | 4/8 |
+| Host Name | de_dota2 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 14:08:49 |
 
 
 |  | ot3_gardens_duo |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CHAMAQUITO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:08:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309575901542 |
-| Players | 3/8 |
-| Host Name | de_dota2 |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 14:08:49 |
 
 
 |  | epic_boss_fight_challenger |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309571315828 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | kymhnju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:02:13 |
