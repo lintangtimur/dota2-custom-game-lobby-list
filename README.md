@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309725762551 |
-| Players | 13/15 |
-| Host Name | ChongChongg |
+| Lobby ID | 28595309725941184 |
+| Players | 5/10 |
+| Host Name | Жидкарь |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:22:46 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:22:59 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309725919261 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | доDick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:22:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309725770156 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | AZ.ZeroImpact |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:22:47 |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:22:58 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309725941184 |
-| Players | 1/10 |
-| Host Name | Жидкарь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:22:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309720489731 |
@@ -68,9 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309723368193 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 나는 당신을 본다 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:19:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309726098589 |
+| Players | 1/5 |
+| Host Name | V-MORGE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:23:10 |
 
 
