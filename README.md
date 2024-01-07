@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309993727233 |
-| Players | 6/24 |
+| Players | 14/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:26:39 |
@@ -50,43 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309994005091 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Agua |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:26:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309996374362 |
-| Players | 9/15 |
-| Host Name | Road to 1 behavior |
+| Lobby ID | 28595309996616209 |
+| Players | 7/10 |
+| Host Name | Mehanik |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:28:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309996523864 |
-| Players | 2/8 |
-| Host Name | xochuabsinthe |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 21:28:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309996536915 |
-| Players | 3/8 |
-| Host Name | RØSTØR |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:28:54 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:28:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309996510074 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | twitch.tv/legacy_mario |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:28:53 |
@@ -101,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:26:51 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309986761156 |
-| Players | 4/5 |
-| Host Name | Foggy |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:21:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309995149428 |
@@ -117,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SakalFTW |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:27:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309996741005 |
+| Players | 2/5 |
+| Host Name | 1 pos or jungle |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:29:04 |
 
 
