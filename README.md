@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309686611969 |
-| Players | 13/15 |
-| Host Name | Fredikum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:33:33 |
+| Lobby ID | 28595309686764798 |
+| Players | 4/10 |
+| Host Name | Da Ve |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, January 7, 2024 16:33:44 |
 
 
 |  | ot3_gardens_duo |
@@ -22,20 +22,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309685033917 |
-| Players | 23/24 |
-| Host Name |  |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:31:36 |
+| Lobby ID | 28595309687088371 |
+| Players | 3/24 |
+| Host Name | .xtwoxxm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:34:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309686764798 |
-| Players | 4/10 |
-| Host Name | Da Ve |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, January 7, 2024 16:33:44 |
+| Lobby ID | 28595309687087402 |
+| Players | 1/8 |
+| Host Name | ☸ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:34:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309687117697 |
+| Players | 1/8 |
+| Host Name | lokoespartano |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 16:34:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309687130248 |
+| Players | 5/8 |
+| Host Name | emoslut |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:34:12 |
 
 
 |  | epic_boss_fight_normal |
