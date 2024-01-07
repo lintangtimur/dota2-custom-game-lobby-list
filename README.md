@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309535135711 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | RHLM |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:08:20 |
@@ -65,13 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:51:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309535619495 |
-| Players | 1/15 |
-| Host Name | Oshh |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:09:05 |
+| Lobby ID | 28595309535633928 |
+| Players | 1/24 |
+| Host Name | Baked Potato. |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:09:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309535639578 |
+| Players | 1/24 |
+| Host Name | Yvan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:09:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309535722895 |
+| Players | 1/8 |
+| Host Name | БАТЫР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:09:15 |
 
 
 |  | epic_boss_fight_nightmare |
