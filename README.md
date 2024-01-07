@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309573799604 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Tenma |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:05:48 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309576946830 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Vietnam Is The Best |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:10:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309577166377 |
+| Players | 1/15 |
+| Host Name | не умею играть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:10:41 |
 
 
 |  | epic_boss_fight_challenger |
