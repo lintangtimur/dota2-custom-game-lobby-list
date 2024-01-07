@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309948410612 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309959327163 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | я |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:59:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309947453680 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | sin vesicula |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:08 |
@@ -38,20 +38,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 20:57:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309959134766 |
-| Players | 10/15 |
-| Host Name | abik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:59:16 |
+| Lobby ID | 28595309957330524 |
+| Players | 8/10 |
+| Host Name | LeScar_355 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 20:57:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309957885658 |
-| Players | 5/10 |
-| Host Name | Gfif |
+| Players | 4/10 |
+| Host Name | Картоха |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:58:16 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309956116874 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | CHOBORNAZ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 20:56:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309959331121 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | just playing |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:59:25 |
