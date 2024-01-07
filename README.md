@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309432266565 |
-| Players | 7/8 |
-| Host Name | Miguelyuyi |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:09:39 |
+| Lobby ID | 28595309432961918 |
+| Players | 2/24 |
+| Host Name | 御詩詩 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:10:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309432794572 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Dominique de Coco |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:10:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309424327041 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Hold_The_Door |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 09:54:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309432164699 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | xalisonxs |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:09:27 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309432573432 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | spacestalker slayer300raw1200cpm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:10:14 |
@@ -110,6 +110,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:10:35 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309433044356 |
+| Players | 1/24 |
+| Host Name | Eminence in shadow |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:11:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309432421827 |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Janix |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:09:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309433043812 |
+| Players | 1/5 |
+| Host Name | ^-*miki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:11:06 |
 
 
