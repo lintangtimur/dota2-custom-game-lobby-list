@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309658467059 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 大谷everlasting hate谷大 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:58:13 |
@@ -23,37 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309654024056 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | LuK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:52:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309658648528 |
-| Players | 7/10 |
-| Host Name | sometimesfeelgood |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:58:26 |
+| Lobby ID | 28595309652590658 |
+| Players | 12/15 |
+| Host Name | BAGREZUKO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 15:50:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309659211435 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | POGUITO JUN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:59:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309652590658 |
-| Players | 13/15 |
-| Host Name | BAGREZUKO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 15:50:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309659199119 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:59:07 |
