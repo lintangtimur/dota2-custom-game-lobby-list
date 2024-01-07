@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309482239059 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:40:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309483364877 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Ask the magic conch shell |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:42:13 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Stringer |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:42:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309484421971 |
+| Players | 3/15 |
+| Host Name | Assemble |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:44:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309484520446 |
+| Players | 4/8 |
+| Host Name | Neredar |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:44:12 |
 
 
