@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309723588176 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Unlimited diarrhea |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:20:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309722226887 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Pumpman |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:18:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309723939211 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Unthinkable |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:20:34 |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309724212353 |
-| Players | 10/15 |
-| Host Name | Krink |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:20:54 |
+| Lobby ID | 28595309724447636 |
+| Players | 1/15 |
+| Host Name | CAPT_SPARKLEBOTTOM |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:21:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309724240898 |
-| Players | 3/15 |
-| Host Name | Victor Von Doom |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 17:20:56 |
+| Lobby ID | 28595309724455714 |
+| Players | 1/15 |
+| Host Name | soar loser |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:21:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 나는 당신을 본다 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:19:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309723046155 |
-| Players | 3/5 |
-| Host Name | I_Love_69 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:19:28 |
 
 
