@@ -5,37 +5,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309391032296 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:52:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309391177349 |
-| Players | 5/8 |
-| Host Name | genial |
+| Lobby ID | 28595309391706600 |
+| Players | 2/10 |
+| Host Name | hehe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:52:31 |
+| Lobby Creation Time | Sunday, January 7, 2024 08:53:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309389205372 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | It's poshooooo ! |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:48:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309390260309 |
-| Players | 6/10 |
-| Host Name | Soy guzo |
+| Lobby ID | 28595309391667804 |
+| Players | 1/8 |
+| Host Name | 8 |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:50:50 |
+| Lobby Creation Time | Sunday, January 7, 2024 08:53:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309389980819 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | DUDE WTH.嘟兜酱仆 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:50:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309389118759 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | MiauW |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:48:44 |
@@ -68,25 +68,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309391504360 |
-| Players | 1/15 |
+| Players | 11/15 |
 | Host Name | TS.KikeToro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:53:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309391619515 |
-| Players | 2/15 |
-| Host Name | K0MILE |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 08:53:21 |
+| Lobby ID | 28595309391825325 |
+| Players | 3/8 |
+| Host Name | ------------ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:53:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309391914346 |
+| Players | 1/8 |
+| Host Name | fystix9 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:53:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309390481622 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Tu Rata Favorita |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:51:14 |
