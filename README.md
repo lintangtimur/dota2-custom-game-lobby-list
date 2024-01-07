@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:17:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309674590489 |
-| Players | 11/15 |
-| Host Name | McDevil |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:18:31 |
+| Lobby ID | 28595309675204584 |
+| Players | 1/24 |
+| Host Name | Evol |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:19:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309672953055 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Brə |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:16:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309675057251 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Бешеный Сарай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:19:05 |
