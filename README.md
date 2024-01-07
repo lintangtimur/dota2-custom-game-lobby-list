@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309396329297 |
-| Players | 15/24 |
+| Players | 23/24 |
 | Host Name | sangre y luto |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:02:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309394306647 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:58:22 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309396287902 |
-| Players | 7/8 |
-| Host Name | Ursiwo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:02:02 |
+| Lobby ID | 28595309396760220 |
+| Players | 5/8 |
+| Host Name | Taimen |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:02:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309395785814 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Z+ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:01:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309396760220 |
-| Players | 2/8 |
-| Host Name | Taimen |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:02:56 |
 
 
