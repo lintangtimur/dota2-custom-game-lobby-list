@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309767743199 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ਜ਼ਡੋਹ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:11:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309765158299 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | AKKAR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:08:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309767621284 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:10:59 |
@@ -49,20 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309768361021 |
-| Players | 6/15 |
-| Host Name | Дохуя гибкий |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:11:49 |
+| Lobby ID | 28595309768549483 |
+| Players | 1/15 |
+| Host Name | Touhou |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 18:12:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309768384951 |
+| Lobby ID | 28595309768564275 |
 | Players | 1/15 |
-| Host Name | Touhou |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 18:11:51 |
+| Host Name | -tk♤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:12:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309768558612 |
+| Players | 1/15 |
+| Host Name | ^_^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:12:03 |
 
 
 |  | epic_boss_fight_nightmare |
