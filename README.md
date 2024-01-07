@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310132298724 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | gegp |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 23:24:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310135442074 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Emperor Palestine |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:27:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310133943974 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ♦♣Aaron♠♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 23:25:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310134003180 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:25:59 |
@@ -85,29 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310134990152 |
+| Lobby ID | 28595310135700939 |
 | Players | 5/8 |
-| Host Name | тати |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:26:52 |
+| Host Name | ДЕВОЧКА УЭНСДЕЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 23:27:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310134785253 |
-| Players | 2/8 |
-| Host Name | REYSKYWALKER! |
+| Players | 1/8 |
+| Host Name | stb |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:26:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310135059309 |
-| Players | 6/10 |
-| Host Name | ZyZZok |
+| Lobby ID | 28595310134998375 |
+| Players | 6/15 |
+| Host Name | Shelter Guardian |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:26:56 |
+| Lobby Creation Time | Sunday, January 7, 2024 23:26:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310134825825 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Elysium |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 23:26:43 |
@@ -146,13 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:26:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310134998375 |
-| Players | 2/15 |
-| Host Name | Shelter Guardian |
+| Lobby ID | 28595310135704079 |
+| Players | 2/8 |
+| Host Name | technician |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:26:52 |
+| Lobby Creation Time | Sunday, January 7, 2024 23:27:31 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -185,9 +185,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310134285902 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | . Richelieu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:26:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310135721101 |
+| Players | 4/5 |
+| Host Name | possible |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:27:32 |
 
 
