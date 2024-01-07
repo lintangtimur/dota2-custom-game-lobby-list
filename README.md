@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309349055450 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | PRO Fire |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:32:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309349634477 |
-| Players | 7/8 |
-| Host Name | Kira_Simpai |
+| Lobby ID | 28595309349903673 |
+| Players | 20/24 |
+| Host Name | 1Class |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:33:24 |
+| Lobby Creation Time | Sunday, January 7, 2024 07:33:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309349670430 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 老司机 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:33:28 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:33:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309348745585 |
-| Players | 1/8 |
-| Host Name | ¿? |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:31:49 |
+| Lobby ID | 28595309350233456 |
+| Players | 5/10 |
+| Host Name | Ketchunez |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:34:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,21 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:33:06 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309349903673 |
-| Players | 12/24 |
-| Host Name | 1Class |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:33:53 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309350233456 |
-| Players | 4/10 |
-| Host Name | Ketchunez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:34:29 |
+| Lobby ID | 28595309350304087 |
+| Players | 1/10 |
+| Host Name | Vash Estampida |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:34:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309349269919 |
+| Players | 3/8 |
+| Host Name | fystix9 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:32:45 |
 
 
