@@ -20,37 +20,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:32:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309733109829 |
-| Players | 1/24 |
-| Host Name | Pusat Beli-Belah Harapan |
+| Lobby ID | 28595309734248094 |
+| Players | 1/15 |
+| Host Name | Estacy  |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:31:38 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:32:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309733958063 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Bairacle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:32:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309732259100 |
-| Players | 22/24 |
-| Host Name | 聚光灯往哪儿打 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:30:36 |
+| Lobby ID | 28595309734158277 |
+| Players | 2/10 |
+| Host Name | данек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:32:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309733296924 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 노루 noru 노루 noru 노루 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:31:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309733973702 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Pillar of Death |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:32:39 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309733449503 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | shadow fiend romantik |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:32:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309734106293 |
-| Players | 2/8 |
-| Host Name | dyrachyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:32:49 |
 
 
 |  | epic_boss_fight_normal |
