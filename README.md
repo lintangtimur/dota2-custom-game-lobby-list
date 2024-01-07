@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309444155650 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | openjaimerrrr |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:31:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309444273682 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:31:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309445301728 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Сережа Унитаз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:33:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309444068693 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:31:16 |
