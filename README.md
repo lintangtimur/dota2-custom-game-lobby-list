@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309882766284 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Отец |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 19:58:21 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309882959665 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Ice Wallow Come |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:58:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309883055216 |
-| Players | 1/8 |
-| Host Name | The knight king |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:58:35 |
+| Lobby ID | 28595309883181539 |
+| Players | 6/10 |
+| Host Name | ДЕТРИГНУС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:58:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309880847368 |
-| Players | 9/10 |
-| Host Name | Sunghacor |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:56:47 |
+| Lobby ID | 28595309883119080 |
+| Players | 1/10 |
+| Host Name | DYPLO |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:58:38 |
 
 
