@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309335446306 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | vannc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:08:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309337539113 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:12:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309337522545 |
-| Players | 17/24 |
+| Players | 15/24 |
 | Host Name | Agua |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:12:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309338004563 |
-| Players | 10/24 |
+| Players | 20/24 |
 | Host Name | aaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:12:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309337991816 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Мисочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:12:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309338233360 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | jamesb0nd007 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:13:15 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309338358597 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Gard |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 07:13:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309338512864 |
+| Players | 3/8 |
+| Host Name | Siguru.Bd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:13:42 |
 
 
 |  | epic_boss_fight_normal |
