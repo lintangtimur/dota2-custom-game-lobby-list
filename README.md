@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310200478910 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Женя пригожин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 00:28:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310197939640 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | GasPoll |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 00:25:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310198629073 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Pescadero |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:26:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310198867818 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Gaveta |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 00:26:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310200040632 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | رماد سق |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 00:27:53 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310195796266 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:23:51 |
@@ -149,27 +149,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310199954849 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Noelle |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:27:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310200636675 |
+| Players | 4/8 |
+| Host Name | naruto_naruto18 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 00:28:27 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310200336935 |
-| Players | 3/15 |
-| Host Name | Tired |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:28:09 |
+| Lobby ID | 28595310200511883 |
+| Players | 1/15 |
+| Host Name | Elysium |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 00:28:19 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310199385965 |
-| Players | 9/10 |
-| Host Name | РОДИП ЫТ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:27:15 |
+| Lobby ID | 28595310200613143 |
+| Players | 2/15 |
+| Host Name | Mắt em sáng, dáng em hiền! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 00:28:25 |
 
 
