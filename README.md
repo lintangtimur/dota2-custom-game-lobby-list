@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310276734895 |
-| Players | 1/10 |
-| Host Name | SACSA |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 01:43:05 |
+| Lobby ID | 28595310276840007 |
+| Players | 5/8 |
+| Host Name | ! Everlasting. |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:43:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310275606249 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Usain Bot |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:41:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310274773025 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:41:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310269835920 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Chisato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 01:36:11 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310270743484 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Zero |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 01:37:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310276590460 |
-| Players | 7/10 |
-| Host Name | НЕПОНЯТЫЙ НЕ Я |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:42:57 |
+| Lobby ID | 28595310276836024 |
+| Players | 6/24 |
+| Host Name | Kori❄♡ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:43:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310272941986 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Re ★★★★★ Alaizer 🐉 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:39:15 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310276558019 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Hawko |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 01:42:55 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310274885612 |
-| Players | 7/8 |
-| Host Name | it |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 01:41:13 |
+| Lobby ID | 28595310276764060 |
+| Players | 5/8 |
+| Host Name | AlexHotBogomol |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:43:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -149,19 +149,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310276748017 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Артур Паркур |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:43:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310276764060 |
-| Players | 3/8 |
-| Host Name | AlexHotBogomol |
+| Lobby ID | 28595310276833682 |
+| Players | 8/15 |
+| Host Name | valduane |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:43:07 |
+| Lobby Creation Time | Monday, January 8, 2024 01:43:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310276896912 |
+| Players | 2/10 |
+| Host Name | Kordian |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:43:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310248387183 |
+| Players | 9/10 |
+| Host Name | 🥚Little Egg :3 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, January 8, 2024 01:14:59 |
 
 
 |  | epic_boss_fight_normal |
