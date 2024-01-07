@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310052292060 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | bl7770 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 22:14:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310060593840 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | DarkAlins |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:21:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310060336084 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | drill expert |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:21:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310056744673 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Lemon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:18:16 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595310059200432 |
 | Players | 16/24 |
-| Host Name | Red |
+| Host Name | 12% |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:20:21 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310056548758 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Jackie |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:18:06 |
@@ -101,31 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:21:32 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310060668856 |
-| Players | 5/8 |
-| Host Name | святой пудж |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:21:36 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310060777600 |
-| Players | 1/10 |
-| Host Name | Jerax From Cape Town |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, January 7, 2024 22:21:41 |
+| Lobby ID | 28595310060867106 |
+| Players | 6/10 |
+| Host Name | Kaskod |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:21:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310060771245 |
-| Players | 4/8 |
-| Host Name | Nun1Toy |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:21:41 |
+| Lobby ID | 28595310059618842 |
+| Players | 14/15 |
+| Host Name | 巨石丹几 丫石仈乃丹几 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:20:42 |
 
 
 |  | epic_boss_fight_hard |
