@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309721433410 |
-| Players | 3/24 |
+| Players | 13/24 |
 | Host Name | 01010100_01001100_01000101 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:17:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309721996540 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | abunga1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:18:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309721998222 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | h.tati20.game |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 17:18:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309721796343 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Trinz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:17:56 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309721958314 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | forbidden |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 17:18:08 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309721311871 |
-| Players | 2/5 |
-| Host Name | altezza |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:17:20 |
+| Lobby ID | 28595309722191627 |
+| Players | 3/15 |
+| Host Name | игрок |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:18:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309722216804 |
+| Players | 3/8 |
+| Host Name | eduardo6625 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 17:18:27 |
 
 
 |  | epic_boss_fight_nightmare |
