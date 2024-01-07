@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309656311654 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Flea~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:55:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309655479215 |
-| Players | 6/8 |
-| Host Name | Dig Bick |
+| Lobby ID | 28595309657939306 |
+| Players | 4/10 |
+| Host Name | Собянин |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:54:27 |
+| Lobby Creation Time | Sunday, January 7, 2024 15:57:33 |
 
 
 |  | ot3_desert_octet |
@@ -36,24 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Сантьяго Арматур |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:57:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309657939306 |
-| Players | 4/10 |
-| Host Name | Собянин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:57:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309658042682 |
-| Players | 1/10 |
-| Host Name | Soy guzo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 15:57:40 |
 
 
 |  | epic_boss_fight_nightmare |
