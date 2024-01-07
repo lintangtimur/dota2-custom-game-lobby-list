@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309538721351 |
-| Players | 4/8 |
-| Host Name | y.y |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:13:54 |
+| Lobby ID | 28595309537500276 |
+| Players | 7/8 |
+| Host Name | DD Mydoira |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:12:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309532648638 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | ᴶᴼᴱ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:04:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309535835115 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Papi Champaño |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:09:26 |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:13:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309537500276 |
-| Players | 7/8 |
-| Host Name | DD Mydoira |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:12:03 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309538817712 |
-| Players | 2/24 |
+| Lobby ID | 28595309538915252 |
+| Players | 3/24 |
 | Host Name | 1 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:14:02 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:14:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309537113615 |
+| Players | 14/15 |
+| Host Name | aWarDeeee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:11:27 |
 
 
 |  | epic_boss_fight_nightmare |
