@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310210633624 |
-| Players | 8/15 |
-| Host Name | sarfentas |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:38:02 |
+| Lobby ID | 28595310210290953 |
+| Players | 7/8 |
+| Host Name | not smurf, not buster |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:37:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310209726486 |
-| Players | 2/24 |
-| Host Name | El Guapo |
+| Players | 1/24 |
+| Host Name | E U Q U E N I D A |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 00:37:09 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310209999010 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 00:37:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310210263641 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | чеф киф |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:37:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310210376358 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Hussar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 00:37:47 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310207536033 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:35:03 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GULINGKAN PEMERINTAHAN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 00:37:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310210904243 |
+| Players | 1/5 |
+| Host Name | 分野別分野別 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:38:17 |
 
 
