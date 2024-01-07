@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309785839231 |
-| Players | 3/15 |
-| Host Name | sonches |
+| Players | 5/15 |
+| Host Name | Батон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:30:28 |
 
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309785241577 |
-| Players | 7/10 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:29:51 |
+| Lobby ID | 28595309785093091 |
+| Players | 9/24 |
+| Host Name | PanceZ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:29:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309785144963 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:29:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309785093091 |
-| Players | 7/24 |
-| Host Name | PanceZ |
+| Lobby ID | 28595309786301478 |
+| Players | 1/10 |
+| Host Name | COBERNADOS |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:29:42 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:30:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309783672829 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | свиня джакузі |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:28:15 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309784892928 |
-| Players | 7/10 |
-| Host Name | ManGIX |
+| Players | 6/10 |
+| Host Name | >< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:29:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309786346738 |
+| Players | 1/5 |
+| Host Name | Abnormalize |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:30:58 |
 
 
