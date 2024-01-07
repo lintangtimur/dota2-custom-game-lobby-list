@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309536027812 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:09:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309535135711 |
-| Players | 19/24 |
-| Host Name | RHLM |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:08:20 |
+| Lobby ID | 28595309536272490 |
+| Players | 8/10 |
+| Host Name | SameShit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:10:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309532648638 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ᴶᴼᴱ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:04:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309536164732 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:09:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309536645188 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | VolTaGe |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:10:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309535835115 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Papi Champaño |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:09:26 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309534735706 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | БОББИ Центр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:07:42 |
