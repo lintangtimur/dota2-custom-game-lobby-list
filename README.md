@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309624876990 |
-| Players | 7/24 |
+| Players | 4/24 |
 | Host Name | SpliNteR |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:15:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309637211223 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 我快不行了药膏潮了怎么办 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:31:08 |
@@ -68,25 +68,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309637786144 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Ariys |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:31:52 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309638111814 |
+| Players | 1/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 15:32:17 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309637544325 |
-| Players | 13/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:31:33 |
+| Lobby ID | 28595309638170276 |
+| Players | 2/15 |
+| Host Name | CK |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 15:32:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309637706885 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ѕυρρσят |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:31:46 |
