@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309741852981 |
-| Players | 8/15 |
-| Host Name | weightlessness |
+| Lobby ID | 28595309742285081 |
+| Players | 5/8 |
+| Host Name | eGw |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:42:04 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:42:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309741722810 |
-| Players | 14/24 |
+| Players | 22/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:41:55 |
@@ -38,64 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:38:42 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309741876568 |
-| Players | 6/8 |
-| Host Name | крутой сигма |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:42:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309741717687 |
-| Players | 6/8 |
-| Host Name | Samarskiy traktorniy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:41:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309741840165 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | Talibobi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:42:03 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309742070585 |
-| Players | 1/24 |
-| Host Name | baldik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:42:20 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309742073286 |
-| Players | 2/8 |
-| Host Name | folk1983 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:42:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309740509270 |
-| Players | 14/15 |
-| Host Name | Broker |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:40:28 |
+| Lobby ID | 28595309742581408 |
+| Players | 1/8 |
+| Host Name | pisces |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:42:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309740659252 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Weedy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:40:39 |
