@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310019783532 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Elysium |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 21:47:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310019826764 |
-| Players | 6/10 |
-| Host Name | C новым счастьем! |
+| Lobby ID | 28595310020425995 |
+| Players | 3/8 |
+| Host Name | gomer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:47:40 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:48:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310019367964 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | AZRAEL 00 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 21:47:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310010161968 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Joann |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:39:49 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:43:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310020323332 |
-| Players | 1/15 |
-| Host Name | Grille 15 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:48:04 |
+| Lobby ID | 28595310020528097 |
+| Players | 6/10 |
+| Host Name | C новым счастьем! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:48:14 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310019717497 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Koala-cyberpunk |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:47:35 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310019314994 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:47:16 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310020041730 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | life v kaif |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:47:51 |
@@ -139,17 +139,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310020150831 |
-| Players | 9/10 |
-| Host Name | Лобзик |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:47:56 |
+| Lobby ID | 28595310020439397 |
+| Players | 6/10 |
+| Host Name | сутер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:48:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310020157375 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Exstetra |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:47:56 |
@@ -164,21 +164,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:42:11 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310017679876 |
-| Players | 4/5 |
-| Host Name | 5 cm Savage |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:45:56 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595310018718112 |
-| Players | 2/7 |
-| Host Name | мачомен |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:46:46 |
+| Lobby ID | 28595310020451846 |
+| Players | 1/10 |
+| Host Name | Вова Адидас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:48:10 |
 
 
