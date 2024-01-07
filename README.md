@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309362261315 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Сковен2.0 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:56:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309360453600 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Pengsoo |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:53:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309361499027 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Overthrow Crazy Bitch! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:55:13 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309362492278 |
-| Players | 14/15 |
-| Host Name | ростик LLLLL |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:57:04 |
+| Lobby ID | 28595309361839843 |
+| Players | 12/15 |
+| Host Name | smurf |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:55:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:56:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309361839843 |
-| Players | 11/15 |
-| Host Name | smurf |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:55:51 |
+| Lobby ID | 28595309363064404 |
+| Players | 3/10 |
+| Host Name | 1KlasNumberOne |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:58:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309363065757 |
+| Players | 2/10 |
+| Host Name | Bebe Dragon |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:58:07 |
 
 
 |  | epic_boss_fight_nightmare |
