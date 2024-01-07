@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309875819763 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ᶜᵒᵒˡᵐᵉⁿᵏᵃ  <777 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:52:38 |
@@ -50,43 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309875784989 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | schizic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:52:36 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309875556246 |
-| Players | 6/10 |
-| Host Name | Сижу дома и играю |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:52:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309875961083 |
-| Players | 4/8 |
-| Host Name | Похуй |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:52:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309869315828 |
-| Players | 22/24 |
-| Host Name | Honks |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:47:14 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309871377080 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name |  |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:48:56 |
@@ -94,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309876085367 |
-| Players | 1/8 |
+| Lobby ID | 28595309876196969 |
+| Players | 3/8 |
 | Host Name | клаун |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:52:51 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:52:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309874463938 |
-| Players | 9/10 |
-| Host Name | Shevrassa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:51:31 |
+| Lobby ID | 28595309869315828 |
+| Players | 21/24 |
+| Host Name | Honks |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:47:14 |
 
 
 |  | epic_boss_fight_nightmare |
