@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309448249119 |
-| Players | 1/8 |
-| Host Name | BOSSJEM |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 10:39:02 |
+| Lobby ID | 28595309448318391 |
+| Players | 4/8 |
+| Host Name | Nanachi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 10:39:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:38:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309447999683 |
-| Players | 8/10 |
-| Host Name | !! |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:38:33 |
+| Lobby ID | 28595309448333182 |
+| Players | 1/8 |
+| Host Name | Z Locoxd Z |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:39:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309448128242 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:38:48 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309446652623 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | coopitman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:36:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309447625065 |
-| Players | 6/8 |
-| Host Name | Mxrt1nz |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:37:50 |
+| Lobby ID | 28595309448028740 |
+| Players | 13/24 |
+| Host Name | TU REPORT ELEVA MI KI |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:38:36 |
 
 
 |  | ot3_gardens_duo |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309448028740 |
-| Players | 9/24 |
-| Host Name | TU REPORT ELEVA MI KI |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:38:36 |
+| Lobby ID | 28595309448350418 |
+| Players | 1/24 |
+| Host Name | Greenhawk22 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 10:39:14 |
 
 
 |  | epic_boss_fight_nightmare |
