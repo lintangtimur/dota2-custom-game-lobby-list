@@ -23,28 +23,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309359846900 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | SENTINEL |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:52:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309359903210 |
-| Players | 6/10 |
-| Host Name | Without negative |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:52:18 |
+| Lobby ID | 28595309359445321 |
+| Players | 7/8 |
+| Host Name | Catacluzm |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:51:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309359443632 |
-| Players | 13/15 |
-| Host Name | OT |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:51:28 |
+| Lobby ID | 28595309359611623 |
+| Players | 2/15 |
+| Host Name | ADR |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:51:46 |
 
 
 |  | ot3_desert_octet |
@@ -74,31 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:40:00 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309357923355 |
-| Players | 23/24 |
-| Host Name | Irif |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:48:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309359445321 |
-| Players | 7/8 |
-| Host Name | Catacluzm |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:51:28 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309359611623 |
-| Players | 2/15 |
-| Host Name | ADR |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:51:46 |
+| Lobby ID | 28595309360349965 |
+| Players | 5/15 |
+| Host Name | DieSoft |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:53:07 |
 
 
 |  | epic_boss_fight_nightmare |
