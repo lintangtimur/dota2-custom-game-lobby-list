@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309507595023 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | BOSSJEM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:23:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309481847914 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Big prolem (nob) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:39:29 |
@@ -23,82 +23,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309508625346 |
-| Players | 4/8 |
-| Host Name | Sadness & Sorrow |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:25:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309508625506 |
-| Players | 17/24 |
-| Host Name | EL GOSU DE LOS ANDES |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:25:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309498451271 |
-| Players | 2/8 |
-| Host Name | AVENA 3 URSITAS |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:08:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309508895254 |
-| Players | 3/15 |
-| Host Name | roothuyut |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:25:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309508590555 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Akame |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:28 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309507062649 |
-| Players | 23/24 |
-| Host Name | 8llllllllllD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:22:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309506982718 |
-| Players | 23/24 |
-| Host Name | Eminence in shadow |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:22:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309509638764 |
-| Players | 1/15 |
-| Host Name | Ghothar |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:27:14 |
+| Lobby ID | 28595309508895254 |
+| Players | 5/15 |
+| Host Name | roothuyut |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:25:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309498451271 |
+| Players | 3/8 |
+| Host Name | AVENA 3 URSITAS |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:08:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309510062066 |
+| Players | 1/10 |
+| Host Name | Solowind |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:27:57 |
 
 
 |  | epic_boss_fight_nightmare |
