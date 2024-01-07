@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309691647859 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 16:39:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309700882243 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Зеленый Фен |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:51:37 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309700958573 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | zxczxc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:51:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309701128655 |
-| Players | 4/8 |
-| Host Name | Kikimora850run |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:51:56 |
 
 
 |  | epic_boss_fight_normal |
