@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310196189717 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Бобёр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 00:24:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310195628577 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | AsNiTe |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:23:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310196169284 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Z+ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:24:12 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:24:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310196336860 |
-| Players | 2/10 |
-| Host Name | ПОЗВОЛЬТЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:24:22 |
+| Lobby ID | 28595310192438371 |
+| Players | 23/24 |
+| Host Name | SuperChef |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 00:20:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310193372399 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | ~Penguin™ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:21:34 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310181465405 |
-| Players | 3/24 |
-| Host Name | bro |
+| Players | 2/24 |
+| Host Name | MHA |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 00:10:18 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310193837420 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | BoB LeE SwaGgeR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 00:22:00 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310194069095 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Ламповая Няша :з |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 00:22:13 |
@@ -122,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310189363230 |
-| Players | 3/15 |
-| Host Name | all muted |
+| Players | 1/15 |
+| Host Name | el ruso |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 00:17:47 |
 
@@ -148,44 +148,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310196257342 |
-| Players | 7/8 |
-| Host Name | bob |
+| Lobby ID | 28595310196456938 |
+| Players | 1/8 |
+| Host Name | korol' hardbl |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:24:17 |
+| Lobby Creation Time | Monday, January 8, 2024 00:24:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310196255269 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Swap Commander |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:24:17 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310196375912 |
-| Players | 1/8 |
-| Host Name | 萧瑟 |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 8, 2024 00:24:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310196396280 |
-| Players | 6/10 |
-| Host Name | ZyZZok |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:24:25 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310191051927 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | [FiRe].LucKy  > |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:19:23 |
