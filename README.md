@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309772470149 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Soy El Corazon De Las Tinieblas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309781452915 |
-| Players | 8/10 |
-| Host Name | Orio |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:25:55 |
+| Lobby ID | 28595309781436304 |
+| Players | 14/24 |
+| Host Name | Smiley Frog |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:25:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309781767358 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Закерман |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:26:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309781436304 |
-| Players | 7/24 |
-| Host Name | Smiley Frog |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:25:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309780137661 |
-| Players | 4/5 |
-| Host Name | Cesar |
+| Lobby ID | 28595309782048070 |
+| Players | 3/10 |
+| Host Name | ЭТИ МАЛЫШИ ХУЯ ПРОСЯТ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:24:33 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:26:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309781330125 |
+| Players | 5/10 |
+| Host Name | Sunghacor |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:25:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | raccoonpiss |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:25:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309781330125 |
-| Players | 4/10 |
-| Host Name | Sunghacor |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:25:48 |
 
 
