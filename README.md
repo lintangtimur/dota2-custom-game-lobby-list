@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309569934414 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Lemb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:00:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309570356397 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | при делах |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:00:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309568110797 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | F.B.I |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:57:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309570731737 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Satoru Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:01:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309564912838 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | [TMT] setan yang tidak lazim |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:52:57 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309570784160 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | hatdog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:01:26 |
