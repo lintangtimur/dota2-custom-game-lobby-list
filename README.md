@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309693782756 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ✟ מִיכָאֵל ✟ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:42:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309693598456 |
-| Players | 5/8 |
+| Players | 2/8 |
 | Host Name | Лесби |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:42:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309693681352 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Biblia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:42:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309694049223 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Vsemut |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:42:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309690738927 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Xx_re1rut/danya/14/88_xX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:38:42 |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309693033289 |
-| Players | 9/10 |
-| Host Name | ぷM  　E　  T　  Aツツツ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:41:37 |
+| Lobby ID | 28595309694298654 |
+| Players | 1/10 |
+| Host Name | Binker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:43:14 |
 
 
