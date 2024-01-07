@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309469095961 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | +502_Xavix117 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:16:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309469395996 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Et3rnauta |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:17:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309469564555 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Dereck Zoolander. |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:17:42 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309460893008 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Crustyチル |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:02:14 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sakazuki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:06:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309469906923 |
-| Players | 1/5 |
-| Host Name | †CAMMUS™ |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 11:18:18 |
 
 
