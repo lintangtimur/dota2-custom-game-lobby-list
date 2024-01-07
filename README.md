@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309574055147 |
-| Players | 8/10 |
-| Host Name | Akagami No Shanks |
+| Lobby ID | 28595309574076083 |
+| Players | 3/8 |
+| Host Name | shylock |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:06:10 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:06:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309571953528 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Bubblicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:03:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562173031 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | db |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:48:56 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:05:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309574134929 |
-| Players | 1/8 |
-| Host Name | die to live |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 14:06:17 |
+| Lobby ID | 28595309573998025 |
+| Players | 11/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:06:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309573097683 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Sakirious |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:04:48 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:04:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309573998025 |
-| Players | 11/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:06:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309574076083 |
-| Players | 3/8 |
-| Host Name | shylock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:06:12 |
+| Lobby ID | 28595309574526263 |
+| Players | 1/10 |
+| Host Name | Blackout |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:06:50 |
 
 
 |  | epic_boss_fight_challenger |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kymhnju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:02:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309572613929 |
-| Players | 9/10 |
-| Host Name | ClamBear |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:04:06 |
 
 
