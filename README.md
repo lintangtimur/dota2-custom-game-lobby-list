@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309760385892 |
-| Players | 11/15 |
-| Host Name | Балбес |
+| Lobby ID | 28595309760855844 |
+| Players | 2/8 |
+| Host Name | Nightlight |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:02:59 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:03:30 |
 
 
 |  | ot3_desert_octet |
@@ -20,58 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:03:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309760606126 |
-| Players | 7/8 |
-| Host Name | Johnny from Guilty Gear |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:03:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309761021658 |
-| Players | 2/10 |
-| Host Name | Вечно уставший |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:03:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309760855844 |
-| Players | 1/8 |
-| Host Name | Nightlight |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:03:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309760970356 |
-| Players | 2/10 |
-| Host Name | PEPE "EL EROTICO" |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 18:03:37 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309760882487 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | 浮数 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:03:31 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309761021658 |
+| Players | 8/10 |
+| Host Name | Вечно уставший |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:03:41 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309760999248 |
-| Players | 1/15 |
-| Host Name | НЕчеловек |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:03:39 |
+| Lobby ID | 28595309761245662 |
+| Players | 2/15 |
+| Host Name | PEPE "EL EROTICO" |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 18:03:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309759347008 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Johny |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:01:51 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595309757834732 |
-| Players | 3/7 |
-| Host Name | Kimchi rice |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:00:11 |
 
 
