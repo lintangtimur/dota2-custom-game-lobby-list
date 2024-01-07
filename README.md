@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309915362332 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Aylardex Vlael |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:24:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309906278488 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 20:17:27 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 20:24:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309916288097 |
-| Players | 3/10 |
-| Host Name | Satoru Gojo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:25:31 |
+| Lobby ID | 28595309916472892 |
+| Players | 5/8 |
+| Host Name | 石神千空 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:25:40 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309916370851 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | 嗯啊 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:25:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309916472892 |
-| Players | 2/8 |
-| Host Name | 石神千空 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:25:40 |
+| Lobby ID | 28595309916813780 |
+| Players | 3/15 |
+| Host Name | S@V0naROLL@ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:25:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 喜欢短发的女生 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:22:41 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309916506871 |
-| Players | 1/5 |
-| Host Name | GGs? |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:25:41 |
 
 
 |  | epic_boss_fight_nightmare |
