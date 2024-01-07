@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309511704458 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | andreyvinogradoff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:30:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309481847914 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Big prolem (nob) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:39:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309512289398 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:31:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309511445483 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ''Yahiiko'' |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:30:16 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309512004054 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Grizzly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:31:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309510353377 |
-| Players | 23/24 |
-| Host Name | Crusty Crap |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:28:26 |
+| Lobby ID | 28595309512339203 |
+| Players | 1/10 |
+| Host Name | Mandraf |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:31:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lLitOl |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:29:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309512339203 |
-| Players | 3/10 |
-| Host Name | YATORO DE DÍA TEATORO DE NOCHE |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:31:44 |
 
 
 |  | epic_boss_fight_nightmare |
