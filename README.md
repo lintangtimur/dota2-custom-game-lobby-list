@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309691647859 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | javaer_f_lores |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 16:39:51 |
@@ -38,28 +38,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:00:51 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309707618011 |
-| Players | 7/8 |
-| Host Name | lokoespartano |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 17:00:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309707952513 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Einstein |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:00:36 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309708251802 |
+| Players | 2/8 |
+| Host Name | доDick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:00:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309707618011 |
+| Players | 7/8 |
+| Host Name | Hitriy(Хитрый) |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 17:00:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309705683809 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | miriam |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:57:43 |
@@ -68,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309708082488 |
-| Players | 3/10 |
-| Host Name | ¡¡°☛ Run If YoU CaN☚シ |
+| Players | 4/10 |
+| Host Name | Oz. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:00:46 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309708186862 |
-| Players | 1/5 |
-| Host Name | kirill.azernin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:00:54 |
 
 
