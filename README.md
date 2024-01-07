@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 8/24 |
+| Players | 5/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309515479415 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:36:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309513296305 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | F |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:33:18 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309516149768 |
-| Players | 20/24 |
-| Host Name | Bairacle |
+| Lobby ID | 28595309516411375 |
+| Players | 5/24 |
+| Host Name | Dyoke |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:37:59 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:38:25 |
 
 
 |  | ot3_gardens_duo |
@@ -92,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:34:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309515584695 |
-| Players | 13/15 |
-| Host Name | Btoom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:37:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309515938142 |
-| Players | 13/15 |
-| Host Name | Nø Name |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:37:37 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309516306455 |
@@ -119,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:38:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309516411375 |
-| Players | 2/24 |
-| Host Name | Dyoke |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:38:25 |
+| Lobby ID | 28595309515938142 |
+| Players | 14/15 |
+| Host Name | Nø Name |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:37:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309516542895 |
+| Players | 1/15 |
+| Host Name | PsychoGay ✿ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:38:39 |
 
 
 |  | epic_boss_fight_nightmare |
