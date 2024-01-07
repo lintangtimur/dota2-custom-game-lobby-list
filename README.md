@@ -2,84 +2,66 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309760855844 |
-| Players | 2/8 |
-| Host Name | Nightlight |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:03:30 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309760766133 |
-| Players | 17/24 |
-| Host Name | ϟƘƦƖןןΣx |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:03:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309760882487 |
-| Players | 20/24 |
-| Host Name | xJw |
+| Lobby ID | 28595309764812905 |
+| Players | 8/24 |
+| Host Name | ✟ מִיכָאֵל ✟ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:03:31 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:07:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309765484283 |
+| Players | 6/15 |
+| Host Name | cxz (kladmeH) |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:08:34 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309763775034 |
-| Players | 3/10 |
-| Host Name | 1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:06:41 |
+| Lobby ID | 28595309765706911 |
+| Players | 2/10 |
+| Host Name | ThatCat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:08:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309764070931 |
+| Lobby ID | 28595309765158299 |
 | Players | 1/24 |
-| Host Name | 汪汪日记 |
-| Region | PWUNICOM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:07:01 |
+| Host Name | AKKAR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:08:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309763949767 |
-| Players | 1/8 |
-| Host Name | Phước |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:06:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309761866461 |
-| Players | 7/10 |
-| Host Name | TEAM CALLER |
+| Lobby ID | 28595309765501803 |
+| Players | 1/15 |
+| Host Name | Mashmallow7 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:04:37 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309763282248 |
-| Players | 1/5 |
-| Host Name | TOPSONG |
-| Region | PWUNICOM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:06:09 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:08:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309763511189 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | WhyAlwaysMe* |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:06:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309765398981 |
+| Players | 5/10 |
+| Host Name | TOPSONG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:08:29 |
 
 
