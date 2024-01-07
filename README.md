@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309592884935 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | hAggU pLaYeR |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:32:41 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309594299438 |
-| Players | 1/24 |
-| Host Name | Nonlinear operator |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 14:34:36 |
+| Lobby ID | 28595309597496840 |
+| Players | 8/24 |
+| Host Name | Inukami Korone |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:38:55 |
 
 
 |  | ot3_gardens_duo |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309597140226 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | lezunchik |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:38:26 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309597496840 |
-| Players | 2/24 |
-| Host Name | Inukami Korone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:38:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309593543146 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ѕυρρσят |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:33:34 |
