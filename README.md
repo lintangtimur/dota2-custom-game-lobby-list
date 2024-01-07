@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309601317201 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | САНЯ ФЕЙЕРВЕРК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:44:08 |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:44:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309602072819 |
-| Players | 1/8 |
-| Host Name | ᴵᵐ᭄crazyᴮᵒʸ✌ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:45:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309602101502 |
-| Players | 4/8 |
-| Host Name | palomaDA |
+| Lobby ID | 28595309602222146 |
+| Players | 2/10 |
+| Host Name | :v |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 14:45:12 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:45:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309602224397 |
+| Players | 1/8 |
+| Host Name | Пудж жаж кринж жадж мЯсо) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:45:22 |
 
 
 |  | epic_boss_fight_nightmare |
