@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310091110554 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Ritzybitz |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 22:48:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310091946610 |
-| Players | 2/15 |
-| Host Name | Little Witch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:48:44 |
+| Lobby ID | 28595310092501710 |
+| Players | 2/10 |
+| Host Name | epariyana189 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 22:49:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310090668767 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Viejo Dotero |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:47:36 |
@@ -40,56 +40,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310091798872 |
-| Players | 9/10 |
-| Host Name | БОБА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:48:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310087438199 |
-| Players | 23/24 |
-| Host Name | Sylvanas Windrunner |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:44:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310091135267 |
-| Players | 6/10 |
-| Host Name | muere larva |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 22:48:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310091542551 |
-| Players | 5/8 |
-| Host Name | китайский гремли |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:48:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310092365188 |
-| Players | 2/8 |
-| Host Name | kew1y |
+| Lobby ID | 28595310092427981 |
+| Players | 3/10 |
+| Host Name | LHPixel |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:49:05 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:49:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310092372085 |
-| Players | 1/24 |
-| Host Name |  |
+| Players | 2/24 |
+| Host Name | ₆⁶₆ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:49:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310092480443 |
+| Players | 1/15 |
+| Host Name | EL PERRO GUATON |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:49:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310092406667 |
+| Players | 2/15 |
+| Host Name | For Fox Sake |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:49:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310092569854 |
+| Players | 1/24 |
+| Host Name | Morty Bot |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:49:16 |
 
 
 |  | epic_boss_fight_nightmare |
