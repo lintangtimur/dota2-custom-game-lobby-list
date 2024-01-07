@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309853780931 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Aylardex Vlael |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:33:57 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309852403909 |
-| Players | 23/24 |
-| Host Name | Inukami Korone |
+| Lobby ID | 28595309855019617 |
+| Players | 9/24 |
+| Host Name | masu nguyen |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:32:45 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:35:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:34:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309855211677 |
-| Players | 12/15 |
-| Host Name | AlteHex |
+| Lobby ID | 28595309855722272 |
+| Players | 3/10 |
+| Host Name | realnazi |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:35:11 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:35:38 |
 
 
 |  | ot3_gardens_duo |
@@ -59,25 +59,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309855313234 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Tired |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:35:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309855019617 |
-| Players | 8/24 |
-| Host Name | masu nguyen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:35:01 |
+| Lobby ID | 28595309855863286 |
+| Players | 1/10 |
+| Host Name | ОпКО - Отдел по контролю отдыха |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:35:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309855838242 |
+| Players | 1/8 |
+| Host Name | TOMA TOMA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:35:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309855870000 |
+| Players | 3/8 |
+| Host Name | Vinan |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:35:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309855887403 |
+| Players | 5/8 |
+| Host Name | Мастур бист |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:35:46 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595309827104121 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | ∬(arcsinx+(log₃37/∛tgx))dx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:10:29 |
