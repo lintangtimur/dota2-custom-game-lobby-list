@@ -2,40 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309759256267 |
-| Players | 9/10 |
-| Host Name | Papi Culo |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:01:45 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309759419028 |
-| Players | 14/15 |
-| Host Name | palle. |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:01:56 |
+| Lobby ID | 28595309759979320 |
+| Players | 10/15 |
+| Host Name | H |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:02:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309759585155 |
-| Players | 2/8 |
-| Host Name | positive vibes' |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:02:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309757441991 |
-| Players | 1/24 |
-| Host Name | nigero GEOP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:59:45 |
+| Lobby ID | 28595309759915550 |
+| Players | 3/10 |
+| Host Name | шизик(НГОЛО КАНТЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:02:28 |
 
 
 |  | ot3_desert_octet |
@@ -45,6 +27,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wambologe |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:57:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309757441991 |
+| Players | 8/24 |
+| Host Name | nigero GEOP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:59:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309760200537 |
+| Players | 5/8 |
+| Host Name | 5lowBurN |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:02:47 |
 
 
 |  | epic_boss_fight_hard |
