@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309817475996 |
-| Players | 12/15 |
-| Host Name | killagod |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:01:30 |
+| Lobby ID | 28595309817806902 |
+| Players | 3/24 |
+| Host Name | Ntz.Galford.24 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:01:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309817492857 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Ядрёный кабал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:01:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309817716034 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | camel |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:01:44 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | casino knight絕對不i變 Trade |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:00:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309817806902 |
-| Players | 2/24 |
-| Host Name | Ntz.Galford.24 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:01:49 |
 
 
 |  | epic_boss_fight_nightmare |
