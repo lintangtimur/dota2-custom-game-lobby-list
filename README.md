@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459701825 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:03:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309459986159 |
-| Players | 12/15 |
-| Host Name | Bloodscourge |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:00:37 |
+| Lobby ID | 28595309462463436 |
+| Players | 6/10 |
+| Host Name | de_dota2 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:05:01 |
 
 
 |  | ot3_gardens_duo |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:03:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309461748979 |
-| Players | 1/8 |
-| Host Name | Bobby |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 11:03:46 |
+| Lobby ID | 28595309462182626 |
+| Players | 3/10 |
+| Host Name | GoD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:04:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309461817731 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Möll LaCroix AnG|-| 3 |_0 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:03:53 |
@@ -128,19 +128,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:04:09 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309462182626 |
-| Players | 3/10 |
-| Host Name | GoD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:04:32 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309459222255 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ihhh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:59:16 |
