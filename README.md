@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309530961961 |
-| Players | 9/10 |
-| Host Name | Stiller |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:01:54 |
+| Lobby ID | 28595309531232507 |
+| Players | 1/10 |
+| Host Name | CORRALITO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:02:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309529196638 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Nacho Fierro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:59:11 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309529940548 |
-| Players | 12/15 |
-| Host Name | NERF 5AFRA3 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:00:20 |
+| Lobby ID | 28595309531295365 |
+| Players | 3/15 |
+| Host Name | Nice*1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:02:25 |
 
 
 |  | ot3_desert_octet |
@@ -110,24 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:59:04 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309531232507 |
-| Players | 1/10 |
-| Host Name | CORRALITO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:02:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309531295365 |
-| Players | 1/15 |
-| Host Name | Nice*1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:02:25 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309528524313 |
@@ -144,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | КТО ТАМ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:59:38 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595309531407759 |
+| Players | 1/7 |
+| Host Name | HarBonDioxide |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:02:36 |
 
 
