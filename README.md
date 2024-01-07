@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309638111814 |
-| Players | 6/10 |
-| Host Name | Devil Eyes |
+| Players | 5/10 |
+| Host Name | A.XVI_973 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:32:17 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309643603057 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Wooky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:39:22 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309631187804 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 6T9 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:23:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309643902320 |
-| Players | 18/24 |
-| Host Name | SumThingWong |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:39:46 |
+| Lobby ID | 28595309644336016 |
+| Players | 2/8 |
+| Host Name | S1KO |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:40:20 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309643840971 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | zybok prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:39:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309644064809 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | 3.14 SOS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:39:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309643450201 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Tasyong |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, January 7, 2024 15:39:10 |
