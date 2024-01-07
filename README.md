@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310016714065 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | 85943734753895 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:45:10 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310016397357 |
-| Players | 6/8 |
-| Host Name | Call me Picasso |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:44:54 |
+| Lobby ID | 28595310017036819 |
+| Players | 4/8 |
+| Host Name | Lazy |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:45:25 |
 
 
 |  | ot3_gardens_duo |
@@ -83,6 +83,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:45:16 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310016965755 |
+| Players | 4/15 |
+| Host Name | _ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:45:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310017006043 |
+| Players | 6/8 |
+| Host Name | kaljewal |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:45:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310017083934 |
+| Players | 2/8 |
+| Host Name | qwer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:45:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310017125987 |
+| Players | 1/24 |
+| Host Name | Bibip |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:45:29 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310016761052 |
@@ -95,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595310013038312 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:42:11 |
@@ -103,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595310016917101 |
+| Lobby ID | 28595310017074946 |
 | Players | 1/5 |
-| Host Name | 16 y.o |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 21:45:20 |
+| Host Name | 5 cm Savage |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:45:27 |
 
 
