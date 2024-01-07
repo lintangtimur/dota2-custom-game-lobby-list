@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310003910994 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 21:34:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310003924082 |
-| Players | 13/24 |
+| Players | 20/24 |
 | Host Name | Badut Merah Biru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:34:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309997778008 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | NukeSyz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:29:54 |
@@ -65,22 +65,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:29:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310001619816 |
-| Players | 9/10 |
-| Host Name | Jet |
+| Lobby ID | 28595310004403555 |
+| Players | 2/8 |
+| Host Name | Mr.CRINGE |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 21:33:01 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:35:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310004531737 |
+| Players | 12/15 |
+| Host Name | サタンの子 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:35:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310003837369 |
-| Players | 9/10 |
-| Host Name | Дима (СОСАЛ) |
+| Lobby ID | 28595310004665226 |
+| Players | 1/10 |
+| Host Name | Robi |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:35:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310004746930 |
+| Players | 1/8 |
+| Host Name | Гена Цыдармян |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:34:47 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:35:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310004792999 |
+| Players | 4/8 |
+| Host Name | Мастур бист |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 21:35:33 |
 
 
 |  | epic_boss_fight_normal |
