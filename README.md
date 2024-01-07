@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309537929050 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Destroger jan |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:12:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309539192175 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | tocosh |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:14:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309539728810 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Какаин ебейший |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:15:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309539931065 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | **Lucía** |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:15:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309539843998 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:15:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309540474724 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Akagami No Shanks |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:16:33 |
