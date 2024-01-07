@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309405772228 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | fedosin |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:20:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309405427677 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Randylechii_sx1/Twitch.tv |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:19:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309405256697 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | dan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:19:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309405625864 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | •⁷⁷⁷ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:19:49 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:16:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309405924373 |
+| Players | 5/10 |
+| Host Name | "PACHI EL RENACIDO" |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:20:23 |
 
 
