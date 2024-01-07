@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309363396788 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Davikucho |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:58:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309356353133 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 07:45:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309364221377 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Kira_Simpai |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:00:15 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:53:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309364283780 |
-| Players | 6/10 |
-| Host Name | Umeli |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:00:22 |
+| Lobby ID | 28595309364370197 |
+| Players | 1/8 |
+| Host Name | ビーバーのお尻 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:00:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,27 +86,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309364361946 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | dog spirit |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:00:31 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309364413019 |
+| Players | 1/15 |
+| Host Name | Scrub, career felon |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:00:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309364417115 |
+| Players | 2/10 |
+| Host Name | EL НАХЛЕБНИК |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:00:37 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309364370197 |
-| Players | 1/8 |
-| Host Name | ビーバーのお尻 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:00:31 |
+| Lobby ID | 28595309362301421 |
+| Players | 6/8 |
+| Host Name | Бодя Хмурый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:56:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309364467028 |
+| Players | 2/10 |
+| Host Name | ColdestGupp𝓲 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 08:00:43 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309361007439 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Scherzo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:54:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309364491175 |
+| Players | 1/10 |
+| Host Name | Ncarbon |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:00:45 |
 
 
