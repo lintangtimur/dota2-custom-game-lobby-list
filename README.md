@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310261117702 |
-| Players | 7/8 |
-| Host Name | Бустер на Neoxa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:27:38 |
+| Lobby ID | 28595310261643371 |
+| Players | 1/24 |
+| Host Name | L |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 01:28:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310248387183 |
-| Players | 10/10 |
+| Players | 9/10 |
 | Host Name | UwU |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Monday, January 8, 2024 01:14:59 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310260795949 |
-| Players | 1/8 |
-| Host Name | FLORSTI |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 01:27:18 |
+| Lobby ID | 28595310260848884 |
+| Players | 4/8 |
+| Host Name | сисимасиси |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:27:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310258356025 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | :_V |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 01:24:51 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310261268281 |
-| Players | 14/15 |
-| Host Name | ИП. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:27:47 |
+| Lobby ID | 28595310261603775 |
+| Players | 10/15 |
+| Host Name | Sdnss |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:28:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310261081764 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Ballerion |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 01:27:35 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:25:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310259848168 |
-| Players | 9/10 |
-| Host Name | sp_flame |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 01:26:21 |
+| Lobby ID | 28595310261583827 |
+| Players | 2/24 |
+| Host Name | Red |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:28:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -146,49 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:28:00 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310261274529 |
-| Players | 3/10 |
-| Host Name | #DFined |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:27:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310261603775 |
-| Players | 5/15 |
-| Host Name | Sdnss |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:28:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310261583827 |
-| Players | 2/24 |
-| Host Name | Red |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:28:06 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310260848884 |
-| Players | 4/8 |
-| Host Name | сисимасиси |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:27:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310261643371 |
-| Players | 1/24 |
-| Host Name | L |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 01:28:09 |
+| Lobby ID | 28595310261746656 |
+| Players | 1/8 |
+| Host Name | FLORSTI |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 01:28:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -207,5 +171,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Негодник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:27:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310261667297 |
+| Players | 1/5 |
+| Host Name | V1rsa4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:28:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310261765070 |
+| Players | 1/10 |
+| Host Name | この世界では余計な |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 01:28:17 |
 
 
