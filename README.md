@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309800835324 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | efrdsfsdf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:45:35 |
@@ -38,31 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:47:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309804434799 |
-| Players | 6/8 |
-| Host Name | Капрал Клиторчук |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:49:08 |
+| Lobby ID | 28595309804120818 |
+| Players | 8/10 |
+| Host Name | Prime Викусик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:48:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309803626389 |
-| Players | 14/15 |
-| Host Name | Onnysha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:48:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309804120818 |
-| Players | 6/10 |
-| Host Name | Prime Викусик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:48:49 |
+| Lobby ID | 28595309804545748 |
+| Players | 4/15 |
+| Host Name | 🅳🆄🅴🅽🅳🅽🅴🆂 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:49:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309803943884 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | qulvil |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:48:39 |
