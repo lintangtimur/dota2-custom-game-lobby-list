@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309486847453 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | 宝哥哥 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:48:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | .. |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309486519599 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | -qwerty |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:47:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309481847914 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Tomato Jones |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:39:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309487113443 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Слабый и убогий |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:48:39 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309487221936 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | qwer123 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:48:50 |
@@ -130,19 +130,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309484989018 |
-| Players | 9/10 |
-| Host Name | CP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:45:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28595309486003090 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | грех |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:46:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309487508394 |
+| Players | 1/5 |
+| Host Name | Youve been Gnomed |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:49:20 |
 
 
