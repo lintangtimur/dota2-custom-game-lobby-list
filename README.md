@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309450074930 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Kaк в cтapыe, добрые) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:42:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309453020492 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | DIO! |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 10:47:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309455721730 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | GMP [DVG] |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:52:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309455943636 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:53:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309454795097 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | lets_fight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:51:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309456256532 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Ｓｏｈｅｅ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:53:54 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309456396486 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | topapequespe |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:54:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309456594031 |
-| Players | 5/8 |
-| Host Name | Neredar |
+| Lobby ID | 28595309456618878 |
+| Players | 4/15 |
+| Host Name | Anger俺的囸庵俺的囸庵 |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:54:31 |
+| Lobby Creation Time | Sunday, January 7, 2024 10:54:34 |
 
 
 |  | epic_boss_fight_nightmare |
