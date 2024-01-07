@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309347025598 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | YO ERA GOZU HASTA QUE ME ENAMORE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:28:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309346693451 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Blob- |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:28:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309340583159 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | aynuuhetmi batayduntridkuments |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:17:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309343055881 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:21:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309346122914 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | scaanch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:27:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309346550786 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Nanachi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:27:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309347004568 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:28:42 |
