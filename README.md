@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309340523135 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Porek |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:17:08 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:15:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309339708691 |
-| Players | 6/8 |
-| Host Name | ME LEDER |
+| Lobby ID | 28595309340667205 |
+| Players | 1/10 |
+| Host Name | vuelve amor ;c |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:15:44 |
+| Lobby Creation Time | Sunday, January 7, 2024 07:17:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309339591554 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | doom13524 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:15:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309340444257 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Elya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:17:00 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:17:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309340515583 |
-| Players | 3/10 |
-| Host Name | gatekeeper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:17:07 |
+| Lobby ID | 28595309340590316 |
+| Players | 2/8 |
+| Host Name | Kikilini! |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:17:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309340583159 |
+| Players | 3/24 |
+| Host Name | KTXY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:17:14 |
 
 
 |  | epic_boss_fight_normal |
