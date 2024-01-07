@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309349670430 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | bloodthirsty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:33:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309351786386 |
-| Players | 17/24 |
+| Players | 15/24 |
 | Host Name | Agua |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:37:18 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:39:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309353448210 |
-| Players | 22/24 |
-| Host Name | •Crazy Life• ☻ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:40:25 |
+| Lobby ID | 28595309354873254 |
+| Players | 3/8 |
+| Host Name | WAKE UP ХУЕСОСЫ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:43:02 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309354666748 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Kusanagi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:42:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309354102422 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Egoisto |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:41:37 |
@@ -119,22 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:42:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309354804204 |
-| Players | 6/8 |
-| Host Name | Mistery |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:42:54 |
+| Lobby ID | 28595309354963455 |
+| Players | 1/15 |
+| Host Name | Hentai_Octokuro |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:43:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309354873254 |
-| Players | 3/8 |
-| Host Name | WAKE UP ХУЕСОСЫ |
+| Lobby ID | 28595309354976245 |
+| Players | 4/8 |
+| Host Name | Rehase |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:43:02 |
+| Lobby Creation Time | Sunday, January 7, 2024 07:43:14 |
 
 
 |  | epic_boss_fight_nightmare |
