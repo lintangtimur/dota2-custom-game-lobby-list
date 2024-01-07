@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309948294946 |
-| Players | 2/15 |
+| Players | 12/15 |
 | Host Name | PHoenix Q |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309945310072 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ..c.I.e.. |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 20:48:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309947453680 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | sin vesicula |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:08 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309945495992 |
-| Players | 3/24 |
-| Host Name | Don't |
+| Players | 2/24 |
+| Host Name | Woody |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, January 7, 2024 20:48:35 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309947812130 |
-| Players | 11/24 |
+| Players | 19/24 |
 | Host Name | squirrel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309947611596 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | Kanki |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:16 |
@@ -74,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:51 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309948410612 |
+| Players | 1/24 |
+| Host Name | ™Slim Shady® |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 20:50:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309948600300 |
+| Players | 3/24 |
+| Host Name | Encik Velu |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 20:51:01 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309948394902 |
-| Players | 3/8 |
-| Host Name | The knight king |
+| Lobby ID | 28595309948647745 |
+| Players | 1/8 |
+| Host Name | падж 5-ка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:50:52 |
+| Lobby Creation Time | Sunday, January 7, 2024 20:51:04 |
 
 
 |  | epic_boss_fight_nightmare |
