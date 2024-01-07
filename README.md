@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:52:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309754412874 |
-| Players | 22/24 |
-| Host Name | Bubblicious |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:56:24 |
+| Lobby ID | 28595309757243793 |
+| Players | 7/10 |
+| Host Name | Petert |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:59:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309754873118 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | play4fragg |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309755535357 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Wambologe |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:57:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309757023004 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | my dad says i'm good |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:59:17 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:59:18 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309756869333 |
-| Players | 14/15 |
-| Host Name | lord prime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:59:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309757108728 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | RAKSID |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:59:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309757233245 |
+| Players | 7/15 |
+| Host Name | GibGab |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:59:31 |
 
 
 |  | epic_boss_fight_challenger |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:58:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309757222083 |
-| Players | 2/10 |
-| Host Name | Chipi Chipi ChapaChapa DubiDubi |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 17:59:30 |
 
 
