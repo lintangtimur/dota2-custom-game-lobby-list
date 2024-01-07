@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309505596305 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Might Wanna Try Fortnite |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:20:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309505304708 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Kaioh Retsu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:20:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309504198629 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Ча ча ча |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:18:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309505044997 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:19:39 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309505263009 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | SKIBIDI DOB DOB DOB YES YES |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:20:01 |
