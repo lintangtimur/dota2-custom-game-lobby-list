@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309397124612 |
-| Players | 4/8 |
-| Host Name | sjkloms |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:03:36 |
+| Lobby ID | 28595309397205234 |
+| Players | 1/24 |
+| Host Name | AkiKo Annaisha kim Sung |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:03:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309397069984 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | dDeneuve |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:03:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309392939830 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:55:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309396452891 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Con Mèo |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:02:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309394306647 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:58:22 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ϟLightning |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:03:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309397267744 |
+| Players | 2/10 |
+| Host Name | Tiburon_sinti |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:03:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309397263658 |
+| Players | 1/8 |
+| Host Name | ezzzzzzz |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:03:52 |
 
 
