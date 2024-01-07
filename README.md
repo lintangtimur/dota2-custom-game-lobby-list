@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310250845999 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | El-Guapo:v |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:17:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310249710723 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | waguu |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 01:16:17 |
@@ -32,34 +32,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310245271228 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Ntz.Galford.24 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 01:11:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310252713617 |
-| Players | 6/10 |
-| Host Name | ShaV |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 01:19:16 |
+| Lobby ID | 28595310253327039 |
+| Players | 12/15 |
+| Host Name | 刀丫亼米 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:19:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310252018723 |
-| Players | 7/8 |
-| Host Name | VoDka-KimimarO |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 01:18:35 |
+| Lobby ID | 28595310253517139 |
+| Players | 4/15 |
+| Host Name | Респект |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:20:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310253134750 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Heyzi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:19:41 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:17:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310251930691 |
-| Players | 22/24 |
-| Host Name | MODO PICANTE |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 01:18:30 |
+| Lobby ID | 28595310248553491 |
+| Players | 12/15 |
+| Host Name | GibGab |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 01:15:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310249203986 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | hAggU pLaYeR |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 01:15:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310253099240 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Кощей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:19:39 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310252413847 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | jeral |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:18:58 |
@@ -137,24 +137,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:19:37 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310253327039 |
-| Players | 4/15 |
-| Host Name | 刀丫亼米 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:19:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310253354325 |
-| Players | 1/10 |
-| Host Name | Toji |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 01:19:54 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310251979950 |
@@ -171,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HolyPower |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 01:18:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310253448858 |
+| Players | 1/5 |
+| Host Name | kubik |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 01:19:59 |
 
 
