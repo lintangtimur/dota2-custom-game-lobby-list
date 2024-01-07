@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309688573605 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Borchic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:35:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309688509798 |
-| Players | 6/8 |
-| Host Name | lokoespartano |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 16:35:54 |
+| Lobby ID | 28595309688464867 |
+| Players | 14/24 |
+| Host Name | Badut Merah Biru |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:35:51 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:34:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309688464867 |
-| Players | 11/24 |
-| Host Name | Badut Merah Biru |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:35:51 |
+| Lobby ID | 28595309688814147 |
+| Players | 4/8 |
+| Host Name | $.U.G.R.O.B. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:36:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309688810721 |
+| Players | 3/10 |
+| Host Name | БОБА |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:36:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309688886615 |
+| Players | 1/10 |
+| Host Name | ivan |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 16:36:22 |
 
 
 |  | epic_boss_fight_normal |
