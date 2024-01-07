@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310078761929 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Dark[O]ne |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:37:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310071317172 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:30:45 |
@@ -74,28 +74,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:36:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310079051575 |
-| Players | 1/15 |
-| Host Name | 妻no brain妻 watch me die |
+| Lobby ID | 28595310079166087 |
+| Players | 2/8 |
+| Host Name | GarOu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:37:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310079181113 |
+| Players | 1/8 |
+| Host Name | aster |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:37:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310079157145 |
+| Players | 7/10 |
+| Host Name | Пак,Ты куда?Вернись |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:37:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310079176946 |
+| Players | 1/8 |
+| Host Name | evilarthas prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:37:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310079052911 |
+| Players | 1/10 |
+| Host Name | Cidres1 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:37:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310079129564 |
-| Players | 5/8 |
-| Host Name | РаДуга |
+| Lobby ID | 28595310079235961 |
+| Players | 3/8 |
+| Host Name | 扎哈尔 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:37:29 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:37:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310079316855 |
+| Players | 1/15 |
+| Host Name | 那棵树看起来生气了 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:37:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310078201689 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Travis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:36:41 |
