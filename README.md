@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309510935836 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Учиха Саске |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:29:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309510942090 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | NoMercy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:29:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309498451271 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | AVENA 3 URSITAS |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:08:22 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309510058968 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:27:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309510295270 |
-| Players | 10/24 |
-| Host Name | [Ni'Fi]KingKong |
+| Lobby ID | 28595309511222300 |
+| Players | 4/10 |
+| Host Name | bN |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:28:20 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:29:53 |
 
 
 |  | ot3_desert_octet |
