@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309638394181 |
-| Players | 8/10 |
-| Host Name | _unnamed |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:32:39 |
+| Lobby ID | 28595309638111814 |
+| Players | 2/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 15:32:17 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309636283689 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Maestro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:29:56 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:32:37 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309638111814 |
-| Players | 2/10 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 15:32:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309638325637 |
-| Players | 6/15 |
-| Host Name | 4e_smotrish |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:32:33 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309637706885 |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309637867939 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Emdie |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 15:31:58 |
