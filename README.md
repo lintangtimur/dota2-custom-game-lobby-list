@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309890991868 |
-| Players | 6/8 |
-| Host Name | Pachacutec |
+| Lobby ID | 28595309891928158 |
+| Players | 1/10 |
+| Host Name | сильный как русск |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 20:05:01 |
+| Lobby Creation Time | Sunday, January 7, 2024 20:05:47 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309889900687 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | 辣鸡 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:04:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309885089967 |
-| Players | 8/10 |
+| Players | 1/10 |
 | Host Name | gazdratjopi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:00:14 |
@@ -50,28 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309891491927 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | F-16 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:05:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309891928158 |
-| Players | 1/10 |
-| Host Name | мистер рудик |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 20:05:47 |
+| Lobby ID | 28595309892146127 |
+| Players | 4/8 |
+| Host Name | WaylWe |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:05:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309891896645 |
+| Lobby ID | 28595309892068140 |
 | Players | 1/8 |
-| Host Name | черная фемгерл |
+| Host Name | GIGA CHAD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:05:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309892080471 |
+| Players | 5/8 |
+| Host Name | Drag Фреско |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:05:45 |
+| Lobby Creation Time | Sunday, January 7, 2024 20:05:54 |
 
 
 |  | epic_boss_fight_nightmare |
