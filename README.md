@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309409755492 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | UwU |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:27:41 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:24:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309409967296 |
-| Players | 21/24 |
-| Host Name | FELIZ AÑO NUEVO!!!! |
+| Lobby ID | 28595309410177963 |
+| Players | 4/8 |
+| Host Name | PENE  NEGRO |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:28:05 |
+| Lobby Creation Time | Sunday, January 7, 2024 09:28:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309409979136 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Bukr |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:28:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309410356552 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 09:28:48 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309410177963 |
-| Players | 3/8 |
-| Host Name | PENE  NEGRO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:28:28 |
+| Lobby ID | 28595309410560614 |
+| Players | 6/8 |
+| Host Name | Dios Padre |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 09:29:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309401215724 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | грех |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:11:29 |
