@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309573799604 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Tenma |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:05:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309576181363 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | your dad |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:09:14 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309576946830 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Vietnam Is The Best |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:10:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309576980655 |
-| Players | 1/10 |
-| Host Name | ПОЕЛ ГОВНА |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:10:24 |
 
 
 |  | epic_boss_fight_challenger |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309575079470 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | HiroToHero TTV |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:07:37 |
