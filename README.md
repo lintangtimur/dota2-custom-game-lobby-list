@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310160700116 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | IOZI :) 尼基 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:50:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310160674798 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | arhikent |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:50:41 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310160602792 |
-| Players | 5/8 |
-| Host Name | cv45 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:50:37 |
+| Lobby ID | 28595310161158886 |
+| Players | 1/8 |
+| Host Name | M i a m i |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 23:51:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310159703594 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | John Does |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:49:46 |
@@ -59,28 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310161024587 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | burnt flowers |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 23:51:01 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310160924434 |
-| Players | 13/15 |
-| Host Name | Flawlëss |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:50:55 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310159380834 |
-| Players | 22/24 |
-| Host Name | TiltedGuy |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 23:49:28 |
+| Lobby ID | 28595310160567533 |
+| Players | 1/24 |
+| Host Name | ™Slim Shady® |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 23:50:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310157081201 |
+| Players | 5/15 |
+| Host Name | DOGÃO FORTALEZA-CE ppL ツ |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 23:47:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310157980652 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Teach |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 23:48:09 |
@@ -112,29 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310157081201 |
-| Players | 5/15 |
-| Host Name | DOGÃO FORTALEZA-CE ppL ツ |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 23:47:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310160567533 |
-| Players | 1/24 |
-| Host Name | ™Slim Shady® |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 23:50:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310161134607 |
-| Players | 4/8 |
-| Host Name | АНРИЛНОСТЬ БЫТИЯ |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 23:51:07 |
+| Lobby ID | 28595310161300813 |
+| Players | 6/15 |
+| Host Name | M0shy_ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, January 7, 2024 23:51:16 |
 
 
 |  | epic_boss_fight_hard |
@@ -158,9 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310159711904 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | oppixoppixfruit |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 23:49:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310161279242 |
+| Players | 1/5 |
+| Host Name | Guts |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:51:15 |
 
 
