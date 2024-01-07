@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309608642665 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Dota, hielo y sandias. |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 14:54:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309608100564 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Pomstick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:53:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309606948247 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Grupo 5 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:51:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309607501700 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 永远不要提前开香槟 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:52:29 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309608422367 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | El Pepega |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:53:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309608660334 |
-| Players | 8/10 |
-| Host Name | Nikola (Tesla) luv))) |
+| Lobby ID | 28595309609062010 |
+| Players | 2/8 |
+| Host Name | Ручки мерзнут |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:54:03 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:54:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:54:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309609062010 |
-| Players | 1/8 |
-| Host Name | Ручки мерзнут |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:54:35 |
 
 
 |  | epic_boss_fight_nightmare |
