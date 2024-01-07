@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309455652165 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ICG.Winter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:52:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309456012886 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | fckf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:53:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309455943636 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:53:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309455767649 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Paxlee |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:53:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309454795097 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | lets_fight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:51:14 |
