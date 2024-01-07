@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309754412874 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Bubblicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:24 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309755535357 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Wambologe |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:57:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309756388656 |
-| Players | 6/8 |
-| Host Name | KaTheDirector |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 17:58:36 |
+| Lobby ID | 28595309756302410 |
+| Players | 9/10 |
+| Host Name | ITEMS DESTORYER |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:58:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309756194336 |
-| Players | 4/10 |
-| Host Name | Hawk |
+| Lobby ID | 28595309757031754 |
+| Players | 1/10 |
+| Host Name | ХЛОП ХЛОПЫЧ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:58:23 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:59:18 |
 
 
 |  | ot3_desert_octet |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309756869333 |
-| Players | 2/15 |
+| Players | 11/15 |
 | Host Name | lord prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:59:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309757023004 |
+| Players | 2/8 |
+| Host Name | my dad says i'm good |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:59:17 |
 
 
 |  | epic_boss_fight_challenger |
