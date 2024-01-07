@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309422162211 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Cri |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:50:51 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309421897363 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | i miss you |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:50:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309422256176 |
-| Players | 1/15 |
-| Host Name | ALIAS "PINGOLINI" |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:51:01 |
+| Lobby ID | 28595309422119042 |
+| Players | 2/24 |
+| Host Name | NothingFeelsRight |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 09:50:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309422073334 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:50:41 |
@@ -58,46 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309422119042 |
-| Players | 2/24 |
-| Host Name | NothingFeelsRight |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 09:50:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309422167479 |
-| Players | 9/15 |
-| Host Name | ragalikqひひひ |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 09:50:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309420000766 |
-| Players | 9/10 |
-| Host Name | MrMechas |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:46:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309420924423 |
-| Players | 2/5 |
-| Host Name | cmwebb |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 09:48:32 |
+| Lobby ID | 28595309418676117 |
+| Players | 23/24 |
+| Host Name | 福 fergieツ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:44:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309422134845 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Janix |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:50:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309420924423 |
+| Players | 1/5 |
+| Host Name | cmwebb |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 09:48:32 |
 
 
