@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309598920178 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ЭТИ МАЛЫШИ ХУЯ ПРОСЯТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:40:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309598634886 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | akigarsu |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:40:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309598711452 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Cpt Karl |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, January 7, 2024 14:40:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309598983166 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | heart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:40:58 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309598883465 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | NicC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:40:50 |
