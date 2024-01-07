@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309429156290 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:03:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309428788904 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:03:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309424327041 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Bniuoas |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 09:54:51 |
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309427198234 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | БлАтНоЙ ПеТуХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309429208494 |
+| Players | 4/10 |
+| Host Name | ОТЕЦ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:03:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309428131873 |
+| Players | 13/15 |
+| Host Name | Rover |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:01:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309429261910 |
+| Players | 1/8 |
+| Host Name | Tributin ± |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:03:56 |
 
 
 |  | epic_boss_fight_nightmare |
