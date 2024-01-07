@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309859985131 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | YungJopa |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:39:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309864028667 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ParadoX |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:42:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309861490023 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | 謙虚さを身につけろ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:40:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309864491526 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | CC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:43:10 |
@@ -77,63 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309864520691 |
-| Players | 6/15 |
-| Host Name | 76561198416698038 |
+| Players | 7/15 |
+| Host Name | AKashi~ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:43:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309863072904 |
-| Players | 8/10 |
-| Host Name | Godordy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:41:58 |
+| Lobby ID | 28595309864748808 |
+| Players | 1/10 |
+| Host Name | ga |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 19:43:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309864614324 |
-| Players | 1/24 |
-| Host Name | 菜的一笔 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:43:17 |
+| Lobby ID | 28595309864835546 |
+| Players | 1/15 |
+| Host Name | 76561198416698038 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:43:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309862710977 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:41:39 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595309859107236 |
-| Players | 1/7 |
-| Host Name | Pedro Gubakol |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:38:32 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309864563962 |
+| Lobby ID | 28595309864727159 |
 | Players | 1/10 |
-| Host Name | Christmas Present |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 19:43:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309864609135 |
-| Players | 1/5 |
-| Host Name | bux |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:43:16 |
+| Host Name | >OnLy LoVe< |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:43:23 |
 
 
