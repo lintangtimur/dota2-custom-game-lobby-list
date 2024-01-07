@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309477194100 |
-| Players | 8/10 |
-| Host Name | JHON EL SALCHICHON WICK |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:31:15 |
+| Lobby ID | 28595309477801418 |
+| Players | 19/24 |
+| Host Name | El cacha Yhoncitos del 8 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:32:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:27:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309477542128 |
-| Players | 3/15 |
-| Host Name | TMMR |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:31:53 |
+| Lobby ID | 28595309478057118 |
+| Players | 1/10 |
+| Host Name | :p |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:32:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309476501281 |
-| Players | 3/10 |
-| Host Name | Billo |
+| Players | 1/10 |
+| Host Name | EMPATH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:30:00 |
 
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309477357261 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Egoisto |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:31:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309477402061 |
-| Players | 12/15 |
-| Host Name | Anthropologysali Kaur |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:31:38 |
+| Lobby ID | 28595309477970659 |
+| Players | 1/24 |
+| Host Name | xddd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:32:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,27 +95,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309477376696 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | !! |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:31:35 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309477884252 |
+| Players | 4/8 |
+| Host Name | SameShit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:32:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309477905599 |
+| Players | 2/8 |
+| Host Name | AVENA 3 URSITAS |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:32:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309478011235 |
+| Players | 1/15 |
+| Host Name | саняхускар2004 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, January 7, 2024 11:32:43 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309477801418 |
+| Lobby ID | 28595309478112431 |
 | Players | 1/24 |
-| Host Name | El cacha Yhoncitos del 8 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:32:21 |
+| Host Name | Tomato Jones |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:32:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309476482059 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | РоланДеМорт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:29:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309477989825 |
+| Players | 3/10 |
+| Host Name | EPIC BOSS FIGHT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:32:41 |
 
 
