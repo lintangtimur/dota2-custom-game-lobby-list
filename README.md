@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309684364488 |
-| Players | 8/10 |
-| Host Name | Solowind |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:30:46 |
+| Lobby ID | 28595309684885855 |
+| Players | 3/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:31:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309679839054 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Badgast2k17 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:25:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309684581866 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 16:31:02 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:27:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309682071859 |
-| Players | 23/24 |
-| Host Name | Pause Malone! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:27:54 |
+| Lobby ID | 28595309684834418 |
+| Players | 5/8 |
+| Host Name | ЗАЧЕПАТЫЙ ПОЦ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:31:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,39 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:30:15 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309684451014 |
-| Players | 7/15 |
-| Host Name | andre.dz |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 16:30:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309684240282 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Harakiri Squad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:30:37 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309684764352 |
-| Players | 1/5 |
-| Host Name | armatura |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:31:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309684764656 |
-| Players | 1/5 |
-| Host Name | tahwah1 |
+| Lobby ID | 28595309682061104 |
+| Players | 9/10 |
+| Host Name | hatdog |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:31:16 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:27:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309684883458 |
+| Players | 3/10 |
+| Host Name | 나는 당신을 본다 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:31:25 |
 
 
