@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309408057343 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:24:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309409744551 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | MADARA666 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:27:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309409638592 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Mr.Bass |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:27:28 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Цветочек, твоей Маме |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:27:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309409967296 |
+| Players | 3/24 |
+| Host Name | FELIZ AÑO NUEVO!!!! |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:28:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309409979136 |
+| Players | 1/15 |
+| Host Name | Bukr |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 09:28:06 |
 
 
 |  | epic_boss_fight_nightmare |
