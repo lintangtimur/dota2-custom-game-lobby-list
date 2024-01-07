@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309440950609 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Saito; |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:25:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309442317385 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:28:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309442045369 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Zeta de Riemann |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:27:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309441162642 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | k3yj1 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:25:52 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:27:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309441269600 |
-| Players | 7/8 |
-| Host Name | уебачо |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:26:04 |
+| Lobby ID | 28595309442216685 |
+| Players | 2/15 |
+| Host Name | Shedu |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:27:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309441882643 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | idc |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:27:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309442216685 |
-| Players | 2/15 |
-| Host Name | Shedu |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:27:50 |
 
 
 |  | epic_boss_fight_hard |
