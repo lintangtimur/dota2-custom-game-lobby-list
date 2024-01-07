@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309486847453 |
-| Players | 23/24 |
-| Host Name | 宝哥哥 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:48:11 |
+| Lobby ID | 28595309486487041 |
+| Players | 13/15 |
+| Host Name | Rofl Chick-Fil-A Copter |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:47:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309486519599 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | -qwerty |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:47:37 |
@@ -126,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lLitOl |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:49:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309486487041 |
-| Players | 12/15 |
-| Host Name | Rofl Chick-Fil-A Copter |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:47:34 |
 
 
 |  | epic_boss_fight_nightmare |
