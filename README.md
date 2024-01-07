@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309625766827 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | m4rk.molotov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:16:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309626291373 |
-| Players | 9/10 |
-| Host Name | Turtle |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 15:17:06 |
+| Lobby ID | 28595309624876990 |
+| Players | 1/24 |
+| Host Name | SpliNteR |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:15:20 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309627090348 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:18:07 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309624876990 |
+| Lobby ID | 28595309628018114 |
 | Players | 1/24 |
-| Host Name | SpliNteR |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:15:20 |
+| Host Name | 123 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:19:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309625498341 |
-| Players | 8/10 |
-| Host Name | ѕυρρσят |
+| Lobby ID | 28595309622847884 |
+| Players | 10/10 |
+| Host Name | Rajvana |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:16:06 |
+| Lobby Creation Time | Sunday, January 7, 2024 15:12:46 |
 
 
 |  | epic_boss_fight_normal |
