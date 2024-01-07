@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309543124225 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | ae-in |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:20:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309548220988 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | DJ_VODNIK |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:28:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309548659378 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 出棋不意必自闭 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:28:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309548647105 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Leekholic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:28:49 |
@@ -140,9 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309549491921 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Kaioh Retsu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309549875205 |
+| Players | 1/15 |
+| Host Name | NickAltair |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:30:39 |
 
 
