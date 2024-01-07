@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309501465889 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Murió EG, ahora fan de Wisper |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309501270765 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | NERF 5AFRA3 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309500614754 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | RHLM |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:12:12 |
@@ -65,28 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309501523113 |
-| Players | 1/8 |
-| Host Name | waiting for death |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 12:13:44 |
+| Lobby ID | 28595309501632352 |
+| Players | 1/10 |
+| Host Name | Jazz |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:13:55 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309497240313 |
-| Players | 9/10 |
-| Host Name | 好线 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:06:16 |
+| Lobby ID | 28595309501638770 |
+| Players | 1/10 |
+| Host Name | Fearless |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:13:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309499234461 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 咬人猫 |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 12:09:46 |
