@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309574055147 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Akagami No Shanks |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:06:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309571953528 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Bubblicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:03:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562173031 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | db |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:48:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309573097683 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Sakirious |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:04:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309573998025 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:06:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309574076083 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | shylock |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:06:12 |
@@ -108,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ClamBear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:04:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309574225765 |
+| Players | 1/5 |
+| Host Name | Khay!!!!!!!!!! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:06:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309574287005 |
+| Players | 1/5 |
+| Host Name | Белоснежный кайф |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:06:29 |
 
 
