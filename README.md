@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309464861013 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | ICG.Winter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:09:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309466683261 |
-| Players | 8/15 |
+| Players | 5/15 |
 | Host Name | StrangeBoy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:12:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309466388780 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | El cacha Yhoncitos del 8 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:12:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309464173182 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | MarcleanCxz |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:08:05 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:12:21 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309467052933 |
-| Players | 5/8 |
-| Host Name | Itte |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:13:18 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309467060105 |
@@ -101,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:13:19 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309463516670 |
-| Players | 1/10 |
-| Host Name | OBONGA JR. |
+| Lobby ID | 28595309467110794 |
+| Players | 3/15 |
+| Host Name | Gonzalo |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:13:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309467171620 |
+| Players | 4/8 |
+| Host Name | Педрилас утконос |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:06:54 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:13:31 |
 
 
 |  | epic_boss_fight_nightmare |
