@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309376554006 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:24:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309377930424 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | гриша атос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:26:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309377886086 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Zapato_Lujan_Carrion |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:26:39 |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309378351445 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ETILOVIYBOGビール |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:27:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309378664807 |
-| Players | 1/5 |
-| Host Name | Die Die Die.... |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:28:10 |
 
 
