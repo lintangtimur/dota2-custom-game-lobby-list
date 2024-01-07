@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310254534678 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | ChayiTO |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:21:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310248387183 |
-| Players | 10/10 |
+| Players | 8/10 |
 | Host Name | BLESS THIS MESS |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Monday, January 8, 2024 01:14:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310255433740 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Kuz25 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 01:21:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310256452850 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | >.< |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:22:57 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:22:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310254182384 |
-| Players | 24/24 |
-| Host Name | pepe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 01:20:43 |
+| Lobby ID | 28595310256626879 |
+| Players | 6/15 |
+| Host Name | kill for my love |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:23:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -139,20 +139,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310256560807 |
-| Players | 5/15 |
-| Host Name | Tiimmy Turner |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:23:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310256600923 |
+| Lobby ID | 28595310256793920 |
 | Players | 1/15 |
-| Host Name | Potato |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 8, 2024 01:23:05 |
+| Host Name | Kuzonoha |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 01:23:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310256633177 |
+| Players | 3/24 |
+| Host Name | Qwertie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 01:23:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310256642252 |
+| Players | 2/10 |
+| Host Name | movistar siempre contigo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 01:23:08 |
 
 
 |  | epic_boss_fight_nightmare |
