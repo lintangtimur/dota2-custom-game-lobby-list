@@ -20,31 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309841376218 |
-| Players | 6/10 |
-| Host Name | Morow0130 |
+| Lobby ID | 28595309842590488 |
+| Players | 7/15 |
+| Host Name | Sami |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:23:08 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:24:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309839637639 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | PRIVATE PYLE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:21:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309819950038 |
-| Players | 1/10 |
-| Host Name | Ты лох,вот и плох |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 19:03:49 |
+| Lobby ID | 28595309842557721 |
+| Players | 6/24 |
+| Host Name | Heyzi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:24:10 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309841345845 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Nazuno |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:23:06 |
@@ -95,37 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309842549740 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Prionzombie |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:24:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309842557721 |
-| Players | 1/24 |
-| Host Name | Heyzi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:24:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309842558190 |
-| Players | 1/8 |
-| Host Name | 就算是水枪 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 19:24:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309842590488 |
-| Players | 1/15 |
-| Host Name | Sami |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:24:12 |
 
 
 |  | epic_boss_fight_challenger |
