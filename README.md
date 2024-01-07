@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309406103346 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Balatubz |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:20:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309410356552 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 09:28:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309411655434 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Aiimer |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:31:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309412298731 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Allmight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:32:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309412331599 |
-| Players | 2/15 |
+| Players | 13/15 |
 | Host Name | CK |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:32:26 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309412344804 |
-| Players | 1/15 |
-| Host Name | WalkinNuke |
+| Lobby ID | 28595309409979136 |
+| Players | 6/15 |
+| Host Name | The Turn Tabler |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 09:32:27 |
+| Lobby Creation Time | Sunday, January 7, 2024 09:28:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309412430336 |
+| Players | 1/10 |
+| Host Name | helloff ⛔TRADE BANNED⛔ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:32:37 |
 
 
 |  | epic_boss_fight_nightmare |
