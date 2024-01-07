@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309403156132 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | LIT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:15:10 |
@@ -59,19 +59,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309403482882 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | zer0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:15:46 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309403744929 |
+| Players | 6/15 |
+| Host Name | Antonio Margheriti |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 09:16:15 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309403686309 |
-| Players | 4/8 |
-| Host Name | 泰米尔语 |
+| Lobby ID | 28595309403713613 |
+| Players | 1/8 |
+| Host Name | COCO BASILE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:16:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309403718198 |
+| Players | 3/8 |
+| Host Name | Сидролюб со стажем |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 09:16:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309403785825 |
+| Players | 2/15 |
+| Host Name | d1sa |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:16:09 |
+| Lobby Creation Time | Sunday, January 7, 2024 09:16:20 |
 
 
 |  | epic_boss_fight_nightmare |
