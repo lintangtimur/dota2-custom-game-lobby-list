@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310254534678 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ChayiTO |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:21:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310254873050 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | KʌDIʌN |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 01:21:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310255360618 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Chico Holiudi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 01:21:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310253134750 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | selected |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:19:41 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:20:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310255306222 |
-| Players | 6/10 |
-| Host Name | ТУДА СЮДА |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:21:49 |
+| Lobby ID | 28595310255768160 |
+| Players | 1/8 |
+| Host Name | Dvzzin17 |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 01:22:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -139,11 +139,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310255644183 |
+| Lobby ID | 28595310255845731 |
+| Players | 3/8 |
+| Host Name | Imperator |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:22:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310255702714 |
+| Players | 5/10 |
+| Host Name | J0y. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:22:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310255702808 |
 | Players | 4/8 |
-| Host Name | Arad the Guts |
+| Host Name | Frukt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:22:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310255535169 |
+| Players | 4/8 |
+| Host Name | Ember |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:22:09 |
+| Lobby Creation Time | Monday, January 8, 2024 01:22:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310255878235 |
+| Players | 2/10 |
+| Host Name | gola |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:22:23 |
 
 
 |  | epic_boss_fight_nightmare |
