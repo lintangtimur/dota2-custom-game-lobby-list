@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310079079382 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | NapoleonTD |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 22:37:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310088261899 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Σ오로러시ψ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:45:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310089502344 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | Minato |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:46:36 |
@@ -76,29 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310089492690 |
-| Players | 11/15 |
-| Host Name | AKashi~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:46:35 |
+| Lobby ID | 28595310089847806 |
+| Players | 13/15 |
+| Host Name | Enjoy dota, enjoy |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:46:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310089792603 |
-| Players | 4/8 |
-| Host Name | Plethora_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:46:51 |
+| Lobby ID | 28595310089992750 |
+| Players | 1/8 |
+| Host Name | darkwolf2108 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 22:47:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310089847806 |
-| Players | 3/15 |
-| Host Name | Enjoy dota, enjoy |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:46:54 |
+| Lobby ID | 28595310086172662 |
+| Players | 8/10 |
+| Host Name | RoottenEz |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 22:43:42 |
 
 
 |  | epic_boss_fight_normal |
