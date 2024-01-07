@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309821168136 |
-| Players | 2/15 |
+| Players | 13/15 |
 | Host Name | Hao |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:04:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309819645993 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | fona_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:03:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309821012942 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | @EbalAchko3000 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:04:48 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309819950038 |
 | Players | 3/10 |
-| Host Name | DoNtCliCKoNThiS |
+| Host Name | TAWeR |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 19:03:49 |
 
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309820404153 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | hebker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:04:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309820377638 |
-| Players | 7/8 |
-| Host Name | 無限の彼方へ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:04:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309820680443 |
-| Players | 1/24 |
-| Host Name | Horny Toss |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:04:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:02:41 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309820680443 |
+| Players | 1/24 |
+| Host Name | Horny Toss |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:04:29 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309819758763 |
-| Players | 4/5 |
-| Host Name | NFF |
+| Lobby ID | 28595309821414641 |
+| Players | 2/5 |
+| Host Name | surfach7 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:03:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309821267353 |
-| Players | 1/5 |
-| Host Name | ULALALAA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 19:05:02 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:05:10 |
 
 
