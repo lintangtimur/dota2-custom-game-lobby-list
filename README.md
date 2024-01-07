@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309386786061 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 08:44:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309389002247 |
-| Players | 5/8 |
-| Host Name | 3k enjoyer |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:48:31 |
+| Lobby ID | 28595309389775671 |
+| Players | 3/15 |
+| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:49:57 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309388921637 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Tiburon_sinti |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:48:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309389683037 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | да я фанат моря |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:49:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309388984919 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Amado |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:48:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309389480660 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | SSSFFFKKK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:49:24 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:49:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309389543946 |
-| Players | 13/15 |
-| Host Name | аутсайдер |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:49:31 |
 
 
