@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309760882487 |
-| Players | 16/24 |
+| Players | 14/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:03:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309762020648 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Jim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:04:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309762066841 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | kejsi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:04:50 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TEAM CALLER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:04:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309762752303 |
+| Players | 2/5 |
+| Host Name | Himer Senpai |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:05:35 |
 
 
