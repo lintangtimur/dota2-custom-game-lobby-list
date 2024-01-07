@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309458540250 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | dogs on a plate |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:58:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309458560411 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | TwsChimSe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:58:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309459531833 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Kak_TaK? |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:59:49 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309459667084 |
-| Players | 4/15 |
-| Host Name | Cebiche de slark |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:00:03 |
+| Lobby ID | 28595309459789407 |
+| Players | 2/10 |
+| Host Name | Viebu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:00:16 |
 
 
 |  | ot3_desert_octet |
@@ -119,10 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309459783822 |
+| Players | 4/8 |
+| Host Name | Mxrt1nz |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:00:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309459222255 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ihhh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:59:16 |
