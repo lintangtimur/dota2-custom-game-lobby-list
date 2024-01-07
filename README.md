@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309534024122 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Chilly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:06:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309532648638 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ᴶᴼᴱ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:04:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309530336288 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Хилый терминатор |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:00:57 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:51:30 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309535025878 |
-| Players | 5/8 |
-| Host Name | Sly Fox |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, January 7, 2024 13:08:09 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309535032963 |
-| Players | 1/24 |
-| Host Name | -Hapo- |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:08:10 |
+| Lobby ID | 28595309535135711 |
+| Players | 6/24 |
+| Host Name | RHLM |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:08:20 |
 
 
 |  | epic_boss_fight_nightmare |
