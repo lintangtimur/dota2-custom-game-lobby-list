@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309493878542 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Chunchunmaru |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:00:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309492078636 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 8llllllllllD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:57:24 |
@@ -101,13 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:00:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309492649336 |
-| Players | 9/10 |
-| Host Name | Baki Win |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:58:24 |
+| Lobby ID | 28595309494314404 |
+| Players | 4/8 |
+| Host Name | SameShit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:01:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309494261385 |
+| Players | 1/15 |
+| Host Name | -Zpam- |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:01:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309494365969 |
+| Players | 1/8 |
+| Host Name | .G. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:01:22 |
 
 
 |  | epic_boss_fight_challenger |
