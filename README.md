@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309482154149 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Bajando locura |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:40:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309482767396 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | 阳光猛烈 摆鬼夜行 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:41:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309482239059 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:40:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309483089359 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | send me money for PC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:41:43 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:42:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309483364877 |
+| Players | 2/24 |
+| Host Name | Ask the magic conch shell |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:42:13 |
 
 
 |  | epic_boss_fight_nightmare |
