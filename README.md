@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310080670550 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 张飞 |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Sunday, January 7, 2024 22:38:51 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310082188219 |
-| Players | 4/8 |
-| Host Name | чурка Гематоген #R |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:40:12 |
+| Lobby ID | 28595310083025873 |
+| Players | 3/8 |
+| Host Name | whyalwaysme??? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:40:57 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310080761771 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | yonwalnet |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:38:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310080620875 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ŧiмøη |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:38:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310082157358 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | солевой csgetto bandit.camp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 22:40:10 |
@@ -94,26 +94,53 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310082705124 |
-| Players | 8/10 |
-| Host Name | винишко кун |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:40:39 |
+| Lobby ID | 28595310082880427 |
+| Players | 1/10 |
+| Host Name | Stronger |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 22:40:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310081231962 |
-| Players | 9/10 |
-| Host Name | i18'n |
+| Lobby ID | 28595310082875897 |
+| Players | 5/15 |
+| Host Name | pts whore |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 22:40:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310082906046 |
+| Players | 10/15 |
+| Host Name | Ea-nāṣir |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:39:21 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:40:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310083020290 |
+| Players | 2/24 |
+| Host Name | huh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:40:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310083021373 |
+| Players | 3/15 |
+| Host Name | mguu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:40:57 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310081250162 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | [UA]FungAPA |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:39:22 |
