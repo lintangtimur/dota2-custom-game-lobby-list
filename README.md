@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309389980819 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | DUDE WTH.嘟兜酱仆 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:50:20 |
@@ -67,24 +67,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309390856932 |
-| Players | 8/15 |
-| Host Name | KDA does not define me |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:51:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309391500256 |
-| Players | 1/24 |
-| Host Name | Mink |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:53:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28595309391504360 |
 | Players | 1/15 |
 | Host Name | TS.KikeToro |
@@ -92,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:53:08 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309391619515 |
+| Players | 2/15 |
+| Host Name | K0MILE |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 08:53:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309390481622 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Tu Rata Favorita |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:51:14 |
