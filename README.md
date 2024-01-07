@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:29:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309415582359 |
-| Players | 11/15 |
-| Host Name | TikonreX |
+| Lobby ID | 28595309416424068 |
+| Players | 1/10 |
+| Host Name | NakedSnake |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 09:38:33 |
+| Lobby Creation Time | Sunday, January 7, 2024 09:40:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309410356552 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 09:28:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309415034971 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ◥►-◄◤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:37:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309415433184 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Randylechii_sx1/Twitch.tv |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:38:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309414466758 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Versaillest |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:36:24 |
@@ -143,6 +143,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 2/8 |
 | Host Name | Garden of Earthly Delights |
 | Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 09:40:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309416356686 |
+| Players | 1/8 |
+| Host Name | WAJU LUJAN CARRION |
+| Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:40:03 |
 
 
