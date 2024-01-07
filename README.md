@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309515615503 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Jasmine |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:37:04 |
@@ -149,9 +149,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309514366626 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 好线 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:35:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309518006084 |
+| Players | 2/5 |
+| Host Name | Олег Варёные Яйца |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:41:05 |
 
 
