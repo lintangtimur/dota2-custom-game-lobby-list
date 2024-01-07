@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310177628719 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Don't |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 00:06:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310178810861 |
-| Players | 1/15 |
-| Host Name | cadu |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 8, 2024 00:07:48 |
+| Lobby ID | 28595310178950881 |
+| Players | 4/10 |
+| Host Name | PICK NORMAL POS4 HERO MORONS) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:07:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310175279959 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | CholaQueVeoCholaQueGomeo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:04:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310173389328 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Teach |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:02:42 |
@@ -101,20 +101,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:04:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310177904240 |
-| Players | 3/8 |
-| Host Name | sadyg |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 00:06:57 |
+| Lobby ID | 28595310178979053 |
+| Players | 1/15 |
+| Host Name | кот (или пёс) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:07:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310177265616 |
-| Players | 3/10 |
-| Host Name | Average Saiyan |
+| Players | 2/10 |
+| Host Name | MalaHierba |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 00:06:21 |
 
@@ -139,29 +139,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310175909836 |
-| Players | 4/8 |
-| Host Name | 能ある鷹はつめを隠す |
+| Lobby ID | 28595310179066280 |
+| Players | 1/8 |
+| Host Name | Тайлер Дерден |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:05:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310178143267 |
-| Players | 7/10 |
-| Host Name | пивная маковка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:07:10 |
+| Lobby Creation Time | Monday, January 8, 2024 00:08:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310178898076 |
+| Lobby ID | 28595310179086899 |
 | Players | 1/15 |
-| Host Name | ~Feainnewedd |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:07:53 |
+| Host Name | Mekus Mekus ni Insan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 00:08:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310179104871 |
+| Players | 6/10 |
+| Host Name | Oopss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:08:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -173,15 +173,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:05:26 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310177238905 |
-| Players | 3/5 |
-| Host Name | ATWA |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:06:20 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310173683894 |
@@ -189,14 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | it will be fun |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 00:02:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310175713823 |
-| Players | 9/10 |
-| Host Name | 起个名真纠结 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 00:04:54 |
 
 
