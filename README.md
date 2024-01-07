@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310264649109 |
-| Players | 2/10 |
-| Host Name | чистополевец |
+| Lobby ID | 28595310263366847 |
+| Players | 6/8 |
+| Host Name | manamak |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:31:07 |
+| Lobby Creation Time | Monday, January 8, 2024 01:29:52 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310263225349 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Seasons of L |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 01:29:43 |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310264363400 |
-| Players | 1/15 |
-| Host Name | Nautro |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:30:50 |
+| Lobby ID | 28595310265003881 |
+| Players | 8/15 |
+| Host Name | Tired |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:31:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310258356025 |
-| Players | 11/15 |
-| Host Name | :_V |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, January 8, 2024 01:24:51 |
+| Lobby ID | 28595310265005933 |
+| Players | 7/10 |
+| Host Name | Devil Eyes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:31:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:28:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310264359461 |
-| Players | 1/15 |
-| Host Name | Dota veteran |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 8, 2024 01:30:50 |
+| Lobby ID | 28595310265047715 |
+| Players | 18/24 |
+| Host Name | Jester's drug |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 01:31:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310249203986 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | hAggU pLaYeR |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 01:15:47 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310264110270 |
-| Players | 5/8 |
-| Host Name | naruto_naruto18 |
+| Lobby ID | 28595310264998041 |
+| Players | 2/8 |
+| Host Name | NOSOROG |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:30:36 |
+| Lobby Creation Time | Monday, January 8, 2024 01:31:28 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310262066770 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Чорт |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 01:28:35 |
@@ -137,42 +137,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:30:42 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310264688895 |
-| Players | 5/10 |
-| Host Name | Avaci |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:31:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310264606260 |
-| Players | 13/15 |
-| Host Name | Tired |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:31:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310264298833 |
-| Players | 1/8 |
-| Host Name | Oso_V_C_ |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 01:30:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310263366847 |
-| Players | 6/8 |
-| Host Name | manamak |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:29:52 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310263556859 |
@@ -184,11 +148,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310264810149 |
+| Lobby ID | 28595310264841516 |
+| Players | 7/8 |
+| Host Name | 尼特 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:31:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310264298833 |
 | Players | 3/8 |
-| Host Name | новичок |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:31:17 |
+| Host Name | Oso_V_C_ |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 01:30:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310263699447 |
+| Players | 14/15 |
+| Host Name | ExSide- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:30:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310265416434 |
+| Players | 4/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 01:31:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310265399355 |
+| Players | 5/8 |
+| Host Name | с 6 лет боксом |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 01:31:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -234,5 +234,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hasbulla.hushetskiy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 01:29:50 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595310265023098 |
+| Players | 1/7 |
+| Host Name | Картман |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:31:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310265061654 |
+| Players | 2/10 |
+| Host Name | bos2 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:31:31 |
 
 
