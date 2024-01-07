@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309687088371 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Reiz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:34:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309691647859 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 16:39:51 |
@@ -47,31 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:42:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309695493576 |
-| Players | 9/15 |
-| Host Name | granerst |
+| Lobby ID | 28595309695678733 |
+| Players | 1/8 |
+| Host Name | Dirty Deeds Done Dirt Cheeps |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:44:46 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:45:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309695507737 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | LOVE_yandere |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:44:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309695497254 |
-| Players | 1/15 |
-| Host Name | slomana |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:44:46 |
 
 
 |  | epic_boss_fight_normal |
