@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:39:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309717214590 |
-| Players | 6/8 |
-| Host Name | Hi |
+| Lobby ID | 28595309718685805 |
+| Players | 7/24 |
+| Host Name | SSS |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:12:20 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:14:08 |
 
 
 |  | ot3_desert_octet |
@@ -38,40 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:08:58 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309718658066 |
-| Players | 4/10 |
-| Host Name | ZMEY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:14:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309718393217 |
-| Players | 9/10 |
-| Host Name | 市throw down your tears市 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:13:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309718574357 |
-| Players | 4/8 |
-| Host Name | Saksa |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:14:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309718576816 |
-| Players | 14/15 |
-| Host Name | Vsemut |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:14:00 |
+| Lobby ID | 28595309718764283 |
+| Players | 3/8 |
+| Host Name | Zi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:14:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,28 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:14:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309718685805 |
-| Players | 3/24 |
-| Host Name | SSS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:14:08 |
+| Lobby ID | 28595309718574357 |
+| Players | 4/8 |
+| Host Name | Saksa |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:14:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309718764283 |
-| Players | 3/8 |
-| Host Name | Zi |
+| Lobby ID | 28595309718860155 |
+| Players | 2/8 |
+| Host Name | D'Boyd |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 17:14:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309718863385 |
+| Players | 1/10 |
+| Host Name | さらば私の愛 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:14:14 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:14:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309714132287 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Wrath |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:08:26 |
