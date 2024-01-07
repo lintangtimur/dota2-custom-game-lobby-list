@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309543124225 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ae-in |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:20:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309542286202 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Sol[A]ce |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:19:18 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309543560643 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Kaioh Retsu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:21:13 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DONT KILL ME |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:20:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309544303186 |
-| Players | 1/24 |
-| Host Name | NER....AA   MATA CHAMOS |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:22:20 |
 
 
