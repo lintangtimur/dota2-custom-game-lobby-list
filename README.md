@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:51:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309487113443 |
-| Players | 13/15 |
-| Host Name | Слабый и убогий |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:48:39 |
+| Lobby ID | 28595309489212852 |
+| Players | 1/24 |
+| Host Name | [JnM]Nickname |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:52:22 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309487338418 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | lLitOl |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:49:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309486195715 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | FakeKaizumi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:47:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309488229871 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Coconut Head |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:50:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309487253003 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:48:54 |
