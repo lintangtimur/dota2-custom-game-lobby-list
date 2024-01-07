@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309432961918 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 御詩詩 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:10:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309429549886 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | 恶魔震动 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:04:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309425599047 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Anime Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:57:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309432794572 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Dominique de Coco |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:10:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309431752970 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | llegó la SUNAT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:08:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309432513798 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Neko |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:10:07 |
@@ -95,25 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309432573432 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | spacestalker slayer300raw1200cpm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:10:14 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309433067360 |
-| Players | 1/8 |
-| Host Name | zzzz |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:11:09 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309433044356 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:11:06 |
