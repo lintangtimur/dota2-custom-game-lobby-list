@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309458304797 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Jesse Pinkman |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:57:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309458043833 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | uglxplastic |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:57:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309458046232 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | !!..Leons....origins..!! /○◘•♦♣♠ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:57:09 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309458244590 |
-| Players | 7/10 |
-| Host Name | Saga |
+| Players | 9/10 |
+| Host Name | Duuuuh |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:57:30 |
 
@@ -77,28 +77,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309458388665 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Kodos |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:57:46 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309458560411 |
+| Players | 2/24 |
+| Host Name | TwsChimSe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:58:04 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309458499834 |
-| Players | 1/10 |
-| Host Name | whatdidIdotodeserve |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:57:58 |
+| Lobby ID | 28595309458595545 |
+| Players | 2/10 |
+| Host Name | Saga |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:58:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309458602965 |
+| Players | 1/15 |
+| Host Name | саняхускар2004 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:58:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309458560411 |
-| Players | 1/24 |
-| Host Name | Spike Spiegel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:58:04 |
+| Lobby ID | 28595309457617323 |
+| Players | 21/24 |
+| Host Name | TORONTOCOSH |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:56:22 |
 
 
 |  | epic_boss_fight_nightmare |
