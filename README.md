@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309925569087 |
-| Players | 9/10 |
-| Host Name | Adam West |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 20:32:55 |
+| Lobby ID | 28595309928027376 |
+| Players | 2/10 |
+| Host Name | 侍 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:34:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309927660842 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ShadowStorm |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 20:34:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309927880877 |
-| Players | 1/15 |
+| Players | 14/15 |
 | Host Name | Steppenwolf |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:34:44 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 20:30:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309926975832 |
-| Players | 9/10 |
-| Host Name | Veqazz |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:34:02 |
+| Lobby ID | 28595309923441830 |
+| Players | 1/8 |
+| Host Name | SosiskaKiller228 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:31:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309923772916 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | BFFSC Dog PMJ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:31:28 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309923920085 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 20:31:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309923441830 |
-| Players | 1/8 |
-| Host Name | SosiskaKiller228 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:31:12 |
 
 
 |  | epic_boss_fight_nightmare |
