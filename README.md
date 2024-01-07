@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309564262223 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Мисочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:51:59 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309564150919 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:51:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309559457356 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Bonsai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:45:00 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:52:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309563637074 |
-| Players | 6/8 |
-| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
+| Lobby ID | 28595309564912838 |
+| Players | 2/10 |
+| Host Name | :Xaiko midaX:) |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:51:04 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:52:57 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309563477931 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:50:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309565254778 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Exuse (muted) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:53:27 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | coopitman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:52:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309564912838 |
-| Players | 2/10 |
-| Host Name | :Xaiko midaX:) |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:52:57 |
 
 
 |  | epic_boss_fight_normal |
