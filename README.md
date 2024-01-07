@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:21:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309850191166 |
-| Players | 1/10 |
-| Host Name | https://www.twitch.tv/goodvil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:30:51 |
+| Lobby ID | 28595309850063495 |
+| Players | 4/8 |
+| Host Name | Nevalyashka |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:30:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,42 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:27:09 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309850836121 |
-| Players | 6/10 |
-| Host Name | pohui proebali |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:31:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309850707529 |
-| Players | 13/15 |
-| Host Name | 4ek1st |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:31:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309850692853 |
-| Players | 5/8 |
-| Host Name | Солнышко2013 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:31:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309849421639 |
-| Players | 7/8 |
-| Host Name | BNB |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:30:10 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309850610187 |
@@ -92,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:31:13 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309851051005 |
+| Players | 6/15 |
+| Host Name | ВертушкаПокатушк |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 19:31:36 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309850063495 |
-| Players | 1/8 |
-| Host Name | Nevalyashka |
+| Lobby ID | 28595309850692853 |
+| Players | 5/8 |
+| Host Name | Солнышко2013 |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:30:44 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:31:17 |
 
 
 |  | epic_boss_fight_challenger |
@@ -114,7 +87,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309846874020 |
 | Players | 8/10 |
-| Host Name | ꧁༒FI͜͡ʀS'ᴛ༒꧂ |
+| Host Name | Bankai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:27:56 |
 
