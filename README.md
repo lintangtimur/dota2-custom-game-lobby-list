@@ -4,35 +4,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309345464361 |
-| Players | 5/10 |
-| Host Name | big boss |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 07:25:58 |
+| Lobby ID | 28595309345782337 |
+| Players | 8/10 |
+| Host Name | Carpe Diem. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:26:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309345685187 |
+| Players | 5/15 |
+| Host Name | All muted |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:26:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309345661921 |
-| Players | 1/8 |
-| Host Name | Missing you happiness |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:26:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309345540482 |
-| Players | 3/8 |
-| Host Name | НЕХОРОШИЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:26:06 |
+| Lobby ID | 28595309345814265 |
+| Players | 4/8 |
+| Host Name | ✪gabi♥♥♥angie✪ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:26:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309340583159 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | aynuuhetmi batayduntridkuments |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:17:14 |
@@ -41,36 +41,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309343055881 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:21:39 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309341961011 |
-| Players | 9/10 |
-| Host Name | English Breakfast Tea |
+| Lobby ID | 28595309346002709 |
+| Players | 2/10 |
+| Host Name | Kamishiroリゼ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:26:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309345934423 |
+| Players | 3/15 |
+| Host Name | BadenUltrakill1337 |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:19:41 |
+| Lobby Creation Time | Sunday, January 7, 2024 07:26:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309346093134 |
+| Players | 1/10 |
+| Host Name | DUQUE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:27:04 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309344443036 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | STIFF |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:24:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309345618499 |
-| Players | 1/5 |
-| Host Name | 阿修罗 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:26:14 |
 
 
