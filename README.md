@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309374429007 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Agua |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:19:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309376020394 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Гомик Артем |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:23:02 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:20:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309376003053 |
-| Players | 7/8 |
-| Host Name | シジク |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:23:00 |
+| Lobby ID | 28595309376176351 |
+| Players | 1/15 |
+| Host Name | Scrub, career felon |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:23:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309375838447 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:22:41 |
