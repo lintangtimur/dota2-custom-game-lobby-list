@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309861490023 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 謙虚さを身につけろ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:40:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309864280269 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | QUE RICO APRIETAS |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 19:43:00 |
@@ -68,10 +68,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309865449014 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Jack Forest |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:43:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309865590892 |
+| Players | 3/8 |
+| Host Name | Radioact1v |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:44:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309865638527 |
+| Players | 7/24 |
+| Host Name | KNightMare |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:44:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309865648542 |
+| Players | 1/8 |
+| Host Name | KURDestan=Iran |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 19:44:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309865729212 |
+| Players | 1/15 |
+| Host Name | BioAzis |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 19:44:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -85,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28595309865539763 |
+| Lobby ID | 28595309865612631 |
 | Players | 3/7 |
-| Host Name | SpilleR_SS |
+| Host Name | Happe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:44:04 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:44:07 |
 
 
