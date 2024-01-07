@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310245538115 |
-| Players | 8/10 |
-| Host Name | Sola |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 01:12:12 |
+| Lobby ID | 28595310246497725 |
+| Players | 2/10 |
+| Host Name | буеракус |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:13:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310242854669 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Monday, January 8, 2024 01:09:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310246334560 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | ELF PLAYER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:13:00 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595310244643122 |
 | Players | 4/24 |
-| Host Name | ninetales |
+| Host Name | creator |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 01:11:19 |
 
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:10:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310246347054 |
-| Players | 1/15 |
-| Host Name | Чилипиздрик |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 01:13:01 |
+| Lobby ID | 28595310245362902 |
+| Players | 8/10 |
+| Host Name | Кампадро кампоко |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 01:12:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310246188894 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Хлібобулочний |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 01:12:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310246061160 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | he will win |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:12:44 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310245859726 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 雨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:12:31 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310237523015 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | ~Penguin™ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 01:04:18 |
@@ -155,37 +155,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:12:41 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310246311373 |
-| Players | 5/8 |
-| Host Name | гей (пидор) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:12:58 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310246109282 |
-| Players | 6/15 |
-| Host Name | i'm Russian and i'm proud |
+| Players | 14/15 |
+| Host Name | grimstrake |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:12:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310245362902 |
-| Players | 8/10 |
-| Host Name | Кампадро кампоко |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 01:12:02 |
+| Lobby ID | 28595310246481484 |
+| Players | 2/10 |
+| Host Name | leipzig |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:13:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310246566416 |
+| Players | 2/15 |
+| Host Name | twitch.tv/4beelka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:13:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310245702781 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | GreShnik |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 01:12:22 |
