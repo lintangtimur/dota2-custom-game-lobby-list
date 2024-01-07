@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309336235592 |
-| Players | 1/8 |
-| Host Name | PUSHQ.A.Get up |
+| Lobby ID | 28595309336341941 |
+| Players | 7/10 |
+| Host Name | Bo$$ Хомяк :3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:09:46 |
+| Lobby Creation Time | Sunday, January 7, 2024 07:09:58 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309336230182 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Кайфуцин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:09:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309333682857 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Big prolem (nob) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:05:20 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309336039515 |
-| Players | 12/15 |
-| Host Name | ! |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:09:26 |
+| Lobby ID | 28595309336449183 |
+| Players | 2/15 |
+| Host Name | пенис119 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:10:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309335842550 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | 사랑해 나연 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:09:04 |
@@ -76,11 +76,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309336341941 |
-| Players | 1/10 |
-| Host Name | Elephantich |
+| Lobby ID | 28595309336401426 |
+| Players | 2/10 |
+| Host Name | Error.On.Fire.xD |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:10:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309336412183 |
+| Players | 2/15 |
+| Host Name | PAPARRONNI.TL |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:10:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309336444724 |
+| Players | 1/15 |
+| Host Name | SapkA <3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:09:58 |
+| Lobby Creation Time | Sunday, January 7, 2024 07:10:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309336460313 |
+| Players | 1/10 |
+| Host Name | keiiiiu |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:10:10 |
 
 
 |  | epic_boss_fight_nightmare |
