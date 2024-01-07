@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309480135923 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Vaporeon |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:36:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309478315606 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | A s r a e l |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:33:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309479427735 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | llegó la SUNAT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:35:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309480386577 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | C A P I T A N |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:36:54 |
@@ -95,16 +95,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309480422703 |
-| Players | 1/15 |
-| Host Name | osoznaal |
+| Players | 9/15 |
+| Host Name | шестнадцать стри |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:36:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309480492153 |
+| Players | 3/24 |
+| Host Name | 8llllllllllD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:37:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309480512722 |
+| Players | 1/24 |
+| Host Name | Barasa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:37:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309479625211 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:35:34 |
