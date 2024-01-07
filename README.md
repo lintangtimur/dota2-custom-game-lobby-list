@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309384940161 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | EdgarAllanPoo |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:40:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309387481059 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | MiDA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:45:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309384807062 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:40:17 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Anj0 `-!FRD!-` |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:46:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309387732410 |
-| Players | 1/8 |
-| Host Name | CooLeR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:46:08 |
 
 
 |  | epic_boss_fight_nightmare |
