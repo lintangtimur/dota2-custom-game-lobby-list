@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309863095538 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | Zabiyaka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:41:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309861490023 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 謙虚さを身につけろ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:40:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309863072904 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ДЕТРИГНУС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:41:58 |
@@ -67,26 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309862406637 |
-| Players | 7/8 |
-| Host Name | PussyDon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:41:23 |
+| Lobby ID | 28595309863155123 |
+| Players | 1/8 |
+| Host Name | POPULAR FORCE |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 19:42:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309862642488 |
-| Players | 9/10 |
-| Host Name | Papi Culo |
+| Lobby ID | 28595309863088796 |
+| Players | 4/8 |
+| Host Name | casino knight絕對不i變 Trade |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:41:36 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:41:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309862993078 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Саня Омнислеш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:41:54 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309863088796 |
-| Players | 1/8 |
-| Host Name | casino knight絕對不i變 Trade |
+| Lobby ID | 28595309863329272 |
+| Players | 4/8 |
+| Host Name | donkat |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:41:59 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:42:11 |
 
 
 |  | epic_boss_fight_normal |
