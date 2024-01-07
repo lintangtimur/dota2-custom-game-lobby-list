@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309528136522 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Fakar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:57:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309527538944 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | DonFlag |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:56:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:33:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309527457777 |
-| Players | 9/10 |
-| Host Name | Don payiyo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:56:27 |
+| Lobby ID | 28595309528206943 |
+| Players | 1/24 |
+| Host Name | Leekholic |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:57:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309527036655 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:55:45 |
@@ -77,28 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309526939255 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:55:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309528206943 |
-| Players | 1/24 |
-| Host Name | Leekholic |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:57:39 |
+| Lobby ID | 28595309528633040 |
+| Players | 6/10 |
+| Host Name | Camel |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:58:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309527531620 |
-| Players | 3/8 |
-| Host Name | руинер |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:56:34 |
+| Lobby ID | 28595309528623474 |
+| Players | 2/8 |
+| Host Name | Joker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:58:18 |
 
 
 |  | epic_boss_fight_nightmare |
