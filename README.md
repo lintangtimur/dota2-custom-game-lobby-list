@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309685929142 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Snickers |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:32:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309685573349 |
-| Players | 7/10 |
-| Host Name | Роберт Ван Трахен |
+| Lobby ID | 28595309686131439 |
+| Players | 6/8 |
+| Host Name | fläskfilé utan frigolit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:32:16 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:32:58 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309685546621 |
-| Players | 3/8 |
-| Host Name | 1945 |
+| Players | 2/8 |
+| Host Name | ⱢєṒђΣαṜţ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:32:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309686131439 |
-| Players | 6/8 |
-| Host Name | fläskfilé utan frigolit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:32:58 |
 
 
 |  | epic_boss_fight_normal |
