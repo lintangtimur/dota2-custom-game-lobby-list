@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309797038574 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | positive vibes' |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:41:49 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309796917087 |
-| Players | 14/15 |
-| Host Name | Freddy Fazbear |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:41:41 |
+| Lobby ID | 28595309797266989 |
+| Players | 10/15 |
+| Host Name | АТАКУЭЙШН |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:42:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309795976534 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Badut Merah Biru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:40:44 |
@@ -56,10 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:41:25 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309797283747 |
+| Players | 4/24 |
+| Host Name | J |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:42:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309797302744 |
+| Players | 1/24 |
+| Host Name | 幸好我拼命护住了脸 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:42:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309795488776 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | NDA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:40:14 |
