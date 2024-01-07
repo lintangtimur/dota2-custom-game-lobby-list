@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:45:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310217560414 |
-| Players | 9/10 |
-| Host Name | twitch.tv/decbrine |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:44:50 |
+| Lobby ID | 28595310217974618 |
+| Players | 1/15 |
+| Host Name | Chico Holiudi |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 00:45:15 |
 
 
 |  | ot3_desert_octet |
@@ -67,9 +67,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310217536081 |
-| Players | 3/15 |
-| Host Name | ZEINI |
+| Lobby ID | 28595310217533119 |
+| Players | 14/15 |
+| Host Name | Hummer |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:44:48 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310214861803 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | КОНЦЕРТ КИШЛАКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 00:42:10 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310216528554 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | god on me |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:43:49 |
@@ -122,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310217567782 |
-| Players | 2/10 |
-| Host Name | IkaRoS |
+| Players | 3/10 |
+| Host Name | CHUPAPI |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:44:50 |
 
@@ -131,10 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310217664216 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | стрей |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:44:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310217878448 |
+| Players | 7/8 |
+| Host Name | bendylot |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 00:45:09 |
 
 
 |  | epic_boss_fight_normal |
