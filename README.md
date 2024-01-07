@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309523810893 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | RHLM |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:50:30 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:33:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309524118912 |
-| Players | 1/24 |
-| Host Name | 13579 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, January 7, 2024 12:50:59 |
+| Lobby ID | 28595309523996046 |
+| Players | 3/10 |
+| Host Name | ku no hoshi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:50:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 御詩詩 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:50:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309523996046 |
-| Players | 2/10 |
-| Host Name | ku no hoshi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:50:48 |
 
 
 |  | epic_boss_fight_nightmare |
