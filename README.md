@@ -47,49 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:06:28 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309496689286 |
-| Players | 12/15 |
-| Host Name | Leon- |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:05:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309496827631 |
-| Players | 4/8 |
-| Host Name | DD Mydoira |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:05:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309497908873 |
-| Players | 1/24 |
-| Host Name | 504 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:07:25 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309497685965 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | SO FCKING BLUE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:07:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309497657676 |
-| Players | 13/15 |
-| Host Name | Struggle |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:06:58 |
+| Lobby ID | 28595309497908873 |
+| Players | 2/24 |
+| Host Name | 504 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:07:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309498160343 |
+| Players | 1/8 |
+| Host Name | "Belial" |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:07:51 |
 
 
 |  | epic_boss_fight_nightmare |
