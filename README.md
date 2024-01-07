@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309531446749 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | lllllllll |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:02:39 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Avent- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:02:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309531790955 |
+| Players | 2/8 |
+| Host Name | ♥ ради нее ♥ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:03:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | КТО ТАМ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:59:38 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595309531768558 |
-| Players | 1/7 |
-| Host Name | HarBonDioxide |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:03:10 |
 
 
