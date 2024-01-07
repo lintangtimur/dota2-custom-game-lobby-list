@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:21:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309851242019 |
-| Players | 5/10 |
-| Host Name | я пукнул |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:31:46 |
+| Lobby ID | 28595309852015923 |
+| Players | 3/8 |
+| Host Name | Гена Цидрусни |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:32:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309850610187 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:31:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309851051005 |
-| Players | 12/15 |
-| Host Name | ВертушкаПокатушк |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 19:31:36 |
+| Lobby ID | 28595309851455666 |
+| Players | 2/10 |
+| Host Name | Shevrassa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:31:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,28 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309851343208 |
-| Players | 7/8 |
-| Host Name | Гена Цидрусни |
+| Players | 5/8 |
+| Host Name | wmex |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:31:51 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309851455666 |
-| Players | 2/10 |
-| Host Name | Shevrassa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:31:57 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309851487826 |
-| Players | 12/15 |
-| Host Name | Denandra' |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:31:58 |
+| Lobby ID | 28595309852043816 |
+| Players | 1/15 |
+| Host Name | EZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:32:27 |
 
 
 |  | epic_boss_fight_challenger |
