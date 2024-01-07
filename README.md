@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309638904180 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Badut Merah Biru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:33:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309638375337 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | @@@ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:32:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309639465204 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | вова адидас prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:34:01 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309637867939 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Emdie |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 15:31:58 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309638662667 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 好线 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:32:59 |
@@ -112,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309639612288 |
+| Lobby ID | 28595309639714792 |
 | Players | 1/5 |
 | Host Name | 啦啦啦啦 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 15:34:12 |
+| Region | Unknown |
+| Lobby Creation Time | Sunday, January 7, 2024 15:34:20 |
 
 
