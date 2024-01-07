@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309973853627 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Аянами Рей |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 21:10:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309975130555 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:11:57 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:04:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309976624298 |
-| Players | 4/8 |
-| Host Name | ♪♪♪ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:13:08 |
+| Lobby ID | 28595309974847079 |
+| Players | 7/10 |
+| Host Name | Gramozeka188 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:11:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309975712190 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Lemon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:12:25 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309976537444 |
-| Players | 11/15 |
-| Host Name | Котёнок |
+| Players | 13/15 |
+| Host Name | Кошачий нюхач |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:13:04 |
 
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:13:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309976910863 |
+| Players | 1/8 |
+| Host Name | van |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:13:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309971353860 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Abradolf Lincler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:08:56 |
