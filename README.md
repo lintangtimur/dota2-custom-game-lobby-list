@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309800835324 |
-| Players | 18/24 |
-| Host Name | efrdsfsdf |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:45:35 |
+| Lobby ID | 28595309804789636 |
+| Players | 7/8 |
+| Host Name | 無限の彼方へ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:49:28 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309804201718 |
-| Players | 4/24 |
-| Host Name | klaymann |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:48:54 |
+| Lobby ID | 28595309805166422 |
+| Players | 5/8 |
+| Host Name | True possitive (PMA) |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:49:50 |
 
 
 |  | ot3_gardens_duo |
@@ -38,39 +38,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:47:51 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309804120818 |
-| Players | 8/10 |
-| Host Name | Prime Викусик |
+| Lobby ID | 28595309803516122 |
+| Players | 6/10 |
+| Host Name | Вова Адидас |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:48:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309804545748 |
-| Players | 4/15 |
-| Host Name | 🅳🆄🅴🅽🅳🅽🅴🆂 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:49:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309801554518 |
-| Players | 3/5 |
-| Host Name | TOPSONG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:46:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309803943884 |
-| Players | 4/5 |
-| Host Name | qulvil |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:48:39 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:48:14 |
 
 
