@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309431742850 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | El gato sin botas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:08:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309429549886 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | 恶魔震动 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:04:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309431117032 |
-| Players | 12/15 |
+| Players | 10/15 |
 | Host Name | 2late4youbro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:07:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309431439214 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | прекл |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:08:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309431134306 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Lǐzǐ 1899 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:07:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309431747598 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | sáquenme de plata pofavo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:08:39 |
