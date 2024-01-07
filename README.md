@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309585479432 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Ponte las pilas Krag |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:22:34 |
@@ -41,34 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309586412083 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Unlucky |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:23:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309585313599 |
-| Players | 13/15 |
-| Host Name | Rommel |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:22:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309584279649 |
-| Players | 6/8 |
-| Host Name | при делах |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:20:53 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309585923830 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Avent- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:23:12 |
@@ -86,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309586120814 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, January 7, 2024 14:23:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309586613492 |
+| Players | 1/10 |
+| Host Name | enjoyer jesse |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:24:10 |
 
 
