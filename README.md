@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309458972875 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | SameShit |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:58:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309461420762 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:03:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309459986159 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Bloodscourge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309461748979 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | NOÉ |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 11:03:46 |
@@ -122,10 +122,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309461965207 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Jinoky |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:04:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309462182626 |
+| Players | 3/10 |
+| Host Name | GoD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:04:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309462224813 |
+| Players | 2/24 |
+| Host Name | Ask the magic conch shell |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:04:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309462231753 |
+| Players | 2/15 |
+| Host Name | 阳光猛烈 摆鬼夜行 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:04:37 |
 
 
 |  | epic_boss_fight_nightmare |
