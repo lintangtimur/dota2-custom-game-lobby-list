@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309741852981 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | weightlessness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:42:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309741722810 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:41:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309741717687 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Samarskiy traktorniy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:41:54 |
@@ -65,6 +65,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:42:03 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309742070585 |
+| Players | 1/24 |
+| Host Name | baldik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:42:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309742073286 |
+| Players | 2/8 |
+| Host Name | folk1983 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:42:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309740509270 |
+| Players | 14/15 |
+| Host Name | Broker |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:40:28 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309740659252 |
@@ -77,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309741200692 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | KATR61 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:41:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309741552247 |
-| Players | 1/5 |
-| Host Name | 30Hz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:41:43 |
 
 
