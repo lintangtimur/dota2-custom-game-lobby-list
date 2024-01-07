@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309508625506 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | EL GOSU DE LOS ANDES |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309498451271 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AVENA 3 URSITAS |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:08:22 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:59 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309506982718 |
+| Players | 22/24 |
+| Host Name | Eminence in shadow |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:22:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309506825253 |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309508965494 |
-| Players | 1/5 |
-| Host Name | yape 957413729 para ganar |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:26:06 |
 
 
