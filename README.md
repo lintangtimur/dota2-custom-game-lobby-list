@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309495749893 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | El Tiburón De Villa |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:03:42 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:05:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309491498458 |
-| Players | 23/24 |
-| Host Name | Movistar Perú Oficial |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:56:23 |
+| Lobby ID | 28595309496689286 |
+| Players | 2/15 |
+| Host Name | luxeon |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:05:19 |
 
 
 |  | ot3_gardens_duo |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:05:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309494887336 |
-| Players | 14/15 |
-| Host Name | Kaioh Retsu |
+| Lobby ID | 28595309496745272 |
+| Players | 1/10 |
+| Host Name | ''Yahiiko'' |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:02:15 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:05:25 |
 
 
