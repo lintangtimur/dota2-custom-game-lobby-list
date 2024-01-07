@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309754737760 |
-| Players | 12/15 |
-| Host Name | Лес на вайбе |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:56:46 |
+| Lobby ID | 28595309755289841 |
+| Players | 3/15 |
+| Host Name | Being alive = pain |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:57:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309754402278 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Hungry FOR Sassana PUSS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:24 |
@@ -65,13 +65,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:26 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309755305521 |
+| Players | 4/24 |
+| Host Name | Bairacle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:57:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309755261678 |
+| Players | 1/8 |
+| Host Name | Какаш Каврот |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:57:21 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309754058060 |
+| Lobby ID | 28595309749596379 |
 | Players | 9/10 |
-| Host Name | ИИСУС СССР РАНГА |
+| Host Name | Вова адидас |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:56:01 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:51:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309755359657 |
+| Players | 4/8 |
+| Host Name | I am |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:57:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309755356246 |
+| Players | 2/8 |
+| Host Name | Y - 3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:57:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Attila |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309755203710 |
-| Players | 1/5 |
-| Host Name | сларк из волги |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:57:18 |
 
 
