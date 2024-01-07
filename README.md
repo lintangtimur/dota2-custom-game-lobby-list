@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309581672753 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | iamIBradd™ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:17:09 |
@@ -38,31 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:17:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309579547319 |
-| Players | 5/8 |
-| Host Name | Pachacutec |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 14:14:06 |
+| Lobby ID | 28595309582054479 |
+| Players | 8/10 |
+| Host Name | Зайчатки Разума |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:17:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309578965280 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Les hare conocer el dolor |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:13:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309581627027 |
-| Players | 5/8 |
-| Host Name | Dig Bick |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:17:05 |
+| Lobby ID | 28595309582335641 |
+| Players | 1/24 |
+| Host Name | TheBlueJTattoo |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 14:18:07 |
 
 
 |  | ot3_desert_octet |
@@ -74,40 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:16:04 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309581186436 |
-| Players | 1/8 |
-| Host Name | Tháng nghìn đô |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:16:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309582054479 |
-| Players | 6/10 |
-| Host Name | Зайчатки Разума |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:17:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309582082250 |
 | Players | 3/15 |
-| Host Name | Nemro |
+| Host Name | DerFin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:17:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309581217234 |
-| Players | 9/10 |
-| Host Name | xorto.bazidli |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:16:29 |
 
 
 |  | epic_boss_fight_challenger |
