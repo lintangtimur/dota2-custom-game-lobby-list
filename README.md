@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309492616542 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Era Leyenda |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:58:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309493512167 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Sir Spliff Puffington |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:59:54 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309493722615 |
+| Lobby ID | 28595309493825996 |
+| Players | 2/15 |
+| Host Name | ¯\_(ツ)_/¯ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:00:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309493830212 |
 | Players | 1/15 |
 | Host Name | HidenKiller |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:00:16 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:00:27 |
 
 
 |  | epic_boss_fight_challenger |
