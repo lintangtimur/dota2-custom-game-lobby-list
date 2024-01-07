@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309812914089 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Heyzi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:57:13 |
@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309813094683 |
-| Players | 13/15 |
-| Host Name | Мутант Ъхвлам |
+| Lobby ID | 28595309813388111 |
+| Players | 5/15 |
+| Host Name | Vsemut |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:57:24 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:57:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309810930355 |
-| Players | 3/8 |
-| Host Name | Nightlight |
+| Lobby ID | 28595309813220945 |
+| Players | 6/8 |
+| Host Name | heka |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:55:21 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:57:31 |
 
 
 |  | ot3_desert_octet |
@@ -65,28 +65,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:57:30 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309813472375 |
+| Players | 1/24 |
+| Host Name | 𝖀𝖓𝖉𝖊𝖓𝖙𝖎𝖙 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:57:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309813520874 |
+| Players | 2/24 |
+| Host Name | Chồng Của Minji |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:57:48 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309813220945 |
-| Players | 3/8 |
-| Host Name | heka |
+| Lobby ID | 28595309813533417 |
+| Players | 4/8 |
+| Host Name | ...:::Pr[i]Zr[a]K:::.. |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:57:31 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:57:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309813388111 |
-| Players | 3/15 |
-| Host Name | Vsemut |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:57:40 |
+| Lobby ID | 28595309811849904 |
+| Players | 7/8 |
+| Host Name | Daulet The Fucker |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:56:13 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309810281242 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:54:44 |
@@ -108,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, January 7, 2024 18:55:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309813401828 |
+| Players | 1/10 |
+| Host Name | sawita |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 18:57:41 |
 
 
