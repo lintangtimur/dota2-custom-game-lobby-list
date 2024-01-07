@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309562465883 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | destroytion |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:49:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309562238875 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Lightning Fingers Raamm |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:49:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562261095 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | DogJeWz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:49:04 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309563080986 |
+| Lobby ID | 28595309563180286 |
 | Players | 1/24 |
-| Host Name | Tenma |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:50:15 |
+| Host Name | не умею играть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:50:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nthnl |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:47:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309563072601 |
-| Players | 1/5 |
-| Host Name | 玩游戏用脑子 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:50:15 |
 
 
