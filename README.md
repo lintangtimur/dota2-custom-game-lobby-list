@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309498451271 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Stringer |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:08:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309505672579 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ^^ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:20:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309504198629 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Ча ча ча |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:18:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309505044997 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:19:39 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309505263009 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | SKIBIDI DOB DOB DOB YES YES |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:20:01 |
