@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309468467616 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | Duuuuh |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:15:45 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309468156507 |
-| Players | 5/15 |
-| Host Name | c |
+| Players | 9/15 |
+| Host Name | rozengg |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:15:13 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Truck-kun |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309468042085 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Sable |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:15:02 |
@@ -83,11 +83,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:15:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309468595510 |
+| Players | 3/15 |
+| Host Name | Es un Elissir xD |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:15:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309468581413 |
+| Players | 3/8 |
+| Host Name | Nanachi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:15:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309468620982 |
+| Players | 2/10 |
+| Host Name | Zaur |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:16:02 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309467186634 |
-| Players | 2/5 |
-| Host Name | iLpa |
+| Players | 1/5 |
+| Host Name | ryu |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 11:13:33 |
 
