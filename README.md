@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309536027812 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:09:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309534735706 |
-| Players | 6/8 |
-| Host Name | БОББИ Центр |
+| Lobby ID | 28595309537113615 |
+| Players | 4/15 |
+| Host Name | aWarDeeee |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:07:42 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:11:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309536734870 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | 76561199234681527 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:10:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309536645188 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | VolTaGe |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:10:43 |
@@ -94,11 +94,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309536981680 |
+| Lobby ID | 28595309537134358 |
 | Players | 6/24 |
-| Host Name | SameShit |
+| Host Name | Eminence in shadow |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:11:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309537178259 |
+| Players | 1/10 |
+| Host Name | justin weaver |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:11:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309537384694 |
+| Players | 1/24 |
+| Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:11:15 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:11:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309537384732 |
+| Players | 6/10 |
+| Host Name | Ricardo |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:11:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309537467280 |
+| Players | 1/24 |
+| Host Name | Nerfstyle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:12:00 |
 
 
 |  | epic_boss_fight_nightmare |
