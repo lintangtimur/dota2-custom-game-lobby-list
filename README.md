@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309676833732 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | 30club |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:21:19 |
@@ -40,29 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309675860367 |
-| Players | 9/10 |
-| Host Name | ha[z] |
+| Lobby ID | 28595309677386222 |
+| Players | 2/10 |
+| Host Name | Formula! |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:20:05 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:22:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309674957865 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 16:18:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309677072886 |
-| Players | 2/10 |
-| Host Name | GREO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:21:37 |
+| Lobby ID | 28595309677317329 |
+| Players | 8/15 |
+| Host Name | Locomobile | The Chimney |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:21:56 |
 
 
 |  | ot3_desert_octet |
@@ -74,31 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:21:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309677193759 |
-| Players | 11/15 |
-| Host Name | T3nacious_D |
+| Lobby ID | 28595309677381537 |
+| Players | 3/8 |
+| Host Name | РАЙН ГОСЛИНГ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:21:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309677317329 |
-| Players | 3/15 |
-| Host Name | Locomobile | The Chimney |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:21:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309677335120 |
-| Players | 1/24 |
-| Host Name | WIZARD |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 16:21:57 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:22:01 |
 
 
 |  | epic_boss_fight_challenger |
