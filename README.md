@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309836417376 |
-| Players | 4/8 |
-| Host Name | za yanu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:18:47 |
+| Lobby ID | 28595309837724086 |
+| Players | 1/15 |
+| Host Name | Moraca |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 19:19:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309837590621 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Shisui |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:19:48 |
@@ -83,40 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:19:09 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309837364628 |
-| Players | 8/10 |
-| Host Name | Niklas |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:19:36 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309837409773 |
-| Players | 4/8 |
-| Host Name | НЕНАВИЖУ ФРУКТЫ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:19:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309825089572 |
-| Players | 23/24 |
-| Host Name | H1RO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:08:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309831102232 |
-| Players | 23/24 |
-| Host Name | GrandPa |
+| Lobby ID | 28595309837838756 |
+| Players | 2/8 |
+| Host Name | JawaLava |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:14:04 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:20:01 |
 
 
 |  | epic_boss_fight_challenger |
@@ -144,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Abrakadabra |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:19:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309837748453 |
+| Players | 2/10 |
+| Host Name | Escanor |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:19:57 |
 
 
