@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309459196352 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Angry |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:59:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459701825 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309459452619 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 20-1 t1Bu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:59:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459543746 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Fly |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:59:50 |
