@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309508625346 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Sadness & Sorrow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309508590555 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Akame |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309507062649 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | 8llllllllllD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:22:58 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:22:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309509638764 |
+| Players | 1/15 |
+| Host Name | Ghothar |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:27:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309506825253 |
@@ -104,18 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309508783232 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:48 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309509539005 |
-| Players | 1/5 |
+| Lobby ID | 28595309509721227 |
+| Players | 1/10 |
 | Host Name | Fiv5 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:27:04 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:27:23 |
 
 
