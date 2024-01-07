@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562173031 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | db |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:48:56 |
@@ -38,49 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:05:48 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309575340501 |
-| Players | 23/24 |
-| Host Name | ^.^ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:08:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309575394332 |
-| Players | 8/10 |
-| Host Name | PashaNB |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:08:04 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309576181363 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | your dad |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:09:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309576711908 |
-| Players | 1/15 |
-| Host Name | Summertime Sadness |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:10:00 |
+| Lobby ID | 28595309576807164 |
+| Players | 1/24 |
+| Host Name | Mood |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:10:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309576702743 |
+| Lobby ID | 28595309576829245 |
 | Players | 1/15 |
-| Host Name | pumpkin |
+| Host Name | Jorge captan. |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:09:59 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:10:11 |
 
 
 |  | epic_boss_fight_challenger |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HiroToHero TTV |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:07:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309576670878 |
-| Players | 1/10 |
-| Host Name | yape 957413729 para ganar |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 14:09:57 |
 
 
