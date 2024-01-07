@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309501465889 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Murió EG, ahora fan de Wisper |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309501270765 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | NERF 5AFRA3 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309501632352 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Jazz |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309501684544 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:14:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309501698257 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Yoluis |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:14:02 |
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:08 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309501844538 |
+| Players | 1/10 |
+| Host Name | waiting for death |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 12:14:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309499234461 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 咬人猫 |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 12:09:46 |
