@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:24:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309343539543 |
-| Players | 23/24 |
-| Host Name | Mirage- |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:22:32 |
+| Lobby ID | 28595309344962339 |
+| Players | 4/8 |
+| Host Name | amulet abuzer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:25:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309343805099 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Ahappypuppy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:23:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309343055881 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:21:39 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309344367196 |
-| Players | 9/10 |
-| Host Name | Remy (Chefcito) |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:24:01 |
+| Lobby ID | 28595309344993143 |
+| Players | 1/10 |
+| Host Name | Run Yo Pockets |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:25:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309344843727 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | zer0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:24:51 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ПечиПуткивац |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:24:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309344757494 |
-| Players | 8/10 |
-| Host Name | xzf |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:24:42 |
 
 
 |  | epic_boss_fight_nightmare |
