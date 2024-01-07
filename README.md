@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309332017141 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | _fredi_ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:02:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309332028033 |
-| Players | 12/15 |
-| Host Name | Shramspb |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:02:33 |
+| Lobby ID | 28595309332326601 |
+| Players | 1/24 |
+| Host Name | gfreek |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:03:03 |
 
 
 |  | ot3_gardens_duo |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:01:52 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309332293729 |
-| Players | 1/24 |
-| Host Name | Lahars |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:03:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309332016392 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | pcn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:02:32 |
