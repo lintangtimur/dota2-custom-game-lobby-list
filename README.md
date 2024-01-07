@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:23:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309543490295 |
-| Players | 6/10 |
-| Host Name | Grumbledorp |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:21:07 |
+| Lobby ID | 28595309547194359 |
+| Players | 2/15 |
+| Host Name | General |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:26:40 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309545385196 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | MAWELL |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:23:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309546683932 |
-| Players | 8/24 |
+| Players | 15/24 |
 | Host Name | masu nguyen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:25:54 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:51:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309546726955 |
-| Players | 9/15 |
-| Host Name | Nice*1 |
+| Lobby ID | 28595309546900048 |
+| Players | 6/8 |
+| Host Name | Alvaro |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:25:58 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:26:14 |
 
 
 |  | ot3_desert_octet |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309545544626 |
-| Players | 3/24 |
+| Players | 17/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:24:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309546900048 |
-| Players | 1/8 |
-| Host Name | Fadsol |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:26:14 |
 
 
 |  | epic_boss_fight_nightmare |
