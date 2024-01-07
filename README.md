@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309397205234 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:03:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309397759321 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | AEA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:04:47 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:02:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309398342263 |
-| Players | 3/8 |
-| Host Name | El Souph |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 09:05:51 |
+| Lobby ID | 28595309398219900 |
+| Players | 9/10 |
+| Host Name | 1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 09:05:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309398275866 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | ВЕБКАМЕНЩИК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:05:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309397267744 |
-| Players | 8/10 |
-| Host Name | Frontier |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:03:52 |
 
 
 |  | epic_boss_fight_challenger |
