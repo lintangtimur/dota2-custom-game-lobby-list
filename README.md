@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309436597105 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Konbu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309433859173 |
-| Players | 13/15 |
+| Players | 15/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 10:12:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309436418365 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Eline2604 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309436276294 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | La Résistance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:16:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309436266684 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | VISHTACK BORN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:16:52 |
@@ -86,16 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309436624246 |
-| Players | 2/10 |
-| Host Name | eunj0619 |
+| Players | 3/10 |
+| Host Name | _Ferxxo_ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309436692161 |
+| Players | 2/15 |
+| Host Name | Jesus from Palest1ne |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, January 7, 2024 10:17:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309436741544 |
+| Players | 1/24 |
+| Host Name | Carizu:3 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:17:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309434592771 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:13:51 |
