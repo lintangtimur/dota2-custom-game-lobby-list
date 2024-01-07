@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309504124791 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | バニラ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:18:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309501347189 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309502952474 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Rameezy_ |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:16:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309502602107 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Зайчатки Разума |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:15:35 |
@@ -122,27 +122,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309504198629 |
-| Players | 3/15 |
-| Host Name | G |
+| Players | 2/15 |
+| Host Name | Добрыня Никитич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:18:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309504401695 |
+| Players | 5/10 |
+| Host Name | MYM ELQUELAPONE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:18:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309504467036 |
+| Players | 5/8 |
+| Host Name | Patskii |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, January 7, 2024 12:18:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309503146720 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Aspasia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:16:30 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309502311745 |
-| Players | 1/5 |
-| Host Name | LASTiMP |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 12:15:05 |
 
 
