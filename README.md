@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309816219072 |
-| Players | 7/8 |
-| Host Name | Pedro Pascal |
+| Lobby ID | 28595309817297720 |
+| Players | 5/10 |
+| Host Name | Хорош |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:00:20 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:01:20 |
 
 
 |  | ot3_desert_octet |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309812914089 |
-| Players | 21/24 |
-| Host Name | Heyzi |
+| Lobby ID | 28595309817475996 |
+| Players | 1/15 |
+| Host Name | killagod |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:57:13 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:01:30 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309816974395 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Fuji_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:01:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309815983877 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Yukichii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:00:07 |
@@ -67,29 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309817062278 |
-| Players | 11/15 |
-| Host Name | UCHIHA DROW |
+| Lobby ID | 28595309817477802 |
+| Players | 1/15 |
+| Host Name | МилфHunter x Hunter |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:01:07 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:01:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309817100235 |
+| Lobby ID | 28595309817492857 |
 | Players | 1/8 |
 | Host Name | Ядрёный кабал |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:01:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309817297720 |
-| Players | 1/10 |
-| Host Name | DEADrusnya |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:01:20 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:01:31 |
 
 
 |  | epic_boss_fight_nightmare |
