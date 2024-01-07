@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309781249390 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Сигал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:25:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309772470149 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Soy El Corazon De Las Tinieblas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309781461097 |
-| Players | 2/10 |
-| Host Name | ленегда |
+| Lobby ID | 28595309781452915 |
+| Players | 5/10 |
+| Host Name | Orio |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:25:56 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:25:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,31 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:25:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309781426639 |
-| Players | 6/15 |
-| Host Name | ~Feainnewedd |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:25:54 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309781436304 |
-| Players | 3/24 |
-| Host Name | Harry Podchill |
+| Players | 7/24 |
+| Host Name | Smiley Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:25:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309781452915 |
-| Players | 2/10 |
-| Host Name | @EbalAchko3000 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:25:55 |
 
 
 |  | epic_boss_fight_normal |
