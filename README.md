@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309494887336 |
-| Players | 14/15 |
-| Host Name | Kaioh Retsu |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:02:15 |
+| Lobby ID | 28595309495062259 |
+| Players | 8/24 |
+| Host Name | Ask the magic conch shell |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:02:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309493841790 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | liluriena |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:00:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309495569338 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Шoker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:03:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309496062761 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Barasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:04:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309495501974 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Saga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:03:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309481847914 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Tomato Jones |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:39:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309494461615 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Sergio Markarian |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:01:32 |
@@ -90,33 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Tiburón De Villa |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:03:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309495062259 |
-| Players | 7/24 |
-| Host Name | Ask the magic conch shell |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:02:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309496123774 |
-| Players | 4/10 |
-| Host Name | Bleacher |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 12:04:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309496127461 |
-| Players | 2/8 |
-| Host Name | The Unofficial Antonio Nigatori |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:04:21 |
 
 
 |  | epic_boss_fight_nightmare |
