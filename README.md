@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309440950609 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Saito; |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:25:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309440663507 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | MOther fucker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:24:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309429549886 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 恶魔震动 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:04:28 |
@@ -31,56 +31,83 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309440836177 |
-| Players | 6/8 |
-| Host Name | Rousseau |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:25:16 |
+| Lobby ID | 28595309441744114 |
+| Players | 1/8 |
+| Host Name | Borealis |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:26:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309440526582 |
-| Players | 1/10 |
-| Host Name | молоденькая |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:24:41 |
+| Lobby ID | 28595309441366786 |
+| Players | 10/24 |
+| Host Name | SuperChef |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 10:26:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309441041423 |
-| Players | 7/15 |
-| Host Name | Arcade Gannon Forever |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:25:39 |
+| Lobby ID | 28595309441562962 |
+| Players | 1/15 |
+| Host Name | Leon- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 10:26:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309441162642 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | k3yj1 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:25:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309441146212 |
-| Players | 4/10 |
-| Host Name | kaizer |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:25:50 |
+| Lobby ID | 28595309441358426 |
+| Players | 15/24 |
+| Host Name | MiKchero |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:26:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309441269600 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | уебачо |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:26:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309441366008 |
+| Players | 6/10 |
+| Host Name | El abuelo |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:26:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309441682594 |
+| Players | 5/10 |
+| Host Name | ТЕРМИТ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:26:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309441767120 |
+| Players | 2/15 |
+| Host Name | 10 de mmr |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:27:00 |
 
 
 |  | epic_boss_fight_hard |
@@ -94,19 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309436838978 |
-| Players | 9/10 |
-| Host Name | Genesis-Exodus |
+| Lobby ID | 28595309441487931 |
+| Players | 2/10 |
+| Host Name | Himothy |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:17:54 |
+| Lobby Creation Time | Sunday, January 7, 2024 10:26:28 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309441282871 |
-| Players | 1/5 |
-| Host Name | ✪Lightning♥ |
+| Lobby ID | 28595309441508398 |
+| Players | 1/10 |
+| Host Name | 4 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:26:05 |
+| Lobby Creation Time | Sunday, January 7, 2024 10:26:31 |
 
 
