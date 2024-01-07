@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309423343525 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | TOGA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:53:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309422073334 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:50:41 |
@@ -50,28 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309422530379 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Alfrood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:51:32 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309423958677 |
-| Players | 4/8 |
-| Host Name | Kazhan |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:54:11 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309423960348 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | БУМБАС КОЛБАС |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:54:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309424015109 |
+| Players | 2/15 |
+| Host Name | Goose! |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 09:54:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309424066368 |
+| Players | 1/8 |
+| Host Name | Yoku |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:54:22 |
 
 
 |  | epic_boss_fight_nightmare |
