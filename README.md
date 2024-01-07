@@ -20,40 +20,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:30:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310150061616 |
-| Players | 1/15 |
-| Host Name | 约翰 伊迪 |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 23:40:40 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310149926410 |
-| Players | 2/8 |
-| Host Name | ｄｒａｊｅｒ |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 23:40:33 |
+| Lobby ID | 28595310150238408 |
+| Players | 5/8 |
+| Host Name | Свидетель Зиговы |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 23:40:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310150349322 |
+| Players | 6/10 |
+| Host Name | BluiaKA |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:40:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310142117246 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | 20 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:33:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310149918058 |
-| Players | 9/10 |
-| Host Name | 0 to 1 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:40:32 |
+| Lobby ID | 28595310148830524 |
+| Players | 15/24 |
+| Host Name | Mirage- |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 23:39:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,40 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:39:01 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310150238408 |
-| Players | 8/8 |
-| Host Name | megatron699 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 23:40:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310148780992 |
-| Players | 9/10 |
-| Host Name | ŧiмøη |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 23:39:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310148830524 |
-| Players | 14/24 |
-| Host Name | Mirage- |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 23:39:29 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310150015678 |
-| Players | 15/15 |
-| Host Name | Яблочко |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:40:38 |
+| Lobby ID | 28595310150360202 |
+| Players | 8/15 |
+| Host Name | Тренер по minecraft |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:40:58 |
 
 
 |  | epic_boss_fight_normal |
