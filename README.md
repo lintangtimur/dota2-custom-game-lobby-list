@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310223715945 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Ganzo :v |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:50:50 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:51:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310223533908 |
-| Players | 3/8 |
-| Host Name | shkibidi toilet |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 00:50:39 |
+| Lobby ID | 28595310224195190 |
+| Players | 5/24 |
+| Host Name | focusbtw |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 00:51:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310222295056 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | XIII |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 00:49:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310223688121 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | ЇBASH |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 00:50:48 |
@@ -83,51 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:51:18 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310222371542 |
-| Players | 9/10 |
-| Host Name | Владимир |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 00:49:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310223799977 |
-| Players | 14/15 |
-| Host Name | Swanky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:50:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310223858547 |
-| Players | 2/8 |
-| Host Name | ｄｒａｊｅｒ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:50:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310224195190 |
-| Players | 4/24 |
-| Host Name | focusbtw |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:51:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310223412501 |
-| Players | 9/10 |
-| Host Name | 12321 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:50:32 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310224184537 |
@@ -140,10 +95,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310224219831 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | OBAMNA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 00:51:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310223858547 |
+| Players | 2/8 |
+| Host Name | ｄｒａｊｅｒ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:50:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310224362778 |
+| Players | 1/8 |
+| Host Name | NON [Q] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:51:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310224367951 |
+| Players | 2/10 |
+| Host Name | Nio |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 8, 2024 00:51:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310223799977 |
+| Players | 13/15 |
+| Host Name | Swanky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:50:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -176,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310219495396 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Justers.Ex_Nihilo |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:46:44 |
