@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309436815511 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | El duderino |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309437509330 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | in my asia era |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:19:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309436944124 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | HellCast |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:18:06 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 阳光猛烈 摆鬼夜行 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:19:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309438050564 |
+| Players | 1/15 |
+| Host Name | Alexsei Mihajlovich |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:20:08 |
 
 
 |  | epic_boss_fight_nightmare |
