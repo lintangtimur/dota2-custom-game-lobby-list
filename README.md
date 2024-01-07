@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309518789462 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Movistar Perú Oficial |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:42:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309518017736 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Tioshadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:41:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309515615503 |
-| Players | 11/24 |
+| Players | 9/24 |
 | Host Name | Jasmine |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:37:04 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309518077321 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | El gatito erotico |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:41:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309517048275 |
-| Players | 13/15 |
-| Host Name | Hairam123 |
+| Lobby ID | 28595309519222492 |
+| Players | 1/10 |
+| Host Name | Whoim |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:39:30 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:43:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309517970624 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 8llllllllllD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:41:01 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309519227627 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Sombra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:43:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309519222492 |
-| Players | 1/10 |
-| Host Name | Whoim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:43:05 |
+| Lobby ID | 28595309519379334 |
+| Players | 1/15 |
+| Host Name | Vanilla |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:43:21 |
 
 
 |  | epic_boss_fight_nightmare |
