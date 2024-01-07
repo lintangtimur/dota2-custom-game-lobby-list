@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309853780931 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Aylardex Vlael |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:33:57 |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:32:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309854635186 |
-| Players | 6/10 |
-| Host Name | ASD |
+| Lobby ID | 28595309854814505 |
+| Players | 2/8 |
+| Host Name | vojtec |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:34:42 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:34:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309854415947 |
-| Players | 2/10 |
-| Host Name | АГЕНТ ШРЭК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:34:30 |
+| Lobby ID | 28595309855211677 |
+| Players | 12/15 |
+| Host Name | AlteHex |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:35:11 |
 
 
 |  | ot3_gardens_duo |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | masu nguyen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:35:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309854814505 |
-| Players | 2/8 |
-| Host Name | vojtec |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:34:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309855211677 |
-| Players | 8/15 |
-| Host Name | AlteHex |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:35:11 |
 
 
 |  | epic_boss_fight_challenger |
