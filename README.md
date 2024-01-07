@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309391706600 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | hehe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:53:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309389980819 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | DUDE WTH.嘟兜酱仆 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:50:20 |
@@ -74,30 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:53:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309391825325 |
-| Players | 7/8 |
-| Host Name | ------------ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:53:44 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309391957577 |
-| Players | 7/15 |
-| Host Name | 999999999 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:53:59 |
+| Lobby ID | 28595309392167242 |
+| Players | 8/15 |
+| Host Name | Marshall (The Kid) Eriksen |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:54:23 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309392098683 |
+| Lobby ID | 28595309392215007 |
 | Players | 1/5 |
 | Host Name | L'enfer |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:54:15 |
+| Lobby Creation Time | Sunday, January 7, 2024 08:54:28 |
 
 
