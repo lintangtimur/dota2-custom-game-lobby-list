@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309510935836 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Учиха Саске |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:29:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309510190657 |
-| Players | 12/15 |
+| Players | 10/15 |
 | Host Name | Slunthy |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309498451271 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | AVENA 3 URSITAS |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:08:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309510353377 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Crusty Crap |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:26 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309511041642 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Kak_TaK? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:29:35 |
