@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310081158588 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | 76561198094039879 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:39:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310085065038 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | кинь в меня игнайт |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 22:42:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310079079382 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | NapoleonTD |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 22:37:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310083020290 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | huh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:40:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310085012027 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | ko3a4ek |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:42:42 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310083860576 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Caio |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 22:41:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310083424732 |
+| Players | 23/24 |
+| Host Name | KING |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:41:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310085282093 |
+| Players | 1/8 |
+| Host Name | ソルトダック |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:42:56 |
 
 
 |  | epic_boss_fight_nightmare |
