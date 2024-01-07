@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309757439468 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | L'Amour Les Baguettes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:59:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309755535357 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Wambologe |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:57:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309758537292 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Djuzepe |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:00:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309758544872 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 四代目火影 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:00:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309758595960 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | VDHNV |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:01:02 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309758698459 |
-| Players | 1/5 |
+| Lobby ID | 28595309758873403 |
+| Players | 2/5 |
 | Host Name | Johny |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:01:08 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:01:20 |
 
 
