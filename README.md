@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309460678074 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | cb |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:01:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309459647695 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Gram |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459701825 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309459986159 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Bloodscourge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309460723213 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Nanachi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:01:56 |
@@ -94,20 +94,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309461595087 |
-| Players | 1/8 |
-| Host Name | Handjob of Midas |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:03:29 |
+| Lobby ID | 28595309461748979 |
+| Players | 7/8 |
+| Host Name | NOÉ |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 11:03:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309461817731 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Möll LaCroix AnG|-| 3 |_0 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:03:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309461962835 |
+| Players | 1/8 |
+| Host Name | NO name |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 11:04:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309461965207 |
+| Players | 1/24 |
+| Host Name | Jinoky |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:04:09 |
 
 
 |  | epic_boss_fight_nightmare |
