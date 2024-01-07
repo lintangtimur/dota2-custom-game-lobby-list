@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310225147153 |
-| Players | 3/8 |
-| Host Name | Legarka |
+| Lobby ID | 28595310230216249 |
+| Players | 6/8 |
+| Host Name | he will win |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:52:14 |
+| Lobby Creation Time | Monday, January 8, 2024 00:57:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310230107168 |
-| Players | 5/15 |
-| Host Name | Epdeh |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:57:03 |
+| Lobby ID | 28595310230214879 |
+| Players | 1/15 |
+| Host Name | 一花一世界 |
+| Region | Unknown |
+| Lobby Creation Time | Monday, January 8, 2024 00:57:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310229977706 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Monday, January 8, 2024 00:56:55 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310230022675 |
-| Players | 8/10 |
-| Host Name | Шалушай |
+| Lobby ID | 28595310230350733 |
+| Players | 4/10 |
+| Host Name | . |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:56:58 |
+| Lobby Creation Time | Monday, January 8, 2024 00:57:17 |
 
 
 |  | ot3_gardens_duo |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310229865307 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Gerardoooo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:56:49 |
@@ -146,21 +146,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:57:06 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310230197033 |
+| Players | 6/15 |
+| Host Name | sarfentas |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 00:57:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310230177642 |
+| Players | 1/24 |
+| Host Name | LazyTurtle- |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 00:57:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310224562143 |
+| Players | 20/24 |
+| Host Name | 「 」 |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 00:51:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310230347127 |
+| Players | 1/8 |
+| Host Name | Тайлер Дерден |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 00:57:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310224117490 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Jetts |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 00:51:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310230174294 |
-| Players | 1/10 |
-| Host Name | DYPLO |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 00:57:07 |
 
 
