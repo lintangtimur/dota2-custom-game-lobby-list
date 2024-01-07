@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309351786386 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Agua |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:37:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309355924070 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | GG |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:44:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309352877333 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Dr. Gonzo |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:39:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309355998722 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:45:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309356304994 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Lюδλю ¢ßѻю ʍάλыώķ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:45:41 |
@@ -99,6 +99,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Boris Britva (Unofficial) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:44:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309356477180 |
+| Players | 1/24 |
+| Host Name | MONO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:46:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309356510658 |
+| Players | 6/8 |
+| Host Name | лакшери ребенок |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:46:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309356520782 |
+| Players | 4/8 |
+| Host Name | ☠︎Libe☠ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:46:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309356542989 |
+| Players | 1/8 |
+| Host Name | Пиво реарм пиво |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:46:07 |
 
 
 |  | epic_boss_fight_nightmare |
