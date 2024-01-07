@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:08:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309714372503 |
-| Players | 23/24 |
-| Host Name | TorontoLadprao |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:08:44 |
+| Lobby ID | 28595309715436606 |
+| Players | 1/8 |
+| Host Name | D-Bill |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:10:06 |
 
 
 |  | ot3_gardens_duo |
