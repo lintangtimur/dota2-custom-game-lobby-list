@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309892876407 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 20:06:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309899893168 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | АХАХАХАХАХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:12:18 |
@@ -32,64 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309873477496 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 19:50:41 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309900265546 |
+| Players | 9/15 |
+| Host Name | LARVELL JONES |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:12:36 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309898418382 |
-| Players | 17/24 |
-| Host Name | C.C. Lemon |
+| Lobby ID | 28595309900408394 |
+| Players | 2/24 |
+| Host Name | KomtingKons |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:11:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309899159352 |
-| Players | 7/8 |
-| Host Name | Брюква |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:11:42 |
+| Lobby Creation Time | Sunday, January 7, 2024 20:12:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309898803168 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Aylardex Vlael |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:11:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309899158092 |
-| Players | 12/15 |
-| Host Name | Fufa's poison |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:11:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309900190098 |
-| Players | 2/10 |
-| Host Name | uselessuselessuselessuseless |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:12:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309900265546 |
-| Players | 3/15 |
-| Host Name | LARVELL JONES |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:12:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309899274961 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ｈｉｋｉツ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:11:47 |
@@ -112,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309900021482 |
+| Lobby ID | 28595309900893847 |
 | Players | 2/10 |
 | Host Name | sauciucromulus1 |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:12:24 |
+| Lobby Creation Time | Sunday, January 7, 2024 20:13:07 |
 
 
