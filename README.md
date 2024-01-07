@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309892702088 |
-| Players | 4/8 |
-| Host Name | Panda |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:06:25 |
+| Lobby ID | 28595309891928158 |
+| Players | 8/10 |
+| Host Name | сильный как русск |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 20:05:47 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309889900687 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 辣鸡 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:04:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309892976648 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Отшит Кощеем |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:06:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309892876407 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 20:06:33 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309892885493 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | pompa pis'ka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:06:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309891928158 |
-| Players | 8/10 |
-| Host Name | сильный как русск |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 20:05:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DYPLO |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:58:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309893311897 |
+| Players | 1/5 |
+| Host Name | AthenA |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 20:06:54 |
 
 
