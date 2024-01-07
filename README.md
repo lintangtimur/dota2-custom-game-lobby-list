@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309409238996 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Замир Безгеев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:26:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309408669450 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | big boost |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:25:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309406640651 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:21:43 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309409122982 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Shedu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:26:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309408427860 |
-| Players | 10/15 |
-| Host Name | el rey del porno |
+| Lobby ID | 28595309409430762 |
+| Players | 4/8 |
+| Host Name | danye west |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 09:25:09 |
+| Lobby Creation Time | Sunday, January 7, 2024 09:27:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ꦧꦸꦱꦸꦁꦭꦥꦂ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:21:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309409407274 |
+| Players | 1/5 |
+| Host Name | Masamorra Moradara |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:27:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309409419864 |
+| Players | 1/5 |
+| Host Name | GreenApple |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:27:03 |
 
 
