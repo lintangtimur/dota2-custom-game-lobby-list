@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309548057938 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | BR@ND |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:27:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309543124225 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ae-in |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:20:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309547416342 |
-| Players | 7/10 |
-| Host Name | ego trippin' |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:26:59 |
+| Lobby ID | 28595309549219442 |
+| Players | 1/10 |
+| Host Name | JerryLee |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:29:40 |
 
 
 |  | ot3_desert_octet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309548778400 |
-| Players | 6/15 |
-| Host Name | andreyvinogradoff |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:29:01 |
+| Lobby ID | 28595309549190148 |
+| Players | 2/15 |
+| Host Name | Papi Champaño |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:29:38 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:28:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309547694179 |
-| Players | 9/10 |
-| Host Name | Grupo 5 |
+| Lobby ID | 28595309548920048 |
+| Players | 7/8 |
+| Host Name | preñador de paisanas |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:27:24 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:29:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309548647105 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Leekholic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:28:49 |
@@ -103,64 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309548220988 |
+| Lobby ID | 28595309549281677 |
 | Players | 1/8 |
-| Host Name | DJ_VODNIK |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:28:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309548615348 |
-| Players | 20/24 |
-| Host Name | x |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:28:47 |
+| Host Name | die to live |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 13:29:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309548920048 |
-| Players | 5/8 |
-| Host Name | preñador de paisanas |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:29:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309549010729 |
-| Players | 2/15 |
-| Host Name | Perfecto |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:29:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309549034861 |
-| Players | 4/15 |
-| Host Name | Salasta |
+| Lobby ID | 28595309549408405 |
+| Players | 1/8 |
+| Host Name | Parazittus |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:29:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309549039654 |
-| Players | 1/5 |
-| Host Name | Madara Uchiha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:29:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309545901214 |
-| Players | 9/10 |
-| Host Name | Raynuva |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:24:44 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:29:57 |
 
 
