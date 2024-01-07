@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309476860613 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Jugger Jake |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:30:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309476102678 |
-| Players | 14/24 |
+| Players | 12/24 |
 | Host Name | BISCUIT OLIVA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:29:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309476677627 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Bedlam |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:30:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309475945549 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | 宝哥哥 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:29:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309476335751 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ZEO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:29:43 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:30:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309477092783 |
-| Players | 5/8 |
-| Host Name | Yoluis |
+| Lobby ID | 28595309477174027 |
+| Players | 1/15 |
+| Host Name | SUD. FITOFITO |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:31:04 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:31:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309477194100 |
+| Players | 2/10 |
+| Host Name | JHON EL SALCHICHON WICK |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:31:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | РоланДеМорт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:29:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309477128701 |
+| Players | 1/5 |
+| Host Name | Shadow Creep |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:31:08 |
 
 
