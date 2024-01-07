@@ -49,29 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309661647680 |
-| Players | 9/10 |
-| Host Name | Геннадий Треев |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:02:13 |
+| Lobby ID | 28595309663315680 |
+| Players | 2/10 |
+| Host Name | xTrane |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:04:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309663009496 |
-| Players | 2/15 |
+| Players | 13/15 |
 | Host Name | hydroforce |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:03:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309663199399 |
-| Players | 1/10 |
-| Host Name | xTrane |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:04:08 |
 
 
 |  | epic_boss_fight_nightmare |
