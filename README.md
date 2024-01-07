@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309406103346 |
-| Players | 23/24 |
-| Host Name | Giovanni |
+| Lobby ID | 28595309421216586 |
+| Players | 6/10 |
+| Host Name | nima |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:20:43 |
+| Lobby Creation Time | Sunday, January 7, 2024 09:49:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309420980608 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | braynerjash |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:48:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309418676117 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 福 fergieツ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:44:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309419251048 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Average Saiyan |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:45:27 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309421129039 |
-| Players | 2/24 |
-| Host Name | PIPHELS |
+| Players | 1/24 |
+| Host Name | paiN |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:48:55 |
 
@@ -50,10 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309421144246 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Melancholy & Apathy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:48:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309421202310 |
+| Players | 1/10 |
+| Host Name | AxuJlec |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 09:49:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309421202468 |
+| Players | 2/15 |
+| Host Name | cr7_100 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:49:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309421280302 |
+| Players | 2/10 |
+| Host Name | novak |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 09:49:11 |
 
 
 |  | epic_boss_fight_nightmare |
