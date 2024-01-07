@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309494314404 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | SameShit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:01:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309493841790 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | liluriena |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:00:28 |
@@ -31,35 +31,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309494477943 |
-| Players | 5/10 |
+| Lobby ID | 28595309495164158 |
+| Players | 7/10 |
 | Host Name | !! |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:01:34 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:02:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309486195715 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Riff |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:47:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309494261385 |
-| Players | 12/15 |
-| Host Name | -Zpam- |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:01:12 |
+| Lobby ID | 28595309495107236 |
+| Players | 3/10 |
+| Host Name | < blank > |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:02:37 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309493878542 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Chunchunmaru |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:00:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309492078636 |
-| Players | 16/24 |
+| Players | 14/24 |
 | Host Name | 8llllllllllD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:57:24 |
@@ -94,35 +94,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309494087345 |
-| Players | 22/24 |
-| Host Name | ♣«L­­»evi♣ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:00:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309494430310 |
-| Players | 5/8 |
-| Host Name | prime miracle |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:01:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309494119392 |
-| Players | 8/10 |
-| Host Name | The Lagmeister |
+| Lobby ID | 28595309495062259 |
+| Players | 2/24 |
+| Host Name | Ask the magic conch shell |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:00:57 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:02:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309494887336 |
+| Players | 10/15 |
+| Host Name | Kaioh Retsu |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:02:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309495082258 |
+| Players | 7/15 |
+| Host Name | kei' |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:02:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309491498458 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Movistar Perú Oficial |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:56:23 |
@@ -130,17 +130,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309494887336 |
-| Players | 2/15 |
-| Host Name | Kaioh Retsu |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:02:15 |
+| Lobby ID | 28595309495165682 |
+| Players | 10/15 |
+| Host Name | Rofl Chick-Fil-A Copter |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:02:43 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309494546405 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Frieren <3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:01:41 |
