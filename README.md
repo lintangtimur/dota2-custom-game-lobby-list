@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309517215672 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Buxan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:39:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309516306455 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:38:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309515615503 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Jasmine |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:37:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309517445068 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Shipibo enamorado |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:40:09 |
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:39:30 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309517860848 |
+| Players | 2/8 |
+| Host Name | Murió EG, ahora fan de Wisper |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:40:51 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309514366626 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 好线 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:35:02 |
