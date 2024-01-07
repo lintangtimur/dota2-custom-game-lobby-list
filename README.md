@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309426724776 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | tavo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:59:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309426125083 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | FULL PMA MODe/allmuted |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:58:10 |
@@ -50,16 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309424327041 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Charles |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 09:54:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309427182280 |
+| Players | 1/8 |
+| Host Name | Te hago el amor con teclas |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:00:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309424821875 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:55:46 |
