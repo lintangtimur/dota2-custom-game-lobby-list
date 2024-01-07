@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310002301935 |
-| Players | 4/8 |
-| Host Name | ЧВК "Урна" |
+| Lobby ID | 28595310002186952 |
+| Players | 2/8 |
+| Host Name | furryON |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:33:33 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:33:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309996435683 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | BISCUIT OLIVA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:28:49 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310001619816 |
-| Players | 7/10 |
-| Host Name | Jet |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 21:33:01 |
+| Lobby ID | 28595310002823614 |
+| Players | 4/10 |
+| Host Name | QUZZULLQUURT |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:33:58 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309996922553 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Gah |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 21:29:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310001808028 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | whatever |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:33:09 |
@@ -103,64 +103,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310002222099 |
-| Players | 4/8 |
-| Host Name | Plethora_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:33:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310002186952 |
-| Players | 2/8 |
-| Host Name | furryON |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:33:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310002733158 |
-| Players | 3/8 |
-| Host Name | wEb |
+| Lobby ID | 28595310002887822 |
+| Players | 5/8 |
+| Host Name | Weakest Femboy |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:33:54 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:34:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310000061315 |
-| Players | 3/5 |
-| Host Name | Ow0 |
+| Lobby ID | 28595310002902071 |
+| Players | 2/10 |
+| Host Name | Eimern Abdallah |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:34:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310001534388 |
+| Players | 14/15 |
+| Host Name | Krup_@ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:31:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310000522455 |
-| Players | 4/10 |
-| Host Name | Hiraeth |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:32:07 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595310001711063 |
-| Players | 1/7 |
-| Host Name | Firefly |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:33:05 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:32:56 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310002450132 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Terkott |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:33:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310000522455 |
+| Players | 5/10 |
+| Host Name | Hiraeth |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:32:07 |
 
 
