@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:51:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309528726406 |
-| Players | 13/15 |
-| Host Name | pohui |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:58:28 |
+| Lobby ID | 28595309529739243 |
+| Players | 6/8 |
+| Host Name | de_dota2 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:00:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309528623474 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Joker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:58:18 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309529012213 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | JerryLee |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:58:54 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:59:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309529739243 |
-| Players | 6/8 |
-| Host Name | de_dota2 |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:00:02 |
+| Lobby ID | 28595309529940548 |
+| Players | 3/15 |
+| Host Name | NERF 5AFRA3 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:00:20 |
 
 
 |  | epic_boss_fight_nightmare |
