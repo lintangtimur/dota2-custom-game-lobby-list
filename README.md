@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309519263517 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Starboy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:43:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309522974327 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:49:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309521128256 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | A.XVI_973 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:46:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309515615503 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Cro-Magnum |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:37:04 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309521991748 |
-| Players | 5/8 |
-| Host Name | bN |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:47:36 |
+| Lobby ID | 28595309523510887 |
+| Players | 2/8 |
+| Host Name | Krypton |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:50:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309521297654 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | NOSEEEEE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:46:28 |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309523089603 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Bubblicious |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:49:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309523253454 |
+| Players | 7/8 |
+| Host Name | SameShit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:49:36 |
 
 
 |  | epic_boss_fight_nightmare |
