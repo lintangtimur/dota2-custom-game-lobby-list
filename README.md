@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309805956727 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | KNightMare |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:50:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309807294849 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 操你妈 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:51:54 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309808434460 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | //snowflake |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:52:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309808537256 |
+| Players | 11/15 |
+| Host Name | Secura^Madara |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:53:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309808565712 |
+| Players | 6/8 |
+| Host Name | За окном rain на душ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:53:06 |
 
 
 |  | epic_boss_fight_nightmare |
