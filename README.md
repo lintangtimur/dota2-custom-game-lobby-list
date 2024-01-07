@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309492649336 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Baki Win |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:58:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309491159462 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:55:47 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309486195715 |
-| Players | 6/15 |
-| Host Name | FakeKaizumi |
+| Players | 8/15 |
+| Host Name | Riff |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:47:04 |
 
@@ -68,46 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309481847914 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Tomato Jones |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:39:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309490323394 |
-| Players | 14/15 |
-| Host Name | Nothing Breaks Like a Heart 😐 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:54:19 |
+| Lobby ID | 28595309492078636 |
+| Players | 6/24 |
+| Host Name | 8llllllllllD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:57:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309492271940 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:57:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309493051005 |
-| Players | 1/15 |
-| Host Name | Dismantle- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:59:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309492078636 |
-| Players | 7/24 |
-| Host Name | 8llllllllllD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:57:24 |
 
 
 |  | epic_boss_fight_challenger |
@@ -126,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Farewell, My paradise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:58:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309493499691 |
+| Players | 1/5 |
+| Host Name | 特强海狗丸 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:59:53 |
 
 
