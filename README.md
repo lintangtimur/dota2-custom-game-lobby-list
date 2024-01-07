@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309948294946 |
-| Players | 12/15 |
-| Host Name | PHoenix Q |
+| Lobby ID | 28595309948647745 |
+| Players | 6/8 |
+| Host Name | clean manager |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:50:47 |
+| Lobby Creation Time | Sunday, January 7, 2024 20:51:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 20:48:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309947812130 |
-| Players | 19/24 |
-| Host Name | squirrel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:50:24 |
+| Lobby ID | 28595309948710984 |
+| Players | 14/15 |
+| Host Name | АТАКУЭЙШН |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:51:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309947611596 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Kanki |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309945472468 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Superviviente de la chocolatada3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 20:48:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309948368116 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | -батя вчлене |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:51 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309948600300 |
-| Players | 3/24 |
-| Host Name | Encik Velu |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 20:51:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309948647745 |
-| Players | 1/8 |
-| Host Name | падж 5-ка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:51:04 |
 
 
 |  | epic_boss_fight_nightmare |
