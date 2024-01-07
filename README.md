@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309502331338 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | TU VIEJA LA KCHERA |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:15:08 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309481847914 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Tomato Jones |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:39:29 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309501641549 |
-| Players | 1/15 |
-| Host Name | СОСИТЕСЬ ДУРЫ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:13:56 |
+| Lobby ID | 28595309503092418 |
+| Players | 1/8 |
+| Host Name | Pablo cavazos  雨- |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:16:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309502350141 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | part time gamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:15:09 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rameezy_ |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:16:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309500614754 |
-| Players | 23/24 |
-| Host Name | RHLM |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:12:12 |
 
 
 |  | epic_boss_fight_nightmare |
