@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309488931381 |
-| Players | 10/15 |
-| Host Name | ʞин иʎхɐн |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:51:52 |
+| Lobby ID | 28595309489600144 |
+| Players | 4/24 |
+| Host Name | F̴̛̜̥̼̭̫͇͖̱̘̩̯͕̅̂̎͒̍͛̃͂́͊͜B̷̼̉̈́̓ |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:53:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309489212852 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:52:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309489069304 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | swap commends |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:52:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309488793195 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | C.C. Lemon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:51:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309486067090 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:46:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309481847914 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Tomato Jones |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:39:29 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309488229871 |
-| Players | 14/15 |
-| Host Name | Coconut Head |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:50:37 |
+| Lobby ID | 28595309489702416 |
+| Players | 2/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:53:14 |
 
 
 |  | epic_boss_fight_nightmare |
