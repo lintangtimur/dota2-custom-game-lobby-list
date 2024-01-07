@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309620383881 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:09:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309628358013 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | SKIBIDI DOB DOB DOB YES YES |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:19:43 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:19:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309629709600 |
-| Players | 2/10 |
-| Host Name | Ssi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:21:27 |
+| Lobby ID | 28595309629900158 |
+| Players | 2/24 |
+| Host Name | Dendi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:21:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309629793892 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Dexter Morgan |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:21:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309629799240 |
-| Players | 7/15 |
-| Host Name | Mr. Scrop's |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:21:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,21 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:21:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309629900158 |
-| Players | 2/24 |
-| Host Name | Dendi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:21:42 |
+| Lobby ID | 28595309630041170 |
+| Players | 2/10 |
+| Host Name | Ssi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:21:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309628428388 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Oz. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:19:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309629945281 |
+| Players | 1/5 |
+| Host Name | Razvedos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:21:45 |
 
 
