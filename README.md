@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:40:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309598220703 |
-| Players | 1/10 |
-| Host Name | Nemedii |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, January 7, 2024 14:39:56 |
+| Lobby ID | 28595309599426318 |
+| Players | 1/24 |
+| Host Name | Novato Prime |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 14:41:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309596066990 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:36:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309598634886 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | akigarsu |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:40:30 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:40:29 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28595309598883465 |
-| Players | 1/5 |
-| Host Name | NicC |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:40:50 |
+| Lobby ID | 28595309599506010 |
+| Players | 1/7 |
+| Host Name | Wakeup/reality |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:41:40 |
 
 
