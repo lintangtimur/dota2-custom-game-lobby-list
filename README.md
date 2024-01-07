@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309759557319 |
-| Players | 4/8 |
-| Host Name | Кирюш турбо хрюш |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:02:05 |
+| Lobby ID | 28595309759256267 |
+| Players | 8/10 |
+| Host Name | Papi Culo |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:01:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309757439468 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | L'Amour Les Baguettes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:59:44 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309755535357 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Wambologe |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:57:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309759256267 |
-| Players | 7/10 |
-| Host Name | Papi Culo |
+| Lobby ID | 28595309759585155 |
+| Players | 2/8 |
+| Host Name | positive vibes' |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:01:45 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:02:07 |
 
 
 |  | epic_boss_fight_hard |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309759347008 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Naga is Ovraga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:01:51 |
