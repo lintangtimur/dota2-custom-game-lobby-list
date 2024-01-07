@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309429156290 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:03:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309428395343 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | ESTE ARCONTE NO CARREA NADA ZZZ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:02:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309428788904 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:03:04 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309428923589 |
-| Players | 9/10 |
-| Host Name | _Ferxxo_ |
+| Lobby ID | 28595309429320228 |
+| Players | 1/15 |
+| Host Name | Saito; |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:03:19 |
+| Lobby Creation Time | Sunday, January 7, 2024 10:04:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309427198234 |
-| Players | 7/8 |
-| Host Name | БлАтНоЙ ПеТуХ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:00:09 |
+| Lobby ID | 28595309429261910 |
+| Players | 2/8 |
+| Host Name | Tributin ± |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:03:56 |
 
 
 |  | ot3_gardens_duo |
@@ -94,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309428131873 |
-| Players | 13/15 |
-| Host Name | Rover |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:01:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309429261910 |
-| Players | 1/8 |
-| Host Name | Tributin ± |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:03:56 |
+| Lobby ID | 28595309429339700 |
+| Players | 1/15 |
+| Host Name | hiro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 10:04:05 |
 
 
 |  | epic_boss_fight_nightmare |
