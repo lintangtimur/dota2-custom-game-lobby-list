@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:22:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309438657072 |
-| Players | 6/8 |
-| Host Name | Miking |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:21:14 |
+| Lobby ID | 28595309439573307 |
+| Players | 5/15 |
+| Host Name | lebanon don |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 10:22:56 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309439150375 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Lǐzǐ 1899 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:22:09 |
@@ -74,37 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:18:32 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309439546784 |
-| Players | 1/24 |
-| Host Name | A-3698 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Sunday, January 7, 2024 10:22:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309439581862 |
-| Players | 3/8 |
-| Host Name | blossom_orchid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:22:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309439573307 |
-| Players | 4/15 |
-| Host Name | lebanon don |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:22:56 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28595309436647248 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | NOUR |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:33 |
@@ -113,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309436838978 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 牙灭蝶 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:54 |
