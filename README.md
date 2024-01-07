@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309484291532 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Nanachi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:43:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309483146809 |
-| Players | 4/8 |
-| Host Name | Yordi infiel |
+| Lobby ID | 28595309484421971 |
+| Players | 1/15 |
+| Host Name | Love to Sneeze |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:41:49 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:44:02 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:43:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309482239059 |
-| Players | 18/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:40:12 |
+| Lobby ID | 28595309484587798 |
+| Players | 1/15 |
+| Host Name | madmang0 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:44:19 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309483364877 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Ask the magic conch shell |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:42:13 |
@@ -103,28 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309484421971 |
-| Players | 1/15 |
-| Host Name | Love to Sneeze |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:44:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309484587798 |
-| Players | 1/15 |
-| Host Name | madmang0 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:44:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309484614658 |
-| Players | 4/8 |
-| Host Name | Neredar |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:44:22 |
+| Lobby ID | 28595309484734665 |
+| Players | 6/15 |
+| Host Name | MasterCloud06 |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:44:34 |
 
 
