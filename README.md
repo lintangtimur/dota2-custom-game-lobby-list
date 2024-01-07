@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309508625346 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Sadness & Sorrow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309508625506 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | EL GOSU DE LOS ANDES |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309507964770 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | хлеб |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:24:26 |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309508590555 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | piopio |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:28 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309508895254 |
+| Players | 1/15 |
+| Host Name | I KNOW mami |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:25:59 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309506825253 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | kymhnju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:22:34 |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309508965494 |
+| Players | 1/5 |
+| Host Name | yape 957413729 para ganar |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:26:06 |
 
 
