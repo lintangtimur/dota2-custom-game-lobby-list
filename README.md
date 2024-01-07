@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309882703190 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | papa.elf |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 19:58:18 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309883568878 |
-| Players | 6/8 |
-| Host Name | ПРИГОЖИН ЖЕНЯ |
+| Lobby ID | 28595309883968818 |
+| Players | 1/8 |
+| Host Name | RuIna |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:59:00 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:59:19 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309883345531 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | AKKAR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:58:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309883975419 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | где я? |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:59:20 |
@@ -67,11 +67,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309883968818 |
+| Lobby ID | 28595309884110548 |
 | Players | 1/8 |
-| Host Name | RuIna |
+| Host Name | Ya toy viejo! |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 19:59:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309884170858 |
+| Players | 5/8 |
+| Host Name | Я К ХУЯМ ПРОКЛЯТ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:59:19 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:59:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309884186100 |
+| Players | 2/10 |
+| Host Name | я ПАНК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:59:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309884231229 |
+| Players | 1/10 |
+| Host Name | tratimov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:59:32 |
 
 
 |  | epic_boss_fight_nightmare |
