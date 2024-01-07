@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309937977547 |
+| Lobby ID | 28595309938301839 |
 | Players | 9/10 |
-| Host Name | 🗼 🗾 🌀 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:42:41 |
+| Host Name | Mori [MuryOKushO] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:42:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309935626774 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Aether |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:40:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309938547455 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | 7/11 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:43:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309938130033 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | задоджил аборт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:42:48 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309938301839 |
-| Players | 6/10 |
-| Host Name | Mori [MuryOKushO] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:42:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309938574223 |
-| Players | 1/8 |
-| Host Name | ¶Tþâ฿ķα |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:43:09 |
+| Lobby ID | 28595309938700672 |
+| Players | 2/10 |
+| Host Name | xVisuals |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:43:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,9 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309937487996 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | кутакбас |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:42:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309938826018 |
+| Players | 2/5 |
+| Host Name | Печенька |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:43:20 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309938846439 |
+| Players | 1/7 |
+| Host Name | АЮ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:43:21 |
 
 
