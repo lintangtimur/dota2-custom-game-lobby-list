@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309892876407 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 20:06:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309896424980 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | ҉M,҉N҉,҉F҉  © |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:09:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309892181711 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Buu |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:05:59 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309896543235 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | ПРИГОЖИН ЖЕНЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:09:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309895938025 |
-| Players | 22/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:09:02 |
+| Lobby ID | 28595309896521113 |
+| Players | 1/8 |
+| Host Name | 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1. |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:09:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309896566794 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Enjoy dota, enjoy |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:09:34 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309896467986 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | DO NOT DISTURB!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:09:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309896521113 |
-| Players | 1/8 |
-| Host Name | 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1. |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:09:31 |
+| Lobby ID | 28595309896115120 |
+| Players | 13/15 |
+| Host Name | Krico |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:09:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309894554427 |
+| Players | 9/10 |
+| Host Name | Lumberjack |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:07:54 |
 
 
 |  | epic_boss_fight_nightmare |
