@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309663944350 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | qwater |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:05:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309667887845 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | ! |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:10:08 |
@@ -49,18 +49,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309668624372 |
+| Lobby ID | 28595309668645935 |
 | Players | 1/8 |
-| Host Name | Прокат Дисков |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:11:05 |
+| Host Name | lokoespartano |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 16:11:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309665665945 |
-| Players | 8/10 |
-| Host Name | . |
+| Players | 7/10 |
+| Host Name | AgPeCoP |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 16:07:15 |
 
