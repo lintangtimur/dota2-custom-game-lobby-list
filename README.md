@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309507595023 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | BOSSJEM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:23:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309481847914 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Big prolem (nob) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:39:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309510190657 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Slunthy |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309510203011 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | [C]all_Me_[P].o.r |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309510295270 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | [Ni'Fi]KingKong |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309510242941 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | блондинка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309510353377 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Crusty Crap |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:26 |
