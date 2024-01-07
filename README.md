@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309407479746 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Blackbird |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:23:19 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:14:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309407915487 |
-| Players | 1/15 |
-| Host Name | •HardCore• |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:24:10 |
+| Lobby ID | 28595309408143911 |
+| Players | 4/10 |
+| Host Name | PELAGEYA_GRECHA_NAXYI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 09:24:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309406692978 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Baloo∟ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:21:49 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309408057343 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:24:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309406654503 |
+| Players | 5/8 |
+| Host Name | PENE  NEGRO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:21:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309408130302 |
+| Players | 1/10 |
+| Host Name | ~~RubRub~~ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:24:35 |
 
 
 |  | epic_boss_fight_nightmare |
