@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309436815511 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | El duderino |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:52 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309436741544 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Carizu:3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309437712402 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | swap commends |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:19:31 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309437879255 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | T R A S H B O A T |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:19:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309438196728 |
+| Players | 1/15 |
+| Host Name | Alexsei Mihajlovich |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:20:24 |
 
 
 |  | epic_boss_fight_nightmare |
