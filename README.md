@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309605045993 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:49:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309615878028 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | 🥚Little Egg :3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:03:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309618258320 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:06:45 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ackhu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:06:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309618242152 |
-| Players | 6/8 |
-| Host Name | BISAKOL SLAYER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:06:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309618385785 |
-| Players | 3/8 |
-| Host Name | Y_Tus_Skins? |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 15:06:55 |
 
 
 |  | epic_boss_fight_hard |
