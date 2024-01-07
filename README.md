@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309464861013 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | ICG.Winter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:09:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309466683261 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | StrangeBoy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:12:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309466262346 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | llegó la SUNAT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:11:54 |
@@ -85,20 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309466780657 |
-| Players | 3/8 |
-| Host Name | C@P_$COP€ |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:12:49 |
+| Lobby ID | 28595309467052933 |
+| Players | 5/8 |
+| Host Name | Itte |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:13:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309466966221 |
-| Players | 1/24 |
-| Host Name | 汪汪日记 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 11:13:09 |
+| Lobby ID | 28595309467060105 |
+| Players | 1/15 |
+| Host Name | ненавижу доту |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:13:19 |
 
 
 |  | epic_boss_fight_nightmare |
