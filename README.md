@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:02:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309614552921 |
-| Players | 13/15 |
-| Host Name | tice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:01:56 |
+| Lobby ID | 28595309615480488 |
+| Players | 3/10 |
+| Host Name | Mr. Esperman |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 15:03:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309614364246 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | east e |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:01:41 |
@@ -77,28 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309615396691 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | say_hay1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:03:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309615480488 |
-| Players | 2/10 |
-| Host Name | Mr. Esperman |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 15:03:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309614129589 |
-| Players | 4/5 |
-| Host Name | вичара с дейдалус |
+| Lobby ID | 28595309615806218 |
+| Players | 3/15 |
+| Host Name | ГОРШОКАНУСЯЩЕРИЦ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:01:23 |
+| Lobby Creation Time | Sunday, January 7, 2024 15:03:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309615807259 |
+| Players | 1/15 |
+| Host Name | obito |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:03:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309615816051 |
+| Players | 3/8 |
+| Host Name | blossom_orchid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:03:36 |
 
 
 |  | epic_boss_fight_challenger |
