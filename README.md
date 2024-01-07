@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309754873118 |
-| Players | 6/10 |
-| Host Name | BOYKA |
+| Players | 5/10 |
+| Host Name | play4fragg |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:55 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309755535357 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Wambologe |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:57:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309756388656 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | KaTheDirector |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 17:58:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309756302410 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | ITEMS DESTORYER |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:58:30 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:57:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309756183621 |
-| Players | 7/10 |
-| Host Name | 123 |
+| Lobby ID | 28595309756667129 |
+| Players | 1/15 |
+| Host Name | Anime шлюха |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:58:22 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:58:54 |
 
 
 |  | ot3_gardens_duo |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309756456225 |
-| Players | 7/15 |
-| Host Name | HOLO костя |
+| Lobby ID | 28595309756670092 |
+| Players | 6/15 |
+| Host Name | GUNDABAD |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:58:40 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:58:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309756691522 |
+| Players | 3/8 |
+| Host Name | Fatum |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:58:55 |
 
 
 |  | epic_boss_fight_challenger |
