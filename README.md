@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309784557375 |
-| Players | 3/15 |
-| Host Name | OopsyDaisy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:29:09 |
+| Lobby ID | 28595309785393749 |
+| Players | 6/15 |
+| Host Name | meme |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:30:00 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309782837140 |
-| Players | 6/8 |
-| Host Name | マグナス |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:27:22 |
+| Lobby ID | 28595309785241577 |
+| Players | 3/10 |
+| Host Name | < blank > |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:29:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -40,55 +40,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309782685677 |
-| Players | 18/24 |
-| Host Name | Swing or be Swung |
+| Lobby ID | 28595309785144963 |
+| Players | 4/24 |
+| Host Name | OopsyDaisy |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:27:13 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:29:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309785093091 |
+| Players | 7/24 |
+| Host Name | PanceZ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:29:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309783808133 |
+| Lobby ID | 28595309785341993 |
 | Players | 2/8 |
-| Host Name | folk1983 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:28:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309784503813 |
-| Players | 4/10 |
-| Host Name | Maks eblan ⛟ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:29:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309784527719 |
-| Players | 1/15 |
-| Host Name | Я поднимаю меч, только ради себя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:29:07 |
+| Host Name | Awe$ome.N0Tail |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 18:29:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309783672829 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | свиня джакузі |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:28:15 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309783657802 |
-| Players | 2/5 |
-| Host Name | ✪D1N |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:28:14 |
+| Lobby ID | 28595309784892928 |
+| Players | 7/10 |
+| Host Name | ManGIX |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:29:30 |
 
 
