@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309813199401 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Ouanny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:57:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309812914089 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Heyzi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:57:13 |
@@ -38,31 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:58:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309814398552 |
-| Players | 14/15 |
-| Host Name | CroCoDilDa |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:58:37 |
+| Lobby ID | 28595309814650398 |
+| Players | 7/10 |
+| Host Name | idgaf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:58:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309812875026 |
-| Players | 6/8 |
-| Host Name | damn bro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:57:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309814650398 |
-| Players | 5/10 |
-| Host Name | idgaf |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:58:52 |
+| Lobby ID | 28595309814937457 |
+| Players | 1/8 |
+| Host Name | block baby (all mute) |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:59:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, January 7, 2024 18:55:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309813401828 |
-| Players | 9/10 |
-| Host Name | sawita |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 18:57:41 |
 
 
