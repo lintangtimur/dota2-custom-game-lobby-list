@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309502714827 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | zzzzz |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:15:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309501347189 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:27 |
@@ -86,16 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309503181275 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Btoom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:16:34 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309503604181 |
+| Players | 4/15 |
+| Host Name | 5g |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:17:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309503660862 |
+| Players | 2/8 |
+| Host Name | VoOdoO-->>? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:17:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309499234461 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | 咬人猫 |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 12:09:46 |
