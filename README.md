@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309754873118 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | BOYKA |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309755535357 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Wambologe |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:57:40 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309754402278 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Hungry FOR Sassana PUSS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309755261678 |
-| Players | 5/8 |
-| Host Name | Какаш Каврот |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:57:21 |
+| Lobby ID | 28595309756136861 |
+| Players | 4/15 |
+| Host Name | Nexus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:58:19 |
 
 
 |  | ot3_desert_octet |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:57:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309755729450 |
-| Players | 11/15 |
-| Host Name | PAREN |
+| Lobby ID | 28595309756183621 |
+| Players | 2/10 |
+| Host Name | 123 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:57:53 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:58:22 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309754550763 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Attila |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:34 |
