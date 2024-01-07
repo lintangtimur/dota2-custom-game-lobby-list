@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309948410612 |
-| Players | 2/24 |
-| Host Name | ™Slim Shady® |
+| Players | 1/24 |
+| Host Name | Smiths |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:53 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309958388406 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Crunchypopo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:58:40 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 20:54:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309961638512 |
-| Players | 6/10 |
-| Host Name | 243.3213.312 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 21:01:16 |
+| Lobby ID | 28595309962510120 |
+| Players | 1/15 |
+| Host Name | SMADED |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:01:58 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309962056745 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Dionys- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:01:36 |
@@ -113,19 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309962472608 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ★Фантастика |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:01:56 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309962618160 |
+| Players | 4/10 |
+| Host Name | QTab |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:02:03 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309962510120 |
-| Players | 1/15 |
-| Host Name | SMADED |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:01:58 |
+| Lobby ID | 28595309956549893 |
+| Players | 14/15 |
+| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 20:57:13 |
 
 
 |  | epic_boss_fight_normal |
