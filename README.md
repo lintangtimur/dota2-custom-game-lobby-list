@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309870643121 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ДЕТРИГНУС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:48:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309869852962 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | KomtingKons |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 19:47:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309869315828 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Honks |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:47:14 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309870620296 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:48:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309870710735 |
-| Players | 13/15 |
-| Host Name | dizzy |
+| Lobby ID | 28595309870740909 |
+| Players | 6/8 |
+| Host Name | Easymoden |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:48:23 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:48:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -98,15 +98,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 4/15 |
 | Host Name | Aylardex Vlael |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:48:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309870740909 |
-| Players | 2/8 |
-| Host Name | Easymoden |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:48:24 |
 
 
