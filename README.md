@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309464476107 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Sakirious |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:08:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309464172354 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | prime malr1ne |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:08:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309464606450 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | lets_fight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:08:53 |
@@ -105,7 +105,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309465271143 |
 | Players | 2/24 |
-| Host Name | RuNaCoNPaTaS |
+| Host Name | BR@ND |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:10:07 |
 
