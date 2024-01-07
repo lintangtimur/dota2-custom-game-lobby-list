@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309696280140 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | BIM BIM BAM BAM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:45:45 |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:42:17 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309696529191 |
+| Players | 6/10 |
+| Host Name | Nimaiya Oetsu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:46:04 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309696522099 |
+| Lobby ID | 28595309696565359 |
 | Players | 1/8 |
 | Host Name | ....... |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:46:03 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:46:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309695436414 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ann☆ﾟ.*･｡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:44:42 |
