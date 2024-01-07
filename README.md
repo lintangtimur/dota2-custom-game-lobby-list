@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309767743199 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ਜ਼ਡੋਹ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:11:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309765158299 |
-| Players | 23/24 |
-| Host Name | AKKAR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:08:13 |
+| Lobby ID | 28595309768549483 |
+| Players | 1/15 |
+| Host Name | Touhou |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 18:12:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309767621284 |
-| Players | 11/24 |
+| Players | 18/24 |
 | Host Name | 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:10:59 |
@@ -49,35 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309768549483 |
-| Players | 1/15 |
-| Host Name | Touhou |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 18:12:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309768564275 |
-| Players | 1/15 |
-| Host Name | -tk♤ |
+| Lobby ID | 28595309768621987 |
+| Players | 4/15 |
+| Host Name | Твоя мама |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:12:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309768558612 |
-| Players | 1/15 |
-| Host Name | ^_^ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:12:03 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:12:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309763511189 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | WhyAlwaysMe* |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:06:24 |
