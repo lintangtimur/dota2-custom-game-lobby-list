@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310167643714 |
-| Players | 2/24 |
-| Host Name | GeForce |
+| Players | 1/24 |
+| Host Name | dota psychiatric hospital |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:57:14 |
 
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310168305896 |
-| Players | 3/8 |
-| Host Name | egorqa |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 23:57:51 |
+| Lobby ID | 28595310168828656 |
+| Players | 4/8 |
+| Host Name | Buba |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310168539989 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Grupo 5 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 23:58:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310160567533 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 23:50:35 |
@@ -110,6 +110,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:58:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310168797561 |
+| Players | 1/8 |
+| Host Name | стрей |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310168716802 |
+| Players | 3/8 |
+| Host Name | Ночная Дырочка |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310168724202 |
+| Players | 3/15 |
+| Host Name | Tired |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310168814055 |
+| Players | 4/8 |
+| Host Name | iminacord |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:20 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28595310131633991 |
@@ -131,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310168183170 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Hunt Hoe-Down |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 23:57:44 |
