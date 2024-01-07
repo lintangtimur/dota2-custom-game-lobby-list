@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309527084443 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | феtиш(люблю ляжки) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:55:50 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:33:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309526747192 |
-| Players | 9/10 |
-| Host Name | D15 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:55:18 |
+| Lobby ID | 28595309526960346 |
+| Players | 1/15 |
+| Host Name | DonFlag |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:55:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309527036655 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:55:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309526657052 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Cthulhu |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:55:09 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:55:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309526960346 |
-| Players | 1/15 |
-| Host Name | DonFlag |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:55:38 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309521443381 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Raynuva |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:46:42 |
