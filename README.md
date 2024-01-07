@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309553118335 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | poryadok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:35:28 |
@@ -54,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:36:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309554141449 |
+| Players | 1/8 |
+| Host Name | WAJU LUJAN CARRION |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:37:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309548057938 |
+| Players | 23/24 |
+| Host Name | Nacho Fierro |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:27:57 |
 
 
 |  | epic_boss_fight_nightmare |
