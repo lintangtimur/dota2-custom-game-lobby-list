@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309661864846 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | TOP REG in the world |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:02:29 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309661520095 |
-| Players | 10/24 |
-| Host Name | Dismantle |
+| Players | 9/24 |
+| Host Name | FU Marvel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:02:03 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309661647680 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Геннадий Треев |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:02:13 |
