@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309659876165 |
-| Players | 15/24 |
-| Host Name | Flea~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:59:58 |
+| Lobby ID | 28595309661365128 |
+| Players | 1/10 |
+| Host Name | iamIBradd™ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 16:01:51 |
 
 
 |  | ot3_gardens_duo |
@@ -32,43 +32,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309660440347 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Beer.Team Матье Бал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:00:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309660817041 |
-| Players | 1/15 |
-| Host Name | Escanor |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:01:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309659721962 |
-| Players | 7/8 |
-| Host Name | доDick |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:59:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309660663155 |
-| Players | 4/10 |
-| Host Name | Llama 900 |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 16:00:58 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309660700422 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Ушлепоп |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:01:01 |
@@ -76,28 +49,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309660969851 |
-| Players | 1/15 |
-| Host Name | trinket |
+| Lobby ID | 28595309661320641 |
+| Players | 6/15 |
+| Host Name | 金雨 |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:01:22 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:01:48 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309660716259 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | KoKo anKo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:01:02 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309659199119 |
-| Players | 9/10 |
-| Host Name | Harakiri Squad |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:59:07 |
+| Lobby ID | 28595309661337229 |
+| Players | 2/5 |
+| Host Name | yrisska |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:01:49 |
 
 
