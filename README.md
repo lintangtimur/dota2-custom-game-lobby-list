@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309380420885 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | DNTRX24 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:31:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309380840171 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | make you mind |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:32:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309380278483 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | big boss |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:31:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309380649078 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Elena Where are you? need you |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:32:04 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:27:25 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309381006798 |
-| Players | 1/24 |
-| Host Name | !TzStyluz35ll¡T. HyperX! |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 08:32:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309379692001 |
-| Players | 7/8 |
-| Host Name | Dvzzin17 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:30:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309381003282 |
@@ -90,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:32:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309381133829 |
+| Players | 1/24 |
+| Host Name | !TzStyluz35ll¡T. HyperX! |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:33:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309381145543 |
+| Players | 2/10 |
+| Host Name | not quite my tempo |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:33:01 |
 
 
 |  | epic_boss_fight_nightmare |
