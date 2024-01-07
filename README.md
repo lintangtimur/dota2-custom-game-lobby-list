@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309819645993 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | fona_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:03:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309821959785 |
-| Players | 9/15 |
-| Host Name | MSD |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:05:40 |
+| Lobby ID | 28595309820404153 |
+| Players | 1/10 |
+| Host Name | Xanax |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:04:14 |
 
 
 |  | ot3_desert_octet |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309819950038 |
 | Players | 4/10 |
-| Host Name | TAWeR |
+| Host Name | ЧИПИНКОС |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 19:03:49 |
 
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309821735408 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kidrat(Заяц) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:05:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309820404153 |
-| Players | 1/10 |
-| Host Name | Xanax |
+| Lobby ID | 28595309822324012 |
+| Players | 5/15 |
+| Host Name | Igra i tochka (dydya) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:04:14 |
+| Lobby Creation Time | Sunday, January 7, 2024 19:06:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309821910131 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | CP |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 19:05:38 |
