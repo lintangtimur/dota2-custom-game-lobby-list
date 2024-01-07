@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309628536857 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Azər Babaev |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:19:57 |
@@ -72,6 +72,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lokoespartano |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:21:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309629793892 |
+| Players | 3/15 |
+| Host Name | Dexter Morgan |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 15:21:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309629799240 |
+| Players | 7/15 |
+| Host Name | Mr. Scrop's |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:21:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309629794065 |
+| Players | 1/15 |
+| Host Name | проказница мидор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:21:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309629900158 |
+| Players | 2/24 |
+| Host Name | Dendi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:21:42 |
 
 
 |  | epic_boss_fight_nightmare |
