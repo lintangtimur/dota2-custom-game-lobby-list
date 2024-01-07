@@ -20,31 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:54:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309608100564 |
-| Players | 7/8 |
-| Host Name | Pomstick |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:53:17 |
+| Lobby ID | 28595309609997566 |
+| Players | 5/10 |
+| Host Name | juLMer Cr |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 14:55:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309606948247 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Grupo 5 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:51:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309609224367 |
-| Players | 12/15 |
-| Host Name | ^_^ |
+| Lobby ID | 28595309609755720 |
+| Players | 6/10 |
+| Host Name | zybok prime |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:54:48 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:55:31 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309609250184 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | ヌードを送る |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:54:50 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309609032858 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:54:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309609749135 |
-| Players | 2/8 |
-| Host Name | калбаса |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:55:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309609755720 |
-| Players | 5/10 |
-| Host Name | zybok prime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:55:31 |
 
 
 |  | epic_boss_fight_nightmare |
