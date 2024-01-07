@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309646756892 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 中年手残 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:43:29 |
@@ -32,10 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309646955557 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Оушен Гузок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:43:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309647006076 |
+| Players | 4/10 |
+| Host Name | полотенце |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:43:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309647000093 |
+| Players | 2/8 |
+| Host Name | Чикатило |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:43:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309647061672 |
+| Players | 1/15 |
+| Host Name | Вор с Гор228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:43:52 |
 
 
 |  | epic_boss_fight_nightmare |
