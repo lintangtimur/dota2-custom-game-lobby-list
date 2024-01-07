@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:27:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309476102678 |
-| Players | 23/24 |
-| Host Name | BISCUIT OLIVA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:29:17 |
+| Lobby ID | 28595309477542128 |
+| Players | 3/15 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:31:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309477357261 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Egoisto |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:31:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309477402061 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Anthropologysali Kaur |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:31:38 |
@@ -101,39 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:31:35 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309477542128 |
-| Players | 3/15 |
-| Host Name | TMMR |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:31:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309476482059 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | РоланДеМорт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:29:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309477128701 |
-| Players | 1/5 |
-| Host Name | Shadow Creep |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:31:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309477337599 |
-| Players | 1/5 |
-| Host Name | Crustyチル |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:31:31 |
 
 
