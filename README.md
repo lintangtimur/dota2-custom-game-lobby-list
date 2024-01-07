@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309473599359 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | 阳光猛烈 摆鬼夜行 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:24:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309473139781 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Сережа Унитаз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:24:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309473361647 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:24:26 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309473477297 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | cuack |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:24:38 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309473726013 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Б.Ю. Александров |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:25:04 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | СлаДкиЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:24:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309473882177 |
+| Players | 1/10 |
+| Host Name | bam butchi wap |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:25:20 |
 
 
