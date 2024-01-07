@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310024843942 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | IM BUNNY ISREAL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:51:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310020562174 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | welcome to earth |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 21:48:16 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:51:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310023129113 |
-| Players | 9/10 |
-| Host Name | Pain |
+| Lobby ID | 28595310026059242 |
+| Players | 1/8 |
+| Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 21:50:20 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:52:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310025350422 |
-| Players | 6/8 |
-| Host Name | Gornooo |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:52:09 |
+| Lobby ID | 28595310023434084 |
+| Players | 7/8 |
+| Host Name | hxpe' |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:50:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:51:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310025907269 |
-| Players | 12/15 |
-| Host Name | C НОВОЙ ГОЙДОЙ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:52:36 |
+| Lobby ID | 28595310026112226 |
+| Players | 3/8 |
+| Host Name | 力hate me as you do力 hopeless |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:52:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310023278811 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | affetmez07 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:50:28 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310025853564 |
-| Players | 6/10 |
+| Players | 10/10 |
 | Host Name | Максим Блатнявич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:52:33 |
@@ -113,28 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310024417723 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | NAME |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 21:51:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310025927470 |
-| Players | 3/8 |
-| Host Name | Яйчик |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:52:37 |
+| Lobby ID | 28595310026190430 |
+| Players | 2/24 |
+| Host Name | Xy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:52:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310023434084 |
-| Players | 7/8 |
-| Host Name | 市throw down your tears市 |
+| Lobby ID | 28595310026233701 |
+| Players | 1/15 |
+| Host Name | MorgenMuffel |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:50:35 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:52:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ID : 氷 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:52:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310026178539 |
+| Players | 1/5 |
+| Host Name | CHN-Ji Shi. |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, January 7, 2024 21:52:49 |
 
 
