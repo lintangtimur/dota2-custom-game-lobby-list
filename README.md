@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309486487041 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Rofl Chick-Fil-A Copter |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:47:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309483663868 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Stringer |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:42:43 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:47:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309486779645 |
-| Players | 1/8 |
-| Host Name | lambaaard |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:48:04 |
+| Lobby ID | 28595309486847453 |
+| Players | 1/24 |
+| Host Name | 宝哥哥 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:48:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309484989018 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | CP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:45:01 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309486003090 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | грех |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:46:44 |
