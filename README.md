@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309558650940 |
-| Players | 21/24 |
+| Players | 15/24 |
 | Host Name | 御詩詩 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:43:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562261095 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | DogJeWz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:49:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309563453534 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Nacho Fierro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:50:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309563495377 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | не умею играть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:50:52 |
@@ -110,13 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:51:04 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309561002971 |
-| Players | 9/10 |
-| Host Name | nthnl |
+| Lobby ID | 28595309563963855 |
+| Players | 1/10 |
+| Host Name | ScoobyGooberMan |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:51:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309563969604 |
+| Players | 1/24 |
+| Host Name | 123456 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:47:14 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:51:33 |
 
 
 |  | epic_boss_fight_normal |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nah, I'd win |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:50:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309563953197 |
+| Players | 1/5 |
+| Host Name | 无言灬剧终 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:51:32 |
 
 
