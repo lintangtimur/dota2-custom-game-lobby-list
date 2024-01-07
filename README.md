@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309608252398 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:53:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309610229919 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Мопс Дядя Пес |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:56:09 |
@@ -32,28 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309610494423 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 失踪的宇航员 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:56:30 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309610740229 |
-| Players | 11/15 |
-| Host Name | Fearx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:56:50 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309611761875 |
+| Lobby ID | 28595309611954549 |
 | Players | 1/24 |
-| Host Name | Reincarnationz |
+| Host Name | Overthrow Crazy Bitch! |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:58:11 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:58:27 |
 
 
 |  | epic_boss_fight_normal |
