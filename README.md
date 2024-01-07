@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309406640651 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:21:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309407745894 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:23:50 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309408427860 |
-| Players | 10/15 |
-| Host Name | ROTHMAN |
+| Players | 12/15 |
+| Host Name | y donde esta tu dignidad ? |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:25:09 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309408064425 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Borealis |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:24:27 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309409049884 |
-| Players | 3/15 |
-| Host Name | dead outside |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 09:26:21 |
+| Lobby ID | 28595309409122982 |
+| Players | 2/15 |
+| Host Name | Shedu |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:26:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309406621589 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ꦧꦸꦱꦸꦁꦭꦥꦂ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:21:41 |
