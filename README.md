@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309873477496 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 19:50:41 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309886974089 |
-| Players | 8/10 |
-| Host Name | Быбло |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:01:47 |
+| Lobby ID | 28595309887966741 |
+| Players | 6/10 |
+| Host Name | kyouko sakura |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 20:02:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309887708558 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Enjoy dota, enjoy |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:02:23 |
@@ -108,6 +108,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | POPULAR FORCE |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 20:02:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309887867777 |
+| Players | 1/10 |
+| Host Name | 76561198059431967 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:02:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309887972898 |
+| Players | 4/10 |
+| Host Name | dafuq |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:02:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309886974089 |
+| Players | 9/10 |
+| Host Name | Быбло |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:01:47 |
 
 
 |  | epic_boss_fight_nightmare |
