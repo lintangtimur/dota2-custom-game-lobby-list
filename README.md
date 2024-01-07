@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309449480678 |
-| Players | 11/24 |
+| Players | 21/24 |
 | Host Name | Zenic.邓 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:41:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309449717318 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Fathan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:41:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309449215070 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | MaleVegan |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:40:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309449796312 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | FELIZ AÑO NUEVO!!!! |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:41:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309449031171 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Blizzard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:40:33 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jesse Pinkman |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:42:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309449868523 |
-| Players | 3/8 |
-| Host Name | ParadiseK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:42:07 |
 
 
 |  | ot3_gardens_duo |
