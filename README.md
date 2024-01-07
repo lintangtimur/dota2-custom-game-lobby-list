@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309481246624 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 76561198094039879 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:38:24 |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309481220219 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Мужчина с прекрасными подтяжками |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:38:22 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309481780331 |
+| Players | 2/15 |
+| Host Name | Et3rnauta |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:39:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309479625211 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:35:34 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309480963039 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:37:54 |
