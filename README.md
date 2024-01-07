@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309501641549 |
-| Players | 2/15 |
-| Host Name | THEY DON'T KNOW ME SON! |
+| Players | 1/15 |
+| Host Name | СОСИТЕСЬ ДУРЫ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:56 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309498451271 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Stringer |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:08:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309502694402 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | MiKchero |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:15:44 |
@@ -101,10 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:15:47 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309502952474 |
+| Players | 1/15 |
+| Host Name | Rameezy_ |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:16:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309500614754 |
+| Players | 23/24 |
+| Host Name | RHLM |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:12:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309499234461 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 咬人猫 |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 12:09:46 |
