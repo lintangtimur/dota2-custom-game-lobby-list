@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310164780681 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ♦♣Aaron♠♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 23:54:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310164151019 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | FrameSports |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:53:57 |
@@ -122,55 +122,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310164503282 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 23:54:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310164798251 |
-| Players | 5/8 |
-| Host Name | inLOVEwithElisabeth |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:54:33 |
+| Lobby ID | 28595310165832979 |
+| Players | 1/15 |
+| Host Name | Ⱥ ℣ Đ ۩۞۩ KiEnng ۩۞۩ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 23:55:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310165594715 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | anvzak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 23:55:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310165576371 |
-| Players | 3/15 |
-| Host Name | Godota2.comGUTS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:55:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310165572399 |
-| Players | 3/24 |
-| Host Name | J |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:55:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310165590476 |
-| Players | 5/8 |
-| Host Name | Devilaugh |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:55:18 |
+| Lobby ID | 28595310165794248 |
+| Players | 1/10 |
+| Host Name | ShaV |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 23:55:29 |
 
 
 |  | ot3_gardens_duo |
@@ -184,11 +166,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310165668453 |
-| Players | 4/8 |
-| Host Name | Weakest Femboy |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 23:55:22 |
+| Lobby ID | 28595310165590476 |
+| Players | 6/8 |
+| Host Name | Devilaugh |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:55:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310165723908 |
+| Players | 2/10 |
+| Host Name | Dubi Dubi 666 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 23:55:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310165767694 |
+| Players | 5/24 |
+| Host Name | -cylinder |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:55:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310165816131 |
+| Players | 3/15 |
+| Host Name | Gingerswiz |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 23:55:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310165871842 |
+| Players | 1/8 |
+| Host Name | abunga1 |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, January 7, 2024 23:55:34 |
 
 
 |  | epic_boss_fight_hard |
