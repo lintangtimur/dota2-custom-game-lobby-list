@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309624823920 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | gatekeeper |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:15:16 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:13:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309624858654 |
-| Players | 12/15 |
-| Host Name | ^_^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:15:18 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309624876990 |
@@ -74,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:15:20 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309625164448 |
+| Players | 1/15 |
+| Host Name | DinyaRa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:15:41 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309622847884 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Rajvana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:12:46 |
