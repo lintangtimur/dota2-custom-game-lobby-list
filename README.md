@@ -14,52 +14,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309605611239 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:49:56 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309604068434 |
-| Players | 23/24 |
-| Host Name | Mood |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:47:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309604593782 |
-| Players | 9/10 |
-| Host Name | Annette |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:48:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309604785342 |
-| Players | 1/8 |
-| Host Name | МЯВ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:48:49 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309604964447 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | безмолвное единомыслие |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:49:04 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309604785342 |
+| Players | 2/8 |
+| Host Name | МЯВ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:48:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309605931448 |
+| Players | 1/24 |
+| Host Name | Sky |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:50:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309603281025 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Брат своего Брата |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:46:47 |
@@ -74,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:50:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309605788674 |
-| Players | 1/5 |
+| Lobby ID | 28595309605857212 |
+| Players | 1/10 |
 | Host Name | Zeus |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:50:10 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:50:16 |
 
 
