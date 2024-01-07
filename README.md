@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309380840171 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | make you mind |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:32:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309380278483 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | big boss |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:31:20 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309379465920 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Del rey.. |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:29:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309380456729 |
-| Players | 1/24 |
-| Host Name | !TzStyluz35ll¡T. HyperX! |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:31:41 |
+| Lobby ID | 28595309380522027 |
+| Players | 1/15 |
+| Host Name | far fri |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 08:31:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:30:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309380522027 |
-| Players | 3/15 |
-| Host Name | far fri |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:31:49 |
+| Lobby ID | 28595309380973037 |
+| Players | 1/24 |
+| Host Name | !TzStyluz35ll¡T. HyperX! |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:32:41 |
 
 
 |  | epic_boss_fight_nightmare |
