@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309548057938 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Nacho Fierro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:27:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309549875205 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Zoom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:39 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309549947689 |
-| Players | 4/8 |
-| Host Name | SmPLy Drak |
+| Players | 2/8 |
+| Host Name | Freaking Lawrence |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:45 |
 
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309549424757 |
-| Players | 3/8 |
-| Host Name | я...ТАЛАНТ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:29:59 |
+| Lobby ID | 28595309550727023 |
+| Players | 1/10 |
+| Host Name | Player 1 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:31:54 |
 
 
 |  | ot3_gardens_duo |
@@ -144,23 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 5lowBurN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:31:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309550727023 |
-| Players | 1/10 |
-| Host Name | Player 1 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:31:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309550074122 |
-| Players | 9/10 |
-| Host Name | Toji Fushiguro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:30:57 |
 
 
