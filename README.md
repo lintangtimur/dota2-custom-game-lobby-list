@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309813199401 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Ouanny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:57:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309812914089 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Heyzi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:57:13 |
@@ -38,22 +38,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:58:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309814650398 |
-| Players | 7/10 |
-| Host Name | idgaf |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:58:52 |
+| Lobby ID | 28595309815103838 |
+| Players | 4/8 |
+| Host Name | WarMax |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:59:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309814937457 |
+| Lobby ID | 28595309815100528 |
 | Players | 1/8 |
-| Host Name | block baby (all mute) |
+| Host Name | Na 4iLe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:59:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309815151357 |
+| Players | 1/10 |
+| Host Name | Absolute Caustic Grass |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:59:08 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:59:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309815123452 |
+| Players | 1/15 |
+| Host Name | lovely сеntiреdе |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:59:18 |
 
 
 |  | epic_boss_fight_normal |
