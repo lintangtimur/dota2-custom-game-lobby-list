@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309715908507 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Brotino |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:10:42 |
@@ -38,31 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:08:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309715436606 |
-| Players | 6/8 |
-| Host Name | de omnibus dubitandum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:10:06 |
+| Lobby ID | 28595309716279614 |
+| Players | 1/10 |
+| Host Name | 導演 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:11:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309716087898 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | YATOVOROT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:10:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309716195300 |
-| Players | 1/10 |
-| Host Name | 導演 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:11:04 |
 
 
 |  | epic_boss_fight_nightmare |
