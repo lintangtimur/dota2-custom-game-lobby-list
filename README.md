@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309464476107 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Sakirious |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:08:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309464173182 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | MarcleanCxz |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:08:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309464557923 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Webi |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:08:48 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309463745074 |
-| Players | 15/24 |
-| Host Name | a s p e c k |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:07:19 |
+| Lobby ID | 28595309464880521 |
+| Players | 1/24 |
+| Host Name | Nerfstyle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:09:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309464172354 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | prime malr1ne |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:08:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309464158975 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Сережа Унитаз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:08:04 |
@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:09:09 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309464861013 |
+| Players | 5/24 |
+| Host Name | ICG.Winter |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:09:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309463516670 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | kymhnju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:06:54 |
