@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309378402134 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Jasmine |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:27:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309376554006 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | Frank Zappa |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:24:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309376970470 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:24:53 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309378114064 |
-| Players | 9/10 |
-| Host Name | why |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:27:06 |
+| Lobby ID | 28595309378510419 |
+| Players | 4/10 |
+| Host Name | SENTINEL |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 08:27:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309378255710 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 08:27:22 |
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:27:33 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309378510419 |
-| Players | 2/10 |
-| Host Name | SENTINEL |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:27:52 |
+| Lobby ID | 28595309378664807 |
+| Players | 1/5 |
+| Host Name | Die Die Die.... |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:28:10 |
 
 
