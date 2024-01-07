@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309626019905 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name |  |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:16:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309626667168 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | DieseL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:17:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309626768272 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ButtersBottomBitches |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:17:42 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tommy Shelby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:16:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309626868852 |
-| Players | 1/10 |
-| Host Name | Courier destroyer |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 15:17:50 |
 
 
