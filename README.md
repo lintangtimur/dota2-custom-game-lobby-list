@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309366290459 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 08:04:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309367338458 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Koba-Shi! |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:06:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309361499027 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Overthrow Crazy Bitch! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:55:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309366853775 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | only degenaretes play at this ho |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:05:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309367172131 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Randylechii_sx1/Twitch.tv |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:05:53 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309367333945 |
-| Players | 7/8 |
-| Host Name | <chem3 |
+| Lobby ID | 28595309367495073 |
+| Players | 4/8 |
+| Host Name | NeLizalPizdu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:06:12 |
+| Lobby Creation Time | Sunday, January 7, 2024 08:06:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309367437566 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Yerazog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:06:24 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mode:dolbaeb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:06:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309367495073 |
-| Players | 4/8 |
-| Host Name | NeLizalPizdu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:06:31 |
 
 
 |  | epic_boss_fight_nightmare |
