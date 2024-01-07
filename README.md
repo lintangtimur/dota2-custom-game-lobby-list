@@ -23,52 +23,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309605940759 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Хорош |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:50:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309604785342 |
-| Players | 5/8 |
-| Host Name | МЯВ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:48:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309606481378 |
-| Players | 1/8 |
-| Host Name | Seguidor de Ratamanche |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 14:51:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309606119909 |
-| Players | 11/24 |
-| Host Name | [N]-Never-[N] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:50:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309606963010 |
-| Players | 1/24 |
-| Host Name | 救命！ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:51:45 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309606948247 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Grupo 5 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:51:44 |
@@ -77,19 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309606928192 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | sílam moríhoh^^ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:51:43 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309605857212 |
-| Players | 8/10 |
-| Host Name | Zeus |
+| Lobby ID | 28595309606119909 |
+| Players | 20/24 |
+| Host Name | [N]-Never-[N] |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:50:16 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:50:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309607108524 |
+| Players | 1/8 |
+| Host Name | Catacluzm |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:51:57 |
 
 
 |  | epic_boss_fight_normal |
