@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309970798282 |
-| Players | 23/24 |
-| Host Name | FU Marvel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:08:29 |
+| Lobby ID | 28595309972703819 |
+| Players | 2/10 |
+| Host Name | AMOS SLADE |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 21:10:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309973238145 |
-| Players | 6/24 |
-| Host Name | нюхай бебру -_- |
+| Lobby ID | 28595309972900798 |
+| Players | 11/15 |
+| Host Name | Moraca |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:10:27 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:10:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309969846080 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | big boost |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 21:07:44 |
@@ -49,33 +49,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309973063722 |
-| Players | 6/10 |
-| Host Name | SVIN PRIME |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:10:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309968165314 |
-| Players | 4/8 |
-| Host Name | свинячий окурок |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:06:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309966255879 |
-| Players | 7/8 |
-| Host Name | -Padrastro 100% |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 21:04:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28595309972321272 |
 | Players | 3/10 |
 | Host Name | ŧiмøη |
@@ -83,28 +56,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:09:42 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309973544192 |
+| Players | 4/24 |
+| Host Name | XTA-970/PE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:10:42 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309972703819 |
-| Players | 2/10 |
-| Host Name | AMOS SLADE |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 21:10:01 |
+| Lobby ID | 28595309973587436 |
+| Players | 1/10 |
+| Host Name | do whatever you want... |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 21:10:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309972900798 |
-| Players | 4/15 |
-| Host Name | Moraca |
+| Lobby ID | 28595309973593870 |
+| Players | 1/10 |
+| Host Name | TIDEHUNTER |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:10:10 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:10:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309973634122 |
+| Players | 3/8 |
+| Host Name | Обкуреный вексик |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:10:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309968934268 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | EPIC BOSS FIGHT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:07:01 |
