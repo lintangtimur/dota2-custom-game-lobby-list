@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309366290459 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 08:04:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309367266631 |
-| Players | 14/15 |
-| Host Name | Reiner |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:06:04 |
+| Lobby ID | 28595309367338458 |
+| Players | 2/24 |
+| Host Name | Koba-Shi! |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 08:06:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309361499027 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Overthrow Crazy Bitch! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:55:13 |
@@ -86,28 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309367333945 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | <chem3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:06:12 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309367437566 |
+| Players | 4/15 |
+| Host Name | Yerazog |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:06:24 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309367338458 |
-| Players | 1/24 |
-| Host Name | Koba-Shi! |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:06:12 |
+| Lobby ID | 28595309367460842 |
+| Players | 2/24 |
+| Host Name | mode:dolbaeb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:06:26 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309361007439 |
-| Players | 9/10 |
-| Host Name | 咬人猫 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:54:20 |
+| Lobby ID | 28595309367495073 |
+| Players | 4/8 |
+| Host Name | NeLizalPizdu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:06:31 |
 
 
 |  | epic_boss_fight_nightmare |
