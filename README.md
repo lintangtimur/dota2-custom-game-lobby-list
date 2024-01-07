@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309385523820 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | big boost |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:41:42 |
@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309385512675 |
-| Players | 14/15 |
-| Host Name | Try MORE |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:41:41 |
+| Lobby ID | 28595309385742344 |
+| Players | 3/15 |
+| Host Name | qq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:42:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309383283616 |
-| Players | 22/24 |
-| Host Name | FÁCIL |
+| Lobby ID | 28595309385300415 |
+| Players | 7/10 |
+| Host Name | Might Wanna Try Fortnite |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 08:37:11 |
+| Lobby Creation Time | Sunday, January 7, 2024 08:41:16 |
 
 
 |  | ot3_desert_octet |
@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:40:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309385300415 |
-| Players | 8/10 |
-| Host Name | Might Wanna Try Fortnite |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 08:41:16 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309385167549 |
-| Players | 6/8 |
-| Host Name | Chika |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:41:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309385689275 |
-| Players | 1/15 |
-| Host Name | El Sr. L |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:42:02 |
+| Lobby ID | 28595309385802806 |
+| Players | 2/8 |
+| Host Name | ДИРЕКТОР |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:42:16 |
 
 
 |  | epic_boss_fight_nightmare |
