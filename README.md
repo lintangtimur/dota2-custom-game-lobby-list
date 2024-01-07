@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310242644386 |
-| Players | 1/8 |
-| Host Name | Бегите я конченый |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 01:09:19 |
+| Lobby ID | 28595310244330267 |
+| Players | 3/8 |
+| Host Name | misCascos y tu --tienen una cita |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 01:10:59 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:09:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310243493596 |
-| Players | 5/8 |
-| Host Name | disabled |
+| Lobby ID | 28595310244104714 |
+| Players | 6/10 |
+| Host Name | Замир Закиев |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:10:09 |
+| Lobby Creation Time | Monday, January 8, 2024 01:10:46 |
 
 
 |  | ot3_gardens_duo |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:10:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310243417507 |
-| Players | 5/8 |
-| Host Name | SumraK-iwnl 𓆩 𓆪 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:10:05 |
+| Lobby ID | 28595310244092057 |
+| Players | 4/10 |
+| Host Name | Road to titan |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 8, 2024 01:10:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310240994512 |
-| Players | 1/8 |
-| Host Name | арбуз |
+| Lobby ID | 28595310244156746 |
+| Players | 14/15 |
+| Host Name | Твоя мама |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:07:41 |
+| Lobby Creation Time | Monday, January 8, 2024 01:10:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,78 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:40:31 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310243177139 |
-| Players | 6/10 |
-| Host Name | - Cha1ka <3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:09:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310241753487 |
-| Players | 6/8 |
-| Host Name | Hopeツ |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 01:08:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310234839762 |
-| Players | 16/24 |
-| Host Name | manjiro sano |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 01:01:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310243093504 |
-| Players | 2/8 |
-| Host Name | S T O N E H E A R T ( 668 ) |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 01:09:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310242081508 |
-| Players | 6/8 |
-| Host Name | アシュラ・リン |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:08:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310242669612 |
-| Players | 12/24 |
-| Host Name | 我柜子动了 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 01:09:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310243479356 |
-| Players | 2/15 |
-| Host Name | NoMercy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:10:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310243326666 |
-| Players | 4/10 |
-| Host Name | Hunter |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 01:09:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310242625629 |
@@ -146,39 +74,84 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:09:18 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310243326666 |
+| Players | 9/10 |
+| Host Name | Hunter |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 01:09:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310234839762 |
+| Players | 20/24 |
+| Host Name | manjiro sano |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 01:01:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310243093504 |
+| Players | 1/8 |
+| Host Name | udacha |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 8, 2024 01:09:46 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310243413243 |
-| Players | 1/15 |
-| Host Name | ZEINI |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:10:04 |
+| Lobby ID | 28595310243847549 |
+| Players | 6/15 |
+| Host Name | JONY |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 8, 2024 01:10:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310243565841 |
-| Players | 1/8 |
-| Host Name | Ave |
+| Lobby ID | 28595310242669612 |
+| Players | 14/24 |
+| Host Name | Monty |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 01:10:14 |
+| Lobby Creation Time | Monday, January 8, 2024 01:09:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310243560346 |
+| Lobby ID | 28595310244330733 |
 | Players | 4/8 |
-| Host Name | オ マ ン コ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:10:13 |
+| Host Name | факаю |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 01:10:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310242338880 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | РОДИП ЫТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:09:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310244098647 |
+| Players | 1/5 |
+| Host Name | The Dude |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:10:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310244276617 |
+| Players | 3/10 |
+| Host Name | POHL |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, January 8, 2024 01:10:56 |
 
 
