@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562173031 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | db |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:48:56 |
@@ -47,22 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:09:14 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309576807164 |
-| Players | 1/24 |
-| Host Name | Mood |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:10:09 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309576829245 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Jorge captan. |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:10:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309576946830 |
+| Players | 3/24 |
+| Host Name | Vietnam Is The Best |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:10:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309576980655 |
+| Players | 1/10 |
+| Host Name | ПОЕЛ ГОВНА |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:10:24 |
 
 
 |  | epic_boss_fight_challenger |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309575079470 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | HiroToHero TTV |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:07:37 |
