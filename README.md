@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309459982332 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Hipnos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309460678074 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | cb |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:01:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459701825 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309460070486 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | bagnu brusgiatu |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:46 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309460840350 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:02:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309461185734 |
-| Players | 3/8 |
-| Host Name | party con mi kbro amigo :D |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:02:46 |
 
 
 |  | ot3_necropolis_ffa |
