@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309976599920 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Rin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:13:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309974915515 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Triki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:11:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309965692959 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:04:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309975712190 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Lemon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:12:25 |
@@ -67,35 +67,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309977252010 |
-| Players | 3/8 |
-| Host Name | kudasay_Dead |
+| Lobby ID | 28595309977613203 |
+| Players | 1/8 |
+| Host Name | аудиокассета |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:13:38 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:13:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309977270975 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | это второй |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:13:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309977301082 |
-| Players | 6/10 |
-| Host Name | Котёнок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:13:40 |
+| Lobby ID | 28595309977543715 |
+| Players | 1/15 |
+| Host Name | Creed |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 21:13:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309977286617 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | кНИГА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:13:40 |
