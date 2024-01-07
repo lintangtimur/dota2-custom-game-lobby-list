@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310174631592 |
-| Players | 3/8 |
-| Host Name | 2 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:03:53 |
+| Lobby ID | 28595310175234010 |
+| Players | 8/15 |
+| Host Name | FuManChu |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 00:04:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310171464897 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | ~ BiG|D ~ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:00:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310171636681 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 00:01:02 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310173389328 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Teach |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:02:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310175279959 |
+| Players | 3/24 |
+| Host Name | CholaQueVeoCholaQueGomeo |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 00:04:29 |
 
 
 |  | epic_boss_fight_hard |
@@ -119,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:23:50 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595310169152767 |
-| Players | 9/10 |
-| Host Name | -Anime_Yuuki- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:58:40 |
+| Lobby ID | 28595310174183828 |
+| Players | 1/5 |
+| Host Name | Helb |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 8, 2024 00:03:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -137,12 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:02:59 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310174183828 |
-| Players | 1/5 |
-| Host Name | Helb |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 00:03:27 |
+| Lobby ID | 28595310175351322 |
+| Players | 2/10 |
+| Host Name | Правый cапог |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 00:04:33 |
 
 
