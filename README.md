@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309371405468 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 🅵🅴🅳🅴🅰🅽🅳🅾 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:14:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309370985622 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | :p |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:13:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309370011784 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:11:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309369853656 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:11:13 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309370469875 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | typico wesscoss inebriate |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:12:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309370027898 |
-| Players | 14/15 |
-| Host Name | -Zpam- |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:11:33 |
+| Lobby ID | 28595309371656697 |
+| Players | 1/10 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:14:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309371633697 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | 4/5 - DDC - No chat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:14:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309371656697 |
-| Players | 1/10 |
-| Host Name | Jet |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 08:14:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309371676713 |
-| Players | 6/8 |
-| Host Name | kerosene |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:14:41 |
 
 
 |  | epic_boss_fight_nightmare |
