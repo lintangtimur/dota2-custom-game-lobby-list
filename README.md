@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309594009299 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | ►◄ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:34:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309593928607 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Miserable |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:34:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309594324605 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | 不打国服 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Sunday, January 7, 2024 14:34:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309594263482 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | Antonio Margharetti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:34:33 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:34:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309594458369 |
+| Players | 6/24 |
+| Host Name | PartofmyW |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:34:49 |
 
 
 |  | epic_boss_fight_nightmare |
