@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309484262220 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | EdgeRunner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:43:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309483146809 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Yordi infiel |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:41:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309482239059 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:40:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309483364877 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Ask the magic conch shell |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:42:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309483931174 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | 🐐 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:43:11 |
@@ -104,18 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309484421971 |
-| Players | 3/15 |
-| Host Name | Assemble |
+| Players | 1/15 |
+| Host Name | Love to Sneeze |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:44:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309484587798 |
+| Players | 1/15 |
+| Host Name | madmang0 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:44:19 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309484520446 |
+| Lobby ID | 28595309484614658 |
 | Players | 4/8 |
 | Host Name | Neredar |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:44:12 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:44:22 |
 
 
