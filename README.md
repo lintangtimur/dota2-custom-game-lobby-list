@@ -22,53 +22,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309626499473 |
-| Players | 1/10 |
-| Host Name | Thug Life |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 15:17:22 |
+| Lobby ID | 28595309630611929 |
+| Players | 5/10 |
+| Host Name | not quite my tempo |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 15:22:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309620383881 |
-| Players | 16/24 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 15:09:34 |
+| Lobby ID | 28595309630796472 |
+| Players | 2/15 |
+| Host Name | Suzuya Jūzō |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:22:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309628358013 |
-| Players | 13/24 |
+| Players | 22/24 |
 | Host Name | SKIBIDI DOB DOB DOB YES YES |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:19:43 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309630295286 |
-| Players | 8/15 |
-| Host Name | проказница мидор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:22:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309630090869 |
-| Players | 4/10 |
-| Host Name | Ssi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:21:56 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309629766579 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | lokoespartano |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:21:31 |
@@ -83,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:21:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309630611929 |
-| Players | 2/10 |
-| Host Name | not quite my tempo |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 15:22:36 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309629945281 |
@@ -99,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Razvedos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:21:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309630651299 |
+| Players | 1/10 |
+| Host Name | NP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:22:39 |
 
 
