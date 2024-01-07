@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309804789636 |
-| Players | 7/8 |
-| Host Name | 無限の彼方へ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:49:28 |
+| Lobby ID | 28595309805296024 |
+| Players | 7/24 |
+| Host Name | 노루 noru 노루 noru 노루 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:49:58 |
 
 
 |  | ot3_desert_octet |
@@ -23,34 +23,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309805311777 |
-| Players | 3/15 |
-| Host Name | Smiling |
+| Players | 2/15 |
+| Host Name | BasЯ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 18:49:59 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309803123802 |
-| Players | 1/10 |
-| Host Name | GOOD |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 18:47:51 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309805296024 |
-| Players | 6/24 |
-| Host Name | 노루 noru 노루 noru 노루 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:49:58 |
+| Lobby ID | 28595309805558333 |
+| Players | 2/24 |
+| Host Name | Heyzi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:50:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309805613406 |
+| Players | 1/15 |
+| Host Name | Igra i tochka (dydya) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:50:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309803516122 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Вова Адидас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:48:14 |
@@ -65,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:46:18 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309805458509 |
-| Players | 1/10 |
-| Host Name | 安妮亞 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:50:07 |
+| Lobby ID | 28595309805636077 |
+| Players | 1/5 |
+| Host Name | БУБЖИДУБЖИЗУС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:50:18 |
 
 
