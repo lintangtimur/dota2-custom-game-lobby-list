@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309592884935 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | hAggU pLaYeR |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:32:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309594009299 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | ►◄ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:34:13 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:32:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309593987260 |
-| Players | 13/15 |
-| Host Name | Naatsoy |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:34:11 |
+| Lobby ID | 28595309594324605 |
+| Players | 1/24 |
+| Host Name | 不打国服 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Sunday, January 7, 2024 14:34:38 |
 
 
 |  | ot3_gardens_duo |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Кровавый понос |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:34:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309594263482 |
+| Players | 3/15 |
+| Host Name | Antonio Margharetti |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:34:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309594299438 |
+| Players | 1/24 |
+| Host Name | Nonlinear operator |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 14:34:36 |
 
 
 |  | epic_boss_fight_nightmare |
