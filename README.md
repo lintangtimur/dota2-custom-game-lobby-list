@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:49:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309610733214 |
-| Players | 8/15 |
-| Host Name | nemesis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:56:49 |
+| Lobby ID | 28595309610982322 |
+| Players | 23/24 |
+| Host Name | .. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:57:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309610229919 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Мопс Дядя Пес |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:56:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309610494423 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 失踪的宇航员 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:56:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309610740229 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Fearx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:56:50 |
@@ -50,36 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309608252398 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:53:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309610982322 |
-| Players | 8/24 |
-| Host Name | .. |
+| Lobby ID | 28595309611683693 |
+| Players | 1/15 |
+| Host Name | huesitos ♥ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 14:58:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309611385626 |
+| Players | 1/5 |
+| Host Name | 卡利亚里 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:57:09 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:57:41 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28595309607986578 |
-| Players | 8/10 |
-| Host Name | Stone |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:53:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309610788628 |
-| Players | 5/10 |
-| Host Name | EpicBossFightEnjoyer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:56:53 |
+| Lobby ID | 28595309611662011 |
+| Players | 2/7 |
+| Host Name | Nah, I'd win |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 14:58:03 |
 
 
