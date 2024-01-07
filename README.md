@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309782704623 |
-| Players | 20/24 |
-| Host Name | Buu |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:27:14 |
+| Lobby ID | 28595309784557375 |
+| Players | 3/15 |
+| Host Name | OopsyDaisy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:29:09 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309782837140 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | マグナス |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:27:22 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309783634875 |
-| Players | 9/10 |
-| Host Name | НЕПОНЯТЫЙ НЕ Я |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:28:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309784021172 |
-| Players | 5/10 |
-| Host Name | я не макс, я макима |
+| Lobby ID | 28595309784503813 |
+| Players | 4/10 |
+| Host Name | Maks eblan ⛟ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:28:36 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:29:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309783987225 |
-| Players | 13/15 |
-| Host Name | PanceZ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:28:34 |
+| Lobby ID | 28595309784527719 |
+| Players | 1/15 |
+| Host Name | Я поднимаю меч, только ради себя |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:29:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✪D1N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:28:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309784333654 |
-| Players | 2/10 |
-| Host Name | ManGIX |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:28:55 |
 
 
