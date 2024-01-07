@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309508625506 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | EL GOSU DE LOS ANDES |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:31 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:08:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309507062649 |
-| Players | 22/24 |
-| Host Name | 8llllllllllD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:22:58 |
+| Lobby ID | 28595309508895254 |
+| Players | 2/15 |
+| Host Name | roothuyut |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:25:59 |
 
 
 |  | ot3_gardens_duo |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309508590555 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Akame |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:25:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309508895254 |
-| Players | 2/15 |
-| Host Name | I KNOW mami |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:25:59 |
+| Lobby ID | 28595309509287198 |
+| Players | 1/10 |
+| Host Name | FERRARI |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:26:39 |
 
 
 |  | epic_boss_fight_nightmare |
