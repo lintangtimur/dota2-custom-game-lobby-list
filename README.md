@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309368826663 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | coopitman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:09:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309368577103 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 1thekey |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:08:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309368710300 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Drim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:08:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309368451030 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | SCUERO EL TERROR DE ILABAYA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:08:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309367460842 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | ＥＬＥＫＴＲＯＮＩＫ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:06:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309368857611 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | style |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:09:15 |
