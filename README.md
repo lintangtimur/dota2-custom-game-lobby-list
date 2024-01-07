@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309407621722 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | mario |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:23:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309406692978 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Baloo∟ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:21:49 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:21:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309407461339 |
-| Players | 7/10 |
-| Host Name | i miss you |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 09:23:17 |
+| Lobby ID | 28595309408064425 |
+| Players | 3/8 |
+| Host Name | Borealis |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:24:27 |
 
 
 |  | ot3_desert_octet |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gfreek |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:23:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309408057343 |
+| Players | 1/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:24:26 |
 
 
 |  | epic_boss_fight_nightmare |
