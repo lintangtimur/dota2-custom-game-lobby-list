@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309397205234 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:03:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309397069984 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | dDeneuve |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:03:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309397267744 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Tiburon_sinti |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:03:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309394306647 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Irif |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:58:22 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | terry |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:04:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309397397059 |
+| Players | 2/15 |
+| Host Name | ///// |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 09:04:07 |
 
 
