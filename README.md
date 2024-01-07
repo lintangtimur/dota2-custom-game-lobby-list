@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309615878028 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | 🥚Little Egg :3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:03:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309620533101 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Мисочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:09:46 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309620115926 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | 嗯啊 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:09:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309619696415 |
-| Players | 7/8 |
-| Host Name | Evlogos |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:08:39 |
+| Lobby ID | 28595309620771269 |
+| Players | 1/15 |
+| Host Name | BenitoCamelo |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 15:10:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309618936161 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | :v |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:07:38 |
@@ -65,30 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:09:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309620771269 |
-| Players | 1/15 |
-| Host Name | BenitoCamelo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 15:10:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309617316964 |
 | Players | 6/10 |
-| Host Name | ꧁✞Ƹ̵̡Ӝ̵̨̄Ʒ✞꧂ |
+| Host Name | Baba Yaga |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:05:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309618010350 |
-| Players | 8/10 |
-| Host Name | 好线 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 15:06:26 |
 
 
