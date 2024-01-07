@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309446601791 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | •⁷⁷⁷ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:35:55 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:36:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309445937486 |
-| Players | 1/24 |
-| Host Name | PIPHELS |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:34:42 |
+| Lobby ID | 28595309447174142 |
+| Players | 1/15 |
+| Host Name | 尼古拉斯赵四 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Sunday, January 7, 2024 10:36:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Roncorrorinco |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:35:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309447107634 |
-| Players | 3/8 |
-| Host Name | tiburoncin |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:36:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309447112622 |
-| Players | 4/8 |
-| Host Name | JP |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:36:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:33:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309447105917 |
-| Players | 1/5 |
-| Host Name | だんご[Dango] |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:36:50 |
 
 
