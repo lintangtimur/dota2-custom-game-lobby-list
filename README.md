@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:22:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309586762780 |
-| Players | 13/15 |
-| Host Name | despair |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:24:22 |
+| Lobby ID | 28595309585923830 |
+| Players | 11/24 |
+| Host Name | Avent- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:23:12 |
 
 
 |  | ot3_desert_octet |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:24:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309585923830 |
-| Players | 11/24 |
-| Host Name | Avent- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:23:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309586613492 |
-| Players | 8/10 |
-| Host Name | enjoyer jesse |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:24:10 |
+| Lobby ID | 28595309587346847 |
+| Players | 3/15 |
+| Host Name | ASTE1K |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:25:11 |
 
 
 |  | epic_boss_fight_nightmare |
