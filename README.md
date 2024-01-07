@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309399212521 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:07:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309397512739 |
-| Players | 7/8 |
-| Host Name | LA CALILA |
+| Lobby ID | 28595309399957574 |
+| Players | 3/10 |
+| Host Name | Creep |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:04:20 |
+| Lobby Creation Time | Sunday, January 7, 2024 09:08:59 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:58:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309398901179 |
-| Players | 22/24 |
-| Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 09:06:54 |
+| Lobby ID | 28595309399991966 |
+| Players | 1/10 |
+| Host Name | Veread |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:09:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309398957410 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | ELPIBEATOMICO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:07:01 |
