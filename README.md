@@ -4,38 +4,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310166445153 |
-| Players | 13/15 |
-| Host Name | DGL |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 23:56:06 |
+| Lobby ID | 28595310169294477 |
+| Players | 1/15 |
+| Host Name | SOLEVAR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310139411725 |
-| Players | 2/8 |
-| Host Name | Everything love is |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:30:54 |
+| Lobby ID | 28595310169443260 |
+| Players | 5/8 |
+| Host Name | Kaori香り (5) |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310168240949 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Blitz |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:57:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310167643714 |
-| Players | 1/24 |
-| Host Name | dota psychiatric hospital |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:57:14 |
+| Lobby ID | 28595310169153987 |
+| Players | 6/8 |
+| Host Name | Toph Beifong |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:40 |
 
 
 |  | ot3_gardens_duo |
@@ -47,67 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:54:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310167035085 |
-| Players | 9/10 |
-| Host Name | You get me,fam? |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:56:39 |
+| Lobby ID | 28595310169273942 |
+| Players | 9/24 |
+| Host Name | Yatsuka |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310168724202 |
-| Players | 8/15 |
-| Host Name | Tired |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:58:15 |
+| Lobby ID | 28595310169388270 |
+| Players | 1/15 |
+| Host Name | ραββίνος |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310160567533 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 23:50:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310165767694 |
-| Players | 23/24 |
-| Host Name | -cylinder |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:55:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310168602303 |
-| Players | 2/10 |
-| Host Name | PICK NORMAL POS4 HERO MORONS) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:58:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310168941159 |
-| Players | 2/8 |
-| Host Name | udacha |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:58:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310169153987 |
-| Players | 1/8 |
-| Host Name | Toph Beifong |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:58:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,6 +81,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | стрей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 23:58:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310169371279 |
+| Players | 4/15 |
+| Host Name | 11111111111111111111111111 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310168941159 |
+| Players | 7/8 |
+| Host Name | udacha |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310169393789 |
+| Players | 2/15 |
+| Host Name | Agent P |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310169431572 |
+| Players | 2/10 |
+| Host Name | Big 33 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 23:58:55 |
 
 
 |  | epic_boss_fight_hard |
@@ -144,15 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hunt Hoe-Down |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 23:57:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310169150518 |
-| Players | 4/10 |
-| Host Name | Mamly |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:58:39 |
 
 
 |  | epic_boss_fight_nightmare |
