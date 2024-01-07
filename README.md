@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309548057938 |
-| Players | 19/24 |
-| Host Name | Nacho Fierro |
+| Lobby ID | 28595309550264258 |
+| Players | 7/8 |
+| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:27:57 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:31:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309552527700 |
-| Players | 4/24 |
-| Host Name | eXC4L1BUR |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:34:35 |
+| Lobby ID | 28595309524440501 |
+| Players | 1/24 |
+| Host Name | apTeom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:51:30 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309551842080 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:33:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 21/24 |
+| Players | 18/24 |
 | Host Name | Reincarnationz |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -50,45 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309552058099 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | combathorse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:33:53 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309524440501 |
-| Players | 1/24 |
-| Host Name | apTeom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:51:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309550264258 |
-| Players | 7/8 |
-| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:31:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309553505399 |
-| Players | 3/8 |
-| Host Name | Shunsui |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:36:04 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309553589796 |
+| Lobby ID | 28595309553706584 |
 | Players | 1/10 |
 | Host Name | При вардах? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:36:11 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:36:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309553738131 |
+| Players | 6/24 |
+| Host Name | SameShit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:36:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309553648139 |
+| Players | 1/10 |
+| Host Name | A- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:36:17 |
 
 
