@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309349670430 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | bloodthirsty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:33:28 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309351786386 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Agua |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:37:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309353520340 |
-| Players | 7/8 |
-| Host Name | ✪gabi♥♥♥angie✪ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:40:33 |
+| Lobby ID | 28595309355010079 |
+| Players | 1/15 |
+| Host Name | ঔৣ☬✞Vida✞☬ঔৣ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:43:17 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309354825010 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Илья |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:42:57 |
@@ -108,33 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sangre y luto |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:42:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309354805989 |
-| Players | 4/10 |
-| Host Name | Might Wanna Try Fortnite |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 07:42:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309354963455 |
-| Players | 1/15 |
-| Host Name | Hentai_Octokuro |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:43:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309354976245 |
-| Players | 4/8 |
-| Host Name | Rehase |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:43:14 |
 
 
 |  | epic_boss_fight_nightmare |
