@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309581119991 |
-| Players | 5/24 |
+| Players | 14/24 |
 | Host Name | Golden Path Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:16:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309582430916 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Exuse (muted) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:18:16 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309582503222 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | PoRnStAr 8===D |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:18:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309580932955 |
-| Players | 2/24 |
-| Host Name | y |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:16:04 |
+| Lobby ID | 28595309583025805 |
+| Players | 2/10 |
+| Host Name | PashaNB |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:19:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309582828074 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Necromansy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:18:50 |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:18:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309583025805 |
-| Players | 2/10 |
-| Host Name | PashaNB |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:19:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309583038658 |
+| Lobby ID | 28595309583236732 |
 | Players | 1/15 |
 | Host Name | Rico Suave |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 14:19:08 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:19:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309583249572 |
+| Players | 3/8 |
+| Host Name | milk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:19:25 |
 
 
 |  | epic_boss_fight_challenger |
