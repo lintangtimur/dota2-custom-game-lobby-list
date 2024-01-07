@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309625766827 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | m4rk.molotov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:16:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309626291373 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Turtle |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:17:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309626019905 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name |  |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:16:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309626667168 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | DieseL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:17:34 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309626768272 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | ButtersBottomBitches |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:17:42 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309627090348 |
+| Players | 2/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 15:18:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309625498341 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ѕυρρσят |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:16:06 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309626019643 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Tommy Shelby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:16:46 |
