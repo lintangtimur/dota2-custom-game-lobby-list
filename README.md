@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310046197369 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Gms_fan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:09:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310046318432 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | pmgt |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 22:09:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310043294454 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Chris NFM |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:06:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310042277406 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Andresx1x |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:06:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310044530337 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | epariyana189 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:07:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310043933016 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Prof. Woolcott |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:07:27 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:09:41 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310046996578 |
+| Players | 2/24 |
+| Host Name | Tarakan88 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:10:00 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310046602409 |
-| Players | 3/10 |
-| Host Name | rule №19: "bless ropemaxxing" |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:09:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310046640513 |
-| Players | 7/15 |
-| Host Name | FULL PMA MODe/allmuted |
+| Lobby ID | 28595310046828503 |
+| Players | 6/10 |
+| Host Name | Knopka |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:09:42 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:09:52 |
 
 
 |  | ot3_gardens_duo |
