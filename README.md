@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309543792873 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Don payiyo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:21:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309543490295 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:21:07 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309544518802 |
-| Players | 4/8 |
-| Host Name | y.y |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:22:40 |
+| Lobby ID | 28595309544603920 |
+| Players | 5/8 |
+| Host Name | de_dota2 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:22:47 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309543124225 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ae-in |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:20:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309542286202 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Sol[A]ce |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:19:18 |
@@ -112,10 +112,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309543560643 |
-| Players | 14/15 |
-| Host Name | Kaioh Retsu |
+| Lobby ID | 28595309544639899 |
+| Players | 1/15 |
+| Host Name | MEDIC bandit.camp |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 13:22:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309544647668 |
+| Players | 3/15 |
+| Host Name | Cerebro Bro Bro Bro |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:21:13 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:22:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309541524542 |
+| Players | 12/15 |
+| Host Name | Phantom Pain |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:18:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309544672756 |
+| Players | 1/5 |
+| Host Name | roma |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:22:53 |
 
 
