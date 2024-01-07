@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310280789797 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | La Joya |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 01:47:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310280663466 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | мефыч |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 01:47:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310280283877 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Dove |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 01:46:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310280261726 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Paloyoyo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:46:35 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310280764938 |
-| Players | 1/10 |
-| Host Name | Optimal |
+| Lobby ID | 28595310280940818 |
+| Players | 5/10 |
+| Host Name | One Of Those |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:47:06 |
+| Lobby Creation Time | Monday, January 8, 2024 01:47:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310279701864 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | WeedFather |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 01:46:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310277960195 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | NOSEEEEE |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:44:19 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310248387183 |
-| Players | 10/10 |
+| Players | 9/10 |
 | Host Name | Z7neo |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Monday, January 8, 2024 01:14:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310280657918 |
-| Players | 12/15 |
-| Host Name | Tranquility |
+| Lobby ID | 28595310280960667 |
+| Players | 1/8 |
+| Host Name | korol' hardbl |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:46:59 |
+| Lobby Creation Time | Monday, January 8, 2024 01:47:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310280590113 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | BluiaKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:46:55 |
@@ -140,10 +140,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310280846762 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | DUKETO |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:47:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310281020799 |
+| Players | 1/8 |
+| Host Name | Qwixie.LOV3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 01:47:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310281029900 |
+| Players | 2/10 |
+| Host Name | Veqazz |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:47:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -180,14 +198,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jean-Michel Beauf |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 01:46:04 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310280051671 |
-| Players | 1/10 |
-| Host Name | ✪ Mario 93 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, January 8, 2024 01:46:23 |
 
 
