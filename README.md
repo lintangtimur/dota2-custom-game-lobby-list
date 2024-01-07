@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309526803341 |
-| Players | 14/15 |
-| Host Name | zaqew |
+| Lobby ID | 28595309527531620 |
+| Players | 2/8 |
+| Host Name | руинер |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:55:23 |
+| Lobby Creation Time | Sunday, January 7, 2024 12:56:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309527538944 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | DonFlag |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:56:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309527036655 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:55:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309526657052 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Cthulhu |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:55:09 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:55:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309527531620 |
-| Players | 2/8 |
-| Host Name | руинер |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:56:34 |
 
 
 |  | epic_boss_fight_nightmare |
