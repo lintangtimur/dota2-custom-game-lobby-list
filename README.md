@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309708517980 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:01:19 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309709473977 |
-| Players | 8/10 |
-| Host Name | монстр секса |
+| Lobby ID | 28595309709784102 |
+| Players | 2/10 |
+| Host Name | Пожилой чаминг🔶 |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:02:32 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:02:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309708539421 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | ABSOLUT_SUKUNA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:01:21 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309709647565 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Y4enickDaxaka |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:02:45 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309709783801 |
+| Players | 1/10 |
+| Host Name | Biborten! |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:02:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309705683809 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | miriam |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:57:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309708082488 |
-| Players | 9/10 |
-| Host Name | Oz. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:00:46 |
 
 
 |  | epic_boss_fight_normal |
