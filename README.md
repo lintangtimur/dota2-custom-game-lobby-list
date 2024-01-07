@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310014097367 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | НЕ ЗАБЫВАЙ СВОИ К |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:43:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310013420659 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Douma |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:42:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310017296537 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | quacc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:45:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310014476436 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Mike_To |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:43:21 |
@@ -83,40 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:45:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310017377459 |
-| Players | 7/8 |
-| Host Name | просто пизда |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:45:41 |
+| Lobby ID | 28595310017973171 |
+| Players | 5/10 |
+| Host Name | пенис гриндер |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:46:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310017006043 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | kaljewal |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:45:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310017992858 |
-| Players | 3/10 |
-| Host Name | Срань Господня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:46:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310017973171 |
-| Players | 1/10 |
-| Host Name | пенис гриндер |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:46:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310017679876 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | 5 cm Savage |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:45:56 |
