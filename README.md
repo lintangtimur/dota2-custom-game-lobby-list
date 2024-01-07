@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309705216937 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | GUS MOBLIN |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 16:57:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309706115121 |
-| Players | 5/8 |
-| Host Name | кровь из вены пыщ |
+| Lobby ID | 28595309706322928 |
+| Players | 1/10 |
+| Host Name | ? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:58:16 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:58:32 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309706091945 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | king of fools |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:58:15 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309706169400 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | https://www.twitch.tv/goodvil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:58:21 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309706239499 |
+| Players | 4/8 |
+| Host Name | illusion |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:58:26 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309703483027 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Тупой китаец |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:54:55 |
