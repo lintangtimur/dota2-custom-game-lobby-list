@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310140441228 |
-| Players | 14/24 |
+| Players | 22/24 |
 | Host Name | Inukami Korone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:31:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310144489017 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | A.XVI_973 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 23:35:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310143184764 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | tinkin ªbout iu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 23:34:18 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310144512655 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | /\OM/.\TE/\ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 23:35:30 |
@@ -130,29 +130,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310144165733 |
+| Lobby ID | 28595310144698456 |
+| Players | 2/8 |
+| Host Name | :( |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 23:35:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310144625770 |
+| Players | 6/8 |
+| Host Name | Капрал Клиторчук |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:35:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310144698137 |
 | Players | 1/8 |
-| Host Name | General Tinker 5-4 pose |
+| Host Name | Масюня |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 23:35:11 |
+| Lobby Creation Time | Sunday, January 7, 2024 23:35:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310144568774 |
-| Players | 3/8 |
-| Host Name | New Year |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:35:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310144461482 |
-| Players | 1/8 |
-| Host Name | ЧелиQ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:35:27 |
+| Lobby ID | 28595310141333760 |
+| Players | 11/15 |
+| Host Name | All muted |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 23:32:38 |
 
 
 |  | epic_boss_fight_normal |
