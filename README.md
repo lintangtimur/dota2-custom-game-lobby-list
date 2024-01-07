@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310279951860 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | MS for Hope |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 01:46:17 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310278257765 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Chuckles |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 01:44:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310278150059 |
-| Players | 23/24 |
-| Host Name | ☯•S么MUR么I•☯ |
+| Lobby ID | 28595310280228446 |
+| Players | 2/10 |
+| Host Name | Eddy |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:44:31 |
+| Lobby Creation Time | Monday, January 8, 2024 01:46:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310279856999 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Dragon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:46:12 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310280020493 |
-| Players | 3/15 |
-| Host Name | Shoni¬(*_*)¬ |
+| Players | 5/15 |
+| Host Name | Tenyo |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 01:46:21 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310248387183 |
-| Players | 9/10 |
+| Players | 10/10 |
 | Host Name | Z7neo |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Monday, January 8, 2024 01:14:59 |
@@ -104,19 +104,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310278770550 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | General Cheems Cheetos |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:45:08 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310280209895 |
+| Players | 9/10 |
+| Host Name | most of all i hate myself |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:46:32 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310280091213 |
-| Players | 4/8 |
-| Host Name | qvq罪 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:46:26 |
+| Lobby ID | 28595310279992180 |
+| Players | 2/8 |
+| Host Name | >|BENzzzPLuG|< |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:46:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310280261726 |
+| Players | 2/8 |
+| Host Name | Canela pasión |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 01:46:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310280283877 |
+| Players | 6/8 |
+| Host Name | you d'ont form in the wet sand |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:46:37 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310279390771 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:45:44 |
