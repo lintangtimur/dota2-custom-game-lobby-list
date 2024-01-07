@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309739049118 |
-| Players | 2/8 |
-| Host Name | Hi |
+| Players | 1/8 |
+| Host Name | .. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:38:42 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309745817517 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:46:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309746815365 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Van ♂️ Darkholme |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:47:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309746391531 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | SSS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:47:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309746487703 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | егор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:47:28 |
@@ -83,40 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:47:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309746846935 |
-| Players | 5/24 |
-| Host Name | я шадоу финд мам |
+| Lobby ID | 28595309746363311 |
+| Players | 9/10 |
+| Host Name | MaTaNGo_O |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:47:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309744958100 |
-| Players | 23/24 |
-| Host Name | 阳光开朗大男孩 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:45:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309746856186 |
-| Players | 5/8 |
-| Host Name | дисептикон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:47:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309746854156 |
-| Players | 1/8 |
-| Host Name | Smiley Frog |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:47:53 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:47:19 |
 
 
 |  | epic_boss_fight_nightmare |
