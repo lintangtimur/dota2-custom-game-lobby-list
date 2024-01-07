@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309908971090 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | Владик шоколадик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:19:38 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309908786193 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ПРИГОЖИН ЖЕНЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:19:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309908879545 |
-| Players | 1/8 |
-| Host Name | anal destroyer pussy ass niga |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:19:33 |
 
 
 |  | ot3_desert_octet |
@@ -110,10 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 20:19:37 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309909199239 |
+| Players | 1/15 |
+| Host Name | Hakachi01 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:19:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309909221488 |
+| Players | 4/8 |
+| Host Name | ДЕВОЧКА С КАРРЕ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 20:19:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309904551623 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Makoto Shishio |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:16:04 |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309907126098 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | tahwah1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:18:08 |
