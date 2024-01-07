@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309357673362 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Lil Ozy Wit Da Rizzy |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:48:12 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:45:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309357073133 |
-| Players | 6/8 |
-| Host Name | El gato con Ojotas |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:47:06 |
+| Lobby ID | 28595309358009326 |
+| Players | 2/10 |
+| Host Name | bops |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:48:49 |
 
 
 |  | ot3_desert_octet |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309357611301 |
-| Players | 8/10 |
-| Host Name | Ego Death |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:48:05 |
+| Lobby ID | 28595309357832872 |
+| Players | 4/10 |
+| Host Name | Karen❤ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:48:30 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309353226645 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | el chikitito de la profesia |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:40:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309356609910 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | MATA VENECOS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:46:14 |
@@ -86,25 +86,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309356879502 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Ryder |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:46:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309357452983 |
+| Players | 7/8 |
+| Host Name | я вижу все |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:47:48 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309357832872 |
-| Players | 1/10 |
-| Host Name | Karen❤ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:48:30 |
+| Lobby ID | 28595309357892554 |
+| Players | 3/10 |
+| Host Name | FF |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:48:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309357923355 |
+| Players | 4/24 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:48:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309357962454 |
+| Players | 3/8 |
+| Host Name | DEusEXpressionTAS |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:48:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309358075726 |
+| Players | 1/15 |
+| Host Name | Zoom |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:48:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309357588379 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ꦧꦸꦱꦸꦁꦭꦥꦂ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:48:03 |
