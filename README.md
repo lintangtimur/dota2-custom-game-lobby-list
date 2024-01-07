@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309381943980 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Aesgard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:34:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309381924293 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:34:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309382021821 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | БИГ С(  . )( .  )СИ ЛАЙФ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:34:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309378282404 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | ♥Y U N J I N♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:27:25 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309381797046 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | 2 MAS Y NOS VAMOS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:34:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309382368966 |
+| Players | 1/24 |
+| Host Name | Irif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:35:25 |
 
 
 |  | epic_boss_fight_nightmare |
