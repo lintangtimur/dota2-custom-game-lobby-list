@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309555944035 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ♂Magane♂ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:39:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309556321010 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | 玫瑰少年 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:40:20 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309556677656 |
-| Players | 3/24 |
+| Players | 10/24 |
 | Host Name | NIÑO SIN PINGA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:40:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309556689887 |
-| Players | 1/15 |
-| Host Name | Cerebro Bro Bro Bro |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:40:54 |
 
 
 |  | ot3_gardens_duo |
@@ -90,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Сквиртуоз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:40:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309556829072 |
+| Players | 3/8 |
+| Host Name | pjmut |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:41:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309556532906 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ✪D1N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:40:39 |
