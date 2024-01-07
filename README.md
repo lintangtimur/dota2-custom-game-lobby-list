@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309588482983 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Krink |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:26:44 |
@@ -50,16 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309585479432 |
-| Players | 14/15 |
+| Players | 10/15 |
 | Host Name | Ponte las pilas Krag |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:22:34 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309588779639 |
+| Players | 2/24 |
+| Host Name | Entel | Asesor de Portabilidad |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 14:27:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309586120814 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, January 7, 2024 14:23:28 |
