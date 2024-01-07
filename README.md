@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310132298724 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | gegp |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 23:24:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310134852979 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | hh. |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:26:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310131279125 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Saido Chesto |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 23:23:31 |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:26:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310129357942 |
-| Players | 22/24 |
-| Host Name | Bach |
+| Lobby ID | 28595310135262162 |
+| Players | 6/8 |
+| Host Name | чеф киф |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:21:46 |
+| Lobby Creation Time | Sunday, January 7, 2024 23:27:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310134815027 |
-| Players | 4/10 |
-| Host Name | 0 to 1 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:26:42 |
+| Lobby ID | 28595310134371295 |
+| Players | 3/8 |
+| Host Name | 🐓Petoohsok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 23:26:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -166,11 +166,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310132840075 |
-| Players | 6/8 |
-| Host Name | twitch.tv/darqi4 |
+| Lobby ID | 28595310134990152 |
+| Players | 2/8 |
+| Host Name | тати |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:24:56 |
+| Lobby Creation Time | Sunday, January 7, 2024 23:26:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -185,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310133096618 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | >!! fight me !!< |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 23:25:09 |
