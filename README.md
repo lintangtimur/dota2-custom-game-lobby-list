@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309444155650 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | openjaimerrrr |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:31:26 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309443874035 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Space |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:30:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309444163077 |
-| Players | 12/15 |
-| Host Name | prime malr1ne |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:31:27 |
+| Lobby ID | 28595309444964758 |
+| Players | 5/24 |
+| Host Name | NothingFeelsRight |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:32:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309444510351 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Hatsui |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:32:05 |
@@ -65,21 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:31:16 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309444964758 |
-| Players | 4/24 |
-| Host Name | NothingFeelsRight |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:32:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309445106573 |
-| Players | 1/5 |
+| Lobby ID | 28595309445151892 |
+| Players | 1/10 |
 | Host Name | MrMechas |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:33:10 |
+| Lobby Creation Time | Sunday, January 7, 2024 10:33:16 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309436647248 |
+| Players | 5/7 |
+| Host Name | Цибуля |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:17:33 |
 
 
