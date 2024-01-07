@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309554484144 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | whoami~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:37:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309555105251 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Vernedomo |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:38:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | 4k7m |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309555383869 |
-| Players | 1/15 |
-| Host Name | 2222 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:38:55 |
+| Lobby ID | 28595309555553925 |
+| Players | 2/15 |
+| Host Name | Mr. Esperman |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:39:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -65,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:38:33 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28595309553648139 |
-| Players | 9/10 |
-| Host Name | A- |
+| Lobby ID | 28595309555555890 |
+| Players | 3/7 |
+| Host Name | NiaoNiao |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:36:17 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:39:11 |
 
 
