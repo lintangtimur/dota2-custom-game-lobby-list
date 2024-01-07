@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309450074930 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Kaк в cтapыe, добрые) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:42:29 |
@@ -20,37 +20,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:52:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309454374437 |
-| Players | 22/24 |
-| Host Name | MC |
+| Lobby ID | 28595309455579109 |
+| Players | 5/8 |
+| Host Name | VISHTACK BORN |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:50:28 |
+| Lobby Creation Time | Sunday, January 7, 2024 10:52:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309453020492 |
-| Players | 14/24 |
+| Players | 12/24 |
 | Host Name | DIO! |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 10:47:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309454261572 |
-| Players | 14/15 |
-| Host Name | Ча ча ча |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:50:14 |
+| Lobby ID | 28595309455721730 |
+| Players | 3/24 |
+| Host Name | GMP [DVG] |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 10:52:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309454900557 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | prime malr1ne |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:51:26 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309454927709 |
-| Players | 9/10 |
-| Host Name | tocosh |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:51:29 |
+| Lobby ID | 28595309455767649 |
+| Players | 4/10 |
+| Host Name | Paxlee |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 10:53:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309454795097 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | lets_fight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:51:14 |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309455449596 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:52:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309455579109 |
-| Players | 4/8 |
-| Host Name | VISHTACK BORN |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:52:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309455767649 |
-| Players | 2/10 |
-| Host Name | Paxlee |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:53:00 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309455721730 |
-| Players | 1/24 |
-| Host Name | GMP [DVG] |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:52:55 |
 
 
 |  | epic_boss_fight_nightmare |
