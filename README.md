@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:16:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309468156507 |
-| Players | 14/15 |
-| Host Name | zaqew |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:15:13 |
+| Lobby ID | 28595309469681944 |
+| Players | 6/8 |
+| Host Name | Janix |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:17:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309469395996 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Et3rnauta |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:17:24 |
@@ -77,34 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309469482858 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:17:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309469681944 |
-| Players | 5/8 |
-| Host Name | Janix |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:17:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309468565983 |
-| Players | 23/24 |
-| Host Name | **Lucía** |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:15:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309469064279 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 好线 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:16:48 |
@@ -113,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309460893008 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | Crustyチル |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:02:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309463188174 |
+| Players | 9/10 |
+| Host Name | Sakazuki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:06:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309469906923 |
+| Players | 1/5 |
+| Host Name | †CAMMUS™ |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 11:18:18 |
 
 
