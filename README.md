@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562173031 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | m |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:48:56 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:45:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309562238875 |
-| Players | 6/8 |
-| Host Name | Lightning Fingers Raamm |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:49:02 |
+| Lobby ID | 28595309558650940 |
+| Players | 21/24 |
+| Host Name | 御詩詩 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:43:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309561375557 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | justin weaver |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:47:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309562261095 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | DogJeWz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:49:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309563381145 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Mikki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:50:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309563453534 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Nacho Fierro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:50:48 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:51:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309558650940 |
-| Players | 22/24 |
-| Host Name | 御詩詩 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:43:49 |
 
 
 |  | epic_boss_fight_nightmare |
