@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309624876990 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | SpliNteR |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:15:20 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309642067293 |
-| Players | 7/10 |
-| Host Name | пончик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:37:22 |
+| Lobby ID | 28595309642305018 |
+| Players | 1/10 |
+| Host Name | ArCHeR |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:37:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309640359999 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | LuK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:35:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309641736747 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Korben Dallas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:36:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309641693017 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | It's a NO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:36:53 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309642001847 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Балбес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:37:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309642305018 |
-| Players | 1/10 |
-| Host Name | ArCHeR |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:37:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309642393700 |
-| Players | 1/10 |
-| Host Name | АБСОЛЮТ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:37:47 |
 
 
 |  | epic_boss_fight_normal |
