@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310070659825 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Fena! |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 22:30:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310064102710 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | yuca |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:24:33 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:28:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310069044958 |
-| Players | 6/15 |
-| Host Name | gomer |
+| Lobby ID | 28595310071575882 |
+| Players | 9/10 |
+| Host Name | pohui proebali |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:28:48 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:30:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310069334694 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | After Midnight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:29:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310071343047 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | ПΣVΣЯMӨЯΣ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:30:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310071349395 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | ШКОЛА ЗАЕБАЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:30:47 |
@@ -141,7 +141,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595310071449977 |
 | Players | 2/10 |
-| Host Name | Dndama |
+| Host Name | GDMT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:30:52 |
 
