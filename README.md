@@ -13,18 +13,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309599426318 |
-| Players | 1/24 |
-| Host Name | Novato Prime |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 14:41:34 |
+| Lobby ID | 28595309598983166 |
+| Players | 11/24 |
+| Host Name | heart |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:40:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309599615796 |
 | Players | 1/15 |
-| Host Name | WolFyKah |
+| Host Name | roothuyut |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:41:49 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309598634886 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | akigarsu |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:40:30 |
@@ -56,28 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:40:46 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309598711452 |
-| Players | 8/10 |
-| Host Name | Cpt Karl |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, January 7, 2024 14:40:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309598983166 |
-| Players | 7/24 |
-| Host Name | heart |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:40:58 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309599590527 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 帰省 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:41:47 |
