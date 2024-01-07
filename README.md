@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309378402134 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | <Cyborgix> |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:27:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309378963410 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | 1thekey |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:28:46 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:27:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309377930424 |
-| Players | 4/8 |
-| Host Name | гриша атос |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:26:44 |
+| Lobby ID | 28595309379136427 |
+| Players | 2/10 |
+| Host Name | Hecker |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:29:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309379058807 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Xatai123 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:28:57 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309378255710 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 08:27:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309378795368 |
-| Players | 6/10 |
-| Host Name | bartenderGamer |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:28:25 |
 
 
