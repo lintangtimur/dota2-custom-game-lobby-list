@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309767424305 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | big shmunk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:10:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309766518953 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Shakal 2009 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 18:09:44 |
@@ -29,13 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:08:13 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309767621284 |
+| Players | 3/24 |
+| Host Name | 1 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:10:59 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309767575958 |
-| Players | 4/8 |
-| Host Name | ЧТО ТАКОЕ БУСТ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:10:56 |
+| Lobby ID | 28595309767743199 |
+| Players | 1/8 |
+| Host Name | ਜ਼ਡੋਹ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:11:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -47,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:06:24 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309767200509 |
-| Players | 3/7 |
-| Host Name | ♜♞♝♚ҝɣƀ♛♝♞♜ |
+| Lobby ID | 28595309767607350 |
+| Players | 2/5 |
+| Host Name | thpanarama |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:10:30 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:10:58 |
 
 
