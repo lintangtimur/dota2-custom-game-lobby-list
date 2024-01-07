@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309545359343 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | dead game enjoyer (4/5) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:23:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309543490295 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:21:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309545385196 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | MAWELL |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:23:58 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:33:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309545638137 |
-| Players | 1/10 |
-| Host Name | Какаин ебейший |
+| Lobby ID | 28595309546683932 |
+| Players | 6/24 |
+| Host Name | masu nguyen |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:24:20 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:25:54 |
 
 
 |  | ot3_desert_octet |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:51:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309545717907 |
-| Players | 5/24 |
-| Host Name | (x_x) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:24:27 |
+| Lobby ID | 28595309546726955 |
+| Players | 4/15 |
+| Host Name | Nice*1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:25:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309543124225 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ae-in |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:20:34 |
@@ -92,57 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:24:12 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309545472563 |
-| Players | 6/8 |
-| Host Name | Enjoy dota, enjoy |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:24:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309545481030 |
-| Players | 1/15 |
-| Host Name | Yuugo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:24:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309545595314 |
-| Players | 7/10 |
-| Host Name | BARINOV1VOEVAL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:24:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309546149525 |
-| Players | 3/15 |
-| Host Name | пикаю аппарата |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:25:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309544944072 |
-| Players | 8/10 |
-| Host Name | Kurimawski |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:23:18 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309545901214 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Raynuva |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:24:44 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309546792944 |
+| Players | 1/7 |
+| Host Name | Dester |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:26:04 |
 
 
