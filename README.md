@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309831571824 |
-| Players | 1/15 |
-| Host Name | sup sup sup sup sup sup sup sup |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:14:29 |
+| Lobby ID | 28595309832537787 |
+| Players | 1/10 |
+| Host Name | bennie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:15:21 |
 
 
 |  | ot3_desert_octet |
@@ -29,20 +29,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:14:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309831710596 |
-| Players | 7/10 |
-| Host Name | Торшер Good Boy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:14:37 |
+| Lobby ID | 28595309832276145 |
+| Players | 8/24 |
+| Host Name | Over Time Kill |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:15:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309819950038 |
-| Players | 4/10 |
-| Host Name | ♥Murzik♥ |
+| Players | 3/10 |
+| Host Name | saska |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 19:03:49 |
 
@@ -50,43 +50,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309831776830 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | Shevrassa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:14:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309830388391 |
-| Players | 13/15 |
-| Host Name | ArTan1S-九尾 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:13:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309832060536 |
-| Players | 2/10 |
-| Host Name | رماد سق |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:14:56 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309825089572 |
-| Players | 11/24 |
+| Players | 20/24 |
 | Host Name | H1RO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:08:34 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309832180382 |
+| Players | 6/15 |
+| Host Name | Шелдарон |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:15:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309832729606 |
+| Players | 1/8 |
+| Host Name | 0.0 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Sunday, January 7, 2024 19:15:31 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309827158761 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | MurlDoc |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:10:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595309827104121 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | ∬(arcsinx+(log₃37/∛tgx))dx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:10:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309831794490 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Hiraeth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:14:42 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:14:47 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595309832089791 |
-| Players | 1/7 |
-| Host Name | heikou |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:14:57 |
 
 
