@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309470128045 |
 | Players | 2/15 |
-| Host Name | Angry |
+| Host Name | E P I C T E T O |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:18:42 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309471746182 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Dominique de Coco |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:21:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309471953055 |
-| Players | 3/24 |
+| Players | 14/24 |
 | Host Name | stats only |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:21:56 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | liluriena |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:22:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309472061765 |
+| Players | 1/24 |
+| Host Name | 76561198094039879 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:22:08 |
 
 
 |  | epic_boss_fight_nightmare |
