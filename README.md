@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309349055450 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | PRO Fire |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:32:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309349634477 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Kira_Simpai |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:33:24 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309349656181 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | byunjoe |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:33:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309348529580 |
-| Players | 9/10 |
-| Host Name | Without negative |
+| Lobby ID | 28595309349985615 |
+| Players | 3/8 |
+| Host Name | Bedni? s Bashkoy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:31:26 |
+| Lobby Creation Time | Sunday, January 7, 2024 07:34:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:33:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309349456453 |
-| Players | 12/15 |
-| Host Name | Elya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:33:05 |
+| Lobby ID | 28595309349903673 |
+| Players | 4/24 |
+| Host Name | 1Class |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:33:53 |
 
 
 |  | ot3_gardens_duo |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309349896441 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | KHYOGA GIORDOTA.COM-FAING |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:33:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309349903673 |
-| Players | 2/24 |
-| Host Name | 1Class |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:33:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309349929900 |
-| Players | 4/8 |
-| Host Name | pivasik |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:33:56 |
 
 
 |  | epic_boss_fight_nightmare |
