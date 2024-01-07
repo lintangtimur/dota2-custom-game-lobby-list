@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309422365100 |
-| Players | 7/8 |
-| Host Name | mario |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:51:13 |
+| Lobby ID | 28595309422157895 |
+| Players | 4/8 |
+| Host Name | Zeta de Riemann |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:50:50 |
 
 
 |  | ot3_gardens_duo |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:51:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309423332315 |
-| Players | 4/8 |
-| Host Name | Patskii |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, January 7, 2024 09:53:01 |
+| Lobby ID | 28595309423343525 |
+| Players | 2/10 |
+| Host Name | TOGA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:53:03 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309422725567 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Hyoukoh |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 09:51:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309422530379 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Alfrood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:51:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309422528294 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | BOSSJEM |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 09:51:31 |
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309423035705 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | FloweryShirtGuy |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:52:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309422157895 |
-| Players | 4/8 |
-| Host Name | Zeta de Riemann |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:50:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309423343525 |
-| Players | 2/10 |
-| Host Name | TOGA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:53:03 |
+| Lobby ID | 28595309423543560 |
+| Players | 2/15 |
+| Host Name | lebanon don |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 09:53:25 |
 
 
 |  | epic_boss_fight_nightmare |
