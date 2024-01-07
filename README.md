@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309457533510 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Stringer |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:56:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309458145328 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | Moonks |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:57:19 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309458304797 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Jesse Pinkman |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:57:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309458602965 |
-| Players | 1/15 |
-| Host Name | саняхускар2004 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:58:09 |
+| Lobby ID | 28595309458972875 |
+| Players | 1/24 |
+| Host Name | SameShit |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:58:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309458046232 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | !!..Leons....origins..!! /○◘•♦♣♠ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:57:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309458388665 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Kodos |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:57:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309458560411 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | TwsChimSe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:58:04 |
