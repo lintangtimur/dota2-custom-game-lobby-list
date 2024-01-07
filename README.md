@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309882703190 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | papa.elf |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 19:58:18 |
@@ -56,49 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:58:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309883975419 |
-| Players | 8/15 |
-| Host Name | где я? |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:59:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309884110548 |
-| Players | 1/8 |
-| Host Name | Ya toy viejo! |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 19:59:26 |
+| Lobby ID | 28595309884398968 |
+| Players | 2/10 |
+| Host Name | ТИШЕ ТИШЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:59:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309884170858 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Я К ХУЯМ ПРОКЛЯТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:59:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309884186100 |
-| Players | 2/10 |
-| Host Name | я ПАНК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:59:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309884231229 |
-| Players | 1/10 |
-| Host Name | tratimov |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:59:32 |
+| Lobby ID | 28595309884457353 |
+| Players | 1/24 |
+| Host Name | jnikko |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:59:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Абхазская вафля |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:59:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309880847368 |
+| Players | 9/10 |
+| Host Name | Sunghacor |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:56:47 |
 
 
