@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309462231753 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 阳光猛烈 摆鬼夜行 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:04:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309463314401 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Yung Prawna |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:06:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309463029243 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | stats only |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:06:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309461965207 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Jinoky |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:04:09 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309463638846 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ночной дозор мытищи |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:07:07 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309463968086 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SameShit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:07:43 |
@@ -123,7 +123,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309463985127 |
 | Players | 1/8 |
-| Host Name | ИДУ НАХУЙ |
+| Host Name | Borealis |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:07:45 |
 
