@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309351894114 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | scar face |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:37:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309352209038 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | майкл джордан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:38:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309352181861 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | TU AMIGO EL CHOLO JUANITO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:38:02 |
@@ -65,40 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:37:57 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309351950163 |
-| Players | 8/10 |
-| Host Name | Goku Peruano |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:37:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309352202662 |
-| Players | 4/8 |
-| Host Name | Valuee19 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:38:04 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309352269893 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | l_goldmaister_l |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:38:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309352264820 |
-| Players | 4/8 |
-| Host Name | Brrr |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:38:11 |
 
 
 |  | ot3_gardens_duo |
