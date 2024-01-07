@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309605611239 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:49:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309607409860 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:52:22 |
@@ -38,48 +38,75 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:51:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309606928192 |
-| Players | 14/15 |
-| Host Name | sílam moríhoh^^ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:51:43 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309606119909 |
-| Players | 23/24 |
-| Host Name | [N]-Never-[N] |
+| Lobby ID | 28595309607501700 |
+| Players | 13/24 |
+| Host Name | 永远不要提前开香槟 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:50:37 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:52:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309607532835 |
+| Players | 2/15 |
+| Host Name | さようなら(青春) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:52:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309607352157 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Seguidor de Ratamanche |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:52:17 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309607488557 |
+| Players | 1/15 |
+| Host Name | slapping prank with dubai Sheikh |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 14:52:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309607495328 |
+| Players | 6/8 |
+| Host Name | EgorTver |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:52:29 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309607351549 |
-| Players | 2/10 |
-| Host Name | BARINOV1VOEVAL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:52:17 |
+| Lobby ID | 28595309607836841 |
+| Players | 1/10 |
+| Host Name | Weiße Wand |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:52:56 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309605667256 |
-| Players | 1/5 |
+| Lobby ID | 28595309607757964 |
+| Players | 2/10 |
+| Host Name | Chlowie<3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:52:50 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595309607850985 |
+| Players | 1/7 |
 | Host Name | Ластхит по пиву |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:50:01 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:52:57 |
 
 
