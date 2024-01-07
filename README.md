@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309665504012 |
-| Players | 22/24 |
-| Host Name | DMM |
+| Lobby ID | 28595309667169175 |
+| Players | 2/24 |
+| Host Name | CX330 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:07:02 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:09:11 |
 
 
 |  | ot3_desert_octet |
@@ -32,37 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309666119517 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Nelsonio |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:07:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309667004687 |
-| Players | 2/15 |
-| Host Name | nothing but lies |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:08:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309666737067 |
-| Players | 12/15 |
-| Host Name | YATOVOROT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:08:37 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309667050228 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hitriy(Хитрый) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:09:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309667191206 |
+| Players | 3/15 |
+| Host Name | nothing but lies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:09:13 |
 
 
 |  | epic_boss_fight_nightmare |
