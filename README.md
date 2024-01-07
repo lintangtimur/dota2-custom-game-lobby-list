@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309423627371 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Dolan Duck |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:53:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309422519780 |
-| Players | 18/24 |
-| Host Name | -♣ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:51:30 |
+| Lobby ID | 28595309425104767 |
+| Players | 1/10 |
+| Host Name | BubiBubi |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:56:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309423877603 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | TentraMiTrozon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:54:02 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309424710569 |
-| Players | 7/8 |
-| Host Name | Jalan el leoncito |
+| Lobby ID | 28595309425123542 |
+| Players | 6/8 |
+| Host Name | El Tio Custom |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:55:33 |
+| Lobby Creation Time | Sunday, January 7, 2024 09:56:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309424545649 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | SonrieTuImportas |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:55:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309424327041 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Bniuoas |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 09:54:51 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:56:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309425062870 |
-| Players | 1/15 |
-| Host Name | Mr_K |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:56:12 |
+| Lobby ID | 28595309422519780 |
+| Players | 23/24 |
+| Host Name | -♣ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:51:30 |
 
 
 |  | epic_boss_fight_nightmare |
