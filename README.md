@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309691647859 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 16:39:51 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309704410814 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Magadan RQ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:56:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309704487470 |
-| Players | 2/8 |
-| Host Name | Demaster |
+| Lobby ID | 28595309705002804 |
+| Players | 10/15 |
+| Host Name | Absolute Emptiness |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:56:12 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:56:52 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:54:55 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309704221307 |
-| Players | 1/5 |
-| Host Name | mnm |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:55:52 |
+| Lobby ID | 28595309704635735 |
+| Players | 5/24 |
+| Host Name | jnikko |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:56:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309705038755 |
+| Players | 1/8 |
+| Host Name | ICe_WalloW_Come |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:56:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309705150090 |
+| Players | 1/8 |
+| Host Name | cocoq |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 16:57:03 |
 
 
 |  | epic_boss_fight_nightmare |
