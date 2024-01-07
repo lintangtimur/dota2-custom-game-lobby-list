@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309440663507 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | MOther fucker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:24:56 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309429549886 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 恶魔震动 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:04:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309441682594 |
-| Players | 7/10 |
-| Host Name | ТЕРМИТ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:26:50 |
+| Lobby ID | 28595309442045369 |
+| Players | 6/8 |
+| Host Name | Zeta de Riemann |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:27:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309441366786 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Mr. Bean Bean |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:26:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309439715751 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | el chikitito de la profesia |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:23:12 |
