@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309653329741 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | deadlysh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:51:47 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309653477969 |
-| Players | 2/8 |
-| Host Name | DarkSnake |
+| Players | 1/8 |
+| Host Name | попка |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:51:58 |
 
