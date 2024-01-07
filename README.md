@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309605611239 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:49:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309607501700 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | 永远不要提前开香槟 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:52:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309607532835 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | さようなら(青春) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:52:32 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:52:28 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309608100564 |
+| Players | 1/8 |
+| Host Name | Pomstick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:53:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309607757964 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Chlowie<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:52:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309607937686 |
-| Players | 1/5 |
-| Host Name | Ластхит по пиву |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:53:04 |
 
 
 |  | epic_boss_fight_nightmare |
