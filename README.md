@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309653329741 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | deadlysh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:51:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309652270987 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:50:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309652590658 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | BAGREZUKO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:50:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309650945665 |
-| Players | 15/15 |
+| Players | 14/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:48:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309654003754 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | do whatever you want... |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 15:52:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309654174488 |
-| Players | 6/15 |
+| Players | 3/15 |
 | Host Name | Гадаю на Клиторе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:52:50 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309654228601 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | SoreX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:52:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309654268014 |
+| Players | 2/10 |
+| Host Name | Ручки мерзнут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:52:57 |
 
 
 |  | epic_boss_fight_nightmare |
