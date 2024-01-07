@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309951034435 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | jefe |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 20:52:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309949196301 |
-| Players | 7/8 |
-| Host Name | Sicario |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:51:29 |
+| Lobby ID | 28595309950229993 |
+| Players | 5/24 |
+| Host Name | Vi195 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:52:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309947611596 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Kanki |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 20:50:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309950004372 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | hydra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 20:52:06 |
@@ -101,13 +101,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 20:52:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309950229993 |
-| Players | 4/24 |
-| Host Name | Vi195 |
+| Lobby ID | 28595309949917205 |
+| Players | 3/8 |
+| Host Name | сильнее соли |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:52:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309951265224 |
+| Players | 3/8 |
+| Host Name | Calcifer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:53:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309951220277 |
+| Players | 4/10 |
+| Host Name | Plethora_ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 20:52:17 |
+| Lobby Creation Time | Sunday, January 7, 2024 20:53:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309951300374 |
+| Players | 2/8 |
+| Host Name | abramik |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 20:53:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309951308323 |
+| Players | 6/10 |
+| Host Name | Icarus雨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:53:07 |
 
 
 |  | epic_boss_fight_nightmare |
