@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309788019347 |
-| Players | 9/10 |
-| Host Name | turbobob |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:32:40 |
+| Lobby ID | 28595309787327211 |
+| Players | 23/24 |
+| Host Name | V1 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:31:58 |
 
 
 |  | ot3_desert_octet |
@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309788985345 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | heka |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:33:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309788850263 |
-| Players | 14/15 |
-| Host Name | Attakiera |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:33:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309787327211 |
-| Players | 20/24 |
-| Host Name | V1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:31:58 |
 
 
 |  | epic_boss_fight_nightmare |
