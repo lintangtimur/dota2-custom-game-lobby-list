@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309527531620 |
-| Players | 4/8 |
-| Host Name | руинер |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:56:34 |
+| Lobby ID | 28595309528136522 |
+| Players | 3/24 |
+| Host Name | Fakar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:57:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309527538944 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | DonFlag |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:56:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309527457777 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Don payiyo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:56:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309527036655 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:55:45 |
@@ -83,12 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:55:36 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309528206943 |
+| Players | 1/24 |
+| Host Name | Leekholic |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:57:39 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309528103298 |
-| Players | 6/8 |
-| Host Name | The Lagmeister |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:57:29 |
+| Lobby ID | 28595309527531620 |
+| Players | 3/8 |
+| Host Name | руинер |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:56:34 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595309528464726 |
+| Players | 1/7 |
+| Host Name | СтонСоседки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:58:03 |
 
 
