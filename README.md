@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309564262223 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Мисочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:51:59 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309558650940 |
-| Players | 18/24 |
-| Host Name | DeaT|H|AckZ |
+| Players | 19/24 |
+| Host Name | Maxima |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:43:49 |
 
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309564846202 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | coopitman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:52:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309564491465 |
-| Players | 1/8 |
-| Host Name | Exuse (muted) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:52:19 |
 
 
 |  | ot3_gardens_duo |
