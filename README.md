@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309430730707 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | split personality |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:06:42 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:57:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309430066664 |
-| Players | 14/15 |
-| Host Name | ☺ |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:05:25 |
+| Lobby ID | 28595309430977749 |
+| Players | 7/8 |
+| Host Name | EL INSANO WUAZAAA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:07:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309424327041 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Hold_The_Door |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 09:54:51 |
@@ -90,6 +90,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Winterfell |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:06:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309430979590 |
+| Players | 3/8 |
+| Host Name | NO name |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 10:07:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309431043465 |
+| Players | 1/15 |
+| Host Name | jhesse |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:07:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309431066241 |
+| Players | 1/15 |
+| Host Name | Old |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 10:07:20 |
 
 
 |  | epic_boss_fight_nightmare |
