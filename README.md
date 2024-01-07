@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309539711784 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | DonFlag |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:15:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309539931065 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | **Lucía** |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:15:43 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309539582267 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Зайчатки Разума |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:15:12 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maharaja Lawana |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:15:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309540087774 |
+| Players | 1/10 |
+| Host Name | hatdog |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:15:57 |
 
 
