@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309691647859 |
-| Players | 4/24 |
-| Host Name | Eminence in shadow |
+| Players | 3/24 |
+| Host Name | javaer_f_lores |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 16:39:51 |
 
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309706517251 |
-| Players | 7/15 |
-| Host Name | aWarDeeee |
+| Lobby ID | 28595309707406054 |
+| Players | 3/15 |
+| Host Name | DoraDura |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:58:47 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:59:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309706463871 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Bapak Bapak Rendem |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:58:43 |
@@ -50,19 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309706898752 |
-| Players | 1/8 |
-| Host Name | かcса#2 |
+| Players | 5/8 |
+| Host Name | Rarity' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:59:16 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309707411162 |
+| Players | 1/15 |
+| Host Name | Shalfear |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:59:55 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309706981694 |
-| Players | 5/10 |
-| Host Name | Igor' |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:59:23 |
+| Lobby ID | 28595309705216937 |
+| Players | 9/10 |
+| Host Name | GUS MOBLIN |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 16:57:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309707134588 |
+| Players | 1/24 |
+| Host Name | CapitanGrimm |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, January 7, 2024 16:59:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309707355559 |
+| Players | 2/10 |
+| Host Name | Лобзик |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:59:51 |
 
 
 |  | epic_boss_fight_nightmare |
