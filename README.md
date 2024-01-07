@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309435041640 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | FULL PMA MODe/allmuted |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:14:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309433859173 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 10:12:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309435462423 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | Skreamblack |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:15:24 |
@@ -41,37 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309435623234 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Gahizz |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 10:15:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309435811914 |
-| Players | 6/10 |
-| Host Name | Сережа Унитаз |
+| Lobby ID | 28595309435892403 |
+| Players | 1/8 |
+| Host Name | safi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:16:02 |
+| Lobby Creation Time | Sunday, January 7, 2024 10:16:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309434105342 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | >Ace< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:13:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309435168100 |
-| Players | 6/8 |
-| Host Name | COCO BASILE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:14:53 |
 
 
 |  | ot3_gardens_duo |
