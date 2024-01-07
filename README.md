@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310232199565 |
-| Players | 9/10 |
+| Players | 10/10 |
 | Host Name | [JIuoHeS]™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 00:59:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310230851479 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Teregue |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 00:57:47 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:56:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310232489723 |
-| Players | 14/15 |
-| Host Name | Tired |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:59:23 |
+| Lobby ID | 28595310232618959 |
+| Players | 8/10 |
+| Host Name | AizeN |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 00:59:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310231981320 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | budda_yt |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 00:58:53 |
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:59:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310232611087 |
-| Players | 2/10 |
-| Host Name | Wriggle, Wriggle Little Fish |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 00:59:31 |
+| Lobby ID | 28595310232693027 |
+| Players | 3/15 |
+| Host Name | Langlyaaa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:59:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -155,13 +155,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:59:31 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310232668702 |
+| Players | 1/8 |
+| Host Name | do whatever you want... |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 00:59:34 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310232618959 |
-| Players | 2/10 |
-| Host Name | AizeN |
+| Lobby ID | 28595310231270863 |
+| Players | 8/10 |
+| Host Name | J.dzi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:58:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310232755231 |
+| Players | 6/8 |
+| Host Name | 42 Братуха |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 00:59:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310232793371 |
+| Players | 3/8 |
+| Host Name | There are no former ghouls |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:59:31 |
+| Lobby Creation Time | Monday, January 8, 2024 00:59:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310232787375 |
+| Players | 3/8 |
+| Host Name | whyalwaysme??? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:59:41 |
 
 
 |  | epic_boss_fight_nightmare |
