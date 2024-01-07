@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309520698702 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:45:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309520924732 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | x |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:45:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309515615503 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | GolyGoly 2.0 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:37:04 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:41:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309520119913 |
-| Players | 22/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:44:33 |
+| Lobby ID | 28595309521297654 |
+| Players | 8/15 |
+| Host Name | NOSEEEEE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:46:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309521329213 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Mario Sexy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:46:31 |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309519263517 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Starboy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:43:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309521297654 |
-| Players | 8/15 |
-| Host Name | NOSEEEEE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:46:28 |
 
 
 |  | epic_boss_fight_nightmare |
