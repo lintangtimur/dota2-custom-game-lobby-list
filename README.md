@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309436597105 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Konbu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309436826022 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | ★彡iＫⓐＲㄖş 彡★ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309435892403 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | safi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:16:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309434105342 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | >Ace< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:13:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309436266684 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | VISHTACK BORN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:16:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309436624246 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | _Ferxxo_ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:31 |
@@ -110,10 +110,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:13:39 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309436907712 |
+| Players | 2/8 |
+| Host Name | 阳光猛烈 摆鬼夜行 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:18:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309436944124 |
+| Players | 1/24 |
+| Host Name | HUBByG |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 10:18:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309434592771 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:13:51 |
