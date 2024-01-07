@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309787054120 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Awe$ome.N0Tail |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 18:31:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309785093091 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | PanceZ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:29:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309787319078 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | twitch.tv/bishotv |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:31:57 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309787418874 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | LiteVortex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:32:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309787455655 |
-| Players | 6/24 |
-| Host Name | 노루 noru 노루 noru 노루 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:32:06 |
+| Lobby ID | 28595309787556104 |
+| Players | 1/8 |
+| Host Name | Nightlight |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:32:12 |
 
 
 |  | epic_boss_fight_nightmare |
