@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309548057938 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Nacho Fierro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:27:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309549190148 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Papi Champaño |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:29:38 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309549875205 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Zoom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309550469086 |
-| Players | 1/15 |
-| Host Name | 出棋不意必自闭 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:31:32 |
+| Lobby ID | 28595309550129549 |
+| Players | 7/8 |
+| Host Name | 5lowBurN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:31:02 |
 
 
 |  | ot3_desert_octet |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309549947689 |
-| Players | 2/8 |
-| Host Name | Freaking Lawrence |
+| Players | 1/8 |
+| Host Name | AMS fan ♥ |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:45 |
 
@@ -139,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309550129549 |
-| Players | 7/8 |
-| Host Name | 5lowBurN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:31:02 |
+| Lobby ID | 28595309551000058 |
+| Players | 1/8 |
+| Host Name | gronaldo44 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:32:19 |
 
 
