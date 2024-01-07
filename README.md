@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:48:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310091570746 |
-| Players | 6/10 |
-| Host Name | lustmymind |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:48:24 |
+| Lobby ID | 28595310091110554 |
+| Players | 4/8 |
+| Host Name | Ritzybitz |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 22:48:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310088989651 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | Порш каен |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:46:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310090668767 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Viejo Dotero |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:47:36 |
@@ -40,47 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310090867004 |
-| Players | 9/10 |
-| Host Name | style |
+| Lobby ID | 28595310091798872 |
+| Players | 1/10 |
+| Host Name | БОБА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:47:47 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:48:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310087438199 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:44:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310091553631 |
-| Players | 5/15 |
-| Host Name | psy |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:48:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310091542551 |
-| Players | 3/8 |
-| Host Name | китайский гремли |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:48:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310091110554 |
-| Players | 2/8 |
-| Host Name | Ritzybitz |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 22:48:00 |
 
 
 |  | ot3_gardens_duo |
@@ -92,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:48:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310085890174 |
-| Players | 4/5 |
-| Host Name | 死亡女王 |
+| Lobby ID | 28595310091542551 |
+| Players | 3/8 |
+| Host Name | китайский гремли |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:43:27 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:48:22 |
 
 
