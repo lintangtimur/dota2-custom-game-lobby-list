@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310274442246 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | БатьМать |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 01:40:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310248387183 |
-| Players | 5/10 |
+| Players | 10/10 |
 | Host Name | Feminist parker |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Monday, January 8, 2024 01:14:59 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:37:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310274781915 |
+| Players | 1/8 |
+| Host Name | Илюха #MRAZRUST |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:41:07 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310273405563 |
-| Players | 2/10 |
-| Host Name | Vlada. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 01:39:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310274463906 |
-| Players | 1/15 |
-| Host Name | Krokaska |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:40:47 |
+| Lobby ID | 28595310274808099 |
+| Players | 1/10 |
+| Host Name | El Yuki |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 01:41:09 |
 
 
 |  | ot3_desert_octet |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:36:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310274560297 |
-| Players | 11/15 |
-| Host Name | U VV4NТ D33Z N4T ? [SIUU] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:40:53 |
+| Lobby ID | 28595310274815074 |
+| Players | 3/10 |
+| Host Name | The moon smiles upon me |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:41:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310273370552 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | U- |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 01:39:41 |
@@ -126,6 +126,69 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | vampeblan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 01:39:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310274773252 |
+| Players | 1/8 |
+| Host Name | Ворон |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 01:41:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310274831203 |
+| Players | 1/10 |
+| Host Name | Urahara |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:41:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310274773025 |
+| Players | 1/24 |
+| Host Name | D ~ He♥ly |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 01:41:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310274514299 |
+| Players | 7/8 |
+| Host Name | БЕШЕНЫЙ КИШЕЧНИК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:40:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310274885612 |
+| Players | 2/8 |
+| Host Name | it |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 01:41:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310274904577 |
+| Players | 1/15 |
+| Host Name | DEusEXpressionTAS |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 01:41:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310274926761 |
+| Players | 1/8 |
+| Host Name |  |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:41:16 |
 
 
 |  | epic_boss_fight_normal |
