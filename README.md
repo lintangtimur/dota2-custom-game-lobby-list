@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309491641545 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Midnight |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:56:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309491159462 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:55:47 |
@@ -104,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309492078636 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 8llllllllllD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:57:24 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309492233229 |
-| Players | 1/5 |
-| Host Name | SpilleR_SS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:57:40 |
+| Lobby ID | 28595309492271940 |
+| Players | 3/15 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:57:44 |
 
 
