@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310158396725 |
-| Players | 8/10 |
-| Host Name | Kori❄♡ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:48:33 |
+| Lobby ID | 28595310158114214 |
+| Players | 2/8 |
+| Host Name | Ramos #Free_Palestine |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 23:48:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310155857557 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | xxGodInstincxX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 23:46:10 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:46:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310156680301 |
-| Players | 22/24 |
-| Host Name | CholaQueVeoCholaQueGomeo |
+| Lobby ID | 28595310157980652 |
+| Players | 2/15 |
+| Host Name | Teach |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 23:46:56 |
+| Lobby Creation Time | Sunday, January 7, 2024 23:48:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310158188544 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | qweqweqwe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:48:21 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310157081201 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | DOGÃO FORTALEZA-CE ppL ツ |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 23:47:19 |
@@ -121,47 +121,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310157991700 |
-| Players | 3/8 |
-| Host Name | only lose |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:48:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310157980652 |
-| Players | 3/15 |
-| Host Name | Teach |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 23:48:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310158114214 |
-| Players | 3/8 |
-| Host Name | JACKIE CHAN |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 23:48:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310158503042 |
-| Players | 14/15 |
-| Host Name | ХАРОШ |
+| Lobby ID | 28595310159087661 |
+| Players | 1/8 |
+| Host Name | ПЕТЯ НАСВАЙКИН'ВК |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:48:39 |
+| Lobby Creation Time | Sunday, January 7, 2024 23:49:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310159058547 |
+| Players | 3/15 |
+| Host Name | kvlt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 23:49:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310158403459 |
-| Players | 3/8 |
-| Host Name | Pikachu |
+| Lobby ID | 28595310159111658 |
+| Players | 2/8 |
+| Host Name | фрибет от Winline |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:48:33 |
+| Lobby Creation Time | Sunday, January 7, 2024 23:49:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310159131051 |
+| Players | 5/8 |
+| Host Name | Svut-SIGMA |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 23:49:14 |
 
 
 |  | epic_boss_fight_hard |
@@ -173,13 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:23:50 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310157196183 |
-| Players | 3/5 |
-| Host Name | ✪D1N |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:47:25 |
+| Lobby ID | 28595310158972707 |
+| Players | 1/10 |
+| Host Name | SAFDAR SAGHI |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 23:49:05 |
 
 
 |  | epic_boss_fight_normal |
