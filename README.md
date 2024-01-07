@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309966782310 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | КУНИКУЛЕР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:05:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309966783365 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Aylardex Vlael |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:05:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309963592071 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:02:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309956116874 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | CHOBORNAZ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 20:56:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309952942290 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | rato distópico cunty |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 20:54:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309966865025 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ТРАХАТЬ??? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:05:24 |
@@ -94,10 +94,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
+| Lobby ID | 28595309967075009 |
+| Players | 5/15 |
+| Host Name | wYe.aR |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:05:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309966420575 |
+| Players | 9/10 |
+| Host Name | Bo$$ Хомяк :3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:05:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
 | Lobby ID | 28595309966665067 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | matematic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:05:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309967147088 |
+| Players | 1/10 |
+| Host Name | Дауби Даубиев |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:05:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309967142295 |
+| Players | 1/10 |
+| Host Name | Space1999 |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 21:05:37 |
 
 
