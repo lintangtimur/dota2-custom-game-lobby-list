@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309399212521 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | far fri |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:07:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309400123798 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Storm Blessed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:09:19 |
@@ -92,6 +92,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:09:16 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309400282039 |
+| Players | 3/8 |
+| Host Name | Óðinn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 09:09:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309400299612 |
+| Players | 3/8 |
+| Host Name | El Souph |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 09:09:40 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28595309400136458 |
@@ -101,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:09:21 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309400201438 |
-| Players | 1/5 |
-| Host Name | Blowjobson |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 09:09:29 |
+| Lobby ID | 28595309398721656 |
+| Players | 9/10 |
+| Host Name | Tu Rata Favorita |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 09:06:33 |
 
 
