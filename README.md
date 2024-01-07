@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309518789462 |
-| Players | 5/24 |
+| Players | 11/24 |
 | Host Name | Movistar Perú Oficial |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:42:22 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:41:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309518642890 |
-| Players | 6/8 |
-| Host Name | Beer.Team Матье Бал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:42:08 |
+| Lobby ID | 28595309514960017 |
+| Players | 9/10 |
+| Host Name | hyko |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:36:00 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309518077321 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | El gatito erotico |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:41:12 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309517048275 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Hairam123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:39:30 |
@@ -113,25 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309517970624 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | 8llllllllllD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:41:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309514960017 |
-| Players | 9/10 |
-| Host Name | hyko |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:36:00 |
+| Lobby ID | 28595309519217042 |
+| Players | 1/15 |
+| Host Name | HidenKiller |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:43:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309518928807 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Yosh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:42:36 |
