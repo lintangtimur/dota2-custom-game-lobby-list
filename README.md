@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309583803500 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Remington Jones |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:20:13 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:22:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309584255370 |
-| Players | 23/24 |
-| Host Name | Inukami Korone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:20:51 |
+| Lobby ID | 28595309585313599 |
+| Players | 10/15 |
+| Host Name | Rommel |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:22:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:20:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309585313599 |
-| Players | 7/15 |
-| Host Name | Rommel |
+| Lobby ID | 28595309585923830 |
+| Players | 2/24 |
+| Host Name | Avent- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:23:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309585920356 |
+| Players | 3/10 |
+| Host Name | Zabiyaka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:23:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309585983535 |
+| Players | 2/8 |
+| Host Name | korvo |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:22:21 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:23:17 |
 
 
 |  | epic_boss_fight_challenger |
@@ -81,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:00:27 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309585982408 |
+| Players | 1/10 |
+| Host Name | ✟♱♰ SAN GATO ✟♱♰ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:23:17 |
 
 
