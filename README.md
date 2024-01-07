@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309446012340 |
-| Players | 9/10 |
-| Host Name | zzzz |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:34:50 |
+| Lobby ID | 28595309446567099 |
+| Players | 1/15 |
+| Host Name | Rendi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 10:35:51 |
 
 
 |  | ot3_desert_octet |
@@ -65,31 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:34:42 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309446816421 |
-| Players | 7/8 |
-| Host Name | dokkaebi |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:36:19 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309446575403 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | El Roncorrorinco |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:35:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309446567099 |
-| Players | 1/15 |
-| Host Name | Rendi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:35:51 |
+| Lobby ID | 28595309447107634 |
+| Players | 3/8 |
+| Host Name | tiburoncin |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 10:36:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309447112622 |
+| Players | 4/8 |
+| Host Name | JP |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:36:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309445411214 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:33:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309447105917 |
+| Players | 1/5 |
+| Host Name | だんご[Dango] |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 10:36:50 |
 
 
