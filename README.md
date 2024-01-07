@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309605045993 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:49:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309615878028 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 🥚Little Egg :3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:03:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309617988695 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | FUN+FUN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:06:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309618258320 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:06:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309618010350 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 好线 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:06:26 |
