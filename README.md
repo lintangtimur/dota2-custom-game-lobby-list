@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309495062259 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | バニラ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:02:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309496745272 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | ''Yahiiko'' |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:05:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309496689286 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Leon- |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:05:19 |
