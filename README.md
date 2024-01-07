@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310007168149 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | furasshu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:37:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310007090129 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:37:21 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310007277805 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | MEDvedЬ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 21:37:30 |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310007317017 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Джон Траволта |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:37:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310007531258 |
+| Players | 3/15 |
+| Host Name | Enjoy dota, enjoy |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:37:42 |
 
 
 |  | epic_boss_fight_normal |
@@ -144,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ME WITH 4 IMMORTAL BRAINS |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 21:37:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310007345700 |
-| Players | 1/5 |
-| Host Name | GULINGKAN PEMERINTAHAN |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 21:37:33 |
 
 
