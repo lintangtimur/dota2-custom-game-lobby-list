@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309470128045 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | No carreo ni pinxo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:18:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309471987329 |
-| Players | 14/15 |
-| Host Name | liluriena |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:22:00 |
+| Lobby ID | 28595309473538570 |
+| Players | 1/10 |
+| Host Name | wanakito123 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:24:44 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309473044611 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Stray |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:23:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309473173362 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Fakar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:24:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309473361647 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:24:26 |
@@ -94,19 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309473453491 |
-| Players | 5/8 |
-| Host Name | Patskii |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, January 7, 2024 11:24:35 |
+| Lobby ID | 28595309473477297 |
+| Players | 1/8 |
+| Host Name | cuack |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:24:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309473488973 |
+| Players | 1/10 |
+| Host Name | de_dota2 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:24:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309473523397 |
+| Players | 1/24 |
+| Host Name | SenselessLyric |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:24:43 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309463188174 |
-| Players | 9/10 |
-| Host Name | Sakazuki |
+| Lobby ID | 28595309473546042 |
+| Players | 2/10 |
+| Host Name | bam butchi wap |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:06:19 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:24:45 |
 
 
