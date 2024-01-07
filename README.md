@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310196189717 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Бобёр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 00:24:13 |
@@ -32,34 +32,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310189907756 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | .KarmA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 00:18:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310196699080 |
-| Players | 1/8 |
-| Host Name | стрей |
+| Lobby ID | 28595310195735558 |
+| Players | 13/15 |
+| Host Name | Renji(пудж) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:24:42 |
+| Lobby Creation Time | Monday, January 8, 2024 00:23:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310192438371 |
-| Players | 22/24 |
-| Host Name | SuperChef |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 00:20:41 |
+| Lobby ID | 28595310196186203 |
+| Players | 2/10 |
+| Host Name | diabeetus |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 8, 2024 00:24:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310193372399 |
-| Players | 15/24 |
+| Players | 22/24 |
 | Host Name | ~Penguin™ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:21:34 |
@@ -103,33 +103,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310196732172 |
-| Players | 1/10 |
-| Host Name | 123 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:24:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310195420976 |
-| Players | 3/15 |
-| Host Name | sky spirit |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 00:23:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310189363230 |
-| Players | 1/15 |
-| Host Name | el ruso |
-| Region | USWEST |
-| Lobby Creation Time | Monday, January 8, 2024 00:17:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28595310195824408 |
 | Players | 4/10 |
 | Host Name | UwU |
@@ -137,40 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:23:53 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310195420976 |
+| Players | 2/15 |
+| Host Name | sky spirit |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 8, 2024 00:23:30 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310196186203 |
-| Players | 2/10 |
-| Host Name | diabeetus |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 00:24:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310196456938 |
-| Players | 1/8 |
-| Host Name | korol' hardbl |
+| Lobby ID | 28595310196843463 |
+| Players | 7/10 |
+| Host Name | 123 |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:24:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310196255269 |
-| Players | 7/8 |
-| Host Name | Swap Commander |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:24:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310196675236 |
-| Players | 5/8 |
-| Host Name | Nord |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:24:41 |
+| Lobby Creation Time | Monday, January 8, 2024 00:24:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -180,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Abel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 00:23:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310196803761 |
+| Players | 2/10 |
+| Host Name | Behavior score:800\10000 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:24:48 |
 
 
