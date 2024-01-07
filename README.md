@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309374739482 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | CLSMCSMII |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:20:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309376176351 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Scrub, career felon |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:23:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309375975740 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | бусик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:22:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309376224528 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | ME LEDER |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:23:26 |
@@ -95,16 +95,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309376416024 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | not human (животное) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:23:48 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309376559337 |
+| Players | 1/24 |
+| Host Name | #### |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 08:24:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309376554006 |
+| Players | 1/24 |
+| Host Name | Frank Zappa |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 08:24:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309376235190 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | грех |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:23:27 |
