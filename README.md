@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309545385196 |
-| Players | 3/15 |
-| Host Name | MAWELL |
+| Players | 2/15 |
+| Host Name | Mr. Chipi |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:23:58 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309546683932 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | masu nguyen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:25:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309546900048 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Alvaro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:26:14 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:20:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309545544626 |
-| Players | 17/24 |
-| Host Name | PRISIONERO LINDO LINDO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:24:12 |
+| Lobby ID | 28595309547416342 |
+| Players | 1/10 |
+| Host Name | ego trippin' |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:26:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Raynuva |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:24:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309547464921 |
+| Players | 1/10 |
+| Host Name | ็ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:27:04 |
 
 
