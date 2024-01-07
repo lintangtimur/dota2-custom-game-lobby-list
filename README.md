@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310006107963 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Creed |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 21:36:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310005712576 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | DjarPe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:36:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310006593612 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ДРЕВНИЙ РУС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:36:57 |
@@ -94,20 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310006631290 |
-| Players | 3/8 |
-| Host Name | ControlR |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:36:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28595310006655711 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | [AbF]120 см жести |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:37:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310006726885 |
+| Players | 1/15 |
+| Host Name | PwC.rm |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 21:37:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309996922553 |
+| Players | 14/15 |
+| Host Name | rato distópico cunty |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 21:29:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -128,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:36:00 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310006659996 |
-| Players | 1/5 |
+| Lobby ID | 28595310006884453 |
+| Players | 1/10 |
 | Host Name | GULINGKAN PEMERINTAHAN |
 | Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 21:37:01 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:37:11 |
 
 
