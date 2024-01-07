@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309748944765 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | -iV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:50:17 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:46:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309747557342 |
-| Players | 7/8 |
-| Host Name | -KweNy- |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:48:42 |
+| Lobby ID | 28595309749268453 |
+| Players | 3/10 |
+| Host Name | dream |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 17:50:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309749004933 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | ✟ מִיכָאֵל ✟ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:50:21 |
@@ -40,20 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309749156286 |
-| Players | 6/10 |
-| Host Name | сильный как русск |
+| Lobby ID | 28595309749417298 |
+| Players | 1/10 |
+| Host Name | ХЛОП ХЛОПЫЧ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:50:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309745387277 |
-| Players | 6/8 |
-| Host Name | cxz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:46:10 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:50:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SuperBoneHack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:48:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309749184948 |
-| Players | 1/10 |
-| Host Name | ★з♥а♦я♣ц★™ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:50:33 |
 
 
