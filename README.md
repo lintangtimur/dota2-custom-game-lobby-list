@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309482154149 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Bajando locura |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:40:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309482388646 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | 5g |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:40:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309482239059 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:40:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309479401304 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | IEdumpling |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:35:10 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309482490274 |
-| Players | 6/15 |
-| Host Name | GusGus |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:40:39 |
+| Lobby ID | 28595309482486475 |
+| Players | 11/15 |
+| Host Name | liluriena |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:40:38 |
 
 
 |  | ot3_desert_octet |
@@ -112,20 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309482486475 |
-| Players | 6/15 |
-| Host Name | liluriena |
+| Lobby ID | 28595309480422703 |
+| Players | 14/15 |
+| Host Name | шестнадцать стри |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:40:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309482504677 |
-| Players | 1/8 |
-| Host Name | Стасик Гематоген |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:40:40 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:36:57 |
 
 
 |  | epic_boss_fight_nightmare |
