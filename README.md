@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309556321010 |
 | Players | 9/24 |
-| Host Name | 玫瑰少年 |
+| Host Name | GoDTama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:40:20 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309557186705 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | NickAltair |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:41:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309556677656 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | NIÑO SIN PINGA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:40:53 |
@@ -56,13 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:40:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309555553925 |
+| Players | 7/15 |
+| Host Name | DaironMesa1381 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:39:11 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309556552882 |
+| Lobby ID | 28595309557516772 |
 | Players | 1/10 |
 | Host Name | iamIBradd™ |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:40:41 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:42:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309557516733 |
+| Players | 1/10 |
+| Host Name | Angel |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:42:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✪D1N |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:40:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309557509545 |
+| Players | 1/5 |
+| Host Name | _lushan_ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:42:07 |
 
 
