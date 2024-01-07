@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310171464897 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | difteriya |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:00:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310171233074 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Impala67 |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 00:00:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310170820066 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Estriper |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 00:00:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310171504178 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | plysha7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 00:00:54 |
@@ -103,11 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310171328006 |
-| Players | 8/10 |
-| Host Name | ShaV |
+| Lobby ID | 28595310171796448 |
+| Players | 2/10 |
+| Host Name | ИП |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 00:01:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310171636681 |
+| Players | 3/24 |
+| Host Name | SuperChef |
 | Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 00:00:45 |
+| Lobby Creation Time | Monday, January 8, 2024 00:01:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310171776045 |
+| Players | 5/15 |
+| Host Name | Kori❄♡ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 00:01:10 |
 
 
 |  | epic_boss_fight_hard |
