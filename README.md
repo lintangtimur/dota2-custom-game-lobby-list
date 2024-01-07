@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309460678074 |
-| Players | 23/24 |
-| Host Name | cb |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:01:51 |
+| Lobby ID | 28595309462231753 |
+| Players | 2/15 |
+| Host Name | 阳光猛烈 摆鬼夜行 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:04:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309459647695 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Gram |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459701825 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:07 |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:03:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309461962835 |
-| Players | 3/8 |
-| Host Name | NO name |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 11:04:09 |
+| Lobby ID | 28595309462224813 |
+| Players | 2/24 |
+| Host Name | Ask the magic conch shell |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:04:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309461965207 |
-| Players | 3/24 |
+| Players | 9/24 |
 | Host Name | Jinoky |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:04:09 |
@@ -137,24 +137,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:04:32 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309462224813 |
-| Players | 2/24 |
-| Host Name | Ask the magic conch shell |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:04:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309462231753 |
-| Players | 2/15 |
-| Host Name | 阳光猛烈 摆鬼夜行 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:04:37 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309459222255 |
@@ -167,9 +149,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309460893008 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Crustyチル |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:02:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595309462433076 |
+| Players | 1/10 |
+| Host Name | Makeakill-Neoxa |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 11:04:58 |
 
 
