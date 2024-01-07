@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309363396788 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Davikucho |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:58:43 |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309361499027 |
 | Players | 2/24 |
-| Host Name | CLSMCSMII |
+| Host Name | Overthrow Crazy Bitch! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:55:13 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309363488329 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Kantulaev |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:58:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309363665704 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:59:12 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 能ある鷹はつめを隠す |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:59:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309364097784 |
+| Players | 2/15 |
+| Host Name | .VaRnes |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:00:01 |
 
 
 |  | epic_boss_fight_nightmare |
