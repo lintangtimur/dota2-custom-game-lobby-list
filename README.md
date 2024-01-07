@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309476860613 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Jugger Jake |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:30:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309476102678 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | BISCUIT OLIVA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:29:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309475945549 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 宝哥哥 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:29:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309476335751 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | ZEO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:29:43 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | blossom_orchid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:30:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309477092783 |
+| Players | 5/8 |
+| Host Name | Yoluis |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:31:04 |
 
 
 |  | epic_boss_fight_nightmare |
