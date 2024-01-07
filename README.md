@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309974494112 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Ace of Spades |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:11:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309973853627 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | люблю сосиски |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 21:10:56 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309969846080 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | big boost |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 21:07:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309974147824 |
-| Players | 1/15 |
-| Host Name | Gah |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 21:11:10 |
+| Lobby ID | 28595309975130555 |
+| Players | 1/10 |
+| Host Name | Mcry |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:11:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309974972028 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | AMOS SLADE |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 21:11:50 |
@@ -68,73 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309974915515 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Triki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:11:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309974903944 |
-| Players | 6/8 |
-| Host Name | KEKis |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:11:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309973802428 |
-| Players | 4/8 |
-| Host Name | xXx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:10:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309975035119 |
-| Players | 2/8 |
-| Host Name | во славу моналита |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:11:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309974671379 |
-| Players | 1/15 |
-| Host Name | ♂Magane♂ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:11:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309974441399 |
-| Players | 12/15 |
-| Host Name | ksusha100102 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:11:24 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309974847079 |
-| Players | 7/10 |
-| Host Name | Gramozeka188 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:11:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309975015967 |
-| Players | 2/8 |
-| Host Name | Мои руки тянутся к твоему члену |
+| Lobby ID | 28595309975212834 |
+| Players | 2/10 |
+| Host Name | El Benny Bombay |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:11:52 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:12:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309975215062 |
+| Players | 4/15 |
+| Host Name | Twizz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 21:12:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Abradolf Lincler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:08:56 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309974928063 |
-| Players | 1/5 |
-| Host Name | Рамзес Кадыров |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 21:11:48 |
 
 
