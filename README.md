@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309661365128 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | iamIBradd™ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 16:01:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309659211435 |
-| Players | 8/10 |
-| Host Name | POGUITO JUN |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 15:59:08 |
+| Lobby ID | 28595309661968526 |
+| Players | 6/15 |
+| Host Name | Dangrei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:02:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309654024056 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | LuK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:52:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309662055314 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Yezzie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:02:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309661520095 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | FU Marvel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:02:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309661647680 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Геннадий Треев |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:02:13 |
@@ -58,26 +58,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309661968526 |
-| Players | 3/15 |
+| Lobby ID | 28595309663009496 |
+| Players | 2/15 |
+| Host Name | hydroforce |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:03:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309663041286 |
+| Players | 3/10 |
+| Host Name | Время отведенное им |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 16:03:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309663041332 |
+| Players | 1/10 |
 | Host Name | Karma |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:02:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309662395456 |
-| Players | 1/15 |
-| Host Name | Mr. Scrop's |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:03:08 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:03:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309660716259 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | KoKo anKo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:01:02 |
