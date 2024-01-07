@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309406103346 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Giovanni |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:20:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309420128639 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Marceline |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:47:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309418199250 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Viper |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:43:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309419174917 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:45:19 |
