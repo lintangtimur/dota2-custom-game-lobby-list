@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:53:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309610229919 |
-| Players | 9/10 |
-| Host Name | Мопс Дядя Пес |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:56:09 |
+| Lobby ID | 28595309612210130 |
+| Players | 1/24 |
+| Host Name | Reincarnationz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:58:48 |
 
 
 |  | ot3_necropolis_ffa |
