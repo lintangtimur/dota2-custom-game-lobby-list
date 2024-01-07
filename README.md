@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309366290459 |
-| Players | 22/24 |
-| Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 08:04:11 |
+| Lobby ID | 28595309370114528 |
+| Players | 4/8 |
+| Host Name | ахъпойсик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 08:11:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309370037347 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Ҝιώi𝕀c𝐜ʰｏ  ☯ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:11:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309369273734 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | jogo do tigrinho |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 08:10:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309368857611 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | style |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:09:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309369580064 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | cheesit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:10:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309370011784 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:11:32 |
@@ -94,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309370097875 |
-| Players | 1/15 |
-| Host Name | Smile.DoG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:11:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309370114528 |
-| Players | 4/8 |
-| Host Name | ахъпойсик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 08:11:43 |
+| Lobby ID | 28595309370149580 |
+| Players | 8/15 |
+| Host Name | boobsboobsboobs |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:11:47 |
 
 
 |  | epic_boss_fight_nightmare |
