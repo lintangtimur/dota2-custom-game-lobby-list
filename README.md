@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309501270765 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | NERF 5AFRA3 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309500614754 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | RHLM |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:12:12 |
@@ -74,13 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309501638770 |
-| Players | 1/10 |
-| Host Name | Fearless |
+| Lobby ID | 28595309501641549 |
+| Players | 1/15 |
+| Host Name | THEY DON'T KNOW ME SON! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:13:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309501684544 |
+| Players | 1/10 |
+| Host Name | Grumbledorp |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:14:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309501698257 |
+| Players | 1/10 |
+| Host Name | Yoluis |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:14:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309501161304 |
+| Players | 4/8 |
+| Host Name | Grizzly |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:13:08 |
 
 
 |  | epic_boss_fight_nightmare |
