@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309682946833 |
-| Players | 3/8 |
-| Host Name | abunga1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:29:00 |
+| Lobby ID | 28595309684364488 |
+| Players | 2/10 |
+| Host Name | Solowind |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:30:46 |
 
 
 |  | ot3_desert_octet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:25:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309682813354 |
-| Players | 9/10 |
-| Host Name | danmi |
+| Lobby ID | 28595309684235566 |
+| Players | 8/15 |
+| Host Name | Людмила Валентиновна |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:28:50 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:30:37 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309682071859 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Pause Malone! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:27:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309683939651 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Fabio Avila |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 16:30:15 |
@@ -58,19 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309684235566 |
-| Players | 7/15 |
-| Host Name | Людмила Валентиновна |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:30:37 |
+| Lobby ID | 28595309684451014 |
+| Players | 1/15 |
+| Host Name | andre.dz |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 16:30:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309684240282 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Harakiri Squad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:30:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309684413456 |
+| Players | 1/5 |
+| Host Name | kasmineler |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:30:50 |
 
 
