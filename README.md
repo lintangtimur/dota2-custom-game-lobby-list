@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309539711784 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | DonFlag |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:15:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309524440501 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | apTeom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:51:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309539931065 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | **Lucía** |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:15:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309539843998 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:15:35 |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309540906919 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Catacluzm |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:17:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309541180504 |
+| Players | 3/15 |
+| Host Name | Gamehong |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:17:37 |
 
 
 |  | epic_boss_fight_challenger |
@@ -131,18 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309540351231 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | hatdog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:16:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309540608379 |
-| Players | 1/10 |
-| Host Name | Maharaja Lawana |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:16:45 |
 
 
