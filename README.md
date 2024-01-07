@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309648717600 |
-| Players | 5/15 |
-| Host Name | L'Âne ThrowThrow |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, January 7, 2024 15:46:00 |
+| Lobby ID | 28595309649131824 |
+| Players | 1/15 |
+| Host Name | sojj |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:46:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309648349011 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ArCHeR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:45:32 |
@@ -41,19 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309648993214 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | idontloveyouanymore |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:46:21 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309649127571 |
+| Players | 1/8 |
+| Host Name | Lil_moon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:46:31 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309649085759 |
+| Lobby ID | 28595309649221221 |
 | Players | 1/24 |
-| Host Name | starwalker |
+| Host Name | Шишка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:46:28 |
+| Lobby Creation Time | Sunday, January 7, 2024 15:46:38 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | грех |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:45:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309649107585 |
-| Players | 2/5 |
-| Host Name | Печенька |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:46:29 |
 
 
