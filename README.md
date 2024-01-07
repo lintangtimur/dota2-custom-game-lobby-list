@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310175234010 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | FuManChu |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 00:04:27 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310171464897 |
-| Players | 2/24 |
-| Host Name | ~ BiG|D ~ |
+| Players | 1/24 |
+| Host Name | Hōfuku報復 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:00:52 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310174959818 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | raiver |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:04:11 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:59:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310175117404 |
-| Players | 5/10 |
-| Host Name | Weak - 弱い |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:04:20 |
+| Lobby ID | 28595310175444520 |
+| Players | 1/8 |
+| Host Name | Jesús de Nazaret |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 00:04:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310171636681 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 00:01:02 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310174755100 |
-| Players | 4/10 |
-| Host Name | её мама говорила |
+| Players | 2/10 |
+| Host Name | smthlikeyou22 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 00:03:59 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310173015713 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 743676342679754268098786545 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 00:02:22 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310173389328 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Teach |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:02:42 |
@@ -113,10 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310175279959 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | CholaQueVeoCholaQueGomeo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:04:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310175396364 |
+| Players | 2/15 |
+| Host Name | Кожаная Кобура |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 8, 2024 00:04:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310175547606 |
+| Players | 1/8 |
+| Host Name | стрей |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:04:44 |
 
 
 |  | epic_boss_fight_hard |
@@ -131,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310174183828 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Helb |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 00:03:27 |
@@ -148,10 +166,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310175351322 |
-| Players | 2/10 |
-| Host Name | Правый cапог |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 00:04:33 |
+| Lobby ID | 28595310175524064 |
+| Players | 1/10 |
+| Host Name | 起个名真纠结 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 8, 2024 00:04:43 |
 
 
