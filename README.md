@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310224195190 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | focusbtw |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:51:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310223164277 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Vitrex1111 |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:50:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310222295056 |
-| Players | 8/24 |
+| Players | 15/24 |
 | Host Name | XIII |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 00:49:27 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310225660725 |
-| Players | 5/8 |
-| Host Name | Пивной будда |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:52:44 |
+| Lobby ID | 28595310225524130 |
+| Players | 1/8 |
+| Host Name | korol' hardbl |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 00:52:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310225451184 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Хлібобулочний |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:52:31 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310225635079 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 雨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 00:52:42 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310225446401 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Yunzo |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:52:31 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310225446423 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 能ある鷹はつめを隠す |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 00:52:31 |
@@ -146,40 +146,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:52:31 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310225514056 |
-| Players | 10/15 |
-| Host Name | Y4enickDaxaka |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:52:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310225524130 |
-| Players | 1/8 |
-| Host Name | korol' hardbl |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:52:35 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310225679582 |
-| Players | 1/10 |
-| Host Name | >|BENzzzPLuG|< |
+| Lobby ID | 28595310225759539 |
+| Players | 7/10 |
+| Host Name | 11111111111111111111111111111111 |
 | Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 00:52:45 |
+| Lobby Creation Time | Monday, January 8, 2024 00:52:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310225676466 |
-| Players | 4/8 |
-| Host Name | 나는 타타르어 여성을 행복하게한다 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 00:52:44 |
+| Lobby ID | 28595310225902570 |
+| Players | 1/15 |
+| Host Name | [K][N] |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 00:52:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310224695563 |
+| Players | 12/15 |
+| Host Name | Teemant |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:51:47 |
 
 
 |  | epic_boss_fight_nightmare |
