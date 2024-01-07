@@ -14,46 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309734836450 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Honks |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:33:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309736624608 |
-| Players | 13/15 |
-| Host Name | FERDENAND |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:35:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309733958063 |
-| Players | 22/24 |
-| Host Name | Bairacle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:32:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309736250874 |
-| Players | 5/10 |
-| Host Name | Clever Tactick But Fail |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:35:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309735266193 |
-| Players | 14/24 |
-| Host Name | Mashmallow7 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:34:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,22 +29,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:35:20 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309736623202 |
-| Players | 1/7 |
-| Host Name | Kimchi rice |
+| Lobby ID | 28595309733958063 |
+| Players | 23/24 |
+| Host Name | Bairacle |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:35:50 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:32:38 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309733691447 |
-| Players | 9/10 |
-| Host Name | Dndama |
+| Lobby ID | 28595309736250874 |
+| Players | 7/10 |
+| Host Name | Clever Tactick But Fail |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:35:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309735266193 |
+| Players | 16/24 |
+| Host Name | Mashmallow7 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:32:19 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:34:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309736941840 |
+| Players | 3/15 |
+| Host Name | GoliseR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:36:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309736998879 |
+| Players | 1/15 |
+| Host Name | HAKDOG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:36:17 |
 
 
 |  | epic_boss_fight_normal |
