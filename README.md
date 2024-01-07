@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595310079079382 |
 | Players | 3/24 |
-| Host Name | Travis |
+| Host Name | NapoleonTD |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 22:37:27 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310080761771 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | yonwalnet |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:38:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310080757337 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Joji |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:38:56 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310081091860 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Ублюдок с Гав Ной |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:39:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310081140663 |
-| Players | 6/8 |
-| Host Name | TrankYolo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:39:16 |
+| Lobby ID | 28595310081352483 |
+| Players | 1/15 |
+| Host Name | yanto |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 22:39:27 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310081231962 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | i18'n |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:39:21 |
@@ -101,20 +101,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:39:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310081352483 |
-| Players | 1/15 |
-| Host Name | yanto |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:39:27 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310081086727 |
-| Players | 3/10 |
-| Host Name | Sonia Nevermind |
+| Players | 2/10 |
+| Host Name | Atatchi|Purge |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 22:39:13 |
 
