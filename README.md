@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309602821597 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 不打国服 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Sunday, January 7, 2024 14:46:10 |
@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309604068434 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Mood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:47:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309604028771 |
-| Players | 14/15 |
-| Host Name | Hummer |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:47:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309604785342 |
-| Players | 1/8 |
-| Host Name | МЯВ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:48:49 |
 
 
 |  | ot3_gardens_duo |
@@ -58,11 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309604835211 |
-| Players | 6/8 |
-| Host Name | ты глупый |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:48:53 |
+| Lobby ID | 28595309604785342 |
+| Players | 2/8 |
+| Host Name | МЯВ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:48:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309604964447 |
+| Players | 1/15 |
+| Host Name | безмолвное единомыслие |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:49:04 |
 
 
 |  | epic_boss_fight_nightmare |
