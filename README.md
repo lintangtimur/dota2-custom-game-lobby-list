@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309878092951 |
-| Players | 7/8 |
-| Host Name | Pachacutec |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 19:54:30 |
+| Lobby ID | 28595309878706986 |
+| Players | 1/8 |
+| Host Name | Sasai-kudasai |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:55:01 |
 
 
 |  | ot3_gardens_duo |
@@ -47,12 +47,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:42:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309878287943 |
-| Players | 6/10 |
-| Host Name | PUFF |
-| Region | EUROPE |
+| Lobby ID | 28595309878283973 |
+| Players | 10/24 |
+| Host Name | 123456 |
+| Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:54:40 |
 
 
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309876838652 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Cyanide and Happiness |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 19:53:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309878283973 |
-| Players | 7/24 |
-| Host Name | 123456 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:54:40 |
 
 
 |  | epic_boss_fight_nightmare |
