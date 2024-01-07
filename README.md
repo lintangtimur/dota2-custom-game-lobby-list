@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310014097367 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | НЕ ЗАБЫВАЙ СВОИ К |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:43:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310016714065 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 85943734753895 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:45:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310010161968 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Joann |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:39:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310014476436 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Mike_To |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 21:43:21 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 21:45:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310016965755 |
-| Players | 13/15 |
-| Host Name | _ |
+| Lobby ID | 28595310017377459 |
+| Players | 1/8 |
+| Host Name | ts sh1ro |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 21:45:22 |
+| Lobby Creation Time | Sunday, January 7, 2024 21:45:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310017074946 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 5 cm Savage |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:45:27 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595310017569155 |
+| Players | 2/7 |
+| Host Name | LMao |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 21:45:51 |
 
 
