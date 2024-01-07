@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309444964758 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | NothingFeelsRight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:32:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309447342367 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:37:17 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309447625065 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Mxrt1nz |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:37:50 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:33:44 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595309447636800 |
-| Players | 1/7 |
-| Host Name | Hermes Trimegisto |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:37:51 |
 
 
