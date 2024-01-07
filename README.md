@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310059789085 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ｄｒａｊｅｒ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:20:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310060002860 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Ss |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:21:02 |
@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310059891778 |
-| Players | 7/8 |
-| Host Name | Gornooo |
+| Lobby ID | 28595310060541512 |
+| Players | 5/8 |
+| Host Name | Belfort |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:20:56 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:21:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310059621476 |
-| Players | 11/15 |
-| Host Name | Federall |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:20:42 |
+| Lobby ID | 28595310060336084 |
+| Players | 4/10 |
+| Host Name | drill expert |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 22:21:19 |
 
 
 |  | ot3_desert_octet |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310056548758 |
-| Players | 10/24 |
-| Host Name | UncleVit0 |
+| Players | 9/24 |
+| Host Name | Jackie |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:18:06 |
 
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310060219114 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Pipson Mister |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 22:21:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310060336084 |
-| Players | 1/10 |
-| Host Name | drill expert |
+| Lobby ID | 28595310060587981 |
+| Players | 2/8 |
+| Host Name | КОЛ-ВО ОШИБОК:0 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 22:21:19 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:21:32 |
 
 
 |  | epic_boss_fight_hard |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 22:18:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310059053001 |
-| Players | 2/5 |
-| Host Name | [UA]FungAPA |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:20:13 |
 
 
