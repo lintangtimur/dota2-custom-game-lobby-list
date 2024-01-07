@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:57:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309813388111 |
-| Players | 11/15 |
-| Host Name | Vsemut |
+| Lobby ID | 28595309813596007 |
+| Players | 3/8 |
+| Host Name | KOMIR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:57:40 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:57:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,49 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:57:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309811220741 |
-| Players | 1/24 |
-| Host Name | no masteries |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 18:55:38 |
+| Lobby ID | 28595309813879115 |
+| Players | 2/15 |
+| Host Name | Scythem9k |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:58:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309813199401 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Ouanny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:57:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309813596007 |
-| Players | 1/8 |
-| Host Name | KOMIR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:57:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309813520874 |
-| Players | 2/24 |
-| Host Name | Chồng Của Minji |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:57:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309811849904 |
-| Players | 7/8 |
-| Host Name | Daulet The Fucker |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:56:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309813401828 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | sawita |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, January 7, 2024 18:57:41 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28595309813914218 |
+| Players | 4/7 |
+| Host Name | 𝖛𝖗𝖈𝖒𝖓𝖌 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:58:10 |
 
 
