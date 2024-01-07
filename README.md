@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309642305018 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ArCHeR |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:37:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309641736747 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Korben Dallas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:36:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309641693017 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | It's a NO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:36:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309642001847 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Балбес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:37:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309640479985 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | [Leb] Peterpan |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:35:19 |
