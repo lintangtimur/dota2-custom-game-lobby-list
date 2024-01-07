@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310088346929 |
-| Players | 8/10 |
-| Host Name | SAKURA MIYAWAKI |
+| Lobby ID | 28595310088351196 |
+| Players | 7/10 |
+| Host Name | J-Usp |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:45:35 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:45:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310087968083 |
-| Players | 1/8 |
-| Host Name | ｄｒａｊｅｒ |
+| Lobby ID | 28595310088768809 |
+| Players | 4/8 |
+| Host Name | EgorTver |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:45:16 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:45:57 |
 
 
 |  | ot3_desert_octet |
@@ -65,31 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 22:45:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310088135589 |
-| Players | 12/15 |
-| Host Name | beginner |
+| Lobby ID | 28595310088575517 |
+| Players | 2/8 |
+| Host Name | Su |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:45:24 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:45:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310088261899 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Σ오로러시ψ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 22:45:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310088351196 |
-| Players | 2/10 |
-| Host Name | J-Usp |
+| Lobby ID | 28595310088640869 |
+| Players | 10/15 |
+| Host Name | Umba Qumba |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 22:45:36 |
+| Lobby Creation Time | Sunday, January 7, 2024 22:45:51 |
 
 
 |  | epic_boss_fight_normal |
