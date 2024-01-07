@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310270098045 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Смотрите кирпич |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 01:36:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310248387183 |
-| Players | 8/10 |
+| Players | 10/10 |
 | Host Name | TKO |
 | Region | PWTELECOMWUHAN |
 | Lobby Creation Time | Monday, January 8, 2024 01:14:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310270270276 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Maryori ♥Seria -_-giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:36:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310269835920 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Chisato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 01:36:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310270877742 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Arizza_ |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:37:13 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:15:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310270674639 |
-| Players | 9/10 |
-| Host Name | rasmus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:37:01 |
+| Lobby ID | 28595310270837582 |
+| Players | 1/8 |
+| Host Name | amd rtx 4090 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 01:37:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,49 +119,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:37:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310270918555 |
-| Players | 3/8 |
-| Host Name | -_- |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 01:37:15 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310270864628 |
-| Players | 3/15 |
-| Host Name | madarrow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 01:37:12 |
+| Lobby ID | 28595310271084287 |
+| Players | 2/15 |
+| Host Name | mr.fury |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 01:37:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310271051826 |
+| Players | 2/8 |
+| Host Name | lost~* |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 01:37:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310270686247 |
-| Players | 1/10 |
-| Host Name | money for fun |
+| Lobby ID | 28595310271105907 |
+| Players | 2/10 |
+| Host Name | Быбло |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:37:02 |
+| Lobby Creation Time | Monday, January 8, 2024 01:37:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310270837582 |
-| Players | 1/8 |
-| Host Name | amd rtx 4090 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 01:37:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310270943313 |
-| Players | 1/15 |
-| Host Name | Manowarrior |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 01:37:17 |
+| Lobby ID | 28595310271055368 |
+| Players | 1/10 |
+| Host Name | Mrs marrr |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 01:37:23 |
 
 
 |  | epic_boss_fight_normal |
@@ -189,5 +180,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Apex_Wolfgang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 01:34:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310271150139 |
+| Players | 1/10 |
+| Host Name | Courier destroyer |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 8, 2024 01:37:29 |
 
 
