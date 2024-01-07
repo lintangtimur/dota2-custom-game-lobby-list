@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309545359343 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Какаин ебейший |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:23:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309543124225 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ae-in |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:20:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309547416342 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ego trippin' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:26:59 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:33:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309546683932 |
-| Players | 20/24 |
-| Host Name | masu nguyen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:25:54 |
+| Lobby ID | 28595309547983303 |
+| Players | 5/15 |
+| Host Name | Naatsoy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:27:50 |
 
 
 |  | ot3_desert_octet |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:51:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309546900048 |
-| Players | 7/8 |
-| Host Name | Alvaro |
+| Lobby ID | 28595309547713800 |
+| Players | 12/15 |
+| Host Name | SEX MUTANT |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:26:14 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:27:26 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309547694179 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Grupo 5 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:27:24 |
@@ -85,26 +85,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309547713800 |
-| Players | 10/15 |
-| Host Name | SEX MUTANT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:27:26 |
+| Lobby ID | 28595309547992809 |
+| Players | 7/15 |
+| Host Name | B2 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:27:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309547869658 |
-| Players | 1/8 |
-| Host Name | AEA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:27:40 |
+| Lobby ID | 28595309545595314 |
+| Players | 9/10 |
+| Host Name | BARINOV1VOEVAL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:24:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309545901214 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Raynuva |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:24:44 |
@@ -113,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309547464921 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ็ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:27:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309548018925 |
+| Players | 2/5 |
+| Host Name | ィ⛥zxc_СЕНЯ_zxc⛥ィ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:27:53 |
 
 
