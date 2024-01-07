@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309427385838 |
-| Players | 2/10 |
-| Host Name | ebet? |
+| Lobby ID | 28595309427639798 |
+| Players | 5/24 |
+| Host Name | Versaillest |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:00:29 |
+| Lobby Creation Time | Sunday, January 7, 2024 10:00:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309427198234 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | БлАтНоЙ ПеТуХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309427474080 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | A tu vieja la vuelvo mi gata |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:39 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309427476456 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Stiller |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309427195401 |
-| Players | 11/15 |
-| Host Name | Tiny Trumpet! |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:00:08 |
+| Lobby ID | 28595309427743524 |
+| Players | 3/10 |
+| Host Name | ebet? |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 10:01:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309427436399 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:35 |
@@ -101,21 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:42 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309427639798 |
-| Players | 3/24 |
-| Host Name | Versaillest |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 10:00:57 |
+| Lobby ID | 28595309427685120 |
+| Players | 6/10 |
+| Host Name | грех |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 10:01:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309427685120 |
-| Players | 1/10 |
-| Host Name | грех |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:01:02 |
+| Lobby ID | 28595309424821875 |
+| Players | 9/10 |
+| Host Name | Sakata Gintoki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:55:46 |
 
 
