@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309650657286 |
-| Players | 7/8 |
-| Host Name | wake up, u dreaming |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:48:26 |
+| Lobby ID | 28595309650978499 |
+| Players | 3/8 |
+| Host Name | MALEBEL TYT?? |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:48:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309650754430 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | rhene442 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:48:33 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309650945665 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:48:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309650978499 |
-| Players | 3/8 |
-| Host Name | MALEBEL TYT?? |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:48:50 |
+| Lobby ID | 28595309651240299 |
+| Players | 4/10 |
+| Host Name | Igor' |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:49:10 |
 
 
 |  | epic_boss_fight_nightmare |
