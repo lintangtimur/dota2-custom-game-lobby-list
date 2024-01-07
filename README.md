@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309460678074 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | cb |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:01:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459701825 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Dj cucaracha |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:07 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 5/24 |
-| Host Name | Angelmon |
+| Players | 4/24 |
+| Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309460070486 |
-| Players | 13/15 |
-| Host Name | bagnu brusgiatu |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:00:46 |
+| Lobby ID | 28595309460840350 |
+| Players | 9/10 |
+| Host Name | :p |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:02:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,47 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309460134055 |
-| Players | 7/10 |
-| Host Name | Viebu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:00:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309460864998 |
-| Players | 1/8 |
-| Host Name | helloff ⛔TRADE BANNED⛔ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 11:02:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28595309460723213 |
 | Players | 2/10 |
 | Host Name | Nanachi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:01:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309460840350 |
-| Players | 7/10 |
-| Host Name | :p |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:02:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309461170005 |
-| Players | 2/8 |
-| Host Name | Сын мипошки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:02:44 |
 
 
 |  | epic_boss_fight_nightmare |
