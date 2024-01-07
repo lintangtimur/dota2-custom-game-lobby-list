@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309440950609 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Saito; |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:25:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309440663507 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | MOther fucker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:24:56 |
@@ -29,20 +29,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 10:04:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309441744114 |
-| Players | 1/8 |
-| Host Name | Borealis |
+| Lobby ID | 28595309441682594 |
+| Players | 7/10 |
+| Host Name | ТЕРМИТ |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:26:57 |
+| Lobby Creation Time | Sunday, January 7, 2024 10:26:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309441366786 |
-| Players | 10/24 |
-| Host Name | SuperChef |
+| Players | 5/24 |
+| Host Name | Mr. Bean Bean |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:26:15 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309441162642 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | k3yj1 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:25:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309441358426 |
-| Players | 15/24 |
+| Players | 22/24 |
 | Host Name | MiKchero |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:26:14 |
@@ -86,34 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309441366008 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | El abuelo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:26:15 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309441682594 |
-| Players | 5/10 |
-| Host Name | ТЕРМИТ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:26:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309441767120 |
-| Players | 2/15 |
-| Host Name | 10 de mmr |
+| Lobby ID | 28595309441882643 |
+| Players | 1/15 |
+| Host Name | idc |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:27:00 |
+| Lobby Creation Time | Sunday, January 7, 2024 10:27:13 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28595309436647248 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | NOUR |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:33 |
