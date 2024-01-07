@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309615878028 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | 🥚Little Egg :3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:03:41 |
@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:02:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309615107414 |
-| Players | 7/8 |
-| Host Name | playa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:02:40 |
+| Lobby ID | 28595309616074035 |
+| Players | 15/24 |
+| Host Name | (x_x) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:03:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309615890066 |
-| Players | 4/8 |
-| Host Name | madman in depressed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:03:42 |
+| Lobby ID | 28595309616172331 |
+| Players | 12/15 |
+| Host Name | Hummer |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:04:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,58 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:03:52 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309614440550 |
-| Players | 8/10 |
-| Host Name | ЭТИ МАЛЫШИ ХУЯ ПРОСЯТ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:01:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309615396691 |
-| Players | 6/10 |
-| Host Name | say_hay1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:03:03 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309616172331 |
-| Players | 9/15 |
-| Host Name | Hummer |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:04:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309616074035 |
-| Players | 9/24 |
-| Host Name | (x_x) |
+| Lobby ID | 28595309616519152 |
+| Players | 1/15 |
+| Host Name | 123 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:03:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309616161161 |
-| Players | 2/10 |
-| Host Name | :v |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 15:04:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309616355736 |
-| Players | 6/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:04:18 |
+| Lobby Creation Time | Sunday, January 7, 2024 15:04:31 |
 
 
 |  | epic_boss_fight_challenger |
