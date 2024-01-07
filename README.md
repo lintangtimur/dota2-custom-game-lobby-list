@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309435992207 |
-| Players | 9/10 |
-| Host Name | cFg/52 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:16:22 |
+| Lobby ID | 28595309436597105 |
+| Players | 2/8 |
+| Host Name | Konbu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:17:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309436418365 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Eline2604 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:17:09 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309436266684 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | VISHTACK BORN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:16:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309436578417 |
+| Players | 2/10 |
+| Host Name | Сережа Унитаз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 10:17:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309436624246 |
+| Players | 2/10 |
+| Host Name | eunj0619 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 10:17:31 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ∮Ӥκ∁ӤӃ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:13:51 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309436647248 |
+| Players | 2/7 |
+| Host Name | NOUR |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:17:33 |
 
 
