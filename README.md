@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309808840700 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | style |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:53:22 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309808833856 |
-| Players | 7/10 |
-| Host Name | Я Гиви мальчики,Гиви |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:53:22 |
+| Lobby ID | 28595309805296024 |
+| Players | 22/24 |
+| Host Name | 노루 noru 노루 noru 노루 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:49:58 |
 
 
 |  | ot3_desert_octet |
@@ -38,22 +38,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 18:50:13 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309807294849 |
-| Players | 6/10 |
-| Host Name | 操你妈 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:51:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309808967930 |
-| Players | 9/15 |
-| Host Name | Aylardex Vlael |
+| Lobby ID | 28595309809404278 |
+| Players | 3/15 |
+| Host Name | Bolvan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:53:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309809410476 |
+| Players | 2/8 |
+| Host Name | best 4 |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:53:29 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:53:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309809401491 |
+| Players | 5/10 |
+| Host Name | ^^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:53:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309809415166 |
+| Players | 2/8 |
+| Host Name | bloodytripp |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:53:55 |
 
 
 |  | epic_boss_fight_nightmare |
