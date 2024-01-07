@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309449894212 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | llegó la SUNAT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:42:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309450066751 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Radiant's Courier |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:42:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309449853320 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Jesse Pinkman |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:42:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309450370945 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:43:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309450392363 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Dominique de Coco |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:43:05 |
@@ -99,6 +99,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:43:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309450500730 |
+| Players | 2/10 |
+| Host Name | Fulgencio Batista |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 10:43:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309450523582 |
+| Players | 1/8 |
+| Host Name | osito peru d dia egpanda d noche |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:43:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309450516850 |
+| Players | 1/8 |
+| Host Name | CepCap |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:43:18 |
 
 
 |  | epic_boss_fight_nightmare |
