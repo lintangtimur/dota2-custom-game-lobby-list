@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309905926983 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | CHIM CHOPA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 20:17:10 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595309905784087 |
 | Players | 2/24 |
-| Host Name | no masteries |
+| Host Name | X-ART |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 20:17:03 |
 
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309908109161 |
-| Players | 8/15 |
-| Host Name | tv/alopoh |
+| Lobby ID | 28595309908971090 |
+| Players | 4/15 |
+| Host Name | Владик шоколадик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 20:18:56 |
+| Lobby Creation Time | Sunday, January 7, 2024 20:19:38 |
 
 
 |  | ot3_gardens_duo |
@@ -85,11 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309908761859 |
-| Players | 7/8 |
-| Host Name | z0rd1 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 20:19:27 |
+| Lobby ID | 28595309908786193 |
+| Players | 5/8 |
+| Host Name | ПРИГОЖИН ЖЕНЯ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:19:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309908879545 |
+| Players | 1/8 |
+| Host Name | anal destroyer pussy ass niga |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 20:19:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309908963443 |
+| Players | 1/24 |
+| Host Name | Majin |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 20:19:37 |
 
 
 |  | epic_boss_fight_nightmare |
