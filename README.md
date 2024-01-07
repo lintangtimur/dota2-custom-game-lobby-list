@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309638111814 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Devil Eyes |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 15:32:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309624876990 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | SpliNteR |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:15:20 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:23:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309641127694 |
-| Players | 2/8 |
-| Host Name | Чувствую smooth criminal |
+| Lobby ID | 28595309641352471 |
+| Players | 11/15 |
+| Host Name | Re Zero |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:36:09 |
+| Lobby Creation Time | Sunday, January 7, 2024 15:36:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309640359999 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | LuK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:35:10 |
@@ -49,11 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309640806169 |
-| Players | 5/24 |
-| Host Name | 4got10God |
+| Lobby ID | 28595309641678741 |
+| Players | 1/24 |
+| Host Name | 老司机 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:35:44 |
+| Lobby Creation Time | Sunday, January 7, 2024 15:36:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309641693017 |
+| Players | 1/24 |
+| Host Name | It's a NO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:36:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309641736747 |
+| Players | 1/8 |
+| Host Name | Korben Dallas |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:36:56 |
 
 
 |  | epic_boss_fight_normal |
