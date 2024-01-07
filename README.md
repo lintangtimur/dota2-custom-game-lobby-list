@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309780105139 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | jnikko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:24:31 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309780211896 |
-| Players | 8/10 |
-| Host Name | バージル |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:24:37 |
+| Lobby ID | 28595309781188196 |
+| Players | 1/10 |
+| Host Name | ХЛОП ХЛОПЫЧ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:25:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309780671813 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Ковальски |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:25:06 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309780897690 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | < blank > |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:25:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309781085040 |
+| Players | 1/8 |
+| Host Name | ♣Onil_Gosling♣ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 18:25:32 |
 
 
 |  | epic_boss_fight_normal |
@@ -76,37 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309778121555 |
-| Players | 9/10 |
-| Host Name | KoKo anKo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:22:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309780866647 |
-| Players | 3/5 |
-| Host Name | Happe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:25:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28595309780871576 |
 | Players | 1/10 |
 | Host Name | raccoonpiss |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:25:19 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595309781001105 |
-| Players | 1/7 |
-| Host Name | TORONTO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:25:27 |
 
 
