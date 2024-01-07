@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309464861013 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | ICG.Winter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:09:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309465992582 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | T R A S H B O A T |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:11:25 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309466185746 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Bcex_nopBy |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:11:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309466388780 |
+| Players | 1/24 |
+| Host Name | El cacha Yhoncitos del 8 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:12:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309466427633 |
+| Players | 1/15 |
+| Host Name | Teleport |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:12:11 |
 
 
 |  | epic_boss_fight_nightmare |
