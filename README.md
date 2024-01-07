@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309548057938 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Nacho Fierro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:27:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309549875205 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Zoom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:39 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309548659378 |
-| Players | 2/15 |
+| Lobby ID | 28595309550469086 |
+| Players | 1/15 |
 | Host Name | 出棋不意必自闭 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:28:51 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:31:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309548647105 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Leekholic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:28:49 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309549947689 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | gronaldo44 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:45 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309550074122 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Toji Fushiguro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:57 |
