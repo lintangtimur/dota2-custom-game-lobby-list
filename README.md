@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309403890704 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Anj0 `-!FRD!-` |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:16:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309404293704 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | honakaほなか |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:17:18 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309404188663 |
-| Players | 3/10 |
-| Host Name | спортсмен. |
+| Players | 1/10 |
+| Host Name | Bo$$ Хомяк :3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:17:06 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309403718198 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Сидролюб со стажем |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:16:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309404364169 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | danye west |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:17:26 |
