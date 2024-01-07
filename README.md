@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309528136522 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Fakar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:57:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309528821870 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Kaioh Retsu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:58:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309528726406 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | pohui |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:58:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309529012213 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | JerryLee |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:58:54 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309529125263 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | beiusuachua |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:59:04 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309529196638 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Nacho Fierro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:59:11 |
@@ -126,6 +126,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | «ØvêℜÐøšê» |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:59:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309527538944 |
+| Players | 14/15 |
+| Host Name | DonFlag |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:56:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309529372354 |
+| Players | 1/10 |
+| Host Name | PMA^^ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:59:27 |
 
 
 |  | epic_boss_fight_nightmare |
