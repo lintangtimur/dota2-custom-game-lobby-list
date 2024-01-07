@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309489600144 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | F̴̛̜̥̼̭̫͇͖̱̘̩̯͕̅̂̎͒̍͛̃͂́͊͜B̷̼̉̈́̓ |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:53:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309489212852 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:52:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309489773755 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Porek |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:53:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309489279712 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | CAMPEÓN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:52:29 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309489926557 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Felps |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:53:37 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309490126342 |
+| Lobby ID | 28595309490196120 |
 | Players | 3/8 |
-| Host Name | blossom_orchid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:53:58 |
+| Host Name | केवल ईश्वर ह |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:54:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309490205687 |
+| Players | 1/10 |
+| Host Name | Илья Лоботомия |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:54:07 |
 
 
 |  | epic_boss_fight_hard |
