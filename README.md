@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309608642665 |
-| Players | 1/15 |
-| Host Name | Dota, hielo y sandias. |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 14:54:01 |
+| Lobby ID | 28595309610733214 |
+| Players | 5/15 |
+| Host Name | nemesis |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 14:56:49 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309610494423 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 失踪的宇航员 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:56:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309610740229 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Fearx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:56:50 |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:53:30 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309610982322 |
+| Players | 1/24 |
+| Host Name | .. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:57:09 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309610733214 |
-| Players | 5/15 |
-| Host Name | nemesis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:56:49 |
+| Lobby ID | 28595309611007140 |
+| Players | 1/15 |
+| Host Name | Dota, hielo y sandias. |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:57:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309610788628 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | EpicBossFightEnjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:56:53 |
