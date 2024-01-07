@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309722836770 |
-| Players | 9/10 |
-| Host Name | idgaf |
+| Lobby ID | 28595309723588176 |
+| Players | 2/10 |
+| Host Name | Unlimited diarrhea |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:19:13 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:20:08 |
 
 
 |  | ot3_desert_octet |
@@ -32,19 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309723631436 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | СаняКомпьютер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:20:11 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309723939211 |
+| Players | 3/8 |
+| Host Name | Unthinkable |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:20:34 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309723588176 |
-| Players | 2/10 |
-| Host Name | Unlimited diarrhea |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:20:08 |
+| Lobby ID | 28595309724017673 |
+| Players | 4/10 |
+| Host Name | 乌龟的黑头 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Sunday, January 7, 2024 17:20:40 |
 
 
 |  | epic_boss_fight_nightmare |
