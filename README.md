@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310254534678 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | ChayiTO |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:21:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310254873050 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | KʌDIʌN |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 01:21:24 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310252713617 |
-| Players | 8/10 |
-| Host Name | ShaV |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 01:19:16 |
+| Lobby ID | 28595310256275966 |
+| Players | 4/10 |
+| Host Name | ❤Chudik❤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:22:46 |
 
 
 |  | ot3_desert_octet |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310256171640 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 01:22:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310255927317 |
-| Players | 8/15 |
-| Host Name | Bazar_Jeckson |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:22:26 |
+| Lobby ID | 28595310256232084 |
+| Players | 4/8 |
+| Host Name | Xub4 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 8, 2024 01:22:44 |
 
 
 |  | ot3_necropolis_ffa |
