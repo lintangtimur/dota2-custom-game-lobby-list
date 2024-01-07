@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309531232507 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:02:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309530294582 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | volshebniy69 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:00:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309531295365 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Nice*1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:02:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309524440501 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | apTeom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:51:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309530828514 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ME MUERO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:01:42 |
@@ -92,55 +92,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:03:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309531488929 |
-| Players | 1/24 |
-| Host Name | Bibip |
+| Lobby ID | 28595309532648638 |
+| Players | 4/15 |
+| Host Name | ᴶᴼᴱ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:02:43 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:04:30 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309531446749 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ILP |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:02:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309531454887 |
-| Players | 22/24 |
-| Host Name | Avent- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:02:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309532042468 |
-| Players | 5/8 |
-| Host Name | Beer.Team Матье Бал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:03:35 |
+| Lobby ID | 28595309532943062 |
+| Players | 5/15 |
+| Host Name | Samichpunch |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:04:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309531489126 |
-| Players | 9/10 |
-| Host Name | アリゲーター |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:02:43 |
+| Lobby ID | 28595309532981765 |
+| Players | 1/10 |
+| Host Name | Krueger |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:05:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309532985617 |
+| Players | 1/24 |
+| Host Name | Bibip |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:05:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309528524313 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:58:09 |
@@ -149,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309529485528 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | I AM THE STORM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:59:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309532623196 |
-| Players | 1/5 |
-| Host Name | Sir.Pogi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:04:27 |
 
 
