@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309506252174 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Hairam123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:21:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309507112851 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | DD Mydoira |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:23:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309505304708 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Kaioh Retsu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:20:05 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309507062649 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 8llllllllllD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:22:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309506785561 |
-| Players | 7/8 |
-| Host Name | SameShit |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:22:30 |
+| Lobby ID | 28595309507412204 |
+| Players | 2/10 |
+| Host Name | Сквиртуоз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:23:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309506982718 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:22:50 |
