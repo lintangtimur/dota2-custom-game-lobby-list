@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310137281020 |
-| Players | 3/8 |
-| Host Name | чвк талант |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 23:28:57 |
+| Lobby ID | 28595310139663795 |
+| Players | 7/15 |
+| Host Name | фрибет от Winline |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 23:31:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310138935300 |
-| Players | 7/8 |
-| Host Name | ETH |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:30:27 |
+| Lobby ID | 28595310139535502 |
+| Players | 3/15 |
+| Host Name | WASD |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 23:31:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310138915004 |
-| Players | 4/24 |
+| Players | 18/24 |
 | Host Name | Agua |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:30:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310137521404 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | BigBillzGetPaid |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 23:29:10 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:25:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310138692950 |
-| Players | 4/8 |
-| Host Name | Toph Beifong |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:30:14 |
+| Lobby ID | 28595310139718245 |
+| Players | 1/10 |
+| Host Name | KatkaRuinerEnterprise youtube |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 23:31:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:26:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310139186721 |
-| Players | 5/10 |
-| Host Name | Draken x Mikey |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:30:41 |
+| Lobby ID | 28595310134825825 |
+| Players | 13/15 |
+| Host Name | Elysium |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 23:26:43 |
 
 
 |  | ot3_desert_octet |
@@ -128,40 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:30:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310139369791 |
-| Players | 11/15 |
-| Host Name | Norfolk247 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:30:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310139535502 |
-| Players | 2/15 |
-| Host Name | WASD |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 23:31:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310139593598 |
-| Players | 1/8 |
-| Host Name | ЧЕБУТРАХ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 23:31:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310139598113 |
-| Players | 4/8 |
-| Host Name | 🐓Petoohsok |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 23:31:04 |
+| Lobby ID | 28595310139812060 |
+| Players | 2/10 |
+| Host Name | zybok prime |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, January 7, 2024 23:31:15 |
 
 
 |  | epic_boss_fight_hard |
@@ -180,5 +153,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Singularity |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:23:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310139683851 |
+| Players | 1/5 |
+| Host Name | Wibu Lord |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:31:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310139738708 |
+| Players | 1/10 |
+| Host Name | Big Poppa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 23:31:11 |
 
 
