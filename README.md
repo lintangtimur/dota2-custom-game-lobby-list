@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309444964758 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | NothingFeelsRight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:32:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309445928417 |
-| Players | 6/10 |
-| Host Name | noname4c |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 10:34:41 |
+| Lobby ID | 28595309446104471 |
+| Players | 1/8 |
+| Host Name | BOSSJEM |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, January 7, 2024 10:35:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309444068693 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:31:16 |
@@ -68,34 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309446032666 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Hope |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:34:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309446104471 |
-| Players | 1/8 |
-| Host Name | BOSSJEM |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 10:35:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309446199147 |
-| Players | 1/15 |
-| Host Name | btzhnva |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:35:10 |
+| Lobby ID | 28595309445928417 |
+| Players | 6/10 |
+| Host Name | noname4c |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 10:34:41 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309445151892 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | MrMechas |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:33:16 |
