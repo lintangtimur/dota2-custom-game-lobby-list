@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309450074930 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Kaк в cтapыe, добрые) |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:42:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309450392363 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Dominique de Coco |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:43:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309452023585 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | imsofcknbad |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:46:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309452376838 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | misCascos y tu --tienen una cita |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:46:42 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:47:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309451999839 |
+| Players | 21/24 |
+| Host Name | Bajando locura |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 10:46:01 |
 
 
 |  | epic_boss_fight_nightmare |
