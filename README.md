@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:11:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309716720217 |
-| Players | 14/15 |
-| Host Name | Block |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:11:43 |
+| Lobby ID | 28595309717551542 |
+| Players | 2/8 |
+| Host Name | Exuse (muted) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:12:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309717437106 |
-| Players | 2/24 |
-| Host Name | minmin |
+| Players | 5/24 |
+| Host Name | AMBATUKUM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:12:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309717502177 |
-| Players | 1/15 |
-| Host Name | 和气dota |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, January 7, 2024 17:12:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309717551542 |
-| Players | 1/8 |
-| Host Name | Exuse (muted) |
+| Lobby ID | 28595309717703106 |
+| Players | 1/24 |
+| Host Name | Popasssssss |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:12:46 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:12:57 |
 
 
 |  | epic_boss_fight_nightmare |
