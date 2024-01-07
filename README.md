@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309859985131 |
-| Players | 21/24 |
-| Host Name | YungJopa |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:39:17 |
+| Lobby ID | 28595309864835546 |
+| Players | 8/15 |
+| Host Name | 76561198416698038 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:43:28 |
 
 
 |  | ot3_desert_octet |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309864028667 |
-| Players | 7/10 |
-| Host Name | ParadoX |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:42:47 |
+| Lobby ID | 28595309864748808 |
+| Players | 1/10 |
+| Host Name | ga |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 19:43:24 |
 
 
 |  | ot3_desert_octet |
@@ -65,46 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:42:02 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309864835546 |
-| Players | 2/15 |
-| Host Name | 76561198416698038 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:43:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309864953681 |
-| Players | 3/8 |
-| Host Name | ТЕЧУС))))))))) |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 19:43:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309864748808 |
-| Players | 1/10 |
-| Host Name | ga |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 19:43:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309862710977 |
-| Players | 9/10 |
-| Host Name | KNИggA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:41:39 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309864727159 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | >OnLy LoVe< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:43:23 |
