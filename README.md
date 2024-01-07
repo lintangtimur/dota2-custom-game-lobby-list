@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309389484721 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 08:49:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309389205372 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | It's poshooooo ! |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:48:54 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 08:50:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309390519572 |
-| Players | 11/15 |
-| Host Name | infinity |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 08:51:19 |
+| Lobby ID | 28595309390956249 |
+| Players | 2/10 |
+| Host Name | zhdi plohoi pogody |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:52:07 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309389118759 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | MiauW |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:48:44 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tu Rata Favorita |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:51:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309390909432 |
-| Players | 1/10 |
-| Host Name | BOOG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 08:52:02 |
 
 
