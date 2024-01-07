@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309715908507 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Brotino |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:10:42 |
@@ -40,29 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309716414424 |
-| Players | 9/10 |
-| Host Name | silfi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:11:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309716720217 |
-| Players | 6/15 |
-| Host Name | Block |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:11:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28595309716929936 |
 | Players | 3/10 |
 | Host Name | RootinTootinPutin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:11:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309716720217 |
+| Players | 10/15 |
+| Host Name | Block |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:11:43 |
 
 
 |  | epic_boss_fight_nightmare |
