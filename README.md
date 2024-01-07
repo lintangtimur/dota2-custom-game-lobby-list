@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309467110794 |
-| Players | 13/15 |
-| Host Name | Gonzalo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:13:24 |
+| Lobby ID | 28595309467757359 |
+| Players | 4/15 |
+| Host Name | Mentok |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:14:31 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309466518936 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | dead outside |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:12:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309464656745 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | _Ferxxo_ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:08:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | Truck-kun |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309463188174 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Sakazuki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:06:19 |
