@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309724723739 |
-| Players | 7/10 |
-| Host Name | Evolutionssv |
+| Players | 9/10 |
+| Host Name | монстр секса |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:21:31 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309722621018 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | 100 Percent Maximum No Chill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:18:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309725037721 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 1/2/jungle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:21:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309724857155 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Убийца Акаме |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:21:41 |
@@ -40,11 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309724881017 |
-| Players | 12/15 |
-| Host Name | 金雨 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:21:43 |
+| Lobby ID | 28595309725358933 |
+| Players | 1/15 |
+| Host Name | Weiße Wand |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:22:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309725384065 |
+| Players | 5/8 |
+| Host Name | Dumpster Deviant |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 17:22:19 |
 
 
 |  | epic_boss_fight_nightmare |
