@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:03:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309619277714 |
-| Players | 1/24 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 15:08:05 |
+| Lobby ID | 28595309620311817 |
+| Players | 1/10 |
+| Host Name | NICE PLAYER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 15:09:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309620115926 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | 嗯啊 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:09:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309619696415 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Evlogos |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:08:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309619270260 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | оудап |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:08:05 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309620117104 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | 永远不要提前开香槟 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:09:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309620311817 |
-| Players | 1/10 |
-| Host Name | NICE PLAYER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:09:28 |
+| Lobby ID | 28595309620383881 |
+| Players | 1/24 |
+| Host Name | Punisher PMA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 15:09:34 |
 
 
 |  | epic_boss_fight_hard |
