@@ -2,76 +2,49 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309687278715 |
-| Players | 13/24 |
-| Host Name | (x_x) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:34:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309687336386 |
-| Players | 6/8 |
-| Host Name | Mutant from canalization |
+| Lobby ID | 28595309688573605 |
+| Players | 4/15 |
+| Host Name | Borchic |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:34:27 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:35:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309688055674 |
+| Players | 7/10 |
+| Host Name | captan jack sparrow |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:35:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309687088371 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | .xtwoxxm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 16:34:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309687958940 |
-| Players | 1/8 |
-| Host Name | Karma |
+| Lobby ID | 28595309688464867 |
+| Players | 6/24 |
+| Host Name | Badut Merah Biru |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:35:14 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:35:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309687117697 |
-| Players | 1/8 |
+| Lobby ID | 28595309688509798 |
+| Players | 3/8 |
 | Host Name | lokoespartano |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 16:34:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309688023137 |
-| Players | 4/10 |
-| Host Name | Няшка Стесняшка |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:35:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309686611969 |
-| Players | 14/15 |
-| Host Name | Fredikum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:33:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309687853701 |
-| Players | 6/10 |
-| Host Name | Da Ve |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, January 7, 2024 16:35:06 |
+| Lobby Creation Time | Sunday, January 7, 2024 16:35:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | God is Good |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:31:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309687493962 |
-| Players | 2/5 |
-| Host Name | GANVORD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:34:39 |
 
 
 |  | epic_boss_fight_nightmare |
