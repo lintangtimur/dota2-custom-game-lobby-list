@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309346093134 |
-| Players | 8/10 |
-| Host Name | DUQUE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:27:04 |
+| Lobby ID | 28595309346906404 |
+| Players | 4/10 |
+| Host Name | Might Wanna Try Fortnite |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:28:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309346693451 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Blob- |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:28:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309346122914 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | scaanch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:27:08 |
@@ -77,36 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309346591369 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | 1emonade |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:27:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309346787847 |
-| Players | 4/8 |
-| Host Name | NeLizalPizdu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:28:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309346867187 |
-| Players | 1/8 |
-| Host Name | Byundiesta |
+| Lobby ID | 28595309347004568 |
+| Players | 2/15 |
+| Host Name | far fri |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:28:27 |
+| Lobby Creation Time | Sunday, January 7, 2024 07:28:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309346906404 |
-| Players | 2/10 |
-| Host Name | Might Wanna Try Fortnite |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 07:28:31 |
+| Lobby ID | 28595309347025598 |
+| Players | 1/24 |
+| Host Name | YO ERA GOZU HASTA QUE ME ENAMORE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:28:44 |
 
 
