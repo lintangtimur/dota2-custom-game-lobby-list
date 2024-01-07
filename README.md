@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309406103346 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | зима в сердце |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:20:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309417935591 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Combodjo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:43:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309410356552 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 09:28:48 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309416117919 |
-| Players | 6/8 |
-| Host Name | NO name |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 09:39:35 |
+| Lobby ID | 28595309418434014 |
+| Players | 5/8 |
+| Host Name | Быдло |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:43:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309417961237 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | [RV] ¨¨¨¨¨¨¨¨¨¨¨¨¨ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:43:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309418225843 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ДИРЕКТОР |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:43:34 |
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:43:42 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309414535359 |
-| Players | 9/10 |
-| Host Name | Integration By Parts |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:36:32 |
+| Lobby ID | 28595309418495496 |
+| Players | 4/8 |
+| Host Name | kekegozu |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:44:04 |
 
 
