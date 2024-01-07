@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309518789462 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Movistar Perú Oficial |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:42:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309518017736 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Tioshadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:41:06 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309517860848 |
-| Players | 7/8 |
-| Host Name | Murió EG, ahora fan de Wisper |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:40:51 |
+| Lobby ID | 28595309518642890 |
+| Players | 6/8 |
+| Host Name | Beer.Team Матье Бал |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:42:08 |
 
 
 |  | ot3_desert_octet |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:37:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309516700500 |
-| Players | 8/10 |
-| Host Name | Сквиртуоз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:38:55 |
+| Lobby ID | 28595309519040966 |
+| Players | 6/24 |
+| Host Name | The Lagmeister |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:42:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309518077321 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | El gatito erotico |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 12:41:12 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:41:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309518642890 |
-| Players | 6/8 |
-| Host Name | Beer.Team Матье Бал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:42:08 |
+| Lobby ID | 28595309514960017 |
+| Players | 9/10 |
+| Host Name | hyko |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:36:00 |
 
 
 |  | epic_boss_fight_nightmare |
