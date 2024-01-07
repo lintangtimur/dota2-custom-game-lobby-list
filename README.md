@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309397205234 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:03:45 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309392939830 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:55:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309398384188 |
-| Players | 1/8 |
-| Host Name | 彼女が1214年間自分を切 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:05:56 |
+| Lobby ID | 28595309398374213 |
+| Players | 2/10 |
+| Host Name | High |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 09:05:55 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309397759321 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | AEA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:04:47 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:02:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309398219900 |
-| Players | 2/10 |
-| Host Name | 1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 09:05:38 |
+| Lobby ID | 28595309398342263 |
+| Players | 3/8 |
+| Host Name | El Souph |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, January 7, 2024 09:05:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:05:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309398342263 |
-| Players | 1/8 |
-| Host Name | El Souph |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 09:05:51 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309398374213 |
-| Players | 1/10 |
-| Host Name | High |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 09:05:55 |
+| Lobby ID | 28595309397267744 |
+| Players | 8/10 |
+| Host Name | Frontier |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:03:52 |
 
 
 |  | epic_boss_fight_challenger |
