@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309417037968 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:41:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309410356552 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 09:28:48 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309413793026 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | rato distópico cunty |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 09:35:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309417538267 |
-| Players | 12/15 |
-| Host Name | 皮克酱是我老婆 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:42:18 |
+| Lobby ID | 28595309417769796 |
+| Players | 1/24 |
+| Host Name | [RV] ¨¨¨¨¨¨¨¨¨¨¨¨¨ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 09:42:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:42:41 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309417766325 |
+| Players | 5/15 |
+| Host Name | MIDNIGHT |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:42:43 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309414535359 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Integration By Parts |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 09:36:32 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309417782010 |
+| Players | 1/7 |
+| Host Name | Boota |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 09:42:45 |
 
 
