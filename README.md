@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309548057938 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Nacho Fierro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:27:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309549491921 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Kaioh Retsu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309549875205 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Zoom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:39 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309548647105 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Leekholic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:28:49 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309549947689 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | gronaldo44 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:45 |
@@ -140,16 +140,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309550129549 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 5lowBurN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:31:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309550654534 |
+| Players | 1/15 |
+| Host Name | SkyBlue |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, January 7, 2024 13:31:48 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309550074122 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Toji Fushiguro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:30:57 |
