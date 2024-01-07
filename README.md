@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309486443195 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | El Tiburón De Villa |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:47:29 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309487253003 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:48:54 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309487113443 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Слабый и убогий |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:48:39 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309487221936 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | qwer123 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:48:50 |
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309487338418 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | lLitOl |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:49:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309486487041 |
+| Players | 12/15 |
+| Host Name | Rofl Chick-Fil-A Copter |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 11:47:34 |
 
 
 |  | epic_boss_fight_nightmare |
