@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309432266565 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Miguelyuyi |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:09:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309431747598 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | sáquenme de plata pofavo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:08:39 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309432513798 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Neko |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:10:07 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309430756245 |
-| Players | 1/5 |
-| Host Name | Zatchbell31 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:06:45 |
+| Lobby ID | 28595309432573432 |
+| Players | 1/8 |
+| Host Name | spacestalker slayer300raw1200cpm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 10:10:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309432421827 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Janix |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:09:57 |
