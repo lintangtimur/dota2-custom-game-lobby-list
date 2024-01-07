@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309373980728 |
-| Players | 2/15 |
-| Host Name | babylonblossom |
+| Players | 5/15 |
+| Host Name | DieSoft |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:19:04 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309373523435 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | salami pa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:18:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309368857611 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | style |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:09:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309373420420 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | you are a BETA MALE!! |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 08:17:59 |
@@ -50,16 +50,79 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309373925060 |
-| Players | 2/24 |
+| Players | 9/24 |
 | Host Name | Abuela.n.Patineta |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 08:18:58 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309374119055 |
+| Players | 10/15 |
+| Host Name | nattyboons |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:19:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309374202330 |
+| Players | 1/10 |
+| Host Name | Grumbledorp |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 08:19:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309374266515 |
+| Players | 7/8 |
+| Host Name | 0000000 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:19:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309374270573 |
+| Players | 2/24 |
+| Host Name | sangre y luto |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 08:19:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309374429007 |
+| Players | 1/24 |
+| Host Name | Agua |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:19:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309374381461 |
+| Players | 1/24 |
+| Host Name | BOMBERMAN |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 08:19:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309374422341 |
+| Players | 2/8 |
+| Host Name | Taimen |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 08:19:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309372971916 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | FAQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:17:08 |
