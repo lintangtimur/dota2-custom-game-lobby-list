@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309721166564 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:17:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309714550137 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Badgast2k17 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:08:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309719392353 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Leonidas |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 17:15:00 |
@@ -56,22 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 17:14:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309720315692 |
-| Players | 9/10 |
-| Host Name | Libertad |
+| Lobby ID | 28595309721321603 |
+| Players | 2/8 |
+| Host Name | cчастье? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:16:07 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:17:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309721314132 |
-| Players | 1/10 |
-| Host Name | hahahahhaahha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:17:20 |
+| Lobby ID | 28595309721453257 |
+| Players | 1/15 |
+| Host Name | Naatsoy |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:17:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309721449282 |
+| Players | 4/15 |
+| Host Name | cool calm and collected |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:17:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309721433410 |
+| Players | 2/24 |
+| Host Name | Lumis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:17:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309721311871 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | I_Love_69 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:17:20 |
