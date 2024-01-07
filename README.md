@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309459982332 |
-| Players | 7/8 |
-| Host Name | Hipnos |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:00:37 |
+| Lobby ID | 28595309462865592 |
+| Players | 2/15 |
+| Host Name | KiW3^ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:05:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309462182626 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | GoD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:04:32 |
@@ -85,20 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309462841825 |
+| Lobby ID | 28595309462876243 |
 | Players | 2/10 |
 | Host Name | oDRa |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 11:05:42 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:05:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309462846743 |
+| Lobby ID | 28595309462933908 |
 | Players | 1/10 |
 | Host Name | flashing lights |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:05:43 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:05:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595309460893008 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Crustyチル |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:02:14 |
