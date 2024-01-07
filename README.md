@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:39:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309711625216 |
-| Players | 5/8 |
-| Host Name | I am |
+| Lobby ID | 28595309711927535 |
+| Players | 2/10 |
+| Host Name | Быбло |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:05:16 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:05:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309711506219 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ly3en |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:05:07 |
@@ -41,25 +41,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309711293983 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Unlimited diarrhea |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:04:51 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309711759707 |
+| Players | 3/24 |
+| Host Name | [D]arkNeZZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:05:27 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309711685499 |
+| Lobby ID | 28595309711939954 |
 | Players | 1/15 |
-| Host Name | Тайно Дёргал |
+| Host Name | JJchka |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:05:21 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:05:41 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309710606260 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | nyThanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:03:58 |
