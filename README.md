@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309973853627 |
-| Players | 5/15 |
-| Host Name | do whatever you want... |
+| Players | 7/15 |
+| Host Name | люблю сосиски |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 21:10:56 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309967280982 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:05:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309973544192 |
-| Players | 5/24 |
+| Players | 12/24 |
 | Host Name | XTA-970/PE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:10:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309973634122 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Обкуреный вексик |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 21:10:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309973593870 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | TIDEHUNTER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:10:44 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | шнюбик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 21:10:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309973924715 |
+| Players | 6/15 |
+| Host Name | Kalabächer |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 21:11:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309973991424 |
+| Players | 6/15 |
+| Host Name | lolik131 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 21:11:03 |
 
 
 |  | epic_boss_fight_nightmare |
