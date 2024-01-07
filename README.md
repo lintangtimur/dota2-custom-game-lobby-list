@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309349670430 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | bloodthirsty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:33:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309353520340 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ✪gabi♥♥♥angie✪ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:40:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309353448210 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | •Crazy Life• ☻ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:40:25 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309354097116 |
-| Players | 9/10 |
-| Host Name | Seaman from MSC |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:41:36 |
+| Lobby ID | 28595309354417522 |
+| Players | 2/10 |
+| Host Name | garou3456 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:42:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309354102422 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Egoisto |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:41:37 |
@@ -99,6 +99,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | yksdjx |
 | Region | PWTELECOMZHEJIANG |
 | Lobby Creation Time | Sunday, January 7, 2024 07:41:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309354392938 |
+| Players | 4/8 |
+| Host Name | создатель секса |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:42:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309354459984 |
+| Players | 3/8 |
+| Host Name | Слава роду |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:42:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309354460102 |
+| Players | 1/15 |
+| Host Name | kindregards |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:42:16 |
 
 
 |  | epic_boss_fight_nightmare |
