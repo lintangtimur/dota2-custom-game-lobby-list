@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309754873118 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | BOYKA |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309754737760 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Лес на вайбе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309754402278 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Hungry FOR Sassana PUSS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:24 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309754431005 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Pachacutec |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309754730644 |
-| Players | 1/15 |
-| Host Name | zxc |
+| Lobby ID | 28595309754058060 |
+| Players | 9/10 |
+| Host Name | ИИСУС СССР РАНГА |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:56:46 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:56:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Attila |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:56:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309755203710 |
+| Players | 1/5 |
+| Host Name | сларк из волги |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 17:57:18 |
 
 
