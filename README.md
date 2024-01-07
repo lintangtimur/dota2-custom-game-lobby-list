@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309361499027 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Overthrow Crazy Bitch! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:55:13 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309360579017 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:53:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309361839843 |
-| Players | 14/15 |
-| Host Name | smurf |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:55:51 |
+| Lobby ID | 28595309363064404 |
+| Players | 9/10 |
+| Host Name | 1KlasNumberOne |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:58:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309362937881 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Struggle |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:57:53 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309363064404 |
-| Players | 6/10 |
-| Host Name | 1KlasNumberOne |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:58:07 |
+| Lobby ID | 28595309363273659 |
+| Players | 2/10 |
+| Host Name | pepitogrillo |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:58:29 |
 
 
 |  | epic_boss_fight_nightmare |
