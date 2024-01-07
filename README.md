@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309486443195 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | El Tiburón De Villa |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:47:29 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309487253003 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:48:54 |
@@ -130,11 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309488449321 |
-| Players | 2/10 |
-| Host Name | hneyskl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:51:01 |
+| Lobby ID | 28595309488546632 |
+| Players | 4/10 |
+| Host Name | osito peru d dia egpanda d noche |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 11:51:11 |
 
 
 |  | epic_boss_fight_nightmare |
