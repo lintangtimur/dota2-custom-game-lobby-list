@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309453855960 |
-| Players | 5/8 |
-| Host Name | NO name |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, January 7, 2024 10:49:29 |
+| Lobby ID | 28595309453793598 |
+| Players | 2/8 |
+| Host Name | lets_fight |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 10:49:22 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309453020492 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | DIO! |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, January 7, 2024 10:47:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309452376838 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | misCascos y tu --tienen una cita |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:46:42 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309452732050 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 10:47:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309453793598 |
-| Players | 2/8 |
-| Host Name | lets_fight |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 10:49:22 |
 
 
 |  | epic_boss_fight_nightmare |
