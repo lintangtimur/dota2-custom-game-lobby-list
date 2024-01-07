@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309470128045 |
-| Players | 4/15 |
-| Host Name | DEXIO Y SUS 4 RETR4SA2 |
+| Players | 2/15 |
+| Host Name | Angry |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:18:42 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309471047072 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ^^Heaven |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 11:20:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309471746182 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Dominique de Coco |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:21:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309471704967 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | GMP [DVG] |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 11:21:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | 一叶之秋 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -63,6 +63,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tofu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 11:21:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309471926559 |
+| Players | 1/10 |
+| Host Name | Deiidream |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:21:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309471953055 |
+| Players | 3/24 |
+| Host Name | stats only |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 11:21:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309471987329 |
+| Players | 1/15 |
+| Host Name | liluriena |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:22:00 |
 
 
 |  | epic_boss_fight_nightmare |
