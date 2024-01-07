@@ -32,18 +32,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309738196274 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | BARINOV1VOEVAL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 17:37:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309738343321 |
-| Players | 9/15 |
-| Host Name | Мистер СИДР |
+| Lobby ID | 28595309738668896 |
+| Players | 1/24 |
+| Host Name | apTeom |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:37:51 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:38:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309738697878 |
+| Players | 2/8 |
+| Host Name | drax269 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:38:17 |
 
 
