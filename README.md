@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309808840700 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:53:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309772470149 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Soy El Corazon De Las Tinieblas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 18:16:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309810435622 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | бля рапиру слил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:54:53 |
@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309805558333 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Honks |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:50:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309810551640 |
-| Players | 6/10 |
-| Host Name | ку ку |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:55:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309810572559 |
-| Players | 4/15 |
-| Host Name | Raf |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:55:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Аянами Рей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:55:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309810572559 |
+| Players | 5/15 |
+| Host Name | Raf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:55:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309810846563 |
+| Players | 1/10 |
+| Host Name | я летающий зубр аватара самолет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 18:55:16 |
 
 
 |  | epic_boss_fight_normal |
