@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309738795149 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:38:24 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309740274077 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | torben- |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:40:11 |
@@ -41,34 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309738803834 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | BoB LeE SwaGgeR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:38:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309740161562 |
-| Players | 9/15 |
-| Host Name | 막놀리야 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:40:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309740290396 |
-| Players | 7/10 |
-| Host Name | _Mazafaka_ |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 17:40:12 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309740315904 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Убийца Акаме |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 17:40:14 |
@@ -76,19 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309740402429 |
-| Players | 1/10 |
-| Host Name | ДЕТРИГНУС |
+| Lobby ID | 28595309740970477 |
+| Players | 4/10 |
+| Host Name | мистер мораль |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:40:20 |
+| Lobby Creation Time | Sunday, January 7, 2024 17:41:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309740987749 |
+| Players | 2/15 |
+| Host Name | Patzy |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:41:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309739587421 |
-| Players | 7/10 |
-| Host Name | Cesar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 17:39:21 |
+| Lobby ID | 28595309740659252 |
+| Players | 2/10 |
+| Host Name | Weedy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 17:40:39 |
 
 
