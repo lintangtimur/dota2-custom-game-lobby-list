@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309558650940 |
-| Players | 22/24 |
-| Host Name | combathorse |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:43:49 |
+| Lobby ID | 28595309564846202 |
+| Players | 8/10 |
+| Host Name | coopitman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:52:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309564150919 |
-| Players | 13/15 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:51:49 |
+| Lobby ID | 28595309565254778 |
+| Players | 7/8 |
+| Host Name | Exuse (muted) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:53:27 |
 
 
 |  | ot3_desert_octet |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309557112994 |
-| Players | 2/8 |
-| Host Name | meliodas |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:41:31 |
+| Lobby ID | 28595309563637074 |
+| Players | 6/8 |
+| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:51:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309564276535 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:52:00 |
@@ -81,42 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:50:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309565254778 |
-| Players | 7/8 |
-| Host Name | Exuse (muted) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:53:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309564846202 |
-| Players | 6/10 |
-| Host Name | coopitman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:52:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309563637074 |
-| Players | 5/8 |
-| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:51:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309566087156 |
-| Players | 1/24 |
-| Host Name | :Xaiko midaX:) |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:54:40 |
 
 
 |  | epic_boss_fight_normal |
