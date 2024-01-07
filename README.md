@@ -23,34 +23,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309559235670 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | LuK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:44:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309555844821 |
-| Players | 6/8 |
-| Host Name | MAISONdes |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:39:37 |
+| Lobby ID | 28595309559457356 |
+| Players | 1/15 |
+| Host Name | Bonsai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 13:45:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309559258515 |
-| Players | 1/8 |
-| Host Name | de_dota2 |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:44:43 |
+| Lobby ID | 28595309556095201 |
+| Players | 8/10 |
+| Host Name | AxuJlec |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:39:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309558650940 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 御詩詩 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:43:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309559194937 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | DieseL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:44:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309558338613 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:43:21 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309559391586 |
+| Lobby ID | 28595309559500892 |
 | Players | 1/8 |
-| Host Name | Kak_TaK? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:44:54 |
+| Host Name | de_dota2 |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:45:04 |
 
 
 |  | epic_boss_fight_nightmare |
