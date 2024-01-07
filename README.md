@@ -38,21 +38,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 15:38:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595309643173394 |
-| Players | 1/15 |
-| Host Name | iaumiaumiaum |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:38:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309643304914 |
-| Players | 1/24 |
-| Host Name | Zone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:38:58 |
+| Lobby ID | 28595309643450201 |
+| Players | 2/10 |
+| Host Name | Tasyong |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, January 7, 2024 15:39:10 |
 
 
