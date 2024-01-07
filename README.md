@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309836847673 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Da VinCi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:19:09 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309834328287 |
-| Players | 6/8 |
-| Host Name | Weakest Femboy |
+| Players | 1/8 |
+| Host Name | Фумимочи male version |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:16:56 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309838308479 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Эскапизм Души |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:20:26 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309838864600 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Nano |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:20:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309837954458 |
-| Players | 9/10 |
-| Host Name | АГЕНТ ШРЭК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:20:08 |
+| Lobby ID | 28595309839284071 |
+| Players | 5/8 |
+| Host Name | Weakest Femboy |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:21:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309839270104 |
+| Players | 1/15 |
+| Host Name | Anthonieto |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 19:21:17 |
 
 
 |  | epic_boss_fight_challenger |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309837748453 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | CCsenior |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:19:57 |
