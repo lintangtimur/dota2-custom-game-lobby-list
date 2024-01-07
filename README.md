@@ -5,46 +5,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309764812905 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | ✟ מִיכָאֵל ✟ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:07:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309765484283 |
-| Players | 10/15 |
-| Host Name | cxz (kladmeH) |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:08:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309765706911 |
-| Players | 3/10 |
-| Host Name | ThatCat |
+| Lobby ID | 28595309765852677 |
+| Players | 6/8 |
+| Host Name | телеграмм рассылки |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:08:49 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:08:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309765158299 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | AKKAR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:08:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309765852677 |
-| Players | 2/8 |
-| Host Name | телеграмм рассылки |
+| Lobby ID | 28595309766142499 |
+| Players | 2/10 |
+| Host Name | МИКРО-БАРБЕРС |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:08:59 |
+| Lobby Creation Time | Sunday, January 7, 2024 18:09:18 |
 
 
 |  | epic_boss_fight_nightmare |
