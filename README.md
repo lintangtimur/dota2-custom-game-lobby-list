@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309528821870 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Kaioh Retsu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:58:36 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309527538944 |
-| Players | 14/15 |
-| Host Name | DonFlag |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:56:35 |
+| Lobby ID | 28595309529196638 |
+| Players | 3/24 |
+| Host Name | Nacho Fierro |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 12:59:11 |
 
 
 |  | ot3_desert_octet |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309528726406 |
-| Players | 10/15 |
-| Host Name | pohui |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 12:58:28 |
+| Lobby ID | 28595309529258371 |
+| Players | 1/15 |
+| Host Name | «ØvêℜÐøšê» |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:59:17 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309529012213 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | JerryLee |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:58:54 |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 12:59:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309529196638 |
-| Players | 2/24 |
-| Host Name | Nacho Fierro |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 12:59:11 |
+| Lobby ID | 28595309529608426 |
+| Players | 1/15 |
+| Host Name | fomenko.ea |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:59:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309529258371 |
-| Players | 1/15 |
-| Host Name | «ØvêℜÐøšê» |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:59:17 |
+| Lobby ID | 28595309528726406 |
+| Players | 10/15 |
+| Host Name | pohui |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 12:58:28 |
 
 
 |  | epic_boss_fight_nightmare |
