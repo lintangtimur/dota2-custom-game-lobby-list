@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309556321010 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | GoDTama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:40:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309555553925 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | DaironMesa1381 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 13:39:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309556677656 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | NIÑO SIN PINGA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:40:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309556717780 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Сквиртуоз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 13:40:56 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309557631670 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | iamIBradd™ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:42:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309557749240 |
+| Players | 1/8 |
+| Host Name | carlitos |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 13:42:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ぷM  　E　  T　  Aツツツ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:39:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309556532906 |
-| Players | 2/5 |
-| Host Name | ✪D1N |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 13:40:39 |
 
 
 |  | epic_boss_fight_nightmare |
