@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309487113443 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Слабый и убогий |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:48:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309459866087 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Sylvanas Windrunner |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309487253003 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 11:48:54 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:51:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309486443195 |
-| Players | 9/10 |
-| Host Name | El Tiburón De Villa |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 11:47:29 |
+| Lobby ID | 28595309489069304 |
+| Players | 3/8 |
+| Host Name | swap commends |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 11:52:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -130,11 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309489069304 |
-| Players | 1/8 |
-| Host Name | swap commends |
+| Lobby ID | 28595309487839838 |
+| Players | 7/8 |
+| Host Name | W бозон 弱相互作用 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 11:52:07 |
+| Lobby Creation Time | Sunday, January 7, 2024 11:49:56 |
 
 
 |  | epic_boss_fight_nightmare |
