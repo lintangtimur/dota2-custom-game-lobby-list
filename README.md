@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309605611239 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 14:49:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309606042312 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Yami |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 14:50:31 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:50:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309606523543 |
-| Players | 1/15 |
-| Host Name | @PoloClub ジ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 14:51:10 |
+| Lobby ID | 28595309606612056 |
+| Players | 6/24 |
+| Host Name | ты глупый |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, January 7, 2024 14:51:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:51:06 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309606612056 |
-| Players | 7/24 |
-| Host Name | ты глупый |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 14:51:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309605857212 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Zeus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 14:50:16 |
