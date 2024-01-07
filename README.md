@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310162964642 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | kor, но не евген кор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 23:52:50 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:49:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310161158886 |
-| Players | 6/8 |
-| Host Name | M i a m i |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 23:51:08 |
+| Lobby ID | 28595310163617283 |
+| Players | 3/10 |
+| Host Name | ETILOVIYBOGビール |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, January 7, 2024 23:53:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310161400229 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Califormula |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:51:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310160567533 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 23:50:35 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | terra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 23:46:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310163645337 |
+| Players | 2/24 |
+| Host Name | её мама говорила |
+| Region | INDIA |
+| Lobby Creation Time | Sunday, January 7, 2024 23:53:28 |
 
 
 |  | epic_boss_fight_hard |
