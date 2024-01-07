@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309399452769 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | dead outside |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:07:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309392939830 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 08:55:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309394306647 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:58:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309398901179 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | [J]ess_(ﾉ ◕ ヮ ◕) ﾉ *: |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, January 7, 2024 09:06:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309398957410 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | ELPIBEATOMICO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:07:01 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:07:26 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309397759321 |
+| Players | 12/15 |
+| Host Name | AEA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:04:47 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595309398144488 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309398721656 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Tu Rata Favorita |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:06:33 |
@@ -113,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309398738354 |
-| Players | 2/10 |
-| Host Name | The lightning SiBeRiA* |
+| Players | 1/10 |
+| Host Name | Tilio |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:06:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595309399482480 |
+| Players | 2/5 |
+| Host Name | dead inside schizophrenic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 09:08:03 |
 
 
