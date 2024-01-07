@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309342224428 |
-| Players | 2/10 |
-| Host Name | Zaur |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:20:10 |
+| Lobby ID | 28595309342447834 |
+| Players | 14/15 |
+| Host Name | Lil Ozy Wit Da Rizzy |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:20:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:15:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309341023368 |
-| Players | 11/15 |
-| Host Name | ParadiseJuyoan<3 |
+| Lobby ID | 28595309342530934 |
+| Players | 2/10 |
+| Host Name | ◄◄Bahamunt☼◄◄ |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:18:00 |
+| Lobby Creation Time | Sunday, January 7, 2024 07:20:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309340583159 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | KTXY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 07:17:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309341463282 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Ace |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:18:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309341206330 |
-| Players | 6/24 |
+| Players | 18/24 |
 | Host Name | Korantenig |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 07:18:19 |
@@ -59,46 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309340307435 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Tranquility |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:16:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309341105025 |
-| Players | 5/8 |
-| Host Name | Rousseau |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:18:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309342324943 |
-| Players | 5/8 |
-| Host Name | трубодур |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:20:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309341294014 |
-| Players | 5/8 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 07:18:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309342263290 |
-| Players | 1/8 |
-| Host Name | душитель кисок |
+| Lobby ID | 28595309342546873 |
+| Players | 6/10 |
+| Host Name | Mistery |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:20:14 |
+| Lobby Creation Time | Sunday, January 7, 2024 07:20:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595309342524039 |
+| Players | 2/10 |
+| Host Name | Bungus |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 07:20:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 07:20:05 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595309342580460 |
+| Players | 1/7 |
+| Host Name | 12sec |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:20:48 |
 
 
