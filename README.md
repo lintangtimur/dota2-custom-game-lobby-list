@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309803703410 |
+| Lobby ID | 28595309804434799 |
 | Players | 6/8 |
-| Host Name | Grim sleeper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:48:25 |
+| Host Name | Капрал Клиторчук |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:49:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Onnysha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 18:48:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309803925740 |
-| Players | 4/8 |
-| Host Name | Panda |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 18:48:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309798003496 |
-| Players | 23/24 |
-| Host Name | style |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:42:46 |
 
 
 |  | ot3_gardens_duo |
@@ -85,19 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
+| Lobby ID | 28595309801554518 |
+| Players | 3/5 |
+| Host Name | TOPSONG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 18:46:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
 | Lobby ID | 28595309803943884 |
 | Players | 3/5 |
 | Host Name | qulvil |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 18:48:39 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595309801554518 |
-| Players | 1/5 |
-| Host Name | TOPSONG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 18:46:18 |
 
 
