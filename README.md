@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309615256673 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | PAZUZU |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 15:02:52 |
@@ -31,53 +31,62 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309616541685 |
-| Players | 9/10 |
-| Host Name | Кривые Руки 228 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 15:04:33 |
+| Lobby ID | 28595309617862005 |
+| Players | 2/10 |
+| Host Name | not quite my tempo |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 15:06:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309617343664 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | khaaf179 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 15:05:35 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309617824037 |
-| Players | 1/15 |
-| Host Name | F |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:06:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309616850920 |
-| Players | 9/24 |
-| Host Name | PartofmyW |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 15:04:57 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309617557294 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | impossible- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 15:05:51 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595309616850920 |
+| Players | 12/24 |
+| Host Name | PartofmyW |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:04:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309616635321 |
+| Players | 14/15 |
+| Host Name | ВэЗеВэ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:04:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309617936329 |
+| Players | 1/8 |
+| Host Name | .. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 15:06:21 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28595309611662011 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | Nah, I'd win |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 14:58:03 |
