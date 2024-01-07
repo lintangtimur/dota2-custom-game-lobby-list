@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309337567391 |
-| Players | 23/24 |
-| Host Name | XD |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 07:12:06 |
+| Lobby ID | 28595309339792540 |
+| Players | 1/8 |
+| Host Name | просвет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 07:15:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:15:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309339214467 |
-| Players | 12/15 |
-| Host Name | jamesb0nd007 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:14:53 |
+| Lobby ID | 28595309339708691 |
+| Players | 5/8 |
+| Host Name | ME LEDER |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 07:15:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 07:16:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309338233360 |
-| Players | 4/8 |
-| Host Name | ビーバーのお尻 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:13:15 |
+| Lobby ID | 28595309339678577 |
+| Players | 4/10 |
+| Host Name | Жироменталь |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 07:15:41 |
 
 
 |  | ot3_desert_octet |
@@ -81,51 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | doom13524 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 07:15:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309339792540 |
-| Players | 1/8 |
-| Host Name | просвет |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:15:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309339643928 |
-| Players | 7/10 |
-| Host Name | Pablo de los BackYordiganz 2.0 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:15:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309339678577 |
-| Players | 4/10 |
-| Host Name | Жироменталь |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 07:15:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309339708691 |
-| Players | 4/8 |
-| Host Name | ME LEDER |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 07:15:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309339925376 |
-| Players | 3/8 |
-| Host Name | Шабит_Хапаев[95] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 07:16:06 |
 
 
 |  | epic_boss_fight_normal |
