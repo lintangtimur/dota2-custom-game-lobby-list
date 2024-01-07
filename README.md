@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309532648638 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ᴶᴼᴱ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:04:30 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309536734870 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 76561199234681527 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:10:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309536645188 |
-| Players | 10/15 |
-| Host Name | VolTaGe |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 13:10:43 |
+| Lobby ID | 28595309537477103 |
+| Players | 1/8 |
+| Host Name | guren lagan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:12:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309537134358 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Eminence in shadow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 13:11:29 |
@@ -110,37 +110,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 13:11:33 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309537500276 |
+| Players | 2/8 |
+| Host Name | DD Mydoira |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 13:12:03 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309537384694 |
+| Lobby ID | 28595309537480877 |
 | Players | 1/24 |
-| Host Name | NARBERAL GAMA |
+| Host Name | Ice1021 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 13:11:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309537384732 |
-| Players | 6/10 |
-| Host Name | Ricardo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 13:11:52 |
+| Lobby Creation Time | Sunday, January 7, 2024 13:12:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309537467280 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 13:12:00 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595309537551683 |
+| Players | 1/8 |
+| Host Name | y.y |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 13:12:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309529485528 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | I AM THE STORM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:59:38 |
