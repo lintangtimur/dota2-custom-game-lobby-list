@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309511704458 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | andreyvinogradoff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:30:41 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 11:00:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309510190657 |
-| Players | 13/15 |
-| Host Name | Slunthy |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, January 7, 2024 12:28:09 |
+| Lobby ID | 28595309512646656 |
+| Players | 5/8 |
+| Host Name | !! |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 12:32:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309512012849 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | 👑 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:31:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309512565234 |
-| Players | 1/10 |
-| Host Name | Mandraf |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:32:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kymhnju |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:22:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595309508783232 |
-| Players | 9/10 |
-| Host Name | Duck My Sick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 12:25:48 |
 
 
