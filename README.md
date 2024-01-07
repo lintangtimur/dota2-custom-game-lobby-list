@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309510203011 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | [C]all_Me_[P].o.r |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309498451271 |
-| Players | 6/8 |
+| Players | 3/8 |
 | Host Name | AVENA 3 URSITAS |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:08:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309510295270 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | [Ni'Fi]KingKong |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309510242941 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | блондинка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:15 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Crusty Crap |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 12:28:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309510504681 |
+| Players | 3/15 |
+| Host Name | Krueger |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, January 7, 2024 12:28:41 |
 
 
 |  | epic_boss_fight_nightmare |
