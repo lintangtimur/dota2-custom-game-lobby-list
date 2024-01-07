@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309824440568 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Матье Бал |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:07:58 |
@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:06:52 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309820827158 |
-| Players | 23/24 |
-| Host Name | affetmez07 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:04:37 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309823781352 |
@@ -56,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 19:07:22 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309821910131 |
-| Players | 9/10 |
-| Host Name | CP |
-| Region | INDIA |
-| Lobby Creation Time | Sunday, January 7, 2024 19:05:38 |
+| Lobby ID | 28595309824548409 |
+| Players | 2/8 |
+| Host Name | Somnus~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:08:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309824590702 |
+| Players | 5/15 |
+| Host Name | carry no.1 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, January 7, 2024 19:08:06 |
 
 
 |  | epic_boss_fight_normal |
