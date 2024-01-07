@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309678872307 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 中年手残 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 16:23:54 |
@@ -29,39 +29,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 16:21:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309679295553 |
-| Players | 11/15 |
-| Host Name | WhiteDeath |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:24:26 |
+| Lobby ID | 28595309679839054 |
+| Players | 1/24 |
+| Host Name | Badgast2k17 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 16:25:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309679291826 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Sargent_pepper4 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 16:24:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595309679631918 |
-| Players | 5/8 |
-| Host Name | Double exe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 16:24:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309679839054 |
-| Players | 2/24 |
-| Host Name | Badgast2k17 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 16:25:07 |
+| Lobby ID | 28595309680133635 |
+| Players | 1/5 |
+| Host Name | Mello |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, January 7, 2024 16:25:29 |
 
 
