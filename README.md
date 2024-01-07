@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309858731858 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | sleepy space cat |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 19:38:13 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309859155370 |
-| Players | 3/15 |
-| Host Name | Player №11 |
+| Players | 11/15 |
+| Host Name | Hero |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 19:38:35 |
 
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309859086327 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | я ПАНК |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:38:31 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595309855313234 |
+| Players | 12/15 |
+| Host Name | Tired |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, January 7, 2024 19:35:16 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309859032467 |
-| Players | 5/8 |
-| Host Name | Конь ченный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 19:38:28 |
+| Lobby ID | 28595309859363908 |
+| Players | 4/8 |
+| Host Name | Pachacutec |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 19:38:45 |
 
 
 |  | epic_boss_fight_challenger |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595309856971436 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | lmfaowhocares™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 19:36:42 |
