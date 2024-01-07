@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309581672753 |
-| Players | 9/10 |
-| Host Name | iamIBradd™ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 14:17:09 |
+| Lobby ID | 28595309582822861 |
+| Players | 6/15 |
+| Host Name | TheLupaHunter |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, January 7, 2024 14:18:49 |
 
 
 |  | ot3_desert_octet |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:18:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595309583025805 |
-| Players | 7/10 |
-| Host Name | PashaNB |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:19:06 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309582778001 |
@@ -83,31 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 14:18:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595309582828074 |
-| Players | 14/15 |
-| Host Name | Necromansy |
+| Lobby ID | 28595309583755752 |
+| Players | 1/10 |
+| Host Name | Pneuma |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 14:18:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309582822861 |
-| Players | 1/15 |
-| Host Name | TheLupaHunter |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:18:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309583631071 |
-| Players | 1/15 |
-| Host Name | paparts |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 14:19:58 |
+| Lobby Creation Time | Sunday, January 7, 2024 14:20:09 |
 
 
 |  | epic_boss_fight_challenger |
