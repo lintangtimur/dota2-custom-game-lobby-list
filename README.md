@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595309402224010 |
-| Players | 8/10 |
-| Host Name | BedmaN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, January 7, 2024 09:13:25 |
+| Lobby ID | 28595309402712972 |
+| Players | 1/15 |
+| Host Name | sean serios |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, January 7, 2024 09:14:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309401505714 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Jasmine |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:12:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309402056904 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ESTE ARCONTE NO CARREA NADA ZZZ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:13:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309402494183 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Alibabek |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:13:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309394306647 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 08:58:22 |
@@ -54,42 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ALPACA MENOR |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:13:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309402521929 |
-| Players | 1/8 |
-| Host Name | Miguelyuyi |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:13:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595309398661968 |
-| Players | 21/24 |
-| Host Name | ROTHMAN |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 09:06:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595309402610852 |
-| Players | 1/15 |
-| Host Name | Dodge |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:14:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309402617562 |
-| Players | 3/8 |
-| Host Name | eTaLoN |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, January 7, 2024 09:14:08 |
 
 
 |  | epic_boss_fight_nightmare |
