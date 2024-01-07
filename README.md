@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310174058157 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Camotito |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:03:20 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 23:59:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310174139741 |
-| Players | 12/15 |
-| Host Name | Syronin |
+| Lobby ID | 28595310174308745 |
+| Players | 2/8 |
+| Host Name | Lose Yourself |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:03:25 |
+| Lobby Creation Time | Monday, January 8, 2024 00:03:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310171636681 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 00:01:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310171789193 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | no cap |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 00:01:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310173015713 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 743676342679754268098786545 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 00:02:22 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310173673810 |
-| Players | 3/8 |
-| Host Name | 4OVC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:02:58 |
+| Lobby ID | 28595310174354310 |
+| Players | 6/8 |
+| Host Name | Tima |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, January 8, 2024 00:03:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310174250846 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | TOTSUGEKI |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 00:03:31 |
@@ -128,31 +128,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 00:00:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310174308745 |
-| Players | 1/8 |
-| Host Name | Lose Yourself |
+| Lobby ID | 28595310174513020 |
+| Players | 3/15 |
+| Host Name | quffrevan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:03:34 |
+| Lobby Creation Time | Monday, January 8, 2024 00:03:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310174354310 |
-| Players | 3/8 |
-| Host Name | Tima |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 00:03:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310174383896 |
-| Players | 1/8 |
-| Host Name | mogy |
+| Lobby ID | 28595310174547630 |
+| Players | 4/8 |
+| Host Name | 4OVC |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 00:03:39 |
+| Lobby Creation Time | Monday, January 8, 2024 00:03:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310174537351 |
+| Players | 1/15 |
+| Host Name | babulenok^_^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 00:03:47 |
 
 
 |  | epic_boss_fight_hard |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310169152767 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | -Anime_Yuuki- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, January 7, 2024 23:58:40 |
