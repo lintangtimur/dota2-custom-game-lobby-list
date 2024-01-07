@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, January 7, 2024 09:20:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595309419137553 |
-| Players | 2/24 |
-| Host Name | gfreek |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, January 7, 2024 09:45:15 |
+| Lobby ID | 28595309420117739 |
+| Players | 3/8 |
+| Host Name | CRAZY CREEDO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, January 7, 2024 09:47:02 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595309418199250 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Viper |
 | Region | PERU |
 | Lobby Creation Time | Sunday, January 7, 2024 09:43:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309419174917 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 09:45:19 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | трахаю лес |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 09:45:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595309420117739 |
-| Players | 2/8 |
-| Host Name | CRAZY CREEDO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 09:47:02 |
 
 
 |  | epic_boss_fight_nightmare |
