@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310277608798 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Yosip |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 01:43:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310277281818 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Генерал Айро |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 01:43:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310274773025 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 01:41:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310269835920 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Chisato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 01:36:11 |
@@ -83,40 +83,67 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 01:43:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310272941986 |
-| Players | 23/24 |
-| Host Name | Re ★★★★★ Alaizer 🐉 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 01:39:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310277514588 |
-| Players | 1/15 |
-| Host Name | NANCY RISOL |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 01:43:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310275442991 |
-| Players | 1/24 |
-| Host Name | Jabberwock |
+| Lobby ID | 28595310277723191 |
+| Players | 2/8 |
+| Host Name | РОТ ПОЛОН СОЛИ |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 01:41:47 |
+| Lobby Creation Time | Monday, January 8, 2024 01:44:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310277813223 |
+| Players | 9/10 |
+| Host Name | Ашначёк |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 01:44:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310277777286 |
+| Players | 2/10 |
+| Host Name | Девочка :> |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, January 8, 2024 01:44:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310276558019 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | Hawko |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 01:42:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310277788550 |
+| Players | 9/15 |
+| Host Name | Рэй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:44:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310277819355 |
+| Players | 3/15 |
+| Host Name | kartoFlane |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 01:44:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310277882874 |
+| Players | 4/8 |
+| Host Name | ThatCat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 01:44:15 |
 
 
 |  | epic_boss_fight_normal |
