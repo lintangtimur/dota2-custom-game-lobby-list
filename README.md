@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595309427198234 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | БлАтНоЙ ПеТуХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595309427476456 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Stiller |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:39 |
@@ -86,18 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595309427436399 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, January 7, 2024 10:00:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595309427463738 |
-| Players | 4/8 |
-| Host Name | ZMpyoct |
+| Lobby ID | 28595309427497639 |
+| Players | 3/24 |
+| Host Name | Movistar Perú Oficial |
 | Region | PERU |
-| Lobby Creation Time | Sunday, January 7, 2024 10:00:38 |
+| Lobby Creation Time | Sunday, January 7, 2024 10:00:42 |
 
 
