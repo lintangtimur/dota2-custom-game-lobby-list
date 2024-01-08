@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310846130553 |
-| Players | 5/15 |
-| Host Name | Jan Michael Vincent |
+| Players | 2/15 |
+| Host Name | CK |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 17:05:03 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310849399370 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Reiner |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:09:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310849901034 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Лёша крепкое 6.3 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:10:39 |
