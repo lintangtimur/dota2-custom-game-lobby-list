@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310886661272 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | marko botoy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:01:46 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310888931964 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Nganga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:04:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310888826201 |
-| Players | 1/8 |
-| Host Name | фанат мышки |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:04:36 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310889015977 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | _Mazafaka_ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:04:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310889209146 |
+| Players | 1/8 |
+| Host Name | фанат мышки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:05:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | C.C. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:03:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310884866856 |
+| Players | 4/5 |
+| Host Name | n1cE| |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:59:24 |
 
 
