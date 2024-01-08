@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:45:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311557780876 |
-| Players | 11/15 |
-| Host Name | XEP_B_TPABE |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:54:54 |
+| Lobby ID | 28595311556317884 |
+| Players | 5/8 |
+| Host Name | wtt2k |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:52:19 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311557476530 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | M.R-YoEL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:54:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311557638615 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | J!N |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:54:38 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311557973635 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Prionzombie |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:55:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311556317884 |
-| Players | 4/8 |
-| Host Name | wtt2k |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:52:19 |
+| Lobby ID | 28595311558202740 |
+| Players | 1/15 |
+| Host Name | best |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:55:40 |
 
 
 |  | epic_boss_fight_nightmare |
