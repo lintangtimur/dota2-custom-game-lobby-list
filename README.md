@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311367562154 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:42:04 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311370093124 |
-| Players | 13/15 |
-| Host Name | Shroomba |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:44:52 |
+| Lobby ID | 28595311370824962 |
+| Players | 4/8 |
+| Host Name | casino knight絕對不i變 Trade |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:45:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311370010535 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | roblox queen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:44:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311369268503 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | tilt/depressed/antisocial/toxic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:43:57 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311368562239 |
-| Players | 2/15 |
-| Host Name | DAY |
+| Players | 5/15 |
+| Host Name | | KODIGO | |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:43:09 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311370873151 |
+| Players | 10/15 |
+| Host Name | PensiL Gabena |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:45:45 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311370446761 |
-| Players | 5/10 |
-| Host Name | ForcedToWin |
+| Lobby ID | 28595311370930430 |
+| Players | 2/10 |
+| Host Name | sorry mate |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:45:16 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:45:49 |
 
 
 |  | epic_boss_fight_nightmare |
