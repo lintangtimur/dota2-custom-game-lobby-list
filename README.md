@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310805589699 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Lê Duẩn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:00:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310806436354 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Дима (СОСАЛ) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:02:23 |
