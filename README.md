@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310922452612 |
-| Players | 1/15 |
-| Host Name | Meruem |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:45:02 |
+| Lobby ID | 28595310921337752 |
+| Players | 7/8 |
+| Host Name | BOTA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:43:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310921082166 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Ben Simmons |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 18:43:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310922497486 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Виктор Петрович |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:45:05 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:43:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310922573714 |
+| Players | 9/10 |
+| Host Name | серега |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:45:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310921196966 |
+| Players | 13/15 |
+| Host Name | Chuvachok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:43:35 |
 
 
 |  | epic_boss_fight_nightmare |
