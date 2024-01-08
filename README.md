@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311541561767 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Sid |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:26:58 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311540997975 |
-| Players | 5/24 |
-| Host Name | Liquer |
+| Players | 3/24 |
+| Host Name | Dayman, Fighter of the Nightman |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:26:02 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311541584473 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Leyo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:27:00 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311541572709 |
-| Players | 12/15 |
-| Host Name | love is a murderer |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:26:59 |
+| Lobby ID | 28595311542122237 |
+| Players | 2/8 |
+| Host Name | 🥚Little Egg :3 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:27:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311541224057 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Henry Chinaski |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:26:24 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311542100605 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | #SS# |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:27:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311542122237 |
-| Players | 2/8 |
-| Host Name | 🥚Little Egg :3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:27:54 |
+| Lobby ID | 28595311542215565 |
+| Players | 2/15 |
+| Host Name | [P]ower [A]ce |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:28:04 |
 
 
 |  | epic_boss_fight_normal |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Haron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:26:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311539975404 |
+| Players | 8/10 |
+| Host Name | ORSHABAAL |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:24:21 |
 
 
