@@ -13,20 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311127586146 |
-| Players | 14/15 |
-| Host Name | Q A I S™ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:50:53 |
+| Lobby ID | 28595311129142136 |
+| Players | 1/15 |
+| Host Name | Polyhedron |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:52:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311126691389 |
-| Players | 1/24 |
-| Host Name | numb lil' bug |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 21:50:07 |
+| Lobby ID | 28595311128644490 |
+| Players | 6/8 |
+| Host Name | doom spotify |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:51:48 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311128927799 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | кратет |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:52:03 |
@@ -59,54 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311118080223 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:42:40 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311128007398 |
-| Players | 17/24 |
-| Host Name | Vanishment this world!!!!!!! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 21:51:15 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311127703264 |
-| Players | 4/8 |
-| Host Name | ᴇ ᴠ ᴇ ʀ |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 21:50:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311128644490 |
-| Players | 5/8 |
-| Host Name | doom spotify |
+| Lobby ID | 28595311129130973 |
+| Players | 1/8 |
+| Host Name | МС по доте |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:51:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311128675158 |
-| Players | 11/15 |
-| Host Name | tøxin |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:51:49 |
+| Lobby Creation Time | Monday, January 8, 2024 21:52:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311127295053 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:50:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311129279425 |
+| Players | 1/5 |
+| Host Name | _ЗаЙка_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:52:21 |
 
 
