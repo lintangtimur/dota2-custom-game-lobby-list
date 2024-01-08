@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311534067454 |
-| Players | 23/24 |
-| Host Name | Nah, I'd win |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:14:39 |
+| Lobby ID | 28595311536617760 |
+| Players | 1/8 |
+| Host Name | -_- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:18:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311536254977 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:18:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311535395382 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Mr.Bass |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:16:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311535399732 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Illusionist- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:16:54 |
@@ -122,25 +122,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311536603285 |
-| Players | 5/8 |
+| Players | 1/8 |
 | Host Name | Eidolonic_Umbra |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:18:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311536617760 |
-| Players | 1/8 |
-| Host Name | -_- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:18:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311534145482 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Bachira Meguru |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:14:47 |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311536001909 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Error 404 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:17:54 |
@@ -158,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311536039000 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ihhh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:17:58 |
