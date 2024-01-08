@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310884749731 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Арсеникум |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:59:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310881010544 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Baba Yega |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 17:54:17 |
