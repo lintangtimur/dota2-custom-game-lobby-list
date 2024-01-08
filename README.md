@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310782862431 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Janna Nick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:21:20 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310787014630 |
-| Players | 5/24 |
-| Host Name | The King of Soldier |
+| Players | 4/24 |
+| Host Name | Утка |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:28:42 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310787963199 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | kotegop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:30:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310788076759 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Cpt Karl |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:30:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310786527838 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 15:27:50 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TheBlindShibaInuSaekssiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:30:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310788004092 |
-| Players | 6/8 |
-| Host Name | Axe Тайсон |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 15:30:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Toji Fushiguro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:24:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310785850932 |
-| Players | 9/10 |
-| Host Name | epileptick1d |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:26:39 |
 
 
