@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310728386906 |
-| Players | 2/24 |
-| Host Name | Stepdad with boundary issues |
+| Players | 1/24 |
+| Host Name | -qwerty |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 13:37:07 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310781771673 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | .neff |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:19:23 |
@@ -67,11 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310781887120 |
+| Lobby ID | 28595310781966082 |
 | Players | 1/8 |
-| Host Name | شريك |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 15:19:35 |
+| Host Name | 3.14...... |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:19:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310781980427 |
+| Players | 1/8 |
+| Host Name | Chieftain |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:19:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310781998726 |
+| Players | 1/10 |
+| Host Name | SandX |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:19:47 |
 
 
 |  | epic_boss_fight_nightmare |
