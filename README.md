@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310990741467 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:53:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310990969595 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Fotu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:53:23 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310990659163 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:53:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310991625304 |
+| Players | 1/8 |
+| Host Name | ｄｒａｊｅｒ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:53:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310991695475 |
+| Players | 2/10 |
+| Host Name | катюшка |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:54:04 |
 
 
 |  | epic_boss_fight_nightmare |
