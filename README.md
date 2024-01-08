@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311559257254 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Bosta Grande |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311561043965 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:00:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 10/24 |
+| Players | 6/24 |
 | Host Name | iDiOTA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311560229992 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ----R2D2---- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:59:24 |
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:00:27 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311561756751 |
+| Players | 1/24 |
+| Host Name | petra |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:02:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311559884180 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Bachira Meguru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:58:45 |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FROST.Azzillerie |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:01:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311561818868 |
+| Players | 1/5 |
+| Host Name | . |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:02:17 |
 
 
