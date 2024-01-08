@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311170233349 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | обиженные яйца |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:26:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311167746015 |
-| Players | 4/8 |
-| Host Name | game_tv_twitcher |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:24:15 |
+| Lobby ID | 28595311170519312 |
+| Players | 5/24 |
+| Host Name | RADIANCE |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:26:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -146,15 +146,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:26:06 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311170184738 |
-| Players | 8/15 |
-| Host Name | Fligo |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:26:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311160537026 |
@@ -164,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:19:11 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311166756430 |
-| Players | 2/5 |
-| Host Name | Hunt Hoe-Down |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 22:23:34 |
+| Lobby ID | 28595311168043991 |
+| Players | 3/10 |
+| Host Name | epileptick1d |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:24:27 |
 
 
 |  | epic_boss_fight_hard |
@@ -180,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | smthbttr |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:24:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311168043991 |
-| Players | 3/10 |
-| Host Name | epileptick1d |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:24:27 |
 
 
