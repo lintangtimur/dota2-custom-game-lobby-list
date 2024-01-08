@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | jimmylzm |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311559193319 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:28 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:04:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311562848300 |
-| Players | 7/8 |
-| Host Name | 4eJloBek K.O.M.B.E.K |
+| Lobby ID | 28595311563398518 |
+| Players | 10/15 |
+| Host Name | Cypher |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:04:05 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:05:05 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311563449596 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Σ오로러시ψ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:05:10 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311563408708 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | GOD MODE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:05:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311563398518 |
-| Players | 6/15 |
-| Host Name | Cypher |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:05:05 |
+| Lobby ID | 28595311563632475 |
+| Players | 1/8 |
+| Host Name | PERICOTE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:05:30 |
 
 
 |  | epic_boss_fight_normal |
