@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311520529205 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Insomniac |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:53:34 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311520071824 |
-| Players | 9/10 |
-| Host Name | pururin |
+| Lobby ID | 28595311520811988 |
+| Players | 6/10 |
+| Host Name | 哈拉德林人 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:52:53 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:54:00 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311520281817 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | ALT |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:53:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311519901153 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | soulless月読命 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:52:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311520628296 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:53:43 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311520288895 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | amirka7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:53:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311520794125 |
+| Players | 1/10 |
+| Host Name | Drunk moose |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:53:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311520891114 |
+| Players | 1/8 |
+| Host Name | be here now |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:54:07 |
 
 
 |  | epic_boss_fight_nightmare |
