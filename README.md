@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311570967295 |
-| Players | 13/15 |
-| Host Name | TE MATO Y ME VOY |
+| Players | 10/15 |
+| Host Name | roo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:19:02 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311569149781 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | SirCafiche |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:15:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311571716960 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Саша-АмНям |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:20:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311568431280 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Amaterasu火 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:14:16 |
@@ -95,9 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311570878526 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Kad |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:18:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311571846688 |
+| Players | 2/15 |
+| Host Name | f1fty |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:20:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311571899065 |
+| Players | 1/10 |
+| Host Name | vvw |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:20:45 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311571933060 |
+| Players | 1/5 |
+| Host Name | cосу члены 100р |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:20:49 |
 
 
