@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310785655968 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Душевнобольной |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:26:18 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28595310781886792 |
 | Players | 16/24 |
-| Host Name | o0o.Peco-Peco.o0o |
+| Host Name | Crusty Crap |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:19:35 |
 
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310785989566 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | О боже!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:26:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310782862431 |
-| Players | 22/24 |
-| Host Name | Janna Nick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:21:20 |
+| Lobby ID | 28595310786527838 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 15:27:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310786578788 |
+| Players | 1/8 |
+| Host Name | 1945 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:27:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310785850932 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | epileptick1d |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:26:39 |
