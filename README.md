@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311568655979 |
-| Players | 14/15 |
-| Host Name | El Terror De Los Llorones |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:14:42 |
+| Lobby ID | 28595311569859616 |
+| Players | 4/24 |
+| Host Name | Black Raven |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:17:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311559193319 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | zx. |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:57:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311564981916 |
-| Players | 17/24 |
+| Players | 15/24 |
 | Host Name | Dr. Livesey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:07:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311569299435 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Niño Payday |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:15:57 |
@@ -92,13 +92,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:16:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311569859616 |
-| Players | 2/24 |
-| Host Name | Black Raven |
+| Lobby ID | 28595311570459130 |
+| Players | 3/15 |
+| Host Name | Yaga |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:17:00 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:18:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311570468330 |
+| Players | 1/8 |
+| Host Name | Pandemonium |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:18:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311568655979 |
+| Players | 9/15 |
+| Host Name | El Terror De Los Llorones |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:14:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311570495914 |
+| Players | 1/8 |
+| Host Name | qq_dude |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:18:10 |
 
 
 |  | epic_boss_fight_nightmare |
