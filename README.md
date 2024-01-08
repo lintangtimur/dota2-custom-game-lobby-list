@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310932869634 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | tu cieja no jodas |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310996265635 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Maotisco |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 19:58:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310998372659 |
-| Players | 1/8 |
-| Host Name | G1uc0se |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Monday, January 8, 2024 20:00:11 |
+| Lobby ID | 28595310998556085 |
+| Players | 3/15 |
+| Host Name | ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:00:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310997637497 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Rin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:59:32 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310998434522 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 狂热激战A-Rev.3 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Monday, January 8, 2024 20:00:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310997945130 |
-| Players | 9/10 |
-| Host Name | ShelbyWalk |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:59:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310996300672 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ĂʟӍάƷ♛► |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:58:19 |
