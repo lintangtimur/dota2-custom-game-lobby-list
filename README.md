@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311270617761 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Karlucha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:01:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311262464495 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | KLL |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 23:53:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311258887463 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Xynister |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 23:50:09 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311265640604 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Mathiasla |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 23:56:54 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311270215038 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:01:25 |
@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311270981557 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | shz_SERN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:02:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311271132010 |
+| Players | 7/15 |
+| Host Name | yuchisan |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:02:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311271095201 |
+| Players | 1/10 |
+| Host Name | Stronger |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:02:17 |
 
 
 |  | epic_boss_fight_nightmare |
