@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310903716869 |
-| Players | 5/8 |
-| Host Name | ЭТО ВТОРОЙ |
+| Lobby ID | 28595310905672446 |
+| Players | 2/15 |
+| Host Name | Wu1t |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:23:07 |
+| Lobby Creation Time | Monday, January 8, 2024 18:25:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310904837291 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | pisces |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:24:26 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DoomDED |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:24:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310902850921 |
-| Players | 9/10 |
-| Host Name | Twister_Style |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:22:05 |
 
 
 |  | epic_boss_fight_normal |
