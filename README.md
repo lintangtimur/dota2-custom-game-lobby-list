@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311506404233 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | РУБИЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:32:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311502837796 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | shuba |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:27:26 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311506095376 |
-| Players | 13/15 |
-| Host Name | Joel |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:32:07 |
+| Lobby ID | 28595311506794706 |
+| Players | 4/15 |
+| Host Name | Spooky |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:33:09 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311505163190 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Illusionist- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:30:45 |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:30:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311506087230 |
-| Players | 9/10 |
-| Host Name | H |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:32:06 |
+| Lobby ID | 28595311506797863 |
+| Players | 1/15 |
+| Host Name | Zonnn1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:33:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311506704439 |
-| Players | 3/10 |
-| Host Name | Road to titan |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:33:01 |
+| Lobby ID | 28595311506895669 |
+| Players | 1/8 |
+| Host Name | Quentry |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:33:17 |
 
 
 |  | epic_boss_fight_nightmare |
