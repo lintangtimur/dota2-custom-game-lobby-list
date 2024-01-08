@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311200277300 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Rin |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:53:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311200139667 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Ezzzzz |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 22:53:21 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311196981679 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Schum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:50:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311199994394 |
-| Players | 2/8 |
-| Host Name | |きえもり| |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:53:13 |
+| Lobby ID | 28595311201442749 |
+| Players | 2/10 |
+| Host Name | Sora |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 22:54:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311191690501 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | SSSFFFKKK |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 22:45:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Indio Boca Mole |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311200087170 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Darkness.38 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:53:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311200862049 |
-| Players | 11/15 |
-| Host Name | Sova |
+| Lobby ID | 28595311201742016 |
+| Players | 2/10 |
+| Host Name | Максим |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:54:03 |
+| Lobby Creation Time | Monday, January 8, 2024 22:54:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311201273974 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Tom Ganks |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 22:54:26 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311199884552 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | -cylinder |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:53:07 |
@@ -121,20 +121,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311201154060 |
-| Players | 4/8 |
-| Host Name | kotoklizm |
+| Lobby ID | 28595311201648843 |
+| Players | 6/8 |
+| Host Name | tryhard to get better |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:54:19 |
+| Lobby Creation Time | Monday, January 8, 2024 22:54:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311201410235 |
-| Players | 1/15 |
-| Host Name | S, |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, January 8, 2024 22:54:34 |
+| Lobby ID | 28595311194975332 |
+| Players | 5/8 |
+| Host Name | The Golden Boy |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 22:48:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311201335079 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ser |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:54:30 |
@@ -157,46 +157,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311201442749 |
-| Players | 2/10 |
-| Host Name | Op |
+| Lobby ID | 28595311201524768 |
+| Players | 9/10 |
+| Host Name | love you baby |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:54:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311199842312 |
+| Players | 9/10 |
+| Host Name | 11111 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:53:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311201814923 |
+| Players | 1/8 |
+| Host Name | Waffle |
 | Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 22:54:36 |
+| Lobby Creation Time | Monday, January 8, 2024 22:54:57 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311200306213 |
-| Players | 3/7 |
-| Host Name | Pos1tivchik) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:53:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311199516674 |
-| Players | 8/10 |
-| Host Name | The-_-Fallen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 22:52:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595311199588729 |
-| Players | 8/10 |
-| Host Name | ЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩЩ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:52:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311201396342 |
-| Players | 1/5 |
-| Host Name | thesid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:54:33 |
+| Lobby ID | 28595311200120552 |
+| Players | 13/15 |
+| Host Name | intothebottle |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:53:20 |
 
 
