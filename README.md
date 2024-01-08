@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311465594913 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Анечка |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:37:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311465323757 |
-| Players | 14/15 |
-| Host Name | coac1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:36:48 |
+| Lobby ID | 28595311463759324 |
+| Players | 8/10 |
+| Host Name | тушитель света |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:34:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311464660986 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Camotito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:35:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311463759324 |
-| Players | 7/10 |
-| Host Name | тушитель света |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:34:49 |
+| Lobby ID | 28595311465887871 |
+| Players | 3/15 |
+| Host Name | scourge of stars |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:37:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311464485718 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 喜欢短发的女生 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:35:45 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311465230060 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | |OG|YAKUZA |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:36:41 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311465553266 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | васярулонвасярул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:37:06 |
