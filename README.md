@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311327730300 |
-| Players | 14/15 |
-| Host Name | TAUREN.IG |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:59:59 |
+| Lobby ID | 28595311330734101 |
+| Players | 5/10 |
+| Host Name | Reb |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:03:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311330673699 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Peruano Universal |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:03:02 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:02:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311330660465 |
-| Players | 2/10 |
-| Host Name | celibate |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:03:01 |
+| Lobby ID | 28595311330541454 |
+| Players | 7/15 |
+| Host Name | El Magnifico |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:02:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311327339777 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Alotte |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:59:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311330551740 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ДЯДЯ ВЕРНОН |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:02:55 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311329595890 |
-| Players | 6/24 |
+| Players | 2/24 |
 | Host Name | humiliation |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:01:54 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311329827494 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | YO PINGA LOCA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:02:09 |
@@ -119,13 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:02:38 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311330815516 |
+| Players | 3/8 |
+| Host Name | жеваный крот |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:03:11 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311330541454 |
-| Players | 2/15 |
-| Host Name | El Magnifico |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:02:54 |
+| Lobby ID | 28595311330842799 |
+| Players | 1/15 |
+| Host Name | S.Santana93 |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:03:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -146,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:53:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311327865261 |
-| Players | 9/10 |
-| Host Name | TEAM CALLER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:00:07 |
+| Lobby ID | 28595311329945148 |
+| Players | 3/5 |
+| Host Name | cshyst zqwf |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:02:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -164,12 +173,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:59:44 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311329945148 |
-| Players | 3/5 |
-| Host Name | cshyst zqwf |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:02:16 |
+| Lobby ID | 28595311330832653 |
+| Players | 1/10 |
+| Host Name | mAbEx^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:03:12 |
 
 
