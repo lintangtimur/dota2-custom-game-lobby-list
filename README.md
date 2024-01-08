@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310901586895 |
-| Players | 5/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310962626072 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Kenshin Himura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:26:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310962748649 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | DG_COACH |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:26:50 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310962832106 |
-| Players | 3/8 |
-| Host Name | ODESKIN |
+| Lobby ID | 28595310962948655 |
+| Players | 2/8 |
+| Host Name | Оливка |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:26:55 |
+| Lobby Creation Time | Monday, January 8, 2024 19:27:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310962922420 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Kid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:27:00 |
@@ -110,13 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:26:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310959981542 |
+| Players | 13/15 |
+| Host Name | MOTERM[S] |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 19:24:10 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310962948655 |
-| Players | 2/8 |
-| Host Name | Оливка |
+| Lobby ID | 28595310963115676 |
+| Players | 6/8 |
+| Host Name | gumi enjoyer |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:27:02 |
+| Lobby Creation Time | Monday, January 8, 2024 19:27:11 |
 
 
 |  | epic_boss_fight_nightmare |
