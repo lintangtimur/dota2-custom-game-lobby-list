@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310792970286 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | janjan |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 15:39:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789261609 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Терминатор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:32:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310795036305 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | backr00ms |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:42:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310793203603 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | crimento |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:39:30 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789752472 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Libra |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310795122264 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Нафотомоядевушка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:42:55 |
@@ -119,12 +119,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:42:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310795586784 |
+| Players | 1/15 |
+| Host Name | 木叶旋风 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 15:43:45 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310793988081 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | 7-Ghost |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:40:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595310795580279 |
+| Players | 1/10 |
+| Host Name | Tess Tickles |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, January 8, 2024 15:43:44 |
 
 
