@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087714383645 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Puto el que lo lea |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:56:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28601087714097162 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | JonaX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:56:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311580393229 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:36:59 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28601087714746430 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | DaurenKai |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:57:25 |
