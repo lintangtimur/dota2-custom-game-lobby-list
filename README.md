@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:43:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311371551227 |
-| Players | 7/10 |
-| Host Name | YGABYGA |
+| Lobby ID | 28595311371939859 |
+| Players | 1/8 |
+| Host Name | Aron |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:46:29 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:46:55 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311371407602 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | WeedFather |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:46:20 |
@@ -65,31 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:38:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311371661227 |
-| Players | 9/15 |
-| Host Name | КЭП |
+| Lobby ID | 28595311371634349 |
+| Players | 6/8 |
+| Host Name | нам остается ждать весны |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:46:37 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:46:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311369268503 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | tilt/depressed/antisocial/toxic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:43:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311368562239 |
-| Players | 10/15 |
-| Host Name | ēri¢k є๔เչ๏ภ  ﾒｲ |
+| Lobby ID | 28595311371931380 |
+| Players | 4/24 |
+| Host Name | M5 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:43:09 |
+| Lobby Creation Time | Tuesday, January 9, 2024 01:46:54 |
 
 
 |  | ot3_desert_octet |
@@ -99,33 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Past Self in Mirror |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:46:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311371634349 |
-| Players | 3/8 |
-| Host Name | нам остается ждать весны |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:46:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311371931380 |
-| Players | 1/24 |
-| Host Name | M5 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:46:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311371939859 |
-| Players | 1/8 |
-| Host Name | Aron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 01:46:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311370380658 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | JIMMY |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:45:12 |
