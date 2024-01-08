@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310918046036 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Fantazia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:39:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310916804506 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | f1ashmix |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:38:29 |
@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:40:06 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310918367771 |
+| Players | 1/8 |
+| Host Name | мама звонит |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:40:17 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310911769199 |
-| Players | 2/5 |
+| Players | 4/5 |
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:32:37 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310918245969 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Sir.Pogi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:40:09 |
