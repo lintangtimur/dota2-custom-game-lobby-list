@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | NapoleonTD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311485217742 |
-| Players | 5/10 |
-| Host Name | Yolo |
+| Players | 3/10 |
+| Host Name | El Gabal |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:02:58 |
 
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311485543633 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | KM |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:03:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311485735226 |
-| Players | 5/8 |
-| Host Name | s1mple |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:03:40 |
+| Lobby ID | 28595311485829393 |
+| Players | 7/15 |
+| Host Name | Kiss? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:03:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311483061564 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | PROPLAYER EN OVERTHROW |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:00:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311485259155 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Bully |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:03:01 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ༺Leͥgeͣnͫd༻ᴳᵒᵈ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:54:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311484968083 |
+| Players | 5/8 |
+| Host Name | GoneP |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:02:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311485938695 |
+| Players | 2/8 |
+| Host Name | Yolo |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:03:57 |
 
 
 |  | epic_boss_fight_nightmare |
