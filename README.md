@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310993396267 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Первая кровь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:55:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310998556085 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:00:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310997637497 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Rin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:59:32 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310998434522 |
-| Players | 7/8 |
-| Host Name | 狂热激战A-Rev.3 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, January 8, 2024 20:00:14 |
+| Lobby ID | 28595310998885269 |
+| Players | 3/8 |
+| Host Name | Педрилас утконос |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:00:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310998918975 |
+| Players | 4/8 |
+| Host Name | Zero Kiryuu |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:00:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310996300672 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | ĂʟӍάƷ♛► |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:58:19 |
