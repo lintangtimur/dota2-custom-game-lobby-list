@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311013110639 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Acumen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:13:19 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311015184486 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | he will win |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:15:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311014554286 |
-| Players | 1/8 |
-| Host Name | Hi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 20:14:35 |
+| Lobby ID | 28595311015359120 |
+| Players | 3/10 |
+| Host Name | Любава |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:15:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311014496009 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | UriFury |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:14:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311015276533 |
+| Players | 3/8 |
+| Host Name | Aizen | GGDROP.LIVE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:15:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311015434584 |
+| Players | 5/8 |
+| Host Name | пережил 3 аборта |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:15:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311009213312 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | V1rsa4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:09:48 |
@@ -122,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311013858086 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | ZXC_purple night  ( icelove ) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:13:58 |
