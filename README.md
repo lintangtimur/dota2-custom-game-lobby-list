@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310969341171 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Людмил Огурченко |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:33:13 |
@@ -101,37 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:29:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310969133509 |
-| Players | 6/8 |
-| Host Name | Дегенерация |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:33:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310969340241 |
-| Players | 1/10 |
-| Host Name | все в прошлом |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:33:13 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310969775358 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | печальный жнец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:33:37 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310970113012 |
+| Players | 4/8 |
+| Host Name | he will win |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:33:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310969463313 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | 男人哭吧哭吧不是罪>.< |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:33:20 |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310969121211 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Urek Mazino |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 19:33:00 |
