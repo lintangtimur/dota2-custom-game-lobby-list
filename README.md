@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311415634559 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | CRIKO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:36:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311415672700 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | yuuichi katagiri |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:36:41 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311407876077 |
-| Players | 2/15 |
-| Host Name | 8laze |
+| Players | 1/15 |
+| Host Name | Wonk |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:27:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311415524244 |
-| Players | 11/15 |
-| Host Name | ButtersBottomBitches |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:36:30 |
+| Lobby ID | 28595311415814782 |
+| Players | 2/10 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:36:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311415132672 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | eggsandwich |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:36:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311414147585 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | hanswurst |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:34:55 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:36:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311415814782 |
-| Players | 1/10 |
-| Host Name | Jet |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:36:51 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311400429394 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311413193591 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Илья Николаевич |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:33:48 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311414114227 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:34:53 |
