@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311431265247 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Первая кровь |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:54:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311431162347 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | MoonDio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:54:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311432197556 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | ТРАНСФОРМАТОР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:56:02 |
@@ -113,18 +113,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311432192449 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Agentsmrt |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:56:01 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311432255561 |
+| Players | 4/15 |
+| Host Name | ПрофессиАНАЛ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:56:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311432327540 |
+| Players | 1/15 |
+| Host Name | That's What I Want [турбо] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:56:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311431178354 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Cesar |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:54:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311432247984 |
+| Players | 1/5 |
+| Host Name | Holy_Dad |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:56:05 |
 
 
