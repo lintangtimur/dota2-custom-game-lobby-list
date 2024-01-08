@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311584490689 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Yamiツ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:45:19 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 06:45:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311584841391 |
-| Players | 1/15 |
-| Host Name | serega_Pirat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:46:02 |
+| Lobby ID | 28595311584946105 |
+| Players | 1/8 |
+| Host Name | El Terrible |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:46:15 |
 
 
 |  | epic_boss_fight_nightmare |
