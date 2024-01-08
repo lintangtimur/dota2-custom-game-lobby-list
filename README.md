@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310906178152 |
-| Players | 14/15 |
-| Host Name | WTF?!о_0 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:26:01 |
+| Lobby ID | 28595310906635236 |
+| Players | 1/8 |
+| Host Name | ЭТО ВТОРОЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:26:34 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310903966241 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Triki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:23:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310905536926 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ВАРАН УЕБАН_228 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:25:16 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310891445988 |
-| Players | 17/24 |
+| Players | 15/24 |
 | Host Name | Cemka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:08:01 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Папа своей мамы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:23:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310904781752 |
+| Players | 14/15 |
+| Host Name | SVETKA |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:24:22 |
 
 
 |  | epic_boss_fight_normal |
