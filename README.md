@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310805909416 |
-| Players | 9/10 |
-| Host Name | Blackout |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:01:31 |
+| Lobby ID | 28595310806700047 |
+| Players | 5/8 |
+| Host Name | КАСАКУ ГРАДУСНИК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:02:49 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310764858083 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | KLL |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 14:48:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310806069198 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Pray for something |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:01:47 |
@@ -50,46 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310805589699 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Lê Duẩn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:00:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310806436354 |
-| Players | 7/8 |
-| Host Name | Дима (СОСАЛ) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:02:23 |
+| Lobby ID | 28595310806811424 |
+| Players | 2/10 |
+| Host Name | Doyki.Xddcc.fullpohuy |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:03:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310806433909 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Easymoden |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:02:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310806630988 |
-| Players | 1/15 |
-| Host Name | A |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, January 8, 2024 16:02:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310806700047 |
-| Players | 5/8 |
-| Host Name | КАСАКУ ГРАДУСНИК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:02:49 |
 
 
 |  | epic_boss_fight_normal |
