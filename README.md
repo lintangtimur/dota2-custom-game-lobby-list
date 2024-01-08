@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311295184838 |
-| Players | 4/8 |
-| Host Name | Похуй |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:26:34 |
+| Lobby ID | 28595311296441111 |
+| Players | 1/8 |
+| Host Name | Elysium |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:27:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -101,42 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:24:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311296404110 |
-| Players | 9/15 |
-| Host Name | NASA |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:27:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311296437725 |
-| Players | 4/10 |
-| Host Name | КРАСАВЧИК ЕСЛИ НЕ ЧИТЕР |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:27:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311296411551 |
-| Players | 9/10 |
-| Host Name | Brenphair |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:27:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311296441111 |
-| Players | 1/8 |
-| Host Name | Elysium |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:27:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311296467237 |
@@ -144,6 +108,60 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | talentless |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:27:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311296437725 |
+| Players | 9/10 |
+| Host Name | КРАСАВЧИК ЕСЛИ НЕ ЧИТЕР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:27:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311296744249 |
+| Players | 1/10 |
+| Host Name | Z+ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:28:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311296790687 |
+| Players | 2/15 |
+| Host Name | Piсkachu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:28:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311296814980 |
+| Players | 2/10 |
+| Host Name | Маркетплейс |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:28:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311296817668 |
+| Players | 2/10 |
+| Host Name | 龙 lóng |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:28:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311296404110 |
+| Players | 10/15 |
+| Host Name | Трахозавр |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:27:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311295047284 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Amazon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:26:26 |
@@ -167,18 +185,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311294768403 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | шлёпки скайп |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:26:09 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595311296592533 |
-| Players | 2/7 |
-| Host Name | PorplZombie |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:28:01 |
 
 
