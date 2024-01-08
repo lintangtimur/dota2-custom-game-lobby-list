@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310953357222 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | bungee |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:17:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310952388756 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Сасай Кудасай |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:43 |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | クリシャ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310952187949 |
-| Players | 6/10 |
-| Host Name | невермор |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:16:31 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595310953439131 |
-| Players | 4/7 |
-| Host Name | ✠𝕊𝖕𝖎𝖉𝖊𝖗✠ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 19:17:46 |
 
 
