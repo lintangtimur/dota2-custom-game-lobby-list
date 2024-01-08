@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311177826040 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 勝利 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:32:34 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311171439370 |
-| Players | 22/24 |
-| Host Name | An Opportunity |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 22:27:04 |
+| Lobby ID | 28595311178422066 |
+| Players | 2/24 |
+| Host Name | 浮生幻梦 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 22:33:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311178313525 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Бабушка Стрея |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:33:00 |
@@ -113,25 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311175425470 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Heen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:30:26 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311174510735 |
-| Players | 2/5 |
-| Host Name | Hunt Hoe-Down |
-| Region | INDIA |
-| Lobby Creation Time | Monday, January 8, 2024 22:29:38 |
+| Lobby ID | 28595311176837778 |
+| Players | 1/10 |
+| Host Name | ? ? ? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 22:31:41 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311175517662 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | deus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:30:31 |
@@ -149,18 +149,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311176333708 |
-| Players | 3/5 |
-| Host Name | ✧血まみれのカエル✧ |
+| Players | 1/5 |
+| Host Name | AMER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:31:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311176837778 |
-| Players | 1/10 |
-| Host Name | ? ? ? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 22:31:41 |
+| Lobby ID | 28595311178530184 |
+| Players | 1/5 |
+| Host Name | Hunt Hoe-Down |
+| Region | INDIA |
+| Lobby Creation Time | Monday, January 8, 2024 22:33:12 |
 
 
