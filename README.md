@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311544319828 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | < Self > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:31:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311543443629 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | calla peluchin |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:30:07 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311544360247 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Самый слабый троль в мире |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:31:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311544498205 |
-| Players | 1/15 |
-| Host Name | аааа блять помогите |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:31:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311544339546 |
-| Players | 7/10 |
-| Host Name | gay-annihilator |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:31:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,10 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:27:00 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311544523156 |
+| Players | 1/10 |
+| Host Name | Mckley godota2.com |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:31:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311544608204 |
+| Players | 1/15 |
+| Host Name | Shrek Mập Địt |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:32:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311541939413 |
+| Players | 9/10 |
+| Host Name | big boss |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:27:36 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311540725088 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | péricles-atéquedurou.mp3 |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:25:35 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311541482354 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Haron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:26:50 |
