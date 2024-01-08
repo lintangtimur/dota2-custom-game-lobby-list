@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311451262696 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | c.354.1_OOKA_EREF |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:19:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311450406653 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | 123w |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:18:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311444512887 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | GrandPa |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:10:48 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311448833066 |
-| Players | 3/10 |
-| Host Name | bamboozled |
+| Players | 5/10 |
+| Host Name | dal zazu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:16:12 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311448036220 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Logan |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:15:11 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311451373969 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | мама звонит |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:19:20 |
@@ -153,6 +153,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Conq |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:19:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311451468204 |
+| Players | 1/8 |
+| Host Name | Блинк в пиварню |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:19:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311451532703 |
+| Players | 1/8 |
+| Host Name | V |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:19:32 |
 
 
 |  | epic_boss_fight_nightmare |
