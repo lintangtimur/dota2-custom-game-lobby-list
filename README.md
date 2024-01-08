@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847777014 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ШАЙГИТЛЕРШАЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310848521222 |
+| Players | 2/15 |
+| Host Name | 0_0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310848522315 |
+| Players | 1/15 |
+| Host Name | GyattZilla |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,19 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310848353285 |
-| Players | 1/10 |
-| Host Name | 无言灬剧终 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Monday, January 8, 2024 17:08:22 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310848385426 |
-| Players | 1/5 |
-| Host Name | Shrekas |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:08:25 |
+| Lobby ID | 28595310848510388 |
+| Players | 2/10 |
+| Host Name | 𝓢𝓵𝓪𝓴𝓲𝓬𝓱 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:08:36 |
 
 
