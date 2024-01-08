@@ -11,28 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310826871100 |
-| Players | 14/15 |
-| Host Name | Черное Авокадо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:35:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310826972203 |
-| Players | 5/8 |
-| Host Name | aC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:35:30 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310826631152 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Traktoristo младший |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:34:57 |
@@ -40,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310825661387 |
-| Players | 1/8 |
-| Host Name | 1273438276 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Monday, January 8, 2024 16:33:24 |
+| Lobby ID | 28595310826972203 |
+| Players | 6/8 |
+| Host Name | aC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:35:30 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310825939175 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Nyx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:33:51 |
