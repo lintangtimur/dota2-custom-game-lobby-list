@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | NapoleonTD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311474201939 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:48:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311475366559 |
-| Players | 9/10 |
-| Host Name | tchitchinadze1 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:49:52 |
+| Lobby ID | 28595311476107916 |
+| Players | 1/8 |
+| Host Name | РОТ ПОЛОН СОЛИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:50:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311475898839 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | из-за тебя |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:50:35 |
@@ -83,22 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 03:50:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311475972174 |
-| Players | 3/10 |
-| Host Name | Drykan |
+| Lobby ID | 28595311476127958 |
+| Players | 1/8 |
+| Host Name | homixide |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:50:41 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:50:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311476009396 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | M_U_G_I_V_A_R_A |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:50:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311476173017 |
+| Players | 3/10 |
+| Host Name | portal321 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:50:57 |
 
 
 |  | epic_boss_fight_nightmare |
