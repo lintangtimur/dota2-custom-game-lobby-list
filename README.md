@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310793206827 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | dead outside |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:39:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310791250836 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Ayesha♥♥♥ |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310793203603 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | crimento |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:39:30 |
@@ -104,16 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310793295193 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Nesar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:39:39 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310793381900 |
+| Players | 1/24 |
+| Host Name | FU Marvel |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 15:39:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310789946136 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Maestro Show |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:51 |
@@ -126,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pachunya |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28595310793298803 |
-| Players | 1/10 |
-| Host Name | 起个名真纠结 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:39:40 |
 
 
