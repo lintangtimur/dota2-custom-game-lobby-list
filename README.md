@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486816283 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | (♦ GhOsT ♦) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:05:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311488996725 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | mode: CUM ON |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:08:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311486201365 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Ruunzayndae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311488445622 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | garou3456 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:07:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311487617075 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | shuba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:06:12 |
@@ -77,34 +77,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311485215712 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | la bika me hizo mejor |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:02:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311488890909 |
-| Players | 6/10 |
-| Host Name | Hans Zimmer |
+| Lobby ID | 28595311489170055 |
+| Players | 1/8 |
+| Host Name | ㄠᴍᴀʟɪɴᴏᴠsᴋʏㄠ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:07:54 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:08:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311488924896 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Clever Tactick But Fail |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:07:57 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311489094514 |
+| Players | 2/10 |
+| Host Name | Jet |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:08:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311489214383 |
+| Players | 1/15 |
+| Host Name | †Lopestark† |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:08:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311486889857 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Someone |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:05:14 |
