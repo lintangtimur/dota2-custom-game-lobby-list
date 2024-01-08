@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311358722464 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | jimmylzm |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 01:32:34 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311573546233 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | sempiternal雨 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:23:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311573623071 |
-| Players | 3/8 |
-| Host Name | PrinceOFPersia |
-| Region | EUROPE |
+| Lobby ID | 28595311573617450 |
+| Players | 1/24 |
+| Host Name | For Thaina Fields |
+| Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:24:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311573134390 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Насвай Кумысович |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:23:04 |
@@ -85,11 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311573617450 |
+| Lobby ID | 28595311573685898 |
 | Players | 1/24 |
-| Host Name | For Thaina Fields |
+| Host Name | J.N. |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:24:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311573669117 |
+| Players | 3/10 |
+| Host Name | d0kk |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:24:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311573729534 |
+| Players | 2/24 |
+| Host Name | Bosta Grande |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:24:00 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:24:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sakata Gintoki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:21:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311573689821 |
+| Players | 1/10 |
+| Host Name | Сергей Солодовни |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:24:08 |
 
 
