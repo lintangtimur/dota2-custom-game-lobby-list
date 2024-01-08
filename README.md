@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789752472 |
-| Players | 7/24 |
-| Host Name | Changretta |
+| Players | 3/24 |
+| Host Name | Desterrado |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
 
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:36:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310793203603 |
-| Players | 23/24 |
-| Host Name | crimento |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:39:30 |
+| Lobby ID | 28595310795966057 |
+| Players | 9/10 |
+| Host Name | Собянин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 15:44:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:41:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310795939691 |
-| Players | 13/15 |
-| Host Name | Выключатель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:44:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310795966057 |
-| Players | 7/10 |
-| Host Name | Собянин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:44:27 |
+| Lobby ID | 28595310796609178 |
+| Players | 1/8 |
+| Host Name | beautiful pain |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 15:45:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -128,12 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:43:44 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28595310796514904 |
-| Players | 1/5 |
+| Lobby ID | 28595310796582228 |
+| Players | 1/7 |
 | Host Name | BipøLar |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 15:45:24 |
+| Lobby Creation Time | Monday, January 8, 2024 15:45:31 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310796632342 |
+| Players | 1/5 |
+| Host Name | антоша гриффит |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 15:45:36 |
 
 
