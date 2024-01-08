@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310952388756 |
-| Players | 19/24 |
+| Players | 17/24 |
 | Host Name | Сасай Кудасай |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:16:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310959493176 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | no comment |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:23:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310959271789 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | SapkA <3 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:23:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310959448091 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:23:39 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310959840166 |
+| Lobby ID | 28595310959981542 |
 | Players | 1/15 |
 | Host Name | нежныерукидеда |
 | Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 19:24:02 |
+| Lobby Creation Time | Monday, January 8, 2024 19:24:10 |
 
 
 |  | epic_boss_fight_hard |
