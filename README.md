@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311213742711 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | идиот |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:06:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311213919224 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 23:06:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311214288689 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | still training |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 23:06:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311095506349 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | PMA |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, January 8, 2024 21:23:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311209780691 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Maxsteel NAZI (EL PEPO) |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 23:02:37 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kratos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 23:06:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311214491375 |
+| Players | 2/15 |
+| Host Name | ttabq.℃om找妹看片手机浏览器打开 |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 23:07:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -137,12 +146,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:55:26 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28595311214344876 |
-| Players | 2/7 |
-| Host Name | antreqim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 23:06:58 |
+| Lobby ID | 28595311214436938 |
+| Players | 1/7 |
+| Host Name | Fuckyeah |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 23:07:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311214522396 |
+| Players | 1/5 |
+| Host Name | StIngeR |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 23:07:09 |
 
 
