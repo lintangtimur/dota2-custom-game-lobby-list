@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311152919165 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Dr. Brandy |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:13:08 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:12:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311153280420 |
-| Players | 2/8 |
-| Host Name | Type R |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 22:13:27 |
+| Lobby ID | 28595311154234262 |
+| Players | 5/15 |
+| Host Name | Aylardex Vlael |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:14:16 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311149861515 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Летучий Афганец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:10:26 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311152787451 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | dubov prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:13:01 |
@@ -153,6 +153,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 2T |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:10:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311149296044 |
+| Players | 7/10 |
+| Host Name | Serpent |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 22:09:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311150014763 |
+| Players | 6/10 |
+| Host Name | dominic. |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:10:34 |
 
 
 |  | epic_boss_fight_nightmare |
