@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310873570939 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | wen1x |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:44:17 |
@@ -58,17 +58,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310874103671 |
-| Players | 1/15 |
-| Host Name | 風は予告なく吹く |
+| Lobby ID | 28595310874157331 |
+| Players | 8/15 |
+| Host Name | MeĐo |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:45:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310874181493 |
+| Players | 1/24 |
+| Host Name | arhikent |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:45:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310874227774 |
+| Players | 1/24 |
+| Host Name | berhala kena reject |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 17:45:00 |
+| Lobby Creation Time | Monday, January 8, 2024 17:45:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310874245833 |
+| Players | 7/8 |
+| Host Name | dorlikk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 17:45:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310867035748 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | SpEEDRunMSK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:35:17 |
@@ -81,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Baba Yega |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:43:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310874158404 |
+| Players | 1/5 |
+| Host Name | What? |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:45:04 |
 
 
