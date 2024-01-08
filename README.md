@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310791831208 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Doyki.Xddcc.fullpohuy |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 15:37:07 |
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Осел |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:36:38 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28595310791835099 |
-| Players | 1/7 |
-| Host Name | Teletambis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:37:08 |
 
 
