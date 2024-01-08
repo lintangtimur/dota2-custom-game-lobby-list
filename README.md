@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311180839787 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | BringMeToLife |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:35:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311179287740 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | nemec1306 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 22:33:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311177780816 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | ☁ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:32:32 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311180379344 |
-| Players | 5/8 |
-| Host Name | стрей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:34:51 |
+| Lobby ID | 28595311181129013 |
+| Players | 1/8 |
+| Host Name | Матвей пуки каки |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 22:35:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311178422066 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | 浮生幻梦 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 22:33:06 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311180962503 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Mikisha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:35:22 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311180855116 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | meme |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 22:35:17 |
@@ -119,22 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:34:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311180026227 |
-| Players | 12/15 |
-| Host Name | Monkey D Luffy |
+| Lobby ID | 28595311181123063 |
+| Players | 8/10 |
+| Host Name | King.Grigori |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:34:32 |
+| Lobby Creation Time | Monday, January 8, 2024 22:35:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311181027688 |
+| Lobby ID | 28595311181240036 |
 | Players | 1/15 |
 | Host Name | shadow |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, January 8, 2024 22:35:26 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:35:37 |
 
 
 |  | epic_boss_fight_normal |
@@ -157,11 +157,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311180082884 |
-| Players | 2/10 |
-| Host Name | EPIC BOSS FIGHT ENJOYER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 22:34:35 |
+| Lobby ID | 28595311179894645 |
+| Players | 5/10 |
+| Host Name | 654 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 22:34:25 |
 
 
 |  | epic_boss_fight_normal |
@@ -173,21 +173,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 22:34:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311179894645 |
-| Players | 5/10 |
-| Host Name | 654 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 22:34:25 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595311181048716 |
-| Players | 2/7 |
-| Host Name | ne micagek |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 22:35:27 |
+| Lobby ID | 28595311181217453 |
+| Players | 1/5 |
+| Host Name | Nicc o Tynne |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 22:35:36 |
 
 
