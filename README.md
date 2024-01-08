@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311580421755 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:37:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311582531993 |
-| Players | 7/8 |
-| Host Name | Kukurudza Striptizerka |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:41:16 |
+| Lobby ID | 28595311582683182 |
+| Players | 4/10 |
+| Host Name | SALAMANDER_KING |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:41:35 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311582213701 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:40:38 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 04:04:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311582275834 |
-| Players | 13/15 |
-| Host Name | Migs |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:40:45 |
+| Lobby ID | 28595311583334867 |
+| Players | 1/8 |
+| Host Name | melsk1ck |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:42:54 |
 
 
 |  | ot3_desert_octet |
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311582513414 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Ash |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:41:14 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311582683182 |
-| Players | 4/10 |
-| Host Name | SALAMANDER_KING |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:41:35 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311582897138 |
-| Players | 13/15 |
-| Host Name | THC Enjoyer |
+| Lobby ID | 28595311583382173 |
+| Players | 1/15 |
+| Host Name | UPnDown |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:42:00 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:43:00 |
 
 
 |  | epic_boss_fight_nightmare |
