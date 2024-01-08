@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847490562 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:45:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310884116707 |
-| Players | 4/8 |
-| Host Name | SonOfaLich |
+| Lobby ID | 28595310884209148 |
+| Players | 4/15 |
+| Host Name | Emotional Damage |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 17:58:24 |
+| Lobby Creation Time | Monday, January 8, 2024 17:58:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:57:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310883981107 |
-| Players | 13/15 |
-| Host Name | Яблочко |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 17:58:13 |
+| Lobby ID | 28595310884168778 |
+| Players | 2/24 |
+| Host Name | Teudoongie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:58:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:58:20 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310884168778 |
-| Players | 1/24 |
-| Host Name | Teudoongie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 17:58:28 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310881010544 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Baba Yega |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 17:54:17 |
