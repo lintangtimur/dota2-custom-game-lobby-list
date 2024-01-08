@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311027064587 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | himera人生 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:25:23 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 20:25:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311027029002 |
-| Players | 1/15 |
-| Host Name | Б У Л О Ч К А С П О В И Д Л О М |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:25:21 |
+| Lobby ID | 28595311027255477 |
+| Players | 3/24 |
+| Host Name | アイシテル |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 20:25:32 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311027149957 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | MS for Hope |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:25:27 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310982279507 |
-| Players | 5/10 |
+| Players | 2/10 |
 | Host Name | Tess Tickles |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, January 8, 2024 19:45:21 |
@@ -131,18 +131,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311026570461 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | verfsa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:24:57 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311027156254 |
-| Players | 1/7 |
+| Lobby ID | 28595311027363020 |
+| Players | 1/5 |
 | Host Name | Nani? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:25:27 |
+| Lobby Creation Time | Monday, January 8, 2024 20:25:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595311027378010 |
+| Players | 2/5 |
+| Host Name | ЛИСТВЕННИЦА |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 20:25:39 |
 
 
