@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311545037971 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Swanky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:32:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311545199347 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Joel |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:33:03 |
@@ -101,6 +101,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:33:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311545274283 |
+| Players | 5/8 |
+| Host Name | Пудовые Кулачища |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:33:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311541584473 |
+| Players | 13/15 |
+| Host Name | Leyo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:27:00 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311540725088 |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311541482354 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Haron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:26:50 |
