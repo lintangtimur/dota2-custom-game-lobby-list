@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:51:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310797906987 |
-| Players | 21/24 |
-| Host Name | Envy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:47:49 |
+| Lobby ID | 28595310798267117 |
+| Players | 14/15 |
+| Host Name | smtg here |
+| Region | USEAST |
+| Lobby Creation Time | Monday, January 8, 2024 15:48:25 |
 
 
 |  | ot3_desert_octet |
@@ -50,17 +50,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310800512270 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 死 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:52:16 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310800621152 |
+| Players | 2/24 |
+| Host Name | Pandora's Actor™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 15:52:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310800643213 |
+| Players | 1/10 |
+| Host Name | sweet pain |
+| Region | USWEST |
+| Lobby Creation Time | Monday, January 8, 2024 15:52:30 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310797235687 |
-| Players | 4/10 |
-| Host Name | Poseidon |
+| Players | 3/10 |
+| Host Name | Dome_Cheshire4Life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 15:46:38 |
 
@@ -77,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310798556503 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ЛЕНИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:48:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310800589888 |
+| Players | 1/5 |
+| Host Name | ENEKANDO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 15:52:24 |
 
 
