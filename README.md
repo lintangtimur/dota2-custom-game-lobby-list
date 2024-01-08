@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311410624218 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Жироменталь |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:30:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311407876077 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Caillou |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:27:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311406901207 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 𓂀*•.¸♥ THANIA♥¸.•* |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:26:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311410764768 |
-| Players | 9/15 |
+| Players | 15/15 |
 | Host Name | Быдло |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:30:58 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311410187133 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | топлю корабли кунки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:30:17 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 02:30:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311410745126 |
-| Players | 9/10 |
-| Host Name | Alpha.PvP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 02:30:56 |
+| Lobby ID | 28595311410990789 |
+| Players | 2/15 |
+| Host Name | Містер Сідр |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 02:31:14 |
 
 
 |  | epic_boss_fight_nightmare |
