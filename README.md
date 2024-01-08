@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310840992031 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Психокид |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:57:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310840385561 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Пузоотвод |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:56:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310840056516 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Despian Luluwalilith |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:55:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310841100560 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | pushin P |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:57:30 |
@@ -86,34 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310841380955 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Яндекс.Такси |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:57:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310841364969 |
-| Players | 1/15 |
-| Host Name | Zipzap |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:57:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310841391029 |
-| Players | 1/15 |
-| Host Name | ssssssssssssssssssssssssssssssss |
-| Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 16:57:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310840020439 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Сиделыч |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 16:55:52 |
