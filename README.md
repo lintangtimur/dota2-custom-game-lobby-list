@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310826871100 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Черное Авокадо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:35:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310826631152 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Traktoristo младший |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:34:57 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Danger Line |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 16:36:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310827481453 |
-| Players | 1/15 |
-| Host Name | ok. no me interesa rey |
-| Region | USEAST |
-| Lobby Creation Time | Monday, January 8, 2024 16:36:19 |
 
 
 |  | epic_boss_fight_nightmare |
