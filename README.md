@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311299481071 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Teregue |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:30:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311303742190 |
-| Players | 2/10 |
-| Host Name | blu3 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:35:17 |
+| Lobby ID | 28595311304257055 |
+| Players | 4/8 |
+| Host Name | SVIN PRIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:35:48 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311294644222 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | แง้ววววววววว |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:26:01 |
@@ -56,42 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:34:32 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311302821269 |
-| Players | 7/8 |
-| Host Name | Дима (СОСАЛ) |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:34:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311303332112 |
-| Players | 2/24 |
-| Host Name | kieve |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:34:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311290214619 |
-| Players | 9/15 |
-| Host Name | wvsvbi |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:21:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311303593649 |
-| Players | 4/8 |
-| Host Name | Zamkill |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:35:08 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311302555357 |
@@ -101,30 +65,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 00:34:04 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311303332112 |
+| Players | 1/24 |
+| Host Name | kieve |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:34:51 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311303651986 |
-| Players | 9/15 |
-| Host Name | Glimmer of Hope |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:35:11 |
+| Lobby ID | 28595311304081734 |
+| Players | 4/15 |
+| Host Name | Жека з Житомира |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:35:37 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311302227709 |
-| Players | 3/5 |
-| Host Name | ltm |
+| Lobby ID | 28595311304147282 |
+| Players | 4/15 |
+| Host Name | .dione them |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:33:44 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:35:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311304408236 |
+| Players | 2/8 |
+| Host Name | амням пиздарик |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:35:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595311302699725 |
-| Players | 6/10 |
-| Host Name | JMC |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:34:12 |
+| Lobby ID | 28595311304205274 |
+| Players | 3/10 |
+| Host Name | Skif |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:35:45 |
 
 
