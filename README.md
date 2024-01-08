@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310934219307 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ТОТАЛЬНЫЙ ФИД |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:58:02 |
@@ -67,35 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310933824010 |
-| Players | 13/15 |
-| Host Name | Save Europe |
+| Lobby ID | 28595310934443562 |
+| Players | 6/15 |
+| Host Name | q |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:57:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310933942439 |
-| Players | 5/8 |
-| Host Name | eternal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:57:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310934371164 |
-| Players | 4/8 |
-| Host Name | инштейн вада |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:58:12 |
+| Lobby Creation Time | Monday, January 8, 2024 18:58:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310929437189 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Oni |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:52:54 |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310934096133 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Helb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:57:55 |
@@ -117,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | banana |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:58:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310934369558 |
-| Players | 2/5 |
-| Host Name | surfach7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:58:12 |
 
 
