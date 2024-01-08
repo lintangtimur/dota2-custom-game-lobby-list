@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595311090027851 |
-| Players | 1/8 |
-| Host Name | 666 demons in my head |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:18:52 |
+| Lobby ID | 28595311089139717 |
+| Players | 7/24 |
+| Host Name | 浮生幻梦 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 21:18:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311062532504 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Sandro |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 20:55:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311090475755 |
-| Players | 1/15 |
+| Players | 11/15 |
 | Host Name | Las Noches |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:19:14 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311089138091 |
-| Players | 2/8 |
-| Host Name | normal? |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:18:07 |
+| Lobby ID | 28595311090564999 |
+| Players | 1/8 |
+| Host Name | 666 demons in my head |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:19:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311089950775 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | SHTO? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:18:48 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311090176587 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | ЧВК Вагнер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:18:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311089139717 |
-| Players | 7/24 |
-| Host Name | 浮生幻梦 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 21:18:07 |
+| Lobby ID | 28595311090569382 |
+| Players | 1/8 |
+| Host Name | glados #bloodrust |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:19:19 |
 
 
 |  | epic_boss_fight_nightmare |
