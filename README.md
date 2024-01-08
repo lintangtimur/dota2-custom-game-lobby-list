@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311016758907 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | okuyama. |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 20:16:32 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310932869634 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | tu cieja no jodas |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 18:56:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311017083514 |
-| Players | 7/8 |
-| Host Name | K1!!c2!! |
+| Lobby ID | 28595311017500110 |
+| Players | 7/10 |
+| Host Name | Sanyo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:16:49 |
+| Lobby Creation Time | Monday, January 8, 2024 20:17:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311016117260 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 卵虫身上的粪便 |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 20:15:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311016561913 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | ? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 20:16:22 |
@@ -95,37 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311016823681 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | TMMR |
 | Region | USEAST |
 | Lobby Creation Time | Monday, January 8, 2024 20:16:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311007004779 |
-| Players | 22/24 |
-| Host Name | Aether |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 20:07:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311017500110 |
-| Players | 1/10 |
-| Host Name | Sanyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:17:10 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311017516603 |
-| Players | 1/8 |
-| Host Name | gumi enjoyer |
+| Lobby ID | 28595311017734285 |
+| Players | 5/8 |
+| Host Name | пережил 3 аборта |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 20:17:11 |
+| Lobby Creation Time | Monday, January 8, 2024 20:17:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -137,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:45:21 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28595311013962579 |
-| Players | 7/10 |
-| Host Name | InYourDick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 20:14:04 |
+| Lobby ID | 28595311013858086 |
+| Players | 3/5 |
+| Host Name | cancer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 20:13:58 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pussy destroyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:15:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311013858086 |
-| Players | 3/5 |
-| Host Name | cancer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 20:13:58 |
 
 
