@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310805020016 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Dobraik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:59:59 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310803417619 |
-| Players | 22/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 15:57:16 |
+| Lobby ID | 28595310805123842 |
+| Players | 3/15 |
+| Host Name | ASTE1K |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 16:00:10 |
 
 
 |  | ot3_necropolis_ffa |
