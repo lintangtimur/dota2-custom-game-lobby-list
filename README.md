@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310847490562 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, January 8, 2024 17:07:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310881173093 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Delirium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:54:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310880893213 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Сладкий бубалех |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:54:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310881207568 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | anita max wyn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 17:54:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310881362358 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Отчимус Прайм |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 17:54:45 |
