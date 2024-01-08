@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310949516436 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | ulalilel5 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:13:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310948770659 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Анальный Маэстро |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:13:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310901586895 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310948631485 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | かcса#2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 19:12:57 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310949266146 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | yuchisan |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:13:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310949751613 |
+| Players | 4/8 |
+| Host Name | blossom_orchid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 19:14:05 |
 
 
 |  | epic_boss_fight_challenger |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 千面之王法拉利 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 19:12:47 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595310949696657 |
+| Players | 2/7 |
+| Host Name | DimASS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 19:14:01 |
 
 
