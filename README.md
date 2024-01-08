@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311071412702 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | [AbF]120 см жести |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:03:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311070805106 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 米粉 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 21:02:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311062532504 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ǝʞıN |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 20:55:47 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311050205057 |
-| Players | 7/8 |
-| Host Name | NeverGiveUp |
-| Region | PERU |
-| Lobby Creation Time | Monday, January 8, 2024 20:45:14 |
+| Lobby ID | 28595311072292598 |
+| Players | 6/8 |
+| Host Name | ToxicHood |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 21:04:00 |
 
 
 |  | ot3_desert_octet |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:03:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311072055922 |
-| Players | 8/15 |
-| Host Name | 動畫史萊克 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 21:03:49 |
+| Lobby ID | 28595311072609028 |
+| Players | 1/10 |
+| Host Name | Kirito |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 21:04:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311071426820 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 21:03:17 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 21:03:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311072292598 |
-| Players | 6/8 |
-| Host Name | ToxicHood |
+| Lobby ID | 28595311072692736 |
+| Players | 1/15 |
+| Host Name | Beat Takeshi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:04:00 |
+| Lobby Creation Time | Monday, January 8, 2024 21:04:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311063844177 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | SWAP COMMENDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 20:56:54 |
