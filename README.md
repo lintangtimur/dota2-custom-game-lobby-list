@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311580317167 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Yolo |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:36:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311578525380 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:33:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311580347672 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | . |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:36:54 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311578398565 |
-| Players | 5/8 |
-| Host Name | VoDka-KimimarO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:33:06 |
+| Lobby ID | 28595311580715116 |
+| Players | 1/8 |
+| Host Name | ;_; |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:37:38 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311580393229 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Agua |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:36:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311580421755 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:37:03 |
@@ -95,18 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311580309805 |
-| Players | 4/8 |
-| Host Name | Armik1771 |
+| Players | 3/8 |
+| Host Name | Попускная машина |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:36:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311580340979 |
-| Players | 11/15 |
-| Host Name | 🔪 |
+| Lobby ID | 28595311580782417 |
+| Players | 2/15 |
+| Host Name | Adonna |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:36:53 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:37:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311580787915 |
+| Players | 1/10 |
+| Host Name | ~;,,;~ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:37:46 |
 
 
