@@ -20,33 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:24:21 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595310817163854 |
-| Players | 21/24 |
-| Host Name | TheBlindShibaInuSaekssiya |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:19:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310820518856 |
-| Players | 7/8 |
-| Host Name | mein |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:25:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310820298759 |
-| Players | 5/10 |
-| Host Name | SSH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:24:44 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310820296649 |
@@ -58,20 +31,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310820337416 |
+| Lobby ID | 28595310820465987 |
 | Players | 2/8 |
-| Host Name | black&black |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 16:24:47 |
+| Host Name | Рапес |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:25:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310820298759 |
+| Players | 7/10 |
+| Host Name | SSH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 16:24:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310820465987 |
+| Lobby ID | 28595310820714952 |
 | Players | 1/8 |
-| Host Name | Рапес |
+| Host Name | BORZ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:25:00 |
+| Lobby Creation Time | Monday, January 8, 2024 16:25:24 |
 
 
 |  | epic_boss_fight_hard |
