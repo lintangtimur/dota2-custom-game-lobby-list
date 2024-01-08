@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311449491682 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Arieanna Zein |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:17:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311458011493 |
-| Players | 6/10 |
-| Host Name | GSlayer |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:27:36 |
+| Lobby ID | 28595311458055799 |
+| Players | 3/8 |
+| Host Name | Михаил Горшенёв |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:27:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311456453153 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | twitch |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:25:39 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 01:38:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311455770077 |
-| Players | 7/8 |
-| Host Name | 123 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:24:47 |
+| Lobby ID | 28595311457506315 |
+| Players | 6/15 |
+| Host Name | TMMR |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:26:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311457313049 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:26:43 |
@@ -92,37 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 03:24:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311457506315 |
-| Players | 6/15 |
-| Host Name | TMMR |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:26:58 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311457955040 |
-| Players | 4/8 |
-| Host Name | Твоя магия грешна |
+| Lobby ID | 28595311458233902 |
+| Players | 1/8 |
+| Host Name | [KillJoy] KOKERforJOKER |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:27:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311458055799 |
-| Players | 3/8 |
-| Host Name | Михаил Горшенёв |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:27:39 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:27:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311457345727 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Yukinoshito YukiNon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:26:46 |
