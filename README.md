@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310857100314 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Калдун |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 17:21:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595310856977529 |
+| Players | 5/10 |
+| Host Name | Пивозавр |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:21:03 |
 
 
 |  | epic_boss_fight_nightmare |
