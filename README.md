@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310912743522 |
-| Players | 13/15 |
-| Host Name | Shabilov |
+| Lobby ID | 28595310913548206 |
+| Players | 3/8 |
+| Host Name | First dance |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:33:45 |
+| Lobby Creation Time | Monday, January 8, 2024 18:34:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310913051526 |
-| Players | 6/8 |
-| Host Name | топ 1 рофлинка |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:34:07 |
+| Lobby ID | 28595310913302953 |
+| Players | 17/24 |
+| Host Name | 'le Yan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 18:34:24 |
 
 
 |  | ot3_gardens_duo |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310913302953 |
-| Players | 10/24 |
-| Host Name | 'le Yan |
+| Lobby ID | 28595310909333053 |
+| Players | 23/24 |
+| Host Name | Elune || 嘘月 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:34:24 |
+| Lobby Creation Time | Monday, January 8, 2024 18:29:43 |
 
 
 |  | epic_boss_fight_normal |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310913467906 |
+| Lobby ID | 28595310913570955 |
 | Players | 1/10 |
 | Host Name | -Bijan- |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 18:34:36 |
+| Lobby Creation Time | Monday, January 8, 2024 18:34:43 |
 
 
