@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311312132740 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | -qwerty |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:43:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311313048077 |
-| Players | 6/8 |
-| Host Name | 11111 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:44:50 |
+| Lobby ID | 28595311313240178 |
+| Players | 1/10 |
+| Host Name | jugeinio |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:45:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311313174128 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | SLiME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:44:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311312300780 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Хлібинка |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:44:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311312084306 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | ICE BEAR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:43:49 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311313279690 |
+| Lobby ID | 28595311313443480 |
 | Players | 5/8 |
-| Host Name | The man has no name |
+| Host Name | задоджил аборт |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:45:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311313240178 |
-| Players | 1/10 |
-| Host Name | jugeinio |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:45:02 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:45:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28595311311706446 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | Primordialb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:43:25 |
@@ -122,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311313038283 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | GigaN1gga |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:44:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28595311313471475 |
+| Players | 1/10 |
+| Host Name | Mina ぱす ⭕ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:45:16 |
 
 
