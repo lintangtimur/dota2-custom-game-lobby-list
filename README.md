@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311439548226 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Jr |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:04:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311439186000 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | lepeva07 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:04:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311438609145 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | To Fu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:03:39 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311435095177 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Hassuni enabler |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, January 9, 2024 02:59:29 |
@@ -112,47 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311439833651 |
+| Lobby ID | 28595311439407008 |
 | Players | 7/8 |
-| Host Name | Пожилой воин |
+| Host Name | HounkinBrausers |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:05:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311439827898 |
-| Players | 12/15 |
-| Host Name | Game_Over |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:05:06 |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:04:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311439869195 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Mode: 2015/16 Payet |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:05:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311439986324 |
-| Players | 1/24 |
-| Host Name | xXcheroniemoXx |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:05:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311439930728 |
-| Players | 2/5 |
-| Host Name | Влад фёрст блад |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:05:13 |
+| Lobby ID | 28595311440089802 |
+| Players | 2/15 |
+| Host Name | Muichiro 誰も恐れない |
+| Region | INDIA |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:05:25 |
 
 
 |  | epic_boss_fight_challenger |
