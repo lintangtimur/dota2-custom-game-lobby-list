@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310930355427 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | 愚昧的恶魔 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:53:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310929253756 |
-| Players | 12/15 |
-| Host Name | OmegaLuL~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:52:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595310930802278 |
-| Players | 2/8 |
-| Host Name | sizam2013 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:54:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:53:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595310930802278 |
+| Players | 6/8 |
+| Host Name | sizam2013 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:54:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310931114625 |
+| Players | 1/15 |
+| Host Name | difteriya |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 18:54:43 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310929437189 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:52:54 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310930105043 |
-| Players | 1/5 |
-| Host Name | wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:53:37 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310930851633 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Helb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 18:54:26 |
