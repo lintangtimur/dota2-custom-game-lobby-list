@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310771502982 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ПУЛЬТ ОТ ЯДЕРКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:01:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310828137420 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Monday, January 8, 2024 16:37:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310832668629 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | zXw |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:44:45 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595310832695782 |
-| Players | 12/15 |
-| Host Name | froqsy <3 |
+| Lobby ID | 28595310833173320 |
+| Players | 1/15 |
+| Host Name | АНАЛЬНЫЙ ЦЕРБЕР |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:44:47 |
+| Lobby Creation Time | Monday, January 8, 2024 16:45:33 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:44:58 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595310832890777 |
-| Players | 1/10 |
-| Host Name | 5O10 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 16:45:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310832679167 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | WhyAlwaysMe* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 16:44:46 |
@@ -74,21 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 16:38:43 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595310833048866 |
-| Players | 1/5 |
-| Host Name | Dome_Cheshire4Life |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:45:21 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310833066288 |
-| Players | 1/10 |
+| Lobby ID | 28595310833163809 |
+| Players | 2/10 |
 | Host Name | Minez |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, January 8, 2024 16:45:23 |
+| Lobby Creation Time | Monday, January 8, 2024 16:45:32 |
 
 
