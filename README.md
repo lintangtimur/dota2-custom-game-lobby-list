@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 17:08:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310913773429 |
-| Players | 6/15 |
-| Host Name | IO |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:34:58 |
+| Lobby ID | 28595310914161938 |
+| Players | 2/8 |
+| Host Name | победилдо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:35:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,28 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 18:20:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310913288844 |
-| Players | 8/10 |
-| Host Name | Pipok |
+| Lobby ID | 28595310914376206 |
+| Players | 2/24 |
+| Host Name | torcheck(ee bb) |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:34:24 |
+| Lobby Creation Time | Monday, January 8, 2024 18:35:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28595310913838990 |
-| Players | 3/8 |
-| Host Name | midas enjoyer |
+| Lobby ID | 28595310914452656 |
+| Players | 1/24 |
+| Host Name | Van Darkholme |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:35:02 |
+| Lobby Creation Time | Monday, January 8, 2024 18:35:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310913945702 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | 🌸温柔 丶小太陽🌸 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:35:10 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310914034357 |
+| Lobby ID | 28595310914165439 |
 | Players | 6/8 |
-| Host Name | 6lankname |
+| Host Name | GENEK |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, January 8, 2024 18:35:16 |
+| Lobby Creation Time | Monday, January 8, 2024 18:35:25 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595310911769199 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Jean-Michel Beauf |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:32:37 |
