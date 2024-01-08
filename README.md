@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:16:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311537905670 |
-| Players | 6/8 |
-| Host Name | Yolo |
+| Lobby ID | 28595311538109209 |
+| Players | 3/10 |
+| Host Name | Slasher |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:21:00 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:21:20 |
 
 
 |  | ot3_gardens_duo |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311537172650 |
-| Players | 7/8 |
-| Host Name | cored1nation |
+| Lobby ID | 28595311538251031 |
+| Players | 6/8 |
+| Host Name | 哈拉德林人 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:19:49 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:21:33 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311537636856 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ☻ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:20:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311537523221 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Саша 11см |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:20:23 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311535540945 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Yūta Okkotsu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:17:08 |
@@ -126,32 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KA LE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:20:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28595311535399732 |
-| Players | 23/24 |
-| Host Name | Illusionist- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:16:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311538109209 |
-| Players | 2/10 |
-| Host Name | Slasher |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:21:20 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28595311538103859 |
-| Players | 4/7 |
-| Host Name | pdd |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:21:19 |
 
 
