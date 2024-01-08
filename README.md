@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311555710965 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Pepe El Grillo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:51:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311555925482 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Ratasor |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:51:37 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:49:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311555392543 |
-| Players | 8/10 |
-| Host Name | Illusionist |
+| Lobby ID | 28595311555441845 |
+| Players | 13/15 |
+| Host Name | Polyhedron |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:50:40 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:50:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311555903334 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | ChanitoLeebiee |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:51:35 |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, January 9, 2024 05:51:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311555441845 |
-| Players | 12/15 |
-| Host Name | Polyhedron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:50:45 |
+| Lobby ID | 28595311556188975 |
+| Players | 1/8 |
+| Host Name | Andrew |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:52:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311550828743 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CYTCYT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:42:34 |
