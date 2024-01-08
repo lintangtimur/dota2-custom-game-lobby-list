@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311215713837 |
-| Players | 14/24 |
+| Players | 10/24 |
 | Host Name | It's a NO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, January 8, 2024 23:08:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311275515391 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | 伏 ふし 黒 ぐろ 甚 とう |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:06:40 |
@@ -94,20 +94,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311275681487 |
-| Players | 9/10 |
-| Host Name | [GG]IIIkypbI-CocaKola |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:06:50 |
+| Lobby ID | 28595311276023210 |
+| Players | 2/10 |
+| Host Name | https://www.twitch.tv/goodvil |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:07:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311275137604 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Moica ;D |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:06:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311275939963 |
+| Players | 3/15 |
+| Host Name | Locomobile | The Chimney |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:07:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311276048878 |
+| Players | 2/10 |
+| Host Name | TAWeR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:07:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311276070851 |
+| Players | 1/10 |
+| Host Name | BringMeToLife |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:07:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311276087627 |
+| Players | 1/24 |
+| Host Name | ~yoKo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:07:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595311270549119 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Alfy Fox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:01:45 |
