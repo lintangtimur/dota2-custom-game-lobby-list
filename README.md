@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311478893601 |
+| Lobby ID | 28595311477387526 |
 | Players | 14/15 |
-| Host Name | ESTRIPER |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 03:54:33 |
+| Host Name | 라이덴-셀소 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 03:52:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311474604915 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | The Turn Tabler |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:48:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311478024519 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ESTE ARCONTE NO CARREA NADA ZZZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:53:24 |
@@ -104,25 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311478560042 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | EL SHOW DEL MONO PEGALON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:54:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311479157602 |
-| Players | 1/15 |
-| Host Name | Костян Железяка |
-| Region | STOCKHOLM |
+| Lobby ID | 28595311479167374 |
+| Players | 3/10 |
+| Host Name | chives |
+| Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:54:54 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28595311477476034 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Maxbob |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 03:52:40 |
