@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310728386906 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | -qwerty |
 | Region | USWEST |
 | Lobby Creation Time | Monday, January 8, 2024 13:37:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310789752472 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | BoSS |
 | Region | PERU |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595310790987937 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | sigma skibidi toilet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:35:40 |
@@ -77,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28595310789946136 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Maestro Show |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 15:33:51 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28595310791241519 |
-| Players | 4/7 |
-| Host Name | Осел |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 15:36:06 |
+| Lobby ID | 28595310791330066 |
+| Players | 2/10 |
+| Host Name | Michaelmical Romance |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 15:36:15 |
 
 
