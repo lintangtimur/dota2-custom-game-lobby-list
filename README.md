@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311299098644 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Последний самурай |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:30:34 |
@@ -95,19 +95,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311299403408 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | kill me |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:30:53 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311297580827 |
-| Players | 2/5 |
-| Host Name | Hunt Hoe-Down |
+| Lobby ID | 28595311298262706 |
+| Players | 13/15 |
+| Host Name | Daemon708 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:29:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311299434185 |
+| Players | 1/15 |
+| Host Name | Ядерный черкаш |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:29:01 |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:30:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28595311299481071 |
+| Players | 2/10 |
+| Host Name | Teregue |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:30:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311299570322 |
+| Players | 1/24 |
+| Host Name | 和气dota |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Tuesday, January 9, 2024 00:31:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JMC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, January 9, 2024 00:30:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28595311299414095 |
-| Players | 2/5 |
-| Host Name | smr1 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, January 9, 2024 00:30:53 |
 
 
