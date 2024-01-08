@@ -49,35 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310886447051 |
-| Players | 6/8 |
-| Host Name | MALEBEL TYT?? |
+| Lobby ID | 28595310887125890 |
+| Players | 4/8 |
+| Host Name | ¡Ãct1votorre? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:01:29 |
+| Lobby Creation Time | Monday, January 8, 2024 18:02:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310886661272 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | marko botoy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 18:01:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595310886420703 |
-| Players | 12/15 |
-| Host Name | Ванчер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:01:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595310886138779 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | i won't last here |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 18:01:05 |
@@ -85,10 +76,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595310887125890 |
-| Players | 4/8 |
-| Host Name | ¡Ãct1votorre? |
+| Lobby ID | 28595310887244033 |
+| Players | 2/8 |
+| Host Name | sxoqxm |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 18:02:22 |
+| Lobby Creation Time | Monday, January 8, 2024 18:02:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595310887213811 |
+| Players | 1/15 |
+| Host Name | ya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, January 8, 2024 18:02:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595310884168778 |
+| Players | 23/24 |
+| Host Name | Teudoongie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 17:58:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28595310884866856 |
+| Players | 1/5 |
+| Host Name | leraeveryday |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 17:59:24 |
 
 
