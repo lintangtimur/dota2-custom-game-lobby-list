@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311585419610 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Pivassic_Pug |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:47:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311585483982 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Hawk |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:47:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311584946105 |
-| Players | 7/8 |
+| Players | 8/8 |
 | Host Name | Rasm |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:46:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311584788448 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | PirateStation |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:45:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311584289359 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Andr3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:44:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311583584172 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Nimetal |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, January 9, 2024 06:43:25 |
@@ -85,11 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28601087708556242 |
-| Players | 1/24 |
-| Host Name | Therine |
+| Lobby ID | 28595311578217012 |
+| Players | 2/24 |
+| Host Name | QuakerOath |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, January 9, 2024 06:49:29 |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:32:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311580393229 |
+| Players | 2/24 |
+| Host Name | RiftBreaker |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:36:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28595311582213701 |
+| Players | 13/15 |
+| Host Name | Tucan Mistico :v |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, January 9, 2024 06:40:38 |
 
 
 |  | epic_boss_fight_nightmare |
