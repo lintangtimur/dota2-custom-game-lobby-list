@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311071211799 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | diabeetus |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 21:03:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311070743981 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | 从乞义幺丈从💓 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, January 8, 2024 21:02:43 |
@@ -67,20 +67,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311071351831 |
-| Players | 1/8 |
-| Host Name | WOORPOOCH |
+| Lobby ID | 28595311071421376 |
+| Players | 2/8 |
+| Host Name | PMC WAGNER GROUP |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:03:14 |
+| Lobby Creation Time | Monday, January 8, 2024 21:03:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28595311071426820 |
+| Players | 8/24 |
+| Host Name | Instantaneous Death//OT3.0 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, January 8, 2024 21:03:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28595311071412702 |
+| Players | 1/8 |
+| Host Name | [AbF]120 см жести |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 21:03:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311069991282 |
-| Players | 14/15 |
-| Host Name | Itachi Pro Killer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 21:02:05 |
+| Lobby ID | 28595311071451591 |
+| Players | 1/15 |
+| Host Name | DOTA=JUEGO BASURA |
+| Region | PERU |
+| Lobby Creation Time | Monday, January 8, 2024 21:03:19 |
 
 
 |  | epic_boss_fight_normal |
