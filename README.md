@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28595311511427035 |
-| Players | 7/8 |
-| Host Name | DEATH_KNIGHT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:39:57 |
+| Lobby ID | 28595311512643164 |
+| Players | 3/8 |
+| Host Name | ZEINI |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:41:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28595311512445266 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Pablo Brutalidad Valencia |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:41:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311511235619 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | romchyg |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:39:40 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311512300823 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Itachi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:41:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28595311512755815 |
-| Players | 1/8 |
-| Host Name | homixide |
+| Lobby ID | 28595311512827996 |
+| Players | 2/15 |
+| Host Name | Polyhedron |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:41:54 |
+| Lobby Creation Time | Tuesday, January 9, 2024 04:42:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311512602242 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:41:41 |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 04:41:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28595311512643164 |
-| Players | 2/8 |
-| Host Name | ZEINI |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:41:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28595311512767205 |
-| Players | 3/15 |
-| Host Name | Tai Lung |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, January 9, 2024 04:41:55 |
 
 
 |  | epic_boss_fight_hard |
