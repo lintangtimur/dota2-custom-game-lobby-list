@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595310991695475 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | катюшка |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, January 8, 2024 19:54:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595310988253983 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Leekholic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:50:52 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, January 8, 2024 19:54:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595310990659163 |
-| Players | 7/8 |
-| Host Name | Kärss |
+| Lobby ID | 28595310992160361 |
+| Players | 8/10 |
+| Host Name | he will win |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, January 8, 2024 19:53:06 |
+| Lobby Creation Time | Monday, January 8, 2024 19:54:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ꧁✞Ƹ̵̡Ӝ̵̨̄Ʒ✞꧂ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, January 8, 2024 19:54:25 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28595310992304167 |
+| Players | 1/7 |
+| Host Name | la1q |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, January 8, 2024 19:54:38 |
 
 
