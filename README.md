@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28595311541561767 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Sid |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:26:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28595311540997975 |
-| Players | 1/24 |
-| Host Name | dongknowaboutit |
+| Lobby ID | 28595311542713990 |
+| Players | 4/10 |
+| Host Name | tbgk7 |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:26:02 |
+| Lobby Creation Time | Tuesday, January 9, 2024 05:28:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28595311542122237 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 🥚Little Egg :3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:27:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28595311542685869 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Dea D Igami |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:28:51 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Túrin |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, January 9, 2024 05:28:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28595311542713990 |
-| Players | 2/10 |
-| Host Name | tbgk7 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, January 9, 2024 05:28:54 |
 
 
 |  | epic_boss_fight_normal |
